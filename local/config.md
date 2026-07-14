@@ -25,3 +25,10 @@ PROJECT_ROOT=/Users/mac/memex/wiki-jules-verne-36
 CORPUS_SOURCE=The Collected Works of Jules Verne (36 Novels and Short Stories) — Jules Verne
 CORPUS_LICENSE=public-domain
 CORPUS_PATH=corpus/raw/doc_final.md
+
+# Butler 实例命名（Phase 10-F，主题取自 Verne 作品人物）
+BUTLER_INSTANCE_DISCOVER=Nemo
+BUTLER_INSTANCE_CREATE=Harding
+BUTLER_INSTANCE_ENRICH=Aronnax
+BUTLER_INSTANCE_PUBLISH=Ardan
+BUTLER_INSTANCE_HOUSEKEEPING=Fogg
