@@ -138,4 +138,53 @@
 
 ---
 
-> Phase 3–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 3：语料准备（选择与校对）
+
+> **comply**: pass（Type A 单文件 epub；epub 来源 QA 分层适配）
+> **目标**：`corpus/raw/doc_final.md` 存在且结构完整，作为 Phase 4 唯一输入。
+
+### 3-0 语料来源类型判断
+- [x] 类型 **A（单文件）**，语料为单个 Calibre epub（36 works 合集，实为 35 部 ToC 独立作品）
+
+### 3-A 确认语料结构
+- [x] `corpus/raw/*.epub` 存在（doc_final.md 由本 Phase 生成）
+- [x] 列出 corpus/raw 文件：仅 1 个 epub（+ 转换产物 book.md、images/cover.jpeg）
+- [x] 导入范围（--auto 默认，全书 35 部作品全部纳入，type=chapter）
+- [x] 页面 ID 规则：`{VVV}-ch{NN}`（VVV 见 ref/chapter-order.md），短篇无章节者单页
+
+### 3-B epub 转换与校验
+- [x] pandoc epub→MD：`corpus/raw/book.md`（13M / 124k 行）+ 图片提取 images/
+- [x] 转换初步检查：文件体量合理；Calibre 输出为 styled-div（无语义标题，需 3-C2 重建）
+- [x] 章节完整性：ToC 35 部作品全部定位（reconstruct_corpus.py --detect 35/35）
+- [x] 内容抽样：20000 Leagues / Journey 正文完整，段落与斜体保留
+- [x] （--auto）转换质量自动接受，已记录 styled-div 无标题这一结构缺陷 → 3-C2 处理
+- [x] 提交转换基线 book.md（commit）
+
+### 3-C 文本质检
+- [x] PRE15/PRE16（图像 QA）：epub 纯文字来源，跳过
+- [x] PRE9（OCR QA）：epub 数字来源 → 仅公式配对/标题层级；散文小说无公式，无实质命中
+- [x] PRE6（断行修复）：epub 来源，跳过
+- [x] （degraded）深度形近字/残留物扫描不适用于英文 public-domain 散文
+
+### 3-C2 重建章节结构
+- [x] **PRE18 等效**：`wiki/scripts/reconstruct_corpus.py` 从 styled-div 重建 `#`/`##` 结构
+  - 35 部作品边界（ToC 标题匹配 + 别名表）
+  - 908 章节标题（CHAPTER/PART/BOOK/LETTER 罗马或阿拉伯编号，含小标题折叠）
+  - 清洗 Calibre 噪声（`:::` 围栏 0 / `[]{#anchor}` 0 / svg 0）
+- [x] 验证：`ref/chapter-order.md` 生成，35 works / 908 chapters，短篇正确显示 0 章
+
+### 3-D Pre-PN Lint 检查
+- [x] LNT11（脚注完整性）：本合集散文无系统脚注，跳过
+- [x] LNT12（非拉丁 OCR）：全英文，无命中
+- [x] `:::` 块语法扫描：doc_final 无 `:::` 残留
+
+### 3-E 生成语料终稿
+- [x] `corpus/raw/doc_final.md` 生成（12M，35 `#` + 908 `##`）
+- [x] 内容完整性确认（段落间空行保留，反斜杠转义已清理）
+- [x] 提交语料终稿 + reconstruct_corpus.py + ref/chapter-order.md
+
+> **Phase 3 检查点**：doc_final.md 已就绪，等待用户复核后进入 Phase 4。
+
+---
+
+> Phase 4–10 待逐一 `/boot init phaseN` 实例化后执行。
