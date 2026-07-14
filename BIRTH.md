@@ -187,4 +187,69 @@
 
 ---
 
-> Phase 4–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 4：章节导入与目录
+
+> **comply**: pass（anthology 适配；单书共享工具 → 自建 build_chapter_pages.py / generate_toc.py）
+> **分桶结构检查**（Phase 启动时 + 每个写 pages/ 步骤后执行）：
+> `python3 wiki/scripts/lint_bucket_structure.py --fix`
+> 确保 `docs/wiki/pages/` 和 `docs/wiki/history/` 根目录无直接 `.md` 文件（详见 `LNT16`）。
+>
+> **前置条件**：`corpus/raw/doc_final.md` 存在（Phase 3 完成标志）。
+> **目标**：所有章节以 `type: chapter` 页面进入 Wiki，首页出现书籍结构导航，读者可按作品/章节入口阅读。
+> **本 Phase 不做 PN**——内容原文导入即可，PN 留 Phase 5。
+
+---
+
+### 4-A 编写章节导入脚本
+
+- [x] 导入前确认：`LAW.md` 语料页类型为 `chapter`，`types.js` 有 `chapter` 键。
+- [x] 创建 `wiki/scripts/build_chapter_pages.py`（anthology 版，参考 `$MEMEX_ROOT` 模式）：
+  - 读取 `corpus/raw/doc_final.md`，`#`=作品、`##`=章节（PART 分卷头仅分组不成页）
+  - 写入路径经 `from page_bucket import page_bucket` + `page_bucket(slug)` 分桶（禁止自建算法）
+  - frontmatter：`id/type:chapter/label/description/book/chapter/book_seq/pn_prefix/part?/tags:[chapter]`
+  - 不插入 PN，保留原文结构；段落间保留空行
+  - `label` 经 `clean_label` 归一（去反斜杠转义、成对直引号→弯引号），使 frontmatter / pages.json / EXPECTED_CHAPTERS 三处一致
+- [x] 执行脚本：写入 968 章节页（35 部作品），生成 chapter_map.json + local/chapter_list.py
+
+**epub 来源 post-import 规范化流水线：**
+
+```bash
+export WIKI_ROOT="$PWD"
+SCRIPTS="$MEMEX_ROOT/wiki/scripts"
+```
+
+- [x] `extract_epub_images.py` — 语料为 Calibre 纯文字重构稿（doc_final.md），无正文插图，跳过
+- [x] `normalize_pandoc_spans.py` — 执行，去 `{.calibreN}` 等展示 span
+- [x] `normalize_fig_blocks.py` — 无 `{.fig-num}` 图注，N/A
+- [x] `normalize_table_blocks.py` — 重构稿无 grid table，N/A
+- [x] `lint_list_spacing.py` — 无列表标记缺格，N/A
+- [x] `normalize_xhtml_links.py` — 重构稿无 epub xhtml 跨章链接，N/A
+- [x] `build_page_map.py` — 重构稿无 `page_N` 锚点，跳过
+- [x] `normalize_page_links.py` — 无页码链接，N/A
+- [x] `build_section_anchor_map.py` / `inject_section_anchors.py` — 无 section 锚点源，跳过
+- [x] `normalize_paragraph_spacing.py` — 执行，`--dir docs/wiki/pages`，段落间距合规
+- [x] `lint_bucket_structure.py --fix` — 分桶合规，pages/ 根目录无直接 .md
+
+### 4-B 创建 Contents 目录页
+
+TOC 页面标准：`en` → `TOC.md`，type=overview。
+
+- [x] 执行 `generate_toc.py`（anthology 版）：按 book_seq 分组，每部作品一个二级标题，其下列各章 wikilink。写入 35 部作品 / 968 章链接 → `docs/wiki/pages/to/TOC.md`
+- [x] 将 TOC id 加入 `local/config/home.js` PREFACE_IDS：`export const PREFACE_IDS = ['TOC'];`
+- [x] 访问 `#TOC` 确认目录页可渲染、链接可跳转（CHK13 D05 确认 wikilink 可解析，page_count=970 含 TOC）
+
+### 4-C 更新 home.js 接入章节导航
+
+- [x] `home.js`：`PREFACE_IDS = ['TOC']`；`APPENDIX_IDS = []`（无后置页）；SKIP_TYPES 含 chapter/list/overview
+- [x] `hero.js` `BOOK_META`：35 部作品逐卷条目，min/max 覆盖 book_seq 1–968，BOOK_DISPLAY='strip'
+
+### 4-D 验证与提交
+
+- [x] **CHK12**（chapter-integrity）：`python3 "$MEMEX_ROOT/wiki/scripts/chapter_integrity.py"` → C01–C08 全部通过 ✓。C06 为警告（anthology label=`Work — head`，与语料裸 H2 结构性不匹配，非 error）。
+- [x] **CHK13**（deploy-verify）：`./wiki-daemon.sh restart` 后 `python3 "$MEMEX_ROOT/wiki/scripts/verify_deploy.py"` → D01–D07 全部 PASS，整体结论 PASS
+- [x] 回填修订历史：hybrid 的 git 阶段因页面未提交返回 0（main 早退，未进 mtime 阶段），改用 `--mode mtime` 直接扫描工作树 → 共 970 个页面，970 条初始修订记录
+- [ ] commit `docs/wiki/pages/`、`pages.json`、`pages.lite.json`、`local/config/home.js`、`hero.js`、`chapter_map.json` 及修订历史
+
+---
+
+> Phase 5–10 待逐一 `/boot init phaseN` 实例化后执行。

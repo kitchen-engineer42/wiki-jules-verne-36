@@ -1,0 +1,50 @@
+---
+id: SC2-ch25
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XXV"
+description: "NIGHT OF DECEMBER 4th.--Curtis caught young Letourneur again in his arms, and running with him across the flooded deck deposited him safely in the sta"
+book: "The Survivors of the Chancellor"
+chapter: 853
+book_seq: 853
+pn_prefix: "SC2-025"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XXV
+
+NIGHT OF DECEMBER 4th.--Curtis caught young Letourneur again in his arms, and running with him across the flooded deck deposited him safely in the starboard shrouds, whither his father and I climbed up beside him.
+
+I now had time to look about me. The night was not very dark, and I could see that Curtis had returned to his post upon the poop; whilst in the extreme aft near the taffrail, which was still above water, I could distinguish the forms of Mr. and Mrs. Kear, Miss Herbey, and Mr. Falsten The lieutenant and the boatswain were on the far end of the forecastle; the remainder of the crew in the shrouds and top-masts.
+
+By the assistance of his father, who carefully guided his feet up the rigging, Andre was hoisted into the main-top. Mrs. Kear could not be induced to join him in his elevated position, in spite of being told that if the wind were to freshen she would inevitably be washed overboard by the waves; nothing could induce her to listen to remonstrance, and she insisted upon remaining on the poop, Miss Herbey, of course, staying by her side.
+
+As soon as the captain saw the "Chancellor" was no longer sinking, he set to work to take down all the sails, yards and all, and the top-gallants, in the hope that by removing everything that could compromise the equilibrium of the ship he might diminish the chance of her capsizing altogether.
+
+"But may she not founder at any moment?" I said to Curtis, when I had joined him for a while upon the poop.
+
+"Everything depends upon the weather," he replied, in his calmest manner; "that, of course, may change at any hour. One thing, however, is certain, the 'Chancellor' preserves her equilibrium for the present."
+
+"But do you mean to say," I further asked, "that she can sail with two feet of water over her deck?"
+
+"No, Mr. Kazallon, she can't sail, but she can drift with the wind, and if the wind remains in its present quarter, in the course of a few days we might possibly sight the coast. Besides, we shall have our raft as a last resource; in a few hours it will be ready, and at daybreak we can embark."
+
+"You have not then," I added, "abandoned all hope even yet?" I marvelled at his composure.
+
+"While there's life there's hope, you know Mr. Kazallon; out of a hundred chances, ninety-nine may be against us, but perhaps the odd one may be in our favour. Besides, I believe that our case is not without precedent. In the year 1795 a three-master, the 'Juno,' was precisely in the same half-sunk, water-logged condition as ourselves; and yet with her passengers and crew clinging to her top-masts she drifted for twenty days, until she came in sight of land, when those who had survived the deprivation and fatigue were saved. So let us not despair; let us hold on to the hope that the survivors of the 'Chancellor' may be equally fortunate."
+
+I was only too conscious that there was not much to be said in support of Curtis's sanguine view of things, and that the force of reason pointed all the other way; but I said nothing, deriving what comfort I could from the fact that the captain did not yet despond of an ultimate rescue.
+
+As it was necessary to be prepared to abandon the ship almost at a moment's notice, Dowlas was making every exertion to hurry on the construction of the raft. A little before midnight he was on the point of conveying some planks for this purpose, when, to his astonishment and horror, he found that the framework had totally disappeared. The ropes that had attached it to the vessel had snapped as she became vertically displaced, and probably it had been adrift for more than an hour.
+
+The crew were frantic at this new misfortune, and shouting "Overboard with the masts!" they began to cut down the rigging preparatory to taking possession of the masts for a new raft.
+
+But here Curtis interposed:--
+
+"Back to your places, my men; back to your places. The ship will not sink yet, so don't touch a rope until I give you leave."
+
+The firmness of the captain's voice brought the men to their senses, and although some of them could ill disguise their reluctance, all returned to their posts.
+
+When daylight had sufficiently advanced Curtis mounted the mast, and looked around for the missing raft; but it was nowhere to be seen. The sea was far too rough for the men to venture to take out the whaleboat in search of it, and there was no choice but to set to work and to construct a new raft immediately.
+
+Since the sea has become so much rougher, Mrs. Kear has been induced to leave the poop, and has managed to join M. Letourneur and his son on the main-top, where she lies in a state of complete prostration. I need hardly add that Miss Herbey continues in her unwearied attendance. The space to which these four people are limited is necessarily very small, nowhere measuring twelve feet across; to prevent them losing their balance some spars have been lashed from shroud to shroud, and for the convenience of the two ladies Curtis has contrived to make a temporary awning of a sail. Mr. Kear has installed himself with Silas Huntly on the foretop.
+
+A few cases of preserved meat and biscuit and some barrels of water, that floated between the masts after the submersion of the deck, have been hoisted to the top-masts and fastened firmly to the stays. These are now our only provisions.

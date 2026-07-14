@@ -9,13 +9,6797 @@
         "关于"
       ],
       "path": "ab/About.md"
+    },
+    "ACH-ch01": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER I",
+      "aliases": [],
+      "path": "ac/ACH-ch01.md"
+    },
+    "ACH-ch02": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER II",
+      "aliases": [],
+      "path": "ac/ACH-ch02.md"
+    },
+    "ACH-ch03": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER III",
+      "aliases": [],
+      "path": "ac/ACH-ch03.md"
+    },
+    "ACH-ch04": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER IV",
+      "aliases": [],
+      "path": "ac/ACH-ch04.md"
+    },
+    "ACH-ch05": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER V",
+      "aliases": [],
+      "path": "ac/ACH-ch05.md"
+    },
+    "ACH-ch06": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VI",
+      "aliases": [],
+      "path": "ac/ACH-ch06.md"
+    },
+    "ACH-ch07": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VII",
+      "aliases": [],
+      "path": "ac/ACH-ch07.md"
+    },
+    "ACH-ch08": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VIII",
+      "aliases": [],
+      "path": "ac/ACH-ch08.md"
+    },
+    "ACH-ch09": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER IX",
+      "aliases": [],
+      "path": "ac/ACH-ch09.md"
+    },
+    "ACH-ch10": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER X",
+      "aliases": [],
+      "path": "ac/ACH-ch10.md"
+    },
+    "ACH-ch11": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XI",
+      "aliases": [],
+      "path": "ac/ACH-ch11.md"
+    },
+    "ACH-ch12": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XII",
+      "aliases": [],
+      "path": "ac/ACH-ch12.md"
+    },
+    "ACH-ch13": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIII",
+      "aliases": [],
+      "path": "ac/ACH-ch13.md"
+    },
+    "ACH-ch14": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIV",
+      "aliases": [],
+      "path": "ac/ACH-ch14.md"
+    },
+    "ACH-ch15": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XV",
+      "aliases": [],
+      "path": "ac/ACH-ch15.md"
+    },
+    "ACH-ch16": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVI",
+      "aliases": [],
+      "path": "ac/ACH-ch16.md"
+    },
+    "ACH-ch17": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVII",
+      "aliases": [],
+      "path": "ac/ACH-ch17.md"
+    },
+    "ACH-ch18": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVIII",
+      "aliases": [],
+      "path": "ac/ACH-ch18.md"
+    },
+    "ACH-ch19": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIX",
+      "aliases": [],
+      "path": "ac/ACH-ch19.md"
+    },
+    "ACH-ch20": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XX",
+      "aliases": [],
+      "path": "ac/ACH-ch20.md"
+    },
+    "ACH-ch21": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXI",
+      "aliases": [],
+      "path": "ac/ACH-ch21.md"
+    },
+    "ACH-ch22": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXII",
+      "aliases": [],
+      "path": "ac/ACH-ch22.md"
+    },
+    "ACH-ch23": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXIII",
+      "aliases": [],
+      "path": "ac/ACH-ch23.md"
+    },
+    "ACH-ch24": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXIV",
+      "aliases": [],
+      "path": "ac/ACH-ch24.md"
+    },
+    "ACH-ch25": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXV",
+      "aliases": [],
+      "path": "ac/ACH-ch25.md"
+    },
+    "ACH-ch26": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXVI",
+      "aliases": [],
+      "path": "ac/ACH-ch26.md"
+    },
+    "ACH-ch27": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXVII",
+      "aliases": [],
+      "path": "ac/ACH-ch27.md"
+    },
+    "ACH-ch28": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXVIII",
+      "aliases": [],
+      "path": "ac/ACH-ch28.md"
+    },
+    "ACH-ch29": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXIX",
+      "aliases": [],
+      "path": "ac/ACH-ch29.md"
+    },
+    "ACH-ch30": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXX",
+      "aliases": [],
+      "path": "ac/ACH-ch30.md"
+    },
+    "ACH-ch31": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXXI",
+      "aliases": [],
+      "path": "ac/ACH-ch31.md"
+    },
+    "ACH-ch32": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXXII",
+      "aliases": [],
+      "path": "ac/ACH-ch32.md"
+    },
+    "ACH-ch33": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER I",
+      "aliases": [],
+      "path": "ac/ACH-ch33.md"
+    },
+    "ACH-ch34": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER II",
+      "aliases": [],
+      "path": "ac/ACH-ch34.md"
+    },
+    "ACH-ch35": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER III",
+      "aliases": [],
+      "path": "ac/ACH-ch35.md"
+    },
+    "ACH-ch36": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER IV",
+      "aliases": [],
+      "path": "ac/ACH-ch36.md"
+    },
+    "ACH-ch37": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER V",
+      "aliases": [],
+      "path": "ac/ACH-ch37.md"
+    },
+    "ACH-ch38": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VI",
+      "aliases": [],
+      "path": "ac/ACH-ch38.md"
+    },
+    "ACH-ch39": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VII",
+      "aliases": [],
+      "path": "ac/ACH-ch39.md"
+    },
+    "ACH-ch40": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER VIII",
+      "aliases": [],
+      "path": "ac/ACH-ch40.md"
+    },
+    "ACH-ch41": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER IX",
+      "aliases": [],
+      "path": "ac/ACH-ch41.md"
+    },
+    "ACH-ch42": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER X",
+      "aliases": [],
+      "path": "ac/ACH-ch42.md"
+    },
+    "ACH-ch43": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XI",
+      "aliases": [],
+      "path": "ac/ACH-ch43.md"
+    },
+    "ACH-ch44": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XII",
+      "aliases": [],
+      "path": "ac/ACH-ch44.md"
+    },
+    "ACH-ch45": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIII",
+      "aliases": [],
+      "path": "ac/ACH-ch45.md"
+    },
+    "ACH-ch46": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIV",
+      "aliases": [],
+      "path": "ac/ACH-ch46.md"
+    },
+    "ACH-ch47": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XV",
+      "aliases": [],
+      "path": "ac/ACH-ch47.md"
+    },
+    "ACH-ch48": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVI",
+      "aliases": [],
+      "path": "ac/ACH-ch48.md"
+    },
+    "ACH-ch49": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVII",
+      "aliases": [],
+      "path": "ac/ACH-ch49.md"
+    },
+    "ACH-ch50": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XVIII",
+      "aliases": [],
+      "path": "ac/ACH-ch50.md"
+    },
+    "ACH-ch51": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XIX",
+      "aliases": [],
+      "path": "ac/ACH-ch51.md"
+    },
+    "ACH-ch52": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XX",
+      "aliases": [],
+      "path": "ac/ACH-ch52.md"
+    },
+    "ACH-ch53": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXI",
+      "aliases": [],
+      "path": "ac/ACH-ch53.md"
+    },
+    "ACH-ch54": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXII",
+      "aliases": [],
+      "path": "ac/ACH-ch54.md"
+    },
+    "ACH-ch55": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXIII",
+      "aliases": [],
+      "path": "ac/ACH-ch55.md"
+    },
+    "ACH-ch56": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXIV",
+      "aliases": [],
+      "path": "ac/ACH-ch56.md"
+    },
+    "ACH-ch57": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXV",
+      "aliases": [],
+      "path": "ac/ACH-ch57.md"
+    },
+    "ACH-ch58": {
+      "type": "chapter",
+      "label": "The Adventures of Captain Hatteras — CHAPTER XXVI",
+      "aliases": [],
+      "path": "ac/ACH-ch58.md"
+    },
+    "AM-ch01": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
+      "aliases": [],
+      "path": "am/AM-ch01.md"
+    },
+    "AM-ch02": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER II. THE SCHOONER _HALBRANE_",
+      "aliases": [],
+      "path": "am/AM-ch02.md"
+    },
+    "AM-ch03": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER III. CAPTAIN LEN GUY",
+      "aliases": [],
+      "path": "am/AM-ch03.md"
+    },
+    "AM-ch04": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER IV. FROM THE KERGUELEN ISLES TO PRINCE EDWARD ISLAND",
+      "aliases": [],
+      "path": "am/AM-ch04.md"
+    },
+    "AM-ch05": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER V. EDGAR POE'S ROMANCE",
+      "aliases": [],
+      "path": "am/AM-ch05.md"
+    },
+    "AM-ch06": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER VI. AN OCEAN WAIF",
+      "aliases": [],
+      "path": "am/AM-ch06.md"
+    },
+    "AM-ch07": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER VII. TRISTAN D'ACUNHA",
+      "aliases": [],
+      "path": "am/AM-ch07.md"
+    },
+    "AM-ch08": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER VIII. BOUND FOR THE FALKLANDS",
+      "aliases": [],
+      "path": "am/AM-ch08.md"
+    },
+    "AM-ch09": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER IX. FITTING OUT THE _HALBRANE_",
+      "aliases": [],
+      "path": "am/AM-ch09.md"
+    },
+    "AM-ch10": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER X. THE OUTSET OF THE ENTERPRISE",
+      "aliases": [],
+      "path": "am/AM-ch10.md"
+    },
+    "AM-ch11": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XI. FROM THE SANDWICH ISLANDS TO THE POLAR CIRCLE",
+      "aliases": [],
+      "path": "am/AM-ch11.md"
+    },
+    "AM-ch12": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XII. BETWEEN THE POLAR CIRCLE AND THE ICE WALL",
+      "aliases": [],
+      "path": "am/AM-ch12.md"
+    },
+    "AM-ch13": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XIII. ALONG THE FRONT OF THE ICEBERGS",
+      "aliases": [],
+      "path": "am/AM-ch13.md"
+    },
+    "AM-ch14": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XIV. A VOICE IN A DREAM",
+      "aliases": [],
+      "path": "am/AM-ch14.md"
+    },
+    "AM-ch15": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XV. BENNET ISLET",
+      "aliases": [],
+      "path": "am/AM-ch15.md"
+    },
+    "AM-ch16": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XVI, TSALAL ISLAND",
+      "aliases": [],
+      "path": "am/AM-ch16.md"
+    },
+    "AM-ch17": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XVII. AND PYM?",
+      "aliases": [],
+      "path": "am/AM-ch17.md"
+    },
+    "AM-ch18": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XVIII. A REVELATION",
+      "aliases": [],
+      "path": "am/AM-ch18.md"
+    },
+    "AM-ch19": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XIX. LAND?",
+      "aliases": [],
+      "path": "am/AM-ch19.md"
+    },
+    "AM-ch20": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XX, “UNMERCIFUL DISASTER”",
+      "aliases": [],
+      "path": "am/AM-ch20.md"
+    },
+    "AM-ch21": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXI. AMID THE MISTS",
+      "aliases": [],
+      "path": "am/AM-ch21.md"
+    },
+    "AM-ch22": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXII. IN CAMP",
+      "aliases": [],
+      "path": "am/AM-ch22.md"
+    },
+    "AM-ch23": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXIII. FOUND AT LAST",
+      "aliases": [],
+      "path": "am/AM-ch23.md"
+    },
+    "AM-ch24": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXIV. ELEVEN YEARS IN A FEW PAGES",
+      "aliases": [],
+      "path": "am/AM-ch24.md"
+    },
+    "AM-ch25": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXV. “WE WERE THE FIRST.”",
+      "aliases": [],
+      "path": "am/AM-ch25.md"
+    },
+    "AM-ch26": {
+      "type": "chapter",
+      "label": "An Antarctic Mystery — CHAPTER XXVI. A LITTLE REMNANT",
+      "aliases": [],
+      "path": "am/AM-ch26.md"
+    },
+    "AMB": {
+      "type": "chapter",
+      "label": "Ascent of Mont Blanc",
+      "aliases": [],
+      "path": "am/AMB.md"
+    },
+    "ASC-ch01": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER I",
+      "aliases": [],
+      "path": "as/ASC-ch01.md"
+    },
+    "ASC-ch02": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER II",
+      "aliases": [],
+      "path": "as/ASC-ch02.md"
+    },
+    "ASC-ch03": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER III",
+      "aliases": [],
+      "path": "as/ASC-ch03.md"
+    },
+    "ASC-ch04": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER IV",
+      "aliases": [],
+      "path": "as/ASC-ch04.md"
+    },
+    "ASC-ch05": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER V",
+      "aliases": [],
+      "path": "as/ASC-ch05.md"
+    },
+    "ASC-ch06": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER VI",
+      "aliases": [],
+      "path": "as/ASC-ch06.md"
+    },
+    "ASC-ch07": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER VII",
+      "aliases": [],
+      "path": "as/ASC-ch07.md"
+    },
+    "ASC-ch08": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER VIII",
+      "aliases": [],
+      "path": "as/ASC-ch08.md"
+    },
+    "ASC-ch09": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER IX",
+      "aliases": [],
+      "path": "as/ASC-ch09.md"
+    },
+    "ASC-ch10": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER X",
+      "aliases": [],
+      "path": "as/ASC-ch10.md"
+    },
+    "ASC-ch11": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XI",
+      "aliases": [],
+      "path": "as/ASC-ch11.md"
+    },
+    "ASC-ch12": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XII",
+      "aliases": [],
+      "path": "as/ASC-ch12.md"
+    },
+    "ASC-ch13": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XIII",
+      "aliases": [],
+      "path": "as/ASC-ch13.md"
+    },
+    "ASC-ch14": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XIV",
+      "aliases": [],
+      "path": "as/ASC-ch14.md"
+    },
+    "ASC-ch15": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XV",
+      "aliases": [],
+      "path": "as/ASC-ch15.md"
+    },
+    "ASC-ch16": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XVI",
+      "aliases": [],
+      "path": "as/ASC-ch16.md"
+    },
+    "ASC-ch17": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XVII",
+      "aliases": [],
+      "path": "as/ASC-ch17.md"
+    },
+    "ASC-ch18": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XVIII",
+      "aliases": [],
+      "path": "as/ASC-ch18.md"
+    },
+    "ASC-ch19": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XIX",
+      "aliases": [],
+      "path": "as/ASC-ch19.md"
+    },
+    "ASC-ch20": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XX",
+      "aliases": [],
+      "path": "as/ASC-ch20.md"
+    },
+    "ASC-ch21": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXI",
+      "aliases": [],
+      "path": "as/ASC-ch21.md"
+    },
+    "ASC-ch22": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXII",
+      "aliases": [],
+      "path": "as/ASC-ch22.md"
+    },
+    "ASC-ch23": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXIII",
+      "aliases": [],
+      "path": "as/ASC-ch23.md"
+    },
+    "ASC-ch24": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXIV",
+      "aliases": [],
+      "path": "as/ASC-ch24.md"
+    },
+    "ASC-ch25": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXV",
+      "aliases": [],
+      "path": "as/ASC-ch25.md"
+    },
+    "ASC-ch26": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXVI",
+      "aliases": [],
+      "path": "as/ASC-ch26.md"
+    },
+    "ASC-ch27": {
+      "type": "chapter",
+      "label": "The Adventures of a Special Correspondent — CHAPTER XXVII",
+      "aliases": [],
+      "path": "as/ASC-ch27.md"
+    },
+    "AWED-ch01": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER I",
+      "aliases": [],
+      "path": "aw/AWED-ch01.md"
+    },
+    "AWED-ch02": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER II",
+      "aliases": [],
+      "path": "aw/AWED-ch02.md"
+    },
+    "AWED-ch03": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER III",
+      "aliases": [],
+      "path": "aw/AWED-ch03.md"
+    },
+    "AWED-ch04": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER IV",
+      "aliases": [],
+      "path": "aw/AWED-ch04.md"
+    },
+    "AWED-ch05": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER V",
+      "aliases": [],
+      "path": "aw/AWED-ch05.md"
+    },
+    "AWED-ch06": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER VI",
+      "aliases": [],
+      "path": "aw/AWED-ch06.md"
+    },
+    "AWED-ch07": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER VII",
+      "aliases": [],
+      "path": "aw/AWED-ch07.md"
+    },
+    "AWED-ch08": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER VIII",
+      "aliases": [],
+      "path": "aw/AWED-ch08.md"
+    },
+    "AWED-ch09": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER IX",
+      "aliases": [],
+      "path": "aw/AWED-ch09.md"
+    },
+    "AWED-ch10": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER X",
+      "aliases": [],
+      "path": "aw/AWED-ch10.md"
+    },
+    "AWED-ch11": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XI",
+      "aliases": [],
+      "path": "aw/AWED-ch11.md"
+    },
+    "AWED-ch12": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XII",
+      "aliases": [],
+      "path": "aw/AWED-ch12.md"
+    },
+    "AWED-ch13": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XIII",
+      "aliases": [],
+      "path": "aw/AWED-ch13.md"
+    },
+    "AWED-ch14": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XIV",
+      "aliases": [],
+      "path": "aw/AWED-ch14.md"
+    },
+    "AWED-ch15": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XV",
+      "aliases": [],
+      "path": "aw/AWED-ch15.md"
+    },
+    "AWED-ch16": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XVI",
+      "aliases": [],
+      "path": "aw/AWED-ch16.md"
+    },
+    "AWED-ch17": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XVII",
+      "aliases": [],
+      "path": "aw/AWED-ch17.md"
+    },
+    "AWED-ch18": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XVIII",
+      "aliases": [],
+      "path": "aw/AWED-ch18.md"
+    },
+    "AWED-ch19": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XIX",
+      "aliases": [],
+      "path": "aw/AWED-ch19.md"
+    },
+    "AWED-ch20": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XX",
+      "aliases": [],
+      "path": "aw/AWED-ch20.md"
+    },
+    "AWED-ch21": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXI",
+      "aliases": [],
+      "path": "aw/AWED-ch21.md"
+    },
+    "AWED-ch22": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXII",
+      "aliases": [],
+      "path": "aw/AWED-ch22.md"
+    },
+    "AWED-ch23": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXIII",
+      "aliases": [],
+      "path": "aw/AWED-ch23.md"
+    },
+    "AWED-ch24": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXIV",
+      "aliases": [],
+      "path": "aw/AWED-ch24.md"
+    },
+    "AWED-ch25": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXV",
+      "aliases": [],
+      "path": "aw/AWED-ch25.md"
+    },
+    "AWED-ch26": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXVI",
+      "aliases": [],
+      "path": "aw/AWED-ch26.md"
+    },
+    "AWED-ch27": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXVII",
+      "aliases": [],
+      "path": "aw/AWED-ch27.md"
+    },
+    "AWED-ch28": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXVIII",
+      "aliases": [],
+      "path": "aw/AWED-ch28.md"
+    },
+    "AWED-ch29": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXIX",
+      "aliases": [],
+      "path": "aw/AWED-ch29.md"
+    },
+    "AWED-ch30": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXX",
+      "aliases": [],
+      "path": "aw/AWED-ch30.md"
+    },
+    "AWED-ch31": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXI",
+      "aliases": [],
+      "path": "aw/AWED-ch31.md"
+    },
+    "AWED-ch32": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXII",
+      "aliases": [],
+      "path": "aw/AWED-ch32.md"
+    },
+    "AWED-ch33": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXIII",
+      "aliases": [],
+      "path": "aw/AWED-ch33.md"
+    },
+    "AWED-ch34": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXIV",
+      "aliases": [],
+      "path": "aw/AWED-ch34.md"
+    },
+    "AWED-ch35": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXV",
+      "aliases": [],
+      "path": "aw/AWED-ch35.md"
+    },
+    "AWED-ch36": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXVI",
+      "aliases": [],
+      "path": "aw/AWED-ch36.md"
+    },
+    "AWED-ch37": {
+      "type": "chapter",
+      "label": "Around the World in Eighty Days — CHAPTER XXXVII",
+      "aliases": [],
+      "path": "aw/AWED-ch37.md"
+    },
+    "BR-ch01": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER I",
+      "aliases": [],
+      "path": "br/BR-ch01.md"
+    },
+    "BR-ch02": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER II",
+      "aliases": [],
+      "path": "br/BR-ch02.md"
+    },
+    "BR-ch03": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER III",
+      "aliases": [],
+      "path": "br/BR-ch03.md"
+    },
+    "BR-ch04": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER IV",
+      "aliases": [],
+      "path": "br/BR-ch04.md"
+    },
+    "BR-ch05": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER V",
+      "aliases": [],
+      "path": "br/BR-ch05.md"
+    },
+    "BR-ch06": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER VI",
+      "aliases": [],
+      "path": "br/BR-ch06.md"
+    },
+    "BR-ch07": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER VII",
+      "aliases": [],
+      "path": "br/BR-ch07.md"
+    },
+    "BR-ch08": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER VIII",
+      "aliases": [],
+      "path": "br/BR-ch08.md"
+    },
+    "BR-ch09": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER IX",
+      "aliases": [],
+      "path": "br/BR-ch09.md"
+    },
+    "BR-ch10": {
+      "type": "chapter",
+      "label": "The Blockade Runners — CHAPTER X",
+      "aliases": [],
+      "path": "br/BR-ch10.md"
+    },
+    "DA": {
+      "type": "chapter",
+      "label": "A Drama in the Air",
+      "aliases": [],
+      "path": "da/DA.md"
+    },
+    "DOSE-ch01": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER I",
+      "aliases": [],
+      "path": "do/DOSE-ch01.md"
+    },
+    "DOSE-ch02": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER II",
+      "aliases": [],
+      "path": "do/DOSE-ch02.md"
+    },
+    "DOSE-ch03": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER III",
+      "aliases": [],
+      "path": "do/DOSE-ch03.md"
+    },
+    "DOSE-ch04": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER IV",
+      "aliases": [],
+      "path": "do/DOSE-ch04.md"
+    },
+    "DOSE-ch05": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER V",
+      "aliases": [],
+      "path": "do/DOSE-ch05.md"
+    },
+    "DOSE-ch06": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER VI",
+      "aliases": [],
+      "path": "do/DOSE-ch06.md"
+    },
+    "DOSE-ch07": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER VII",
+      "aliases": [],
+      "path": "do/DOSE-ch07.md"
+    },
+    "DOSE-ch08": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER VIII",
+      "aliases": [],
+      "path": "do/DOSE-ch08.md"
+    },
+    "DOSE-ch09": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER IX",
+      "aliases": [],
+      "path": "do/DOSE-ch09.md"
+    },
+    "DOSE-ch10": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER X",
+      "aliases": [],
+      "path": "do/DOSE-ch10.md"
+    },
+    "DOSE-ch11": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XI",
+      "aliases": [],
+      "path": "do/DOSE-ch11.md"
+    },
+    "DOSE-ch12": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XII",
+      "aliases": [],
+      "path": "do/DOSE-ch12.md"
+    },
+    "DOSE-ch13": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XIII",
+      "aliases": [],
+      "path": "do/DOSE-ch13.md"
+    },
+    "DOSE-ch14": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XIV",
+      "aliases": [],
+      "path": "do/DOSE-ch14.md"
+    },
+    "DOSE-ch15": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XV",
+      "aliases": [],
+      "path": "do/DOSE-ch15.md"
+    },
+    "DOSE-ch16": {
+      "type": "chapter",
+      "label": "Doctor Ox's Experiment — CHAPTER XVI",
+      "aliases": [],
+      "path": "do/DOSE-ch16.md"
+    },
+    "DOSE-ch17": {
+      "type": "chapter",
+      "label": "Doctor Ox‘s Experiment — CHAPTER XVII. IN WHICH DOCTOR OX’S THEORY IS EXPLAINED",
+      "aliases": [],
+      "path": "do/DOSE-ch17.md"
+    },
+    "DSCF-ch01": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER I",
+      "aliases": [],
+      "path": "ds/DSCF-ch01.md"
+    },
+    "DSCF-ch02": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER II",
+      "aliases": [],
+      "path": "ds/DSCF-ch02.md"
+    },
+    "DSCF-ch03": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER III",
+      "aliases": [],
+      "path": "ds/DSCF-ch03.md"
+    },
+    "DSCF-ch04": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER IV",
+      "aliases": [],
+      "path": "ds/DSCF-ch04.md"
+    },
+    "DSCF-ch05": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER V",
+      "aliases": [],
+      "path": "ds/DSCF-ch05.md"
+    },
+    "DSCF-ch06": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VI",
+      "aliases": [],
+      "path": "ds/DSCF-ch06.md"
+    },
+    "DSCF-ch07": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VII",
+      "aliases": [],
+      "path": "ds/DSCF-ch07.md"
+    },
+    "DSCF-ch08": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch08.md"
+    },
+    "DSCF-ch09": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER IX",
+      "aliases": [],
+      "path": "ds/DSCF-ch09.md"
+    },
+    "DSCF-ch10": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER X",
+      "aliases": [],
+      "path": "ds/DSCF-ch10.md"
+    },
+    "DSCF-ch11": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XI",
+      "aliases": [],
+      "path": "ds/DSCF-ch11.md"
+    },
+    "DSCF-ch12": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XII",
+      "aliases": [],
+      "path": "ds/DSCF-ch12.md"
+    },
+    "DSCF-ch13": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch13.md"
+    },
+    "DSCF-ch14": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XIV",
+      "aliases": [],
+      "path": "ds/DSCF-ch14.md"
+    },
+    "DSCF-ch15": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XV",
+      "aliases": [],
+      "path": "ds/DSCF-ch15.md"
+    },
+    "DSCF-ch16": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVI",
+      "aliases": [],
+      "path": "ds/DSCF-ch16.md"
+    },
+    "DSCF-ch17": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVII",
+      "aliases": [],
+      "path": "ds/DSCF-ch17.md"
+    },
+    "DSCF-ch18": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch18.md"
+    },
+    "DSCF-ch19": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER I",
+      "aliases": [],
+      "path": "ds/DSCF-ch19.md"
+    },
+    "DSCF-ch20": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER II",
+      "aliases": [],
+      "path": "ds/DSCF-ch20.md"
+    },
+    "DSCF-ch21": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER III",
+      "aliases": [],
+      "path": "ds/DSCF-ch21.md"
+    },
+    "DSCF-ch22": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER IV",
+      "aliases": [],
+      "path": "ds/DSCF-ch22.md"
+    },
+    "DSCF-ch23": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER V",
+      "aliases": [],
+      "path": "ds/DSCF-ch23.md"
+    },
+    "DSCF-ch24": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VI",
+      "aliases": [],
+      "path": "ds/DSCF-ch24.md"
+    },
+    "DSCF-ch25": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VII",
+      "aliases": [],
+      "path": "ds/DSCF-ch25.md"
+    },
+    "DSCF-ch26": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER VIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch26.md"
+    },
+    "DSCF-ch27": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER IX",
+      "aliases": [],
+      "path": "ds/DSCF-ch27.md"
+    },
+    "DSCF-ch28": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER X",
+      "aliases": [],
+      "path": "ds/DSCF-ch28.md"
+    },
+    "DSCF-ch29": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XI",
+      "aliases": [],
+      "path": "ds/DSCF-ch29.md"
+    },
+    "DSCF-ch30": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XII",
+      "aliases": [],
+      "path": "ds/DSCF-ch30.md"
+    },
+    "DSCF-ch31": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch31.md"
+    },
+    "DSCF-ch32": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XIV",
+      "aliases": [],
+      "path": "ds/DSCF-ch32.md"
+    },
+    "DSCF-ch33": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XV",
+      "aliases": [],
+      "path": "ds/DSCF-ch33.md"
+    },
+    "DSCF-ch34": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVI",
+      "aliases": [],
+      "path": "ds/DSCF-ch34.md"
+    },
+    "DSCF-ch35": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVII",
+      "aliases": [],
+      "path": "ds/DSCF-ch35.md"
+    },
+    "DSCF-ch36": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XVIII",
+      "aliases": [],
+      "path": "ds/DSCF-ch36.md"
+    },
+    "DSCF-ch37": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XIX",
+      "aliases": [],
+      "path": "ds/DSCF-ch37.md"
+    },
+    "DSCF-ch38": {
+      "type": "chapter",
+      "label": "Dick Sand: A Captain at Fifteen — CHAPTER XX",
+      "aliases": [],
+      "path": "ds/DSCF-ch38.md"
+    },
+    "EHLA-ch01": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER I. A CAPTAIN OF THE WOODS",
+      "aliases": [],
+      "path": "eh/EHLA-ch01.md"
+    },
+    "EHLA-ch02": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER II. ROBBER AND ROBBED",
+      "aliases": [],
+      "path": "eh/EHLA-ch02.md"
+    },
+    "EHLA-ch03": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER III. THE GARRAL FAMILY",
+      "aliases": [],
+      "path": "eh/EHLA-ch03.md"
+    },
+    "EHLA-ch04": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER IV. HESITATION",
+      "aliases": [],
+      "path": "eh/EHLA-ch04.md"
+    },
+    "EHLA-ch05": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER V. THE AMAZON",
+      "aliases": [],
+      "path": "eh/EHLA-ch05.md"
+    },
+    "EHLA-ch06": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VI. A FOREST ON THE GROUND",
+      "aliases": [],
+      "path": "eh/EHLA-ch06.md"
+    },
+    "EHLA-ch07": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VII. FOLLOWING A LIANA",
+      "aliases": [],
+      "path": "eh/EHLA-ch07.md"
+    },
+    "EHLA-ch08": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VIII. THE JANGADA",
+      "aliases": [],
+      "path": "eh/EHLA-ch08.md"
+    },
+    "EHLA-ch09": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER IX. THE EVENING OF THE FIFTH OF JUNE",
+      "aliases": [],
+      "path": "eh/EHLA-ch09.md"
+    },
+    "EHLA-ch10": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER X. FROM IQUITOS TO PEVAS",
+      "aliases": [],
+      "path": "eh/EHLA-ch10.md"
+    },
+    "EHLA-ch11": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XI. FROM PEVAS TO THE FRONTIER",
+      "aliases": [],
+      "path": "eh/EHLA-ch11.md"
+    },
+    "EHLA-ch12": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XII. FRAGOSO AT WORK",
+      "aliases": [],
+      "path": "eh/EHLA-ch12.md"
+    },
+    "EHLA-ch13": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIII. TORRES",
+      "aliases": [],
+      "path": "eh/EHLA-ch13.md"
+    },
+    "EHLA-ch14": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIV. STILL DESCENDING",
+      "aliases": [],
+      "path": "eh/EHLA-ch14.md"
+    },
+    "EHLA-ch15": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XV. THE CONTINUED DESCENT",
+      "aliases": [],
+      "path": "eh/EHLA-ch15.md"
+    },
+    "EHLA-ch16": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVI. EGA",
+      "aliases": [],
+      "path": "eh/EHLA-ch16.md"
+    },
+    "EHLA-ch17": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVII. AN ATTACK",
+      "aliases": [],
+      "path": "eh/EHLA-ch17.md"
+    },
+    "EHLA-ch18": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVIII. THE ARRIVAL DINNER",
+      "aliases": [],
+      "path": "eh/EHLA-ch18.md"
+    },
+    "EHLA-ch19": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIX. ANCIENT HISTORY",
+      "aliases": [],
+      "path": "eh/EHLA-ch19.md"
+    },
+    "EHLA-ch20": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XX. BETWEEN THE TWO MEN",
+      "aliases": [],
+      "path": "eh/EHLA-ch20.md"
+    },
+    "EHLA-ch21": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER I. MANAOS",
+      "aliases": [],
+      "path": "eh/EHLA-ch21.md"
+    },
+    "EHLA-ch22": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER II. THE FIRST MOMENTS",
+      "aliases": [],
+      "path": "eh/EHLA-ch22.md"
+    },
+    "EHLA-ch23": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER III. RETROSPECTIVE",
+      "aliases": [],
+      "path": "eh/EHLA-ch23.md"
+    },
+    "EHLA-ch24": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER IV. MORAL PROOFS",
+      "aliases": [],
+      "path": "eh/EHLA-ch24.md"
+    },
+    "EHLA-ch25": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER V. MATERIAL PROOFS",
+      "aliases": [],
+      "path": "eh/EHLA-ch25.md"
+    },
+    "EHLA-ch26": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VI. THE LAST BLOW",
+      "aliases": [],
+      "path": "eh/EHLA-ch26.md"
+    },
+    "EHLA-ch27": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VII. RESOLUTIONS",
+      "aliases": [],
+      "path": "eh/EHLA-ch27.md"
+    },
+    "EHLA-ch28": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER VIII. THE FIRST SEARCH",
+      "aliases": [],
+      "path": "eh/EHLA-ch28.md"
+    },
+    "EHLA-ch29": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER IX. THE SECOND ATTEMPT",
+      "aliases": [],
+      "path": "eh/EHLA-ch29.md"
+    },
+    "EHLA-ch30": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER X. A CANNON SHOT",
+      "aliases": [],
+      "path": "eh/EHLA-ch30.md"
+    },
+    "EHLA-ch31": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XI. THE CONTENTS OF THE CASE",
+      "aliases": [],
+      "path": "eh/EHLA-ch31.md"
+    },
+    "EHLA-ch32": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XII. THE DOCUMENT",
+      "aliases": [],
+      "path": "eh/EHLA-ch32.md"
+    },
+    "EHLA-ch33": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIII. IS IT A MATTER OF FIGURES?",
+      "aliases": [],
+      "path": "eh/EHLA-ch33.md"
+    },
+    "EHLA-ch34": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIV. CHANCE!",
+      "aliases": [],
+      "path": "eh/EHLA-ch34.md"
+    },
+    "EHLA-ch35": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XV. THE LAST EFFORTS",
+      "aliases": [],
+      "path": "eh/EHLA-ch35.md"
+    },
+    "EHLA-ch36": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVI. PREPARATIONS",
+      "aliases": [],
+      "path": "eh/EHLA-ch36.md"
+    },
+    "EHLA-ch37": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVII. THE LAST NIGHT",
+      "aliases": [],
+      "path": "eh/EHLA-ch37.md"
+    },
+    "EHLA-ch38": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XVIII. FRAGOSO",
+      "aliases": [],
+      "path": "eh/EHLA-ch38.md"
+    },
+    "EHLA-ch39": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XIX. THE CRIME OF TIJUCO",
+      "aliases": [],
+      "path": "eh/EHLA-ch39.md"
+    },
+    "EHLA-ch40": {
+      "type": "chapter",
+      "label": "Eight Hundred Leagues on the Amazon — CHAPTER XX. THE LOWER AMAZON",
+      "aliases": [],
+      "path": "eh/EHLA-ch40.md"
+    },
+    "FC-ch01": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER I",
+      "aliases": [],
+      "path": "fc/FC-ch01.md"
+    },
+    "FC-ch02": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER II",
+      "aliases": [],
+      "path": "fc/FC-ch02.md"
+    },
+    "FC-ch03": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER III",
+      "aliases": [],
+      "path": "fc/FC-ch03.md"
+    },
+    "FC-ch04": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER IV",
+      "aliases": [],
+      "path": "fc/FC-ch04.md"
+    },
+    "FC-ch05": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER V",
+      "aliases": [],
+      "path": "fc/FC-ch05.md"
+    },
+    "FC-ch06": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VI",
+      "aliases": [],
+      "path": "fc/FC-ch06.md"
+    },
+    "FC-ch07": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VII",
+      "aliases": [],
+      "path": "fc/FC-ch07.md"
+    },
+    "FC-ch08": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VIII",
+      "aliases": [],
+      "path": "fc/FC-ch08.md"
+    },
+    "FC-ch09": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER IX",
+      "aliases": [],
+      "path": "fc/FC-ch09.md"
+    },
+    "FC-ch10": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER X",
+      "aliases": [],
+      "path": "fc/FC-ch10.md"
+    },
+    "FC-ch11": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XI",
+      "aliases": [],
+      "path": "fc/FC-ch11.md"
+    },
+    "FC-ch12": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XII",
+      "aliases": [],
+      "path": "fc/FC-ch12.md"
+    },
+    "FC-ch13": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIII",
+      "aliases": [],
+      "path": "fc/FC-ch13.md"
+    },
+    "FC-ch14": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIV",
+      "aliases": [],
+      "path": "fc/FC-ch14.md"
+    },
+    "FC-ch15": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XV",
+      "aliases": [],
+      "path": "fc/FC-ch15.md"
+    },
+    "FC-ch16": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVI",
+      "aliases": [],
+      "path": "fc/FC-ch16.md"
+    },
+    "FC-ch17": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVII",
+      "aliases": [],
+      "path": "fc/FC-ch17.md"
+    },
+    "FC-ch18": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVIII",
+      "aliases": [],
+      "path": "fc/FC-ch18.md"
+    },
+    "FC-ch19": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIX",
+      "aliases": [],
+      "path": "fc/FC-ch19.md"
+    },
+    "FC-ch20": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XX",
+      "aliases": [],
+      "path": "fc/FC-ch20.md"
+    },
+    "FC-ch21": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXI",
+      "aliases": [],
+      "path": "fc/FC-ch21.md"
+    },
+    "FC-ch22": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXII",
+      "aliases": [],
+      "path": "fc/FC-ch22.md"
+    },
+    "FC-ch23": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXIII",
+      "aliases": [],
+      "path": "fc/FC-ch23.md"
+    },
+    "FC-ch24": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER I",
+      "aliases": [],
+      "path": "fc/FC-ch24.md"
+    },
+    "FC-ch25": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER II",
+      "aliases": [],
+      "path": "fc/FC-ch25.md"
+    },
+    "FC-ch26": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER III",
+      "aliases": [],
+      "path": "fc/FC-ch26.md"
+    },
+    "FC-ch27": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER IV",
+      "aliases": [],
+      "path": "fc/FC-ch27.md"
+    },
+    "FC-ch28": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER V",
+      "aliases": [],
+      "path": "fc/FC-ch28.md"
+    },
+    "FC-ch29": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VI",
+      "aliases": [],
+      "path": "fc/FC-ch29.md"
+    },
+    "FC-ch30": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VII",
+      "aliases": [],
+      "path": "fc/FC-ch30.md"
+    },
+    "FC-ch31": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER VIII",
+      "aliases": [],
+      "path": "fc/FC-ch31.md"
+    },
+    "FC-ch32": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER IX",
+      "aliases": [],
+      "path": "fc/FC-ch32.md"
+    },
+    "FC-ch33": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER X",
+      "aliases": [],
+      "path": "fc/FC-ch33.md"
+    },
+    "FC-ch34": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XI",
+      "aliases": [],
+      "path": "fc/FC-ch34.md"
+    },
+    "FC-ch35": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XII",
+      "aliases": [],
+      "path": "fc/FC-ch35.md"
+    },
+    "FC-ch36": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIII",
+      "aliases": [],
+      "path": "fc/FC-ch36.md"
+    },
+    "FC-ch37": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIV",
+      "aliases": [],
+      "path": "fc/FC-ch37.md"
+    },
+    "FC-ch38": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XV",
+      "aliases": [],
+      "path": "fc/FC-ch38.md"
+    },
+    "FC-ch39": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVI",
+      "aliases": [],
+      "path": "fc/FC-ch39.md"
+    },
+    "FC-ch40": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVII",
+      "aliases": [],
+      "path": "fc/FC-ch40.md"
+    },
+    "FC-ch41": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XVIII",
+      "aliases": [],
+      "path": "fc/FC-ch41.md"
+    },
+    "FC-ch42": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XIX",
+      "aliases": [],
+      "path": "fc/FC-ch42.md"
+    },
+    "FC-ch43": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XX",
+      "aliases": [],
+      "path": "fc/FC-ch43.md"
+    },
+    "FC-ch44": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXI",
+      "aliases": [],
+      "path": "fc/FC-ch44.md"
+    },
+    "FC-ch45": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXII",
+      "aliases": [],
+      "path": "fc/FC-ch45.md"
+    },
+    "FC-ch46": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXIII",
+      "aliases": [],
+      "path": "fc/FC-ch46.md"
+    },
+    "FC-ch47": {
+      "type": "chapter",
+      "label": "The Fur Country — CHAPTER XXIV",
+      "aliases": [],
+      "path": "fc/FC-ch47.md"
+    },
+    "FEM-ch01": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER I",
+      "aliases": [],
+      "path": "fe/FEM-ch01.md"
+    },
+    "FEM-ch02": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER II",
+      "aliases": [],
+      "path": "fe/FEM-ch02.md"
+    },
+    "FEM-ch03": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER III",
+      "aliases": [],
+      "path": "fe/FEM-ch03.md"
+    },
+    "FEM-ch04": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER IV",
+      "aliases": [],
+      "path": "fe/FEM-ch04.md"
+    },
+    "FEM-ch05": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER V",
+      "aliases": [],
+      "path": "fe/FEM-ch05.md"
+    },
+    "FEM-ch06": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER VI",
+      "aliases": [],
+      "path": "fe/FEM-ch06.md"
+    },
+    "FEM-ch07": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER VII",
+      "aliases": [],
+      "path": "fe/FEM-ch07.md"
+    },
+    "FEM-ch08": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER VIII",
+      "aliases": [],
+      "path": "fe/FEM-ch08.md"
+    },
+    "FEM-ch09": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER IX",
+      "aliases": [],
+      "path": "fe/FEM-ch09.md"
+    },
+    "FEM-ch10": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER X",
+      "aliases": [],
+      "path": "fe/FEM-ch10.md"
+    },
+    "FEM-ch11": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XI",
+      "aliases": [],
+      "path": "fe/FEM-ch11.md"
+    },
+    "FEM-ch12": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XII",
+      "aliases": [],
+      "path": "fe/FEM-ch12.md"
+    },
+    "FEM-ch13": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XIII",
+      "aliases": [],
+      "path": "fe/FEM-ch13.md"
+    },
+    "FEM-ch14": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XIV",
+      "aliases": [],
+      "path": "fe/FEM-ch14.md"
+    },
+    "FEM-ch15": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XV",
+      "aliases": [],
+      "path": "fe/FEM-ch15.md"
+    },
+    "FEM-ch16": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XVI",
+      "aliases": [],
+      "path": "fe/FEM-ch16.md"
+    },
+    "FEM-ch17": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XVII",
+      "aliases": [],
+      "path": "fe/FEM-ch17.md"
+    },
+    "FEM-ch18": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XVIII",
+      "aliases": [],
+      "path": "fe/FEM-ch18.md"
+    },
+    "FEM-ch19": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XIX",
+      "aliases": [],
+      "path": "fe/FEM-ch19.md"
+    },
+    "FEM-ch20": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XX",
+      "aliases": [],
+      "path": "fe/FEM-ch20.md"
+    },
+    "FEM-ch21": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXI",
+      "aliases": [],
+      "path": "fe/FEM-ch21.md"
+    },
+    "FEM-ch22": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXII",
+      "aliases": [],
+      "path": "fe/FEM-ch22.md"
+    },
+    "FEM-ch23": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXIII",
+      "aliases": [],
+      "path": "fe/FEM-ch23.md"
+    },
+    "FEM-ch24": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXIV",
+      "aliases": [],
+      "path": "fe/FEM-ch24.md"
+    },
+    "FEM-ch25": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXV",
+      "aliases": [],
+      "path": "fe/FEM-ch25.md"
+    },
+    "FEM-ch26": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXVI",
+      "aliases": [],
+      "path": "fe/FEM-ch26.md"
+    },
+    "FEM-ch27": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXVII",
+      "aliases": [],
+      "path": "fe/FEM-ch27.md"
+    },
+    "FEM-ch28": {
+      "type": "chapter",
+      "label": "From the Earth to the Moon — CHAPTER XXVIII",
+      "aliases": [],
+      "path": "fe/FEM-ch28.md"
+    },
+    "FF-ch01": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER I",
+      "aliases": [],
+      "path": "ff/FF-ch01.md"
+    },
+    "FF-ch02": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER II",
+      "aliases": [],
+      "path": "ff/FF-ch02.md"
+    },
+    "FF-ch03": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER III",
+      "aliases": [],
+      "path": "ff/FF-ch03.md"
+    },
+    "FF-ch04": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER IV",
+      "aliases": [],
+      "path": "ff/FF-ch04.md"
+    },
+    "FF-ch05": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER V",
+      "aliases": [],
+      "path": "ff/FF-ch05.md"
+    },
+    "FF-ch06": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER VI",
+      "aliases": [],
+      "path": "ff/FF-ch06.md"
+    },
+    "FF-ch07": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER VII",
+      "aliases": [],
+      "path": "ff/FF-ch07.md"
+    },
+    "FF-ch08": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER VIII",
+      "aliases": [],
+      "path": "ff/FF-ch08.md"
+    },
+    "FF-ch09": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER IX",
+      "aliases": [],
+      "path": "ff/FF-ch09.md"
+    },
+    "FF-ch10": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER X",
+      "aliases": [],
+      "path": "ff/FF-ch10.md"
+    },
+    "FF-ch11": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XI",
+      "aliases": [],
+      "path": "ff/FF-ch11.md"
+    },
+    "FF-ch12": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XII",
+      "aliases": [],
+      "path": "ff/FF-ch12.md"
+    },
+    "FF-ch13": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XIII",
+      "aliases": [],
+      "path": "ff/FF-ch13.md"
+    },
+    "FF-ch14": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XIV",
+      "aliases": [],
+      "path": "ff/FF-ch14.md"
+    },
+    "FF-ch15": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XV",
+      "aliases": [],
+      "path": "ff/FF-ch15.md"
+    },
+    "FF-ch16": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XVI",
+      "aliases": [],
+      "path": "ff/FF-ch16.md"
+    },
+    "FF-ch17": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XVII",
+      "aliases": [],
+      "path": "ff/FF-ch17.md"
+    },
+    "FF-ch18": {
+      "type": "chapter",
+      "label": "Facing the Flag — CHAPTER XVIII",
+      "aliases": [],
+      "path": "ff/FF-ch18.md"
+    },
+    "FWB-ch01": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FIRST",
+      "aliases": [],
+      "path": "fw/FWB-ch01.md"
+    },
+    "FWB-ch02": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER SECOND",
+      "aliases": [],
+      "path": "fw/FWB-ch02.md"
+    },
+    "FWB-ch03": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRD",
+      "aliases": [],
+      "path": "fw/FWB-ch03.md"
+    },
+    "FWB-ch04": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FOURTH",
+      "aliases": [],
+      "path": "fw/FWB-ch04.md"
+    },
+    "FWB-ch05": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FIFTH",
+      "aliases": [],
+      "path": "fw/FWB-ch05.md"
+    },
+    "FWB-ch06": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER SIXTH",
+      "aliases": [],
+      "path": "fw/FWB-ch06.md"
+    },
+    "FWB-ch07": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER SEVENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch07.md"
+    },
+    "FWB-ch08": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER EIGHTH",
+      "aliases": [],
+      "path": "fw/FWB-ch08.md"
+    },
+    "FWB-ch09": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER NINTH",
+      "aliases": [],
+      "path": "fw/FWB-ch09.md"
+    },
+    "FWB-ch10": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch10.md"
+    },
+    "FWB-ch11": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER ELEVENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch11.md"
+    },
+    "FWB-ch12": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWELFTH",
+      "aliases": [],
+      "path": "fw/FWB-ch12.md"
+    },
+    "FWB-ch13": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch13.md"
+    },
+    "FWB-ch14": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FOURTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch14.md"
+    },
+    "FWB-ch15": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FIFTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch15.md"
+    },
+    "FWB-ch16": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER SIXTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch16.md"
+    },
+    "FWB-ch17": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER SEVENTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch17.md"
+    },
+    "FWB-ch18": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER EIGHTEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch18.md"
+    },
+    "FWB-ch19": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER NINETEENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch19.md"
+    },
+    "FWB-ch20": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTIETH",
+      "aliases": [],
+      "path": "fw/FWB-ch20.md"
+    },
+    "FWB-ch21": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-FIRST",
+      "aliases": [],
+      "path": "fw/FWB-ch21.md"
+    },
+    "FWB-ch22": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-SECOND",
+      "aliases": [],
+      "path": "fw/FWB-ch22.md"
+    },
+    "FWB-ch23": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-THIRD",
+      "aliases": [],
+      "path": "fw/FWB-ch23.md"
+    },
+    "FWB-ch24": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-FOURTH",
+      "aliases": [],
+      "path": "fw/FWB-ch24.md"
+    },
+    "FWB-ch25": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-FIFTH",
+      "aliases": [],
+      "path": "fw/FWB-ch25.md"
+    },
+    "FWB-ch26": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-SIXTH",
+      "aliases": [],
+      "path": "fw/FWB-ch26.md"
+    },
+    "FWB-ch27": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-SEVENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch27.md"
+    },
+    "FWB-ch28": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-EIGHTH",
+      "aliases": [],
+      "path": "fw/FWB-ch28.md"
+    },
+    "FWB-ch29": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER TWENTY-NINTH",
+      "aliases": [],
+      "path": "fw/FWB-ch29.md"
+    },
+    "FWB-ch30": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTIETH",
+      "aliases": [],
+      "path": "fw/FWB-ch30.md"
+    },
+    "FWB-ch31": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-FIRST",
+      "aliases": [],
+      "path": "fw/FWB-ch31.md"
+    },
+    "FWB-ch32": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-SECOND",
+      "aliases": [],
+      "path": "fw/FWB-ch32.md"
+    },
+    "FWB-ch33": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-THIRD",
+      "aliases": [],
+      "path": "fw/FWB-ch33.md"
+    },
+    "FWB-ch34": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-FOURTH",
+      "aliases": [],
+      "path": "fw/FWB-ch34.md"
+    },
+    "FWB-ch35": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-FIFTH",
+      "aliases": [],
+      "path": "fw/FWB-ch35.md"
+    },
+    "FWB-ch36": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-SIXTH",
+      "aliases": [],
+      "path": "fw/FWB-ch36.md"
+    },
+    "FWB-ch37": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-SEVENTH",
+      "aliases": [],
+      "path": "fw/FWB-ch37.md"
+    },
+    "FWB-ch38": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-EIGHTH",
+      "aliases": [],
+      "path": "fw/FWB-ch38.md"
+    },
+    "FWB-ch39": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER THIRTY-NINTH",
+      "aliases": [],
+      "path": "fw/FWB-ch39.md"
+    },
+    "FWB-ch40": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FORTIETH",
+      "aliases": [],
+      "path": "fw/FWB-ch40.md"
+    },
+    "FWB-ch41": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FORTY-FIRST",
+      "aliases": [],
+      "path": "fw/FWB-ch41.md"
+    },
+    "FWB-ch42": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FORTY-SECOND",
+      "aliases": [],
+      "path": "fw/FWB-ch42.md"
+    },
+    "FWB-ch43": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FORTY-THIRD",
+      "aliases": [],
+      "path": "fw/FWB-ch43.md"
+    },
+    "FWB-ch44": {
+      "type": "chapter",
+      "label": "Five Weeks in a Balloon — CHAPTER FORTY-FOURTH",
+      "aliases": [],
+      "path": "fw/FWB-ch44.md"
+    },
+    "GM-ch01": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER I",
+      "aliases": [],
+      "path": "gm/GM-ch01.md"
+    },
+    "GM-ch02": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER II",
+      "aliases": [],
+      "path": "gm/GM-ch02.md"
+    },
+    "GM-ch03": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER III",
+      "aliases": [],
+      "path": "gm/GM-ch03.md"
+    },
+    "GM-ch04": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER IV",
+      "aliases": [],
+      "path": "gm/GM-ch04.md"
+    },
+    "GM-ch05": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER V",
+      "aliases": [],
+      "path": "gm/GM-ch05.md"
+    },
+    "GM-ch06": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER VI",
+      "aliases": [],
+      "path": "gm/GM-ch06.md"
+    },
+    "GM-ch07": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER VII",
+      "aliases": [],
+      "path": "gm/GM-ch07.md"
+    },
+    "GM-ch08": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER VIII",
+      "aliases": [],
+      "path": "gm/GM-ch08.md"
+    },
+    "GM-ch09": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER IX",
+      "aliases": [],
+      "path": "gm/GM-ch09.md"
+    },
+    "GM-ch10": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER X",
+      "aliases": [],
+      "path": "gm/GM-ch10.md"
+    },
+    "GM-ch11": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XI",
+      "aliases": [],
+      "path": "gm/GM-ch11.md"
+    },
+    "GM-ch12": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XII",
+      "aliases": [],
+      "path": "gm/GM-ch12.md"
+    },
+    "GM-ch13": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XIII",
+      "aliases": [],
+      "path": "gm/GM-ch13.md"
+    },
+    "GM-ch14": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XIV",
+      "aliases": [],
+      "path": "gm/GM-ch14.md"
+    },
+    "GM-ch15": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XV",
+      "aliases": [],
+      "path": "gm/GM-ch15.md"
+    },
+    "GM-ch16": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XVI",
+      "aliases": [],
+      "path": "gm/GM-ch16.md"
+    },
+    "GM-ch17": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XVII",
+      "aliases": [],
+      "path": "gm/GM-ch17.md"
+    },
+    "GM-ch18": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XVIII",
+      "aliases": [],
+      "path": "gm/GM-ch18.md"
+    },
+    "GM-ch19": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XIX",
+      "aliases": [],
+      "path": "gm/GM-ch19.md"
+    },
+    "GM-ch20": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XX",
+      "aliases": [],
+      "path": "gm/GM-ch20.md"
+    },
+    "GM-ch21": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XXI",
+      "aliases": [],
+      "path": "gm/GM-ch21.md"
+    },
+    "GM-ch22": {
+      "type": "chapter",
+      "label": "Godfrey Morgan — CHAPTER XXII",
+      "aliases": [],
+      "path": "gm/GM-ch22.md"
+    },
+    "JCE-ch01": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER I",
+      "aliases": [],
+      "path": "jc/JCE-ch01.md"
+    },
+    "JCE-ch02": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER II",
+      "aliases": [],
+      "path": "jc/JCE-ch02.md"
+    },
+    "JCE-ch03": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER III",
+      "aliases": [],
+      "path": "jc/JCE-ch03.md"
+    },
+    "JCE-ch04": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER IV",
+      "aliases": [],
+      "path": "jc/JCE-ch04.md"
+    },
+    "JCE-ch05": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER V",
+      "aliases": [],
+      "path": "jc/JCE-ch05.md"
+    },
+    "JCE-ch06": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER VI",
+      "aliases": [],
+      "path": "jc/JCE-ch06.md"
+    },
+    "JCE-ch07": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER VII",
+      "aliases": [],
+      "path": "jc/JCE-ch07.md"
+    },
+    "JCE-ch08": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER VIII",
+      "aliases": [],
+      "path": "jc/JCE-ch08.md"
+    },
+    "JCE-ch09": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER IX",
+      "aliases": [],
+      "path": "jc/JCE-ch09.md"
+    },
+    "JCE-ch10": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER X",
+      "aliases": [],
+      "path": "jc/JCE-ch10.md"
+    },
+    "JCE-ch11": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XI",
+      "aliases": [],
+      "path": "jc/JCE-ch11.md"
+    },
+    "JCE-ch12": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XII",
+      "aliases": [],
+      "path": "jc/JCE-ch12.md"
+    },
+    "JCE-ch13": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XIII",
+      "aliases": [],
+      "path": "jc/JCE-ch13.md"
+    },
+    "JCE-ch14": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XIV",
+      "aliases": [],
+      "path": "jc/JCE-ch14.md"
+    },
+    "JCE-ch15": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XV",
+      "aliases": [],
+      "path": "jc/JCE-ch15.md"
+    },
+    "JCE-ch16": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XVI",
+      "aliases": [],
+      "path": "jc/JCE-ch16.md"
+    },
+    "JCE-ch17": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XVII",
+      "aliases": [],
+      "path": "jc/JCE-ch17.md"
+    },
+    "JCE-ch18": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XVIII",
+      "aliases": [],
+      "path": "jc/JCE-ch18.md"
+    },
+    "JCE-ch19": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XIX",
+      "aliases": [],
+      "path": "jc/JCE-ch19.md"
+    },
+    "JCE-ch20": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XX",
+      "aliases": [],
+      "path": "jc/JCE-ch20.md"
+    },
+    "JCE-ch21": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXI",
+      "aliases": [],
+      "path": "jc/JCE-ch21.md"
+    },
+    "JCE-ch22": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXII",
+      "aliases": [],
+      "path": "jc/JCE-ch22.md"
+    },
+    "JCE-ch23": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXIII",
+      "aliases": [],
+      "path": "jc/JCE-ch23.md"
+    },
+    "JCE-ch24": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXIV",
+      "aliases": [],
+      "path": "jc/JCE-ch24.md"
+    },
+    "JCE-ch25": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXV",
+      "aliases": [],
+      "path": "jc/JCE-ch25.md"
+    },
+    "JCE-ch26": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXVI",
+      "aliases": [],
+      "path": "jc/JCE-ch26.md"
+    },
+    "JCE-ch27": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXVII",
+      "aliases": [],
+      "path": "jc/JCE-ch27.md"
+    },
+    "JCE-ch28": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXVIII",
+      "aliases": [],
+      "path": "jc/JCE-ch28.md"
+    },
+    "JCE-ch29": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXIX",
+      "aliases": [],
+      "path": "jc/JCE-ch29.md"
+    },
+    "JCE-ch30": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXX",
+      "aliases": [],
+      "path": "jc/JCE-ch30.md"
+    },
+    "JCE-ch31": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXI",
+      "aliases": [],
+      "path": "jc/JCE-ch31.md"
+    },
+    "JCE-ch32": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXII",
+      "aliases": [],
+      "path": "jc/JCE-ch32.md"
+    },
+    "JCE-ch33": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXIII",
+      "aliases": [],
+      "path": "jc/JCE-ch33.md"
+    },
+    "JCE-ch34": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXIV",
+      "aliases": [],
+      "path": "jc/JCE-ch34.md"
+    },
+    "JCE-ch35": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXV",
+      "aliases": [],
+      "path": "jc/JCE-ch35.md"
+    },
+    "JCE-ch36": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXVI",
+      "aliases": [],
+      "path": "jc/JCE-ch36.md"
+    },
+    "JCE-ch37": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXVII",
+      "aliases": [],
+      "path": "jc/JCE-ch37.md"
+    },
+    "JCE-ch38": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXVIII",
+      "aliases": [],
+      "path": "jc/JCE-ch38.md"
+    },
+    "JCE-ch39": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XXXIX",
+      "aliases": [],
+      "path": "jc/JCE-ch39.md"
+    },
+    "JCE-ch40": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XL",
+      "aliases": [],
+      "path": "jc/JCE-ch40.md"
+    },
+    "JCE-ch41": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XLI",
+      "aliases": [],
+      "path": "jc/JCE-ch41.md"
+    },
+    "JCE-ch42": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XLII",
+      "aliases": [],
+      "path": "jc/JCE-ch42.md"
+    },
+    "JCE-ch43": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XLIII",
+      "aliases": [],
+      "path": "jc/JCE-ch43.md"
+    },
+    "JCE-ch44": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XLIV",
+      "aliases": [],
+      "path": "jc/JCE-ch44.md"
+    },
+    "JCE-ch45": {
+      "type": "chapter",
+      "label": "A Journey to the Center of the Earth — CHAPTER XLV",
+      "aliases": [],
+      "path": "jc/JCE-ch45.md"
+    },
+    "MI-ch01": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 1",
+      "aliases": [],
+      "path": "mi/MI-ch01.md"
+    },
+    "MI-ch02": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 2",
+      "aliases": [],
+      "path": "mi/MI-ch02.md"
+    },
+    "MI-ch03": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 3",
+      "aliases": [],
+      "path": "mi/MI-ch03.md"
+    },
+    "MI-ch04": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 4",
+      "aliases": [],
+      "path": "mi/MI-ch04.md"
+    },
+    "MI-ch05": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 5",
+      "aliases": [],
+      "path": "mi/MI-ch05.md"
+    },
+    "MI-ch06": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 6",
+      "aliases": [],
+      "path": "mi/MI-ch06.md"
+    },
+    "MI-ch07": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 7",
+      "aliases": [],
+      "path": "mi/MI-ch07.md"
+    },
+    "MI-ch08": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 8",
+      "aliases": [],
+      "path": "mi/MI-ch08.md"
+    },
+    "MI-ch09": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 9",
+      "aliases": [],
+      "path": "mi/MI-ch09.md"
+    },
+    "MI-ch10": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 10",
+      "aliases": [],
+      "path": "mi/MI-ch10.md"
+    },
+    "MI-ch11": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 11",
+      "aliases": [],
+      "path": "mi/MI-ch11.md"
+    },
+    "MI-ch12": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 12",
+      "aliases": [],
+      "path": "mi/MI-ch12.md"
+    },
+    "MI-ch13": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 13",
+      "aliases": [],
+      "path": "mi/MI-ch13.md"
+    },
+    "MI-ch14": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 14",
+      "aliases": [],
+      "path": "mi/MI-ch14.md"
+    },
+    "MI-ch15": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 15",
+      "aliases": [],
+      "path": "mi/MI-ch15.md"
+    },
+    "MI-ch16": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 16",
+      "aliases": [],
+      "path": "mi/MI-ch16.md"
+    },
+    "MI-ch17": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 17",
+      "aliases": [],
+      "path": "mi/MI-ch17.md"
+    },
+    "MI-ch18": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 18",
+      "aliases": [],
+      "path": "mi/MI-ch18.md"
+    },
+    "MI-ch19": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 19",
+      "aliases": [],
+      "path": "mi/MI-ch19.md"
+    },
+    "MI-ch20": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 20",
+      "aliases": [],
+      "path": "mi/MI-ch20.md"
+    },
+    "MI-ch21": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 21",
+      "aliases": [],
+      "path": "mi/MI-ch21.md"
+    },
+    "MI-ch22": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 22",
+      "aliases": [],
+      "path": "mi/MI-ch22.md"
+    },
+    "MI-ch23": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 1",
+      "aliases": [],
+      "path": "mi/MI-ch23.md"
+    },
+    "MI-ch24": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 2",
+      "aliases": [],
+      "path": "mi/MI-ch24.md"
+    },
+    "MI-ch25": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 3",
+      "aliases": [],
+      "path": "mi/MI-ch25.md"
+    },
+    "MI-ch26": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 4",
+      "aliases": [],
+      "path": "mi/MI-ch26.md"
+    },
+    "MI-ch27": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 5",
+      "aliases": [],
+      "path": "mi/MI-ch27.md"
+    },
+    "MI-ch28": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 6",
+      "aliases": [],
+      "path": "mi/MI-ch28.md"
+    },
+    "MI-ch29": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 7",
+      "aliases": [],
+      "path": "mi/MI-ch29.md"
+    },
+    "MI-ch30": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 8",
+      "aliases": [],
+      "path": "mi/MI-ch30.md"
+    },
+    "MI-ch31": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 9",
+      "aliases": [],
+      "path": "mi/MI-ch31.md"
+    },
+    "MI-ch32": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 10",
+      "aliases": [],
+      "path": "mi/MI-ch32.md"
+    },
+    "MI-ch33": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 11",
+      "aliases": [],
+      "path": "mi/MI-ch33.md"
+    },
+    "MI-ch34": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 12",
+      "aliases": [],
+      "path": "mi/MI-ch34.md"
+    },
+    "MI-ch35": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 13",
+      "aliases": [],
+      "path": "mi/MI-ch35.md"
+    },
+    "MI-ch36": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 14",
+      "aliases": [],
+      "path": "mi/MI-ch36.md"
+    },
+    "MI-ch37": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 15",
+      "aliases": [],
+      "path": "mi/MI-ch37.md"
+    },
+    "MI-ch38": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 16",
+      "aliases": [],
+      "path": "mi/MI-ch38.md"
+    },
+    "MI-ch39": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 17",
+      "aliases": [],
+      "path": "mi/MI-ch39.md"
+    },
+    "MI-ch40": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 18",
+      "aliases": [],
+      "path": "mi/MI-ch40.md"
+    },
+    "MI-ch41": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 19",
+      "aliases": [],
+      "path": "mi/MI-ch41.md"
+    },
+    "MI-ch42": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 20",
+      "aliases": [],
+      "path": "mi/MI-ch42.md"
+    },
+    "MI-ch43": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 1",
+      "aliases": [],
+      "path": "mi/MI-ch43.md"
+    },
+    "MI-ch44": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 2",
+      "aliases": [],
+      "path": "mi/MI-ch44.md"
+    },
+    "MI-ch45": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 3",
+      "aliases": [],
+      "path": "mi/MI-ch45.md"
+    },
+    "MI-ch46": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 4",
+      "aliases": [],
+      "path": "mi/MI-ch46.md"
+    },
+    "MI-ch47": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 5",
+      "aliases": [],
+      "path": "mi/MI-ch47.md"
+    },
+    "MI-ch48": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 6",
+      "aliases": [],
+      "path": "mi/MI-ch48.md"
+    },
+    "MI-ch49": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 7",
+      "aliases": [],
+      "path": "mi/MI-ch49.md"
+    },
+    "MI-ch50": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 8",
+      "aliases": [],
+      "path": "mi/MI-ch50.md"
+    },
+    "MI-ch51": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 9",
+      "aliases": [],
+      "path": "mi/MI-ch51.md"
+    },
+    "MI-ch52": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 10",
+      "aliases": [],
+      "path": "mi/MI-ch52.md"
+    },
+    "MI-ch53": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 11",
+      "aliases": [],
+      "path": "mi/MI-ch53.md"
+    },
+    "MI-ch54": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 12",
+      "aliases": [],
+      "path": "mi/MI-ch54.md"
+    },
+    "MI-ch55": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 13",
+      "aliases": [],
+      "path": "mi/MI-ch55.md"
+    },
+    "MI-ch56": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 14",
+      "aliases": [],
+      "path": "mi/MI-ch56.md"
+    },
+    "MI-ch57": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 15",
+      "aliases": [],
+      "path": "mi/MI-ch57.md"
+    },
+    "MI-ch58": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 16",
+      "aliases": [],
+      "path": "mi/MI-ch58.md"
+    },
+    "MI-ch59": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 17",
+      "aliases": [],
+      "path": "mi/MI-ch59.md"
+    },
+    "MI-ch60": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 18",
+      "aliases": [],
+      "path": "mi/MI-ch60.md"
+    },
+    "MI-ch61": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 19",
+      "aliases": [],
+      "path": "mi/MI-ch61.md"
+    },
+    "MI-ch62": {
+      "type": "chapter",
+      "label": "The Mysterious Island — CHAPTER 20",
+      "aliases": [],
+      "path": "mi/MI-ch62.md"
+    },
+    "MS-ch01": {
+      "type": "chapter",
+      "label": "Michael Strogoff — BOOK I",
+      "aliases": [],
+      "path": "ms/MS-ch01.md"
+    },
+    "MS-ch02": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER I A FETE AT THE NEW PALACE",
+      "aliases": [],
+      "path": "ms/MS-ch02.md"
+    },
+    "MS-ch03": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER II RUSSIANS AND TARTARS",
+      "aliases": [],
+      "path": "ms/MS-ch03.md"
+    },
+    "MS-ch04": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER III MICHAEL STROGOFF MEETS THE CZAR",
+      "aliases": [],
+      "path": "ms/MS-ch04.md"
+    },
+    "MS-ch05": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER IV FROM MOSCOW TO NIJNI-NOVGOROD",
+      "aliases": [],
+      "path": "ms/MS-ch05.md"
+    },
+    "MS-ch06": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER V THE TWO ANNOUNCEMENTS",
+      "aliases": [],
+      "path": "ms/MS-ch06.md"
+    },
+    "MS-ch07": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VI BROTHER AND SISTER",
+      "aliases": [],
+      "path": "ms/MS-ch07.md"
+    },
+    "MS-ch08": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VII GOING DOWN THE VOLGA",
+      "aliases": [],
+      "path": "ms/MS-ch08.md"
+    },
+    "MS-ch09": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VIII GOING UP THE KAMA",
+      "aliases": [],
+      "path": "ms/MS-ch09.md"
+    },
+    "MS-ch10": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER IX DAY AND NIGHT IN A TARANTASS",
+      "aliases": [],
+      "path": "ms/MS-ch10.md"
+    },
+    "MS-ch11": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER X A STORM IN THE URAL MOUNTAINS",
+      "aliases": [],
+      "path": "ms/MS-ch11.md"
+    },
+    "MS-ch12": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XI TRAVELERS IN DISTRESS",
+      "aliases": [],
+      "path": "ms/MS-ch12.md"
+    },
+    "MS-ch13": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XII PROVOCATION",
+      "aliases": [],
+      "path": "ms/MS-ch13.md"
+    },
+    "MS-ch14": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XIII DUTY BEFORE EVERYTHING",
+      "aliases": [],
+      "path": "ms/MS-ch14.md"
+    },
+    "MS-ch15": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XIV MOTHER AND SON",
+      "aliases": [],
+      "path": "ms/MS-ch15.md"
+    },
+    "MS-ch16": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XV THE MARSHES OF THE BARABA",
+      "aliases": [],
+      "path": "ms/MS-ch16.md"
+    },
+    "MS-ch17": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XVI A FINAL EFFORT",
+      "aliases": [],
+      "path": "ms/MS-ch17.md"
+    },
+    "MS-ch18": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XVII THE RIVALS",
+      "aliases": [],
+      "path": "ms/MS-ch18.md"
+    },
+    "MS-ch19": {
+      "type": "chapter",
+      "label": "Michael Strogoff — BOOK II",
+      "aliases": [],
+      "path": "ms/MS-ch19.md"
+    },
+    "MS-ch20": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER I A TARTAR CAMP",
+      "aliases": [],
+      "path": "ms/MS-ch20.md"
+    },
+    "MS-ch21": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER II CORRESPONDENTS IN TROUBLE",
+      "aliases": [],
+      "path": "ms/MS-ch21.md"
+    },
+    "MS-ch22": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER III BLOW FOR BLOW",
+      "aliases": [],
+      "path": "ms/MS-ch22.md"
+    },
+    "MS-ch23": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER IV THE TRIUMPHAL ENTRY",
+      "aliases": [],
+      "path": "ms/MS-ch23.md"
+    },
+    "MS-ch24": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER V “LOOK WHILE YOU MAY!”",
+      "aliases": [],
+      "path": "ms/MS-ch24.md"
+    },
+    "MS-ch25": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VI A FRIEND ON THE HIGHWAY",
+      "aliases": [],
+      "path": "ms/MS-ch25.md"
+    },
+    "MS-ch26": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VII THE PASSAGE OF THE YENISEI",
+      "aliases": [],
+      "path": "ms/MS-ch26.md"
+    },
+    "MS-ch27": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER VIII A HARE CROSSES THE ROAD",
+      "aliases": [],
+      "path": "ms/MS-ch27.md"
+    },
+    "MS-ch28": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER IX IN THE STEPPE",
+      "aliases": [],
+      "path": "ms/MS-ch28.md"
+    },
+    "MS-ch29": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER X BAIKAL AND ANGARA",
+      "aliases": [],
+      "path": "ms/MS-ch29.md"
+    },
+    "MS-ch30": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XI BETWEEN TWO BANKS",
+      "aliases": [],
+      "path": "ms/MS-ch30.md"
+    },
+    "MS-ch31": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XII IRKUTSK",
+      "aliases": [],
+      "path": "ms/MS-ch31.md"
+    },
+    "MS-ch32": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XIII THE CZAR'S COURIER",
+      "aliases": [],
+      "path": "ms/MS-ch32.md"
+    },
+    "MS-ch33": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XIV THE NIGHT OF THE FIFTH OF OCTOBER",
+      "aliases": [],
+      "path": "ms/MS-ch33.md"
+    },
+    "MS-ch34": {
+      "type": "chapter",
+      "label": "Michael Strogoff — CHAPTER XV CONCLUSION",
+      "aliases": [],
+      "path": "ms/MS-ch34.md"
+    },
+    "MW-ch01": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 1",
+      "aliases": [],
+      "path": "mw/MW-ch01.md"
+    },
+    "MW-ch02": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 2",
+      "aliases": [],
+      "path": "mw/MW-ch02.md"
+    },
+    "MW-ch03": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 3",
+      "aliases": [],
+      "path": "mw/MW-ch03.md"
+    },
+    "MW-ch04": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 4",
+      "aliases": [],
+      "path": "mw/MW-ch04.md"
+    },
+    "MW-ch05": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 5",
+      "aliases": [],
+      "path": "mw/MW-ch05.md"
+    },
+    "MW-ch06": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 6",
+      "aliases": [],
+      "path": "mw/MW-ch06.md"
+    },
+    "MW-ch07": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 7",
+      "aliases": [],
+      "path": "mw/MW-ch07.md"
+    },
+    "MW-ch08": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 8",
+      "aliases": [],
+      "path": "mw/MW-ch08.md"
+    },
+    "MW-ch09": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 9",
+      "aliases": [],
+      "path": "mw/MW-ch09.md"
+    },
+    "MW-ch10": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 10",
+      "aliases": [],
+      "path": "mw/MW-ch10.md"
+    },
+    "MW-ch11": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 11",
+      "aliases": [],
+      "path": "mw/MW-ch11.md"
+    },
+    "MW-ch12": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 12",
+      "aliases": [],
+      "path": "mw/MW-ch12.md"
+    },
+    "MW-ch13": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 13",
+      "aliases": [],
+      "path": "mw/MW-ch13.md"
+    },
+    "MW-ch14": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 14",
+      "aliases": [],
+      "path": "mw/MW-ch14.md"
+    },
+    "MW-ch15": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 15",
+      "aliases": [],
+      "path": "mw/MW-ch15.md"
+    },
+    "MW-ch16": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 16",
+      "aliases": [],
+      "path": "mw/MW-ch16.md"
+    },
+    "MW-ch17": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 17",
+      "aliases": [],
+      "path": "mw/MW-ch17.md"
+    },
+    "MW-ch18": {
+      "type": "chapter",
+      "label": "The Master of the World — CHAPTER 18",
+      "aliases": [],
+      "path": "mw/MW-ch18.md"
+    },
+    "MZ-ch01": {
+      "type": "chapter",
+      "label": "Master Zacharius — CHAPTER I",
+      "aliases": [],
+      "path": "mz/MZ-ch01.md"
+    },
+    "MZ-ch02": {
+      "type": "chapter",
+      "label": "Master Zacharius — CHAPTER II",
+      "aliases": [],
+      "path": "mz/MZ-ch02.md"
+    },
+    "MZ-ch03": {
+      "type": "chapter",
+      "label": "Master Zacharius — CHAPTER III",
+      "aliases": [],
+      "path": "mz/MZ-ch03.md"
+    },
+    "MZ-ch04": {
+      "type": "chapter",
+      "label": "Master Zacharius — CHAPTER IV",
+      "aliases": [],
+      "path": "mz/MZ-ch04.md"
+    },
+    "MZ-ch05": {
+      "type": "chapter",
+      "label": "Master Zacharius — CHAPTER V",
+      "aliases": [],
+      "path": "mz/MZ-ch05.md"
+    },
+    "OC-ch01": {
+      "type": "chapter",
+      "label": "Off on a Comet — BOOK I",
+      "aliases": [],
+      "path": "oc/OC-ch01.md"
+    },
+    "OC-ch02": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER I. A CHALLENGE",
+      "aliases": [],
+      "path": "oc/OC-ch02.md"
+    },
+    "OC-ch03": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER II. CAPTAIN SERVADAC AND HIS ORDERLY",
+      "aliases": [],
+      "path": "oc/OC-ch03.md"
+    },
+    "OC-ch04": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER III. INTERRUPTED EFFUSIONS",
+      "aliases": [],
+      "path": "oc/OC-ch04.md"
+    },
+    "OC-ch05": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER IV. A CONVULSION OF NATURE",
+      "aliases": [],
+      "path": "oc/OC-ch05.md"
+    },
+    "OC-ch06": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER V. A MYSTERIOUS SEA",
+      "aliases": [],
+      "path": "oc/OC-ch06.md"
+    },
+    "OC-ch07": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VI. THE CAPTAIN MAKES AN EXPLORATION",
+      "aliases": [],
+      "path": "oc/OC-ch07.md"
+    },
+    "OC-ch08": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VII. BEN ZOOF WATCHES IN VAIN",
+      "aliases": [],
+      "path": "oc/OC-ch08.md"
+    },
+    "OC-ch09": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VIII. VENUS IN PERILOUS PROXIMITY",
+      "aliases": [],
+      "path": "oc/OC-ch09.md"
+    },
+    "OC-ch10": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER IX. INQUIRIES UNSATISFIED",
+      "aliases": [],
+      "path": "oc/OC-ch10.md"
+    },
+    "OC-ch11": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER X. A SEARCH FOR ALGERIA",
+      "aliases": [],
+      "path": "oc/OC-ch11.md"
+    },
+    "OC-ch12": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XI. AN ISLAND TOMB",
+      "aliases": [],
+      "path": "oc/OC-ch12.md"
+    },
+    "OC-ch13": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XII. AT THE MERCY OF THE WINDS",
+      "aliases": [],
+      "path": "oc/OC-ch13.md"
+    },
+    "OC-ch14": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIII. A ROYAL SALUTE",
+      "aliases": [],
+      "path": "oc/OC-ch14.md"
+    },
+    "OC-ch15": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIV. SENSITIVE NATIONALITY",
+      "aliases": [],
+      "path": "oc/OC-ch15.md"
+    },
+    "OC-ch16": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XV. AN ENIGMA FROM THE SEA",
+      "aliases": [],
+      "path": "oc/OC-ch16.md"
+    },
+    "OC-ch17": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVI. THE RESIDUUM OF A CONTINENT",
+      "aliases": [],
+      "path": "oc/OC-ch17.md"
+    },
+    "OC-ch18": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVII. A SECOND ENIGMA",
+      "aliases": [],
+      "path": "oc/OC-ch18.md"
+    },
+    "OC-ch19": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVIII. AN UNEXPECTED POPULATION",
+      "aliases": [],
+      "path": "oc/OC-ch19.md"
+    },
+    "OC-ch20": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIX. GALLIA'S GOVERNOR GENERAL",
+      "aliases": [],
+      "path": "oc/OC-ch20.md"
+    },
+    "OC-ch21": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XX. A LIGHT ON THE HORIZON",
+      "aliases": [],
+      "path": "oc/OC-ch21.md"
+    },
+    "OC-ch22": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XXI. WINTER QUARTERS",
+      "aliases": [],
+      "path": "oc/OC-ch22.md"
+    },
+    "OC-ch23": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XXII. A FROZEN OCEAN",
+      "aliases": [],
+      "path": "oc/OC-ch23.md"
+    },
+    "OC-ch24": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XXIII. A CARRIER-PIGEON",
+      "aliases": [],
+      "path": "oc/OC-ch24.md"
+    },
+    "OC-ch25": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XXIV. A SLEDGE-RIDE",
+      "aliases": [],
+      "path": "oc/OC-ch25.md"
+    },
+    "OC-ch26": {
+      "type": "chapter",
+      "label": "Off on a Comet — BOOK II",
+      "aliases": [],
+      "path": "oc/OC-ch26.md"
+    },
+    "OC-ch27": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER I. THE ASTRONOMER",
+      "aliases": [],
+      "path": "oc/OC-ch27.md"
+    },
+    "OC-ch28": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER II. A REVELATION",
+      "aliases": [],
+      "path": "oc/OC-ch28.md"
+    },
+    "OC-ch29": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER III. THE PROFESSOR'S EXPERIENCES",
+      "aliases": [],
+      "path": "oc/OC-ch29.md"
+    },
+    "OC-ch30": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER IV. A REVISED CALENDAR",
+      "aliases": [],
+      "path": "oc/OC-ch30.md"
+    },
+    "OC-ch31": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER V. WANTED: A STEELYARD",
+      "aliases": [],
+      "path": "oc/OC-ch31.md"
+    },
+    "OC-ch32": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VI. MONEY AT A PREMIUM",
+      "aliases": [],
+      "path": "oc/OC-ch32.md"
+    },
+    "OC-ch33": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VII. GALLIA WEIGHED",
+      "aliases": [],
+      "path": "oc/OC-ch33.md"
+    },
+    "OC-ch34": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER VIII. JUPITER SOMEWHAT CLOSE",
+      "aliases": [],
+      "path": "oc/OC-ch34.md"
+    },
+    "OC-ch35": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER IX MARKET PRICES IN GALLIA",
+      "aliases": [],
+      "path": "oc/OC-ch35.md"
+    },
+    "OC-ch36": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER X. FAR INTO SPACE",
+      "aliases": [],
+      "path": "oc/OC-ch36.md"
+    },
+    "OC-ch37": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XI. A FETE DAY",
+      "aliases": [],
+      "path": "oc/OC-ch37.md"
+    },
+    "OC-ch38": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XII. THE BOWELS OF THE COMET",
+      "aliases": [],
+      "path": "oc/OC-ch38.md"
+    },
+    "OC-ch39": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIII. DREARY MONTHS",
+      "aliases": [],
+      "path": "oc/OC-ch39.md"
+    },
+    "OC-ch40": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIV. THE PROFESSOR PERPLEXED",
+      "aliases": [],
+      "path": "oc/OC-ch40.md"
+    },
+    "OC-ch41": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XV. A JOURNEY AND A DISAPPOINTMENT",
+      "aliases": [],
+      "path": "oc/OC-ch41.md"
+    },
+    "OC-ch42": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVI. A BOLD PROPOSITION",
+      "aliases": [],
+      "path": "oc/OC-ch42.md"
+    },
+    "OC-ch43": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVII. THE VENTURE MADE",
+      "aliases": [],
+      "path": "oc/OC-ch43.md"
+    },
+    "OC-ch44": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XVIII. SUSPENSE",
+      "aliases": [],
+      "path": "oc/OC-ch44.md"
+    },
+    "OC-ch45": {
+      "type": "chapter",
+      "label": "Off on a Comet — CHAPTER XIX. BACK AGAIN",
+      "aliases": [],
+      "path": "oc/OC-ch45.md"
+    },
+    "PL-ch01": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER I",
+      "aliases": [],
+      "path": "pl/PL-ch01.md"
+    },
+    "PL-ch02": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER II",
+      "aliases": [],
+      "path": "pl/PL-ch02.md"
+    },
+    "PL-ch03": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER III",
+      "aliases": [],
+      "path": "pl/PL-ch03.md"
+    },
+    "PL-ch04": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER IV",
+      "aliases": [],
+      "path": "pl/PL-ch04.md"
+    },
+    "PL-ch05": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER V",
+      "aliases": [],
+      "path": "pl/PL-ch05.md"
+    },
+    "PL-ch06": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER VI",
+      "aliases": [],
+      "path": "pl/PL-ch06.md"
+    },
+    "PL-ch07": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER VII",
+      "aliases": [],
+      "path": "pl/PL-ch07.md"
+    },
+    "PL-ch08": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER VIII",
+      "aliases": [],
+      "path": "pl/PL-ch08.md"
+    },
+    "PL-ch09": {
+      "type": "chapter",
+      "label": "The Pearl of Lima — CHAPTER IX",
+      "aliases": [],
+      "path": "pl/PL-ch09.md"
+    },
+    "RC-ch01": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER I",
+      "aliases": [],
+      "path": "rc/RC-ch01.md"
+    },
+    "RC-ch02": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER II",
+      "aliases": [],
+      "path": "rc/RC-ch02.md"
+    },
+    "RC-ch03": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER III",
+      "aliases": [],
+      "path": "rc/RC-ch03.md"
+    },
+    "RC-ch04": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER IV",
+      "aliases": [],
+      "path": "rc/RC-ch04.md"
+    },
+    "RC-ch05": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER V",
+      "aliases": [],
+      "path": "rc/RC-ch05.md"
+    },
+    "RC-ch06": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER VI",
+      "aliases": [],
+      "path": "rc/RC-ch06.md"
+    },
+    "RC-ch07": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER VII",
+      "aliases": [],
+      "path": "rc/RC-ch07.md"
+    },
+    "RC-ch08": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER VIII",
+      "aliases": [],
+      "path": "rc/RC-ch08.md"
+    },
+    "RC-ch09": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER IX",
+      "aliases": [],
+      "path": "rc/RC-ch09.md"
+    },
+    "RC-ch10": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER X",
+      "aliases": [],
+      "path": "rc/RC-ch10.md"
+    },
+    "RC-ch11": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XI",
+      "aliases": [],
+      "path": "rc/RC-ch11.md"
+    },
+    "RC-ch12": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XII",
+      "aliases": [],
+      "path": "rc/RC-ch12.md"
+    },
+    "RC-ch13": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XIII",
+      "aliases": [],
+      "path": "rc/RC-ch13.md"
+    },
+    "RC-ch14": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XIV",
+      "aliases": [],
+      "path": "rc/RC-ch14.md"
+    },
+    "RC-ch15": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XV",
+      "aliases": [],
+      "path": "rc/RC-ch15.md"
+    },
+    "RC-ch16": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XVI",
+      "aliases": [],
+      "path": "rc/RC-ch16.md"
+    },
+    "RC-ch17": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XVII",
+      "aliases": [],
+      "path": "rc/RC-ch17.md"
+    },
+    "RC-ch18": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XVIII",
+      "aliases": [],
+      "path": "rc/RC-ch18.md"
+    },
+    "RC-ch19": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XIX",
+      "aliases": [],
+      "path": "rc/RC-ch19.md"
+    },
+    "RC-ch20": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XX",
+      "aliases": [],
+      "path": "rc/RC-ch20.md"
+    },
+    "RC-ch21": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XXI",
+      "aliases": [],
+      "path": "rc/RC-ch21.md"
+    },
+    "RC-ch22": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XXII",
+      "aliases": [],
+      "path": "rc/RC-ch22.md"
+    },
+    "RC-ch23": {
+      "type": "chapter",
+      "label": "Robur the Conqueror — CHAPTER XXIII",
+      "aliases": [],
+      "path": "rc/RC-ch23.md"
+    },
+    "RM-ch01": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER I",
+      "aliases": [],
+      "path": "rm/RM-ch01.md"
+    },
+    "RM-ch02": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER II",
+      "aliases": [],
+      "path": "rm/RM-ch02.md"
+    },
+    "RM-ch03": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER III",
+      "aliases": [],
+      "path": "rm/RM-ch03.md"
+    },
+    "RM-ch04": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER IV",
+      "aliases": [],
+      "path": "rm/RM-ch04.md"
+    },
+    "RM-ch05": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER V",
+      "aliases": [],
+      "path": "rm/RM-ch05.md"
+    },
+    "RM-ch06": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER VI",
+      "aliases": [],
+      "path": "rm/RM-ch06.md"
+    },
+    "RM-ch07": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER VII",
+      "aliases": [],
+      "path": "rm/RM-ch07.md"
+    },
+    "RM-ch08": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER VIII",
+      "aliases": [],
+      "path": "rm/RM-ch08.md"
+    },
+    "RM-ch09": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER IX",
+      "aliases": [],
+      "path": "rm/RM-ch09.md"
+    },
+    "RM-ch10": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER X",
+      "aliases": [],
+      "path": "rm/RM-ch10.md"
+    },
+    "RM-ch11": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XI",
+      "aliases": [],
+      "path": "rm/RM-ch11.md"
+    },
+    "RM-ch12": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XII",
+      "aliases": [],
+      "path": "rm/RM-ch12.md"
+    },
+    "RM-ch13": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XIII",
+      "aliases": [],
+      "path": "rm/RM-ch13.md"
+    },
+    "RM-ch14": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XIV",
+      "aliases": [],
+      "path": "rm/RM-ch14.md"
+    },
+    "RM-ch15": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XV",
+      "aliases": [],
+      "path": "rm/RM-ch15.md"
+    },
+    "RM-ch16": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XVI",
+      "aliases": [],
+      "path": "rm/RM-ch16.md"
+    },
+    "RM-ch17": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XVII",
+      "aliases": [],
+      "path": "rm/RM-ch17.md"
+    },
+    "RM-ch18": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XVIII",
+      "aliases": [],
+      "path": "rm/RM-ch18.md"
+    },
+    "RM-ch19": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XIX",
+      "aliases": [],
+      "path": "rm/RM-ch19.md"
+    },
+    "RM-ch20": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XX",
+      "aliases": [],
+      "path": "rm/RM-ch20.md"
+    },
+    "RM-ch21": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XXI",
+      "aliases": [],
+      "path": "rm/RM-ch21.md"
+    },
+    "RM-ch22": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XXII",
+      "aliases": [],
+      "path": "rm/RM-ch22.md"
+    },
+    "RM-ch23": {
+      "type": "chapter",
+      "label": "Round the Moon — CHAPTER XXIII",
+      "aliases": [],
+      "path": "rm/RM-ch23.md"
+    },
+    "SC-ch01": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER I THE SHARK",
+      "aliases": [],
+      "path": "sc/SC-ch01.md"
+    },
+    "SC-ch02": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER II THE THREE DOCUMENTS",
+      "aliases": [],
+      "path": "sc/SC-ch02.md"
+    },
+    "SC-ch03": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER III THE CAPTAIN'S CHILDREN",
+      "aliases": [],
+      "path": "sc/SC-ch03.md"
+    },
+    "SC-ch04": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IV LADY GLENARVAN'S PROPOSAL",
+      "aliases": [],
+      "path": "sc/SC-ch04.md"
+    },
+    "SC-ch05": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER V THE DEPARTURE OF THE “DUNCAN”",
+      "aliases": [],
+      "path": "sc/SC-ch05.md"
+    },
+    "SC-ch06": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VI AN UNEXPECTED PASSENGER",
+      "aliases": [],
+      "path": "sc/SC-ch06.md"
+    },
+    "SC-ch07": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VII JACQUES PAGANEL IS UNDECEIVED",
+      "aliases": [],
+      "path": "sc/SC-ch07.md"
+    },
+    "SC-ch08": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VIII THE GEOGRAPHER'S RESOLUTION",
+      "aliases": [],
+      "path": "sc/SC-ch08.md"
+    },
+    "SC-ch09": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IX THROUGH THE STRAITS OF MAGELLAN",
+      "aliases": [],
+      "path": "sc/SC-ch09.md"
+    },
+    "SC-ch10": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER X THE COURSE DECIDED",
+      "aliases": [],
+      "path": "sc/SC-ch10.md"
+    },
+    "SC-ch11": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XI TRAVELING IN CHILI",
+      "aliases": [],
+      "path": "sc/SC-ch11.md"
+    },
+    "SC-ch12": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XII ELEVEN THOUSAND FEET ALOFT",
+      "aliases": [],
+      "path": "sc/SC-ch12.md"
+    },
+    "SC-ch13": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIII A SUDDEN DESCENT",
+      "aliases": [],
+      "path": "sc/SC-ch13.md"
+    },
+    "SC-ch14": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIV PROVIDENTIALLY RESCUED",
+      "aliases": [],
+      "path": "sc/SC-ch14.md"
+    },
+    "SC-ch15": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XV THALCAVE",
+      "aliases": [],
+      "path": "sc/SC-ch15.md"
+    },
+    "SC-ch16": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVI THE NEWS OF THE LOST CAPTAIN",
+      "aliases": [],
+      "path": "sc/SC-ch16.md"
+    },
+    "SC-ch17": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVII A SERIOUS NECESSITY",
+      "aliases": [],
+      "path": "sc/SC-ch17.md"
+    },
+    "SC-ch18": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVIII IN SEARCH OF WATER",
+      "aliases": [],
+      "path": "sc/SC-ch18.md"
+    },
+    "SC-ch19": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIX THE RED WOLVES",
+      "aliases": [],
+      "path": "sc/SC-ch19.md"
+    },
+    "SC-ch20": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XX STRANGE SIGNS",
+      "aliases": [],
+      "path": "sc/SC-ch20.md"
+    },
+    "SC-ch21": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXI A FALSE TRAIL",
+      "aliases": [],
+      "path": "sc/SC-ch21.md"
+    },
+    "SC-ch22": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXII THE FLOOD",
+      "aliases": [],
+      "path": "sc/SC-ch22.md"
+    },
+    "SC-ch23": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXIII A SINGULAR ABODE",
+      "aliases": [],
+      "path": "sc/SC-ch23.md"
+    },
+    "SC-ch24": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXIV PAGANEL'S DISCLOSURE",
+      "aliases": [],
+      "path": "sc/SC-ch24.md"
+    },
+    "SC-ch25": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXV BETWEEN FIRE AND WATER",
+      "aliases": [],
+      "path": "sc/SC-ch25.md"
+    },
+    "SC-ch26": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXVI THE RETURN ON BOARD",
+      "aliases": [],
+      "path": "sc/SC-ch26.md"
+    },
+    "SC-ch27": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER I A NEW DESTINATION",
+      "aliases": [],
+      "path": "sc/SC-ch27.md"
+    },
+    "SC-ch28": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER II TRISTAN D'ACUNHA AND THE ISLE OF AMSTERDAM",
+      "aliases": [],
+      "path": "sc/SC-ch28.md"
+    },
+    "SC-ch29": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER III CAPE TOWN AND M. VIOT",
+      "aliases": [],
+      "path": "sc/SC-ch29.md"
+    },
+    "SC-ch30": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IV A WAGER AND HOW DECIDED",
+      "aliases": [],
+      "path": "sc/SC-ch30.md"
+    },
+    "SC-ch31": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER V THE STORM ON THE INDIAN OCEAN",
+      "aliases": [],
+      "path": "sc/SC-ch31.md"
+    },
+    "SC-ch32": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VI A HOSPITABLE COLONIST",
+      "aliases": [],
+      "path": "sc/SC-ch32.md"
+    },
+    "SC-ch33": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VII THE QUARTERMASTER OF THE “BRITANNIA”",
+      "aliases": [],
+      "path": "sc/SC-ch33.md"
+    },
+    "SC-ch34": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VIII PREPARATION FOR THE JOURNEY",
+      "aliases": [],
+      "path": "sc/SC-ch34.md"
+    },
+    "SC-ch35": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IX A COUNTRY OF PARADOXES",
+      "aliases": [],
+      "path": "sc/SC-ch35.md"
+    },
+    "SC-ch36": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER X AN ACCIDENT",
+      "aliases": [],
+      "path": "sc/SC-ch36.md"
+    },
+    "SC-ch37": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XI CRIME OR CALAMITY",
+      "aliases": [],
+      "path": "sc/SC-ch37.md"
+    },
+    "SC-ch38": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XII TOLINE OF THE LACHLAN",
+      "aliases": [],
+      "path": "sc/SC-ch38.md"
+    },
+    "SC-ch39": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIII A WARNING",
+      "aliases": [],
+      "path": "sc/SC-ch39.md"
+    },
+    "SC-ch40": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIV WEALTH IN THE WILDERNESS",
+      "aliases": [],
+      "path": "sc/SC-ch40.md"
+    },
+    "SC-ch41": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XV SUSPICIOUS OCCURRENCES",
+      "aliases": [],
+      "path": "sc/SC-ch41.md"
+    },
+    "SC-ch42": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVI A STARTLING DISCOVERY",
+      "aliases": [],
+      "path": "sc/SC-ch42.md"
+    },
+    "SC-ch43": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVII THE PLOT UNVEILED",
+      "aliases": [],
+      "path": "sc/SC-ch43.md"
+    },
+    "SC-ch44": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVIII FOUR DAYS OF ANGUISH",
+      "aliases": [],
+      "path": "sc/SC-ch44.md"
+    },
+    "SC-ch45": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIX HELPLESS AND HOPELESS",
+      "aliases": [],
+      "path": "sc/SC-ch45.md"
+    },
+    "SC-ch46": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER I A ROUGH CAPTAIN",
+      "aliases": [],
+      "path": "sc/SC-ch46.md"
+    },
+    "SC-ch47": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER II NAVIGATORS AND THEIR DISCOVERIES",
+      "aliases": [],
+      "path": "sc/SC-ch47.md"
+    },
+    "SC-ch48": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER III THE MARTYR-ROLL OF NAVIGATORS",
+      "aliases": [],
+      "path": "sc/SC-ch48.md"
+    },
+    "SC-ch49": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IV THE WRECK OF THE “MACQUARIE”",
+      "aliases": [],
+      "path": "sc/SC-ch49.md"
+    },
+    "SC-ch50": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER V CANNIBALS",
+      "aliases": [],
+      "path": "sc/SC-ch50.md"
+    },
+    "SC-ch51": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VI A DREADED COUNTRY",
+      "aliases": [],
+      "path": "sc/SC-ch51.md"
+    },
+    "SC-ch52": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VII THE MAORI WAR",
+      "aliases": [],
+      "path": "sc/SC-ch52.md"
+    },
+    "SC-ch53": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER VIII ON THE ROAD TO AUCKLAND",
+      "aliases": [],
+      "path": "sc/SC-ch53.md"
+    },
+    "SC-ch54": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER IX INTRODUCTION TO THE CANNIBALS",
+      "aliases": [],
+      "path": "sc/SC-ch54.md"
+    },
+    "SC-ch55": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER X A MOMENTOUS INTERVIEW",
+      "aliases": [],
+      "path": "sc/SC-ch55.md"
+    },
+    "SC-ch56": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XI THE CHIEF'S FUNERAL",
+      "aliases": [],
+      "path": "sc/SC-ch56.md"
+    },
+    "SC-ch57": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XII STRANGELY LIBERATED",
+      "aliases": [],
+      "path": "sc/SC-ch57.md"
+    },
+    "SC-ch58": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIII THE SACRED MOUNTAIN",
+      "aliases": [],
+      "path": "sc/SC-ch58.md"
+    },
+    "SC-ch59": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIV A BOLD STRATAGEM",
+      "aliases": [],
+      "path": "sc/SC-ch59.md"
+    },
+    "SC-ch60": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XV FROM PERIL TO SAFETY",
+      "aliases": [],
+      "path": "sc/SC-ch60.md"
+    },
+    "SC-ch61": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVI WHY THE “DUNCAN” WENT TO NEW ZEALAND",
+      "aliases": [],
+      "path": "sc/SC-ch61.md"
+    },
+    "SC-ch62": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVII AYRTON'S OBSTINACY",
+      "aliases": [],
+      "path": "sc/SC-ch62.md"
+    },
+    "SC-ch63": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XVIII A DISCOURAGING CONFESSION",
+      "aliases": [],
+      "path": "sc/SC-ch63.md"
+    },
+    "SC-ch64": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XIX A CRY IN THE NIGHT",
+      "aliases": [],
+      "path": "sc/SC-ch64.md"
+    },
+    "SC-ch65": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XX CAPTAIN GRANT'S STORY",
+      "aliases": [],
+      "path": "sc/SC-ch65.md"
+    },
+    "SC-ch66": {
+      "type": "chapter",
+      "label": "In Search of the Castaways — CHAPTER XXI PAGANEL'S LAST ENTANGLEMENT",
+      "aliases": [],
+      "path": "sc/SC-ch66.md"
+    },
+    "SC2-ch01": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER I",
+      "aliases": [],
+      "path": "sc/SC2-ch01.md"
+    },
+    "SC2-ch02": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER II",
+      "aliases": [],
+      "path": "sc/SC2-ch02.md"
+    },
+    "SC2-ch03": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER III",
+      "aliases": [],
+      "path": "sc/SC2-ch03.md"
+    },
+    "SC2-ch04": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER IV",
+      "aliases": [],
+      "path": "sc/SC2-ch04.md"
+    },
+    "SC2-ch05": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER V",
+      "aliases": [],
+      "path": "sc/SC2-ch05.md"
+    },
+    "SC2-ch06": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER VI",
+      "aliases": [],
+      "path": "sc/SC2-ch06.md"
+    },
+    "SC2-ch07": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER VII",
+      "aliases": [],
+      "path": "sc/SC2-ch07.md"
+    },
+    "SC2-ch08": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER VIII",
+      "aliases": [],
+      "path": "sc/SC2-ch08.md"
+    },
+    "SC2-ch09": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER IX",
+      "aliases": [],
+      "path": "sc/SC2-ch09.md"
+    },
+    "SC2-ch10": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER X",
+      "aliases": [],
+      "path": "sc/SC2-ch10.md"
+    },
+    "SC2-ch11": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XI",
+      "aliases": [],
+      "path": "sc/SC2-ch11.md"
+    },
+    "SC2-ch12": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XII",
+      "aliases": [],
+      "path": "sc/SC2-ch12.md"
+    },
+    "SC2-ch13": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XIII",
+      "aliases": [],
+      "path": "sc/SC2-ch13.md"
+    },
+    "SC2-ch14": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XIV",
+      "aliases": [],
+      "path": "sc/SC2-ch14.md"
+    },
+    "SC2-ch15": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XV",
+      "aliases": [],
+      "path": "sc/SC2-ch15.md"
+    },
+    "SC2-ch16": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XVI",
+      "aliases": [],
+      "path": "sc/SC2-ch16.md"
+    },
+    "SC2-ch17": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XVII",
+      "aliases": [],
+      "path": "sc/SC2-ch17.md"
+    },
+    "SC2-ch18": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XVIII",
+      "aliases": [],
+      "path": "sc/SC2-ch18.md"
+    },
+    "SC2-ch19": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XIX",
+      "aliases": [],
+      "path": "sc/SC2-ch19.md"
+    },
+    "SC2-ch20": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XX",
+      "aliases": [],
+      "path": "sc/SC2-ch20.md"
+    },
+    "SC2-ch21": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXI",
+      "aliases": [],
+      "path": "sc/SC2-ch21.md"
+    },
+    "SC2-ch22": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXII",
+      "aliases": [],
+      "path": "sc/SC2-ch22.md"
+    },
+    "SC2-ch23": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXIII",
+      "aliases": [],
+      "path": "sc/SC2-ch23.md"
+    },
+    "SC2-ch24": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXIV",
+      "aliases": [],
+      "path": "sc/SC2-ch24.md"
+    },
+    "SC2-ch25": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXV",
+      "aliases": [],
+      "path": "sc/SC2-ch25.md"
+    },
+    "SC2-ch26": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXVI",
+      "aliases": [],
+      "path": "sc/SC2-ch26.md"
+    },
+    "SC2-ch27": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXVII",
+      "aliases": [],
+      "path": "sc/SC2-ch27.md"
+    },
+    "SC2-ch28": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXVIII",
+      "aliases": [],
+      "path": "sc/SC2-ch28.md"
+    },
+    "SC2-ch29": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXIX",
+      "aliases": [],
+      "path": "sc/SC2-ch29.md"
+    },
+    "SC2-ch30": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXX",
+      "aliases": [],
+      "path": "sc/SC2-ch30.md"
+    },
+    "SC2-ch31": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXI",
+      "aliases": [],
+      "path": "sc/SC2-ch31.md"
+    },
+    "SC2-ch32": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXII",
+      "aliases": [],
+      "path": "sc/SC2-ch32.md"
+    },
+    "SC2-ch33": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXIII",
+      "aliases": [],
+      "path": "sc/SC2-ch33.md"
+    },
+    "SC2-ch34": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXIV",
+      "aliases": [],
+      "path": "sc/SC2-ch34.md"
+    },
+    "SC2-ch35": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXV",
+      "aliases": [],
+      "path": "sc/SC2-ch35.md"
+    },
+    "SC2-ch36": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXVI",
+      "aliases": [],
+      "path": "sc/SC2-ch36.md"
+    },
+    "SC2-ch37": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXVII",
+      "aliases": [],
+      "path": "sc/SC2-ch37.md"
+    },
+    "SC2-ch38": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXVIII",
+      "aliases": [],
+      "path": "sc/SC2-ch38.md"
+    },
+    "SC2-ch39": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XXXIX",
+      "aliases": [],
+      "path": "sc/SC2-ch39.md"
+    },
+    "SC2-ch40": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XL",
+      "aliases": [],
+      "path": "sc/SC2-ch40.md"
+    },
+    "SC2-ch41": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLI",
+      "aliases": [],
+      "path": "sc/SC2-ch41.md"
+    },
+    "SC2-ch42": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLII",
+      "aliases": [],
+      "path": "sc/SC2-ch42.md"
+    },
+    "SC2-ch43": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLIII",
+      "aliases": [],
+      "path": "sc/SC2-ch43.md"
+    },
+    "SC2-ch44": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLIV",
+      "aliases": [],
+      "path": "sc/SC2-ch44.md"
+    },
+    "SC2-ch45": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLV",
+      "aliases": [],
+      "path": "sc/SC2-ch45.md"
+    },
+    "SC2-ch46": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLVI",
+      "aliases": [],
+      "path": "sc/SC2-ch46.md"
+    },
+    "SC2-ch47": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLVII",
+      "aliases": [],
+      "path": "sc/SC2-ch47.md"
+    },
+    "SC2-ch48": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLVIII",
+      "aliases": [],
+      "path": "sc/SC2-ch48.md"
+    },
+    "SC2-ch49": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER XLIX",
+      "aliases": [],
+      "path": "sc/SC2-ch49.md"
+    },
+    "SC2-ch50": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER L",
+      "aliases": [],
+      "path": "sc/SC2-ch50.md"
+    },
+    "SC2-ch51": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LI",
+      "aliases": [],
+      "path": "sc/SC2-ch51.md"
+    },
+    "SC2-ch52": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LII",
+      "aliases": [],
+      "path": "sc/SC2-ch52.md"
+    },
+    "SC2-ch53": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LIII",
+      "aliases": [],
+      "path": "sc/SC2-ch53.md"
+    },
+    "SC2-ch54": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LIV",
+      "aliases": [],
+      "path": "sc/SC2-ch54.md"
+    },
+    "SC2-ch55": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LV",
+      "aliases": [],
+      "path": "sc/SC2-ch55.md"
+    },
+    "SC2-ch56": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LVI",
+      "aliases": [],
+      "path": "sc/SC2-ch56.md"
+    },
+    "SC2-ch57": {
+      "type": "chapter",
+      "label": "The Survivors of the Chancellor — CHAPTER LVII",
+      "aliases": [],
+      "path": "sc/SC2-ch57.md"
+    },
+    "SI-ch01": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER ONE",
+      "aliases": [],
+      "path": "si/SI-ch01.md"
+    },
+    "SI-ch02": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER TWO",
+      "aliases": [],
+      "path": "si/SI-ch02.md"
+    },
+    "SI-ch03": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER THREE",
+      "aliases": [],
+      "path": "si/SI-ch03.md"
+    },
+    "SI-ch04": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER FOUR",
+      "aliases": [],
+      "path": "si/SI-ch04.md"
+    },
+    "SI-ch05": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER FIVE",
+      "aliases": [],
+      "path": "si/SI-ch05.md"
+    },
+    "SI-ch06": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER SIX",
+      "aliases": [],
+      "path": "si/SI-ch06.md"
+    },
+    "SI-ch07": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER SEVEN",
+      "aliases": [],
+      "path": "si/SI-ch07.md"
+    },
+    "SI-ch08": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER EIGHT",
+      "aliases": [],
+      "path": "si/SI-ch08.md"
+    },
+    "SI-ch09": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER NINE",
+      "aliases": [],
+      "path": "si/SI-ch09.md"
+    },
+    "SI-ch10": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER TEN",
+      "aliases": [],
+      "path": "si/SI-ch10.md"
+    },
+    "SI-ch11": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER ELEVEN",
+      "aliases": [],
+      "path": "si/SI-ch11.md"
+    },
+    "SI-ch12": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER TWELVE",
+      "aliases": [],
+      "path": "si/SI-ch12.md"
+    },
+    "SI-ch13": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER THIRTEEN",
+      "aliases": [],
+      "path": "si/SI-ch13.md"
+    },
+    "SI-ch14": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER FOURTEEN",
+      "aliases": [],
+      "path": "si/SI-ch14.md"
+    },
+    "SI-ch15": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER FIFTEEN",
+      "aliases": [],
+      "path": "si/SI-ch15.md"
+    },
+    "SI-ch16": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER SIXTEEN",
+      "aliases": [],
+      "path": "si/SI-ch16.md"
+    },
+    "SI-ch17": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER SEVENTEEN",
+      "aliases": [],
+      "path": "si/SI-ch17.md"
+    },
+    "SI-ch18": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER EIGHTEEN",
+      "aliases": [],
+      "path": "si/SI-ch18.md"
+    },
+    "SI-ch19": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER NINETEEN",
+      "aliases": [],
+      "path": "si/SI-ch19.md"
+    },
+    "SI-ch20": {
+      "type": "chapter",
+      "label": "The Secret of the Island — CHAPTER TWENTY",
+      "aliases": [],
+      "path": "si/SI-ch20.md"
+    },
+    "TN-ch01": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER I",
+      "aliases": [],
+      "path": "tn/TN-ch01.md"
+    },
+    "TN-ch02": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER II",
+      "aliases": [],
+      "path": "tn/TN-ch02.md"
+    },
+    "TN-ch03": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER III",
+      "aliases": [],
+      "path": "tn/TN-ch03.md"
+    },
+    "TN-ch04": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER IV",
+      "aliases": [],
+      "path": "tn/TN-ch04.md"
+    },
+    "TN-ch05": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER V",
+      "aliases": [],
+      "path": "tn/TN-ch05.md"
+    },
+    "TN-ch06": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER VI",
+      "aliases": [],
+      "path": "tn/TN-ch06.md"
+    },
+    "TN-ch07": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER VII",
+      "aliases": [],
+      "path": "tn/TN-ch07.md"
+    },
+    "TN-ch08": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER VIII",
+      "aliases": [],
+      "path": "tn/TN-ch08.md"
+    },
+    "TN-ch09": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER IX",
+      "aliases": [],
+      "path": "tn/TN-ch09.md"
+    },
+    "TN-ch10": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER X",
+      "aliases": [],
+      "path": "tn/TN-ch10.md"
+    },
+    "TN-ch11": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XI",
+      "aliases": [],
+      "path": "tn/TN-ch11.md"
+    },
+    "TN-ch12": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XII",
+      "aliases": [],
+      "path": "tn/TN-ch12.md"
+    },
+    "TN-ch13": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XIII",
+      "aliases": [],
+      "path": "tn/TN-ch13.md"
+    },
+    "TN-ch14": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XIV",
+      "aliases": [],
+      "path": "tn/TN-ch14.md"
+    },
+    "TN-ch15": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XV",
+      "aliases": [],
+      "path": "tn/TN-ch15.md"
+    },
+    "TN-ch16": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XVI",
+      "aliases": [],
+      "path": "tn/TN-ch16.md"
+    },
+    "TN-ch17": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XVII",
+      "aliases": [],
+      "path": "tn/TN-ch17.md"
+    },
+    "TN-ch18": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XVIII",
+      "aliases": [],
+      "path": "tn/TN-ch18.md"
+    },
+    "TN-ch19": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XIX",
+      "aliases": [],
+      "path": "tn/TN-ch19.md"
+    },
+    "TN-ch20": {
+      "type": "chapter",
+      "label": "Ticket No. 9672 — CHAPTER XX",
+      "aliases": [],
+      "path": "tn/TN-ch20.md"
+    },
+    "TOC": {
+      "type": "overview",
+      "label": "Table of Contents",
+      "aliases": [],
+      "path": "to/TOC.md"
+    },
+    "TT-ch01": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER I",
+      "aliases": [],
+      "path": "tt/TT-ch01.md"
+    },
+    "TT-ch02": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER II",
+      "aliases": [],
+      "path": "tt/TT-ch02.md"
+    },
+    "TT-ch03": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER III",
+      "aliases": [],
+      "path": "tt/TT-ch03.md"
+    },
+    "TT-ch04": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER IV",
+      "aliases": [],
+      "path": "tt/TT-ch04.md"
+    },
+    "TT-ch05": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER V",
+      "aliases": [],
+      "path": "tt/TT-ch05.md"
+    },
+    "TT-ch06": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER VI",
+      "aliases": [],
+      "path": "tt/TT-ch06.md"
+    },
+    "TT-ch07": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER VII",
+      "aliases": [],
+      "path": "tt/TT-ch07.md"
+    },
+    "TT-ch08": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER VIII",
+      "aliases": [],
+      "path": "tt/TT-ch08.md"
+    },
+    "TT-ch09": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER IX",
+      "aliases": [],
+      "path": "tt/TT-ch09.md"
+    },
+    "TT-ch10": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER X",
+      "aliases": [],
+      "path": "tt/TT-ch10.md"
+    },
+    "TT-ch11": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XI",
+      "aliases": [],
+      "path": "tt/TT-ch11.md"
+    },
+    "TT-ch12": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XII",
+      "aliases": [],
+      "path": "tt/TT-ch12.md"
+    },
+    "TT-ch13": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XIII",
+      "aliases": [],
+      "path": "tt/TT-ch13.md"
+    },
+    "TT-ch14": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XIV",
+      "aliases": [],
+      "path": "tt/TT-ch14.md"
+    },
+    "TT-ch15": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XV",
+      "aliases": [],
+      "path": "tt/TT-ch15.md"
+    },
+    "TT-ch16": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XVI",
+      "aliases": [],
+      "path": "tt/TT-ch16.md"
+    },
+    "TT-ch17": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XVII",
+      "aliases": [],
+      "path": "tt/TT-ch17.md"
+    },
+    "TT-ch18": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XVIII",
+      "aliases": [],
+      "path": "tt/TT-ch18.md"
+    },
+    "TT-ch19": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XIX",
+      "aliases": [],
+      "path": "tt/TT-ch19.md"
+    },
+    "TT-ch20": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XX",
+      "aliases": [],
+      "path": "tt/TT-ch20.md"
+    },
+    "TT-ch21": {
+      "type": "chapter",
+      "label": "Topsy Turvy — CHAPTER XXI",
+      "aliases": [],
+      "path": "tt/TT-ch21.md"
+    },
+    "TTLU-ch01": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 1",
+      "aliases": [],
+      "path": "tt/TTLU-ch01.md"
+    },
+    "TTLU-ch02": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 2",
+      "aliases": [],
+      "path": "tt/TTLU-ch02.md"
+    },
+    "TTLU-ch03": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 3",
+      "aliases": [],
+      "path": "tt/TTLU-ch03.md"
+    },
+    "TTLU-ch04": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 4",
+      "aliases": [],
+      "path": "tt/TTLU-ch04.md"
+    },
+    "TTLU-ch05": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 5",
+      "aliases": [],
+      "path": "tt/TTLU-ch05.md"
+    },
+    "TTLU-ch06": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 6",
+      "aliases": [],
+      "path": "tt/TTLU-ch06.md"
+    },
+    "TTLU-ch07": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 7",
+      "aliases": [],
+      "path": "tt/TTLU-ch07.md"
+    },
+    "TTLU-ch08": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 8",
+      "aliases": [],
+      "path": "tt/TTLU-ch08.md"
+    },
+    "TTLU-ch09": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 9",
+      "aliases": [],
+      "path": "tt/TTLU-ch09.md"
+    },
+    "TTLU-ch10": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 10",
+      "aliases": [],
+      "path": "tt/TTLU-ch10.md"
+    },
+    "TTLU-ch11": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 11",
+      "aliases": [],
+      "path": "tt/TTLU-ch11.md"
+    },
+    "TTLU-ch12": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 12",
+      "aliases": [],
+      "path": "tt/TTLU-ch12.md"
+    },
+    "TTLU-ch13": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 13",
+      "aliases": [],
+      "path": "tt/TTLU-ch13.md"
+    },
+    "TTLU-ch14": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 14",
+      "aliases": [],
+      "path": "tt/TTLU-ch14.md"
+    },
+    "TTLU-ch15": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 15",
+      "aliases": [],
+      "path": "tt/TTLU-ch15.md"
+    },
+    "TTLU-ch16": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 16",
+      "aliases": [],
+      "path": "tt/TTLU-ch16.md"
+    },
+    "TTLU-ch17": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 17",
+      "aliases": [],
+      "path": "tt/TTLU-ch17.md"
+    },
+    "TTLU-ch18": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 18",
+      "aliases": [],
+      "path": "tt/TTLU-ch18.md"
+    },
+    "TTLU-ch19": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 19",
+      "aliases": [],
+      "path": "tt/TTLU-ch19.md"
+    },
+    "TTLU-ch20": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 20",
+      "aliases": [],
+      "path": "tt/TTLU-ch20.md"
+    },
+    "TTLU-ch21": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 21",
+      "aliases": [],
+      "path": "tt/TTLU-ch21.md"
+    },
+    "TTLU-ch22": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 22",
+      "aliases": [],
+      "path": "tt/TTLU-ch22.md"
+    },
+    "TTLU-ch23": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 23",
+      "aliases": [],
+      "path": "tt/TTLU-ch23.md"
+    },
+    "TTLU-ch24": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 24",
+      "aliases": [],
+      "path": "tt/TTLU-ch24.md"
+    },
+    "TTLU-ch25": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 1",
+      "aliases": [],
+      "path": "tt/TTLU-ch25.md"
+    },
+    "TTLU-ch26": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 2",
+      "aliases": [],
+      "path": "tt/TTLU-ch26.md"
+    },
+    "TTLU-ch27": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 3",
+      "aliases": [],
+      "path": "tt/TTLU-ch27.md"
+    },
+    "TTLU-ch28": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 4",
+      "aliases": [],
+      "path": "tt/TTLU-ch28.md"
+    },
+    "TTLU-ch29": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 5",
+      "aliases": [],
+      "path": "tt/TTLU-ch29.md"
+    },
+    "TTLU-ch30": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 6",
+      "aliases": [],
+      "path": "tt/TTLU-ch30.md"
+    },
+    "TTLU-ch31": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 7",
+      "aliases": [],
+      "path": "tt/TTLU-ch31.md"
+    },
+    "TTLU-ch32": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 8",
+      "aliases": [],
+      "path": "tt/TTLU-ch32.md"
+    },
+    "TTLU-ch33": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 9",
+      "aliases": [],
+      "path": "tt/TTLU-ch33.md"
+    },
+    "TTLU-ch34": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 10",
+      "aliases": [],
+      "path": "tt/TTLU-ch34.md"
+    },
+    "TTLU-ch35": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 11",
+      "aliases": [],
+      "path": "tt/TTLU-ch35.md"
+    },
+    "TTLU-ch36": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 12",
+      "aliases": [],
+      "path": "tt/TTLU-ch36.md"
+    },
+    "TTLU-ch37": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 13",
+      "aliases": [],
+      "path": "tt/TTLU-ch37.md"
+    },
+    "TTLU-ch38": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 14",
+      "aliases": [],
+      "path": "tt/TTLU-ch38.md"
+    },
+    "TTLU-ch39": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 15",
+      "aliases": [],
+      "path": "tt/TTLU-ch39.md"
+    },
+    "TTLU-ch40": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 16",
+      "aliases": [],
+      "path": "tt/TTLU-ch40.md"
+    },
+    "TTLU-ch41": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 17",
+      "aliases": [],
+      "path": "tt/TTLU-ch41.md"
+    },
+    "TTLU-ch42": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 18",
+      "aliases": [],
+      "path": "tt/TTLU-ch42.md"
+    },
+    "TTLU-ch43": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 19",
+      "aliases": [],
+      "path": "tt/TTLU-ch43.md"
+    },
+    "TTLU-ch44": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 20",
+      "aliases": [],
+      "path": "tt/TTLU-ch44.md"
+    },
+    "TTLU-ch45": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 21",
+      "aliases": [],
+      "path": "tt/TTLU-ch45.md"
+    },
+    "TTLU-ch46": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 22",
+      "aliases": [],
+      "path": "tt/TTLU-ch46.md"
+    },
+    "TTLU-ch47": {
+      "type": "chapter",
+      "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 23",
+      "aliases": [],
+      "path": "tt/TTLU-ch47.md"
+    },
+    "UC-ch01": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER I. CONTRADICTORY LETTERS",
+      "aliases": [],
+      "path": "uc/UC-ch01.md"
+    },
+    "UC-ch02": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER II. ON THE ROAD",
+      "aliases": [],
+      "path": "uc/UC-ch02.md"
+    },
+    "UC-ch03": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER III. THE DOCHART PIT",
+      "aliases": [],
+      "path": "uc/UC-ch03.md"
+    },
+    "UC-ch04": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER IV. THE FORD FAMILY",
+      "aliases": [],
+      "path": "uc/UC-ch04.md"
+    },
+    "UC-ch05": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER V. SOME STRANGE PHENOMENA",
+      "aliases": [],
+      "path": "uc/UC-ch05.md"
+    },
+    "UC-ch06": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER VI. SIMON FORD'S EXPERIMENT",
+      "aliases": [],
+      "path": "uc/UC-ch06.md"
+    },
+    "UC-ch07": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER VII. NEW ABERFOYLE",
+      "aliases": [],
+      "path": "uc/UC-ch07.md"
+    },
+    "UC-ch08": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER VIII. EXPLORING",
+      "aliases": [],
+      "path": "uc/UC-ch08.md"
+    },
+    "UC-ch09": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER IX. THE FIRE-MAIDENS",
+      "aliases": [],
+      "path": "uc/UC-ch09.md"
+    },
+    "UC-ch10": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER X. COAL TOWN",
+      "aliases": [],
+      "path": "uc/UC-ch10.md"
+    },
+    "UC-ch11": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XI. HANGING BY A THREAD",
+      "aliases": [],
+      "path": "uc/UC-ch11.md"
+    },
+    "UC-ch12": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XII. NELL ADOPTED",
+      "aliases": [],
+      "path": "uc/UC-ch12.md"
+    },
+    "UC-ch13": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XIII. ON THE REVOLVING LADDER",
+      "aliases": [],
+      "path": "uc/UC-ch13.md"
+    },
+    "UC-ch14": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XIV. A SUNRISE",
+      "aliases": [],
+      "path": "uc/UC-ch14.md"
+    },
+    "UC-ch15": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XV. LOCH LOMOND AND LOCH KATRINE",
+      "aliases": [],
+      "path": "uc/UC-ch15.md"
+    },
+    "UC-ch16": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XVI. A FINAL THREAT",
+      "aliases": [],
+      "path": "uc/UC-ch16.md"
+    },
+    "UC-ch17": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XVII. THE “MONK”",
+      "aliases": [],
+      "path": "uc/UC-ch17.md"
+    },
+    "UC-ch18": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XVIII. NELL'S WEDDING",
+      "aliases": [],
+      "path": "uc/UC-ch18.md"
+    },
+    "UC-ch19": {
+      "type": "chapter",
+      "label": "The Underground City — CHAPTER XIX. THE LEGEND OF OLD SILFAX",
+      "aliases": [],
+      "path": "uc/UC-ch19.md"
+    },
+    "VB": {
+      "type": "chapter",
+      "label": "A Voyage in a Balloon",
+      "aliases": [],
+      "path": "vb/VB.md"
+    },
+    "WAI-ch01": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER I",
+      "aliases": [],
+      "path": "wa/WAI-ch01.md"
+    },
+    "WAI-ch02": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER II",
+      "aliases": [],
+      "path": "wa/WAI-ch02.md"
+    },
+    "WAI-ch03": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER III",
+      "aliases": [],
+      "path": "wa/WAI-ch03.md"
+    },
+    "WAI-ch04": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER IV",
+      "aliases": [],
+      "path": "wa/WAI-ch04.md"
+    },
+    "WAI-ch05": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER V",
+      "aliases": [],
+      "path": "wa/WAI-ch05.md"
+    },
+    "WAI-ch06": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER VI",
+      "aliases": [],
+      "path": "wa/WAI-ch06.md"
+    },
+    "WAI-ch07": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER VII",
+      "aliases": [],
+      "path": "wa/WAI-ch07.md"
+    },
+    "WAI-ch08": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER VIII",
+      "aliases": [],
+      "path": "wa/WAI-ch08.md"
+    },
+    "WAI-ch09": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER IX",
+      "aliases": [],
+      "path": "wa/WAI-ch09.md"
+    },
+    "WAI-ch10": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER X",
+      "aliases": [],
+      "path": "wa/WAI-ch10.md"
+    },
+    "WAI-ch11": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XI",
+      "aliases": [],
+      "path": "wa/WAI-ch11.md"
+    },
+    "WAI-ch12": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XII",
+      "aliases": [],
+      "path": "wa/WAI-ch12.md"
+    },
+    "WAI-ch13": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XIII",
+      "aliases": [],
+      "path": "wa/WAI-ch13.md"
+    },
+    "WAI-ch14": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XIV",
+      "aliases": [],
+      "path": "wa/WAI-ch14.md"
+    },
+    "WAI-ch15": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XV",
+      "aliases": [],
+      "path": "wa/WAI-ch15.md"
+    },
+    "WAI-ch16": {
+      "type": "chapter",
+      "label": "A Winter Amid the Ice — CHAPTER XVI",
+      "aliases": [],
+      "path": "wa/WAI-ch16.md"
+    },
+    "WC-ch01": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER I",
+      "aliases": [],
+      "path": "wc/WC-ch01.md"
+    },
+    "WC-ch02": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER II",
+      "aliases": [],
+      "path": "wc/WC-ch02.md"
+    },
+    "WC-ch03": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER III",
+      "aliases": [],
+      "path": "wc/WC-ch03.md"
+    },
+    "WC-ch04": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER IV",
+      "aliases": [],
+      "path": "wc/WC-ch04.md"
+    },
+    "WC-ch05": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER V",
+      "aliases": [],
+      "path": "wc/WC-ch05.md"
+    },
+    "WC-ch06": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER VI",
+      "aliases": [],
+      "path": "wc/WC-ch06.md"
+    },
+    "WC-ch07": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER VII",
+      "aliases": [],
+      "path": "wc/WC-ch07.md"
+    },
+    "WC-ch08": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER VIII",
+      "aliases": [],
+      "path": "wc/WC-ch08.md"
+    },
+    "WC-ch09": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER IX",
+      "aliases": [],
+      "path": "wc/WC-ch09.md"
+    },
+    "WC-ch10": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER X",
+      "aliases": [],
+      "path": "wc/WC-ch10.md"
+    },
+    "WC-ch11": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XI",
+      "aliases": [],
+      "path": "wc/WC-ch11.md"
+    },
+    "WC-ch12": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XII",
+      "aliases": [],
+      "path": "wc/WC-ch12.md"
+    },
+    "WC-ch13": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XIII",
+      "aliases": [],
+      "path": "wc/WC-ch13.md"
+    },
+    "WC-ch14": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XIV",
+      "aliases": [],
+      "path": "wc/WC-ch14.md"
+    },
+    "WC-ch15": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XV",
+      "aliases": [],
+      "path": "wc/WC-ch15.md"
+    },
+    "WC-ch16": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XVI",
+      "aliases": [],
+      "path": "wc/WC-ch16.md"
+    },
+    "WC-ch17": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XVII",
+      "aliases": [],
+      "path": "wc/WC-ch17.md"
+    },
+    "WC-ch18": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XVIII",
+      "aliases": [],
+      "path": "wc/WC-ch18.md"
+    },
+    "WC-ch19": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XIX",
+      "aliases": [],
+      "path": "wc/WC-ch19.md"
+    },
+    "WC-ch20": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XX",
+      "aliases": [],
+      "path": "wc/WC-ch20.md"
+    },
+    "WC-ch21": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XXI",
+      "aliases": [],
+      "path": "wc/WC-ch21.md"
+    },
+    "WC-ch22": {
+      "type": "chapter",
+      "label": "The Waif of the Cynthia — CHAPTER XXII",
+      "aliases": [],
+      "path": "wc/WC-ch22.md"
+    },
+    "YEAR": {
+      "type": "chapter",
+      "label": "In the Year 2889",
+      "aliases": [],
+      "path": "ye/YEAR.md"
     }
   },
   "alias_index": {
     "About": "About",
     "About This Wiki": "About",
-    "关于": "About"
+    "关于": "About",
+    "ACH-ch01": "ACH-ch01",
+    "ACH-ch02": "ACH-ch02",
+    "ACH-ch03": "ACH-ch03",
+    "ACH-ch04": "ACH-ch04",
+    "ACH-ch05": "ACH-ch05",
+    "ACH-ch06": "ACH-ch06",
+    "ACH-ch07": "ACH-ch07",
+    "ACH-ch08": "ACH-ch08",
+    "ACH-ch09": "ACH-ch09",
+    "ACH-ch10": "ACH-ch10",
+    "ACH-ch11": "ACH-ch11",
+    "ACH-ch12": "ACH-ch12",
+    "ACH-ch13": "ACH-ch13",
+    "ACH-ch14": "ACH-ch14",
+    "ACH-ch15": "ACH-ch15",
+    "ACH-ch16": "ACH-ch16",
+    "ACH-ch17": "ACH-ch17",
+    "ACH-ch18": "ACH-ch18",
+    "ACH-ch19": "ACH-ch19",
+    "ACH-ch20": "ACH-ch20",
+    "ACH-ch21": "ACH-ch21",
+    "ACH-ch22": "ACH-ch22",
+    "ACH-ch23": "ACH-ch23",
+    "ACH-ch24": "ACH-ch24",
+    "ACH-ch25": "ACH-ch25",
+    "ACH-ch26": "ACH-ch26",
+    "ACH-ch27": "ACH-ch27",
+    "ACH-ch28": "ACH-ch28",
+    "ACH-ch29": "ACH-ch29",
+    "ACH-ch30": "ACH-ch30",
+    "ACH-ch31": "ACH-ch31",
+    "ACH-ch32": "ACH-ch32",
+    "ACH-ch33": "ACH-ch33",
+    "ACH-ch34": "ACH-ch34",
+    "ACH-ch35": "ACH-ch35",
+    "ACH-ch36": "ACH-ch36",
+    "ACH-ch37": "ACH-ch37",
+    "ACH-ch38": "ACH-ch38",
+    "ACH-ch39": "ACH-ch39",
+    "ACH-ch40": "ACH-ch40",
+    "ACH-ch41": "ACH-ch41",
+    "ACH-ch42": "ACH-ch42",
+    "ACH-ch43": "ACH-ch43",
+    "ACH-ch44": "ACH-ch44",
+    "ACH-ch45": "ACH-ch45",
+    "ACH-ch46": "ACH-ch46",
+    "ACH-ch47": "ACH-ch47",
+    "ACH-ch48": "ACH-ch48",
+    "ACH-ch49": "ACH-ch49",
+    "ACH-ch50": "ACH-ch50",
+    "ACH-ch51": "ACH-ch51",
+    "ACH-ch52": "ACH-ch52",
+    "ACH-ch53": "ACH-ch53",
+    "ACH-ch54": "ACH-ch54",
+    "ACH-ch55": "ACH-ch55",
+    "ACH-ch56": "ACH-ch56",
+    "ACH-ch57": "ACH-ch57",
+    "ACH-ch58": "ACH-ch58",
+    "AM-ch01": "AM-ch01",
+    "AM-ch02": "AM-ch02",
+    "AM-ch03": "AM-ch03",
+    "AM-ch04": "AM-ch04",
+    "AM-ch05": "AM-ch05",
+    "AM-ch06": "AM-ch06",
+    "AM-ch07": "AM-ch07",
+    "AM-ch08": "AM-ch08",
+    "AM-ch09": "AM-ch09",
+    "AM-ch10": "AM-ch10",
+    "AM-ch11": "AM-ch11",
+    "AM-ch12": "AM-ch12",
+    "AM-ch13": "AM-ch13",
+    "AM-ch14": "AM-ch14",
+    "AM-ch15": "AM-ch15",
+    "AM-ch16": "AM-ch16",
+    "AM-ch17": "AM-ch17",
+    "AM-ch18": "AM-ch18",
+    "AM-ch19": "AM-ch19",
+    "AM-ch20": "AM-ch20",
+    "AM-ch21": "AM-ch21",
+    "AM-ch22": "AM-ch22",
+    "AM-ch23": "AM-ch23",
+    "AM-ch24": "AM-ch24",
+    "AM-ch25": "AM-ch25",
+    "AM-ch26": "AM-ch26",
+    "AMB": "AMB",
+    "ASC-ch01": "ASC-ch01",
+    "ASC-ch02": "ASC-ch02",
+    "ASC-ch03": "ASC-ch03",
+    "ASC-ch04": "ASC-ch04",
+    "ASC-ch05": "ASC-ch05",
+    "ASC-ch06": "ASC-ch06",
+    "ASC-ch07": "ASC-ch07",
+    "ASC-ch08": "ASC-ch08",
+    "ASC-ch09": "ASC-ch09",
+    "ASC-ch10": "ASC-ch10",
+    "ASC-ch11": "ASC-ch11",
+    "ASC-ch12": "ASC-ch12",
+    "ASC-ch13": "ASC-ch13",
+    "ASC-ch14": "ASC-ch14",
+    "ASC-ch15": "ASC-ch15",
+    "ASC-ch16": "ASC-ch16",
+    "ASC-ch17": "ASC-ch17",
+    "ASC-ch18": "ASC-ch18",
+    "ASC-ch19": "ASC-ch19",
+    "ASC-ch20": "ASC-ch20",
+    "ASC-ch21": "ASC-ch21",
+    "ASC-ch22": "ASC-ch22",
+    "ASC-ch23": "ASC-ch23",
+    "ASC-ch24": "ASC-ch24",
+    "ASC-ch25": "ASC-ch25",
+    "ASC-ch26": "ASC-ch26",
+    "ASC-ch27": "ASC-ch27",
+    "AWED-ch01": "AWED-ch01",
+    "AWED-ch02": "AWED-ch02",
+    "AWED-ch03": "AWED-ch03",
+    "AWED-ch04": "AWED-ch04",
+    "AWED-ch05": "AWED-ch05",
+    "AWED-ch06": "AWED-ch06",
+    "AWED-ch07": "AWED-ch07",
+    "AWED-ch08": "AWED-ch08",
+    "AWED-ch09": "AWED-ch09",
+    "AWED-ch10": "AWED-ch10",
+    "AWED-ch11": "AWED-ch11",
+    "AWED-ch12": "AWED-ch12",
+    "AWED-ch13": "AWED-ch13",
+    "AWED-ch14": "AWED-ch14",
+    "AWED-ch15": "AWED-ch15",
+    "AWED-ch16": "AWED-ch16",
+    "AWED-ch17": "AWED-ch17",
+    "AWED-ch18": "AWED-ch18",
+    "AWED-ch19": "AWED-ch19",
+    "AWED-ch20": "AWED-ch20",
+    "AWED-ch21": "AWED-ch21",
+    "AWED-ch22": "AWED-ch22",
+    "AWED-ch23": "AWED-ch23",
+    "AWED-ch24": "AWED-ch24",
+    "AWED-ch25": "AWED-ch25",
+    "AWED-ch26": "AWED-ch26",
+    "AWED-ch27": "AWED-ch27",
+    "AWED-ch28": "AWED-ch28",
+    "AWED-ch29": "AWED-ch29",
+    "AWED-ch30": "AWED-ch30",
+    "AWED-ch31": "AWED-ch31",
+    "AWED-ch32": "AWED-ch32",
+    "AWED-ch33": "AWED-ch33",
+    "AWED-ch34": "AWED-ch34",
+    "AWED-ch35": "AWED-ch35",
+    "AWED-ch36": "AWED-ch36",
+    "AWED-ch37": "AWED-ch37",
+    "BR-ch01": "BR-ch01",
+    "BR-ch02": "BR-ch02",
+    "BR-ch03": "BR-ch03",
+    "BR-ch04": "BR-ch04",
+    "BR-ch05": "BR-ch05",
+    "BR-ch06": "BR-ch06",
+    "BR-ch07": "BR-ch07",
+    "BR-ch08": "BR-ch08",
+    "BR-ch09": "BR-ch09",
+    "BR-ch10": "BR-ch10",
+    "DA": "DA",
+    "DOSE-ch01": "DOSE-ch01",
+    "DOSE-ch02": "DOSE-ch02",
+    "DOSE-ch03": "DOSE-ch03",
+    "DOSE-ch04": "DOSE-ch04",
+    "DOSE-ch05": "DOSE-ch05",
+    "DOSE-ch06": "DOSE-ch06",
+    "DOSE-ch07": "DOSE-ch07",
+    "DOSE-ch08": "DOSE-ch08",
+    "DOSE-ch09": "DOSE-ch09",
+    "DOSE-ch10": "DOSE-ch10",
+    "DOSE-ch11": "DOSE-ch11",
+    "DOSE-ch12": "DOSE-ch12",
+    "DOSE-ch13": "DOSE-ch13",
+    "DOSE-ch14": "DOSE-ch14",
+    "DOSE-ch15": "DOSE-ch15",
+    "DOSE-ch16": "DOSE-ch16",
+    "DOSE-ch17": "DOSE-ch17",
+    "DSCF-ch01": "DSCF-ch01",
+    "DSCF-ch02": "DSCF-ch02",
+    "DSCF-ch03": "DSCF-ch03",
+    "DSCF-ch04": "DSCF-ch04",
+    "DSCF-ch05": "DSCF-ch05",
+    "DSCF-ch06": "DSCF-ch06",
+    "DSCF-ch07": "DSCF-ch07",
+    "DSCF-ch08": "DSCF-ch08",
+    "DSCF-ch09": "DSCF-ch09",
+    "DSCF-ch10": "DSCF-ch10",
+    "DSCF-ch11": "DSCF-ch11",
+    "DSCF-ch12": "DSCF-ch12",
+    "DSCF-ch13": "DSCF-ch13",
+    "DSCF-ch14": "DSCF-ch14",
+    "DSCF-ch15": "DSCF-ch15",
+    "DSCF-ch16": "DSCF-ch16",
+    "DSCF-ch17": "DSCF-ch17",
+    "DSCF-ch18": "DSCF-ch18",
+    "DSCF-ch19": "DSCF-ch19",
+    "DSCF-ch20": "DSCF-ch20",
+    "DSCF-ch21": "DSCF-ch21",
+    "DSCF-ch22": "DSCF-ch22",
+    "DSCF-ch23": "DSCF-ch23",
+    "DSCF-ch24": "DSCF-ch24",
+    "DSCF-ch25": "DSCF-ch25",
+    "DSCF-ch26": "DSCF-ch26",
+    "DSCF-ch27": "DSCF-ch27",
+    "DSCF-ch28": "DSCF-ch28",
+    "DSCF-ch29": "DSCF-ch29",
+    "DSCF-ch30": "DSCF-ch30",
+    "DSCF-ch31": "DSCF-ch31",
+    "DSCF-ch32": "DSCF-ch32",
+    "DSCF-ch33": "DSCF-ch33",
+    "DSCF-ch34": "DSCF-ch34",
+    "DSCF-ch35": "DSCF-ch35",
+    "DSCF-ch36": "DSCF-ch36",
+    "DSCF-ch37": "DSCF-ch37",
+    "DSCF-ch38": "DSCF-ch38",
+    "EHLA-ch01": "EHLA-ch01",
+    "EHLA-ch02": "EHLA-ch02",
+    "EHLA-ch03": "EHLA-ch03",
+    "EHLA-ch04": "EHLA-ch04",
+    "EHLA-ch05": "EHLA-ch05",
+    "EHLA-ch06": "EHLA-ch06",
+    "EHLA-ch07": "EHLA-ch07",
+    "EHLA-ch08": "EHLA-ch08",
+    "EHLA-ch09": "EHLA-ch09",
+    "EHLA-ch10": "EHLA-ch10",
+    "EHLA-ch11": "EHLA-ch11",
+    "EHLA-ch12": "EHLA-ch12",
+    "EHLA-ch13": "EHLA-ch13",
+    "EHLA-ch14": "EHLA-ch14",
+    "EHLA-ch15": "EHLA-ch15",
+    "EHLA-ch16": "EHLA-ch16",
+    "EHLA-ch17": "EHLA-ch17",
+    "EHLA-ch18": "EHLA-ch18",
+    "EHLA-ch19": "EHLA-ch19",
+    "EHLA-ch20": "EHLA-ch20",
+    "EHLA-ch21": "EHLA-ch21",
+    "EHLA-ch22": "EHLA-ch22",
+    "EHLA-ch23": "EHLA-ch23",
+    "EHLA-ch24": "EHLA-ch24",
+    "EHLA-ch25": "EHLA-ch25",
+    "EHLA-ch26": "EHLA-ch26",
+    "EHLA-ch27": "EHLA-ch27",
+    "EHLA-ch28": "EHLA-ch28",
+    "EHLA-ch29": "EHLA-ch29",
+    "EHLA-ch30": "EHLA-ch30",
+    "EHLA-ch31": "EHLA-ch31",
+    "EHLA-ch32": "EHLA-ch32",
+    "EHLA-ch33": "EHLA-ch33",
+    "EHLA-ch34": "EHLA-ch34",
+    "EHLA-ch35": "EHLA-ch35",
+    "EHLA-ch36": "EHLA-ch36",
+    "EHLA-ch37": "EHLA-ch37",
+    "EHLA-ch38": "EHLA-ch38",
+    "EHLA-ch39": "EHLA-ch39",
+    "EHLA-ch40": "EHLA-ch40",
+    "FC-ch01": "FC-ch01",
+    "FC-ch02": "FC-ch02",
+    "FC-ch03": "FC-ch03",
+    "FC-ch04": "FC-ch04",
+    "FC-ch05": "FC-ch05",
+    "FC-ch06": "FC-ch06",
+    "FC-ch07": "FC-ch07",
+    "FC-ch08": "FC-ch08",
+    "FC-ch09": "FC-ch09",
+    "FC-ch10": "FC-ch10",
+    "FC-ch11": "FC-ch11",
+    "FC-ch12": "FC-ch12",
+    "FC-ch13": "FC-ch13",
+    "FC-ch14": "FC-ch14",
+    "FC-ch15": "FC-ch15",
+    "FC-ch16": "FC-ch16",
+    "FC-ch17": "FC-ch17",
+    "FC-ch18": "FC-ch18",
+    "FC-ch19": "FC-ch19",
+    "FC-ch20": "FC-ch20",
+    "FC-ch21": "FC-ch21",
+    "FC-ch22": "FC-ch22",
+    "FC-ch23": "FC-ch23",
+    "FC-ch24": "FC-ch24",
+    "FC-ch25": "FC-ch25",
+    "FC-ch26": "FC-ch26",
+    "FC-ch27": "FC-ch27",
+    "FC-ch28": "FC-ch28",
+    "FC-ch29": "FC-ch29",
+    "FC-ch30": "FC-ch30",
+    "FC-ch31": "FC-ch31",
+    "FC-ch32": "FC-ch32",
+    "FC-ch33": "FC-ch33",
+    "FC-ch34": "FC-ch34",
+    "FC-ch35": "FC-ch35",
+    "FC-ch36": "FC-ch36",
+    "FC-ch37": "FC-ch37",
+    "FC-ch38": "FC-ch38",
+    "FC-ch39": "FC-ch39",
+    "FC-ch40": "FC-ch40",
+    "FC-ch41": "FC-ch41",
+    "FC-ch42": "FC-ch42",
+    "FC-ch43": "FC-ch43",
+    "FC-ch44": "FC-ch44",
+    "FC-ch45": "FC-ch45",
+    "FC-ch46": "FC-ch46",
+    "FC-ch47": "FC-ch47",
+    "FEM-ch01": "FEM-ch01",
+    "FEM-ch02": "FEM-ch02",
+    "FEM-ch03": "FEM-ch03",
+    "FEM-ch04": "FEM-ch04",
+    "FEM-ch05": "FEM-ch05",
+    "FEM-ch06": "FEM-ch06",
+    "FEM-ch07": "FEM-ch07",
+    "FEM-ch08": "FEM-ch08",
+    "FEM-ch09": "FEM-ch09",
+    "FEM-ch10": "FEM-ch10",
+    "FEM-ch11": "FEM-ch11",
+    "FEM-ch12": "FEM-ch12",
+    "FEM-ch13": "FEM-ch13",
+    "FEM-ch14": "FEM-ch14",
+    "FEM-ch15": "FEM-ch15",
+    "FEM-ch16": "FEM-ch16",
+    "FEM-ch17": "FEM-ch17",
+    "FEM-ch18": "FEM-ch18",
+    "FEM-ch19": "FEM-ch19",
+    "FEM-ch20": "FEM-ch20",
+    "FEM-ch21": "FEM-ch21",
+    "FEM-ch22": "FEM-ch22",
+    "FEM-ch23": "FEM-ch23",
+    "FEM-ch24": "FEM-ch24",
+    "FEM-ch25": "FEM-ch25",
+    "FEM-ch26": "FEM-ch26",
+    "FEM-ch27": "FEM-ch27",
+    "FEM-ch28": "FEM-ch28",
+    "FF-ch01": "FF-ch01",
+    "FF-ch02": "FF-ch02",
+    "FF-ch03": "FF-ch03",
+    "FF-ch04": "FF-ch04",
+    "FF-ch05": "FF-ch05",
+    "FF-ch06": "FF-ch06",
+    "FF-ch07": "FF-ch07",
+    "FF-ch08": "FF-ch08",
+    "FF-ch09": "FF-ch09",
+    "FF-ch10": "FF-ch10",
+    "FF-ch11": "FF-ch11",
+    "FF-ch12": "FF-ch12",
+    "FF-ch13": "FF-ch13",
+    "FF-ch14": "FF-ch14",
+    "FF-ch15": "FF-ch15",
+    "FF-ch16": "FF-ch16",
+    "FF-ch17": "FF-ch17",
+    "FF-ch18": "FF-ch18",
+    "FWB-ch01": "FWB-ch01",
+    "FWB-ch02": "FWB-ch02",
+    "FWB-ch03": "FWB-ch03",
+    "FWB-ch04": "FWB-ch04",
+    "FWB-ch05": "FWB-ch05",
+    "FWB-ch06": "FWB-ch06",
+    "FWB-ch07": "FWB-ch07",
+    "FWB-ch08": "FWB-ch08",
+    "FWB-ch09": "FWB-ch09",
+    "FWB-ch10": "FWB-ch10",
+    "FWB-ch11": "FWB-ch11",
+    "FWB-ch12": "FWB-ch12",
+    "FWB-ch13": "FWB-ch13",
+    "FWB-ch14": "FWB-ch14",
+    "FWB-ch15": "FWB-ch15",
+    "FWB-ch16": "FWB-ch16",
+    "FWB-ch17": "FWB-ch17",
+    "FWB-ch18": "FWB-ch18",
+    "FWB-ch19": "FWB-ch19",
+    "FWB-ch20": "FWB-ch20",
+    "FWB-ch21": "FWB-ch21",
+    "FWB-ch22": "FWB-ch22",
+    "FWB-ch23": "FWB-ch23",
+    "FWB-ch24": "FWB-ch24",
+    "FWB-ch25": "FWB-ch25",
+    "FWB-ch26": "FWB-ch26",
+    "FWB-ch27": "FWB-ch27",
+    "FWB-ch28": "FWB-ch28",
+    "FWB-ch29": "FWB-ch29",
+    "FWB-ch30": "FWB-ch30",
+    "FWB-ch31": "FWB-ch31",
+    "FWB-ch32": "FWB-ch32",
+    "FWB-ch33": "FWB-ch33",
+    "FWB-ch34": "FWB-ch34",
+    "FWB-ch35": "FWB-ch35",
+    "FWB-ch36": "FWB-ch36",
+    "FWB-ch37": "FWB-ch37",
+    "FWB-ch38": "FWB-ch38",
+    "FWB-ch39": "FWB-ch39",
+    "FWB-ch40": "FWB-ch40",
+    "FWB-ch41": "FWB-ch41",
+    "FWB-ch42": "FWB-ch42",
+    "FWB-ch43": "FWB-ch43",
+    "FWB-ch44": "FWB-ch44",
+    "GM-ch01": "GM-ch01",
+    "GM-ch02": "GM-ch02",
+    "GM-ch03": "GM-ch03",
+    "GM-ch04": "GM-ch04",
+    "GM-ch05": "GM-ch05",
+    "GM-ch06": "GM-ch06",
+    "GM-ch07": "GM-ch07",
+    "GM-ch08": "GM-ch08",
+    "GM-ch09": "GM-ch09",
+    "GM-ch10": "GM-ch10",
+    "GM-ch11": "GM-ch11",
+    "GM-ch12": "GM-ch12",
+    "GM-ch13": "GM-ch13",
+    "GM-ch14": "GM-ch14",
+    "GM-ch15": "GM-ch15",
+    "GM-ch16": "GM-ch16",
+    "GM-ch17": "GM-ch17",
+    "GM-ch18": "GM-ch18",
+    "GM-ch19": "GM-ch19",
+    "GM-ch20": "GM-ch20",
+    "GM-ch21": "GM-ch21",
+    "GM-ch22": "GM-ch22",
+    "JCE-ch01": "JCE-ch01",
+    "JCE-ch02": "JCE-ch02",
+    "JCE-ch03": "JCE-ch03",
+    "JCE-ch04": "JCE-ch04",
+    "JCE-ch05": "JCE-ch05",
+    "JCE-ch06": "JCE-ch06",
+    "JCE-ch07": "JCE-ch07",
+    "JCE-ch08": "JCE-ch08",
+    "JCE-ch09": "JCE-ch09",
+    "JCE-ch10": "JCE-ch10",
+    "JCE-ch11": "JCE-ch11",
+    "JCE-ch12": "JCE-ch12",
+    "JCE-ch13": "JCE-ch13",
+    "JCE-ch14": "JCE-ch14",
+    "JCE-ch15": "JCE-ch15",
+    "JCE-ch16": "JCE-ch16",
+    "JCE-ch17": "JCE-ch17",
+    "JCE-ch18": "JCE-ch18",
+    "JCE-ch19": "JCE-ch19",
+    "JCE-ch20": "JCE-ch20",
+    "JCE-ch21": "JCE-ch21",
+    "JCE-ch22": "JCE-ch22",
+    "JCE-ch23": "JCE-ch23",
+    "JCE-ch24": "JCE-ch24",
+    "JCE-ch25": "JCE-ch25",
+    "JCE-ch26": "JCE-ch26",
+    "JCE-ch27": "JCE-ch27",
+    "JCE-ch28": "JCE-ch28",
+    "JCE-ch29": "JCE-ch29",
+    "JCE-ch30": "JCE-ch30",
+    "JCE-ch31": "JCE-ch31",
+    "JCE-ch32": "JCE-ch32",
+    "JCE-ch33": "JCE-ch33",
+    "JCE-ch34": "JCE-ch34",
+    "JCE-ch35": "JCE-ch35",
+    "JCE-ch36": "JCE-ch36",
+    "JCE-ch37": "JCE-ch37",
+    "JCE-ch38": "JCE-ch38",
+    "JCE-ch39": "JCE-ch39",
+    "JCE-ch40": "JCE-ch40",
+    "JCE-ch41": "JCE-ch41",
+    "JCE-ch42": "JCE-ch42",
+    "JCE-ch43": "JCE-ch43",
+    "JCE-ch44": "JCE-ch44",
+    "JCE-ch45": "JCE-ch45",
+    "MI-ch01": "MI-ch01",
+    "MI-ch02": "MI-ch02",
+    "MI-ch03": "MI-ch03",
+    "MI-ch04": "MI-ch04",
+    "MI-ch05": "MI-ch05",
+    "MI-ch06": "MI-ch06",
+    "MI-ch07": "MI-ch07",
+    "MI-ch08": "MI-ch08",
+    "MI-ch09": "MI-ch09",
+    "MI-ch10": "MI-ch10",
+    "MI-ch11": "MI-ch11",
+    "MI-ch12": "MI-ch12",
+    "MI-ch13": "MI-ch13",
+    "MI-ch14": "MI-ch14",
+    "MI-ch15": "MI-ch15",
+    "MI-ch16": "MI-ch16",
+    "MI-ch17": "MI-ch17",
+    "MI-ch18": "MI-ch18",
+    "MI-ch19": "MI-ch19",
+    "MI-ch20": "MI-ch20",
+    "MI-ch21": "MI-ch21",
+    "MI-ch22": "MI-ch22",
+    "MI-ch23": "MI-ch23",
+    "MI-ch24": "MI-ch24",
+    "MI-ch25": "MI-ch25",
+    "MI-ch26": "MI-ch26",
+    "MI-ch27": "MI-ch27",
+    "MI-ch28": "MI-ch28",
+    "MI-ch29": "MI-ch29",
+    "MI-ch30": "MI-ch30",
+    "MI-ch31": "MI-ch31",
+    "MI-ch32": "MI-ch32",
+    "MI-ch33": "MI-ch33",
+    "MI-ch34": "MI-ch34",
+    "MI-ch35": "MI-ch35",
+    "MI-ch36": "MI-ch36",
+    "MI-ch37": "MI-ch37",
+    "MI-ch38": "MI-ch38",
+    "MI-ch39": "MI-ch39",
+    "MI-ch40": "MI-ch40",
+    "MI-ch41": "MI-ch41",
+    "MI-ch42": "MI-ch42",
+    "MI-ch43": "MI-ch43",
+    "MI-ch44": "MI-ch44",
+    "MI-ch45": "MI-ch45",
+    "MI-ch46": "MI-ch46",
+    "MI-ch47": "MI-ch47",
+    "MI-ch48": "MI-ch48",
+    "MI-ch49": "MI-ch49",
+    "MI-ch50": "MI-ch50",
+    "MI-ch51": "MI-ch51",
+    "MI-ch52": "MI-ch52",
+    "MI-ch53": "MI-ch53",
+    "MI-ch54": "MI-ch54",
+    "MI-ch55": "MI-ch55",
+    "MI-ch56": "MI-ch56",
+    "MI-ch57": "MI-ch57",
+    "MI-ch58": "MI-ch58",
+    "MI-ch59": "MI-ch59",
+    "MI-ch60": "MI-ch60",
+    "MI-ch61": "MI-ch61",
+    "MI-ch62": "MI-ch62",
+    "MS-ch01": "MS-ch01",
+    "MS-ch02": "MS-ch02",
+    "MS-ch03": "MS-ch03",
+    "MS-ch04": "MS-ch04",
+    "MS-ch05": "MS-ch05",
+    "MS-ch06": "MS-ch06",
+    "MS-ch07": "MS-ch07",
+    "MS-ch08": "MS-ch08",
+    "MS-ch09": "MS-ch09",
+    "MS-ch10": "MS-ch10",
+    "MS-ch11": "MS-ch11",
+    "MS-ch12": "MS-ch12",
+    "MS-ch13": "MS-ch13",
+    "MS-ch14": "MS-ch14",
+    "MS-ch15": "MS-ch15",
+    "MS-ch16": "MS-ch16",
+    "MS-ch17": "MS-ch17",
+    "MS-ch18": "MS-ch18",
+    "MS-ch19": "MS-ch19",
+    "MS-ch20": "MS-ch20",
+    "MS-ch21": "MS-ch21",
+    "MS-ch22": "MS-ch22",
+    "MS-ch23": "MS-ch23",
+    "MS-ch24": "MS-ch24",
+    "MS-ch25": "MS-ch25",
+    "MS-ch26": "MS-ch26",
+    "MS-ch27": "MS-ch27",
+    "MS-ch28": "MS-ch28",
+    "MS-ch29": "MS-ch29",
+    "MS-ch30": "MS-ch30",
+    "MS-ch31": "MS-ch31",
+    "MS-ch32": "MS-ch32",
+    "MS-ch33": "MS-ch33",
+    "MS-ch34": "MS-ch34",
+    "MW-ch01": "MW-ch01",
+    "MW-ch02": "MW-ch02",
+    "MW-ch03": "MW-ch03",
+    "MW-ch04": "MW-ch04",
+    "MW-ch05": "MW-ch05",
+    "MW-ch06": "MW-ch06",
+    "MW-ch07": "MW-ch07",
+    "MW-ch08": "MW-ch08",
+    "MW-ch09": "MW-ch09",
+    "MW-ch10": "MW-ch10",
+    "MW-ch11": "MW-ch11",
+    "MW-ch12": "MW-ch12",
+    "MW-ch13": "MW-ch13",
+    "MW-ch14": "MW-ch14",
+    "MW-ch15": "MW-ch15",
+    "MW-ch16": "MW-ch16",
+    "MW-ch17": "MW-ch17",
+    "MW-ch18": "MW-ch18",
+    "MZ-ch01": "MZ-ch01",
+    "MZ-ch02": "MZ-ch02",
+    "MZ-ch03": "MZ-ch03",
+    "MZ-ch04": "MZ-ch04",
+    "MZ-ch05": "MZ-ch05",
+    "OC-ch01": "OC-ch01",
+    "OC-ch02": "OC-ch02",
+    "OC-ch03": "OC-ch03",
+    "OC-ch04": "OC-ch04",
+    "OC-ch05": "OC-ch05",
+    "OC-ch06": "OC-ch06",
+    "OC-ch07": "OC-ch07",
+    "OC-ch08": "OC-ch08",
+    "OC-ch09": "OC-ch09",
+    "OC-ch10": "OC-ch10",
+    "OC-ch11": "OC-ch11",
+    "OC-ch12": "OC-ch12",
+    "OC-ch13": "OC-ch13",
+    "OC-ch14": "OC-ch14",
+    "OC-ch15": "OC-ch15",
+    "OC-ch16": "OC-ch16",
+    "OC-ch17": "OC-ch17",
+    "OC-ch18": "OC-ch18",
+    "OC-ch19": "OC-ch19",
+    "OC-ch20": "OC-ch20",
+    "OC-ch21": "OC-ch21",
+    "OC-ch22": "OC-ch22",
+    "OC-ch23": "OC-ch23",
+    "OC-ch24": "OC-ch24",
+    "OC-ch25": "OC-ch25",
+    "OC-ch26": "OC-ch26",
+    "OC-ch27": "OC-ch27",
+    "OC-ch28": "OC-ch28",
+    "OC-ch29": "OC-ch29",
+    "OC-ch30": "OC-ch30",
+    "OC-ch31": "OC-ch31",
+    "OC-ch32": "OC-ch32",
+    "OC-ch33": "OC-ch33",
+    "OC-ch34": "OC-ch34",
+    "OC-ch35": "OC-ch35",
+    "OC-ch36": "OC-ch36",
+    "OC-ch37": "OC-ch37",
+    "OC-ch38": "OC-ch38",
+    "OC-ch39": "OC-ch39",
+    "OC-ch40": "OC-ch40",
+    "OC-ch41": "OC-ch41",
+    "OC-ch42": "OC-ch42",
+    "OC-ch43": "OC-ch43",
+    "OC-ch44": "OC-ch44",
+    "OC-ch45": "OC-ch45",
+    "PL-ch01": "PL-ch01",
+    "PL-ch02": "PL-ch02",
+    "PL-ch03": "PL-ch03",
+    "PL-ch04": "PL-ch04",
+    "PL-ch05": "PL-ch05",
+    "PL-ch06": "PL-ch06",
+    "PL-ch07": "PL-ch07",
+    "PL-ch08": "PL-ch08",
+    "PL-ch09": "PL-ch09",
+    "RC-ch01": "RC-ch01",
+    "RC-ch02": "RC-ch02",
+    "RC-ch03": "RC-ch03",
+    "RC-ch04": "RC-ch04",
+    "RC-ch05": "RC-ch05",
+    "RC-ch06": "RC-ch06",
+    "RC-ch07": "RC-ch07",
+    "RC-ch08": "RC-ch08",
+    "RC-ch09": "RC-ch09",
+    "RC-ch10": "RC-ch10",
+    "RC-ch11": "RC-ch11",
+    "RC-ch12": "RC-ch12",
+    "RC-ch13": "RC-ch13",
+    "RC-ch14": "RC-ch14",
+    "RC-ch15": "RC-ch15",
+    "RC-ch16": "RC-ch16",
+    "RC-ch17": "RC-ch17",
+    "RC-ch18": "RC-ch18",
+    "RC-ch19": "RC-ch19",
+    "RC-ch20": "RC-ch20",
+    "RC-ch21": "RC-ch21",
+    "RC-ch22": "RC-ch22",
+    "RC-ch23": "RC-ch23",
+    "RM-ch01": "RM-ch01",
+    "RM-ch02": "RM-ch02",
+    "RM-ch03": "RM-ch03",
+    "RM-ch04": "RM-ch04",
+    "RM-ch05": "RM-ch05",
+    "RM-ch06": "RM-ch06",
+    "RM-ch07": "RM-ch07",
+    "RM-ch08": "RM-ch08",
+    "RM-ch09": "RM-ch09",
+    "RM-ch10": "RM-ch10",
+    "RM-ch11": "RM-ch11",
+    "RM-ch12": "RM-ch12",
+    "RM-ch13": "RM-ch13",
+    "RM-ch14": "RM-ch14",
+    "RM-ch15": "RM-ch15",
+    "RM-ch16": "RM-ch16",
+    "RM-ch17": "RM-ch17",
+    "RM-ch18": "RM-ch18",
+    "RM-ch19": "RM-ch19",
+    "RM-ch20": "RM-ch20",
+    "RM-ch21": "RM-ch21",
+    "RM-ch22": "RM-ch22",
+    "RM-ch23": "RM-ch23",
+    "SC-ch01": "SC-ch01",
+    "SC-ch02": "SC-ch02",
+    "SC-ch03": "SC-ch03",
+    "SC-ch04": "SC-ch04",
+    "SC-ch05": "SC-ch05",
+    "SC-ch06": "SC-ch06",
+    "SC-ch07": "SC-ch07",
+    "SC-ch08": "SC-ch08",
+    "SC-ch09": "SC-ch09",
+    "SC-ch10": "SC-ch10",
+    "SC-ch11": "SC-ch11",
+    "SC-ch12": "SC-ch12",
+    "SC-ch13": "SC-ch13",
+    "SC-ch14": "SC-ch14",
+    "SC-ch15": "SC-ch15",
+    "SC-ch16": "SC-ch16",
+    "SC-ch17": "SC-ch17",
+    "SC-ch18": "SC-ch18",
+    "SC-ch19": "SC-ch19",
+    "SC-ch20": "SC-ch20",
+    "SC-ch21": "SC-ch21",
+    "SC-ch22": "SC-ch22",
+    "SC-ch23": "SC-ch23",
+    "SC-ch24": "SC-ch24",
+    "SC-ch25": "SC-ch25",
+    "SC-ch26": "SC-ch26",
+    "SC-ch27": "SC-ch27",
+    "SC-ch28": "SC-ch28",
+    "SC-ch29": "SC-ch29",
+    "SC-ch30": "SC-ch30",
+    "SC-ch31": "SC-ch31",
+    "SC-ch32": "SC-ch32",
+    "SC-ch33": "SC-ch33",
+    "SC-ch34": "SC-ch34",
+    "SC-ch35": "SC-ch35",
+    "SC-ch36": "SC-ch36",
+    "SC-ch37": "SC-ch37",
+    "SC-ch38": "SC-ch38",
+    "SC-ch39": "SC-ch39",
+    "SC-ch40": "SC-ch40",
+    "SC-ch41": "SC-ch41",
+    "SC-ch42": "SC-ch42",
+    "SC-ch43": "SC-ch43",
+    "SC-ch44": "SC-ch44",
+    "SC-ch45": "SC-ch45",
+    "SC-ch46": "SC-ch46",
+    "SC-ch47": "SC-ch47",
+    "SC-ch48": "SC-ch48",
+    "SC-ch49": "SC-ch49",
+    "SC-ch50": "SC-ch50",
+    "SC-ch51": "SC-ch51",
+    "SC-ch52": "SC-ch52",
+    "SC-ch53": "SC-ch53",
+    "SC-ch54": "SC-ch54",
+    "SC-ch55": "SC-ch55",
+    "SC-ch56": "SC-ch56",
+    "SC-ch57": "SC-ch57",
+    "SC-ch58": "SC-ch58",
+    "SC-ch59": "SC-ch59",
+    "SC-ch60": "SC-ch60",
+    "SC-ch61": "SC-ch61",
+    "SC-ch62": "SC-ch62",
+    "SC-ch63": "SC-ch63",
+    "SC-ch64": "SC-ch64",
+    "SC-ch65": "SC-ch65",
+    "SC-ch66": "SC-ch66",
+    "SC2-ch01": "SC2-ch01",
+    "SC2-ch02": "SC2-ch02",
+    "SC2-ch03": "SC2-ch03",
+    "SC2-ch04": "SC2-ch04",
+    "SC2-ch05": "SC2-ch05",
+    "SC2-ch06": "SC2-ch06",
+    "SC2-ch07": "SC2-ch07",
+    "SC2-ch08": "SC2-ch08",
+    "SC2-ch09": "SC2-ch09",
+    "SC2-ch10": "SC2-ch10",
+    "SC2-ch11": "SC2-ch11",
+    "SC2-ch12": "SC2-ch12",
+    "SC2-ch13": "SC2-ch13",
+    "SC2-ch14": "SC2-ch14",
+    "SC2-ch15": "SC2-ch15",
+    "SC2-ch16": "SC2-ch16",
+    "SC2-ch17": "SC2-ch17",
+    "SC2-ch18": "SC2-ch18",
+    "SC2-ch19": "SC2-ch19",
+    "SC2-ch20": "SC2-ch20",
+    "SC2-ch21": "SC2-ch21",
+    "SC2-ch22": "SC2-ch22",
+    "SC2-ch23": "SC2-ch23",
+    "SC2-ch24": "SC2-ch24",
+    "SC2-ch25": "SC2-ch25",
+    "SC2-ch26": "SC2-ch26",
+    "SC2-ch27": "SC2-ch27",
+    "SC2-ch28": "SC2-ch28",
+    "SC2-ch29": "SC2-ch29",
+    "SC2-ch30": "SC2-ch30",
+    "SC2-ch31": "SC2-ch31",
+    "SC2-ch32": "SC2-ch32",
+    "SC2-ch33": "SC2-ch33",
+    "SC2-ch34": "SC2-ch34",
+    "SC2-ch35": "SC2-ch35",
+    "SC2-ch36": "SC2-ch36",
+    "SC2-ch37": "SC2-ch37",
+    "SC2-ch38": "SC2-ch38",
+    "SC2-ch39": "SC2-ch39",
+    "SC2-ch40": "SC2-ch40",
+    "SC2-ch41": "SC2-ch41",
+    "SC2-ch42": "SC2-ch42",
+    "SC2-ch43": "SC2-ch43",
+    "SC2-ch44": "SC2-ch44",
+    "SC2-ch45": "SC2-ch45",
+    "SC2-ch46": "SC2-ch46",
+    "SC2-ch47": "SC2-ch47",
+    "SC2-ch48": "SC2-ch48",
+    "SC2-ch49": "SC2-ch49",
+    "SC2-ch50": "SC2-ch50",
+    "SC2-ch51": "SC2-ch51",
+    "SC2-ch52": "SC2-ch52",
+    "SC2-ch53": "SC2-ch53",
+    "SC2-ch54": "SC2-ch54",
+    "SC2-ch55": "SC2-ch55",
+    "SC2-ch56": "SC2-ch56",
+    "SC2-ch57": "SC2-ch57",
+    "SI-ch01": "SI-ch01",
+    "SI-ch02": "SI-ch02",
+    "SI-ch03": "SI-ch03",
+    "SI-ch04": "SI-ch04",
+    "SI-ch05": "SI-ch05",
+    "SI-ch06": "SI-ch06",
+    "SI-ch07": "SI-ch07",
+    "SI-ch08": "SI-ch08",
+    "SI-ch09": "SI-ch09",
+    "SI-ch10": "SI-ch10",
+    "SI-ch11": "SI-ch11",
+    "SI-ch12": "SI-ch12",
+    "SI-ch13": "SI-ch13",
+    "SI-ch14": "SI-ch14",
+    "SI-ch15": "SI-ch15",
+    "SI-ch16": "SI-ch16",
+    "SI-ch17": "SI-ch17",
+    "SI-ch18": "SI-ch18",
+    "SI-ch19": "SI-ch19",
+    "SI-ch20": "SI-ch20",
+    "TN-ch01": "TN-ch01",
+    "TN-ch02": "TN-ch02",
+    "TN-ch03": "TN-ch03",
+    "TN-ch04": "TN-ch04",
+    "TN-ch05": "TN-ch05",
+    "TN-ch06": "TN-ch06",
+    "TN-ch07": "TN-ch07",
+    "TN-ch08": "TN-ch08",
+    "TN-ch09": "TN-ch09",
+    "TN-ch10": "TN-ch10",
+    "TN-ch11": "TN-ch11",
+    "TN-ch12": "TN-ch12",
+    "TN-ch13": "TN-ch13",
+    "TN-ch14": "TN-ch14",
+    "TN-ch15": "TN-ch15",
+    "TN-ch16": "TN-ch16",
+    "TN-ch17": "TN-ch17",
+    "TN-ch18": "TN-ch18",
+    "TN-ch19": "TN-ch19",
+    "TN-ch20": "TN-ch20",
+    "TOC": "TOC",
+    "Table of Contents": "TOC",
+    "TT-ch01": "TT-ch01",
+    "TT-ch02": "TT-ch02",
+    "TT-ch03": "TT-ch03",
+    "TT-ch04": "TT-ch04",
+    "TT-ch05": "TT-ch05",
+    "TT-ch06": "TT-ch06",
+    "TT-ch07": "TT-ch07",
+    "TT-ch08": "TT-ch08",
+    "TT-ch09": "TT-ch09",
+    "TT-ch10": "TT-ch10",
+    "TT-ch11": "TT-ch11",
+    "TT-ch12": "TT-ch12",
+    "TT-ch13": "TT-ch13",
+    "TT-ch14": "TT-ch14",
+    "TT-ch15": "TT-ch15",
+    "TT-ch16": "TT-ch16",
+    "TT-ch17": "TT-ch17",
+    "TT-ch18": "TT-ch18",
+    "TT-ch19": "TT-ch19",
+    "TT-ch20": "TT-ch20",
+    "TT-ch21": "TT-ch21",
+    "TTLU-ch01": "TTLU-ch01",
+    "TTLU-ch02": "TTLU-ch02",
+    "TTLU-ch03": "TTLU-ch03",
+    "TTLU-ch04": "TTLU-ch04",
+    "TTLU-ch05": "TTLU-ch05",
+    "TTLU-ch06": "TTLU-ch06",
+    "TTLU-ch07": "TTLU-ch07",
+    "TTLU-ch08": "TTLU-ch08",
+    "TTLU-ch09": "TTLU-ch09",
+    "TTLU-ch10": "TTLU-ch10",
+    "TTLU-ch11": "TTLU-ch11",
+    "TTLU-ch12": "TTLU-ch12",
+    "TTLU-ch13": "TTLU-ch13",
+    "TTLU-ch14": "TTLU-ch14",
+    "TTLU-ch15": "TTLU-ch15",
+    "TTLU-ch16": "TTLU-ch16",
+    "TTLU-ch17": "TTLU-ch17",
+    "TTLU-ch18": "TTLU-ch18",
+    "TTLU-ch19": "TTLU-ch19",
+    "TTLU-ch20": "TTLU-ch20",
+    "TTLU-ch21": "TTLU-ch21",
+    "TTLU-ch22": "TTLU-ch22",
+    "TTLU-ch23": "TTLU-ch23",
+    "TTLU-ch24": "TTLU-ch24",
+    "TTLU-ch25": "TTLU-ch25",
+    "TTLU-ch26": "TTLU-ch26",
+    "TTLU-ch27": "TTLU-ch27",
+    "TTLU-ch28": "TTLU-ch28",
+    "TTLU-ch29": "TTLU-ch29",
+    "TTLU-ch30": "TTLU-ch30",
+    "TTLU-ch31": "TTLU-ch31",
+    "TTLU-ch32": "TTLU-ch32",
+    "TTLU-ch33": "TTLU-ch33",
+    "TTLU-ch34": "TTLU-ch34",
+    "TTLU-ch35": "TTLU-ch35",
+    "TTLU-ch36": "TTLU-ch36",
+    "TTLU-ch37": "TTLU-ch37",
+    "TTLU-ch38": "TTLU-ch38",
+    "TTLU-ch39": "TTLU-ch39",
+    "TTLU-ch40": "TTLU-ch40",
+    "TTLU-ch41": "TTLU-ch41",
+    "TTLU-ch42": "TTLU-ch42",
+    "TTLU-ch43": "TTLU-ch43",
+    "TTLU-ch44": "TTLU-ch44",
+    "TTLU-ch45": "TTLU-ch45",
+    "TTLU-ch46": "TTLU-ch46",
+    "TTLU-ch47": "TTLU-ch47",
+    "UC-ch01": "UC-ch01",
+    "UC-ch02": "UC-ch02",
+    "UC-ch03": "UC-ch03",
+    "UC-ch04": "UC-ch04",
+    "UC-ch05": "UC-ch05",
+    "UC-ch06": "UC-ch06",
+    "UC-ch07": "UC-ch07",
+    "UC-ch08": "UC-ch08",
+    "UC-ch09": "UC-ch09",
+    "UC-ch10": "UC-ch10",
+    "UC-ch11": "UC-ch11",
+    "UC-ch12": "UC-ch12",
+    "UC-ch13": "UC-ch13",
+    "UC-ch14": "UC-ch14",
+    "UC-ch15": "UC-ch15",
+    "UC-ch16": "UC-ch16",
+    "UC-ch17": "UC-ch17",
+    "UC-ch18": "UC-ch18",
+    "UC-ch19": "UC-ch19",
+    "VB": "VB",
+    "WAI-ch01": "WAI-ch01",
+    "WAI-ch02": "WAI-ch02",
+    "WAI-ch03": "WAI-ch03",
+    "WAI-ch04": "WAI-ch04",
+    "WAI-ch05": "WAI-ch05",
+    "WAI-ch06": "WAI-ch06",
+    "WAI-ch07": "WAI-ch07",
+    "WAI-ch08": "WAI-ch08",
+    "WAI-ch09": "WAI-ch09",
+    "WAI-ch10": "WAI-ch10",
+    "WAI-ch11": "WAI-ch11",
+    "WAI-ch12": "WAI-ch12",
+    "WAI-ch13": "WAI-ch13",
+    "WAI-ch14": "WAI-ch14",
+    "WAI-ch15": "WAI-ch15",
+    "WAI-ch16": "WAI-ch16",
+    "WC-ch01": "WC-ch01",
+    "WC-ch02": "WC-ch02",
+    "WC-ch03": "WC-ch03",
+    "WC-ch04": "WC-ch04",
+    "WC-ch05": "WC-ch05",
+    "WC-ch06": "WC-ch06",
+    "WC-ch07": "WC-ch07",
+    "WC-ch08": "WC-ch08",
+    "WC-ch09": "WC-ch09",
+    "WC-ch10": "WC-ch10",
+    "WC-ch11": "WC-ch11",
+    "WC-ch12": "WC-ch12",
+    "WC-ch13": "WC-ch13",
+    "WC-ch14": "WC-ch14",
+    "WC-ch15": "WC-ch15",
+    "WC-ch16": "WC-ch16",
+    "WC-ch17": "WC-ch17",
+    "WC-ch18": "WC-ch18",
+    "WC-ch19": "WC-ch19",
+    "WC-ch20": "WC-ch20",
+    "WC-ch21": "WC-ch21",
+    "WC-ch22": "WC-ch22",
+    "YEAR": "YEAR"
   },
-  "page_count": 1,
-  "generated": "2026-07-14T02:34:28Z"
+  "page_count": 970,
+  "generated": "2026-07-14T03:29:46Z"
 }

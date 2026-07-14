@@ -1,0 +1,52 @@
+---
+id: SC2-ch21
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XXI"
+description: "NOVEMBER 21st to 24th.--There was assuredly no time to be lost before we ought to leave Ham Rock reef."
+book: "The Survivors of the Chancellor"
+chapter: 849
+book_seq: 849
+pn_prefix: "SC2-021"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XXI
+
+NOVEMBER 21st to 24th.--There was assuredly no time to be lost before we ought to leave Ham Rock reef. The barometer had been falling ever since the morning, the sea was getting rougher, and there was every symptom that the weather, hitherto so favourable, was on the point of breaking; and in the event of a gale the "Chancellor" must inevitably be dashed to pieces on the rocks.
+
+In the evening, when the tide was quite low, and the rocks uncovered, Curtis, the boatswain, and Dowlas went to examine the ridge which had proved so serious an obstruction, Falsten and I accompanied them. We came to the conclusion that the only way of effecting a passage was by cutting away the rocks with pikes over a surface measuring ten feet by six. An extra depth of nine or ten inches would give a sufficient gauge, and the channel might be accurately marked out by buoys; in this way it was conjectured the ship might be got over the ridge and so reach the deep water beyond.
+
+"But this basalt is as hard as granite," said the boatswain; "besides, we can only get at it at low water, and consequently could only work at it for two hours out of the twenty-four."
+
+"All the more reason why we should begin at once, boatswain," said Curtis.
+
+"But if it is to take us a month, captain, perhaps by that time the ship may be knocked to atoms. Couldn't we manage to blow up the rock? we have got some powder on board."
+
+"Not enough for that;" said the boatswain.
+
+"You have something better than powder," said Falsten.
+
+"What's that?" asked the captain.
+
+"Picrate of potash," was the reply.
+
+And so the explosive substance with which poor Ruby had so grievously imperilled the vessel was now to serve her in good stead, and I now saw what a lucky thing it was that the case had been deposited safely on the reef, instead of being thrown into the sea.
+
+Picric acid is a crystalline bitter product extracted from coal-tar, and forming, in combination with potash, a yellow salt known as picrate of potash. The explosive power of this substance is inferior to that of gun-cotton or of dynamite, but far greater than that of ordinary gunpowder; one grain of picric powder producing an effect equal to that of thirteen grains of common powder. Picrate is easily ignited by any sharp or violent shock, and some gun-priming which we had in our possession would answer the purpose of setting it alight.
+
+The sailors went off at once for their pikes, and Dowlas and his assistants, under the direction of Falsten, who, as an engineer, understood such matters, proceeded to hollow out a mine wherein to deposit the powder. At first we hoped that everything would be ready for the blasting to take place on the following morning, but when daylight appeared we found that the men, although they had laboured with a will, had only been able to work for an hour at low water and that four tides must ebb before the mine had been sunk to the required depth.
+
+Not until eight o'clock on the morning of the 23rd was the work complete. The hole was bored obliquely in the rock, and was large enough to contain about ten pounds of explosive matter. Just as the picrate was being introduced into the aperture, Falsten interposed:--
+
+"Stop," he said, "I think it will be best to mix the picrate with common powder, as that will allow us to fire the mine with a match instead of the gun-priming which would be necessary to produce a shock. Besides, it is an understood thing that the addition of gunpowder renders picrate far more effective in blasting such rocks as this, as then the violence of the picrate prepares the way for the powder which, slower in its action, will complete the disseverment of the basalt."
+
+Falsten is not a great talker, but what he does say is always very much to the point. His good advice was immediately followed; the two substances were mixed together, and after a match had been introduced the compound was rammed closely into the hole.
+
+Notwithstanding that the "Chancellor" was at a distance from the rocks that insured her from any danger of being injured by the explosion, it was thought advisable that the passengers and crew should take refuge in the grotto at the extremity of the reef, and even Mr. Kear, in spite of his many objections, was forced to leave the ship. Falsten, as soon as he had set fire to the match, joined us in our retreat.
+
+The train was to burn for ten minutes, and at the end of that time the explosion took place; the report, on account of the depth of the mine, being muffled, and much less noisy than we had expected. But the operation had been perfectly successful. Before we reached the ridge we could see that the basalt had been literally reduced to powder, and that a little channel, already being filled by the rising tide, had been cut right through the obstacle. A loud hurrah rang through the air; our prison-doors were opened, and we were prisoners no more!
+
+At high tide the "Chancellor" weighed anchor and floated out into the open sea, but she was not in a condition to sail until she had been ballasted; and for the next twenty-four hours the crew were busily employed in taking up blocks of stone, and such of the bales of cotton as had sustained the least amount of injury.
+
+In the course of the day, M. Letourneur, Andre, Miss Herbey, and I took a farewell walk round the reef, and Andre with artistic skill, carved on the wall of the grotto the word "Chancellor,"--the designation Ham Rock, which we had given to the reef,--and the date of our running aground. Then we bade adieu to the scene of our three week's sojourn, where we had passed days that to some at least of our party will be reckoned as far from being the least happy of their lives.
+
+At high tide this morning, the 24th, with low, top, and gallant sails all set, the "Chancellor" started on her onward way, and two hours later the last peak of Ham Rock had vanished below the horizon.

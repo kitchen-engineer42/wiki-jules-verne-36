@@ -1,0 +1,56 @@
+---
+id: SC2-ch37
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XXXVII"
+description: "DECEMBER 23rd to 30th--After the storm the wind settled back into its old quarter, blowing pretty briskly from the north-east."
+book: "The Survivors of the Chancellor"
+chapter: 865
+book_seq: 865
+pn_prefix: "SC2-037"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XXXVII
+
+DECEMBER 23rd to 30th--After the storm the wind settled back into its old quarter, blowing pretty briskly from the north-east. As the breeze was all in our favour it was important to make the most of it, and after Dowlas had carefully readjusted the mast, the sail was once more hoisted, and we were carried along at the rate of two or two and a half knots an hour. A new rudder, formed of a spar and a good-sized plank, has been fitted in the place of the one we lost, but with the wind in its present quarter it is in little requisition. The platform of the raft has been repaired, the disjointed planks have been closed by means of ropes and wedges, and that portion of the parapet that was washed away has been replaced, so that we are no longer wetted by the waves. In fact, nothing has been left undone to insure the solidity of our raft, and to render it capable of resisting the wear and tear of the wind and waves. But the dangers of wind and waves are not those which we have most to dread.
+
+Together with the unclouded sky came a return of the tropical heat, which during the preceding days had caused us such serious inconvenience; fortunately on the 23rd the excessive warmth was somewhat tempered by the breeze, and as the tent was once again put up, we were able to find shelter under it by turns.
+
+But the want of food was beginning to tell upon us sadly, and our sunken cheeks and wasted forms were visible tokens of what we were enduring. With most of us hunger seemed to attack the entire nervous system, and the constriction of the stomach produced an acute sensation of pain. A narcotic, such as opium or tobacco, might have availed to soothe, if not to cure, the gnawing agony; but of sedatives we had none, so the pain must be endured.
+
+One alone there was amongst us who did not feel the pangs of hunger. Lieutenant Walter seemed as it were to feed upon the fever that raged within him; but then he was the victim of the most torturing thirst, Miss Herbey, besides reserving for him a portion of her own insufficient allowance, obtained from the captain a small extra supply of water, with which every quarter of an hour she moistened the parched lips of the young man, who almost too weak to speak, could only express his thanks by a grateful smile. Poor fellow! all our care cannot avail to save him now; he is doomed, most surely doomed to die.
+
+On the 23rd he seemed to be conscious of his condition, for he made a sign to me to sit down by his side, and then summoning up all his strength to speak, he asked me in a few broken words how long I thought he had to live? Slight as my hesitation was, Walter noticed it immediately.
+
+"The truth," he said; "tell me the plain truth."
+
+"My dear fellow, I am not a doctor, you know," I began, "and I can scarcely judge--"
+
+"Never mind," he interrupted, "tell me just what you think."
+
+I looked at him attentively for some moments, then laid my ear against his chest. In the last few days his malady had made fearfully rapid strides, and it was only too evident that one lung had already ceased to act, whilst the other was scarcely capable of performing the work of respiration. The young man was now suffering from the fever which is the sure symptom of the approaching end in all tuberculous complaints.
+
+The lieutenant kept his eye fixed upon me with a look of eager inquiry. I knew not what to say, and sought to evade his question.
+
+"My dear boy," I said, "in our present circumstances not one of us can tell how long he has to live. Not one of us knows what may happen in the course of the next eight days."
+
+"The next eight days," he murmured, as he looked eagerly into my face.
+
+And then, turning away his head, he seemed to fall into a sort of doze.
+
+The 24th, 25th, and 26th passed without any alteration in our circumstances, and strange, nay, incredible as it may sound, we began to get accustomed to our condition of starvation. Often, when reading the histories of shipwrecks, I have suspected the accounts to be greatly exaggerated; but now I fully realize their truth, and marvel when I find on how little nutriment it is possible to exist for so long a time. To our daily half-pound of biscuit the captain has thought to add a few drops of brandy, and the stimulant helps considerably to sustain our strength. If we had the same provisions for two months, or even for one, there might be room for hope; but our supplies diminish rapidly, and the time is fast approaching when of food and drink there will be none.
+
+The sea had furnished us with food once, and, difficult as the task of fishing had now become, at all hazards the attempt must be made again. Accordingly the carpenter and the boatswain set to work and made lines out of some untwisted hemp, to which they fixed some nails that they pulled out of the flooring of the raft, and bent into proper shape. The boatswain regarded his device with evident satisfaction.
+
+"I don't mean to say," said he to me, "that these nails are first-rate fish-hooks; but one thing I do know, and that is, with proper bait they will act as well as the best. But this biscuit is no good at all. Let me but just get hold of one fish, and I shall know fast enough how to use it to catch some more."
+
+And the true difficulty was how to catch the first fish. It was evident that fish were not abundant in these waters, nevertheless the lines were cast. But the biscuit with which they were baited dissolved at once in the water, and we did not get a single bite. For two days the attempt was made in vain, and as it only involved what seemed a lavish waste of our only means of subsistence, it was given up in despair.
+
+To-day, the 30th, as a last resource, the boatswain tried what a piece of coloured rag might do by way of attracting some voracious fish, and having obtained from Miss Herbey a little piece of the red shawl she wears, he fastened it to his hook. But still no success; for when, after several hours, he examined his lines, the crimson shred was still hanging intact as he had fixed it. The man was quite discouraged at his failure.
+
+"But there will be plenty of bait before long," he said to me in a solemn undertone.
+
+"What do you mean?" said I, struck by his significant manner.
+
+"You'll know soon enough," he answered.
+
+What did he insinuate? The words, coming from a man usually so reserved, have haunted me all night.

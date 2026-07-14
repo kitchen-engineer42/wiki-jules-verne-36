@@ -1,6 +1,6 @@
 // WIKI_LANG = en
 export const CORE_FEATURED = [];
-export const PREFACE_IDS   = [];
+export const PREFACE_IDS   = ['TOC'];
 export const APPENDIX_IDS  = [];
 export const HOME_SECTIONS = [
   { label: 'Characters', tag: null, type: 'character', featuredOnly: false, limit: 8 },

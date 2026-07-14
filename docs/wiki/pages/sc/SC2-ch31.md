@@ -1,0 +1,36 @@
+---
+id: SC2-ch31
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XXXI"
+description: "DECEMBER 7th CONTINUED.--Our first day on the raft has passed without any special incident."
+book: "The Survivors of the Chancellor"
+chapter: 859
+book_seq: 859
+pn_prefix: "SC2-031"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XXXI
+
+DECEMBER 7th CONTINUED.--Our first day on the raft has passed without any special incident. At eight o'clock this morning Curtis asked our attention for a moment.
+
+"My friends," he said, "listen to me. Here on this raft, just as when we were on board the 'Chancellor,' I consider myself your captain; and as your captain, I expect that all of you will strictly obey my orders. Let me beg of you, one and all, to think solely of our common welfare; let us work with one heart and with one soul, and may Heaven protect us!"
+
+After delivering these few words with an emotion that evidenced their earnestness, the captain consulted his compass, and found that the freshening breeze was blowing from the north. This was fortunate for us, and no time was to be lost in taking advantage of it to speed us on our dubious way. Dowlas was occupied in fixing the mast into the socket that had already been prepared for its reception, and in order to support it more firmly he placed spurs of wood, forming arched buttresses, on either side. While he was thus employed the boatswain and the other seamen were stretching the large royal sail on the yard that had been reserved for that purpose.
+
+By half-past nine the mast was hoisted, and held firmly in its place by some shrouds attached securely to the sides of the raft; then the sail was run up and trimmed to the wind, and the raft began to make a perceptible progress under the brisk breeze.
+
+As soon as we had once started, the carpenter set to work to contrive some sort of a rudder, that would enable us to maintain our desired direction. Curtis and Falsten assisted him with some serviceable suggestions, and in a couple of hours' time he had made and fixed to the back of the raft a kind of paddle, very similar to those used by the Malays.
+
+At noon, after the necessary preliminary observations, Curtis took the altitude of the sun. The result gave lat. 15deg. 7min. N. by long. 49deg. 35min. W. as our position, which, on consulting the chart, proved to be about 650 miles north-east of the coast of Paramaribo in Dutch Guiana.
+
+Now even under the most favourable circumstances, with trade-winds and weather always in our favour, we cannot by any chance hope to make more than ten or twelve miles a day, so that the voyage cannot possibly be performed under a period of two months. To be sure there is the hope to be indulged that we may fall in with a passing vessel, but as the part of the Atlantic into which we have been driven is intermediate between the tracks of the French and English Transatlantic steamers either from the Antilles or the Brazils, we cannot reckon at all upon such a contingency happening in our favour; whilst if a calm should set in, or worse still, if the wind were to blow from the east, not only two months, but twice, nay, three times that length of time will be required to accomplish the passage.
+
+At best, however, our provisions, even though used with the greatest care, will barely last three months. Curtis has called us into consultation, and as the working of the raft does not require such labour as to exhaust our physical strength, all have agreed to submit to a regimen which, although it will suffice to keep us alive, will certainly not fully satisfy the cravings of hunger and thirst.
+
+As far as we can estimate, we have somewhere about 500 lbs. of meat and about the same quantity of biscuit. To make this last for three months we ought not to consume very much more than 5 lbs. a day of each, which, when divided among eighteen people, will make the daily ration 5 oz. of meat and 5 oz. of biscuit for each person. Of water we have certainly not more than 200 gallons, but by reducing each person's allowance to a pint a day, we hope to eke out that, too, over the space of three months.
+
+It is arranged that the food shall be distributed under the boatswain's superintendence every morning at ten o'clock. Each person will then receive his allowance of meat and biscuit, which may be eaten when and how he pleases. The water will be given out twice a day--at ten in the morning and six in the evening; but as the only drinking-vessels in our possession are the tea-kettle and the old Irishman's tin pot, the water has to be consumed immediately on distribution. As for the brandy, of which there are only five gallons, it will be doled out with the strictest limitation, and no one will be allowed to touch it except with the captain's express permission.
+
+I should not forget that there are two sources from which we may hope to increase our store. First, any rain that may fall will add to our supply of water, and two empty barrels have been placed ready to receive it; secondly, we hope to do something in the way of fishing, and the sailors have already begun to prepare some lines.
+
+All have mutually agreed to abide by the rules that have been laid down, for all are fully aware that by nothing but the most precise regimen can we hope to avert the horrors of famine, and forewarned by the fate, of many who in similar circumstances have miserably perished, we are determined to do all that prudence can suggest for husbanding our stores.

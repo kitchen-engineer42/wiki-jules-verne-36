@@ -1,0 +1,54 @@
+---
+id: SC2-ch44
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XLIV"
+description: "JANUARY 15th.--After this further shattering of our excited hopes death alone now stares us in the face; slow and lingering as that death may be, soon"
+book: "The Survivors of the Chancellor"
+chapter: 872
+book_seq: 872
+pn_prefix: "SC2-044"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XLIV
+
+JANUARY 15th.--After this further shattering of our excited hopes death alone now stares us in the face; slow and lingering as that death may be, sooner or later it must inevitably come.
+
+To-day some clouds that rose in the west have brought us a few puffs of wind; and in spite of our prostration, we appreciate the moderation, slight as it is, in the temperature. To my parched throat the air seemed a little less trying but it is now seven days since the boatswain took his haul of fish, and during that period we have eaten nothing even Andre Letourneur finished yesterday the last morsel of the biscuit which his sorrowful and self-denying father had entrusted to my charge.
+
+Jynxstrop the negro has broken loose from his confinement, but Curtis has taken no measures for putting him again under restraint. It is not to be apprehended that the miserable fellow and his accomplices, weakened as they are by their protracted fast, will attempt to do us any mischief now.
+
+Some huge sharks made their appearance to-day, cleaving the water rapidly with their great black fins. The monsters came close up to the edge of the raft, and Flaypole, who was leaning over, narrowly escaped having his arm snapped off by one of them. I could not help regarding them as living sepulchres, which ere long might swallow up our miserable carcasses; yet, withal, I profess that my feelings were rather those of fascination than of horror.
+
+The boatswain, who stood with clenched teeth and dilated eye, regarded these sharks from quite another point of view. He thought about devouring the sharks, not about the sharks devouring him; and if he could succeed in catching one, I doubt if one of us would reject the tough and untempting flesh. He determined to make the attempt, and as he had no whirl which he could fasten to his rope he set to work to find something that might serve as a substitute. Curtis and Dowlas were consulted, and after a short conversation, during which they kept throwing bits of rope and spars into the water in order to entice the sharks to remain by the raft, Dowlas went and fetched his carpenter's tool, which is at once a hatchet and a hammer. Of this he proposed to make the whirl of which they were in need, under the hope that either the sharp edge of the adze or the pointed extremity opposite would stick firmly into the jaws of any shark that might swallow it. The wooden handle of the hammer was secured to the rope, which, in its turn, was tightly fastened to the raft.
+
+With eager, almost breathless, excitement we stood watching the preparations, at the same time using every means in our power to attract the attention of the sharks. As soon as the whirl was ready the boatswain began to think about bait; and, talking rapidly to himself, ransacked every corner of the raft, as though he expected to find some dead body coming opportunely to sight. But his search ended in nothing; and the only plan that suggested itself was again to have recourse to Miss Herbey's red shawl, of which a fragment was wrapped round the head of the hammer. After testing the strength of his line, and reassuring-himself that it was fastened firmly both to the hammer and to the raft, the boatswain lowered it into the water.
+
+The sea was quite transparent, and any object was clearly visible to a depth of two hundred feet below the surface. Leaning over the low parapet of the raft we looked on in breathless silence, as the scarlet rag, distinct as it was against the blue mass of water, made its slow descent. But one by one the sharks seemed to disappear, They could not, however, have gone far away, and it was not likely that anything in the shape of bait dropped near them would long escape their keen voracity.
+
+Suddenly, without speaking, the boatswain raised his hand and pointed to a dark mass skimming along the surface of the water, and making straight in our direction. It was a shark, certainly not less than twelve feet long. As soon as the creature was about four fathoms from the raft, the boatswain gently drew in his line until the whirl was in such a position that the shark must cross right over it; at the same time he shook the line a little, that he might give the whirl the appearance, if he could, of being something alive and moving. As the creature came near, my heart beat violently; I could see its eyes flashing above the waves; and its gaping jaws, as it turned half over on its back, exhibited long rows of pointed teeth.
+
+I know not who it was, but some one at that moment uttered an involuntary cry of horror. The shark came to a standstill, turned about, and escaped quite out of sight. The boatswain was pale with anger.
+
+"The first man who speaks," he said, "I will kill him on the spot."
+
+Again he applied himself to his task. The whirl again was lowered, this time to the depth of twenty fathoms, but for half an hour or more not a shark could be distinguished; but as the waters far below seemed somehow to be troubled I could not help believing that some of the brutes at least were still there.
+
+All at once, with a violent jerk, the cord was wrested from the boatswain's hands; firmly attached, however, as it was to the raft, it was not lost. The bait had been seized by a shark, and the iron had made good its hold upon the creature's flesh.
+
+"Now, then, my lads," cried the boatswain, "haul away!"
+
+Passengers and sailors, one and all, put forth what strength they had to drag the rope, but so violent were the creature's struggles that it required all our efforts (and it is needless to say that they were willing enough) to bring it to the surface, At length, after exertions that almost exhausted us, the water became agitated by the violent flappings of the tail and fins; and looking down I saw the huge carcase of the shark writhing convulsively amidst waves that were stained with blood.
+
+"Steady! steady!" said the boatswain, as the head appeared above.
+
+The whirl had passed right through the jaw into the middle of the throat; so that no struggle on the part of the animal could possibly release it. Dowlas seized his hatchet, ready to despatch the brute the moment if should be landed on the raft. A short sharp snap was heard. The shark had closed its jaws, and bitten through the wooden handle of the hammer. Another moment and it had turned round and was completely gone.
+
+A howl of despair burst from all our lips. All the labour and the patience, all had been in vain. Dowlas made a few more unsuccessful attempts, but as the whirl was lost, and they had no means of replacing it, there was no further room for hope. They did, indeed, lower some cords twisted into running knots, but (as might have been expected) these only slipped over, without holding, the slimy bodies of the sharks. As a last resource the boatswain allowed his naked leg to hang over the side of the raft; the monsters, however, were proof even against this attraction.
+
+Reduced once again to a gloomy despondency, all turned to their places, to await the end that cannot now be long deferred.
+
+Just as I moved away I heard the boatswain say to Curtis,--
+
+"Captain, when shall we draw lots?"
+
+The captain made no reply.

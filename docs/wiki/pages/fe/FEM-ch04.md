@@ -1,0 +1,88 @@
+---
+id: FEM-ch04
+type: chapter
+label: "From the Earth to the Moon — CHAPTER IV"
+description: "ANSWER FROM THE CAMBRIDGE OBSERVATORY."
+book: "From the Earth to the Moon"
+chapter: 195
+book_seq: 195
+pn_prefix: "FEM-004"
+tags: [chapter]
+---
+# From the Earth to the Moon — CHAPTER IV
+
+ANSWER FROM THE CAMBRIDGE OBSERVATORY.
+
+In the meantime Barbicane did not lose an instant amidst the enthusiasm of which he was the object. His first care was to call together his colleagues in the board-room of the Gun Club. There, after a debate, they agreed to consult astronomers about the astronomical part of their enterprise. Their answer once known, they would then discuss the mechanical means, and nothing would be neglected to assure the success of their great experiment.
+
+A note in precise terms, containing special questions, was drawn up and addressed to the observatory of Cambridge in Massachusetts. This town, where the first University of the United States was founded, is justly celebrated for its astronomical staff. There are assembled the greatest men of science; there is the powerful telescope which enabled Bond to resolve the nebula of Andromeda and Clarke to discover the satellite of Sirius. This celebrated institution was, therefore, worthy in every way of the confidence of the Gun Club.
+
+After two days the answer, impatiently awaited, reached the hands of President Barbicane.
+
+It ran as follows:--
+
+"_The Director of the Cambridge Observatory to the President of the Gun Club at Baltimore_.
+
+"On the receipt of your favour of the 6th inst., addressed to the Observatory of Cambridge in the name of the members of the Baltimore Gun Club, we immediately called a meeting of our staff, who have deemed it expedient to answer as follows:--
+
+"The questions proposed to it were these:--
+
+"'1. Is it possible to send a projectile to the moon?
+
+"'2. What is the exact distance that separates the earth and her satellite?
+
+"'3. What would be the duration of the projectile's transit to which a sufficient initial speed had been given, and consequently at what moment should it be hurled so as to reach the moon at a particular point?
+
+"'4. At what moment would the moon present the most favourable position for being reached by the projectile?
+
+"'5. What point in the heavens ought the cannon, destined to hurl the projectile, be aimed at?
+
+"'6. What place in the heavens will the moon occupy at the moment when the projectile will start?'
+
+"Regarding question No. 1, 'Is it possible to send a projectile to the moon?'
+
+"Yes, it is possible to send a projectile to the moon if it is given an initial velocity of 1,200 yards a second. Calculations prove that this speed is sufficient. In proportion to the distance from the earth the force of gravitation diminishes in an inverse ratio to the square of the distance--that is to say, that for a distance three times greater that force is nine times less. In consequence, the weight of the projectile will decrease rapidly, and will end by being completely annulled at the moment when the attraction of the moon will be equal to that of the earth--that is to say, at the 47/52 of the distance. At that moment the projectile will have no weight at all, and if it clears that point it will fall on to the moon only by the effect of lunar gravitation. The theoretic possibility of the experiment is, therefore, quite demonstrated; as to its success, that depends solely in the power of the engine employed.
+
+"Regarding question No. 2, 'What is the exact distance that separates the earth from her satellite?'
+
+"The moon does not describe a circle round the earth, but an ellipse, of which our earth occupies one of the foci; the consequence is, therefore, that at certain times it approaches nearer to, and at others recedes farther from, the earth, or, in astronomical language, it has its apogee and its perigee. At its apogee the moon is at 247,552 miles from the earth, and at its perigee at 218,657 miles only, which makes a difference of 28,895, or more than a ninth of the distance. The perigee distance is, therefore, the one that should give us the basis of all calculations.
+
+"Regarding question No. 3, 'What would be the duration of the projectile's transit to which a sufficient initial speed has been given, and consequently at what moment should it be hurled so as to reach the moon at a particular point?'
+
+"If the projectile kept indefinitely the initial speed of 12,000 yards a second, it would only take about nine hours to reach its destination; but as that initial velocity will go on decreasing, it will happen, everything calculated upon, that the projectile will take 300,000 seconds, or 83 hours and 20 minutes, to reach the point where the terrestrial and lunar gravitations are equal, and from that point it will fall upon the moon in 50,000 seconds, or 13 hours, 53 minutes, and 20 seconds. It must, therefore, be hurled 97 hours, 13 minutes, and 20 seconds before the arrival of the moon at the point aimed at.
+
+"Regarding question No. 4, 'At what moment would the moon present the most favourable position for being reached by the projectile?'
+
+"According to what has been said above the epoch of the moon's perigee must first be chosen, and at the moment when she will be crossing her zenith, which will still further diminish the entire distance by a length equal to the terrestrial radius--i.e., 3,919 miles; consequently, the passage to be accomplished will be 214,976 miles. But the moon is not always at her zenith when she reaches her perigee, which is once a month. She is only under the two conditions simultaneously at long intervals of time. This coincidence of perigee and zenith must be waited for. It happens fortunately that on December 4th of next year the moon will offer these two conditions; at midnight she will be at her perigee and her zenith--that is to say, at her shortest distance from the earth and at her zenith at the same time.
+
+"Regarding question No. 5, 'At what point in the heavens ought the cannon destined to hurl the projectile be aimed?'
+
+"The preceding observations being admitted, the cannon ought to be aimed at the zenith of the place (the zenith is the spot situated vertically above the head of a spectator), so that its range will be perpendicular to the plane of the horizon, and the projectile will pass the soonest beyond the range of terrestrial gravitation. But for the moon to reach the zenith of a place that place must not exceed in latitude the declination of the luminary--in other words, it must be comprised between 0° and 28° of north or south latitude. In any other place the range must necessarily be oblique, which would seriously affect the success of the experiment.
+
+"Regarding question No. 6, 'What place will the moon occupy In the heavens at the moment of the projectile's departure?'
+
+"At the moment when the projectile is hurled into space, the moon, which travels forward 13° 10' 35" each day, will be four times as distant from her zenith point--i.e., by 52° 42' 20", a space which corresponds to the distance she will travel during the transit of the projectile. But as the deviation which the rotatory movement of the earth will impart to the shock must also be taken into account, and as the projectile cannot reach the moon until after a deviation equal to sixteen radii of the earth, which, calculated upon the moon's orbit, is equal to about 11°, it is necessary to add these 11° to those caused by the already-mentioned delay of the moon, or, in round numbers, 64°. Thus, at the moment of firing, the visual radius applied to the moon will describe with the vertical line of the place an angle of 64°.
+
+"Such are the answers to the questions proposed to the Observatory of Cambridge by the members of the Gun Club.
+
+"To sum up--
+
+"1st. The cannon must be placed in a country situated between 0° and 28° of north or south latitude.
+
+"2nd. It must be aimed at the zenith of the place.
+
+"3rd. The projectile must have an initial speed of 12,000 yards a second.
+
+"4th. It must be hurled on December 1st of next year, at 10hrs. 46mins. 40secs. p.m.
+
+"5th. It will meet the moon four days after its departure on December 4th, at midnight precisely, at the moment she arrives at her zenith.
+
+"The members of the Gun Club ought, therefore, at once to commence the labour necessitated by such an enterprise, and be ready to put them into execution at the moment fixed upon, for they will not find the moon in the same conditions of perigee and zenith till eighteen years and eleven days later.
+
+"The staff of the Observatory of Cambridge puts itself entirely at their disposition for questions of theoretic astronomy, and begs to join its congratulations to those of the whole of America.
+
+"On behalf of the staff,
+
+"J.M. BELFAST,
+
+"_Director of the Observatory of Cambridge_."

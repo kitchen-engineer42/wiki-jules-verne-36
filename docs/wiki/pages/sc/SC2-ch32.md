@@ -1,0 +1,42 @@
+---
+id: SC2-ch32
+type: chapter
+label: "The Survivors of the Chancellor — CHAPTER XXXII"
+description: "DECEMBER 8th to 17th.--When night came we wrapped ourselves in our sails."
+book: "The Survivors of the Chancellor"
+chapter: 860
+book_seq: 860
+pn_prefix: "SC2-032"
+tags: [chapter]
+---
+# The Survivors of the Chancellor — CHAPTER XXXII
+
+DECEMBER 8th to 17th.--When night came we wrapped ourselves in our sails. For my own part, worn out with the fatigue of the long watch in the top-mast, I slept for several hours; M. Letourneur and Andre did the same, and Miss Herbey obtained sufficient rest to relieve the tired expression that her countenance had lately been wearing. The night passed quietly. As the raft was not very heavily laden the waves did not break over it at all, and we were consequently able to keep ourselves perfectly dry. To say the truth, it was far better for us that the sea should remain somewhat boisterous, for any diminution in the swell of the waves would indicate that; the wind had dropped, and it was with a feeling of regret that when the morning came I had to note down "weather calm" in my journal.
+
+In these low latitudes the heat in the day-time is so intense, and the sun burns with such an incessant glare, that the entire atmosphere becomes pervaded with a glowing vapour. The wind, too, blows only in fitful gusts and through long intervals of perfect calm the sails flap idly and uselessly against the mast. Curtis and the boatswain, however, are of opinion that we are not entirely dependent on the wind. Certain indications, which a sailor's eye alone could detect, make them almost sure that we are being carried along by a westerly current, that flows at the rate of three or four miles an hour. If they are not mistaken, this is a circumstance that may materially assist our progress, and at which we can hardly fail to rejoice, for the high temperature often makes our scanty allowance of water quite inadequate to allay our thirst.
+
+But with all our hardships I must confess that our condition is far preferable to what it was when we were still clinging to the "Chancellor." Here at least we have a comparatively solid platform beneath our feet, and we are relieved from the incessant dread of being carried down with a foundering vessel. In the day-time we can move about with a certain amount of freedom, discuss the weather, watch the sea, and examine our fishing-lines; whilst at night we can rest securely under the shelter of our sails.
+
+"I really think, Mr. Kazallon," said Andre Letourneur to me a few days after we had embarked, "that our time on board the raft passes as pleasantly as it did upon Ham Rock; and the raft has one advantage even over the reef, for it is capable of motion."
+
+"Yes, Andre," replied, "as long as the wind continues favourable the raft has decidedly the advantage; but supposing the wind shifts, what then?"
+
+"Oh, we mustn't think about that," he said; "let us keep up our courage while we can."
+
+I felt that he was right, and that the dangers we had escaped should make us more hopeful for the future; and I think that nearly all of us are inclined to share his opinion.
+
+Whether the captain is equally sanguine I am unable to say. He holds himself very much aloof, and as he evidently feels that he has the great responsibility of saving other lives than his own, we are reluctant to disturb his silent meditations.
+
+Such of the crew as are not on watch spend the greater portion of their time in dozing on the fore part of the raft. The aft, by the captain's orders, has been reserved for the use of us passengers, and by erecting some uprights we have contrived to make a sort of tent, which affords some shelter from the burning sun. On the whole our bill of health is tolerably satisfactory. Lieutenant Walter is the only invalid, and he, in spite of all our careful nursing, seems to get weaker every day.
+
+Andre Letourneur is the life of our party, and I have never appreciated the young man so well. His originality of perception makes his conversation both lively and entertaining and as he talks, his wan and suffering countenance lights up with an intelligent animation. His father seems to become more devoted to him than ever, and I have seen him sit for an hour at a time, with his hand resting on his son's, listening eagerly to his every word.
+
+Miss Herbey occasionally joins in our conversation, but although we all do our best to make her forget that she has lost those who should have been her natural protectors, M. Letourneur is the only one amongst us to whom she speaks without a certain reserve. To him, whose age gives him something of the authority of a father, she has told the history of her life--a life of patience and self-denial such as not unfrequently falls to the lot of orphans. She had been, she said, two years with Mrs. Kear, and although now left alone in the world, homeless and without resources, hope for the future does not fail her. The young lady's modest deportment and energy of character command the respect of all on board, and I do not think that even the coarsest of the sailors has either by word or gesture acted towards her in a way that she could deem offensive.
+
+The 12th, 13th, and 14th of December passed away without any change in our condition. The wind continued to blow in irregular gusts, but always in the same direction, and the helm, or rather the paddle at the back of the raft has never once required shifting; and the watch, who are posted on the fore, under orders to examine the sea with the most scrupulous attention, have had no change of any kind to report.
+
+At the end of a week we found ourselves growing accustomed to our limited diet, and as we had no manual exertion, and no wear and tear of our physical constitution, we managed very well. Our greatest deprivation was the short supply of water, for, as I said before, the unmitigated heat made our thirst at times very painful.
+
+On the 15th we held high festival. A shoal of fish, of the sparus tribe, swarmed round the raft, and although our tackle consisted merely of long cords baited with morsels of dried meat stuck upon bent nails, the fish were so voracious that in the course of a couple of days we had caught as many as weighed almost 200lbs., some of which were grilled, and others boiled in sea-water over a fire made on the fore part of the raft. This marvelous haul was doubly welcome, inasmuch as it not only afforded us a change of diet, but enabled us to economize our stores; if only some rain had fallen at the same time we should have been more than satisfied.
+
+Unfortunately the shoal of fish did not remain long in our vicinity. On the 17th they all disappeared, and some sharks, not less than twelve or fifteen feet long, belonging to the species of spotted dog-fish, took their place. These horrible creatures have black backs and fins, covered with white spots and stripes. Here, on our low raft, we seem almost on a level with them, and more than once their tails have struck the spars with terrible violence. The sailors manage to keep them at a distance by means of handspikes, but I shall not be surprised if they persist in following us, instinctively intelligent that we are destined to become their prey. For myself, I confess that they give me a feeling of uneasiness; they seem to me like monsters of ill-omen.

@@ -1,0 +1,158 @@
+---
+id: TN-ch19
+type: chapter
+label: "Ticket No. 9672 — CHAPTER XIX"
+description: "What a crowd filled the large hall of the University of Christiana in which the drawing of the great lottery was to take place--a crowd that overflowe"
+book: "Ticket No. 9672"
+chapter: 945
+book_seq: 945
+pn_prefix: "TN-019"
+tags: [chapter]
+---
+# Ticket No. 9672 — CHAPTER XIX
+
+What a crowd filled the large hall of the University of Christiana in which the drawing of the great lottery was to take place--a crowd that overflowed into the very court-yards, as even the immense building was not large enough to accommodate such a throng, and even into the adjoining streets, as the court-yards, too, proved inadequate toward the last.
+
+On that Sunday, the 15th of July, it certainly was not by their calmness and phlegm that one would have recognized these madly excited people as Norwegians. Was this unwonted excitement due solely to the interest excited by this drawing, or was it due, at least, in a measure, to the unusually high temperature of the summer's day?
+
+The drawing was to begin at three o'clock precisely. There were one hundred prizes--divided into three classes: 1st, ninety prizes ranging in value from one hundred to one thousand marks, and amounting in all to forty-five thousand marks; 2d, nine prizes of from one thousand to nine thousand marks, and amounting to forty-five thousand marks, and 3d, one prize of one hundred thousand marks.
+
+Contrary to the rule that is generally observed in lotteries of this kind, the drawing of the grand prize was reserved for the last. It was not to the holder of the first ticket drawn that the grand prize would be given, but to the last, that is to say, the one hundredth. Hence, there would result a series of emotions and heart-throbbings of constantly increasing violence, for it had been decided that no ticket should be entitled to two prizes, but that having gained one prize, the drawing should be considered null and void if the same number were taken from the urns a second time.
+
+All this was known to the public, and there was nothing for people to do but await the appointed hour; but to while away the tedious interval of waiting they all talked, and, chiefly, of the pathetic situation of Hulda Hansen. Unquestionably, if she had still been the possessor of Ole Kamp's ticket each individual present would have wished her the next best luck to himself.
+
+Several persons having seen the dispatch published in the "Morgen-Blad," spoke of it to their neighbors, and the entire crowd soon became aware that the search of the "Telegraph" had proved futile. This being the case all felt that there was no longer any hope of finding even a vestige of the lost "Viking." Not one of the crew could have survived the shipwreck, and Hulda would never see her lover again.
+
+Suddenly another report diverted the minds of the crowd. It was rumored that Sandgoist had decided to leave Drammen, and several persons pretended that they had seen him in the streets of Christiania. Could it be that he had ventured into this hall? If he had the wretch would certainly meet with a most unflattering reception. How audacious in him to think of such a thing as being present at this drawing! It was so improbable that it could not be possible. It must certainly be a false alarm, and nothing more.
+
+About quarter past two quite a commotion was apparent in the crowd.
+
+It was caused by the sudden appearance of Sylvius Hogg at the gate of the University. Every one knew the prominent part he had taken in the whole affair, and how, after having been received by Dame Hansen's children, he had endeavored to repay the obligation, so the crowd instantly divided to make way for him, and there arose from every side a flattering murmur, which Sylvius acknowledged by a series of friendly bows, and this murmur soon changed into hearty applause.
+
+But the professor was not alone. When those nearest him stepped back to make way for him they saw that he had a young girl on his arm, and that a young man was following them.
+
+A young man! a young girl! The discovery had very much the effect of an electric shock. The same thought flashed through every mind like a spark from an electric battery.
+
+"Hulda! Hulda Hansen!"
+
+This was the name that burst from every lip.
+
+Yes, it was Hulda, so deeply agitated that she could hardly walk. Indeed, she certainly would have fallen had it not been for Sylvius Hogg's supporting arm. But it upheld her firmly--her, the modest, heart-broken little heroine of the fête to which Ole Kamp's presence only was wanting. How greatly she would have preferred to remain in her own little room at Dal! How she shrunk from this curiosity on the part of those around her, sympathizing though it was! But Sylvius Hogg had wished her to come, and she had done so.
+
+"Room! room!" was heard on all sides.
+
+And as Sylvius Hogg, and Hulda and Joel walked up the passage-way that had been cleared for them, as if by magic, how many friendly hands were outstretched to grasp theirs, how many kind and cordial words were lavished upon them, and with what delight Sylvius Hogg listened to these expressions of friendly feeling!
+
+"Yes; it is she, my friends, my little Hulda, whom I have brought back with me from Dal," said he. "And this is Joel, her noble brother; but pray, my good friends, do not smother them!"
+
+Though Joel returned every grasp with interest, the less vigorous hands of the professor were fairly benumbed by such constant shaking, but his eyes sparkled with joy, though a tear was stealing down his cheek; but--and the phenomenon was certainly well worthy the attention of ophthalmologists--the tear was a luminous one.
+
+It took them fully a quarter of an hour to cross the court-yard, gain the main hall, and reach the seats that had been reserved for the professor. When this was at last accomplished, not without considerable difficulty, Sylvius Hogg seated himself between Hulda and Joel.
+
+At precisely half past two o'clock, the door at the rear of the platform opened, and the president of the lottery appeared, calm and dignified, and with the commanding mien befitting his exalted position. Two directors followed, bearing themselves with equal dignity. Then came six little blue-eyed girls, decked out in flowers and ribbons, six little girls whose innocent hands were to draw the lottery.
+
+Their entrance was greeted with a burst of loud applause that testified both to the pleasure all experienced on beholding the managers of the Christiania Lottery, and to the impatience with which the crowd was awaiting the beginning of the drawing.
+
+There were six little girls, as we have remarked before, and there were also six urns upon a table that occupied the middle of the platform. Each of these urns contained ten numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, representing the units, tens, hundreds, thousands, tens of thousands, and hundreds of thousands of the number one million. There was no seventh urn, for the million column, because it had been agreed that six ciphers drawn simultaneously should represent one million, as in this way the chances of success would be equally divided among all the numbers.
+
+It had also been settled that the numbers should be drawn in succession from the urns, beginning with that to the left of the audience. The winning number would thus be formed under the very eyes of the spectators, first by the figure in the column of hundreds of thousands, then in the columns of tens of thousands, and so on until the column of units was reached, and the reader can judge with what emotion each person watched his chances of success increase with the drawing of each figure.
+
+As the clock struck three, the president waved his hand, and declared the drawing begun.
+
+The prolonged murmur that greeted the announcement lasted several minutes, after which quiet was gradually established.
+
+The president rose, and though evidently much excited, made a short speech suited to the occasion, in which he expressed regret that there was not a prize for each ticket-holder; then he ordered the drawing of the first series of prizes, which consisted, as we have before remarked, of ninety prizes, and which would therefore consume a considerable length of time.
+
+The six little girls began to perform their duties with automaton-like regularity, but the audience did not lose patience for an instant. It is true, however, that as the value of the prizes increased with each drawing, the excitement increased proportionately, and no one thought of leaving his seat, not even those persons whose tickets had been already drawn, and who had consequently nothing more to expect.
+
+This went on for about an hour without producing any incident of particular interest, though people noticed that number 9672 had not been drawn, which would have taken away all chance of its winning the capital prize.
+
+"That is a good omen for Sandgoist!" remarked one of the professor's neighbors.
+
+"It would certainly be an extraordinary thing if a man like that should meet with such a piece of good luck, even though he has the famous ticket," remarked another.
+
+"A famous ticket, indeed!" replied Sylvius Hogg; "but don't ask me why, for I can't possibly tell you."
+
+Then began the drawing of the second series of prizes, nine in number. This promised to be very interesting--the ninety-first prize being one of a thousand marks; the ninety-second, one of two thousand marks, and so on, up to the ninety-ninth, which was one of nine thousand. The third class, the reader must recollect, consisted of the capital prize only.
+
+Number 72,521 won a prize of five thousand marks. This ticket belonged to a worthy seaman of Christiania, who was loudly cheered and who received with great dignity the congratulations lavished upon him.
+
+Another number, 823,752, won a prize of six thousand marks, and how great was Sylvius Hogg's delight when he learned from Joel that it belonged to the charming Siegfrid of Bamble.
+
+An incident that caused no little excitement followed. When the ninety-seventh prize was drawn, the one consisting of seven thousand marks, the audience feared for a moment that Sandgoist was the winner of it. It was won, however, by ticket number 9627, which was within only forty-five points of Ole Kamp's number.
+
+The two drawings that followed were numbers very widely removed from each other: 775 and 76,287.
+
+The second series was now concluded, and the great prize of one hundred thousand marks alone remained to be drawn.
+
+The excitement of the assemblage at that moment beggars all description.
+
+At first there was a long murmur that extended from the large hall into the court-yards and even into the street. In fact, several minutes elapsed before quiet was restored. A profound silence followed, and in this calmness there was a certain amount of stupor--the stupor one experiences on seeing a prisoner appear upon the place of execution. But this time the still unknown victim was only condemned to win a prize of one hundred thousand marks, not to lose his head; that is, unless he lost it from ecstasy.
+
+Joel sat with folded arms, gazing straight ahead of him, being the least moved, probably, in all that large assembly. Hulda, her head bowed upon her breast, was thinking only of her poor Ole. As for Sylvius Hogg--but any attempt to describe the state of mind in which Sylvius Hogg found himself would be worse than useless.
+
+"We will now conclude with the drawing of the one hundred thousand mark prize," announced the president.
+
+What a voice! It seemed to proceed from the inmost depths of this solemn-looking man, probably because he was the owner of several tickets which, not having yet been drawn, might still win the capital prize.
+
+The first little girl drew a number from the left urn, and exhibited it to the audience.
+
+"Zero!" said the president.
+
+The zero did not create much of a sensation, however. The audience somehow seemed to have been expecting it.
+
+"Zero!" said the president, announcing the figure drawn by the second little girl.
+
+Two zeros. The chances were evidently increasing for all numbers between one and nine thousand nine hundred and ninety-nine, and every one recollected that Ole Kamp's ticket bore the number 9672.
+
+Strange to say, Sylvius Hogg began to move restlessly about in his chair, as if he had suddenly been stricken with palsy.
+
+"Nine," said the president, stating the number the third little girl had just extracted from the third urn.
+
+Nine! That was the first figure on Ole Kamp's ticket.
+
+"Six!" said the president.
+
+For the fourth little girl was timidly displaying a six to all the eyes riveted upon her.
+
+The chances of winning were now one out of a hundred for all the numbers from one to ninety-nine, inclusive.
+
+Could it be that this ticket of Ole Kamp's was to be the means of placing one hundred thousand marks in that villainous Sandgoist's pocket. Really such a result would almost make one doubt the justice of God!
+
+The fifth little girl plunged her hand into the next urn, and drew out the fifth figure.
+
+"Seven!" said the president, in a voice that trembled so as to be scarcely audible, even to those seated on the first row of benches.
+
+But those who could not hear were able to see for themselves, for the five little girls were now holding up the following figures to the gaze of the audience:
+
+00967.
+
+The winning number consequently must be one between 9670 and 9679, so there was now one chance out of ten for Ole Kamp's ticket to win the prize.
+
+The suspense was at its height.
+
+Sylvius Hogg had risen to his feet, and seized Hulda Hansen's hand. Every eye was riveted upon the young girl. In sacrificing this last moment of her betrothed, had she also sacrificed the fortune Ole Kamp had coveted for her and for himself?
+
+The sixth little girl had some difficulty getting her hand into the urn, she was trembling so, poor thing! but at last the figure appeared.
+
+"Two!" exclaimed the president, sinking back in his chair, quite breathless with emotion.
+
+"Nine thousand six hundred and seventy two!" proclaimed one of the directors, in a loud voice.
+
+This was the number of Ole Kamp's ticket, now in Sandgoist's possession. Everybody was aware of this fact, and of the manner in which the usurer had obtained it; so there was a profound silence instead of the tumultuous applause that would have filled the hall of the University if the ticket had still been in Hulda Hansen's hands.
+
+And now was this scoundrel Sandgoist about to step forward, ticket in hand, to claim the prize?
+
+"Number 9672 wins the prize of one hundred thousand marks!" repeated the director. "Who claims it?"
+
+"I do."
+
+Was it the usurer of Drammen who answered thus?
+
+No. It was a young man--a young man with a pale face, whose features and whole person bore marks of prolonged suffering, but alive, really and truly alive.
+
+On hearing this voice, Hulda sprung to her feet, uttering a cry that penetrated every nook and corner of the large hall; then she fell back fainting.
+
+But the young man had forced his way impetuously through the crowd, and it was he who caught the unconscious girl in his arms.
+
+It was Ole Kamp!

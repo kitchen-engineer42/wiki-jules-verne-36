@@ -1,0 +1,92 @@
+---
+id: TN-ch17
+type: chapter
+label: "Ticket No. 9672 — CHAPTER XVII"
+description: "Christiania, though it is the largest city in Norway, would be considered a small town in either England or France; and were it not for frequent fires"
+book: "Ticket No. 9672"
+chapter: 943
+book_seq: 943
+pn_prefix: "TN-017"
+tags: [chapter]
+---
+# Ticket No. 9672 — CHAPTER XVII
+
+Christiania, though it is the largest city in Norway, would be considered a small town in either England or France; and were it not for frequent fires, the place would present very much the same appearance that it did in the eleventh century. It was really rebuilt in 1624, by King Christian, however; and its name was then changed from Opsolo, as it had been previously called, to Christiania, in honor of its royal architect.
+
+It is symmetrically laid out with broad, straight streets: and the houses are generally of gray stone or red brick. In the center of a fine garden stands the royal palace, known as the Oscarlot, a large quadrangular building, devoid of beauty, though built in the Ionic style of architecture. There are a few churches, in which the attention of worshipers is not distracted by any marvels of art; several municipal and government buildings, and one immense bazaar, constructed in the form of a rotunda, and stocked with both native and foreign goods.
+
+There is nothing very remarkable about all this, but one thing the traveler can certainly admire without stint, and that is the site of the city, which is encircled by mountains so varied in shape and aspect as to form a most superb frame for Christiania.
+
+Though the city is nearly flat in the new and wealthy quarter, the hilly portions, where the poorer classes live, are covered with brick or wooden huts of gaudy tints that astonish rather than charm the beholder.
+
+Like all cities situated upon the water's edge, and upon fertile hills, Christiania is extremely picturesque, and it would not be unjust to compare its fiord to the famous Bay of Naples. Its shores, like those of Sorrento and Castellamare, are dotted with chalets and villas, half hidden in the dark, rich verdure of the pines, and enveloped in the light mist that imparts such a wonderful softness to northern landscapes.
+
+Sylvius Hogg had at last returned to Christiania, though under conditions that he little dreamed of at the beginning of his interrupted journey. Oh, well, he would try that again another year! He could think only of Joel and Hulda Hansen now. Had there been time to prepare for them, he would certainly have taken them to his own home, where old Fink and old Kate would have made them heartily welcome; but under the circumstances, the professor had thought it advisable to take them to the Hotel du Nord, where, as protégées of Sylvius Hogg, they were sure of every attention, though he had carefully refrained from giving their names, for there had been so much talk about the brother and sister, and especially about the young girl, that it would be very embarrassing for her if her arrival in Christiania should become known.
+
+It had been decided that Sylvius Hogg should not see them again until breakfast the next day, that is to say, between eleven and twelve o'clock, as he had some business matters to attend to that would engross his attention all the forenoon. He would then rejoin them and remain with them until three o'clock, the hour appointed for the drawing of the lottery.
+
+Joel, as soon as he rose the next morning, tapped at the door of his sister's room, and being anxious to divert her thoughts, which were likely to be more melancholy than ever on such a day, he proposed that they should walk about the town until breakfast-time, and Hulda, to please her brother, consented.
+
+It was Sunday, but though the streets of northern cities are usually quiet and well-nigh deserted on that day, an air of unusual bustle and animation pervaded the scene, for not only had the townspeople refrained from going to the country, as usual, but people from the surrounding towns and country was pouring in in such numbers that the Lake Miosen Railroad had been obliged to run extra trains.
+
+The number of disinterested persons anxious to attend the drawing of the famous lottery was even greater than the number of ticket-holders, consequently the streets were thronged with people. Whole families, and even whole villages, had come to the city, in the hope that their journey would not be in vain. Only to think of it! one million tickets had been sold, and even if they should win a prize of only one or two hundred marks, how many good people would return home rejoicing!
+
+On leaving the hotel, Joel and Hulda first paid a visit to the wharves that line the harbor. Here the crowd was not so great except about the taverns, where huge tankards of beer were being continually called for to moisten throats that seemed to be in a state of constant thirst.
+
+As the brother and sister wandered about among the long rows of barrels and boxes, the vessels which were anchored both near and far from the shore came in for a liberal share of their attention, for might there not be some from the port of Bergen where the "Viking" would never more be seen?
+
+"Ole! my poor Ole!" sighed Hulda, and hearing this pathetic exclamation, Joel led her gently away from the wharves, and up into the city proper.
+
+There, from the crowds that filled the streets and the public squares, they overheard more than one remark in relation to themselves.
+
+"Yes," said one man; "I hear that ten thousand marks have been offered for ticket 9672."
+
+"Ten thousand!" exclaimed another. "Why, I hear that twenty thousand marks, and even more, have been offered."
+
+"Mr. Vanderbilt, of New York, has offered thirty thousand."
+
+"And Messrs. Baring, of London, forty thousand."
+
+"And the Rothschilds, sixty thousand."
+
+So much for public exaggeration. At this rate the prices offered would soon have exceeded the amount of the capital prize.
+
+But if these gossips were not agreed upon the sum offered to Hulda Hansen, they were all of one mind in regard to the usurer of Drammen.
+
+"What an infernal scoundrel Sandgoist must be. That rascal who showed those poor people no mercy."
+
+"Yes; he is despised throughout the Telemark, and this is not the first time he has been guilty of similar acts of rascality."
+
+"They say that nobody will buy Ole Kamp's ticket of him, now he has got it."
+
+"No; nobody wants it now."
+
+"That is not at all surprising. In Hulda Hansen's hands the ticket was valuable."
+
+"And in Sandgoist's it seems worthless."
+
+"I'm glad of it. He'll have it left on his hands, and I hope he'll lose the fifteen thousand marks it cost him."
+
+"But what if the scoundrel should win the grand prize?"
+
+"He? Never!"
+
+"He had better not come to the drawing."
+
+"No. If he does he will be roughly handled. There is no question about that."
+
+These and many other equally uncomplimentary remarks about the usurer were freely bandied about.
+
+It was evident that he did not intend to be present at the drawing, as he was at his house in Drammen the night before; but feeling his sister's arm tremble in his, Joel led her swiftly on, without trying to hear any more.
+
+As for Sylvius Hogg, they had hoped to meet him in the street; but in this they were disappointed, though an occasional remark satisfied them that the public was already aware of the professor's return, for early in the morning he had been seen hurrying toward the wharves, and afterward in the direction of the Naval Department.
+
+Of course, Joel might have asked anybody where Professor Sylvius Hogg lived. Any one would have been only too delighted to point out the house or even to accompany him to it; but he did not ask, for fear of being indiscreet, and as the professor had promised to meet them at the hotel, it would be better to wait until the appointed hour.
+
+After a time Hulda began to feel very tired, and requested her brother to take her back to the hotel, especially as these discussions, in which her name was frequently mentioned, were very trying to her, and on reaching the house she went straight up to her own room to await the arrival of Sylvius Hogg.
+
+Joel remained in the reading-room, on the lower floor, where he spent his time in mechanically looking over the Christiania papers. Suddenly he turned pale, a mist obscured his vision, and the paper fell from his hands.
+
+In the "Morgen-Blad," under the heading of Maritime Intelligence, he had just seen the following cablegram from Newfoundland:
+
+"The dispatch-boat 'Telegraph' has reached the locality where the 'Viking' is supposed to have been lost, but has found no trace of the wreck. The search on the coast of Greenland has been equally unsuccessful, so it may be considered almost certain that none of the unfortunate ship's crew survived the catastrophe."

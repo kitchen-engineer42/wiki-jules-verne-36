@@ -1,0 +1,131 @@
+---
+id: EHLA-ch32
+type: chapter
+label: "Eight Hundred Leagues on the Amazon — CHAPTER XII. THE DOCUMENT"
+description: "THIS WAS a contingency which neither Joam Dacosta nor his people could have anticipated."
+book: "Eight Hundred Leagues on the Amazon"
+chapter: 379
+book_seq: 379
+pn_prefix: "EHLA-032"
+part: "PART II."
+tags: [chapter]
+---
+# Eight Hundred Leagues on the Amazon — CHAPTER XII. THE DOCUMENT
+
+THIS WAS a contingency which neither Joam Dacosta nor his people could have anticipated. In fact, as those who have not forgotten the first scene in this story are aware, the document was written in a disguised form in one of the numerous systems used in cryptography.
+
+But in which of them?
+
+To discover this would require all the ingenuity of which the human brain was capable.
+
+Before dismissing Benito and his companions, Judge Jarriquez had an exact copy made of the document, and, keeping the original, handed it over to them after due comparison, so that they could communicate with the prisoner.
+
+Then, making an appointment for the morrow, they retired, and not wishing to lose an instant in seeing Joam Dacosta, they hastened on to the prison, and there, in a short interview, informed him of all that had passed.
+
+Joam Dacosta took the document and carefully examined it. Shaking his head, he handed it back to his son. "Perhaps," he said, "there is therein written the proof I shall never be able to produce. But if that proof escapes me, if the whole tenor of my life does not plead for me, I have nothing more to expect from the justice of men, and my fate is in the hands of God!"
+
+And all felt it to be so. If the document remained indecipherable, the position of the convict was a desperate one.
+
+"We shall find it, father!" exclaimed Benito. "There never was a document of this sort yet which could stand examination. Have confidence--yes, confidence! Heaven has, so to speak, miraculously given us the paper which vindicates you, and, after guiding our hands to recover it, it will not refuse to direct our brains to unravel it."
+
+Joam Dacosta shook hands with Benito and Manoel, and then the three young men, much agitated, retired to the jangada, where Yaquita was awaiting them.
+
+Yaquita was soon informed of what had happened since the evening--the reappearance of the body of Torres, the discovery of the document, and the strange form under which the real culprit, the companion of the adventurer, had thought proper to write his confession--doubtless, so that it should not compromise him if it fell into strange hands.
+
+Naturally, Lina was informed of this unexpected complication, and of the discovery made by Fragoso that Torres was an old captain of the woods belonging to the gang who were employed about the mouths of the Madeira.
+
+"But under what circumstances did you meet him?" asked the young mulatto.
+
+"It was during one of my runs across the province of Amazones," replied Fragoso, "when I was going from village to village, working at my trade."
+
+"And the scar?"
+
+"What happened was this: One day I arrived at the mission of Aranas at the moment that Torres, whom I had never before seen, had picked a quarrel with one of his comrades--and a bad lot they are!--and this quarrel ended with a stab from a knife, which entered the arm of the captain of the woods. There was no doctor there, and so I took charge of the wound, and that is how I made his acquaintance."
+
+"What does it matter after all," replied the young girl, "that we know what Torres had been? He was not the author of the crime, and it does not help us in the least."
+
+"No, it does not," answered Fragoso; "for we shall end by reading the document, and then the innocence of Joam Dacosta will be palpable to the eyes of all."
+
+This was likewise the hope of Yaquita, of Benito, of Manoel, and of Minha, and, shut up in the house, they passed long hours in endeavoring to decipher the writing.
+
+But if it was their hope--and there is no need to insist on that point--it was none the less that of Judge Jarriquez.
+
+After having drawn up his report at the end of his examination establishing the identity of Joam Dacosta, the magistrate had sent it off to headquarters, and therewith he thought he had finished with the affair so far as he was concerned. It could not well be otherwise.
+
+On the discovery of the document, Jarriquez suddenly found himself face to face with the study of which he was a master. He, the seeker after numerical combinations, the solver of amusing problems, the answerer of charades, rebuses, logogryphs, and such things, was at last in his true element.
+
+At the thought that the document might perhaps contain the justification of Joam Dacosta, he felt all the instinct of the analyst aroused. Here, before his very eyes, was a cryptogram! And so from that moment he thought of nothing but how to discover its meaning, and it is scarcely necessary to say that he made up his mind to work at it continuously, even if he forgot to eat or to drink.
+
+After the departure of the young people, Judge Jarriquez installed himself in his study. His door, barred against every one, assured him of several hours of perfect solitude. His spectacles were on his nose, his snuff-box on the table. He took a good pinch so as to develop the finesse and sagacity of his mind. He picked up the document and became absorbed in meditation, which soon became materialized in the shape of a monologue. The worthy justice was one of those unreserved men who think more easily aloud than to himself. "Let us proceed with method," he said. "No method, no logic; no logic, no success."
+
+Then, taking the document, he ran through it from beginning to end, without understanding it in the least.
+
+The document contained a hundred lines, which were divided into half a dozen paragraphs.
+
+"Hum!" said the judge, after a little reflection; "to try every paragraph, one after the other, would be to lose precious time, and be of no use. I had better select one of these paragraphs, and take the one which is likely to prove the most interesting. Which of them would do this better than the last, where the recital of the whole affair is probably summed up? Proper names might put me on the track, among others that of Joam Dacosta; and if he had anything to do with this document, his name will evidently not be absent from its concluding paragraph."
+
+The magistrate's reasoning was logical, and he was decidedly right in bringing all his resources to bear in the first place on the gist of the cryptogram as contained in its last paragraph.
+
+Here is the paragraph, for it is necessary to again bring it before the eyes of the reader so as to show how an analyst set to work to discover its meaning.
+
+_"P h y j s l y d d q f d z x g a s g z z q q e h x g k f n d r x u j u g I o c y t d x v k s b x h h u y p o h d v y r y m h u h p u y d k j o x p h e t o z l s l e t n p m v f f o v p d p a j x h y y n o j y g g a y m e q y n f u q l n m v l y f g s u z m q I z t l b q q y u g s q e u b v n r c r e d g r u z b l r m x y u h q h p z d r r g c r o h e p q x u f I v v r p l p h o n t h v d d q f h q s n t z h h h n f e p m q k y u u e x k t o g z g k y u u m f v I j d q d p z j q s y k r p l x h x q r y m v k l o h h h o t o z v d k s p p s u v j h d."_
+
+At the outset, Judge Jarrizuez noticed that the lines of the document were not divided either into words or phrases, and that there was a complete absence of punctuation. This fact could but render the reading of the document more difficult.
+
+"Let us see, however," he said, "if there is not some assemblage of letters which appears to form a word--I mean a pronounceable word, whose number of consonants is in proportion to its vowels. And at the beginning I see the word _phy;_ further on the word _gas_. Halloo! _ujugi_. Does that mean the African town on the banks of Tanganyika? What has that got to do with all this? Further on here is the word _ypo_. Is it Greek, then? Close by here is _rym_ and _puy,_ and _jox,_ and _phetoz,_ and _jyggay,_ and _mv,_ and _qruz_. And before that we have got _red_ and _let_. That is good! those are two English words. Then _ohe--syk;_ then _rym_ once more, and then the word _oto."_
+
+Judge Jarriquez let the paper drop, and thought for a few minutes.
+
+"All the words I see in this thing seem queer!" he said. "In fact, there is nothing to give a clue to their origin. Some look like Greek, some like Dutch; some have an English twist, and some look like nothing at all! To say nothing of these series of consonants which are not wanted in any human pronunciation. Most assuredly it will not be very easy to find the key to this cryptogram."
+
+The magistrate's fingers commenced to beat a tattoo on his desk--a kind of reveille to arouse his dormant faculties.
+
+"Let us see," he said, "how many letters there are in the paragraph."
+
+He counted them, pen in hand.
+
+"Two hundred and seventy-six!" he said. "Well, now let us try what proportion these different letters bear to each other."
+
+This occupied him for some time. The judge took up the document, and, with his pen in his hand, he noted each letter in alphabetical order.
+
+In a quarter of an hour he had obtained the following table:
+
+_a_ = 3 times _b_ = 4 -- _c_ = 3 -- _d_ = 16 -- _e_ = 9 -- _f_ = 10 -- _g_ = 13 -- _h_ = 23 -- _i_ = 4 -- _j_ = 8 -- _k_ = 9 -- _l_ = 9 -- _m_ = 9 -- _n_ = 9 -- _o_ = 12 -- _p_ = 16 -- _q_ = 16 -- _r_ = 12 -- _s_ = 10 -- _t_ = 8 -- _u_ = 17 -- _v_ = 13 -- _x_ = 12 -- _y_ = 19 -- _z_ = 12 -- ---------------- Total... 276 times.
+
+"Ah, ah!" he exclaimed. "One thing strikes me at once, and that is that in this paragraph all the letters of the alphabet are not used. That is very strange. If we take up a book and open it by chance it will be very seldom that we shall hit upon two hundred and seventy-six letters without all the signs of the alphabet figuring among them. After all, it may be chance," and then he passed to a different train of thought. "One important point is to see if the vowels and consonants are in their normal proportion."
+
+And so he seized his pen, counted up the vowels, and obtained the following result:
+
+_a_ = 3 times _e_ = 9 -- _i_ = 4 -- _o_ = 12 -- _u_ = 17 -- _y_ = 19 -- ---------------- Total... 276 times.
+
+"And thus there are in this paragraph, after we have done our subtraction, sixty-four vowels and two hundred and twelve consonants. Good! that is the normal proportion. That is about a fifth, as in the alphabet, where there are six vowels among twenty-six letters. It is possible, therefore, that the document is written in the language of our country, and that only the signification of each letter is changed. If it has been modified in regular order, and a _b_ is always represented by an _l,_ and _o_ by a _v,_ a _g_ by a _k,_ an _u_ by an _r,_ etc., I will give up my judgeship if I do not read it. What can I do better than follow the method of that great analytical genius, Edgar Allan Poe?"
+
+Judge Jarriquez herein alluded to a story by the great American romancer, which is a masterpiece. Who has not read the "Gold Bug?" In this novel a cryptogram, composed of ciphers, letters, algebraic signs, asterisks, full-stops, and commas, is submitted to a truly mathematical analysis, and is deciphered under extraordinary conditions, which the admirers of that strange genius can never forget. On the reading of the American document depended only a treasure, while on that of this one depended a man's life. Its solution was consequently all the more interesting.
+
+The magistrate, who had often read and re-read his "Gold Bug," was perfectly acquainted with the steps in the analysis so minutely described by Edgar Poe, and he resolved to proceed in the same way on this occasion. In doing so he was certain, as he had said, that if the value or signification of each letter remained constant, he would, sooner or later, arrive at the solution of the document.
+
+"What did Edgar Poe do?" he repeated. "First of all he began by finding out the sign--here there are only letters, let us say the letter--which was reproduced the oftenest. I see that that is _h,_ for it is met with twenty-three times. This enormous proportion shows, to begin with, that _h_ does not stand for _h,_ but, on the contrary, that it represents the letter which recurs most frequently in our language, for I suppose the document is written in Portuguese. In English or French it would certainly be _e,_ in Italian it would be _i_ or _a,_ in Portuguese it will be _a_ or _o_. Now let us say that it signifies _a_ or _o."_
+
+After this was done, the judge found out the letter which recurred most frequently after _h,_ and so on, and he formed the following table:
+
+_h_ = 23 times _y_ = 19 -- _u_ = 17 -- _d p q_ = 16 -- _g v_ = 13 -- _o r x z_ = 12 -- _f s_ = 10 -- _e k l m n_ = 9 -- _j t_ = 8 -- _b i_ = 8 -- _a c_ = 8 --
+
+"Now the letter _a_ only occurs thrice!" exclaimed the judge, "and it ought to occur the oftenest. Ah! that clearly proves that the meaning had been changed. And now, after _a_ or _o,_ what are the letters which figure oftenest in our language? Let us see," and Judge Jarriquez, with truly remarkable sagacity, which denoted a very observant mind, started on this new quest. In this he was only imitating the American romancer, who, great analyst as he was, had, by simple induction, been able to construct an alphabet corresponding to the signs of the cryptogram and by means of it to eventually read the pirate's parchment note with ease.
+
+The magistrate set to work in the same way, and we may affirm that he was no whit inferior to his illustrious master. Thanks to his previous work at logogryphs and squares, rectangular arrangements and other enigmas, which depend only on an arbitrary disposition of the letters, he was already pretty strong in such mental pastimes. On this occasion he sought to establish the order in which the letters were reproduced--vowels first, consonants afterward.
+
+Three hours had elapsed since he began. He had before his eyes an alphabet which, if his procedure were right, would give him the right meaning of the letters in the document. He had only to successively apply the letters of his alphabet to those of his paragraph. But before making this application some slight emotion seized upon the judge. He fully experienced the intellectual gratification--much greater than, perhaps, would be thought--of the man who, after hours of obstinate endeavor, saw the impatiently sought-for sense of the logogryph coming into view.
+
+"Now let us try," he said; "and I shall be very much surprised if I have not got the solution of the enigma!"
+
+Judge Jarriquez took off his spectacles and wiped the glasses; then he put them back again and bent over the table. His special alphabet was in one hand, the cryptogram in the other. He commenced to write under the first line of the paragraph the true letters, which, according to him, ought to correspond exactly with each of the cryptographic letters. As with the first line so did he with the second, and the third, and the fourth, until he reached the end of the paragraph.
+
+Oddity as he was, he did not stop to see as he wrote if the assemblage of letters made intelligible words. No; during the first stage his mind refused all verification of that sort. What he desired was to give himself the ecstasy of reading it all straight off at once.
+
+And now he had done.
+
+"Let us read!" he exclaimed.
+
+And he read. Good heavens! what cacophony! The lines he had formed with the letters of his alphabet had no more sense in them that those of the document! It was another series of letters, and that was all. They formed no word; they had no value. In short, they were just as hieroglyphic.
+
+"Confound the thing!" exclaimed Judge Jarriquez.

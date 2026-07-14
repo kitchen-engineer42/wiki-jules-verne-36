@@ -1,0 +1,60 @@
+---
+id: RM-ch10
+type: chapter
+label: "Round the Moon — CHAPTER X"
+description: "THE OBSERVERS OF THE MOON."
+book: "Round the Moon"
+chapter: 229
+book_seq: 229
+pn_prefix: "RM-010"
+tags: [chapter]
+---
+# Round the Moon — CHAPTER X
+
+THE OBSERVERS OF THE MOON.
+
+Barbicane had evidently found the only plausible reason for the deviation. However slight it had been, it had been sufficient to modify the trajectory of the projectile. It was a fatality. The audacious attempt had miscarried by a fortuitous circumstance, and unless anything unexpected happened, the lunar disc could no longer be reached. Would they pass it near enough to resolve certain problems in physics and geology until then unsolved? This was the only question that occupied the minds of these bold travellers. As to the fate the future held in store for them, they would not even think about it. Yet what was to become of them amidst these infinite solitudes when air failed them? A few more days and they would fall suffocated in this bullet wandering at hazard. But a few days were centuries to these intrepid men, and they consecrated every moment to observing the moon they no longer hoped to reach.
+
+The distance which then separated the projectile from the satellite was estimated at about 200 leagues. Under these conditions, as far as regards the visibility of the details of the disc, the travellers were farther from the moon than are the inhabitants of the earth with their powerful telescopes.
+
+It is, in fact, known that the instrument set up by Lord Rosse at Parsonstown, which magnifies 6,500 times, brings the moon to within sixteen leagues; and the powerful telescope set up at Long's Peak magnifies 48,000 times, and brings the moon to within less than two leagues, so that objects twelve yards in diameter were sufficiently distinct.
+
+Thus, then, at that distance the topographical details of the moon, seen without a telescope, were not distinctly determined. The eye caught the outline of those vast depressions inappropriately called "seas," but they could not determine their nature. The prominence of the mountains disappeared under the splendid irradiation produced by the reflection of the solar rays. The eye, dazzled as if leaning over a furnace of molten silver, turned from it involuntarily.
+
+However, the oblong form of the orb was already clearly seen.
+
+It appeared like a gigantic egg, with the small end turned towards the earth. The moon, liquid and pliable in the first days of her formation, was originally a perfect sphere. But soon, drawn within the pale of the earth's gravitation, she became elongated under its influence. By becoming a satellite she lost her native purity of form; her centre of gravity was in advance of the centre of her figure, and from this fact some _savants_ draw the conclusion that air and water might have taken refuge on the opposite side of the moon, which is never seen from the earth.
+
+This alteration in the primitive forms of the satellite was only visible for a few moments. The distance between the projectile and the moon diminished visibly; its velocity was considerably less than its initial velocity, but eight or nine times greater than that of our express trains. The oblique direction of the bullet, from its very obliquity, left Michel Ardan some hope of touching the lunar disc at some point or other. He could not believe that he should not get to it. No, he could not believe it, and this he often repeated. But Barbicane, who was a better judge, always answered him with pitiless logic.
+
+"No, Michel, no. We can only reach the moon by a fall, and we are not falling. The centripetal force keeps us under the moon's influence, but the centrifugal force sends us irresistibly away from it."
+
+This was said in a tone that deprived Michel Ardan of his last hopes.
+
+The portion of the moon the projectile was approaching was the northern hemisphere. The selenographic maps make it the lower one, because they are generally drawn up according to the image given by the telescopes, and we know that they reverse the objects. Such was the _Mappa Selenographica_ of Boeer and Moedler which Barbicane consulted. This northern hemisphere presented vast plains, relieved by isolated mountains.
+
+At midnight the moon was full. At that precise moment the travellers ought to have set foot upon her if the unlucky asteroid had not made them deviate from their direction. The orb was exactly in the condition rigorously determined by the Cambridge Observatory. She was mathematically at her perigee, and at the zenith of the twenty-eighth parallel. An observer placed at the bottom of the enormous Columbiad while it is pointed perpendicularly at the horizon would have framed the moon in the mouth of the cannon. A straight line drawn through the axis of the piece would have passed through the centre of the moon.
+
+It need hardly be stated that during the night between the 5th and 6th of December the travellers did not take a minute's rest. Could they have closed their eyes so near to a new world? No. All their feelings were concentrated in one thought--to see! Representatives of the earth, of humanity past and present, all concentrated in themselves, it was through their eyes that the human race looked at these lunar regions and penetrated the secrets of its satellite! A strange emotion filled their hearts, and they went silently from one window to another.
+
+Their observations were noted down by Barbicane, and were made rigorously exact. To make them they had telescopes. To control them they had maps.
+
+The first observer of the moon was Galileo. His poor telescope only magnified thirty times. Nevertheless, in the spots that pitted the lunar disc "like eyes in a peacock's tail," he was the first to recognise mountains, and measure some heights to which he attributed, exaggerating, an elevation equal to the 20th of the diameter of the disc, or 8,000 metres. Galileo drew up no map of his observations.
+
+A few years later an astronomer of Dantzig, Hevelius--by operations which were only exact twice a month, at the first and second quadrature--reduced Galileo's heights to one-twenty-sixth only of the lunar diameter. This was an exaggeration the other way. But it is to this _savant_ that the first map of the moon is due. The light round spots there form circular mountains, and the dark spots indicate vast seas which, in reality, are plains. To these mountains and extents of sea he gave terrestrial denominations. There is a Sinai in the middle of an Arabia, Etna in the centre of Sicily, the Alps, Apennines, Carpathians, the Mediterranean, the Black Sea, the Caspian, &c.--names badly applied, for neither mountains nor seas recalled the configuration of their namesakes on the globe. That large white spot, joined on the south to vaster continents and terminated in a point, could hardly be recognised as the inverted image of the Indian Peninsula, the Bay of Bengal, and Cochin-China. So these names were not kept. Another chartographer, knowing human nature better, proposed a fresh nomenclature, which human vanity made haste to adopt.
+
+This observer was Father Riccioli, a contemporary of Hevelius. He drew up a rough map full of errors. But he gave to the lunar mountains the names of great men of antiquity and _savants_ of his own epoch.
+
+A third map of the moon was executed in the seventeenth century by Dominique Cassini; superior to that of Riccioli in the execution, it is inexact in the measurements. Several smaller copies were published, but the plate long kept in the _Imprimerie Nationale_ was sold by weight as old brass.
+
+La Hire, a celebrated mathematician and designer, drew up a map of the moon four and a half yards high, which was never engraved.
+
+After him, a German astronomer, Tobie Marger, about the middle of the eighteenth century, began the publication of a magnificent selenographic map, according to lunar measures, which he rigorously verified; but his death, which took place in 1762, prevented the termination of this beautiful work.
+
+It was in 1830 that Messrs. Boeer and Moedler composed their celebrated _Mappa Selenographica_, according to an orthographical projection. This map reproduces the exact lunar disc, such as it appears, only the configurations of the mountains and plains are only correct in the central part; everywhere else--in the northern or southern portions, eastern or western--the configurations foreshortened cannot be compared with those of the centre. This topographical map, one yard high and divided into four parts, is a masterpiece of lunar chartography.
+
+After these _savants_ may be cited the selenographic reliefs of the German astronomer Julius Schmidt, the topographical works of Father Secchi, the magnificent sheets of the English amateur, Waren de la Rue, and lastly a map on orthographical projection of Messrs. Lecouturier and Chapuis, a fine model set up in 1860, of very correct design and clear outlines.
+
+Such is the nomenclature of the different maps relating to the lunar world. Barbicane possessed two, that of Messrs. Boeer and Moedler and that of Messrs. Chapuis and Lecouturier. They were to make his work of observer easier.
+
+They had excellent marine glasses specially constructed for this journey. They magnified objects a hundred times; they would therefore have reduced the distance between the earth and the moon to less than 1,000 leagues. But then at a distance which towards 3 a.m. did not exceed a hundred miles, and in a medium which no atmosphere obstructed, these instruments brought the lunar level to less than fifteen hundred metres.
