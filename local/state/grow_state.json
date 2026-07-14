@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "wiki": "Vernean Voyages Wiki",
+  "grow_phase": "2.1",
+  "phase2_iteration": 1,
+  "phase2_closed": false,
+  "showcase_done": true,
+  "current_type": "work",
+  "type_queue": [
+    "organization",
+    "technology",
+    "place",
+    "event",
+    "character"
+  ],
+  "closed_types": [],
+  "counters": {
+    "current_round": 2,
+    "type_round": 0,
+    "rounds_since_last_evv5": 0,
+    "rounds_since_last_discover": 0,
+    "discover_streak_low": 0,
+    "rounds_since_last_corpus_discover": 0,
+    "corpus_discover_streak_low": 0
+  },
+  "thresholds": {
+    "evv5_interval": 10,
+    "discover_queue_threshold": 10,
+    "discover_periodic_interval": 10,
+    "type_close_streak": 3,
+    "type_close_new_candidate_min": 3,
+    "corpus_discover_interval": 30,
+    "corpus_streak_low_limit": 2,
+    "corpus_new_candidate_min": 3
+  },
+  "flags": {
+    "corpus_exhausted": false
+  },
+  "pending_new_types": [],
+  "last_updated_round": 2
+}

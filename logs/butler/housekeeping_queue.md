@@ -22,6 +22,23 @@
 
 **处置**：属共享 memex 组件（`compute_quality.py`/`add_page.py`）—— 依 RFC 停靠决策 **PARK**，不自动提交；全站建成 + 用户签署后连同 VVV 宽度三 RFC 一并批量评审。此条为待起草 RFC 的种子。
 
+**GROW 决策（2026-07-14，用户拍板）**：Phase 2 广度扩张**照常进行**，接受所有新建页被 add_page.py 自动标 featured，扩张期间**将 featured 视为无意义信号、不作质量依据**。**欠一次全库批量重评**（notability/实质感知的 quality 重算 + 写回），待 featured-inflation RFC 落地后执行。**DEFERRED-REGRADE** 标记此债。
+
+### HK-addpage-prose-gate-bypass — `add_page.py` 不执行散文质量门（与 `edit_page.py` 不一致）
+
+**现象（GROW 2.1-Showcase R1，2026-07-14 发现）**：`edit_page.py` 强制单段 ≤400 字散文门
+（`ref/散文质量强制规范.md`，退出码 8 拦截），但 `add_page.py` **无此检查**。本轮 4 页样板经
+`add_page.py` 建立时均含超 400 字长段（TTLU 603 / MI 527 / Gun Club 474 / Weldon 604），
+仍被写入并自动标 featured；只有事后 `edit_page.py` 触碰才暴露违规。
+
+**影响**：新建页与编辑页走两套不一致门禁；违规长段可在 featured 页中长期潜伏，直到被编辑才触发。
+样板作为 Phase 2 全期质量基线，本身违反散文规范会污染基线。
+
+**修复方向**：`add_page.py` 对齐 `edit_page.py` 的散文门（或至少建时 warning）。
+
+**处置**：属共享 memex 组件（`add_page.py`）—— 依 RFC 停靠决策 **PARK**，不自动提交；
+与 HK-featured-inflation 及 VVV 宽度三 RFC 一并批量评审。本轮 4 页已手工拆分复检达标。
+
 ## P2 — 中优先级
 
 ## P3 — 低优先级

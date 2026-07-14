@@ -1196,16 +1196,16 @@
       ],
       "path": "al/albatross.md",
       "description": "Robur's heavier-than-air flying machine, lifted by dozens of screws, in Robur the Conqueror.",
-      "prose_len": 3213,
-      "prose_chars": 3096,
+      "prose_len": 3257,
+      "prose_chars": 3138,
       "h2_count": 4,
       "pn_count": 14,
-      "wikilink_count": 2,
+      "wikilink_count": 3,
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 82,
       "book": "Robur the Conqueror",
-      "total_refs": 27
+      "total_refs": 28
     },
     "AM-ch01": {
       "type": "chapter",
@@ -3116,7 +3116,7 @@
       "quality_score": 65,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 69
+      "total_refs": 70
     },
     "BR-ch01": {
       "type": "chapter",
@@ -3365,7 +3365,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 56
+      "total_refs": 58
     },
     "columbiad-launch": {
       "type": "event",
@@ -3413,7 +3413,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "From the Earth to the Moon",
-      "total_refs": 41
+      "total_refs": 42
     },
     "conseil": {
       "type": "character",
@@ -3435,7 +3435,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 44
+      "total_refs": 45
     },
     "cyrus-harding": {
       "type": "character",
@@ -3459,7 +3459,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 90
+      "total_refs": 91
     },
     "DA": {
       "type": "chapter",
@@ -3529,7 +3529,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 1
+      "total_refs": 2
     },
     "DOSE-ch01": {
       "type": "chapter",
@@ -8264,7 +8264,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 1
     },
     "giant-telescope": {
       "type": "technology",
@@ -8758,7 +8758,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Mysterious Island",
-      "total_refs": 16
+      "total_refs": 17
     },
     "granite-house": {
       "type": "place",
@@ -8780,7 +8780,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 65
+      "total_refs": 66
     },
     "great-eyrie": {
       "type": "place",
@@ -8827,6 +8827,29 @@
       "quality_score": 66,
       "book": "From the Earth to the Moon",
       "total_refs": 0
+    },
+    "gun-club": {
+      "type": "organization",
+      "label": "Gun Club",
+      "aliases": [
+        "Baltimore Gun Club"
+      ],
+      "tags": [
+        "organization",
+        "ballistics"
+      ],
+      "path": "gu/gun-club.md",
+      "description": "The Baltimore artillery club that undertakes to fire a projectile to the Moon.",
+      "prose_len": 1713,
+      "prose_chars": 1528,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "From the Earth to the Moon",
+      "total_refs": 10
     },
     "gun-cotton": {
       "type": "technology",
@@ -9919,7 +9942,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 68
+      "total_refs": 69
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -9989,7 +10012,7 @@
       "chapter": 130,
       "book_seq": 130,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "MI-ch02": {
       "type": "chapter",
@@ -11209,7 +11232,7 @@
       "chapter": 191,
       "book_seq": 191,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "michel-ardan": {
       "type": "character",
@@ -11231,7 +11254,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "From the Earth to the Moon",
-      "total_refs": 38
+      "total_refs": 39
     },
     "mount-franklin": {
       "type": "place",
@@ -11253,7 +11276,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Mysterious Island",
-      "total_refs": 41
+      "total_refs": 42
     },
     "MS-ch01": {
       "type": "chapter",
@@ -12415,7 +12438,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 54
+      "total_refs": 55
     },
     "ned-land": {
       "type": "character",
@@ -12437,7 +12460,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 44
+      "total_refs": 45
     },
     "nemo-death": {
       "type": "event",
@@ -12461,7 +12484,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nemo-electricity": {
       "type": "technology",
@@ -12489,7 +12512,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nitroglycerine": {
       "type": "technology",
@@ -12517,7 +12540,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 7
+      "total_refs": 8
     },
     "north-pole-volcano": {
       "type": "event",
@@ -14675,16 +14698,16 @@
       ],
       "path": "ro/robur.md",
       "description": "The defiant aeronautical genius who proclaims mastery of the air across two novels.",
-      "prose_len": 1621,
-      "prose_chars": 1510,
+      "prose_len": 1631,
+      "prose_chars": 1516,
       "h2_count": 5,
       "pn_count": 6,
-      "wikilink_count": 4,
+      "wikilink_count": 6,
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 66,
       "book": "Robur the Conqueror",
-      "total_refs": 27
+      "total_refs": 28
     },
     "ruhmkorff-apparatus": {
       "type": "technology",
@@ -14732,7 +14755,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 1
+      "total_refs": 2
     },
     "SC-ch01": {
       "type": "chapter",
@@ -17762,7 +17785,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tampa-town": {
       "type": "place",
@@ -17837,6 +17860,28 @@
       "quality_score": 71,
       "book": "Round the Moon",
       "total_refs": 0
+    },
+    "the-mysterious-island": {
+      "type": "work",
+      "label": "The Mysterious Island",
+      "aliases": [],
+      "tags": [
+        "work",
+        "science-fiction",
+        "adventure",
+        "robinsonade"
+      ],
+      "path": "th/the-mysterious-island.md",
+      "description": "A Jules Verne novel in which five castaways build a colony on an uncharted Pacific island.",
+      "prose_len": 2488,
+      "prose_chars": 2377,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 19,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "total_refs": 9
     },
     "the-terror": {
       "type": "technology",
@@ -18300,7 +18345,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "The Mysterious Island",
-      "total_refs": 61
+      "total_refs": 62
     },
     "TT-ch01": {
       "type": "chapter",
@@ -18740,7 +18785,7 @@
       "chapter": 1,
       "book_seq": 1,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 1
+      "total_refs": 2
     },
     "TTLU-ch02": {
       "type": "chapter",
@@ -18840,7 +18885,7 @@
       "chapter": 6,
       "book_seq": 6,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 1
+      "total_refs": 2
     },
     "TTLU-ch07": {
       "type": "chapter",
@@ -19660,6 +19705,29 @@
       "chapter": 47,
       "book_seq": 47,
       "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 2
+    },
+    "twenty-thousand-leagues": {
+      "type": "work",
+      "label": "Twenty Thousand Leagues Under the Sea",
+      "aliases": [
+        "20,000 Leagues Under the Sea"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "submarine"
+      ],
+      "path": "tw/twenty-thousand-leagues.md",
+      "description": "A Jules Verne novel following Professor Aronnax aboard Captain Nemo's submarine Nautilus.",
+      "prose_len": 2344,
+      "prose_chars": 2234,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 17,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
       "total_refs": 1
     },
     "UC-ch01": {
@@ -20849,6 +20917,28 @@
       "book": "The Waif of the Cynthia",
       "total_refs": 1
     },
+    "weldon-institute": {
+      "type": "organization",
+      "label": "Weldon Institute",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "ballooning",
+        "aeronautics"
+      ],
+      "path": "we/weldon-institute.md",
+      "description": "The Philadelphia ballooning club whose lighter-than-air convictions are challenged by Robur and his flying machine the Albatross.",
+      "prose_len": 2229,
+      "prose_chars": 2150,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Robur the Conqueror",
+      "total_refs": 2
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -21350,6 +21440,9 @@
     "gun-club-moon-proposal": "gun-club-moon-proposal",
     "Barbicane's Moon Proposal": "gun-club-moon-proposal",
     "The Gun Club Communication": "gun-club-moon-proposal",
+    "gun-club": "gun-club",
+    "Gun Club": "gun-club",
+    "Baltimore Gun Club": "gun-club",
     "gun-cotton": "gun-cotton",
     "Gun-Cotton": "gun-cotton",
     "pyroxyle": "gun-cotton",
@@ -21862,6 +21955,8 @@
     "the-moon": "the-moon",
     "The Moon": "the-moon",
     "Luna": "the-moon",
+    "the-mysterious-island": "the-mysterious-island",
+    "The Mysterious Island": "the-mysterious-island",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -21957,6 +22052,9 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "twenty-thousand-leagues": "twenty-thousand-leagues",
+    "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
+    "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
     "UC-ch01": "UC-ch01",
     "UC-ch02": "UC-ch02",
     "UC-ch03": "UC-ch03",
@@ -22019,8 +22117,10 @@
     "WC-ch20": "WC-ch20",
     "WC-ch21": "WC-ch21",
     "WC-ch22": "WC-ch22",
+    "weldon-institute": "weldon-institute",
+    "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1031,
-  "generated": "2026-07-14T08:48:40Z"
+  "page_count": 1035,
+  "generated": "2026-07-14T10:16:26Z"
 }

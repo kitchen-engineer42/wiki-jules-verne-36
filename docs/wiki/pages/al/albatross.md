@@ -16,7 +16,7 @@ quality: featured
 
 The Albatross is the flying machine that [[Robur]] builds and commands in *Robur the Conqueror*. Verne calls it "this flying engine known as the 'Albatross,' which he was guiding through the currents of the atmosphere" (RC-007-007). It is an "aeronef—a name which can be exactly applied to the 'Albatross'" (RC-007-030).
 
-The craft belongs to the "heavier than air" school of flight rather than to balloons. Robur trusts entirely to screws: "the simpler his contrivance the better. And the screws... had sufficed for all the needs of his flying machine. One series could hold it suspended in the air, the other could drive it along" (RC-007-022).
+The craft belongs to the "heavier than air" school of flight rather than to the balloons championed by the [[Weldon Institute]]. Robur trusts entirely to screws: "the simpler his contrivance the better. And the screws... had sufficed for all the needs of his flying machine. One series could hold it suspended in the air, the other could drive it along" (RC-007-022).
 
 ## Design & Operation
 
@@ -40,4 +40,6 @@ Its redundancy is a point of pride. Asked about parachutes, "No. Robur did not b
 
 Verne sets the Albatross at the end of a long, real catalogue of aviation pioneers, so that "on the top of" the "ladder of aerial locomotion... appeared Robur the Conqueror" (RC-007-007).
 
-The craft dramatises the era's "heavier than air" versus balloon debate, and Verne sides with the winged camp: the aeroplane's "disposable weight... increases with the square of the speed. Herein the aeroplane has the advantage over the aerostat" (RC-007-021). Its paper hull and secret accumulators extrapolate from genuine 1880s materials and battery research. Robur's later machine, the [[The Terror]], carries the same electric, multi-mode ambition further.
+The craft dramatises the era's "heavier than air" versus balloon debate, and Verne sides with the winged camp: the aeroplane's "disposable weight... increases with the square of the speed. Herein the aeroplane has the advantage over the aerostat" (RC-007-021).
+
+Its paper hull and secret accumulators extrapolate from genuine 1880s materials and battery research. Robur's later machine, the [[The Terror]], carries the same electric, multi-mode ambition further.

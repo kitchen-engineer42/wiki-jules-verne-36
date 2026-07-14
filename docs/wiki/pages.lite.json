@@ -2658,6 +2658,14 @@
       ],
       "path": "gu/gun-club-moon-proposal.md"
     },
+    "gun-club": {
+      "type": "organization",
+      "label": "Gun Club",
+      "aliases": [
+        "Baltimore Gun Club"
+      ],
+      "path": "gu/gun-club.md"
+    },
     "gun-cotton": {
       "type": "technology",
       "label": "Gun-Cotton",
@@ -5374,6 +5382,12 @@
       ],
       "path": "th/the-moon.md"
     },
+    "the-mysterious-island": {
+      "type": "work",
+      "label": "The Mysterious Island",
+      "aliases": [],
+      "path": "th/the-mysterious-island.md"
+    },
     "the-terror": {
       "type": "technology",
       "label": "The Terror",
@@ -5922,6 +5936,14 @@
       "aliases": [],
       "path": "tt/TTLU-ch47.md"
     },
+    "twenty-thousand-leagues": {
+      "type": "work",
+      "label": "Twenty Thousand Leagues Under the Sea",
+      "aliases": [
+        "20,000 Leagues Under the Sea"
+      ],
+      "path": "tw/twenty-thousand-leagues.md"
+    },
     "UC-ch01": {
       "type": "chapter",
       "label": "The Underground City — CHAPTER I. CONTRADICTORY LETTERS",
@@ -6278,6 +6300,12 @@
       "label": "The Waif of the Cynthia — CHAPTER XXII",
       "aliases": [],
       "path": "wc/WC-ch22.md"
+    },
+    "weldon-institute": {
+      "type": "organization",
+      "label": "Weldon Institute",
+      "aliases": [],
+      "path": "we/weldon-institute.md"
     },
     "YEAR": {
       "type": "chapter",
@@ -6766,6 +6794,9 @@
     "gun-club-moon-proposal": "gun-club-moon-proposal",
     "Barbicane's Moon Proposal": "gun-club-moon-proposal",
     "The Gun Club Communication": "gun-club-moon-proposal",
+    "gun-club": "gun-club",
+    "Gun Club": "gun-club",
+    "Baltimore Gun Club": "gun-club",
     "gun-cotton": "gun-cotton",
     "Gun-Cotton": "gun-cotton",
     "pyroxyle": "gun-cotton",
@@ -7278,6 +7309,8 @@
     "the-moon": "the-moon",
     "The Moon": "the-moon",
     "Luna": "the-moon",
+    "the-mysterious-island": "the-mysterious-island",
+    "The Mysterious Island": "the-mysterious-island",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -7373,6 +7406,9 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "twenty-thousand-leagues": "twenty-thousand-leagues",
+    "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
+    "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
     "UC-ch01": "UC-ch01",
     "UC-ch02": "UC-ch02",
     "UC-ch03": "UC-ch03",
@@ -7435,8 +7471,10 @@
     "WC-ch20": "WC-ch20",
     "WC-ch21": "WC-ch21",
     "WC-ch22": "WC-ch22",
+    "weldon-institute": "weldon-institute",
+    "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1031,
-  "generated": "2026-07-14T08:24:36Z"
+  "page_count": 1035,
+  "generated": "2026-07-14T10:07:07Z"
 }
