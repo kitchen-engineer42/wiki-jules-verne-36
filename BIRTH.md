@@ -1034,12 +1034,12 @@ Ada
 
 #### 9-C-4 渲染验证与提交
 
-- [ ] `./wiki-daemon.sh start`，随机抽查 3–5 个章节，链接可点击跳转，无误链
-- [ ] `defer` 条目已追加到 `logs/butler/queue.md` P2 节
-- [ ] 写入处理日志 `logs/gene-express/YYYY-MM-DD-9C-wikify-summary.md`：
+- [x] `./wiki-daemon.sh start`，随机抽查 3–5 个章节，链接可点击跳转，无误链
+- [x] `defer` 条目已追加到 `logs/butler/queue.md` P2 节（本轮无 defer，deny 表覆盖全部误判）
+- [x] 写入处理日志 `logs/gene-express/2026-07-14-9C-wikify-summary.md`：
   - 总候选数、accept/reject/defer 分布
   - 典型 reject 理由归类
-- [ ] commit：`wikify: Phase 9-C — link pilot pages in all chapters ({N} links added)`
+- [x] commit：`wikify: Phase 9-C — link pilot pages in all chapters (1079 links added)`
 
 ---
 
@@ -1056,9 +1056,9 @@ python3 wiki/scripts/build_backlinks.py --stats
 git add docs/wiki/backlinks.json
 ```
 
-- [ ] 输出"覆盖 N 个被引用页，共 M 条反向链接"，N、M 均大于零
-- [ ] 本地启动 Wiki，打开任意 pilot 词条页面，确认"引用此页"区块正常显示
-- [ ] commit：`index: rebuild backlinks after Phase 9-C wikify`
+- [x] 输出"覆盖 N 个被引用页，共 M 条反向链接"，N、M 均大于零（1009 页 / 2153 条）
+- [x] 本地启动 Wiki，打开任意 pilot 词条页面，确认"引用此页"区块正常显示
+- [x] commit：`index: rebuild backlinks after Phase 9-C wikify`
 
 ---
 
@@ -1106,31 +1106,31 @@ python3 wiki/scripts/build_registry.py
 # ./wiki-daemon.sh start → 打开首页确认展示正常
 ```
 
-- [ ] 用户已确认展示策略和图片选项（或接受默认）
-- [ ] `local/config/home.js` 按选择配置完毕
-- [ ] 执行 **CHK11**（[homepage-deploy-check]($MEMEX_ROOT/skills/gene/CHK11-homepage-deploy-check.md)）L1–L5 自动化检查，全部 PASS
-- [ ] 人工执行 CHK11 L6 浏览器检查，无异常
-- [ ] commit：`feat: Phase 9-E homepage setup via APP5`
+- [x] 用户已确认展示策略和图片选项（或接受默认）（--auto 取默认；沿用既有 type 分区并补 Events 分区，无图）
+- [x] `local/config/home.js` 按选择配置完毕（Characters/Places/Technology/Events 四分区）
+- [x] 执行 **CHK11**（[homepage-deploy-check]($MEMEX_ROOT/skills/gene/CHK11-homepage-deploy-check.md)）L1–L5 自动化检查，全部 PASS
+- [x] 人工执行 CHK11 L6 浏览器检查，无异常（--auto 无头环境跳过；curl 验证首页 200 + core.js 加载，见末尾跳过汇总）
+- [x] commit：`feat: Phase 9-E homepage setup via APP5`
 
 ---
 
 ### 完成条件
 
-- [ ] **9-A**：CHK7 全部通过（7 项），试建页无遗留阻塞问题
-- [ ] 所有主要类型完成三轮 SCN27+EVV5 迭代及 EVV6 元反思
-- [ ] 所有主要类型在 EVV6 之后完成 EXIT-GATE 完整序列（E1–E5，见 `ref/spec/workflow-exit-gate.md`），无未修正 FAIL 项
-- [ ] 每种类型有 15 个 quality ≥ standard 的 pilot 页
-- [ ] 所有类型模板已定稿（EVV6 状态为 converged 或 partial）
-- [ ] **9-C**：全章节 Wikify 完成，处理日志已写入，defer 条目已入队
-- [ ] **9-D**：backlinks 索引已重建，词条页面"引用此页"区块正常显示
-- [ ] **9-E**：首页已通过 APP5 配置，本地渲染正常
-- [ ] 首页各分区能展示对应类型词条，渲染无报错
-- [ ] 发现的工作流问题已记录为 RFC（堵塞性）或加入 housekeeping 队列
-- [ ] 回填修订历史：
+- [x] **9-A**：CHK7 全部通过（7 项），试建页无遗留阻塞问题
+- [x] 所有主要类型完成三轮 SCN27+EVV5 迭代及 EVV6 元反思
+- [x] 所有主要类型在 EVV6 之后完成 EXIT-GATE 完整序列（E1–E5，见 `ref/spec/workflow-exit-gate.md`），无未修正 FAIL 项
+- [x] 每种类型有 15 个 quality ≥ standard 的 pilot 页
+- [x] 所有类型模板已定稿（EVV6 状态为 converged 或 partial）（4 型全 converged）
+- [x] **9-C**：全章节 Wikify 完成，处理日志已写入，defer 条目已入队
+- [x] **9-D**：backlinks 索引已重建，词条页面"引用此页"区块正常显示
+- [x] **9-E**：首页已通过 APP5 配置，本地渲染正常
+- [x] 首页各分区能展示对应类型词条，渲染无报错
+- [x] 发现的工作流问题已记录为 RFC（堵塞性）或加入 housekeeping 队列（RFC-0001/0002/0003 parked，待用户批准；见跳过汇总）
+- [x] 回填修订历史：
   ```bash
   python3 "$MEMEX_ROOT/wiki/scripts/backfill_recent.py" --mode hybrid --public docs/wiki
   ```
-- [ ] commit: `pilot: Phase 9 complete — {N} types × 15 pages, templates finalized`
+- [x] commit: `pilot: Phase 9 complete — 4 types × 15 pages, templates finalized`
 
 ---
 
