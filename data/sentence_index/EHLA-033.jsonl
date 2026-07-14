@@ -1,0 +1,130 @@
+{"sid": "EHLA-033-001-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "IT WAS SEVEN o'clock in the evening.", "len": 36}
+{"sid": "EHLA-033-001-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Judge Jarriquez had all the time been absorbed in working at the puzzle--and was no further advanced--and had forgotten the time of repast and the time of repose, when there came a knock at his study door.", "len": 205}
+{"sid": "EHLA-033-002-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "An hour later, and all the cerebral substance of the vexed magistrate would certainly have evaporated under the intense heat into which he had worked his head.", "len": 159}
+{"sid": "EHLA-033-003-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "At the order to enter--which was given in an impatient tone--the door opened and Manoel presented himself.", "len": 106}
+{"sid": "EHLA-033-004-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "The young doctor had left his friends on board the jangada at work on the indecipherable document, and had come to see Judge Jarriquez.", "len": 135}
+{"sid": "EHLA-033-004-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "He was anxious to know if he had been fortunate in his researches.", "len": 66}
+{"sid": "EHLA-033-004-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "He had come to ask if he had at length discovered the system on which the cryptogram had been written.", "len": 102}
+{"sid": "EHLA-033-005-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "The magistrate was not sorry to see Manoel come in.", "len": 51}
+{"sid": "EHLA-033-005-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "He was in that state of excitement that solitude was exasperating to him.", "len": 73}
+{"sid": "EHLA-033-005-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "He wanted some one to speak to, some one as anxious to penetrate the mystery as he was.", "len": 87}
+{"sid": "EHLA-033-005-s4", "pn": "EHLA-033", "seq": 4, "type": "sent", "text": "Manoel was just the man.", "len": 24}
+{"sid": "EHLA-033-006-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Sir,\" said Manoel as he entered, \"one question!", "len": 48}
+{"sid": "EHLA-033-006-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Have you succeeded better than we have? \"", "len": 41}
+{"sid": "EHLA-033-007-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Sit down first,\" exclaimed Judge Jarriquez, who got up and began to pace the room. \"Sit down.", "len": 94}
+{"sid": "EHLA-033-007-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "If we are both of us standing, you will walk one way and I shall walk the other, and the room will be too narrow to hold us.\"", "len": 125}
+{"sid": "EHLA-033-008-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "Manoel sat down and repeated his question.", "len": 42}
+{"sid": "EHLA-033-009-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "I have not had any success!", "len": 27}
+{"sid": "EHLA-033-009-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" replied the magistrate; \"I do not think I am any better off.", "len": 62}
+{"sid": "EHLA-033-009-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "I have got nothing to tell you; but I have found out a certainty.\"", "len": 66}
+{"sid": "EHLA-033-010-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"What is that, sir? \"", "len": 21}
+{"sid": "EHLA-033-011-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That the document is not based on conventional signs, but on what is known in cryptology as a cipher, that is to say, on a number.\"", "len": 132}
+{"sid": "EHLA-033-012-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Well, sir,\" answered Manoel, \"cannot a document of that kind always be read? \"", "len": 79}
+{"sid": "EHLA-033-013-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Yes,\" said Jarriquez, \"if a letter is invariably represented by the same letter; if an _a,_ for example, is always a _p,_ and a _p_ is always an _x;_ if not, it cannot.\"", "len": 170}
+{"sid": "EHLA-033-014-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And in this document? \"", "len": 24}
+{"sid": "EHLA-033-015-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"In this document the value of the letter changes with the arbitrarily selected cipher which necessitates it.", "len": 109}
+{"sid": "EHLA-033-015-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "So a _b_ will in one place be represented by a _k_ will later on become a _z,_ later on an _u_ or an _n_ or an _f,_ or any other letter.\"", "len": 137}
+{"sid": "EHLA-033-017-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And then, I am sorry to say, the cryptogram is indecipherable.\"", "len": 64}
+{"sid": "EHLA-033-018-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Indecipherable!", "len": 16}
+{"sid": "EHLA-033-018-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" exclaimed Manoel. \"No, sir; we shall end by finding the key of the document on which the man's life depends.\"", "len": 111}
+{"sid": "EHLA-033-019-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "Manoel had risen, a prey to the excitement he could not control; the reply he had received was too hopeless, and he refused to accept it for good.", "len": 146}
+{"sid": "EHLA-033-020-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "At a gesture from the judge, however, he sat down again, and in a calmer voice asked:", "len": 85}
+{"sid": "EHLA-033-021-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And in the first place, sir, what makes you think that the basis of this document is a number, or, as you call it, a cipher? \"", "len": 127}
+{"sid": "EHLA-033-022-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Listen to me, young man,\" replied the judge, \"and you will be forced to give in to the evidence.\"", "len": 98}
+{"sid": "EHLA-033-023-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "The magistrate took the document and put it before the eyes of Manoel and showed him what he had done.", "len": 102}
+{"sid": "EHLA-033-024-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"I began,\" he said, \"by treating this document in the proper way, that is to say, logically, leaving nothing to chance.", "len": 119}
+{"sid": "EHLA-033-024-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "I applied to it an alphabet based on the proportion the letters bear to one another which is usual in our language, and I sought to obtain the meaning by following the precepts of our immortal analyst, Edgar Poe.", "len": 212}
+{"sid": "EHLA-033-024-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Well, what succeeded with him collapsed with me.\"", "len": 49}
+{"sid": "EHLA-033-025-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\" exclaimed Manoel.", "len": 19}
+{"sid": "EHLA-033-026-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Yes, my dear young man, and I at once saw that success sought in that fashion was impossible.", "len": 94}
+{"sid": "EHLA-033-026-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "In truth, a stronger man than I might have been deceived.\"", "len": 58}
+{"sid": "EHLA-033-027-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"But I should like to understand,\" said Manoel, \"and I do not----\"", "len": 66}
+{"sid": "EHLA-033-028-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Take the document,\" continued Judge Jarriquez; \"first look at the disposition of the letters, and read it through.\"", "len": 116}
+{"sid": "EHLA-033-030-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Do you not see that the combination of several of the letters is very strange?", "len": 79}
+{"sid": "EHLA-033-030-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" asked the magistrate.", "len": 23}
+{"sid": "EHLA-033-031-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"I do not see anything,\" said Manoel, after having for perhaps the hundredth time read through the document.", "len": 108}
+{"sid": "EHLA-033-032-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "study the last paragraph!", "len": 25}
+{"sid": "EHLA-033-032-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "There you understand the sense of the whole is bound to be summed up.", "len": 69}
+{"sid": "EHLA-033-032-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Do you see anything abnormal? \"", "len": 31}
+{"sid": "EHLA-033-034-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"There is, however, one thing which absolutely proves that the language is subject to the laws of number.\"", "len": 106}
+{"sid": "EHLA-033-036-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That is that you see three _h's_ coming together in two different places.\"", "len": 75}
+{"sid": "EHLA-033-037-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "What Jarriquez said was correct, and it was of a nature to attract attention.", "len": 77}
+{"sid": "EHLA-033-037-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "The two hundred and fourth, two hundred and fifth, and two hundred and sixth letters of the paragraph, and the two hundred and fifty-eight, two hundred and fifty-ninth, and two hundred and sixtieth letters of the paragraph were consecutive _h's_.", "len": 246}
+{"sid": "EHLA-033-037-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "At first this peculiarity had not struck the magistrate.", "len": 56}
+{"sid": "EHLA-033-038-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And that proves?", "len": 17}
+{"sid": "EHLA-033-038-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" asked Manoel, without divining the deduction that could be drawn from the combination.", "len": 88}
+{"sid": "EHLA-033-039-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That simply proves that the basis of the document is a number.", "len": 63}
+{"sid": "EHLA-033-039-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "It shows _à priori_ that each letter is modified in virtue of the ciphers of the number and according to the place which it occupies.\"", "len": 134}
+{"sid": "EHLA-033-041-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Because in no language will you find words with three consecutive repetitions of the letter _h.\"_", "len": 98}
+{"sid": "EHLA-033-042-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "Manoel was struck with the argument; he thought about it, and, in short, had no reply to make.", "len": 94}
+{"sid": "EHLA-033-043-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And had I made the observation sooner,\" continued the magistrate, \"I might have spared myself a good deal of trouble and a headache which extends from my occiput to my sinciput.\"", "len": 179}
+{"sid": "EHLA-033-044-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"But, sir,\" asked Manoel, who felt the little hope vanishing on which he had hitherto rested, \"what do you mean by a cipher? \"", "len": 126}
+{"sid": "EHLA-033-045-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Tell me a number.\"", "len": 19}
+{"sid": "EHLA-033-046-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Any number you like.\"", "len": 22}
+{"sid": "EHLA-033-047-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Give me an example and you will understand the explanation better.\"", "len": 68}
+{"sid": "EHLA-033-048-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "Judge Jarriquez sat down at the table, took up a sheet of paper and a pencil, and said:", "len": 87}
+{"sid": "EHLA-033-049-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Now, Mr. Manoel, let us choose a sentence by chance, the first that comes; for instance:", "len": 89}
+{"sid": "EHLA-033-050-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "_Judge Jarriquez has an ingenious mind._", "len": 40}
+{"sid": "EHLA-033-051-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "I write this phrase so as to space the letters different and I get:", "len": 67}
+{"sid": "EHLA-033-052-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "_Judgejarriquezhasaningeniousmind._", "len": 35}
+{"sid": "EHLA-033-053-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That done,\" said the magistrate, to whom the phrase seemed to contain a proposition beyond dispute, looking Manoel straight in the face, \"suppose I take a number by chance, so as to give a cryptographic form to this natural succession of words; suppose now this word is composed of three ciphers, and let these ciphers be 2, 3, and 4.", "len": 335}
+{"sid": "EHLA-033-053-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Now on the line below I put the number 234, and repeat it as many times as are necessary to get to the end of the phrase, and so that every cipher comes underneath a letter.", "len": 173}
+{"sid": "EHLA-033-053-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "This is what we get:", "len": 20}
+{"sid": "EHLA-033-054-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "_J u d g e j a r r I q u e z h a s a n I n g e n I o u s m I n d_ 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 2 3 4 And now, Mr. Manoel, replacing each letter by the letter in advance of it in alphabetical order according to the value of the cipher, we get:", "len": 273}
+{"sid": "EHLA-033-055-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "_j_ + 2 = _l_ _u_ + 3 = _x_ _d_ + 4 = _h_ _g_ + 2 = _i_ _e_ + 3 = _h_ _j_ + 4 = _n_ _a_ + 2 = _c_ _r_ + 3 = _u_ _r_ + 4 = _v_ _i_ + 2 = _k_ _q_ + 3 = _t_ _u_ + 4 = _y_ _e_ + 2 = _g_ _a_ + 3 = _c_ _h_ + 4 = _t_ _a_ + 2 = _c_ _s_ + 3 = _v_ _a_ + 4 = _e_ _n_ + 2 = _p_ _i_ + 3 = _l_ _n_ + 4 = _r_ _g_ + 2 = _i_ _e_ + 3 = _h_ _n_ + 4 = _r_ _i_ + 2 = _k_ _o_ + 3 = _r_ _u_ + 4 = _y_ _s_ + 2 = _u_ and so on.", "len": 402}
+{"sid": "EHLA-033-056-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"If, on account of the value of the ciphers which compose the number I come to the end of the alphabet without having enough complementary letters to deduct, I begin again at the beginning.", "len": 189}
+{"sid": "EHLA-033-056-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "That is what happens at the end of my name when the _z_ is replaced by the 3.", "len": 77}
+{"sid": "EHLA-033-056-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "As after _z_ the alphabet has no more letters, I commence to count from _a,_ and so get the _c_.", "len": 96}
+{"sid": "EHLA-033-056-s4", "pn": "EHLA-033", "seq": 4, "type": "sent", "text": "That done, when I get to the end of this cryptographic system, made up of the 234--which was arbitrarily selected, do not forget!", "len": 129}
+{"sid": "EHLA-033-056-s5", "pn": "EHLA-033", "seq": 5, "type": "sent", "text": "--the phrase which you recognize above is replaced by", "len": 53}
+{"sid": "EHLA-033-057-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "_lxhihncuvktygclveplrihrkryupmpg._", "len": 34}
+{"sid": "EHLA-033-058-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And now, young man, just look at it, and do you not think it is very much like what is in the document?", "len": 104}
+{"sid": "EHLA-033-058-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Well, what is the consequence?", "len": 30}
+{"sid": "EHLA-033-058-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Why, that the signification of the letters depends on a cipher which chance puts beneath them, and the cryptographic letter which answers to a true one is not always the same.", "len": 175}
+{"sid": "EHLA-033-058-s4", "pn": "EHLA-033", "seq": 4, "type": "sent", "text": "So in this phrase the first _j_ is represented by an _l,_ the second by an _n;_ the first _e_ by an _h,_ the second b a _g,_ the third by an _h;_ the first _d_ is represented by an _h,_ the last by a _g;_ the first _u_ by an _x,_ the last by a _y;_ the first and second _a's_ by a _c,_ the last by an _e;_ and in my own name one _r_ is represented by a _u,_ the other by a _v._ and so on.", "len": 388}
+{"sid": "EHLA-033-058-s5", "pn": "EHLA-033", "seq": 5, "type": "sent", "text": "Now do you see that if you do not know the cipher 234 you will never be able to read the lines, and consequently if we do not know the number of the document it remains undecipherable.\"", "len": 185}
+{"sid": "EHLA-033-059-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "On hearing the magistrate reason with such careful logic, Manoel was at first overwhelmed, but, raising his head, he exclaimed:", "len": 127}
+{"sid": "EHLA-033-060-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"No, sir, I will not renounce the hope of finding the number! \"", "len": 63}
+{"sid": "EHLA-033-061-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"We might have done so,\" answered Judge Jarriquez, \"if the lines of the document had been divided into words.\"", "len": 110}
+{"sid": "EHLA-033-063-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"For this reason, young man.", "len": 28}
+{"sid": "EHLA-033-063-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "I think we can assume that in the last paragraph all that is written in these earlier paragraphs is summed up.", "len": 110}
+{"sid": "EHLA-033-063-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Now I am convinced that in it will be found the name of Joam Dacosta.", "len": 69}
+{"sid": "EHLA-033-063-s4", "pn": "EHLA-033", "seq": 4, "type": "sent", "text": "Well, if the lines had been divided into words, in trying the words one after the other--I mean the words composed of seven letters, as the name of Dacosta is--it would not have been impossible to evolve the number which is the key of the document.\"", "len": 249}
+{"sid": "EHLA-033-064-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Will you explain to me how you ought to proceed to do that, sir?", "len": 65}
+{"sid": "EHLA-033-064-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" asked Manoel, who probably caught a glimpse of one more hope.", "len": 63}
+{"sid": "EHLA-033-065-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Nothing can be more simple,\" answered the judge. \"Let us take, for example, one of the words in the sentence we have just written--my name, if you like.", "len": 153}
+{"sid": "EHLA-033-065-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "It is represented in the cryptogram by this queer succession of letters, _ncuvktygc_.", "len": 85}
+{"sid": "EHLA-033-065-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Well, arranging these letters in a column, one under the other, and then placing against them the letters of my name and deducting one from the other the numbers of their places in alphabetical order, I see the following result:", "len": 228}
+{"sid": "EHLA-033-066-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "Between _n_ and _j_ we have 4 letters -- _c_ -- _a_ -- 2 -- -- _u_ -- _r_ -- 3 -- -- _v_ -- _r_ -- 4 -- -- _k_ -- _i_ -- 2 -- -- _t_ -- _q_ -- 3 -- -- _y_ -- _u_ -- 4 -- -- _g_ -- _e_ -- 2 -- -- _c_ -- _z_ -- 3 --", "len": 213}
+{"sid": "EHLA-033-067-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Now what is the column of ciphers made up of that we have got by this simple operation?", "len": 88}
+{"sid": "EHLA-033-067-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "423 423 423, that is to say, of repetitions of the numbers 423, or 234, or 342.\"", "len": 80}
+{"sid": "EHLA-033-068-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Yes, that is it!", "len": 17}
+{"sid": "EHLA-033-068-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" answered Manoel.", "len": 18}
+{"sid": "EHLA-033-069-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"You understand, then, by this means, that in calculating the true letter from the false, instead of the false from the true, I have been able to discover the number with ease; and the number I was in search of is really the 234 which I took as the key of my cryptogram.\"", "len": 271}
+{"sid": "EHLA-033-070-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\" exclaimed Manoel, \"if that is so, the name of Dacosta is in the last paragraph; and taking successively each letter of those lines for the first of the seven letters which compose his name, we ought to get----\"", "len": 212}
+{"sid": "EHLA-033-071-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That would be impossible,\" interrupted the judge, \"except on one condition.\"", "len": 77}
+{"sid": "EHLA-033-073-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"That the first cipher of the number should happen to be the first letter of the word Dacosta, and I think you will agree with me that that is not probable.\"", "len": 157}
+{"sid": "EHLA-033-074-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\" sighed Manoel, who, with this improbability, saw the last chance vanish.", "len": 74}
+{"sid": "EHLA-033-075-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"And so we must trust to chance alone,\" continued Jarriquez, who shook his head, \"and chance does not often do much in things of this sort.\"", "len": 140}
+{"sid": "EHLA-033-076-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"But still,\" said Manoel, \"chance might give us this number.\"", "len": 61}
+{"sid": "EHLA-033-077-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"This number,\" exclaimed the magistrate--\"this number?", "len": 54}
+{"sid": "EHLA-033-077-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "But how many ciphers is it composed of?", "len": 39}
+{"sid": "EHLA-033-077-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "Of two, or three, or four, or nine, or ten?", "len": 43}
+{"sid": "EHLA-033-077-s4", "pn": "EHLA-033", "seq": 4, "type": "sent", "text": "Is it made of different ciphers only or of ciphers in different order many times repeated?", "len": 90}
+{"sid": "EHLA-033-077-s5", "pn": "EHLA-033", "seq": 5, "type": "sent", "text": "Do you not know, young man, that with the ordinary ten ciphers, using all at a time, but without any repetition, you can make three million two hundred and sixty-eight thousand and eight hundred different numbers, and that if you use the same cipher more than once in the number, these millions of combinations will be enormously increased!", "len": 340}
+{"sid": "EHLA-033-077-s6", "pn": "EHLA-033", "seq": 6, "type": "sent", "text": "And do you not know that if we employ every one of the five hundred and twenty-five thousand and six hundred minutes of which the year is composed to try at each of these numbers, it would take you six years, and that you would want three centuries if each operation took you an hour?", "len": 284}
+{"sid": "EHLA-033-077-s7", "pn": "EHLA-033", "seq": 7, "type": "sent", "text": "You ask the impossible! \"", "len": 25}
+{"sid": "EHLA-033-078-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Impossible, sir?", "len": 17}
+{"sid": "EHLA-033-078-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" answered Manoel. \"An innocent man has been branded as guilty, and Joam Dacosta is to lose his life and his honor while you hold in your hands the material proof of his innocence!", "len": 180}
+{"sid": "EHLA-033-078-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "That is what is impossible! \"", "len": 29}
+{"sid": "EHLA-033-079-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\" exclaimed Jarriquez, \"who told you, after all, that Torres did not tell a lie?", "len": 80}
+{"sid": "EHLA-033-079-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Who told you that he really did have in his hands a document written by the author of the crime?", "len": 96}
+{"sid": "EHLA-033-079-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "that this paper was the document, and that this document refers to Joam Dacosta? \"", "len": 82}
+{"sid": "EHLA-033-080-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"Who told me so?", "len": 16}
+{"sid": "EHLA-033-080-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "\" repeated Manoel, and his face was hidden in his hands.", "len": 56}
+{"sid": "EHLA-033-081-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "In fact, nothing could prove for certain that the document had anything to do with the affair in the diamond province.", "len": 118}
+{"sid": "EHLA-033-081-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "There was, in fact, nothing to show that it was not utterly devoid of meaning, and that it had been imagined by Torres himself, who was as capable of selling a false thing as a true one!", "len": 186}
+{"sid": "EHLA-033-082-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "\"It does not matter, Manoel,\" continued the judge, rising; \"it does not matter!", "len": 79}
+{"sid": "EHLA-033-082-s2", "pn": "EHLA-033", "seq": 2, "type": "sent", "text": "Whatever it may be to which the document refers, I have not yet given up discovering the cipher.", "len": 96}
+{"sid": "EHLA-033-082-s3", "pn": "EHLA-033", "seq": 3, "type": "sent", "text": "After all, it is worth more than a logogryph or a rebus! \"", "len": 58}
+{"sid": "EHLA-033-083-s1", "pn": "EHLA-033", "seq": 1, "type": "sent", "text": "At these words Manoel rose, shook hands with the magistrate, and returned to the jangada, feeling more hopeless when he went back than when he set out.", "len": 151}

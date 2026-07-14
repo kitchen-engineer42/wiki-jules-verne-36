@@ -1,0 +1,102 @@
+{"sid": "FEM-008-001-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "HISTORY OF THE CANNON.", "len": 22}
+{"sid": "FEM-008-002-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "The resolutions passed at this meeting produced a great effect outside.", "len": 71}
+{"sid": "FEM-008-002-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Some timid people grew alarmed at the idea of a projectile weighing 20,000 lbs. hurled into space.", "len": 98}
+{"sid": "FEM-008-002-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "People asked what cannon could ever transmit an initial speed sufficient for such a mass.", "len": 89}
+{"sid": "FEM-008-002-s4", "pn": "FEM-008", "seq": 4, "type": "sent", "text": "The report of the second meeting was destined to answer these questions victoriously.", "len": 85}
+{"sid": "FEM-008-003-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "The next evening the four members of the Gun Club sat down before fresh mountains of sandwiches and a veritable ocean of tea.", "len": 125}
+{"sid": "FEM-008-003-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "The debate then began.", "len": 22}
+{"sid": "FEM-008-004-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"My dear colleagues,\" said Barbicane, \"we are going to occupy ourselves with the construction of the engine, its length, form, composition, and weight.", "len": 151}
+{"sid": "FEM-008-004-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "It is probable that we shall have to give it gigantic dimensions, but, however great our difficulties might be, our industrial genius will easily overcome them.", "len": 160}
+{"sid": "FEM-008-004-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "Will you please listen to me and spare objections for the present?", "len": 66}
+{"sid": "FEM-008-004-s4", "pn": "FEM-008", "seq": 4, "type": "sent", "text": "I do not fear them.\"", "len": 20}
+{"sid": "FEM-008-005-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "An approving murmur greeted this declaration.", "len": 45}
+{"sid": "FEM-008-006-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"We must not forget,\" resumed Barbicane, \"to what point our yesterday's debate brought us; the problem is now the following: how to give an initial speed of 12,000 yards a second to a shot 108 inches in diameter weighing 20,000 lbs.", "len": 232}
+{"sid": "FEM-008-007-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"That is the problem indeed,\" answered Major Elphinstone.", "len": 57}
+{"sid": "FEM-008-008-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"When a projectile is hurled into space,\" resumed Barbicane, \"what happens?", "len": 75}
+{"sid": "FEM-008-008-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "It is acted upon by three independent forces, the resistance of the medium, the attraction of the earth, and the force of impulsion with which it is animated.", "len": 158}
+{"sid": "FEM-008-008-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "Let us examine these three forces.", "len": 34}
+{"sid": "FEM-008-008-s4", "pn": "FEM-008", "seq": 4, "type": "sent", "text": "The resistance of the medium--that is to say, the resistance of the air--is of little importance.", "len": 97}
+{"sid": "FEM-008-008-s5", "pn": "FEM-008", "seq": 5, "type": "sent", "text": "In fact, the terrestrial atmosphere is only forty miles deep.", "len": 61}
+{"sid": "FEM-008-008-s6", "pn": "FEM-008", "seq": 6, "type": "sent", "text": "With a rapidity of 12,000 yards the projectile will cross that in five seconds, and this time will be short enough to make the resistance of the medium insignificant.", "len": 166}
+{"sid": "FEM-008-008-s7", "pn": "FEM-008", "seq": 7, "type": "sent", "text": "Let us now pass to the attraction of the earth--that is to say, to the weight of the projectile.", "len": 96}
+{"sid": "FEM-008-008-s8", "pn": "FEM-008", "seq": 8, "type": "sent", "text": "We know that that weight diminishes in an inverse ratio to the square of distances--in fact, this is what physics teach us: when a body left to itself falls on the surface of the earth, it falls 15 feet in the first second, and if the same body had to fall 257,542 miles--that is to say, the distance between the earth and the moon--its fall would be reduced to half a line in the first second.", "len": 394}
+{"sid": "FEM-008-008-s9", "pn": "FEM-008", "seq": 9, "type": "sent", "text": "That is almost equivalent to immobility.", "len": 40}
+{"sid": "FEM-008-008-s10", "pn": "FEM-008", "seq": 10, "type": "sent", "text": "The question is, therefore, how progressively to overcome this law of gravitation.", "len": 82}
+{"sid": "FEM-008-008-s11", "pn": "FEM-008", "seq": 11, "type": "sent", "text": "How shall we do it?", "len": 19}
+{"sid": "FEM-008-008-s12", "pn": "FEM-008", "seq": 12, "type": "sent", "text": "By the force of impulsion? \"", "len": 28}
+{"sid": "FEM-008-009-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"That is the difficulty,\" answered the major.", "len": 45}
+{"sid": "FEM-008-010-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"That is it indeed,\" replied the president. \"But we shall triumph over it, for this force of impulsion we want depends on the length of the engine and the quantity of powder employed, the one only being limited by the resistance of the other.", "len": 242}
+{"sid": "FEM-008-010-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Let us occupy ourselves, therefore, to-day with the dimensions to be given to the cannon.", "len": 89}
+{"sid": "FEM-008-010-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "It is quite understood that we can make it, as large as we like, seeing it will not have to be moved.\"", "len": 102}
+{"sid": "FEM-008-011-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"All that is evident,\" replied the general.", "len": 43}
+{"sid": "FEM-008-012-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Until now,\" said Barbicane, \"the longest cannon, our enormous Columbiads, have not been more than twenty-five feet long; we shall therefore astonish many people by the dimensions we shall have to adopt.\"", "len": 204}
+{"sid": "FEM-008-013-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Certainly,\" exclaimed J.T. Maston. \"For my part, I ask for a cannon half a mile long at least! \"", "len": 97}
+{"sid": "FEM-008-014-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\" cried the major and the general.", "len": 34}
+{"sid": "FEM-008-015-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Yes, half a mile, and that will be half too short.\"", "len": 52}
+{"sid": "FEM-008-016-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Come, Maston,\" answered Morgan, \"you exaggerate.\"", "len": 50}
+{"sid": "FEM-008-017-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"No, I do not,\" said the irate secretary; \"and I really do not know why you tax me with exaggeration.\"", "len": 102}
+{"sid": "FEM-008-018-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Because you go too far.\"", "len": 25}
+{"sid": "FEM-008-019-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"You must know, sir,\" answered J.T. Maston, looking dignified, \"that an artilleryman is like a cannon-ball, he can never go too far.\"", "len": 133}
+{"sid": "FEM-008-020-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "The debate was getting personal, but the president interfered.", "len": 62}
+{"sid": "FEM-008-021-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Be calm, my friends, and let us reason it out.", "len": 47}
+{"sid": "FEM-008-021-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "We evidently want a gun of great range, as the length of the engine will increase the detention of gas accumulated behind the projectile, but it is useless to overstep certain limits.\"", "len": 184}
+{"sid": "FEM-008-022-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Perfectly,\" said the major.", "len": 28}
+{"sid": "FEM-008-023-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"What are the usual rules in such a case?", "len": 41}
+{"sid": "FEM-008-023-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Ordinarily the length of a cannon is twenty or twenty-five times the diameter of the projectile, and it weighs 235 to 240 times its weight.\"", "len": 140}
+{"sid": "FEM-008-024-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"It is not enough,\" cried J.T. Maston with impetuosity.", "len": 55}
+{"sid": "FEM-008-025-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"I agree to that, my worthy friend, and in fact by keeping that proportion for a projectile nine feet wide, weighing 30,000 lbs., the engine would only have a length of 225 feet and a weight of 7,200,000 lbs.\"", "len": 209}
+{"sid": "FEM-008-026-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"That is ridiculous,\" resumed J.T. Maston. \"You might as well take a pistol.\"", "len": 77}
+{"sid": "FEM-008-027-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"I think so too,\" answered Barbicane; \"that is why I propose to quadruple that length, and to construct a cannon 900 feet long.\"", "len": 128}
+{"sid": "FEM-008-028-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "The general and the major made some objections, but, nevertheless, this proposition, strongly supported by the secretary, was definitely adopted.", "len": 145}
+{"sid": "FEM-008-029-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Now,\" said Elphinstone, \"what thickness must we give its sides? \"", "len": 66}
+{"sid": "FEM-008-030-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"A thickness of six feet,\" answered Barbicane.", "len": 46}
+{"sid": "FEM-008-031-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"You do not think of raising such a mass upon a gun-carriage?", "len": 61}
+{"sid": "FEM-008-031-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "\" asked the major.", "len": 18}
+{"sid": "FEM-008-032-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"That would be superb, however!", "len": 31}
+{"sid": "FEM-008-032-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "said J.T. Maston.", "len": 17}
+{"sid": "FEM-008-033-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"But impracticable,\" answered Barbicane. \"No, I think of casting this engine in the ground itself, binding it up with wrought-iron hoops, and then surrounding it with a thick mass of stone and cement masonry.", "len": 208}
+{"sid": "FEM-008-033-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "When it is cast it must be bored with great precision so as to prevent windage, so there will be no loss of gas, and all the expansive force of the powder will be employed in the propulsion.\"", "len": 191}
+{"sid": "FEM-008-034-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\" said Maston, \"we have our cannon.\"", "len": 36}
+{"sid": "FEM-008-035-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Not yet,\" answered Barbicane, calming his impatient friend with his hand.", "len": 74}
+{"sid": "FEM-008-037-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Because we have not discussed its form.", "len": 40}
+{"sid": "FEM-008-037-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Shall it be a cannon, howitzer, or a mortar? \"", "len": 46}
+{"sid": "FEM-008-038-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"A cannon,\" replied Morgan.", "len": 27}
+{"sid": "FEM-008-039-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"A howitzer,\" said the major.", "len": 29}
+{"sid": "FEM-008-040-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"A mortar,\" exclaimed J.T. Maston.", "len": 34}
+{"sid": "FEM-008-041-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "A fresh discussion was pending, each taking the part of his favourite weapon, when the president stopped it short.", "len": 114}
+{"sid": "FEM-008-042-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"My friends,\" said he, \"I will soon make you agree.", "len": 51}
+{"sid": "FEM-008-042-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Our Columbiad will be a mixture of all three.", "len": 45}
+{"sid": "FEM-008-042-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "It will be a cannon, because the powder-magazine will have the same diameter as the chamber.", "len": 92}
+{"sid": "FEM-008-042-s4", "pn": "FEM-008", "seq": 4, "type": "sent", "text": "It will be a howitzer, because it will hurl an obus.", "len": 52}
+{"sid": "FEM-008-042-s5", "pn": "FEM-008", "seq": 5, "type": "sent", "text": "Lastly, it will be a mortar, because it will be pointed at an angle of 90°, and that without any chance of recoil; unalterably fixed to the ground, it will communicate to the projectile all the power of impulsion accumulated in its body.\"", "len": 238}
+{"sid": "FEM-008-043-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Adopted, adopted,\" answered the members of the committee.", "len": 58}
+{"sid": "FEM-008-044-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"One question,\" said Elphinstone, \"and will this _canobusomortar_ be rifled? \"", "len": 78}
+{"sid": "FEM-008-045-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"No,\" answered Barbicane. \"No, we must have an enormous initial speed, and you know very well that a shot leaves a rifle less rapidly than a smooth-bore.\"", "len": 154}
+{"sid": "FEM-008-046-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"True,\" answered the major.", "len": 27}
+{"sid": "FEM-008-047-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Well, we have it this time,\" repeated J.T. Maston.", "len": 51}
+{"sid": "FEM-008-048-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Not quite yet,\" replied the president.", "len": 39}
+{"sid": "FEM-008-050-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Because we do not yet know of what metal it will be made.\"", "len": 59}
+{"sid": "FEM-008-051-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Let us decide that without delay.\"", "len": 35}
+{"sid": "FEM-008-052-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"I was going to propose it to you.\"", "len": 35}
+{"sid": "FEM-008-053-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "The four members of the committee each swallowed a dozen sandwiches, followed by a cup of tea, and the debate recommenced.", "len": 122}
+{"sid": "FEM-008-054-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Our cannon,\" said Barbicane, \"must be possessed of great tenacity, great hardness; it must be infusible by heat, indissoluble, and inoxydable by the corrosive action of acids.\"", "len": 177}
+{"sid": "FEM-008-055-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"There is no doubt about that,\" answered the major, \"and as we shall have to employ a considerable quantity of metal we shall not have much choice.\"", "len": 148}
+{"sid": "FEM-008-056-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Well, then,\" said Morgan, \"I propose for the fabrication of the Columbiad the best alloy hitherto known--that is to say, 100 parts of copper, 12 of tin, and 6 of brass.\"", "len": 170}
+{"sid": "FEM-008-057-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"My friends,\" answered the president, \"I agree that this composition has given excellent results; but in bulk it would be too dear and very hard to work.", "len": 153}
+{"sid": "FEM-008-057-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "I therefore think we must adopt an excellent material, but cheap, such as cast-iron.", "len": 84}
+{"sid": "FEM-008-057-s3", "pn": "FEM-008", "seq": 3, "type": "sent", "text": "Is not that your opinion, major? \"", "len": 34}
+{"sid": "FEM-008-058-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Quite,\" answered Elphinstone.", "len": 30}
+{"sid": "FEM-008-059-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"In fact,\" resumed Barbicane, \"cast-iron costs ten times less than bronze; it is easily melted, it is readily run into sand moulds, and is rapidly manipulated; it is, therefore, an economy of money and time.", "len": 207}
+{"sid": "FEM-008-059-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Besides, that material is excellent, and I remember that during the war at the siege of Atlanta cast-iron cannon fired a thousand shots each every twenty minutes without being damaged by it.\"", "len": 191}
+{"sid": "FEM-008-060-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Yet cast-iron is very brittle,\" answered Morgan.", "len": 49}
+{"sid": "FEM-008-061-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Yes, but it possesses resistance too.", "len": 38}
+{"sid": "FEM-008-061-s2", "pn": "FEM-008", "seq": 2, "type": "sent", "text": "Besides, we shall not let it explode, I can answer for that.\"", "len": 61}
+{"sid": "FEM-008-062-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"It is possible to explode and yet be honest,\" replied J.T. Maston sententiously.", "len": 81}
+{"sid": "FEM-008-063-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Evidently,\" answered Barbicane. \"I am, therefore, going to beg our worthy secretary to calculate the weight of a cast-iron cannon 900 feet long, with an inner diameter of nine feet, and sides six feet thick.\"", "len": 209}
+{"sid": "FEM-008-064-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"At once,\" answered J.T. Maston, and, as he had done the day before, he made his calculations with marvellous facility, and said at the end of a minute--", "len": 153}
+{"sid": "FEM-008-065-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"This cannon will weigh 68,040 tons.\"", "len": 37}
+{"sid": "FEM-008-066-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"And how much will that cost at two cents a pound? \"", "len": 52}
+{"sid": "FEM-008-067-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Two million five hundred and ten thousand seven hundred and one dollars.\"", "len": 74}
+{"sid": "FEM-008-068-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "J.T. Maston, the major, and the general looked at Barbicane anxiously.", "len": 70}
+{"sid": "FEM-008-069-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "\"Well, gentlemen,\" said the president, \"I can only repeat what I said to you yesterday, don't be uneasy; we shall not want for money.\"", "len": 134}
+{"sid": "FEM-008-070-s1", "pn": "FEM-008", "seq": 1, "type": "sent", "text": "Upon this assurance of its president the committee broke up, after having fixed a third meeting for the next evening.", "len": 117}

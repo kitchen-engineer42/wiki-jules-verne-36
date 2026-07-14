@@ -333,4 +333,107 @@ pn_prefix = `VVV-NNN`（作品码-作品内章号），全集唯一。
 
 ---
 
-> Phase 6–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 6：基础数据建设
+
+> **comply**: pass（anthology 三段 PN；句子库 SID 适配 VVV-NNN-PPP；FTS pageType=chapter）
+> **分桶结构检查**（Phase 启动时 + 每个写 pages/ 步骤后执行）：
+> `python3 wiki/scripts/lint_bucket_structure.py --fix`
+>
+> **目标**：建立句子库（Sentence Index）和全文索引（FTS Index），作为内容分析（butler SCN5、QUO20 等）和前端搜索的基础数据。
+> 本 Phase 两个任务各自独立，可并行执行。
+>
+> 注意：具体 Wiki 的 BIRTH.md **做一步写一步**——BIRTH.spec.md 定义完整步骤，具体 Wiki 执行时按需勾选。
+
+### 6-A 句子库（Sentence Index）
+
+**前置条件**：Phase 4/5 PN 赋号完成（需要 `[VVV-NNN-PPP]` 段落编号作为句子的父级引用）。
+
+利用 **PRE1-build-sentence-index** 基因，将章节原文按自然句子边界切分，生成 `data/sentence_index/` 下的 JSONL 文件。
+
+- [x] CHAPTER_DIR=`docs/wiki/pages`、OUT_DIR=`data/sentence_index`；WIKI_LANG=en → `--lang en`
+- [x] 执行全量构建（**本地适配脚本**，见下方缺陷说明）：
+  ```bash
+  python3 wiki/scripts/build_sentence_index.py \
+    --wiki-root "$PWD" --pages-dir docs/wiki/pages \
+    --out-dir data/sentence_index --lang en
+  ```
+  > ⚠️ 共享 `build_sentence_index.py` 的 `_PN_RE` 首段写死 `[A-Za-z0-9]{3}`（恰好 3 字符），
+  > 变长 VVV（`AM`/`MI` 2 字符、`TTLU`/`DSCF` 4 字符）段落静默丢句：共享脚本仅得 25,992 句、多章 0 条。
+  > 根因与 RFC-0001 同源 → 本地包装 `wiki/scripts/build_sentence_index.py` 放宽首段为 `{1,4}` 后委托共享 main()。
+  > 记 **RFC-vernean-voyages-0002**（不阻塞，本地脚本已解决）。
+- [x] 验证输出：`data/sentence_index/` 下每章一个 `<pn_prefix>.jsonl`（968 个），sid=`VVV-NNN-PPP-sN`、pn=`VVV-NNN`，格式合 `$MEMEX_ROOT/ref/spec/data-sentence-index.md`
+- [x] 确认识别总数合理：968 章 / **122,989 句**（句数显著多于 58,399 段）；4 个 `BOOK I/II` 分卷分隔章无正文，0 句属预期
+
+**产出验证**：`find data/sentence_index/ -name '*.jsonl' | wc -l` 应与已赋 PN 的章节数一致。
+
+```bash
+git add data/sentence_index/
+bash wiki/scripts/skill_commit.sh "feat: Phase 6-A 句子库构建完成"
+```
+
+### 6-B 全文索引（FTS Index）
+
+利用 **SRH1-build-fts-index** 基因，将章节页面构建为浏览器端搜索插件可消费的 `fts-index.json`。
+
+- [ ] 在 `local/config/srh1.config.json` 中配置项目级参数（`pagesDir`、`pageType`、`chapterNumField` 等）
+- [ ] 执行 SRH1 构建：
+  ```bash
+  python3 "$MEMEX_ROOT/wiki/scripts/build_fts_index.py" .
+  ```
+- [ ] 验证输出：`docs/wiki/data/fts-index.json` 结构正确（`{chapters, entries}`），entries 数 > 0
+- [ ] 接入发布流水线：`wiki/scripts/publish.sh` 为 wrapper 委托 `$MEMEX_ROOT/wiki/scripts/publish.sh`，后者已内置 build_registry → FTS → 修订记录 → 反链 → 坐标 → 知识快照的完整管道，无需手动插入。首次构建 FTS 索引后即可正常发布。
+- [ ] 本地启动 Wiki（`bash wiki-daemon.sh start`），运行自动验证脚本：
+  ```bash
+  python3 "$MEMEX_ROOT/wiki/scripts/verify_fts.py" \
+    --base-url http://localhost:1828 \
+    --query Nautilus Nemo
+  ```
+  退出码 0 = 通过，1 = 无命中或报错。
+  > 首次运行需安装依赖：`pip install playwright && playwright install chromium`
+
+**产出验证**：`python3 -c "import json; d=json.load(open('docs/wiki/data/fts-index.json')); print(f'章节 {len(d[\"chapters\"])}, 段落 {len(d[\"entries\"])}')"`
+
+```bash
+git add docs/wiki/data/fts-index.json local/config/srh1.config.json wiki/scripts/publish.sh
+bash wiki/scripts/skill_commit.sh "feat: Phase 6-B 全文索引构建完成"
+```
+
+### 6-C 新 Wiki 注意事项
+
+- **句子库依赖 PN**：Phase 4/5 完成前不可构建句子库（SID 格式含 PN 前缀）
+- **FTS 不依赖 PN**：即使 PN 未完成亦可构建 FTS（仅依赖 `type: chapter` 页面和段落文本）
+- **管家集成**：句子库建成后，butler 的 W13 步骤自动包含 PRE1，W17/SCN5 依赖句子索引
+
+### 6-D PN 完整性批量核验（Workflow 可选）
+
+> **适用条件**：用户 Claude Code 具备 workflow 能力。仅 Phase 6 数据就绪后执行一次，作为 Phase 4/5 PN 赋号和 Phase 6 句子库/全文索引质量的联合验证。
+
+PN 核验涉及两种检查：
+- **引用格式检查**：逐页确认 PN 格式正确（`VVV-NNN-PPP`）、括号语种统一、无悬挂引用
+- **段落存在性检查**：每条 PN 引用能定位到句子索引或章节页面中的实际段落
+
+当 wiki 规模较大（本 wiki 968 章 / 58,399 条 PN），串行检查耗时很长。此时可用 workflow 并行化。
+
+**执行方式**（在 Claude Code 中）：
+
+```
+Workflow({scriptPath: "$MEMEX_ROOT/ref/workflows/pn-verify-batch.js"})
+```
+
+该脚本自动：
+
+1. 读取 `pages.json`，筛选所有非 chapter 页面
+2. 按 20 页一批分包
+3. 通过 `pipeline` 机制分发到多个并行 agent 独立核验
+4. 合并各批结果 → 计算合规统计（✅/⚠️/❌）
+5. 写入 `logs/birth/phase6/pn-verify-report.md`
+
+**退出条件**：
+
+- [ ] 严重问题数为 0（有则先修复再重新核验）
+- [ ] 轻微问题记录在案，可后续逐步清理
+- [ ] `logs/birth/phase6/pn-verify-report.md` 已写入
+
+---
+
+> Phase 7–10 待逐一 `/boot init phaseN` 实例化后执行。
