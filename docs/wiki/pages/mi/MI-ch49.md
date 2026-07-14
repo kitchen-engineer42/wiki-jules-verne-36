@@ -16,13 +16,13 @@ tags: [chapter]
 
 [MI-049-002]"They have killed him!" he cried. "My boy! They have killed him!"
 
-[MI-049-003]Cyrus Harding and Gideon Spilett ran to Herbert.
+[MI-049-003][[cyrus-harding|Cyrus Harding]] and Gideon Spilett ran to Herbert.
 
 [MI-049-004]The reporter listened to ascertain if the poor lad's heart was still beating.
 
 [MI-049-005]"He lives," said he, "but he must be carried--"
 
-[MI-049-006]"To Granite House? that is impossible!" replied the engineer.
+[MI-049-006]"To [[granite-house|Granite House]]? that is impossible!" replied the engineer.
 
 [MI-049-007]"Into the corral, then!" said Pencroft.
 
@@ -124,7 +124,7 @@ tags: [chapter]
 
 [MI-049-056]But on this day, while Pencroft watched by the sick-bed, Cyrus Harding and the reporter consulted as to what it would be best to do.
 
-[MI-049-057]First of all they examined the corral. There was not a trace of Ayrton. Had the unhappy man been dragged away by his former accomplices? Had he resisted, and been overcome in the struggle? This last supposition was only too probable. Gideon Spilett, at the moment he scaled the palisade, had clearly seen some one of the convicts running along the southern spur of Mount Franklin, towards whom Top had sprung. It was one of those whose object had been so completely defeated by the rocks at the mouth of the Mercy. Besides, the one killed by Harding, and whose body was found outside the enclosure, of course belonged to Bob Harvey's crew.
+[MI-049-057]First of all they examined the corral. There was not a trace of Ayrton. Had the unhappy man been dragged away by his former accomplices? Had he resisted, and been overcome in the struggle? This last supposition was only too probable. Gideon Spilett, at the moment he scaled the palisade, had clearly seen some one of the convicts running along the southern spur of [[mount-franklin|Mount Franklin]], towards whom [[top|Top]] had sprung. It was one of those whose object had been so completely defeated by the rocks at the mouth of the Mercy. Besides, the one killed by Harding, and whose body was found outside the enclosure, of course belonged to Bob Harvey's crew.
 
 [MI-049-058]As to the corral, it had not suffered any damage. The gates were closed, and the animals had not been able to disperse in the forest. Nor could they see traces of any struggle, any devastation, either in the hut, or in the palisade. The ammunition only, with which Ayrton had been supplied, had disappeared with him.
 

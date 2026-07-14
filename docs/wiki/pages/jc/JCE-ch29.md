@@ -29,7 +29,7 @@ tags: [chapter]
 
 [JCE-029-009]"How do you do, Hans? How are you? And now, uncle, tell me where we are at the present moment?"
 
-[JCE-029-010]"To-morrow, Axel, to-morrow. Now you are too faint and weak. I have bandaged your head with compresses which must not be disturbed. Sleep now, and to-morrow I will tell you all."
+[JCE-029-010]"To-morrow, [[axel|Axel]], to-morrow. Now you are too faint and weak. I have bandaged your head with compresses which must not be disturbed. Sleep now, and to-morrow I will tell you all."
 
 [JCE-029-011]"But do tell me what time it is, and what day."
 

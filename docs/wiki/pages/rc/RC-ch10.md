@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-010-001]WESTWARD--BUT WHITHER?
 
-[RC-010-002]The next day, the 15th of June, about five o'clock in the morning, Phil Evans left his cabin. Perhaps he would today have a chance of speaking to Robur? Desirous of knowing why he had not appeared the day before, Evans addressed himself to the mate, Tom Turner.
+[RC-010-002]The next day, the 15th of June, about five o'clock in the morning, Phil Evans left his cabin. Perhaps he would today have a chance of speaking to [[robur|Robur]]? Desirous of knowing why he had not appeared the day before, Evans addressed himself to the mate, Tom Turner.
 
 [RC-010-003]Tom Turner was an Englishman of about forty-five, broad in the shoulders and short in the legs, a man of iron, with one of those enormous characteristic heads that Hogarth rejoiced in.
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [RC-010-010]And Tom went into his cabin.
 
-[RC-010-011]With this reply they had to be contented. Matters did not look promising, particularly as on reference to the compass it appeared that the "Albatross" was still steering southwest.
+[RC-010-011]With this reply they had to be contented. Matters did not look promising, particularly as on reference to the compass it appeared that the "[[albatross|Albatross]]" was still steering southwest.
 
 [RC-010-012]Great was the contrast between the barren tract of the Bad Lands passed over during the night and the landscape then unrolling beneath them.
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [RC-010-021]The cook might have seized the opportunity of securing an ample supply of trout, the only fish the Yellowstone Lake contains in myriads. But the "Albatross" kept on at such a height that there was no chance of indulging in a catch which assuredly would have been miraculous.
 
-[RC-010-022]In three quarters of an hour the lake was overpassed, and a little farther on the last was seen of the geyser region, which rivals the finest in Iceland. Leaning over the rail, Uncle Prudent and Phil Evans watched the liquid columns which leaped up as though to furnish the aeronef with a new element. There were the Fan, with the jets shot forth in rays, the Fortress, which seemed to be defended by waterspouts, the Faithful Friend, with her plume crowned with the rainbows, the Giant, spurting forth a vertical torrent twenty feet round and more than two hundred feet high.
+[RC-010-022]In three quarters of an hour the lake was overpassed, and a little farther on the last was seen of the geyser region, which rivals the finest in [[iceland|Iceland]]. Leaning over the rail, Uncle Prudent and Phil Evans watched the liquid columns which leaped up as though to furnish the aeronef with a new element. There were the Fan, with the jets shot forth in rays, the Fortress, which seemed to be defended by waterspouts, the Faithful Friend, with her plume crowned with the rainbows, the Giant, spurting forth a vertical torrent twenty feet round and more than two hundred feet high.
 
 [RC-010-023]Robur must evidently have been familiar with this incomparable spectacle, unique in the world, for he did not appear on deck. Was it, then, for the sole pleasure of his guests that he had brought the aeronef above the national domain? If so, he came not to receive their thanks. He did not even trouble himself during the daring passage of the Rocky Mountains, which the "Albatross" approached at about seven o'clock.
 

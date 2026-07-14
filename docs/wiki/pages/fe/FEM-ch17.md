@@ -17,7 +17,7 @@ tags: [chapter]
 
 [FEM-017-003]They were all agreeably disappointed: the most unexpected, extraordinary, incredible, and improbable incident happened in time to keep up the general excitement to its highest pitch.
 
-[FEM-017-004]On September 30th, at 3.47 p.m., a telegram, transmitted through the Atlantic Cable, arrived at Tampa Town for President Barbicane.
+[FEM-017-004]On September 30th, at 3.47 p.m., a telegram, transmitted through the Atlantic Cable, arrived at [[tampa-town|Tampa Town]] for [[barbicane|President Barbicane]].
 
 [FEM-017-005]He tore open the envelope and read the message, and, notwithstanding his great self-control, his lips grew pale and his eyes dim as he read the telegram.
 

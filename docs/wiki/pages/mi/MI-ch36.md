@@ -76,9 +76,9 @@ tags: [chapter]
 
 [MI-036-032]"I should think that we might without scruple take the utensils which belonged to the castaway," added Herbert.
 
-[MI-036-033]"I think so, too," returned Gideon Spilett, "and these arms and tools will make up the stores of Granite House. The supply of powder and shot is also most important."
+[MI-036-033]"I think so, too," returned Gideon Spilett, "and these arms and tools will make up the stores of [[granite-house|Granite House]]. The supply of powder and shot is also most important."
 
-[MI-036-034]"Yes," replied Pencroft, "but we must not forget to capture a couple or two of those pigs, of which Lincoln Island is destitute."
+[MI-036-034]"Yes," replied Pencroft, "but we must not forget to capture a couple or two of those pigs, of which [[lincoln-island|Lincoln Island]] is destitute."
 
 [MI-036-035]"Nor to gather those seeds," added Herbert, "which will give us all the vegetables of the Old and the New Worlds."
 
@@ -88,7 +88,7 @@ tags: [chapter]
 
 [MI-036-038]"Then do not let us lose time," said Herbert, rising.
 
-[MI-036-039]"We won't waste time," returned Pencroft. "You, Herbert, go and gather the seeds, which you know better than we do. While you do that, Mr. Spilett and I will go and have a pig hunt, and even without Top I hope we shall manage to catch a few!"
+[MI-036-039]"We won't waste time," returned Pencroft. "You, Herbert, go and gather the seeds, which you know better than we do. While you do that, Mr. Spilett and I will go and have a pig hunt, and even without [[top|Top]] I hope we shall manage to catch a few!"
 
 [MI-036-040]Herbert accordingly took the path which led towards the cultivated part of the islet, while the sailor and the reporter entered the forest.
 
@@ -142,7 +142,7 @@ tags: [chapter]
 
 [MI-036-065]"We must try at any rate," returned the reporter; "humanity commands us."
 
-[MI-036-066]It was indeed their duty as Christians and civilized beings. All three felt this, and they well knew that Cyrus Harding would approve of their acting thus.
+[MI-036-066]It was indeed their duty as Christians and civilized beings. All three felt this, and they well knew that [[cyrus-harding|Cyrus Harding]] would approve of their acting thus.
 
 [MI-036-067]"Shall we leave him bound?" asked the sailor.
 

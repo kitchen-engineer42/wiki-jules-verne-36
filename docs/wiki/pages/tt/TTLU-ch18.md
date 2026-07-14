@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-018-001]Four Thousand Leagues Under the Pacific
 
-[TTLU-018-002]BY THE NEXT MORNING, November 18, I was fully recovered from my exhaustion of the day before, and I climbed onto the platform just as the Nautilus's chief officer was pronouncing his daily phrase. It then occurred to me that these words either referred to the state of the sea, or that they meant: "There's nothing in sight."
+[TTLU-018-002]BY THE NEXT MORNING, November 18, I was fully recovered from my exhaustion of the day before, and I climbed onto the platform just as the [[nautilus|Nautilus]]'s chief officer was pronouncing his daily phrase. It then occurred to me that these words either referred to the state of the sea, or that they meant: "There's nothing in sight."
 
 [TTLU-018-003]And in truth, the ocean was deserted. Not a sail on the horizon. The tips of Crespo Island had disappeared during the night. The sea, absorbing every color of the prism except its blue rays, reflected the latter in every direction and sported a wonderful indigo tint. The undulating waves regularly took on the appearance of watered silk with wide stripes.
 
-[TTLU-018-004]I was marveling at this magnificent ocean view when Captain Nemo appeared. He didn't seem to notice my presence and began a series of astronomical observations. Then, his operations finished, he went and leaned his elbows on the beacon housing, his eyes straying over the surface of the ocean.
+[TTLU-018-004]I was marveling at this magnificent ocean view when [[captain-nemo|Captain Nemo]] appeared. He didn't seem to notice my presence and began a series of astronomical observations. Then, his operations finished, he went and leaned his elbows on the beacon housing, his eyes straying over the surface of the ocean.
 
 [TTLU-018-005]Meanwhile some twenty of the Nautilus's sailors--all energetic, well-built fellows--climbed onto the platform. They had come to pull up the nets left in our wake during the night. These seamen obviously belonged to different nationalities, although indications of European physical traits could be seen in them all. If I'm not mistaken, I recognized some Irishmen, some Frenchmen, a few Slavs, and a native of either Greece or Crete. Even so, these men were frugal of speech and used among themselves only that bizarre dialect whose origin I couldn't even guess. So I had to give up any notions of questioning them.
 
@@ -70,7 +70,7 @@ tags: [chapter]
 
 [TTLU-018-029]Over the ensuing days and weeks, Captain Nemo was very frugal with his visits. I saw him only at rare intervals. His chief officer regularly fixed the positions I found reported on the chart, and in such a way that I could exactly plot the Nautilus's course.
 
-[TTLU-018-030]Conseil and Land spent the long hours with me. Conseil had told his friend about the wonders of our undersea stroll, and the Canadian was sorry he hadn't gone along. But I hoped an opportunity would arise for a visit to the forests of Oceania.
+[TTLU-018-030][[conseil|Conseil]] and Land spent the long hours with me. Conseil had told his friend about the wonders of our undersea stroll, and the Canadian was sorry he hadn't gone along. But I hoped an opportunity would arise for a visit to the forests of Oceania.
 
 [TTLU-018-031]Almost every day the panels in the lounge were open for some hours, and our eyes never tired of probing the mysteries of the underwater world.
 
@@ -86,7 +86,7 @@ tags: [chapter]
 
 [TTLU-018-037]During this crossing, the sea continually lavished us with the most marvelous sights. Its variety was infinite. It changed its setting and decor for the mere pleasure of our eyes, and we were called upon not simply to contemplate the works of our Creator in the midst of the liquid element, but also to probe the ocean's most daunting mysteries.
 
-[TTLU-018-038]During the day of December 11, I was busy reading in the main lounge. Ned Land and Conseil were observing the luminous waters through the gaping panels. The Nautilus was motionless. Its ballast tanks full, it was sitting at a depth of 1,000 meters in a comparatively unpopulated region of the ocean where only larger fish put in occasional appearances.
+[TTLU-018-038]During the day of December 11, I was busy reading in the main lounge. [[ned-land|Ned Land]] and Conseil were observing the luminous waters through the gaping panels. The Nautilus was motionless. Its ballast tanks full, it was sitting at a depth of 1,000 meters in a comparatively unpopulated region of the ocean where only larger fish put in occasional appearances.
 
 [TTLU-018-039]Just then I was studying a delightful book by Jean Macé, The Servants of the Stomach, and savoring its ingenious teachings, when Conseil interrupted my reading.
 

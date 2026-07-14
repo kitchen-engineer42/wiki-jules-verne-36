@@ -17,7 +17,7 @@ tags: [chapter]
 
 [WAI-003-003]Jean Cornbutte's plan was naturally traced out. He counted on stopping at the Feroë Islands, whither the north wind might have carried the castaways; then, if he was convinced that they had not been received in any of the ports of that locality, he would continue his search beyond the Northern Ocean, ransack the whole western coast of Norway as far as Bodoë, the place nearest the scene of the shipwreck; and, if necessary, farther still.
 
-[WAI-003-004]André Vasling thought, contrary to the captain's opinion, that the coast of Iceland should be explored; but Penellan observed that, at the time of the catastrophe, the gale came from the west; which, while it gave hope that the unfortunates had not been forced towards the gulf of the Maëlstrom, gave ground for supposing that they might have been thrown on the Norwegian coast.
+[WAI-003-004]André Vasling thought, contrary to the captain's opinion, that the coast of [[iceland|Iceland]] should be explored; but Penellan observed that, at the time of the catastrophe, the gale came from the west; which, while it gave hope that the unfortunates had not been forced towards the gulf of the Maëlstrom, gave ground for supposing that they might have been thrown on the Norwegian coast.
 
 [WAI-003-005]It was determined, then, that this coast should be followed as closely as possible, so as to recognize any traces of them that might appear.
 

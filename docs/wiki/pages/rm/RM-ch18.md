@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RM-018-001]GRAVE QUESTIONS.
 
-[RM-018-002]In the meantime the projectile had passed the neighbourhood of Tycho. Barbicane and his two friends then observed, with the most scrupulous attention, those brilliant radii which the celebrated mountain disperses so curiously on every horizon.
+[RM-018-002]In the meantime the projectile had passed the neighbourhood of Tycho. [[barbicane|Barbicane]] and his two friends then observed, with the most scrupulous attention, those brilliant radii which the celebrated mountain disperses so curiously on every horizon.
 
 [RM-018-003]What was this radiating aureole? What geological phenomenon had caused those ardent beams? This question justly occupied Barbicane. Under his eyes, in every direction, ran luminous furrows, with raised banks and concave middle, some ten miles, others more than twenty miles wide. These shining trails ran in certain places at least 300 leagues from Tycho, and seemed to cover, especially towards the east, north-east, and north, half the southern hemisphere. One of these furrows stretched as far as the amphitheatre of Neander, situated on the 40th meridian. Another went rounding off through the Sea of Nectar and broke against the chain of the Pyrenees after a run of 400 leagues; others towards the west covered with a luminous network the Sea of Clouds and the Sea of Humours.
 
@@ -25,7 +25,7 @@ tags: [chapter]
 
 [RM-018-007]"Because the regularity of these luminous lines, and the violence necessary to send them to such a distance, are inexplicable.
 
-[RM-018-008]"_Par bleu_!" replied Michel Ardan. "I can easily explain to myself the origin of these rays."
+[RM-018-008]"_Par bleu_!" replied [[michel-ardan|Michel Ardan]]. "I can easily explain to myself the origin of these rays."
 
 [RM-018-009]"Indeed," said Barbicane.
 

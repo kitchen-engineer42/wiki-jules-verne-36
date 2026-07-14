@@ -73,7 +73,7 @@ tags: [chapter]
 
 [FWB-043-031]"The mischief!" thought Joe
 
-[FWB-043-032]In the lapse of fifteen minutes the Victoria was only one hundred and fifty feet above the ground; but the wind was much stronger than before.
+[FWB-043-032]In the lapse of fifteen minutes [[victoria-balloon|the Victoria]] was only one hundred and fifty feet above the ground; but the wind was much stronger than before.
 
 [FWB-043-033]The Talabas checked their horses, and soon a volley of musketry pealed out on the air.
 

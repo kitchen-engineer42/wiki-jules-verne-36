@@ -17,7 +17,7 @@ tags: [chapter]
 
 [JCE-018-003]There was light enough to distinguish surrounding objects.
 
-[JCE-018-004]"Well, Axel, what do you say to it?" cried my uncle, rubbing his hands. "Did you ever spend a quieter night in our little house at Königsberg? No noise of cart wheels, no cries of basket women, no boatmen shouting!"
+[JCE-018-004]"Well, [[axel|Axel]], what do you say to it?" cried my uncle, rubbing his hands. "Did you ever spend a quieter night in our little house at Königsberg? No noise of cart wheels, no cries of basket women, no boatmen shouting!"
 
 [JCE-018-005]"No doubt it is very quiet at the bottom of this well, but there is something alarming in the quietness itself."
 
@@ -71,7 +71,7 @@ tags: [chapter]
 
 [JCE-018-030]Each shouldered his package. Hans drove before him the load of cords and clothes; and, myself walking last, we entered the gallery.
 
-[JCE-018-031]At the moment of becoming engulfed in this dark gallery, I raised my head, and saw for the last time through the length of that vast tube the sky of Iceland, which I was never to behold again.
+[JCE-018-031]At the moment of becoming engulfed in this dark gallery, I raised my head, and saw for the last time through the length of that vast tube the sky of [[iceland|Iceland]], which I was never to behold again.
 
 [JCE-018-032]The lava, in the last eruption of 1229, had forced a passage through this tunnel. It still lined the walls with a thick and glistening coat. The electric light was here intensified a hundredfold by reflection.
 

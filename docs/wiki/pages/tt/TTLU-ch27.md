@@ -16,7 +16,7 @@ tags: [chapter]
 
 [TTLU-027-002]NIGHT FELL. I went to bed. I slept pretty poorly. Man-eaters played a major role in my dreams. And I found it more or less appropriate that the French word for shark, requin, has its linguistic roots in the word requiem.
 
-[TTLU-027-003]The next day at four o'clock in the morning, I was awakened by the steward whom Captain Nemo had placed expressly at my service. I got up quickly, dressed, and went into the lounge.
+[TTLU-027-003]The next day at four o'clock in the morning, I was awakened by the steward whom [[captain-nemo|Captain Nemo]] had placed expressly at my service. I got up quickly, dressed, and went into the lounge.
 
 [TTLU-027-004]Captain Nemo was waiting for me.
 
@@ -32,11 +32,11 @@ tags: [chapter]
 
 [TTLU-027-010]"Aren't we going to put on our diving suits?" I asked.
 
-[TTLU-027-011]"Not yet. I haven't let the Nautilus pull too near the coast, and we're fairly well out from the Mannar oysterbank. But I have the skiff ready, and it will take us to the exact spot where we'll disembark, which will save us a pretty long trek. It's carrying our diving equipment, and we'll suit up just before we begin our underwater exploring."
+[TTLU-027-011]"Not yet. I haven't let the [[nautilus|Nautilus]] pull too near the coast, and we're fairly well out from the Mannar oysterbank. But I have the skiff ready, and it will take us to the exact spot where we'll disembark, which will save us a pretty long trek. It's carrying our diving equipment, and we'll suit up just before we begin our underwater exploring."
 
-[TTLU-027-012]Captain Nemo took me to the central companionway whose steps led to the platform. Ned and Conseil were there, enraptured with the "pleasure trip" getting under way. Oars in position, five of the Nautilus's sailors were waiting for us aboard the skiff, which was moored alongside. The night was still dark. Layers of clouds cloaked the sky and left only a few stars in view. My eyes flew to the side where land lay, but I saw only a blurred line covering three-quarters of the horizon from southwest to northwest. Going up Ceylon's west coast during the night, the Nautilus lay west of the bay, or rather that gulf formed by the mainland and Mannar Island. Under these dark waters there stretched the bank of shellfish, an inexhaustible field of pearls more than twenty miles long.
+[TTLU-027-012]Captain Nemo took me to the central companionway whose steps led to the platform. Ned and [[conseil|Conseil]] were there, enraptured with the "pleasure trip" getting under way. Oars in position, five of the Nautilus's sailors were waiting for us aboard the skiff, which was moored alongside. The night was still dark. Layers of clouds cloaked the sky and left only a few stars in view. My eyes flew to the side where land lay, but I saw only a blurred line covering three-quarters of the horizon from southwest to northwest. Going up Ceylon's west coast during the night, the Nautilus lay west of the bay, or rather that gulf formed by the mainland and Mannar Island. Under these dark waters there stretched the bank of shellfish, an inexhaustible field of pearls more than twenty miles long.
 
-[TTLU-027-013]Captain Nemo, Conseil, Ned Land, and I found seats in the stern of the skiff. The longboat's coxswain took the tiller; his four companions leaned into their oars; the moorings were cast off and we pulled clear.
+[TTLU-027-013]Captain Nemo, Conseil, [[ned-land|Ned Land]], and I found seats in the stern of the skiff. The longboat's coxswain took the tiller; his four companions leaned into their oars; the moorings were cast off and we pulled clear.
 
 [TTLU-027-014]The skiff headed southward. The oarsmen took their time. I watched their strokes vigorously catch the water, and they always waited ten seconds before rowing again, following the practice used in most navies. While the longboat coasted, drops of liquid flicked from the oars and hit the dark troughs of the waves, pitter-pattering like splashes of molten lead. Coming from well out, a mild swell made the skiff roll gently, and a few cresting billows lapped at its bow.
 

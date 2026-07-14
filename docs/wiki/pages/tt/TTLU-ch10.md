@@ -16,7 +16,7 @@ tags: [chapter]
 
 [TTLU-010-002]IT WAS THE ship's commander who had just spoken.
 
-[TTLU-010-003]At these words Ned Land stood up quickly. Nearly strangled, the steward staggered out at a signal from his superior; but such was the commander's authority aboard his vessel, not one gesture gave away the resentment that this man must have felt toward the Canadian. In silence we waited for the outcome of this scene; Conseil, in spite of himself, seemed almost fascinated, I was stunned.
+[TTLU-010-003]At these words [[ned-land|Ned Land]] stood up quickly. Nearly strangled, the steward staggered out at a signal from his superior; but such was the commander's authority aboard his vessel, not one gesture gave away the resentment that this man must have felt toward the Canadian. In silence we waited for the outcome of this scene; [[conseil|Conseil]], in spite of himself, seemed almost fascinated, I was stunned.
 
 [TTLU-010-004]Arms crossed, leaning against a corner of the table, the commander studied us with great care. Was he reluctant to speak further? Did he regret those words he had just pronounced in French? You would have thought so.
 
@@ -124,7 +124,7 @@ tags: [chapter]
 
 [TTLU-010-056]"By what name am I to call you?"
 
-[TTLU-010-057]"Sir," the commander replied, "to you, I'm simply Captain Nemo;* to me, you and your companions are simply passengers on the Nautilus."
+[TTLU-010-057]"Sir," the commander replied, "to you, I'm simply [[captain-nemo|Captain Nemo]];* to me, you and your companions are simply passengers on the [[nautilus|Nautilus]]."
 
 [TTLU-010-058]*Latin: nemo means "no one." Ed.
 

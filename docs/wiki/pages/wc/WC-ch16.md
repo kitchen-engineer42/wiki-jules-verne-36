@@ -93,7 +93,7 @@ tags: [chapter]
 
 [WC-016-041]It was hardly probable, for he was three days in advance of them: never mind--he would make the attempt.
 
-[WC-016-042]The "Albatross" might lose her way, or meet with some unforeseen obstacles. As long as there was even a probability of success Erik determined to take the chances.
+[WC-016-042]The "[[albatross|Albatross]]" might lose her way, or meet with some unforeseen obstacles. As long as there was even a probability of success Erik determined to take the chances.
 
 [WC-016-043]The weather was now mild and agreeable. Light fogs indicated an open sea, and a speedy breaking of the ice along the Siberian coast where the "Vega" had been held prisoner so long. Summer was advancing, and the "Alaska" could reasonably count upon at least ten weeks of favorable weather. The experience which they had acquired amongst the American ice had its value and would render this new enterprise comparatively easy. Lastly the north-east passage was the most direct way to return to Sweden, and besides the deep personal interest which induced Erik to take it, he had a truly scientific desire to accomplish in a reverse route the task which Nordenskiold had fulfilled. If he had succeeded, why should he not be able to do so?--this would be proving practically the experiment of the great navigator.
 

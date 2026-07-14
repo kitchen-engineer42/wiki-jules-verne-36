@@ -19,7 +19,7 @@ tags: [chapter]
 
 [FWB-039-004]From time to time there appeared an encampment of Touaregs, the men sheltered under their leather tents, while their women were busied with the domestic toil outside, milking their camels and smoking their huge-bowled pipes.
 
-[FWB-039-005]By eight o'clock in the evening the Victoria had advanced more than two hundred miles to the westward, and our aeronauts became the spectators of a magnificent scene.
+[FWB-039-005]By eight o'clock in the evening [[victoria-balloon|the Victoria]] had advanced more than two hundred miles to the westward, and our aeronauts became the spectators of a magnificent scene.
 
 [FWB-039-006]A mass of moonbeams forcing their way through an opening in the clouds, and gliding between the long lines of falling rain, descended in a golden shower on the ridges of the Hombori Mountains. Nothing could be more weird than the appearance of these seemingly basaltic summits; they stood out in fantastic profile against the sombre sky, and the beholder might have fancied them to be the legendary ruins of some vast city of the middle ages, such as the icebergs of the polar seas sometimes mimic them in nights of gloom.
 

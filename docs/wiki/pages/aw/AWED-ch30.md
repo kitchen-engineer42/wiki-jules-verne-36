@@ -13,11 +13,11 @@ tags: [chapter]
 
 [AWED-030-001]IN WHICH PHILEAS FOGG SIMPLY DOES HIS DUTY
 
-[AWED-030-002]Three passengers including Passepartout had disappeared. Had they been killed in the struggle? Were they taken prisoners by the Sioux? It was impossible to tell.
+[AWED-030-002]Three passengers including [[passepartout|Passepartout]] had disappeared. Had they been killed in the struggle? Were they taken prisoners by the Sioux? It was impossible to tell.
 
 [AWED-030-003]There were many wounded, but none mortally. Colonel Proctor was one of the most seriously hurt; he had fought bravely, and a ball had entered his groin. He was carried into the station with the other wounded passengers, to receive such attention as could be of avail.
 
-[AWED-030-004]Aouda was safe; and Phileas Fogg, who had been in the thickest of the fight, had not received a scratch. Fix was slightly wounded in the arm. But Passepartout was not to be found, and tears coursed down Aouda's cheeks.
+[AWED-030-004][[aouda|Aouda]] was safe; and [[phileas-fogg|Phileas Fogg]], who had been in the thickest of the fight, had not received a scratch. [[fix|Fix]] was slightly wounded in the arm. But Passepartout was not to be found, and tears coursed down Aouda's cheeks.
 
 [AWED-030-005]All the passengers had got out of the train, the wheels of which were stained with blood. From the tyres and spokes hung ragged pieces of flesh. As far as the eye could reach on the white plain behind, red trails were visible. The last Sioux were disappearing in the south, along the banks of Republican River.
 

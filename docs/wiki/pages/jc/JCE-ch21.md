@@ -43,7 +43,7 @@ tags: [chapter]
 
 [JCE-021-016]I thanked my uncle with clasped hands.
 
-[JCE-021-017]"Yes," he said, "a draught of water; but it is the very last - you hear! - the last. I had kept it as a precious treasure at the bottom of my flask. Twenty times, nay, a hundred times, have I fought against a frightful impulse to drink it off. But no, Axel, I kept it for you."
+[JCE-021-017]"Yes," he said, "a draught of water; but it is the very last - you hear! - the last. I had kept it as a precious treasure at the bottom of my flask. Twenty times, nay, a hundred times, have I fought against a frightful impulse to drink it off. But no, [[axel|Axel]], I kept it for you."
 
 [JCE-021-018]"My dear uncle," I said, whilst hot tears trickled down my face.
 
@@ -55,7 +55,7 @@ tags: [chapter]
 
 [JCE-021-022]While I spoke my uncle avoided looking at me; he hung his head down; his eyes avoided mine.
 
-[JCE-021-023]"We must return," I exclaimed vehemently; "we must go back on our way to Snæfell. May God give us strength to climb up the crater again!"
+[JCE-021-023]"We must return," I exclaimed vehemently; "we must go back on our way to [[snaefellsjokull|Snæfell]]. May God give us strength to climb up the crater again!"
 
 [JCE-021-024]"Return!" said my uncle, as if he was rather answering himself than me.
 

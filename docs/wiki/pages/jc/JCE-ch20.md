@@ -23,7 +23,7 @@ tags: [chapter]
 
 [JCE-020-006]The greater part of these bore impressions of primitive organisms. Creation had evidently advanced since the day before. Instead of rudimentary trilobites, I noticed remains of a more perfect order of beings, amongst others ganoid fishes and some of those sauroids in which palaeontologists have discovered the earliest reptile forms. The Devonian seas were peopled by animals of these species, and deposited them by thousands in the rocks of the newer formation.
 
-[JCE-020-007]It was evident that we were ascending that scale of animal life in which man fills the highest place. But Professor Liedenbrock seemed not to notice it.
+[JCE-020-007]It was evident that we were ascending that scale of animal life in which man fills the highest place. But [[professor-lidenbrock|Professor Liedenbrock]] seemed not to notice it.
 
 [JCE-020-008]He was awaiting one of two events, either the appearance of a vertical well opening before his feet, down which our descent might be resumed, or that of some obstacle which should effectually turn us back on our own footsteps. But evening came and neither wish was gratified.
 

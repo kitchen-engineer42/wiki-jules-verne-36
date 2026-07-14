@@ -13,13 +13,13 @@ tags: [chapter]
 
 [AWED-024-001]DURING WHICH MR. FOGG AND PARTY CROSS THE PACIFIC OCEAN
 
-[AWED-024-002]What happened when the pilot-boat came in sight of Shanghai will be easily guessed. The signals made by the Tankadere had been seen by the captain of the Yokohama steamer, who, espying the flag at half-mast, had directed his course towards the little craft. Phileas Fogg, after paying the stipulated price of his passage to John Busby, and rewarding that worthy with the additional sum of five hundred and fifty pounds, ascended the steamer with Aouda and Fix; and they started at once for Nagasaki and Yokohama.
+[AWED-024-002]What happened when the pilot-boat came in sight of Shanghai will be easily guessed. The signals made by the Tankadere had been seen by the captain of the Yokohama steamer, who, espying the flag at half-mast, had directed his course towards the little craft. [[phileas-fogg|Phileas Fogg]], after paying the stipulated price of his passage to John Busby, and rewarding that worthy with the additional sum of five hundred and fifty pounds, ascended the steamer with [[aouda|Aouda]] and [[fix|Fix]]; and they started at once for Nagasaki and Yokohama.
 
-[AWED-024-003]They reached their destination on the morning of the 14th of November. Phileas Fogg lost no time in going on board the Carnatic, where he learned, to Aouda's great delight--and perhaps to his own, though he betrayed no emotion--that Passepartout, a Frenchman, had really arrived on her the day before.
+[AWED-024-003]They reached their destination on the morning of the 14th of November. Phileas Fogg lost no time in going on board the Carnatic, where he learned, to Aouda's great delight--and perhaps to his own, though he betrayed no emotion--that [[passepartout|Passepartout]], a Frenchman, had really arrived on her the day before.
 
 [AWED-024-004]The San Francisco steamer was announced to leave that very evening, and it became necessary to find Passepartout, if possible, without delay. Mr. Fogg applied in vain to the French and English consuls, and, after wandering through the streets a long time, began to despair of finding his missing servant. Chance, or perhaps a kind of presentiment, at last led him into the Honourable Mr. Batulcar's theatre. He certainly would not have recognised Passepartout in the eccentric mountebank's costume; but the latter, lying on his back, perceived his master in the gallery. He could not help starting, which so changed the position of his nose as to bring the "pyramid" pell-mell upon the stage.
 
-[AWED-024-005]All this Passepartout learned from Aouda, who recounted to him what had taken place on the voyage from Hong Kong to Shanghai on the Tankadere, in company with one Mr. Fix.
+[AWED-024-005]All this Passepartout learned from Aouda, who recounted to him what had taken place on the voyage from [[hong-kong|Hong Kong]] to Shanghai on the Tankadere, in company with one Mr. Fix.
 
 [AWED-024-006]Passepartout did not change countenance on hearing this name. He thought that the time had not yet arrived to divulge to his master what had taken place between the detective and himself; and, in the account he gave of his absence, he simply excused himself for having been overtaken by drunkenness, in smoking opium at a tavern in Hong Kong.
 

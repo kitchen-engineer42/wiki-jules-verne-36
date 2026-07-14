@@ -21,7 +21,7 @@ tags: [chapter]
 
 [FEM-028-005]"To the Staff of the Cambridge Observatory.
 
-[FEM-028-006]"The projectile hurled by the Columbiad of Stony Hill was perceived by Messrs. Belfast and J.T. Maston on the 12th of December at 8.47 p.m., the moon having entered her last quarter.
+[FEM-028-006]"The projectile hurled by the [[columbiad|Columbiad]] of Stony Hill was perceived by Messrs. Belfast and J.T. Maston on the 12th of December at 8.47 p.m., the moon having entered her last quarter.
 
 [FEM-028-007]"The projectile has not reached its goal. It has deviated to the side, but near enough to be detained by lunar attraction.
 
@@ -39,7 +39,7 @@ tags: [chapter]
 
 [FEM-028-014]"J BELFAST."
 
-[FEM-028-015]What discussions this unexpected _dénouement_ gave rise to! What a situation full of mystery the future reserved for the investigations of science! Thanks to the courage and devotion of three men, this enterprise of sending a bullet to the moon, futile enough in appearance, had just had an immense result, the consequences of which are incalculable. The travellers imprisoned in a new satellite, if they have not attained their end, form at least part of the lunar world; they gravitate around the Queen of Night, and for the first time human eyes can penetrate all her mysteries. The names of Nicholl, Barbicane, and Michel Ardan would be for ever celebrated in astronomical annals, for these bold explorers, desirous of widening the circle of human knowledge, had audaciously rushed into space, and had risked their lives in the strangest experiment of modern times.
+[FEM-028-015]What discussions this unexpected _dénouement_ gave rise to! What a situation full of mystery the future reserved for the investigations of science! Thanks to the courage and devotion of three men, this enterprise of sending a bullet to the moon, futile enough in appearance, had just had an immense result, the consequences of which are incalculable. The travellers imprisoned in a new satellite, if they have not attained their end, form at least part of the lunar world; they gravitate around the Queen of Night, and for the first time human eyes can penetrate all her mysteries. The names of Nicholl, [[barbicane|Barbicane]], and [[michel-ardan|Michel Ardan]] would be for ever celebrated in astronomical annals, for these bold explorers, desirous of widening the circle of human knowledge, had audaciously rushed into space, and had risked their lives in the strangest experiment of modern times.
 
 [FEM-028-016]The notice from Long's Peak once made known, there spread throughout the universe a feeling of surprise and horror. Was it possible to go to the aid of these bold inhabitants of the earth? Certainly not, for they had put themselves outside of the pale of humanity by crossing the limits imposed by the Creator on His terrestrial creatures. They could procure themselves air for two months; they had provisions for one year; but after? The hardest hearts palpitated at this terrible question.
 

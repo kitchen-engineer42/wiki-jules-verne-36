@@ -14,7 +14,7 @@ tags: [chapter]
 
 [TTLU-021-001]Some Days Ashore
 
-[TTLU-021-002]STEPPING ASHORE had an exhilarating effect on me. Ned Land tested the soil with his foot, as if he were laying claim to it. Yet it had been only two months since we had become, as Captain Nemo expressed it, "passengers on the Nautilus," in other words, the literal prisoners of its commander.
+[TTLU-021-002]STEPPING ASHORE had an exhilarating effect on me. [[ned-land|Ned Land]] tested the soil with his foot, as if he were laying claim to it. Yet it had been only two months since we had become, as [[captain-nemo|Captain Nemo]] expressed it, "passengers on the [[nautilus|Nautilus]]," in other words, the literal prisoners of its commander.
 
 [TTLU-021-003]In a few minutes we were a gunshot away from the coast. The soil was almost entirely madreporic, but certain dry stream beds were strewn with granite rubble, proving that this island was of primordial origin. The entire horizon was hidden behind a curtain of wonderful forests. Enormous trees, sometimes as high as 200 feet, were linked to each other by garlands of tropical creepers, genuine natural hammocks that swayed in a mild breeze. There were mimosas, banyan trees, beefwood, teakwood, hibiscus, screw pines, palm trees, all mingling in wild profusion; and beneath the shade of their green canopies, at the feet of their gigantic trunks, there grew orchids, leguminous plants, and ferns.
 
@@ -22,7 +22,7 @@ tags: [chapter]
 
 [TTLU-021-005]"Excellent!" Ned Land said.
 
-[TTLU-021-006]"Exquisite!" Conseil replied.
+[TTLU-021-006]"Exquisite!" [[conseil|Conseil]] replied.
 
 [TTLU-021-007]"And I don't think," the Canadian said, "that your Nemo would object to us stashing a cargo of coconuts aboard his vessel?"
 

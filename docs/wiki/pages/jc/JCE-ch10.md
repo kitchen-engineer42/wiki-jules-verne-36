@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-010-001]INTERESTING CONVERSATIONS WITH ICELANDIC SAVANTS
 
-[JCE-010-002]Dinner was ready. Professor Liedenbrock devoured his portion voraciously, for his compulsory fast on board had converted his stomach into a vast unfathomable gulf. There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old. It was evident that we were more at home than he was himself.
+[JCE-010-002]Dinner was ready. [[professor-lidenbrock|Professor Liedenbrock]] devoured his portion voraciously, for his compulsory fast on board had converted his stomach into a vast unfathomable gulf. There was nothing remarkable in the meal itself; but the hospitality of our host, more Danish than Icelandic, reminded me of the heroes of old. It was evident that we were more at home than he was himself.
 
 [JCE-010-003]The conversation was carried on in the vernacular tongue, which my uncle mixed with German and M. Fridrikssen with Latin for my benefit. It turned upon scientific questions as befits philosophers; but Professor Liedenbrock was excessively reserved, and at every sentence spoke to me with his eyes, enjoining the most absolute silence upon our plans.
 
@@ -61,7 +61,7 @@ tags: [chapter]
 
 [JCE-010-025]"His works, we have them not."
 
-[JCE-010-026]"What - not in Iceland?"
+[JCE-010-026]"What - not in [[iceland|Iceland]]?"
 
 [JCE-010-027]"They are neither in Iceland nor anywhere else."
 
@@ -91,7 +91,7 @@ tags: [chapter]
 
 [JCE-010-040]"Do you think so?" said my uncle, pretending to look very modest, and trying to hide the curiosity was flashing out of his eyes.
 
-[JCE-010-041]"Oh, yes; how many mountains, glaciers, and volcanoes there are to study, which are as yet but imperfectly known! Then, without going any further, that mountain in the horizon. That is Snæfell."
+[JCE-010-041]"Oh, yes; how many mountains, glaciers, and volcanoes there are to study, which are as yet but imperfectly known! Then, without going any further, that mountain in the horizon. That is [[snaefellsjokull|Snæfell]]."
 
 [JCE-010-042]"Ah!" said my uncle, as coolly as he was able, "is that Snæfell?"
 

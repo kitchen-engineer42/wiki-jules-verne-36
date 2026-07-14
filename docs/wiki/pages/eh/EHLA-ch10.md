@@ -88,7 +88,7 @@ tags: [chapter]
 
 [EHLA-010-038]The first day passed capitally; breakfast, dinner, siesta, walks, all took place as if Joam Garral and his people were still in the comfortable fazenda of Iquitos.
 
-[EHLA-010-039]During these twenty-four hours the mouths of the rivers Bacali, Chochio, Pucalppa, on the left of the stream, and those of the rivers Itinicari, Maniti, Moyoc, Tucuya, and the islands of this name on the right, were passed without accident. The night, lighted by the moon, allowed them to save a halt, and the giant raft glided peacefully on along the surface of the Amazon.
+[EHLA-010-039]During these twenty-four hours the mouths of the rivers Bacali, Chochio, Pucalppa, on the left of the stream, and those of the rivers Itinicari, Maniti, Moyoc, Tucuya, and the islands of this name on the right, were passed without accident. The night, lighted by the moon, allowed them to save a halt, and [[jangada|the giant raft]] glided peacefully on along the surface of the Amazon.
 
 [EHLA-010-040]On the morrow, the 7th of June, the jangada breasted the banks of the village of Pucalppa, named also New Oran. Old Oran, situated fifteen leagues down stream on the same left bank of the river, is almost abandoned for the new settlement, whose population consists of Indians belonging to the Mayoruna and Orejone tribes. Nothing can be more picturesque than this village with its ruddy-colored banks, its unfinished church, its cottages, whose chimneys are hidden amid the palms, and its two or three ubas half-stranded on the shore.
 

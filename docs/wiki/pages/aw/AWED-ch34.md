@@ -13,9 +13,9 @@ tags: [chapter]
 
 [AWED-034-001]IN WHICH PHILEAS FOGG AT LAST REACHES LONDON
 
-[AWED-034-002]Phileas Fogg was in prison. He had been shut up in the Custom House, and he was to be transferred to London the next day.
+[AWED-034-002][[phileas-fogg|Phileas Fogg]] was in prison. He had been shut up in the Custom House, and he was to be transferred to London the next day.
 
-[AWED-034-003]Passepartout, when he saw his master arrested, would have fallen upon Fix had he not been held back by some policemen. Aouda was thunderstruck at the suddenness of an event which she could not understand. Passepartout explained to her how it was that the honest and courageous Fogg was arrested as a robber. The young woman's heart revolted against so heinous a charge, and when she saw that she could attempt to do nothing to save her protector, she wept bitterly.
+[AWED-034-003][[passepartout|Passepartout]], when he saw his master arrested, would have fallen upon [[fix|Fix]] had he not been held back by some policemen. [[aouda|Aouda]] was thunderstruck at the suddenness of an event which she could not understand. Passepartout explained to her how it was that the honest and courageous Fogg was arrested as a robber. The young woman's heart revolted against so heinous a charge, and when she saw that she could attempt to do nothing to save her protector, she wept bitterly.
 
 [AWED-034-004]As for Fix, he had arrested Mr. Fogg because it was his duty, whether Mr. Fogg were guilty or not.
 
@@ -23,7 +23,7 @@ tags: [chapter]
 
 [AWED-034-006]Aouda and he had remained, despite the cold, under the portico of the Custom House. Neither wished to leave the place; both were anxious to see Mr. Fogg again.
 
-[AWED-034-007]That gentleman was really ruined, and that at the moment when he was about to attain his end. This arrest was fatal. Having arrived at Liverpool at twenty minutes before twelve on the 21st of December, he had till a quarter before nine that evening to reach the Reform Club, that is, nine hours and a quarter; the journey from Liverpool to London was six hours.
+[AWED-034-007]That gentleman was really ruined, and that at the moment when he was about to attain his end. This arrest was fatal. Having arrived at Liverpool at twenty minutes before twelve on the 21st of December, he had till a quarter before nine that evening to reach the [[reform-club|Reform Club]], that is, nine hours and a quarter; the journey from Liverpool to London was six hours.
 
 [AWED-034-008]If anyone, at this moment, had entered the Custom House, he would have found Mr. Fogg seated, motionless, calm, and without apparent anger, upon a wooden bench. He was not, it is true, resigned; but this last blow failed to force him into an outward betrayal of any emotion. Was he being devoured by one of those secret rages, all the more terrible because contained, and which only burst forth, with an irresistible force, at the last moment? No one could tell. There he sat, calmly waiting--for what? Did he still cherish hope? Did he still believe, now that the door of this prison was closed upon him, that he would succeed?
 

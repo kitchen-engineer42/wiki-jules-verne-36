@@ -15,7 +15,7 @@ tags: [chapter]
 
 [JCE-007-002]Thus ended this memorable seance. That conversation threw me into a fever. I came out of my uncle's study as if I had been stunned, and as if there was not air enough in all the streets of Hamburg to put me right again. I therefore made for the banks of the Elbe, where the steamer lands her passengers, which forms the communication between the city and the Hamburg railway.
 
-[JCE-007-003]Was I convinced of the truth of what I had heard? Had I not bent under the iron rule of the Professor Liedenbrock? Was I to believe him in earnest in his intention to penetrate to the centre of this massive globe? Had I been listening to the mad speculations of a lunatic, or to the scientific conclusions of a lofty genius? Where did truth stop? Where did error begin?
+[JCE-007-003]Was I convinced of the truth of what I had heard? Had I not bent under the iron rule of the [[professor-lidenbrock|Professor Liedenbrock]]? Was I to believe him in earnest in his intention to penetrate to the centre of this massive globe? Had I been listening to the mad speculations of a lunatic, or to the scientific conclusions of a lofty genius? Where did truth stop? Where did error begin?
 
 [JCE-007-004]I was all adrift amongst a thousand contradictory hypotheses, but I could not lay hold of one.
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [JCE-007-010]The young girl stopped, rather frightened perhaps to hear her name called after her on the high road. Ten yards more, and I had joined her.
 
-[JCE-007-011]"Axel!" she cried surprised. "What! have you come to meet me? Is this why you are here, sir?"
+[JCE-007-011]"[[axel|Axel]]!" she cried surprised. "What! have you come to meet me? Is this why you are here, sir?"
 
 [JCE-007-012]But when she had looked upon me, Gräuben could not fail to see the uneasiness and distress of my mind.
 
@@ -115,11 +115,11 @@ tags: [chapter]
 
 [JCE-007-052]"But it is only the 16th May, and until the end of June --"
 
-[JCE-007-053]"What, you monument of ignorance! do you think you can get to Iceland in a couple of days? If you had not deserted me like a fool I should have taken you to the Copenhagen office, to Liffender & Co., and you would have learned then that there is only one trip every month from Copenhagen to Rejkiavik, on the 22nd."
+[JCE-007-053]"What, you monument of ignorance! do you think you can get to [[iceland|Iceland]] in a couple of days? If you had not deserted me like a fool I should have taken you to the Copenhagen office, to Liffender & Co., and you would have learned then that there is only one trip every month from Copenhagen to Rejkiavik, on the 22nd."
 
 [JCE-007-054]"Well?"
 
-[JCE-007-055]"Well, if we waited for the 22nd June we should be too late to see the shadow of Scartaris touch the crater of Sneffels. Therefore we must get to Copenhagen as fast as we can to secure our passage. Go and pack up."
+[JCE-007-055]"Well, if we waited for the 22nd June we should be too late to see the shadow of Scartaris touch the crater of [[snaefellsjokull|Sneffels]]. Therefore we must get to Copenhagen as fast as we can to secure our passage. Go and pack up."
 
 [JCE-007-056]There was no reply to this. I went up to my room. Gräuben followed me. She undertook to pack up all things necessary for my voyage. She was no more moved than if I had been starting for a little trip to Lübeck or Heligoland. Her little hands moved without haste. She talked quietly. She supplied me with sensible reasons for our expedition. She delighted me, and yet I was angry with her. Now and then I felt I ought to break out into a passion, but she took no notice and went on her way as methodically as ever.
 

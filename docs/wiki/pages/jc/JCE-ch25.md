@@ -43,7 +43,7 @@ tags: [chapter]
 
 [JCE-025-016]"And whales are lashing the roof of our prison with their tails?"
 
-[JCE-025-017]"It may be, Axel, but they won't shake us here. But let us go back to our calculation. Here we are eighty-five leagues south-east of Snæfell, and I reckon that we are at a depth of sixteen leagues."
+[JCE-025-017]"It may be, [[axel|Axel]], but they won't shake us here. But let us go back to our calculation. Here we are eighty-five leagues south-east of [[snaefellsjokull|Snæfell]], and I reckon that we are at a depth of sixteen leagues."
 
 [JCE-025-018]"Sixteen leagues?" I cried.
 
@@ -79,7 +79,7 @@ tags: [chapter]
 
 [JCE-025-034]"What is it. Speak freely.!
 
-[JCE-025-035]"At the latitude of Iceland, where we now are, the radius of the earth, the distance from the centre to the surface is about 1,583 leagues; let us say in round numbers 1,600 leagues, or 4,800 miles. Out of 1,600 leagues we have gone twelve!"
+[JCE-025-035]"At the latitude of [[iceland|Iceland]], where we now are, the radius of the earth, the distance from the centre to the surface is about 1,583 leagues; let us say in round numbers 1,600 leagues, or 4,800 miles. Out of 1,600 leagues we have gone twelve!"
 
 [JCE-025-036]"So you say."
 
@@ -143,4 +143,4 @@ tags: [chapter]
 
 [JCE-025-066]But I kept this objection to myself, and waited the course of events.
 
-[JCE-025-067]The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of Professor Liedenbrock, and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.
+[JCE-025-067]The rest of the day was passed in calculations and in conversations. I remained a steadfast adherent of the opinions of [[professor-lidenbrock|Professor Liedenbrock]], and I envied the stolid indifference of Hans, who, without going into causes and effects, went on with his eyes shut wherever his destiny guided him.

@@ -97,7 +97,7 @@ tags: [chapter]
 
 [FWB-027-043]"There!" responded Joe, tossing over a huge fragment of quartz.
 
-[FWB-027-044]With this, the Victoria rose swiftly above the range of the whirling column, but, caught in the vast displacement of the atmosphere thereby occasioned, it was borne along with incalculable rapidity away above this foaming sea.
+[FWB-027-044]With this, [[victoria-balloon|the Victoria]] rose swiftly above the range of the whirling column, but, caught in the vast displacement of the atmosphere thereby occasioned, it was borne along with incalculable rapidity away above this foaming sea.
 
 [FWB-027-045]The three travellers did not speak. They gazed, and hoped, and even felt refreshed by the breath of the tempest.
 

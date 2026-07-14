@@ -13,13 +13,13 @@ tags: [chapter]
 
 [SI-015-001]THE AWAKENING OF THE VOLCANO--THE FINE SEASON--CONTINUATION OF WORK--THE EVENING OF THE 15TH OF OCTOBER--A TELEGRAM--A QUESTION--AN ANSWER-- DEPARTURE FOR THE CORRAL--THE NOTICE--THE ADDITIONAL WIRE--THE BASALT COAST--AT HIGH TIDE--AT LOW TIDE--THE CAVERN--A DAZZLING LIGHT.
 
-[SI-015-002]The colonists, warned by the engineer, left their work and gazed in silence at the summit of Mount Franklin.
+[SI-015-002]The colonists, warned by the engineer, left their work and gazed in silence at the summit of [[mount-franklin|Mount Franklin]].
 
-[SI-015-003]The volcano had awoke, and the vapour had penetrated the mineral layer heaped up at the bottom of the crater. But would the subterranean fires provoke any violent eruption? This was an event which could not be foreseen. However, even while admitting the possibility of an eruption, it was not probable that the whole of Lincoln Island would suffer from it. The flow of volcanic matter is not always disastrous, and the island had already undergone this trial, as was shown by the streams of lava hardened on the northern slopes of the mountain. Besides, from the shape of the crater--the opening broken in the upper edge--the matter would be thrown to the side opposite the fertile regions of the island.
+[SI-015-003]The volcano had awoke, and the vapour had penetrated the mineral layer heaped up at the bottom of the crater. But would the subterranean fires provoke any violent eruption? This was an event which could not be foreseen. However, even while admitting the possibility of an eruption, it was not probable that the whole of [[lincoln-island|Lincoln Island]] would suffer from it. The flow of volcanic matter is not always disastrous, and the island had already undergone this trial, as was shown by the streams of lava hardened on the northern slopes of the mountain. Besides, from the shape of the crater--the opening broken in the upper edge--the matter would be thrown to the side opposite the fertile regions of the island.
 
 [SI-015-004]However, the past did not necessarily answer for the future. Often, at the summit of volcanoes, the old craters close and new ones open. This has occurred in the two hemispheres--at Etna, Popocatepetl, at Orizaba-- and on the eve of an eruption there is everything to be feared. In fact, an earthquake--a phenomenon which often accompanies volcanic eruptions--is enough to change the interior arrangement of a mountain, and to open new outlets for the burning lava.
 
-[SI-015-005]Cyrus Harding explained these things to his companions, and, without exaggerating the state of things, he told them all the pros and cons. After all they could not prevent it. It did not appear likely that Granite House would be threatened unless the ground was shaken by an earthquake. But the corral would be in great danger should a new crater open in the southern side of Mount Franklin.
+[SI-015-005][[cyrus-harding|Cyrus Harding]] explained these things to his companions, and, without exaggerating the state of things, he told them all the pros and cons. After all they could not prevent it. It did not appear likely that [[granite-house|Granite House]] would be threatened unless the ground was shaken by an earthquake. But the corral would be in great danger should a new crater open in the southern side of Mount Franklin.
 
 [SI-015-006]From that day the smoke never disappeared from the top of the mountain, and it could even be perceived that it increased in height and thickness, without any flame mingling in its heavy volumes. The phenomenon was still concentrated in the lower part of the central crater.
 
@@ -43,7 +43,7 @@ tags: [chapter]
 
 [SI-015-016]So is man's heart. The desire to perform a work which will endure, which will survive him, is the origin of his superiority over all other living creatures here below. It is this which has established his dominion, and this it is which justifies it, over all the world.
 
-[SI-015-017]After that, who knows if Jup and Top had not themselves their little dream of the future.
+[SI-015-017]After that, who knows if Jup and [[top|Top]] had not themselves their little dream of the future.
 
 [SI-015-018]Ayrton silently said to himself that he would like to see Lord Glenarvan again and show himself to all restored.
 
@@ -273,4 +273,4 @@ tags: [chapter]
 
 [SI-015-131]Then Harding raised his voice, and to the extreme surprise of his companions, he uttered these words--
 
-[SI-015-132]"Captain Nemo, you asked for us! We are here."
+[SI-015-132]"[[captain-nemo|Captain Nemo]], you asked for us! We are here."

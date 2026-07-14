@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-004-001]IN WHICH A NEW CHARACTER APPEARS
 
-[RC-004-002]"Citizens of the United States! My name is Robur. I am worthy of the name! I am forty years old, although I look but thirty, and I have a constitution of iron, a healthy vigor that nothing can shake, a muscular strength that few can equal, and a digestion that would be thought first class even in an ostrich!"
+[RC-004-002]"Citizens of the United States! My name is [[robur|Robur]]. I am worthy of the name! I am forty years old, although I look but thirty, and I have a constitution of iron, a healthy vigor that nothing can shake, a muscular strength that few can equal, and a digestion that would be thought first class even in an ostrich!"
 
 [RC-004-003]They were listening! Yes! The riot was quelled at once by the totally unexpected fashion of the speech. Was this fellow a madman or a hoaxer? Whoever he was, he kept his audience in hand. There was not a whisper in the meeting in which but a few minutes ago the storm was in full fury.
 

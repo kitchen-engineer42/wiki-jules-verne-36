@@ -32,7 +32,7 @@ tags: [chapter]
 
 [MI-012-010]"What will be the good of that?" thought the sailor.
 
-[MI-012-011]They ate, and so heartily, that the store of game and almonds was totally exhausted. But Pencroft was not at all uneasy, they would supply themselves on the way. Top, whose share had been very much to his taste, would know how to find some fresh game among the brushwood. Moreover, the sailor thought of simply asking the engineer to manufacture some powder and one or two fowling-pieces; he supposed there would be no difficulty in that.
+[MI-012-011]They ate, and so heartily, that the store of game and almonds was totally exhausted. But Pencroft was not at all uneasy, they would supply themselves on the way. [[top|Top]], whose share had been very much to his taste, would know how to find some fresh game among the brushwood. Moreover, the sailor thought of simply asking the engineer to manufacture some powder and one or two fowling-pieces; he supposed there would be no difficulty in that.
 
 [MI-012-012]On leaving the plateau, the captain proposed to his companions to return to the Chimneys by a new way. He wished to reconnoiter Lake Grant, so magnificently framed in trees. They therefore followed the crest of one of the spurs, between which the creek that supplied the lake probably had its source. In talking, the settlers already employed the names which they had just chosen, which singularly facilitated the exchange of their ideas. Herbert and Pencroft--the one young and the other very boyish--were enchanted, and while walking, the sailor said,
 
@@ -42,9 +42,9 @@ tags: [chapter]
 
 [MI-012-015]"What can he be picking up?" muttered Pencroft. "I have looked in vain for anything that's worth the trouble of stooping for."
 
-[MI-012-016]Towards ten o'clock the little band descended the last declivities of Mount Franklin. As yet the ground was scantily strewn with bushes and trees. They were walking over yellowish calcinated earth, forming a plain of nearly a mile long, which extended to the edge of the wood. Great blocks of that basalt, which, according to Bischof, takes three hundred and fifty millions of years to cool, strewed the plain, very confused in some places. However, there were here no traces of lava, which was spread more particularly over the northern slopes.
+[MI-012-016]Towards ten o'clock the little band descended the last declivities of [[mount-franklin|Mount Franklin]]. As yet the ground was scantily strewn with bushes and trees. They were walking over yellowish calcinated earth, forming a plain of nearly a mile long, which extended to the edge of the wood. Great blocks of that basalt, which, according to Bischof, takes three hundred and fifty millions of years to cool, strewed the plain, very confused in some places. However, there were here no traces of lava, which was spread more particularly over the northern slopes.
 
-[MI-012-017]Cyrus Harding expected to reach, without incident, the course of the creek, which he supposed flowed under the trees at the border of the plain, when he saw Herbert running hastily back, while Neb and the sailor were hiding behind the rocks.
+[MI-012-017][[cyrus-harding|Cyrus Harding]] expected to reach, without incident, the course of the creek, which he supposed flowed under the trees at the border of the plain, when he saw Herbert running hastily back, while Neb and the sailor were hiding behind the rocks.
 
 [MI-012-018]"What's the matter, my boy?" asked Spilett.
 

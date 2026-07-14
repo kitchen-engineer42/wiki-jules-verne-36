@@ -93,7 +93,7 @@ tags: [chapter]
 
 [AM-004-041]This was an effectual warning, so I made a sign of acquiescence. The matter promised to be curious. He went on,--
 
-[AM-004-042]"When Edgar Poe's narrative appeared in 1838, I was at New York. I immediately started for Baltimore, where the writer's family lived; the grandfather had served as quarter-master-general during the War of Independence. You admit, I suppose, the existence of the Poe family, although you deny that of the Pym family?"
+[AM-004-042]"When Edgar Poe's narrative appeared in 1838, I was at New York. I immediately started for [[baltimore|Baltimore]], where the writer's family lived; the grandfather had served as quarter-master-general during the War of Independence. You admit, I suppose, the existence of the Poe family, although you deny that of the Pym family?"
 
 [AM-004-043]I said nothing, and the captain continued, with a dark glance at me,--
 

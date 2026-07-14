@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-023-001]THE GRAND COLLAPSE
 
-[RC-023-002]It was indeed the "Albatross!" It was indeed Robur who had reappeared in the heights of the sky! It was he who like a huge bird of prey was going to strike the "Go-Ahead."
+[RC-023-002]It was indeed the "[[albatross|Albatross]]!" It was indeed [[robur|Robur]] who had reappeared in the heights of the sky! It was he who like a huge bird of prey was going to strike the "Go-Ahead."
 
 [RC-023-003]And yet, nine months before, the aeronef, shattered by the explosion, her screws broken, her deck smashed in two, had been apparently annihilated.
 

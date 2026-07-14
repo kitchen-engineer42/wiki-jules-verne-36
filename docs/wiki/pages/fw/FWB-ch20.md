@@ -27,7 +27,7 @@ tags: [chapter]
 
 [FWB-020-008]"Oh! it's natural enough that they should be astonished," said the doctor. "The French peasants, when they first saw a balloon, fired at it, thinking that it was an aerial monster. A Soudan negro may be excused, then, for opening his eyes VERY wide!"
 
-[FWB-020-009]"Faith!" said Joe, as the Victoria skimmed closely along the ground, at scarcely the elevation of one hundred feet, and immediately over a village, "I'll throw them an empty bottle, with your leave, doctor, and if it reaches them safe and sound, they'll worship it; if it breaks, they'll make talismans of the pieces."
+[FWB-020-009]"Faith!" said Joe, as [[victoria-balloon|the Victoria]] skimmed closely along the ground, at scarcely the elevation of one hundred feet, and immediately over a village, "I'll throw them an empty bottle, with your leave, doctor, and if it reaches them safe and sound, they'll worship it; if it breaks, they'll make talismans of the pieces."
 
 [FWB-020-010]So saying, he flung out a bottle, which, of course, was broken into a thousand fragments, while the negroes scampered into their round huts, uttering shrill cries.
 

@@ -37,7 +37,7 @@ tags: [chapter]
 
 [JCE-002-013]"And what is the title of this marvellous work?" I asked with an affected eagerness which he must have been very blind not to see through.
 
-[JCE-002-014]"This work," replied my uncle, firing up with renewed enthusiasm, "this work is the Heims Kringla of Snorre Turlleson, the most famous Icelandic author of the twelfth century! It is the chronicle of the Norwegian princes who ruled in Iceland."
+[JCE-002-014]"This work," replied my uncle, firing up with renewed enthusiasm, "this work is the Heims Kringla of Snorre Turlleson, the most famous Icelandic author of the twelfth century! It is the chronicle of the Norwegian princes who ruled in [[iceland|Iceland]]."
 
 [JCE-002-015]"Indeed;" I cried, keeping up wonderfully, "of course it is a German translation?"
 
@@ -49,7 +49,7 @@ tags: [chapter]
 
 [JCE-002-019]"Ah!" said I, a little moved out of my indifference; "and is the type good?"
 
-[JCE-002-020]"Type! What do you mean by talking of type, wretched Axel? Type! Do you take it for a printed book, you ignorant fool? It is a manuscript, a Runic manuscript."
+[JCE-002-020]"Type! What do you mean by talking of type, wretched [[axel|Axel]]? Type! Do you take it for a printed book, you ignorant fool? It is a manuscript, a Runic manuscript."
 
 [JCE-002-021]"Runic?"
 
@@ -69,7 +69,7 @@ tags: [chapter]
 
 [JCE-002-029]And he laid out upon the table a piece of parchment, five inches by three, and along which were traced certain mysterious characters.
 
-[JCE-002-030]Here is the exact facsimile. I think it important to let these strange signs be publicly known, for they were the means of drawing on Professor Liedenbrock and his nephew to undertake the most wonderful expedition of the nineteenth century.
+[JCE-002-030]Here is the exact facsimile. I think it important to let these strange signs be publicly known, for they were the means of drawing on [[professor-lidenbrock|Professor Liedenbrock]] and his nephew to undertake the most wonderful expedition of the nineteenth century.
 
 [JCE-002-031][Runic glyphs occur here]
 

@@ -15,7 +15,7 @@ tags: [chapter]
 
 [RM-012-002]It has already been pointed out that the direction followed by the projectile was taking us towards the northern hemisphere of the moon. The travellers were far from that central point which they ought to have touched if their trajectory had not suffered an irremediable deviation.
 
-[RM-012-003]It was half-past twelve at night. Barbicane then estimated his distance at 1,400 kilometres, a distance rather greater than the length of the lunar radius, and which must diminish as he drew nearer the North Pole. The projectile was then not at the altitude of the equator, but on the tenth parallel, and from that latitude carefully observed on the map as far as the Pole, Barbicane and his two companions were able to watch the moon under the most favourable circumstances.
+[RM-012-003]It was half-past twelve at night. [[barbicane|Barbicane]] then estimated his distance at 1,400 kilometres, a distance rather greater than the length of the lunar radius, and which must diminish as he drew nearer the North Pole. The projectile was then not at the altitude of the equator, but on the tenth parallel, and from that latitude carefully observed on the map as far as the Pole, Barbicane and his two companions were able to watch the moon under the most favourable circumstances.
 
 [RM-012-004]In fact, by using telescopes, this distance of 1,400 kilometres was reduced to fourteen miles, or four and a-half leagues. The telescope of the Rocky Mountains brought the moon still nearer, but the terrestrial atmosphere singularly lessened its optical power. Thus Barbicane, in his projectile, by looking through his glass, could already perceive certain details almost imperceptible to observers on the earth.
 
@@ -59,7 +59,7 @@ tags: [chapter]
 
 [RM-012-024]"What should you say, then," answered Barbicane, "if the chances of our journey should take us towards the southern hemisphere?"
 
-[RM-012-025]"Well, I should say it is finer still," replied Michel Ardan.
+[RM-012-025]"Well, I should say it is finer still," replied [[michel-ardan|Michel Ardan]].
 
 [RM-012-026]At that moment the projectile hung right over the amphitheatre. The circumference of Copernicus formed an almost perfect circle, and its steep ramparts were clearly defined. A second circular inclosure could even be distinguished. A grey plain of wild aspect spread around on which every relief appeared yellow. At the bottom of the amphitheatre, as if in a jewel-case, sparkled for one instant two or three eruptive cones like enormous dazzling gems. Towards the north the sides of the crater were lowered into a depression which would probably have given access to the interior of the crater.
 

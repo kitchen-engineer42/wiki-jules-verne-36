@@ -13,9 +13,9 @@ tags: [chapter]
 
 [RM-005-001]THE TEMPERATURE OF SPACE.
 
-[RM-005-002]This revelation acted like a thunderbolt. Who could have expected such an error in calculation? Barbicane would not believe it. Nicholl went over the figures again. They were correct. The formula which had established them could not be mistrusted, and, when verified, the initial velocity of 16,576 metres, necessary for attaining the neutral point, was found quite right.
+[RM-005-002]This revelation acted like a thunderbolt. Who could have expected such an error in calculation? [[barbicane|Barbicane]] would not believe it. Nicholl went over the figures again. They were correct. The formula which had established them could not be mistrusted, and, when verified, the initial velocity of 16,576 metres, necessary for attaining the neutral point, was found quite right.
 
-[RM-005-003]The three friends looked at one another in silence. No one thought about breakfast after that. Barbicane, with set teeth, contracted brow, and fists convulsively closed, looked through the port-light. Nicholl folded his arms and examined his calculations. Michel Ardan murmured--
+[RM-005-003]The three friends looked at one another in silence. No one thought about breakfast after that. Barbicane, with set teeth, contracted brow, and fists convulsively closed, looked through the port-light. Nicholl folded his arms and examined his calculations. [[michel-ardan|Michel Ardan]] murmured--
 
 [RM-005-004]"That's just like _savants_! That's the way they always do! I would give twenty pistoles to fall upon the Cambridge Observatory and crush it, with all its stupid staff inside!"
 

@@ -358,6 +358,14 @@
       "aliases": [],
       "path": "ac/ACH-ch58.md"
     },
+    "albatross": {
+      "type": "technology",
+      "label": "Albatross",
+      "aliases": [
+        "aeronef"
+      ],
+      "path": "al/albatross.md"
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -519,6 +527,12 @@
       "label": "Ascent of Mont Blanc",
       "aliases": [],
       "path": "am/AMB.md"
+    },
+    "aouda": {
+      "type": "character",
+      "label": "Aouda",
+      "aliases": [],
+      "path": "ao/aouda.md"
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -904,6 +918,27 @@
       "aliases": [],
       "path": "aw/AWED-ch37.md"
     },
+    "axel": {
+      "type": "character",
+      "label": "Axel",
+      "aliases": [],
+      "path": "ax/axel.md"
+    },
+    "baltimore": {
+      "type": "place",
+      "label": "Baltimore",
+      "aliases": [],
+      "path": "ba/baltimore.md"
+    },
+    "barbicane": {
+      "type": "character",
+      "label": "Impey Barbicane",
+      "aliases": [
+        "Barbicane",
+        "President Barbicane"
+      ],
+      "path": "ba/barbicane.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -964,11 +999,72 @@
       "aliases": [],
       "path": "br/BR-ch10.md"
     },
+    "captain-hatteras": {
+      "type": "character",
+      "label": "Captain Hatteras",
+      "aliases": [
+        "John Hatteras"
+      ],
+      "path": "ca/captain-hatteras.md"
+    },
+    "captain-nemo": {
+      "type": "character",
+      "label": "Captain Nemo",
+      "aliases": [
+        "Nemo",
+        "Prince Dakkar"
+      ],
+      "path": "ca/captain-nemo.md"
+    },
+    "columbiad-launch": {
+      "type": "event",
+      "label": "The Columbiad Launch",
+      "aliases": [
+        "Launch of the Projectile"
+      ],
+      "path": "co/columbiad-launch.md"
+    },
+    "columbiad": {
+      "type": "technology",
+      "label": "Columbiad",
+      "aliases": [],
+      "path": "co/columbiad.md"
+    },
+    "conseil": {
+      "type": "character",
+      "label": "Conseil",
+      "aliases": [],
+      "path": "co/conseil.md"
+    },
+    "cyrus-harding": {
+      "type": "character",
+      "label": "Cyrus Harding",
+      "aliases": [
+        "Cyrus Smith"
+      ],
+      "path": "cy/cyrus-harding.md"
+    },
     "DA": {
       "type": "chapter",
       "label": "A Drama in the Air",
       "aliases": [],
       "path": "da/DA.md"
+    },
+    "date-line-revelation": {
+      "type": "event",
+      "label": "The Gained Day",
+      "aliases": [
+        "The Date-Line Revelation"
+      ],
+      "path": "da/date-line-revelation.md"
+    },
+    "diving-apparatus": {
+      "type": "technology",
+      "label": "Rouquayrol Diving Apparatus",
+      "aliases": [
+        "Rouquayrol-Denayrouze device"
+      ],
+      "path": "di/diving-apparatus.md"
     },
     "DOSE-ch01": {
       "type": "chapter",
@@ -1540,6 +1636,12 @@
       "aliases": [],
       "path": "eh/EHLA-ch40.md"
     },
+    "eighty-day-wager": {
+      "type": "event",
+      "label": "The Eighty-Day Wager",
+      "aliases": [],
+      "path": "ei/eighty-day-wager.md"
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -2098,6 +2200,22 @@
       "aliases": [],
       "path": "ff/FF-ch18.md"
     },
+    "fix": {
+      "type": "character",
+      "label": "Detective Fix",
+      "aliases": [
+        "Fix"
+      ],
+      "path": "fi/fix.md"
+    },
+    "fogg-hires-passepartout": {
+      "type": "event",
+      "label": "Fogg Hires Passepartout",
+      "aliases": [
+        "Master and Man"
+      ],
+      "path": "fo/fogg-hires-passepartout.md"
+    },
     "FWB-ch01": {
       "type": "chapter",
       "label": "Five Weeks in a Balloon — CHAPTER FIRST",
@@ -2362,6 +2480,23 @@
       "aliases": [],
       "path": "fw/FWB-ch44.md"
     },
+    "giant-squid-attack": {
+      "type": "event",
+      "label": "The Giant Squid Attack",
+      "aliases": [
+        "Attack of the Poulps"
+      ],
+      "path": "gi/giant-squid-attack.md"
+    },
+    "giant-telescope": {
+      "type": "technology",
+      "label": "Giant Telescope",
+      "aliases": [
+        "Rocky Mountains telescope",
+        "Long's Peak reflector"
+      ],
+      "path": "gi/giant-telescope.md"
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -2493,6 +2628,65 @@
       "label": "Godfrey Morgan — CHAPTER XXII",
       "aliases": [],
       "path": "gm/GM-ch22.md"
+    },
+    "granite-house-lift": {
+      "type": "technology",
+      "label": "Granite House Lift",
+      "aliases": [
+        "Granite House elevator",
+        "the lift"
+      ],
+      "path": "gr/granite-house-lift.md"
+    },
+    "granite-house": {
+      "type": "place",
+      "label": "Granite House",
+      "aliases": [],
+      "path": "gr/granite-house.md"
+    },
+    "great-eyrie": {
+      "type": "place",
+      "label": "The Great Eyrie",
+      "aliases": [],
+      "path": "gr/great-eyrie.md"
+    },
+    "gun-club-moon-proposal": {
+      "type": "event",
+      "label": "Barbicane's Moon Proposal",
+      "aliases": [
+        "The Gun Club Communication"
+      ],
+      "path": "gu/gun-club-moon-proposal.md"
+    },
+    "gun-cotton": {
+      "type": "technology",
+      "label": "Gun-Cotton",
+      "aliases": [
+        "pyroxyle",
+        "gun cotton"
+      ],
+      "path": "gu/gun-cotton.md"
+    },
+    "hong-kong": {
+      "type": "place",
+      "label": "Hong Kong",
+      "aliases": [],
+      "path": "ho/hong-kong.md"
+    },
+    "iceland": {
+      "type": "place",
+      "label": "Iceland",
+      "aliases": [],
+      "path": "ic/iceland.md"
+    },
+    "jangada": {
+      "type": "technology",
+      "label": "Jangada",
+      "aliases": [
+        "the giant raft",
+        "Amazon raft"
+      ],
+      "path": "ja/jangada.md"
     },
     "JCE-ch01": {
       "type": "chapter",
@@ -2763,6 +2957,52 @@
       "label": "A Journey to the Center of the Earth — CHAPTER XLV",
       "aliases": [],
       "path": "jc/JCE-ch45.md"
+    },
+    "liedenbrock-cipher": {
+      "type": "event",
+      "label": "Deciphering the Saknussemm Cipher",
+      "aliases": [
+        "The Runic Cryptogram"
+      ],
+      "path": "li/liedenbrock-cipher.md"
+    },
+    "liedenbrock-sea": {
+      "type": "place",
+      "label": "Liedenbrock Sea",
+      "aliases": [
+        "central sea"
+      ],
+      "path": "li/liedenbrock-sea.md"
+    },
+    "lincoln-island-landing": {
+      "type": "event",
+      "label": "The Lincoln Island Landing",
+      "aliases": [
+        "Balloon Castaways' Landing"
+      ],
+      "path": "li/lincoln-island-landing.md"
+    },
+    "lincoln-island": {
+      "type": "place",
+      "label": "Lincoln Island",
+      "aliases": [],
+      "path": "li/lincoln-island.md"
+    },
+    "lunar-orbit-miss": {
+      "type": "event",
+      "label": "Missing the Moon",
+      "aliases": [
+        "The Deviated Projectile"
+      ],
+      "path": "lu/lunar-orbit-miss.md"
+    },
+    "lunar-projectile": {
+      "type": "technology",
+      "label": "The Projectile",
+      "aliases": [
+        "aluminium projectile"
+      ],
+      "path": "lu/lunar-projectile.md"
     },
     "MI-ch01": {
       "type": "chapter",
@@ -3136,6 +3376,18 @@
       "aliases": [],
       "path": "mi/MI-ch62.md"
     },
+    "michel-ardan": {
+      "type": "character",
+      "label": "Michel Ardan",
+      "aliases": [],
+      "path": "mi/michel-ardan.md"
+    },
+    "mount-franklin": {
+      "type": "place",
+      "label": "Mount Franklin",
+      "aliases": [],
+      "path": "mo/mount-franklin.md"
+    },
     "MS-ch01": {
       "type": "chapter",
       "label": "Michael Strogoff — BOOK I",
@@ -3478,6 +3730,60 @@
       "aliases": [],
       "path": "mz/MZ-ch05.md"
     },
+    "nautilus": {
+      "type": "technology",
+      "label": "Nautilus",
+      "aliases": [],
+      "path": "na/nautilus.md"
+    },
+    "ned-land": {
+      "type": "character",
+      "label": "Ned Land",
+      "aliases": [],
+      "path": "ne/ned-land.md"
+    },
+    "nemo-death": {
+      "type": "event",
+      "label": "The Death of Captain Nemo",
+      "aliases": [
+        "Nemo's Last Hours"
+      ],
+      "path": "ne/nemo-death.md"
+    },
+    "nemo-electricity": {
+      "type": "technology",
+      "label": "Nemo's Electricity",
+      "aliases": [
+        "Nautilus electricity",
+        "Nemo's sodium battery"
+      ],
+      "path": "ne/nemo-electricity.md"
+    },
+    "nitroglycerine": {
+      "type": "technology",
+      "label": "Nitroglycerine",
+      "aliases": [
+        "nitro-glycerine",
+        "glonoin"
+      ],
+      "path": "ni/nitroglycerine.md"
+    },
+    "north-pole-volcano": {
+      "type": "event",
+      "label": "The Volcano at the Pole",
+      "aliases": [
+        "Reaching the North Pole"
+      ],
+      "path": "no/north-pole-volcano.md"
+    },
+    "north-pole": {
+      "type": "place",
+      "label": "The North Pole",
+      "aliases": [
+        "Queen's Island"
+      ],
+      "path": "no/north-pole.md"
+    },
     "OC-ch01": {
       "type": "chapter",
       "label": "Off on a Comet — BOOK I",
@@ -3748,6 +4054,20 @@
       "aliases": [],
       "path": "oc/OC-ch45.md"
     },
+    "passepartout": {
+      "type": "character",
+      "label": "Passepartout",
+      "aliases": [
+        "Jean Passepartout"
+      ],
+      "path": "pa/passepartout.md"
+    },
+    "phileas-fogg": {
+      "type": "character",
+      "label": "Phileas Fogg",
+      "aliases": [],
+      "path": "ph/phileas-fogg.md"
+    },
     "PL-ch01": {
       "type": "chapter",
       "label": "The Pearl of Lima — CHAPTER I",
@@ -3801,6 +4121,16 @@
       "label": "The Pearl of Lima — CHAPTER IX",
       "aliases": [],
       "path": "pl/PL-ch09.md"
+    },
+    "professor-lidenbrock": {
+      "type": "character",
+      "label": "Professor Lidenbrock",
+      "aliases": [
+        "Professor Liedenbrock",
+        "Otto Lidenbrock",
+        "Liedenbrock"
+      ],
+      "path": "pr/professor-lidenbrock.md"
     },
     "RC-ch01": {
       "type": "chapter",
@@ -3940,6 +4270,12 @@
       "aliases": [],
       "path": "rc/RC-ch23.md"
     },
+    "reform-club": {
+      "type": "place",
+      "label": "Reform Club",
+      "aliases": [],
+      "path": "re/reform-club.md"
+    },
     "RM-ch01": {
       "type": "chapter",
       "label": "Round the Moon — CHAPTER I",
@@ -4077,6 +4413,29 @@
       "label": "Round the Moon — CHAPTER XXIII",
       "aliases": [],
       "path": "rm/RM-ch23.md"
+    },
+    "robur": {
+      "type": "character",
+      "label": "Robur",
+      "aliases": [
+        "Robur the Conqueror"
+      ],
+      "path": "ro/robur.md"
+    },
+    "ruhmkorff-apparatus": {
+      "type": "technology",
+      "label": "Ruhmkorff Apparatus",
+      "aliases": [
+        "Ruhmkorff lamp",
+        "Ruhmkorff coil"
+      ],
+      "path": "ru/ruhmkorff-apparatus.md"
+    },
+    "sargasso-sea": {
+      "type": "place",
+      "label": "Sargasso Sea",
+      "aliases": [],
+      "path": "sa/sargasso-sea.md"
     },
     "SC-ch01": {
       "type": "chapter",
@@ -4816,6 +5175,22 @@
       "aliases": [],
       "path": "sc/SC2-ch57.md"
     },
+    "sea-monster-hunt": {
+      "type": "event",
+      "label": "The Sea Monster Hunt",
+      "aliases": [
+        "The Abraham Lincoln Expedition"
+      ],
+      "path": "se/sea-monster-hunt.md"
+    },
+    "ships-compass": {
+      "type": "technology",
+      "label": "Ship's Compass",
+      "aliases": [
+        "binnacle compass"
+      ],
+      "path": "sh/ships-compass.md"
+    },
     "SI-ch01": {
       "type": "chapter",
       "label": "The Secret of the Island — CHAPTER ONE",
@@ -4935,6 +5310,77 @@
       "label": "The Secret of the Island — CHAPTER TWENTY",
       "aliases": [],
       "path": "si/SI-ch20.md"
+    },
+    "snaefells-descent": {
+      "type": "event",
+      "label": "The Snæfellsjökull Descent",
+      "aliases": [
+        "Descent into the Crater"
+      ],
+      "path": "sn/snaefells-descent.md"
+    },
+    "snaefellsjokull": {
+      "type": "place",
+      "label": "Snæfellsjökull",
+      "aliases": [
+        "Sneffels",
+        "Snæfell"
+      ],
+      "path": "sn/snaefellsjokull.md"
+    },
+    "stromboli-eruption-return": {
+      "type": "event",
+      "label": "The Stromboli Eruption",
+      "aliases": [
+        "Return by Volcano"
+      ],
+      "path": "st/stromboli-eruption-return.md"
+    },
+    "stromboli": {
+      "type": "place",
+      "label": "Stromboli",
+      "aliases": [],
+      "path": "st/stromboli.md"
+    },
+    "tabor-island-castaway": {
+      "type": "event",
+      "label": "The Tabor Island Castaway",
+      "aliases": [
+        "Discovery of Ayrton"
+      ],
+      "path": "ta/tabor-island-castaway.md"
+    },
+    "tampa-town": {
+      "type": "place",
+      "label": "Tampa Town",
+      "aliases": [
+        "Tampa"
+      ],
+      "path": "ta/tampa-town.md"
+    },
+    "the-forward": {
+      "type": "technology",
+      "label": "The Forward",
+      "aliases": [
+        "Forward"
+      ],
+      "path": "th/the-forward.md"
+    },
+    "the-moon": {
+      "type": "place",
+      "label": "The Moon",
+      "aliases": [
+        "Luna"
+      ],
+      "path": "th/the-moon.md"
+    },
+    "the-terror": {
+      "type": "technology",
+      "label": "The Terror",
+      "aliases": [
+        "Épouvante"
+      ],
+      "path": "th/the-terror.md"
     },
     "TN-ch01": {
       "type": "chapter",
@@ -5061,6 +5507,12 @@
       "label": "Table of Contents",
       "aliases": [],
       "path": "to/TOC.md"
+    },
+    "top": {
+      "type": "character",
+      "label": "Top",
+      "aliases": [],
+      "path": "to/top.md"
     },
     "TT-ch01": {
       "type": "chapter",
@@ -5590,6 +6042,15 @@
       "aliases": [],
       "path": "vb/VB.md"
     },
+    "victoria-balloon": {
+      "type": "technology",
+      "label": "Victoria (balloon)",
+      "aliases": [
+        "the Victoria",
+        "Ferguson's balloon"
+      ],
+      "path": "vi/victoria-balloon.md"
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -5887,6 +6348,9 @@
     "ACH-ch56": "ACH-ch56",
     "ACH-ch57": "ACH-ch57",
     "ACH-ch58": "ACH-ch58",
+    "albatross": "albatross",
+    "Albatross": "albatross",
+    "aeronef": "albatross",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -5914,6 +6378,8 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "aouda": "aouda",
+    "Aouda": "aouda",
     "ASC-ch01": "ASC-ch01",
     "ASC-ch02": "ASC-ch02",
     "ASC-ch03": "ASC-ch03",
@@ -5978,6 +6444,14 @@
     "AWED-ch35": "AWED-ch35",
     "AWED-ch36": "AWED-ch36",
     "AWED-ch37": "AWED-ch37",
+    "axel": "axel",
+    "Axel": "axel",
+    "baltimore": "baltimore",
+    "Baltimore": "baltimore",
+    "barbicane": "barbicane",
+    "Impey Barbicane": "barbicane",
+    "Barbicane": "barbicane",
+    "President Barbicane": "barbicane",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -5988,7 +6462,30 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "captain-hatteras": "captain-hatteras",
+    "Captain Hatteras": "captain-hatteras",
+    "John Hatteras": "captain-hatteras",
+    "captain-nemo": "captain-nemo",
+    "Captain Nemo": "captain-nemo",
+    "Nemo": "captain-nemo",
+    "Prince Dakkar": "captain-nemo",
+    "columbiad-launch": "columbiad-launch",
+    "The Columbiad Launch": "columbiad-launch",
+    "Launch of the Projectile": "columbiad-launch",
+    "columbiad": "columbiad",
+    "Columbiad": "columbiad",
+    "conseil": "conseil",
+    "Conseil": "conseil",
+    "cyrus-harding": "cyrus-harding",
+    "Cyrus Harding": "cyrus-harding",
+    "Cyrus Smith": "cyrus-harding",
     "DA": "DA",
+    "date-line-revelation": "date-line-revelation",
+    "The Gained Day": "date-line-revelation",
+    "The Date-Line Revelation": "date-line-revelation",
+    "diving-apparatus": "diving-apparatus",
+    "Rouquayrol Diving Apparatus": "diving-apparatus",
+    "Rouquayrol-Denayrouze device": "diving-apparatus",
     "DOSE-ch01": "DOSE-ch01",
     "DOSE-ch02": "DOSE-ch02",
     "DOSE-ch03": "DOSE-ch03",
@@ -6084,6 +6581,8 @@
     "EHLA-ch38": "EHLA-ch38",
     "EHLA-ch39": "EHLA-ch39",
     "EHLA-ch40": "EHLA-ch40",
+    "eighty-day-wager": "eighty-day-wager",
+    "The Eighty-Day Wager": "eighty-day-wager",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -6177,6 +6676,12 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "fix": "fix",
+    "Detective Fix": "fix",
+    "Fix": "fix",
+    "fogg-hires-passepartout": "fogg-hires-passepartout",
+    "Fogg Hires Passepartout": "fogg-hires-passepartout",
+    "Master and Man": "fogg-hires-passepartout",
     "FWB-ch01": "FWB-ch01",
     "FWB-ch02": "FWB-ch02",
     "FWB-ch03": "FWB-ch03",
@@ -6221,6 +6726,13 @@
     "FWB-ch42": "FWB-ch42",
     "FWB-ch43": "FWB-ch43",
     "FWB-ch44": "FWB-ch44",
+    "giant-squid-attack": "giant-squid-attack",
+    "The Giant Squid Attack": "giant-squid-attack",
+    "Attack of the Poulps": "giant-squid-attack",
+    "giant-telescope": "giant-telescope",
+    "Giant Telescope": "giant-telescope",
+    "Rocky Mountains telescope": "giant-telescope",
+    "Long's Peak reflector": "giant-telescope",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -6243,6 +6755,29 @@
     "GM-ch20": "GM-ch20",
     "GM-ch21": "GM-ch21",
     "GM-ch22": "GM-ch22",
+    "granite-house-lift": "granite-house-lift",
+    "Granite House Lift": "granite-house-lift",
+    "Granite House elevator": "granite-house-lift",
+    "the lift": "granite-house-lift",
+    "granite-house": "granite-house",
+    "Granite House": "granite-house",
+    "great-eyrie": "great-eyrie",
+    "The Great Eyrie": "great-eyrie",
+    "gun-club-moon-proposal": "gun-club-moon-proposal",
+    "Barbicane's Moon Proposal": "gun-club-moon-proposal",
+    "The Gun Club Communication": "gun-club-moon-proposal",
+    "gun-cotton": "gun-cotton",
+    "Gun-Cotton": "gun-cotton",
+    "pyroxyle": "gun-cotton",
+    "gun cotton": "gun-cotton",
+    "hong-kong": "hong-kong",
+    "Hong Kong": "hong-kong",
+    "iceland": "iceland",
+    "Iceland": "iceland",
+    "jangada": "jangada",
+    "Jangada": "jangada",
+    "the giant raft": "jangada",
+    "Amazon raft": "jangada",
     "JCE-ch01": "JCE-ch01",
     "JCE-ch02": "JCE-ch02",
     "JCE-ch03": "JCE-ch03",
@@ -6288,6 +6823,23 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "liedenbrock-cipher": "liedenbrock-cipher",
+    "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
+    "The Runic Cryptogram": "liedenbrock-cipher",
+    "liedenbrock-sea": "liedenbrock-sea",
+    "Liedenbrock Sea": "liedenbrock-sea",
+    "central sea": "liedenbrock-sea",
+    "lincoln-island-landing": "lincoln-island-landing",
+    "The Lincoln Island Landing": "lincoln-island-landing",
+    "Balloon Castaways' Landing": "lincoln-island-landing",
+    "lincoln-island": "lincoln-island",
+    "Lincoln Island": "lincoln-island",
+    "lunar-orbit-miss": "lunar-orbit-miss",
+    "Missing the Moon": "lunar-orbit-miss",
+    "The Deviated Projectile": "lunar-orbit-miss",
+    "lunar-projectile": "lunar-projectile",
+    "The Projectile": "lunar-projectile",
+    "aluminium projectile": "lunar-projectile",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -6350,6 +6902,10 @@
     "MI-ch60": "MI-ch60",
     "MI-ch61": "MI-ch61",
     "MI-ch62": "MI-ch62",
+    "michel-ardan": "michel-ardan",
+    "Michel Ardan": "michel-ardan",
+    "mount-franklin": "mount-franklin",
+    "Mount Franklin": "mount-franklin",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -6407,6 +6963,27 @@
     "MZ-ch03": "MZ-ch03",
     "MZ-ch04": "MZ-ch04",
     "MZ-ch05": "MZ-ch05",
+    "nautilus": "nautilus",
+    "Nautilus": "nautilus",
+    "ned-land": "ned-land",
+    "Ned Land": "ned-land",
+    "nemo-death": "nemo-death",
+    "The Death of Captain Nemo": "nemo-death",
+    "Nemo's Last Hours": "nemo-death",
+    "nemo-electricity": "nemo-electricity",
+    "Nemo's Electricity": "nemo-electricity",
+    "Nautilus electricity": "nemo-electricity",
+    "Nemo's sodium battery": "nemo-electricity",
+    "nitroglycerine": "nitroglycerine",
+    "Nitroglycerine": "nitroglycerine",
+    "nitro-glycerine": "nitroglycerine",
+    "glonoin": "nitroglycerine",
+    "north-pole-volcano": "north-pole-volcano",
+    "The Volcano at the Pole": "north-pole-volcano",
+    "Reaching the North Pole": "north-pole-volcano",
+    "north-pole": "north-pole",
+    "The North Pole": "north-pole",
+    "Queen's Island": "north-pole",
     "OC-ch01": "OC-ch01",
     "OC-ch02": "OC-ch02",
     "OC-ch03": "OC-ch03",
@@ -6452,6 +7029,11 @@
     "OC-ch43": "OC-ch43",
     "OC-ch44": "OC-ch44",
     "OC-ch45": "OC-ch45",
+    "passepartout": "passepartout",
+    "Passepartout": "passepartout",
+    "Jean Passepartout": "passepartout",
+    "phileas-fogg": "phileas-fogg",
+    "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
     "PL-ch02": "PL-ch02",
     "PL-ch03": "PL-ch03",
@@ -6461,6 +7043,11 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "professor-lidenbrock": "professor-lidenbrock",
+    "Professor Lidenbrock": "professor-lidenbrock",
+    "Professor Liedenbrock": "professor-lidenbrock",
+    "Otto Lidenbrock": "professor-lidenbrock",
+    "Liedenbrock": "professor-lidenbrock",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -6484,6 +7071,8 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "reform-club": "reform-club",
+    "Reform Club": "reform-club",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -6507,6 +7096,15 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robur": "robur",
+    "Robur": "robur",
+    "Robur the Conqueror": "robur",
+    "ruhmkorff-apparatus": "ruhmkorff-apparatus",
+    "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
+    "Ruhmkorff lamp": "ruhmkorff-apparatus",
+    "Ruhmkorff coil": "ruhmkorff-apparatus",
+    "sargasso-sea": "sargasso-sea",
+    "Sargasso Sea": "sargasso-sea",
     "SC-ch01": "SC-ch01",
     "SC-ch02": "SC-ch02",
     "SC-ch03": "SC-ch03",
@@ -6630,6 +7228,12 @@
     "SC2-ch55": "SC2-ch55",
     "SC2-ch56": "SC2-ch56",
     "SC2-ch57": "SC2-ch57",
+    "sea-monster-hunt": "sea-monster-hunt",
+    "The Sea Monster Hunt": "sea-monster-hunt",
+    "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "ships-compass": "ships-compass",
+    "Ship's Compass": "ships-compass",
+    "binnacle compass": "ships-compass",
     "SI-ch01": "SI-ch01",
     "SI-ch02": "SI-ch02",
     "SI-ch03": "SI-ch03",
@@ -6650,6 +7254,33 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "snaefells-descent": "snaefells-descent",
+    "The Snæfellsjökull Descent": "snaefells-descent",
+    "Descent into the Crater": "snaefells-descent",
+    "snaefellsjokull": "snaefellsjokull",
+    "Snæfellsjökull": "snaefellsjokull",
+    "Sneffels": "snaefellsjokull",
+    "Snæfell": "snaefellsjokull",
+    "stromboli-eruption-return": "stromboli-eruption-return",
+    "The Stromboli Eruption": "stromboli-eruption-return",
+    "Return by Volcano": "stromboli-eruption-return",
+    "stromboli": "stromboli",
+    "Stromboli": "stromboli",
+    "tabor-island-castaway": "tabor-island-castaway",
+    "The Tabor Island Castaway": "tabor-island-castaway",
+    "Discovery of Ayrton": "tabor-island-castaway",
+    "tampa-town": "tampa-town",
+    "Tampa Town": "tampa-town",
+    "Tampa": "tampa-town",
+    "the-forward": "the-forward",
+    "The Forward": "the-forward",
+    "Forward": "the-forward",
+    "the-moon": "the-moon",
+    "The Moon": "the-moon",
+    "Luna": "the-moon",
+    "the-terror": "the-terror",
+    "The Terror": "the-terror",
+    "Épouvante": "the-terror",
     "TN-ch01": "TN-ch01",
     "TN-ch02": "TN-ch02",
     "TN-ch03": "TN-ch03",
@@ -6672,6 +7303,8 @@
     "TN-ch20": "TN-ch20",
     "TOC": "TOC",
     "Table of Contents": "TOC",
+    "top": "top",
+    "Top": "top",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -6760,6 +7393,10 @@
     "UC-ch18": "UC-ch18",
     "UC-ch19": "UC-ch19",
     "VB": "VB",
+    "victoria-balloon": "victoria-balloon",
+    "Victoria (balloon)": "victoria-balloon",
+    "the Victoria": "victoria-balloon",
+    "Ferguson's balloon": "victoria-balloon",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -6800,6 +7437,6 @@
     "WC-ch22": "WC-ch22",
     "YEAR": "YEAR"
   },
-  "page_count": 970,
-  "generated": "2026-07-14T03:29:46Z"
+  "page_count": 1031,
+  "generated": "2026-07-14T08:24:36Z"
 }

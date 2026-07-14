@@ -145,7 +145,7 @@ tags: [chapter]
 
 [MW-002-067]"And in the midst of this noise, Mr. Smith, did you believe that you heard that most remarkable of all the phenomena, a sound like the flapping of great wings?"
 
-[MW-002-068]"I thought so, Mr. Strock; but what mighty bird could this be, which sped away after the flames had died down, and what wings could ever make such tremendous sounds. I therefore seriously question, if this must not have been a deception of my imagination. The Great Eyrie a refuge for unknown monsters of the sky! Would they not have been seen long since, soaring above their immense nest of stone? In short, there is in all this a mystery which has not yet been solved."
+[MW-002-068]"I thought so, Mr. Strock; but what mighty bird could this be, which sped away after the flames had died down, and what wings could ever make such tremendous sounds. I therefore seriously question, if this must not have been a deception of my imagination. [[great-eyrie|The Great Eyrie]] a refuge for unknown monsters of the sky! Would they not have been seen long since, soaring above their immense nest of stone? In short, there is in all this a mystery which has not yet been solved."
 
 [MW-002-069]"But we will solve it, Mr. Smith, if you will give me your aid."
 

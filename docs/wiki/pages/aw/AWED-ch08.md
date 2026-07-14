@@ -13,7 +13,7 @@ tags: [chapter]
 
 [AWED-008-001]IN WHICH PASSEPARTOUT TALKS RATHER MORE, PERHAPS, THAN IS PRUDENT
 
-[AWED-008-002]Fix soon rejoined Passepartout, who was lounging and looking about on the quay, as if he did not feel that he, at least, was obliged not to see anything.
+[AWED-008-002][[fix|Fix]] soon rejoined [[passepartout|Passepartout]], who was lounging and looking about on the quay, as if he did not feel that he, at least, was obliged not to see anything.
 
 [AWED-008-003]"Well, my friend," said the detective, coming up with him, "is your passport visaed?"
 
@@ -87,7 +87,7 @@ tags: [chapter]
 
 [AWED-008-038]"Why, no; I entered his service the very day we left London."
 
-[AWED-008-039]The effect of these replies upon the already suspicious and excited detective may be imagined. The hasty departure from London soon after the robbery; the large sum carried by Mr. Fogg; his eagerness to reach distant countries; the pretext of an eccentric and foolhardy bet--all confirmed Fix in his theory. He continued to pump poor Passepartout, and learned that he really knew little or nothing of his master, who lived a solitary existence in London, was said to be rich, though no one knew whence came his riches, and was mysterious and impenetrable in his affairs and habits. Fix felt sure that Phileas Fogg would not land at Suez, but was really going on to Bombay.
+[AWED-008-039]The effect of these replies upon the already suspicious and excited detective may be imagined. The hasty departure from London soon after the robbery; the large sum carried by Mr. Fogg; his eagerness to reach distant countries; the pretext of an eccentric and foolhardy bet--all confirmed Fix in his theory. He continued to pump poor Passepartout, and learned that he really knew little or nothing of his master, who lived a solitary existence in London, was said to be rich, though no one knew whence came his riches, and was mysterious and impenetrable in his affairs and habits. Fix felt sure that [[phileas-fogg|Phileas Fogg]] would not land at Suez, but was really going on to Bombay.
 
 [AWED-008-040]"Is Bombay far from here?" asked Passepartout.
 

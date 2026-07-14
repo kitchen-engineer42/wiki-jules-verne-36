@@ -11,7 +11,7 @@ tags: [chapter]
 ---
 # Five Weeks in a Balloon — CHAPTER THIRTY-THIRD
 
-[FWB-033-001]Conjectures.--Reestablishment of the Victoria's Equilibrium.--Dr. Ferguson's New Calculations.--Kennedy's Hunt.--A Complete Exploration of Lake Tchad.--Tangalia.--The Return.--Lari.
+[FWB-033-001]Conjectures.--Reestablishment of [[victoria-balloon|the Victoria]]'s Equilibrium.--Dr. Ferguson's New Calculations.--Kennedy's Hunt.--A Complete Exploration of Lake Tchad.--Tangalia.--The Return.--Lari.
 
 [FWB-033-002]On the morrow, the 13th of May, our travellers, for the first time, reconnoitred the part of the coast on which they had landed. It was a sort of island of solid ground in the midst of an immense marsh. Around this fragment of terra firma grew reeds as lofty as trees are in Europe, and stretching away out of sight.
 

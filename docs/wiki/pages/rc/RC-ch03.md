@@ -63,6 +63,6 @@ tags: [chapter]
 
 [RC-003-026]"What is the name of this singular personage?" asked secretary Phil Evans.
 
-[RC-003-027]"Robur," replied Uncle Prudent.
+[RC-003-027]"[[robur|Robur]]," replied Uncle Prudent.
 
 [RC-003-028]"Robur! Robur! Robur!" yelled the assembly. And the welcome accorded so quickly to the curious name was chiefly due to the Weldon Institute hoping to vent its exasperation on the head of him who bore it!

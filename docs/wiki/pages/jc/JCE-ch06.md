@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-006-001]EXCITING DISCUSSIONS ABOUT AN UNPARALLELED ENTERPRISE
 
-[JCE-006-002]At these words a cold shiver ran through me. Yet I controlled myself; I even resolved to put a good face upon it. Scientific arguments alone could have any weight with Professor Liedenbrock. Now there were good ones against the practicability of such a journey. Penetrate to the centre of the earth! What nonsense! But I kept my dialectic battery in reserve for a suitable opportunity, and I interested myself in the prospect of my dinner, which was not yet forthcoming.
+[JCE-006-002]At these words a cold shiver ran through me. Yet I controlled myself; I even resolved to put a good face upon it. Scientific arguments alone could have any weight with [[professor-lidenbrock|Professor Liedenbrock]]. Now there were good ones against the practicability of such a journey. Penetrate to the centre of the earth! What nonsense! But I kept my dialectic battery in reserve for a suitable opportunity, and I interested myself in the prospect of my dinner, which was not yet forthcoming.
 
 [JCE-006-003]It is no use to tell of the rage and imprecations of my uncle before the empty table. Explanations were given, Martha was set at liberty, ran off to the market, and did her part so well that in an hour afterwards my hunger was appeased, and I was able to return to the contemplation of the gravity of the situation.
 
@@ -21,7 +21,7 @@ tags: [chapter]
 
 [JCE-006-005]I obeyed; he sat at one end of his table, I at the other.
 
-[JCE-006-006]"Axel," said he very mildly; "you are a very ingenious young man, you have done me a splendid service, at a moment when, wearied out with the struggle, I was going to abandon the contest. Where should I have lost myself? None can tell. Never, my lad, shall I forget it; and you shall have your share in the glory to which your discovery will lead."
+[JCE-006-006]"[[axel|Axel]]," said he very mildly; "you are a very ingenious young man, you have done me a splendid service, at a moment when, wearied out with the struggle, I was going to abandon the contest. Where should I have lost myself? None can tell. Never, my lad, shall I forget it; and you shall have your share in the glory to which your discovery will lead."
 
 [JCE-006-007]"Oh, come!" thought I, "he is in a good way. Now is the time for discussing that same glory."
 
@@ -45,13 +45,13 @@ tags: [chapter]
 
 [JCE-006-017]"Speak, my boy, don't be afraid. You are quite at liberty to express your opinions. You are no longer my nephew only, but my colleague. Pray go on."
 
-[JCE-006-018]"Well, in the first place, I wish to ask what are this Jokul, this Sneffels, and this Scartaris, names which I have never heard before?"
+[JCE-006-018]"Well, in the first place, I wish to ask what are this Jokul, this [[snaefellsjokull|Sneffels]], and this Scartaris, names which I have never heard before?"
 
 [JCE-006-019]"Nothing easier. I received not long ago a map from my friend, Augustus Petermann, at Liepzig. Nothing could be more apropos. Take down the third atlas in the second shelf in the large bookcase, series Z, plate 4."
 
 [JCE-006-020]I rose, and with the help of such precise instructions could not fail to find the required atlas. My uncle opened it and said:
 
-[JCE-006-021]"Here is one of the best maps of Iceland, that of Handersen, and I believe this will solve the worst of our difficulties."
+[JCE-006-021]"Here is one of the best maps of [[iceland|Iceland]], that of Handersen, and I believe this will solve the worst of our difficulties."
 
 [JCE-006-022]I bent over the map.
 

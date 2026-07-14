@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-029-001]Arabian Tunnel
 
-[TTLU-029-002]THE SAME DAY, I reported to Conseil and Ned Land that part of the foregoing conversation directly concerning them. When I told them we would be lying in Mediterranean waters within two days, Conseil clapped his hands, but the Canadian shrugged his shoulders.
+[TTLU-029-002]THE SAME DAY, I reported to [[conseil|Conseil]] and [[ned-land|Ned Land]] that part of the foregoing conversation directly concerning them. When I told them we would be lying in Mediterranean waters within two days, Conseil clapped his hands, but the Canadian shrugged his shoulders.
 
 [TTLU-029-003]"An underwater tunnel!" he exclaimed. "A connection between two seas! Who ever heard of such malarkey!"
 
-[TTLU-029-004]"Ned my friend," Conseil replied, "had you ever heard of the Nautilus? No, yet here it is! So don't shrug your shoulders so blithely, and don't discount something with the feeble excuse that you've never heard of it."
+[TTLU-029-004]"Ned my friend," Conseil replied, "had you ever heard of the [[nautilus|Nautilus]]? No, yet here it is! So don't shrug your shoulders so blithely, and don't discount something with the feeble excuse that you've never heard of it."
 
 [TTLU-029-005]"We'll soon see!" Ned Land shot back, shaking his head. "After all, I'd like nothing better than to believe in your captain's little passageway, and may Heaven grant it really does take us to the Mediterranean."
 
@@ -76,7 +76,7 @@ tags: [chapter]
 
 [TTLU-029-032]His whole being was concentrated in this last word.
 
-[TTLU-029-033]Just then Captain Nemo appeared on the platform. He spotted the dugong. He understood the Canadian's frame of mind and addressed him directly:
+[TTLU-029-033]Just then [[captain-nemo|Captain Nemo]] appeared on the platform. He spotted the dugong. He understood the Canadian's frame of mind and addressed him directly:
 
 [TTLU-029-034]"If you held a harpoon, Mr. Land, wouldn't your hands be itching to put it to work?"
 

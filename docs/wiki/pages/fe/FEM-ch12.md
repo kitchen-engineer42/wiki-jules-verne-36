@@ -15,13 +15,13 @@ tags: [chapter]
 
 [FEM-012-002]The astronomical, mechanical, and topographical difficulties once removed, there remained the question of money. An enormous sum was necessary for the execution of the project. No private individual, no single state even, could have disposed of the necessary millions.
 
-[FEM-012-003]President Barbicane had resolved--although the enterprise was American--to make it a business of universal interest, and to ask every nation for its financial co-operation. It was the bounded right and duty of all the earth to interfere in the business of the satellite. The subscription opened at Baltimore, for this end extended thence to all the world--_urbi et orbi_.
+[FEM-012-003][[barbicane|President Barbicane]] had resolved--although the enterprise was American--to make it a business of universal interest, and to ask every nation for its financial co-operation. It was the bounded right and duty of all the earth to interfere in the business of the satellite. The subscription opened at [[baltimore|Baltimore]], for this end extended thence to all the world--_urbi et orbi_.
 
 [FEM-012-004]This subscription was destined to succeed beyond all hope; yet the money was to be given, not lent. The operation was purely disinterested, in the literal meaning of the word, and offered no chance of gain.
 
 [FEM-012-005]But the effect of Barbicane's communication had not stopped at the frontiers of the United States; it had crossed the Atlantic and Pacific, had invaded both Asia and Europe, both Africa and Oceania. The observatories of the Union were immediately put into communication with the observatories of foreign countries; some--those of Paris, St. Petersburg, the Cape, Berlin, Altona, Stockholm, Warsaw, Hamburg, Buda, Bologna, Malta, Lisbon, Benares, Madras, and Pekin--sent their compliments to the Gun Club; the others prudently awaited the result.
 
-[FEM-012-006]As to the Greenwich Observatory, seconded by the twenty-two astronomical establishments of Great Britain, it made short work of it; it boldly denied the possibility of success, and took up Captain Nicholl's theories. Whilst the different scientific societies promised to send deputies to Tampa Town, the Greenwich staff met and contemptuously dismissed the Barbicane proposition. This was pure English jealousy and nothing else.
+[FEM-012-006]As to the Greenwich Observatory, seconded by the twenty-two astronomical establishments of Great Britain, it made short work of it; it boldly denied the possibility of success, and took up Captain Nicholl's theories. Whilst the different scientific societies promised to send deputies to [[tampa-town|Tampa Town]], the Greenwich staff met and contemptuously dismissed the Barbicane proposition. This was pure English jealousy and nothing else.
 
 [FEM-012-007]Generally speaking, the effect upon the world of science was excellent, and from thence it passed to the masses, who, in general, were greatly interested in the question, a fact of great importance, seeing those masses were to be called upon to subscribe a considerable capital.
 
@@ -77,7 +77,7 @@ tags: [chapter]
 
 [FEM-012-033]On the 20th of October a contract was made with the Goldspring Manufactory, New York, which during the war had furnished Parrott with his best cast-iron guns.
 
-[FEM-012-034]It was stipulated between the contracting parties that the Goldspring Manufactory should pledge itself to send to Tampa Town, in South Florida, the necessary materials for the casting of the Columbiad.
+[FEM-012-034]It was stipulated between the contracting parties that the Goldspring Manufactory should pledge itself to send to Tampa Town, in South Florida, the necessary materials for the casting of the [[columbiad|Columbiad]].
 
 [FEM-012-035]This operation was to be terminated, at the latest, on the 15th of the next October, and the cannon delivered in good condition, under penalty of 100 dollars a day forfeit until the moon should again present herself under the same conditions--that is to say, during eighteen years and eleven days.
 

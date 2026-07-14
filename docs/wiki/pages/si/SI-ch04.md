@@ -15,7 +15,7 @@ tags: [chapter]
 
 [SI-004-002]"She has blown up!" cried Herbert.
 
-[SI-004-003]"Yes! blown up, just as if Ayrton had set fire to the powder!" returned Pencroft, throwing himself into the lift together with Neb and the lad.
+[SI-004-003]"Yes! blown up, just as if Ayrton had set fire to the powder!" returned Pencroft, throwing himself into [[granite-house-lift|the lift]] together with Neb and the lad.
 
 [SI-004-004]"But what has happened?" asked Gideon Spilett, quite stunned by this unexpected catastrophe.
 
@@ -25,7 +25,7 @@ tags: [chapter]
 
 [SI-004-007]"Later! later! Come, Spilett. The main point is that these pirates have been exterminated!"
 
-[SI-004-008]And Cyrus Harding, hurrying away the reporter and Ayrton, joined Pencroft, Neb, and Herbert on the beach.
+[SI-004-008]And [[cyrus-harding|Cyrus Harding]], hurrying away the reporter and Ayrton, joined Pencroft, Neb, and Herbert on the beach.
 
 [SI-004-009]Nothing could be seen of the brig, not even her masts. After having been raised by the water-spout, she had fallen on her side, and had sunk in that position, doubtless in consequence of some enormous leak. But as in that place the channel was not more than twenty feet in depth, it was certain that the sides of the submerged brig would reappear at low-water.
 
@@ -65,7 +65,7 @@ tags: [chapter]
 
 [SI-004-027]When their treasures had been safely conveyed on shore, Harding and his companions agreed to devote some minutes to breakfast. They were almost famished: fortunately, the larder was not far off, and Neb was noted for being an expeditious cook. They breakfasted, therefore, near the Chimneys, and during their repast, as may be supposed, nothing was talked of but the unexpected event which had so miraculously saved the colony.
 
-[SI-004-028]"Miraculous is the word," repeated Pencroft, "for it must be acknowledged that those rascals blew up just at the right moment! Granite House was beginning to be uncomfortable as a habitation!"
+[SI-004-028]"Miraculous is the word," repeated Pencroft, "for it must be acknowledged that those rascals blew up just at the right moment! [[granite-house|Granite House]] was beginning to be uncomfortable as a habitation!"
 
 [SI-004-029]"And can you guess, Pencroft," asked the reporter, "how it happened, or what can have occasioned the explosion?"
 
@@ -131,7 +131,7 @@ tags: [chapter]
 
 [SI-004-060]They then busied themselves in placing all this cargo in safety. The water would not return for several hours, and these hours must be employed in the most profitable way. Ayrton and Pencroft had, at the entrance made in the hull, discovered tackle, which would serve to hoist up the barrels and chests. The boat received them and transported them to the shore. They took the articles as they came, intending to sort them afterwards.
 
-[SI-004-061]At any rate, the settlers saw at once, with extreme satisfaction, that the brig possessed a very varied cargo--an assortment of all sorts of articles, utensils, manufactured goods, and tools--such as the ships which make the great coasting-trade of Polynesia are usually laden with. It was probable that they would find a little of everything, and they agreed that it was exactly what was necessary for the colony of Lincoln Island.
+[SI-004-061]At any rate, the settlers saw at once, with extreme satisfaction, that the brig possessed a very varied cargo--an assortment of all sorts of articles, utensils, manufactured goods, and tools--such as the ships which make the great coasting-trade of Polynesia are usually laden with. It was probable that they would find a little of everything, and they agreed that it was exactly what was necessary for the colony of [[lincoln-island|Lincoln Island]].
 
 [SI-004-062]However--and Cyrus Harding observed it in silent astonishment--not only, as has been said, had the hull of the brig enormously suffered from the shock, whatever it was, that had occasioned the catastrophe, but the interior arrangements had been destroyed, especially towards the bows. Partitions and staunchions were smashed, as if some tremendous shell had burst in the interior of the brig. The colonists could easily go fore and aft, after having removed the cases as they were extricated. They were not heavy bales, which would have been difficult to remove, but simple packages, of which the stowage, besides, was no longer recognisable.
 
@@ -161,7 +161,7 @@ tags: [chapter]
 
 [SI-004-075]They would see later what plan it would be best to follow; but in the meantime it was necessary to mount guard over cases and packages heaped up near the Chimneys, and thus the settlers employed themselves in turn during the night.
 
-[SI-004-076]The morning came, however, without the convicts having attempted any attack. Master Jup and Top, on guard at the foot of Granite House, would have quickly given the alarm. The three following days--the 19th, 20th, and 21st of October--were employed in saving everything of value, or of any use whatever, either from the cargo or rigging of the brig. At low tide they overhauled the hold--at high tide they stowed away the rescued articles. A great part of the copper sheathing had been torn from the hull, which every day sank lower. But before the sand had swallowed the heavy things which had fallen through the bottom, Ayrton and Pencroft, diving to the bed of the channel, recovered the chains and anchors of the brig, the iron of her ballast, and even four guns, which, floated by means of empty casks, were brought to shore.
+[SI-004-076]The morning came, however, without the convicts having attempted any attack. Master Jup and [[top|Top]], on guard at the foot of Granite House, would have quickly given the alarm. The three following days--the 19th, 20th, and 21st of October--were employed in saving everything of value, or of any use whatever, either from the cargo or rigging of the brig. At low tide they overhauled the hold--at high tide they stowed away the rescued articles. A great part of the copper sheathing had been torn from the hull, which every day sank lower. But before the sand had swallowed the heavy things which had fallen through the bottom, Ayrton and Pencroft, diving to the bed of the channel, recovered the chains and anchors of the brig, the iron of her ballast, and even four guns, which, floated by means of empty casks, were brought to shore.
 
 [SI-004-077]It may be seen that the arsenal of the colony had gained by the wreck, as well as the store-rooms of Granite House. Pencroft, always enthusiastic in his projects, already spoke of constructing a battery to command the channel and the mouth of the river. With four guns, he engaged to prevent any fleet, "however powerful it might be," from venturing into the waters of Lincoln Island!
 

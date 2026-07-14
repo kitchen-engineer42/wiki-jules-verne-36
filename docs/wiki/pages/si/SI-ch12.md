@@ -15,17 +15,17 @@ tags: [chapter]
 
 [SI-012-002]The next day, the 18th of February, was devoted to the exploration of all that wooded region forming the shore from Reptile End to Falls River. The colonists were able to search this forest thoroughly, for, as it was comprised between the two shores of the Serpentine Peninsula, it was only from three to four miles in breadth. The trees, both by their height and their thick foliage, bore witness to the vegetative power of the soil, more astonishing here than in any other part of the island. One might have said that a corner from the virgin forests of America or Africa had been transported into this temperate zone. This led them to conclude that the superb vegetation found a heat in this soil, damp in its upper layer, but warmed in the interior by volcanic fires, which could not belong to a temperate climate. The most frequently-occurring trees were kauries and eucalypti of gigantic dimensions.
 
-[SI-012-003]But the colonists' object was not simply to admire the magnificent vegetation. They knew already that in this respect Lincoln Island would have been worthy to take the first rank in the Canary group, to which the first name given was that of the Happy Isles. Now, alas! their island no longer belonged to them entirely; others had taken possession of it, miscreants polluted its shores, and they must be destroyed to the last man.
+[SI-012-003]But the colonists' object was not simply to admire the magnificent vegetation. They knew already that in this respect [[lincoln-island|Lincoln Island]] would have been worthy to take the first rank in the Canary group, to which the first name given was that of the Happy Isles. Now, alas! their island no longer belonged to them entirely; others had taken possession of it, miscreants polluted its shores, and they must be destroyed to the last man.
 
 [SI-012-004]No traces were found on the western coast, although they were carefully sought for. No more footprints, no more broken branches, no more deserted camps.
 
-[SI-012-005]"This does not surprise me," said Cyrus Harding to his companions. "The convicts first landed on the island in the neighbourhood of Flotsam Point, and they immediately plunged into the Far West forests, after crossing Tadorn Marsh. They then followed almost the same route that we took on leaving Granite House. This explains the traces we found in the wood. But, arriving on the shore, the convicts saw at once that they would discover no suitable retreat there, and it was then that, going northwards again, they came upon the corral."
+[SI-012-005]"This does not surprise me," said [[cyrus-harding|Cyrus Harding]] to his companions. "The convicts first landed on the island in the neighbourhood of Flotsam Point, and they immediately plunged into the Far West forests, after crossing Tadorn Marsh. They then followed almost the same route that we took on leaving [[granite-house|Granite House]]. This explains the traces we found in the wood. But, arriving on the shore, the convicts saw at once that they would discover no suitable retreat there, and it was then that, going northwards again, they came upon the corral."
 
 [SI-012-006]"Where they have perhaps returned," said Pencroft.
 
 [SI-012-007]"I do not think so," answered the engineer, "for they would naturally suppose that our researches would be in that direction. The corral is only a store-house to them, and not a definitive encampment."
 
-[SI-012-008]"I am of Cyrus' opinion," said the reporter, "and I think that it is among the spurs of Mount Franklin that the convicts will have made their lair."
+[SI-012-008]"I am of Cyrus' opinion," said the reporter, "and I think that it is among the spurs of [[mount-franklin|Mount Franklin]] that the convicts will have made their lair."
 
 [SI-012-009]"Then, captain, straight to the corral!" cried Pencroft. "We must finish them off, and till now we have only lost time!"
 
@@ -43,7 +43,7 @@ tags: [chapter]
 
 [SI-012-016]This plan was unanimously approved by the colonists, for they were impatient to regain entire possession of their island.
 
-[SI-012-017]They made their way along the narrow valley separating two of the largest spurs of Mount Franklin. The trees, crowded on the river's bank, became rare on the upper slopes of the mountain. The ground was hilly and rough, very suitable for ambushes, and over which they did not venture without extreme precaution. Top and Jup skirmished on the flanks, springing right and left through the thick brushwood, and emulating each other in intelligence and activity. But nothing showed that the banks of the stream had been recently frequented--nothing announced either the presence or the proximity of the convicts. Towards five in the evening the cart stopped nearly 600 feet from the palisade. A semicircular screen of trees still hid it.
+[SI-012-017]They made their way along the narrow valley separating two of the largest spurs of Mount Franklin. The trees, crowded on the river's bank, became rare on the upper slopes of the mountain. The ground was hilly and rough, very suitable for ambushes, and over which they did not venture without extreme precaution. [[top|Top]] and Jup skirmished on the flanks, springing right and left through the thick brushwood, and emulating each other in intelligence and activity. But nothing showed that the banks of the stream had been recently frequented--nothing announced either the presence or the proximity of the convicts. Towards five in the evening the cart stopped nearly 600 feet from the palisade. A semicircular screen of trees still hid it.
 
 [SI-012-018]It was necessary to reconnoitre the corral, in order to ascertain if it was occupied. To go there openly, in broad daylight, when the convicts were probably in ambush, would be to expose themselves, as poor Herbert had done, to the fire-arms of the ruffians. It was better, then, to wait until night came on.
 

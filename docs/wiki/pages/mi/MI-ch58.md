@@ -18,9 +18,9 @@ tags: [chapter]
 
 [MI-058-003]"Sir, I have no name."
 
-[MI-058-004]"Nevertheless, I know you!" replied Cyrus Harding.
+[MI-058-004]"Nevertheless, I know you!" replied [[cyrus-harding|Cyrus Harding]].
 
-[MI-058-005]Captain Nemo fixed his penetrating gaze upon the engineer, as though he were about to annihilate him.
+[MI-058-005][[captain-nemo|Captain Nemo]] fixed his penetrating gaze upon the engineer, as though he were about to annihilate him.
 
 [MI-058-006]Then, falling back amid the pillows of the divan,--
 
@@ -40,7 +40,7 @@ tags: [chapter]
 
 [MI-058-014]"I do," answered Cyrus Harding, "and also that of this wonderful submarine vessel--"
 
-[MI-058-015]"The 'Nautilus'?" said the captain, with a faint smile.
+[MI-058-015]"The '[[nautilus|Nautilus]]'?" said the captain, with a faint smile.
 
 [MI-058-016]"The 'Nautilus.'"
 
@@ -70,7 +70,7 @@ tags: [chapter]
 
 [MI-058-029]"Well, sir?"
 
-[MI-058-030]"It is not for me to judge you, Captain Nemo," answered Cyrus Harding, "at any rate as regards your past life. I am, with the rest of the world, ignorant of the motives which induced you to adopt this strange mode of existence, and I cannot judge of effects without knowing their causes; but what I do know is, that a beneficent hand has constantly protected us since our arrival on Lincoln Island, that we all owe our lives to a good, generous, and powerful being, and that this being so powerful, good and generous, Captain Nemo, is yourself!"
+[MI-058-030]"It is not for me to judge you, Captain Nemo," answered Cyrus Harding, "at any rate as regards your past life. I am, with the rest of the world, ignorant of the motives which induced you to adopt this strange mode of existence, and I cannot judge of effects without knowing their causes; but what I do know is, that a beneficent hand has constantly protected us since our arrival on [[lincoln-island|Lincoln Island]], that we all owe our lives to a good, generous, and powerful being, and that this being so powerful, good and generous, Captain Nemo, is yourself!"
 
 [MI-058-031]"It is I," answered the captain simply.
 
@@ -138,9 +138,9 @@ tags: [chapter]
 
 [MI-058-063]His first impulse was to fly from the vicinity of the five castaways; but his harbor refuge was closed, for in consequence of an elevation of the basalt, produced by the influence of volcanic action, he could no longer pass through the entrance of the vault. Though there was sufficient depth of water to allow a light craft to pass the bar, there was not enough for the "Nautilus," whose draught of water was considerable.
 
-[MI-058-064]Captain Nemo was compelled, therefore, to remain. He observed these men thrown without resources upon a desert island, but had no wish to be himself discovered by them. By degrees he became interested in their efforts when he saw them honest, energetic, and bound to each other by the ties of friendship. As if despite his wishes, he penetrated all the secrets of their existence. By means of the diving dress he could easily reach the well in the interior of Granite House, and climbing by the projections of rock to its upper orifice he heard the colonists as they recounted the past, and studied the present and future. He learned from them the tremendous conflict of America with America itself, for the abolition of slavery. Yes, these men were worthy to reconcile Captain Nemo with that humanity which they represented so nobly in the island.
+[MI-058-064]Captain Nemo was compelled, therefore, to remain. He observed these men thrown without resources upon a desert island, but had no wish to be himself discovered by them. By degrees he became interested in their efforts when he saw them honest, energetic, and bound to each other by the ties of friendship. As if despite his wishes, he penetrated all the secrets of their existence. By means of the diving dress he could easily reach the well in the interior of [[granite-house|Granite House]], and climbing by the projections of rock to its upper orifice he heard the colonists as they recounted the past, and studied the present and future. He learned from them the tremendous conflict of America with America itself, for the abolition of slavery. Yes, these men were worthy to reconcile Captain Nemo with that humanity which they represented so nobly in the island.
 
-[MI-058-065]Captain Nemo had saved Cyrus Harding. It was he also who had brought back the dog to the Chimneys, who rescued Top from the waters of the lake, who caused to fall at Flotsam Point the case containing so many things useful to the colonists, who conveyed the canoe back into the stream of the Mercy, who cast the cord from the top of Granite House at the time of the attack by the baboons, who made known the presence of Ayrton upon Tabor Island, by means of the document enclosed in the bottle, who caused the explosion of the brig by the shock of a torpedo placed at the bottom of the canal, who saved Herbert from certain death by bringing the sulphate of quinine; and finally, it was he who had killed the convicts with the electric balls, of which he possessed the secret, and which he employed in the chase of submarine creatures. Thus were explained so many apparently supernatural occurrences, and which all proved the generosity and power of the captain.
+[MI-058-065]Captain Nemo had saved Cyrus Harding. It was he also who had brought back the dog to the Chimneys, who rescued [[top|Top]] from the waters of the lake, who caused to fall at Flotsam Point the case containing so many things useful to the colonists, who conveyed the canoe back into the stream of the Mercy, who cast the cord from the top of Granite House at the time of the attack by the baboons, who made known the presence of Ayrton upon Tabor Island, by means of the document enclosed in the bottle, who caused the explosion of the brig by the shock of a torpedo placed at the bottom of the canal, who saved Herbert from certain death by bringing the sulphate of quinine; and finally, it was he who had killed the convicts with the electric balls, of which he possessed the secret, and which he employed in the chase of submarine creatures. Thus were explained so many apparently supernatural occurrences, and which all proved the generosity and power of the captain.
 
 [MI-058-066]Nevertheless, this noble misanthrope longed to benefit his proteges still further. There yet remained much useful advice to give them, and, his heart being softened by the approach of death, he invited, as we are aware, the colonists of Granite House to visit the "Nautilus," by means of a wire which connected it with the corral. Possibly he would not have done this had he been aware that Cyrus Harding was sufficiently acquainted with his history to address him by the name of Nemo.
 

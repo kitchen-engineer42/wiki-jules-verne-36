@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-030-001]The Greek Islands
 
-[TTLU-030-002]AT SUNRISE the next morning, February 12, the Nautilus rose to the surface of the waves.
+[TTLU-030-002]AT SUNRISE the next morning, February 12, the [[nautilus|Nautilus]] rose to the surface of the waves.
 
 [TTLU-030-003]I rushed onto the platform. The hazy silhouette of Pelusium was outlined three miles to the south. A torrent had carried us from one sea to the other. But although that tunnel was easy to descend, going back up must have been impossible.
 
-[TTLU-030-004]Near seven o'clock Ned and Conseil joined me. Those two inseparable companions had slept serenely, utterly unaware of the Nautilus's feat.
+[TTLU-030-004]Near seven o'clock Ned and [[conseil|Conseil]] joined me. Those two inseparable companions had slept serenely, utterly unaware of the Nautilus's feat.
 
 [TTLU-030-005]"Well, Mr. Naturalist," the Canadian asked in a gently mocking tone, "and how about that Mediterranean?"
 
@@ -36,7 +36,7 @@ tags: [chapter]
 
 [TTLU-030-012]"But if master says so," Conseil told him, "then so be it."
 
-[TTLU-030-013]"What's more, Ned," I said, "Captain Nemo himself did the honors in his tunnel, and I stood beside him in the pilothouse while he steered the Nautilus through that narrow passageway."
+[TTLU-030-013]"What's more, Ned," I said, "[[captain-nemo|Captain Nemo]] himself did the honors in his tunnel, and I stood beside him in the pilothouse while he steered the Nautilus through that narrow passageway."
 
 [TTLU-030-014]"You hear, Ned?" Conseil said.
 
@@ -76,7 +76,7 @@ tags: [chapter]
 
 [TTLU-030-032]"That we'll encounter advantageous conditions for escaping just as readily in six months as now."
 
-[TTLU-030-033]"Great Scott!" Ned Land put in. "And where, if you please, will we be in six months, Mr. Naturalist?"
+[TTLU-030-033]"Great Scott!" [[ned-land|Ned Land]] put in. "And where, if you please, will we be in six months, Mr. Naturalist?"
 
 [TTLU-030-034]"Perhaps here, perhaps in China. You know how quickly the Nautilus moves. It crosses oceans like swallows cross the air or express trains continents. It doesn't fear heavily traveled seas. Who can say it won't hug the coasts of France, England, or America, where an escape attempt could be carried out just as effectively as here."
 

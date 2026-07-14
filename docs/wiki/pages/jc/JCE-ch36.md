@@ -49,7 +49,7 @@ tags: [chapter]
 
 [JCE-036-019]"But, my dear uncle, do let me ask you one question."
 
-[JCE-036-020]"Of course, Axel."
+[JCE-036-020]"Of course, [[axel|Axel]]."
 
 [JCE-036-021]"How about returning?"
 
@@ -115,13 +115,13 @@ tags: [chapter]
 
 [JCE-036-052]"You mean Axel Island. Don't decline the honour of having given your name to the first island ever discovered in the central parts of the globe."
 
-[JCE-036-053]"Well," said I, "let it be Axel Island. Then we had cleared two hundred and seventy leagues of sea, and we were six hundred leagues from Iceland."
+[JCE-036-053]"Well," said I, "let it be Axel Island. Then we had cleared two hundred and seventy leagues of sea, and we were six hundred leagues from [[iceland|Iceland]]."
 
 [JCE-036-054]"Very well," answered my uncle; "let us start from that point and count four days' storm, during which our rate cannot have been less than eighty leagues in the twenty-four hours."
 
 [JCE-036-055]"That is right; and this would make three hundred leagues more."
 
-[JCE-036-056]"Yes, and the Liedenbrock sea would be six hundred leagues from shore to shore. Surely, Axel, it may vie in size with the Mediterranean itself."
+[JCE-036-056]"Yes, and the [[professor-lidenbrock|Liedenbrock]] sea would be six hundred leagues from shore to shore. Surely, Axel, it may vie in size with the Mediterranean itself."
 
 [JCE-036-057]"Especially," I replied, "if it happens that we have only crossed it in its narrowest part. And it is a curious circumstance," I added, "that if my computations are right, and we are nine hundred leagues from Rejkiavik, we have now the Mediterranean above our head."
 

@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FEM-001-001]THE GUN CLUB.
 
-[FEM-001-002]During the Federal war in the United States a new and very influential club was established in the city of Baltimore, Maryland. It is well known with what energy the military instinct was developed amongst that nation of shipowners, shopkeepers, and mechanics. Mere tradesmen jumped their counters to become extempore captains, colonels, and generals without having passed the Military School at West Point; they soon rivalled their colleagues of the old continent, and, like them, gained victories by dint of lavishing bullets, millions, and men.
+[FEM-001-002]During the Federal war in the United States a new and very influential club was established in the city of [[baltimore|Baltimore]], Maryland. It is well known with what energy the military instinct was developed amongst that nation of shipowners, shopkeepers, and mechanics. Mere tradesmen jumped their counters to become extempore captains, colonels, and generals without having passed the Military School at West Point; they soon rivalled their colleagues of the old continent, and, like them, gained victories by dint of lavishing bullets, millions, and men.
 
 [FEM-001-003]But where Americans singularly surpassed Europeans was in the science of ballistics, or of throwing massive weapons by the use of an engine; not that their arms attained a higher degree of perfection, but they were of unusual dimensions, and consequently of hitherto unknown ranges. The English, French, and Prussians have nothing to learn about flank, running, enfilading, or point-blank firing; but their cannon, howitzers, and mortars are mere pocket-pistols compared with the formidable engines of American artillery.
 

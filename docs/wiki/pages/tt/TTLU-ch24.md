@@ -18,15 +18,15 @@ tags: [chapter]
 
 [TTLU-024-003]I then considered leaving my stateroom. Was I free or still a prisoner? Perfectly free. I opened my door, headed down the gangways, and climbed the central companionway. Hatches that had been closed the day before were now open. I arrived on the platform.
 
-[TTLU-024-004]Ned Land and Conseil were there waiting for me. I questioned them. They knew nothing. Lost in a heavy sleep of which they had no memory, they were quite startled to be back in their cabin.
+[TTLU-024-004][[ned-land|Ned Land]] and [[conseil|Conseil]] were there waiting for me. I questioned them. They knew nothing. Lost in a heavy sleep of which they had no memory, they were quite startled to be back in their cabin.
 
-[TTLU-024-005]As for the Nautilus, it seemed as tranquil and mysterious as ever. It was cruising on the surface of the waves at a moderate speed. Nothing seemed to have changed on board.
+[TTLU-024-005]As for the [[nautilus|Nautilus]], it seemed as tranquil and mysterious as ever. It was cruising on the surface of the waves at a moderate speed. Nothing seemed to have changed on board.
 
 [TTLU-024-006]Ned Land observed the sea with his penetrating eyes. It was deserted. The Canadian sighted nothing new on the horizon, neither sail nor shore. A breeze was blowing noisily from the west, and disheveled by the wind, long billows made the submersible roll very noticeably.
 
 [TTLU-024-007]After renewing its air, the Nautilus stayed at an average depth of fifteen meters, enabling it to return quickly to the surface of the waves. And, contrary to custom, it executed such a maneuver several times during that day of January 19. The chief officer would then climb onto the platform, and his usual phrase would ring through the ship's interior.
 
-[TTLU-024-008]As for Captain Nemo, he didn't appear. Of the other men on board, I saw only my emotionless steward, who served me with his usual mute efficiency.
+[TTLU-024-008]As for [[captain-nemo|Captain Nemo]], he didn't appear. Of the other men on board, I saw only my emotionless steward, who served me with his usual mute efficiency.
 
 [TTLU-024-009]Near two o'clock I was busy organizing my notes in the lounge, when the captain opened the door and appeared. I bowed to him. He gave me an almost imperceptible bow in return, without saying a word to me. I resumed my work, hoping he might give me some explanation of the previous afternoon's events. He did nothing of the sort. I stared at him. His face looked exhausted; his reddened eyes hadn't been refreshed by sleep; his facial features expressed profound sadness, real chagrin. He walked up and down, sat and stood, picked up a book at random, discarded it immediately, consulted his instruments without taking his customary notes, and seemed unable to rest easy for an instant.
 

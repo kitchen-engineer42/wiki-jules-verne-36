@@ -77,7 +77,7 @@ tags: [chapter]
 
 [MW-015-033]There was one very natural hypothesis which deserved to be considered, if not actually accepted. What more natural harbor could there be for the "Terror" than the Great Eyrie? Was it too difficult a flight for our aviator to reach the summit? Could he not soar anywhere that the vultures and the eagles could? Did not that inaccessible Eyrie offer to the Master of the World just such a retreat as our police had been unable to discover, one in which he might well believe himself safe from all attacks? Moreover, the distance between Niagara Falls and this part of the Blueridge Mountains, did not exceed four hundred and fifty miles, a flight which would have been easy for the "Terror."
 
-[MW-015-034]Yes, this idea more and more took possession of me. It crowded out a hundred other unsupported suggestions. Did not this explain the nature of the bond which existed between the Great Eyrie and the letter which I had received with our commander's initials? And the threats against me if I renewed the ascent! And the espionage to which I had been subjected! And all the phenomena of which the Great Eyrie had been the theater, were they not to be attributed to this same cause--though what lay behind the phenomena was not yet clear? Yes, the Great Eyrie! The Great Eyrie!
+[MW-015-034]Yes, this idea more and more took possession of me. It crowded out a hundred other unsupported suggestions. Did not this explain the nature of the bond which existed between the Great Eyrie and the letter which I had received with our commander's initials? And the threats against me if I renewed the ascent! And the espionage to which I had been subjected! And all the phenomena of which the Great Eyrie had been the theater, were they not to be attributed to this same cause--though what lay behind the phenomena was not yet clear? Yes, the Great Eyrie! [[great-eyrie|The Great Eyrie]]!
 
 [MW-015-035]But since it had been impossible for me to penetrate here, would it not be equally impossible for me to get out again, except upon the "Terror?" Ah, if the mists would but lift! Perhaps I should recognize the place. What was as yet a mere hypothesis, would become a starting point to act upon.
 
@@ -115,4 +115,4 @@ tags: [chapter]
 
 [MW-015-052]"You!" I reiterated, stupefied with amazement.
 
-[MW-015-053]"I," responded he, drawing himself up in all his pride, "I, Robur--Robur, the Conqueror!"
+[MW-015-053]"I," responded he, drawing himself up in all his pride, "I, [[robur|Robur]]--Robur, the Conqueror!"

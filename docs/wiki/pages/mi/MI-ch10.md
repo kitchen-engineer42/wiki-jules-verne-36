@@ -30,7 +30,7 @@ tags: [chapter]
 
 [MI-010-009]And he showed the apparatus which served for a burning-glass. It was simply two glasses which he had taken from his own and the reporter's watches. Having filled them with water and rendered their edges adhesive by means of a little clay, he thus fabricated a regular burning-glass, which, concentrating the solar rays on some very dry moss, soon caused it to blaze.
 
-[MI-010-010]The sailor considered the apparatus; then he gazed at the engineer without saying a word, only a look plainly expressed his opinion that if Cyrus Harding was not a magician, he was certainly no ordinary man. At last speech returned to him, and he cried,--
+[MI-010-010]The sailor considered the apparatus; then he gazed at the engineer without saying a word, only a look plainly expressed his opinion that if [[cyrus-harding|Cyrus Harding]] was not a magician, he was certainly no ordinary man. At last speech returned to him, and he cried,--
 
 [MI-010-011]"Note that, Mr. Spilett, note that down on your paper!"
 
@@ -48,7 +48,7 @@ tags: [chapter]
 
 [MI-010-018]"To-morrow," he repeated, "we shall know what we have to depend upon, and we will act accordingly."
 
-[MI-010-019]The meal ended, fresh armfuls of wood were thrown on the fire, and the inhabitants of the Chimneys, including the faithful Top, were soon buried in a deep sleep.
+[MI-010-019]The meal ended, fresh armfuls of wood were thrown on the fire, and the inhabitants of the Chimneys, including the faithful [[top|Top]], were soon buried in a deep sleep.
 
 [MI-010-020]No incident disturbed this peaceful night, and the next day, the 29th of March, fresh and active they awoke, ready to undertake the excursion which must determine their fate.
 

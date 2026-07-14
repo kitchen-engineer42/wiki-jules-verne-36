@@ -15,7 +15,7 @@ tags: [chapter]
 
 [JCE-024-002]By the next day we had forgotten all our sufferings. At first, I was wondering that I was no longer thirsty, and I was for asking for the reason. The answer came in the murmuring of the stream at my feet.
 
-[JCE-024-003]We breakfasted, and drank of this excellent chalybeate water. I felt wonderfully stronger, and quite decided upon pushing on. Why should not so firmly convinced a man as my uncle, furnished with so industrious a guide as Hans, and accompanied by so determined a nephew as myself, go on to final success? Such were the magnificent plans which struggled for mastery within me. If it had been proposed to me to return to the summit of Snæfell, I should have indignantly declined.
+[JCE-024-003]We breakfasted, and drank of this excellent chalybeate water. I felt wonderfully stronger, and quite decided upon pushing on. Why should not so firmly convinced a man as my uncle, furnished with so industrious a guide as Hans, and accompanied by so determined a nephew as myself, go on to final success? Such were the magnificent plans which struggled for mastery within me. If it had been proposed to me to return to the summit of [[snaefellsjokull|Snæfell]], I should have indignantly declined.
 
 [JCE-024-004]Most fortunately, all we had to do was to descend.
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [JCE-024-021]On Wednesday, the 15th, we were seven leagues underground, and had travelled fifty leagues away from Snæfell. Although we were tired, our health was perfect, and the medicine chest had not yet had occasion to be opened.
 
-[JCE-024-022]My uncle noted every hour the indications of the compass, the chronometer, the aneroid, and the thermometer the very same which he has published in his scientific report of our journey. It was therefore not difficult to know exactly our whereabouts. When he told me that we had gone fifty leagues horizontally, I could not repress an exclamation of astonishment, at the thought that we had now long left Iceland behind us.
+[JCE-024-022]My uncle noted every hour the indications of the compass, the chronometer, the aneroid, and the thermometer the very same which he has published in his scientific report of our journey. It was therefore not difficult to know exactly our whereabouts. When he told me that we had gone fifty leagues horizontally, I could not repress an exclamation of astonishment, at the thought that we had now long left [[iceland|Iceland]] behind us.
 
 [JCE-024-023]"What is the matter?" he cried.
 
@@ -67,7 +67,7 @@ tags: [chapter]
 
 [JCE-024-028]"Can it be?" I said. "Is the ocean spread above our heads?"
 
-[JCE-024-029]"Of course, Axel. What can be more natural? At Newcastle are there not coal mines extending far under the sea?"
+[JCE-024-029]"Of course, [[axel|Axel]]. What can be more natural? At Newcastle are there not coal mines extending far under the sea?"
 
 [JCE-024-030]It was all very well for the Professor to call this so simple, but I could not feel quite easy at the thought that the boundless ocean was rolling over my head. And yet it really mattered very little whether it was the plains and mountains that covered our heads, or the Atlantic waves, as long as we were arched over by solid granite. And, besides, I was getting used to this idea; for the tunnel, now running straight, now winding as capriciously in its inclines as in its turnings, but constantly preserving its south-easterly direction, and always running deeper, was gradually carrying us to very great depths indeed.
 

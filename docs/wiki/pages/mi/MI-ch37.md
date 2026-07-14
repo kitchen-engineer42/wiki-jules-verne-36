@@ -14,7 +14,7 @@ tags: [chapter]
 
 [MI-037-001]The next day, the 20th of October, at seven o'clock in the morning, after a voyage of four days, the "Bonadventure" gently glided up to the beach at the mouth of the Mercy.
 
-[MI-037-002]Cyrus Harding and Neb, who had become very uneasy at the bad weather and the prolonged absence of their companions, had climbed at daybreak to the plateau of Prospect Heights, and they had at last caught sight of the vessel which had been so long in returning.
+[MI-037-002][[cyrus-harding|Cyrus Harding]] and Neb, who had become very uneasy at the bad weather and the prolonged absence of their companions, had climbed at daybreak to the plateau of Prospect Heights, and they had at last caught sight of the vessel which had been so long in returning.
 
 [MI-037-003]"God be praised! there they are!" exclaimed Cyrus Harding.
 
@@ -82,7 +82,7 @@ tags: [chapter]
 
 [MI-037-035]Cyrus Harding had attentively observed him. To judge by his appearance this miserable being had no longer anything human about him, and yet Harding, as had the reporter already, observed in his look an indefinable trace of intelligence.
 
-[MI-037-036]It was decided that the castaway, or rather the stranger as he was thenceforth termed by his companions, should live in one of the rooms of Granite House, from which, however, he could not escape. He was led there without difficulty, and with careful attention, it might, perhaps, be hoped that some day he would be a companion to the settlers in Lincoln Island.
+[MI-037-036]It was decided that the castaway, or rather the stranger as he was thenceforth termed by his companions, should live in one of the rooms of [[granite-house|Granite House]], from which, however, he could not escape. He was led there without difficulty, and with careful attention, it might, perhaps, be hoped that some day he would be a companion to the settlers in [[lincoln-island|Lincoln Island]].
 
 [MI-037-037]Cyrus Harding, during breakfast, which Neb had hastened to prepare, as the reporter, Herbert, and Pencroft were dying of hunger, heard in detail all the incidents which had marked the voyage of exploration to the islet. He agreed with his friends on this point, that the stranger must be either English or American, the name Britannia leading them to suppose this, and, besides, through the bushy beard, and under the shaggy, matted hair, the engineer thought he could recognize the characteristic features of the Anglo-Saxon.
 
@@ -100,7 +100,7 @@ tags: [chapter]
 
 [MI-037-044]The capture of pigs, made on the islet, was looked upon as being very profitable to Lincoln Island, and the animals were led to the sty, where they soon became at home.
 
-[MI-037-045]The two barrels, containing the powder and shot, as well as the box of caps, were very welcome. It was agreed to establish a small powder-magazine, either outside Granite House or in the Upper Cavern, where there would be no fear of explosion. However, the use of pyroxyle was to be continued, for this substance giving excellent results, there was no reason for substituting ordinary powder.
+[MI-037-045]The two barrels, containing the powder and shot, as well as the box of caps, were very welcome. It was agreed to establish a small powder-magazine, either outside Granite House or in the Upper Cavern, where there would be no fear of explosion. However, the use of [[gun-cotton|pyroxyle]] was to be continued, for this substance giving excellent results, there was no reason for substituting ordinary powder.
 
 [MI-037-046]When the unloading of the vessel was finished,--
 
@@ -164,7 +164,7 @@ tags: [chapter]
 
 [MI-037-076]The stranger rose immediately. His eyes were fixed on Cyrus Harding, and he followed him, while the sailor marched behind them, little confident as to the result of the experiment.
 
-[MI-037-077]Arrived at the door, Harding and Pencroft made him take his place in the lift, while Neb, Herbert, and Gideon Spilett waited for them before Granite House. The lift descended, and in a few moments all were united on the beach.
+[MI-037-077]Arrived at the door, Harding and Pencroft made him take his place in [[granite-house-lift|the lift]], while Neb, Herbert, and Gideon Spilett waited for them before Granite House. The lift descended, and in a few moments all were united on the beach.
 
 [MI-037-078]The settlers went a short distance from the stranger, so as to leave him at liberty.
 

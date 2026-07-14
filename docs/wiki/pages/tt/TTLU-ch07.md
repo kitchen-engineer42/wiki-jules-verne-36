@@ -34,7 +34,7 @@ tags: [chapter]
 
 [TTLU-007-011]"If master would oblige me by leaning on my shoulder, master will swim with much greater ease."
 
-[TTLU-007-012]With one hand I seized the arm of my loyal Conseil.
+[TTLU-007-012]With one hand I seized the arm of my loyal [[conseil|Conseil]].
 
 [TTLU-007-013]"You!" I said. "You!"
 
@@ -154,7 +154,7 @@ tags: [chapter]
 
 [TTLU-007-071]Even if I had discovered that some fabulous, mythological creature really existed, it wouldn't have given me such a terrific mental jolt. It's easy enough to accept that prodigious things can come from our Creator. But to find, all at once, right before your eyes, that the impossible had been mysteriously achieved by man himself: this staggers the mind!
 
-[TTLU-007-072]But there was no question now. We were stretched out on the back of some kind of underwater boat that, as far as I could judge, boasted the shape of an immense steel fish. Ned Land had clear views on the issue. Conseil and I could only line up behind him.
+[TTLU-007-072]But there was no question now. We were stretched out on the back of some kind of underwater boat that, as far as I could judge, boasted the shape of an immense steel fish. [[ned-land|Ned Land]] had clear views on the issue. Conseil and I could only line up behind him.
 
 [TTLU-007-073]"But then," I said, "does this contraption contain some sort of locomotive mechanism, and a crew to run it?"
 

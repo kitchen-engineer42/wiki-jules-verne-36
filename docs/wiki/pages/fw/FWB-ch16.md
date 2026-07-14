@@ -79,7 +79,7 @@ tags: [chapter]
 
 [FWB-016-034]Silence gradually settled down under the influence of the impending storm: the thickened air actually seemed no longer adapted to the transmission of sound; the atmosphere appeared MUFFLED, and, like a room hung with tapestry, lost all its sonorous reverberation. The "rover bird" so-called, the coroneted crane, the red and blue jays, the mocking-bird, the flycatcher, disappeared among the foliage of the immense trees, and all nature revealed symptoms of some approaching catastrophe.
 
-[FWB-016-035]At nine o'clock the Victoria hung motionless over Msene, an extensive group of villages scarcely distinguishable in the gloom. Once in a while, the reflection of a wandering ray of light in the dull water disclosed a succession of ditches regularly arranged, and, by one last gleam, the eye could make out the calm and sombre forms of palm-trees, sycamores, and gigantic euphorbiae.
+[FWB-016-035]At nine o'clock [[victoria-balloon|the Victoria]] hung motionless over Msene, an extensive group of villages scarcely distinguishable in the gloom. Once in a while, the reflection of a wandering ray of light in the dull water disclosed a succession of ditches regularly arranged, and, by one last gleam, the eye could make out the calm and sombre forms of palm-trees, sycamores, and gigantic euphorbiae.
 
 [FWB-016-036]"I am stifling!" said the Scot, inhaling, with all the power of his lungs, as much as possible of the rarefied air. "We are not moving an inch! Let us descend!"
 

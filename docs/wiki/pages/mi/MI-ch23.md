@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 1
 
-[MI-023-001]It was now exactly seven months since the balloon voyagers had been thrown on Lincoln Island. During that time, notwithstanding the researches they had made, no human being had been discovered. No smoke even had betrayed the presence of man on the surface of the island. No vestiges of his handiwork showed that either at an early or at a late period had man lived there. Not only did it now appear to be uninhabited by any but themselves, but the colonists were compelled to believe that it never had been inhabited. And now, all this scaffolding of reasonings fell before a simple ball of metal, found in the body of an inoffensive rodent! In fact, this bullet must have issued from a firearm, and who but a human being could have used such a weapon?
+[MI-023-001]It was now exactly seven months since the balloon voyagers had been thrown on [[lincoln-island|Lincoln Island]]. During that time, notwithstanding the researches they had made, no human being had been discovered. No smoke even had betrayed the presence of man on the surface of the island. No vestiges of his handiwork showed that either at an early or at a late period had man lived there. Not only did it now appear to be uninhabited by any but themselves, but the colonists were compelled to believe that it never had been inhabited. And now, all this scaffolding of reasonings fell before a simple ball of metal, found in the body of an inoffensive rodent! In fact, this bullet must have issued from a firearm, and who but a human being could have used such a weapon?
 
 [MI-023-002]When Pencroft had placed the bullet on the table, his companions looked at it with intense astonishment. All the consequences likely to result from this incident, notwithstanding its apparent insignificance, immediately took possession of their minds. The sudden apparition of a supernatural being could not have startled them more completely.
 
-[MI-023-003]Cyrus Harding did not hesitate to give utterance to the suggestions which this fact, at once surprising and unexpected, could not fail to raise in his mind. He took the bullet, turned it over and over, rolled it between his finger and thumb; then, turning to Pencroft, he asked,--
+[MI-023-003][[cyrus-harding|Cyrus Harding]] did not hesitate to give utterance to the suggestions which this fact, at once surprising and unexpected, could not fail to raise in his mind. He took the bullet, turned it over and over, rolled it between his finger and thumb; then, turning to Pencroft, he asked,--
 
 [MI-023-004]"Are you sure that the peccary wounded by this bullet was not more than three months old?"
 
@@ -38,7 +38,7 @@ tags: [chapter]
 
 [MI-023-013]"Look here, Neb," burst out Pencroft. "Do you think I could have a bullet in my jaw for five or six months without finding it out? Where could it be hidden?" he asked, opening his mouth to show the two-and-thirty teeth with which it was furnished. "Look well, Neb, and if you find one hollow tooth in this set, I will let you pull out half a dozen!"
 
-[MI-023-014]"Neb's supposition is certainly inadmissible," replied Harding, who, notwithstanding the gravity of his thoughts, could not restrain a smile. "It is certain that a gun has been fired in the island, within three months at most. But I am inclined to think that the people who landed on this coast were only here a very short time ago, or that they just touched here; for if, when we surveyed the island from the summit of Mount Franklin, it had been inhabited, we should have seen them or we should have been seen ourselves. It is therefore, probable that within only a few weeks castaways have been thrown by a storm on some part of the coast. However that may be, it is of consequence to us to have this point settled."
+[MI-023-014]"Neb's supposition is certainly inadmissible," replied Harding, who, notwithstanding the gravity of his thoughts, could not restrain a smile. "It is certain that a gun has been fired in the island, within three months at most. But I am inclined to think that the people who landed on this coast were only here a very short time ago, or that they just touched here; for if, when we surveyed the island from the summit of [[mount-franklin|Mount Franklin]], it had been inhabited, we should have seen them or we should have been seen ourselves. It is therefore, probable that within only a few weeks castaways have been thrown by a storm on some part of the coast. However that may be, it is of consequence to us to have this point settled."
 
 [MI-023-015]"I think that we should act with caution," said the reporter.
 
@@ -62,7 +62,7 @@ tags: [chapter]
 
 [MI-023-025]"But till that time we must be very watchful," said Herbert.
 
-[MI-023-026]"Very watchful indeed, my friends," replied Harding; "and I beg you to confine your hunting excursions to the neighborhood of Granite House."
+[MI-023-026]"Very watchful indeed, my friends," replied Harding; "and I beg you to confine your hunting excursions to the neighborhood of [[granite-house|Granite House]]."
 
 [MI-023-027]The dinner ended less gaily than Pencroft had hoped.
 

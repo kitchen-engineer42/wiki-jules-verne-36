@@ -16,11 +16,11 @@ tags: [chapter]
 
 [TTLU-041-002]HOW I GOT ONTO the platform I'm unable to say. Perhaps the Canadian transferred me there. But I could breathe, I could inhale the life-giving sea air. Next to me my two companions were getting tipsy on the fresh oxygen particles. Poor souls who have suffered from long starvation mustn't pounce heedlessly on the first food given them. We, on the other hand, didn't have to practice such moderation: we could suck the atoms from the air by the lungful, and it was the breeze, the breeze itself, that poured into us this luxurious intoxication!
 
-[TTLU-041-003]"Ahhh!" Conseil was putting in. "What fine oxygen! Let master have no fears about breathing. There's enough for everyone."
+[TTLU-041-003]"Ahhh!" [[conseil|Conseil]] was putting in. "What fine oxygen! Let master have no fears about breathing. There's enough for everyone."
 
-[TTLU-041-004]As for Ned Land, he didn't say a word, but his wide-open jaws would have scared off a shark. And what powerful inhalations! The Canadian "drew" like a furnace going full blast.
+[TTLU-041-004]As for [[ned-land|Ned Land]], he didn't say a word, but his wide-open jaws would have scared off a shark. And what powerful inhalations! The Canadian "drew" like a furnace going full blast.
 
-[TTLU-041-005]Our strength returned promptly, and when I looked around, I saw that we were alone on the platform. No crewmen. Not even Captain Nemo. Those strange seamen on the Nautilus were content with the oxygen circulating inside. Not one of them had come up to enjoy the open air.
+[TTLU-041-005]Our strength returned promptly, and when I looked around, I saw that we were alone on the platform. No crewmen. Not even [[captain-nemo|Captain Nemo]]. Those strange seamen on the [[nautilus|Nautilus]] were content with the oxygen circulating inside. Not one of them had come up to enjoy the open air.
 
 [TTLU-041-006]The first words I pronounced were words of appreciation and gratitude to my two companions. Ned and Conseil had kept me alive during the final hours of our long death throes. But no expression of thanks could repay them fully for such devotion.
 

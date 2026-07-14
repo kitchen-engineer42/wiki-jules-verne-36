@@ -21,11 +21,11 @@ tags: [chapter]
 
 [JCE-045-005]I cannot describe to you the astonishment of Martha or the joy of Gräuben.
 
-[JCE-045-006]"Now you are a hero, Axel," said to me my blushing _fiancée,_ my betrothed, "you will not leave me again!"
+[JCE-045-006]"Now you are a hero, [[axel|Axel]]," said to me my blushing _fiancée,_ my betrothed, "you will not leave me again!"
 
 [JCE-045-007]I looked tenderly upon her, and she smiled through her tears.
 
-[JCE-045-008]How can I describe the extraordinary sensation produced by the return of Professor Liedenbrock? Thanks to Martha's ineradicable tattling, the news that the Professor had gone to discover a way to the centre of the earth had spread over the whole civilised world. People refused to believe it, and when they saw him they would not believe him any the more. Still, the appearance of Hans, and sundry pieces of intelligence derived from Iceland, tended to shake the confidence of the unbelievers.
+[JCE-045-008]How can I describe the extraordinary sensation produced by the return of [[professor-lidenbrock|Professor Liedenbrock]]? Thanks to Martha's ineradicable tattling, the news that the Professor had gone to discover a way to the centre of the earth had spread over the whole civilised world. People refused to believe it, and when they saw him they would not believe him any the more. Still, the appearance of Hans, and sundry pieces of intelligence derived from [[iceland|Iceland]], tended to shake the confidence of the unbelievers.
 
 [JCE-045-009]Then my uncle became a great man, and I was now the nephew of a great man -which is not a privilege to be despised.
 

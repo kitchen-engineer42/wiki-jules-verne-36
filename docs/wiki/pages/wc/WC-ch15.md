@@ -147,4 +147,4 @@ tags: [chapter]
 
 [WC-015-068]"An American yacht?" repeated Erik, half stupefied.
 
-[WC-015-069]"Yes--the 'Albatross,' Captain Tudor Brown, from Vancouver's Island. I told him what I had heard, and he immediately started for Cape Serdze-Kamen."
+[WC-015-069]"Yes--the '[[albatross|Albatross]],' Captain Tudor Brown, from Vancouver's Island. I told him what I had heard, and he immediately started for Cape Serdze-Kamen."

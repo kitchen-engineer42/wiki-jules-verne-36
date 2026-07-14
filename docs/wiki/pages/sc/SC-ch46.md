@@ -127,7 +127,7 @@ tags: [chapter]
 
 [SC-046-058]And then, failing the BRITANNIA, the DUNCAN certainly had fallen into the hands of the convicts. Perhaps there had been a fight? There might yet be found on the coast traces of a struggle, a last resistance. If the crew had perished among the waves, the waves probably had thrown some bodies on the shore.
 
-[SC-046-059]Glenarvan, accompanied by his faithful John, went to carry out the final search. The landlord of the Victoria Hotel lent them two horses, and they set out on the northern road that skirts Twofold Bay.
+[SC-046-059]Glenarvan, accompanied by his faithful John, went to carry out the final search. The landlord of [[victoria-balloon|the Victoria]] Hotel lent them two horses, and they set out on the northern road that skirts Twofold Bay.
 
 [SC-046-060]It was a melancholy journey. Glenarvan and Captain John trotted along without speaking, but they understood each other. The same thoughts, the same anguish harrowed both their hearts. They looked at the sea-worn rocks; they needed no words of question or answer. John's well-tried zeal and intelligence were a guarantee that every point was scrupulously examined, the least likely places, as well as the sloping beaches and sandy plains where even the slight tides of the Pacific might have thrown some fragments of wreck. But no indication was seen that could suggest further search in that quarter--all trace of the wreck escaped them still.
 

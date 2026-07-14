@@ -15,9 +15,9 @@ tags: [chapter]
 
 [TT-018-002]It was in the evening of the 22d of September, that memorable date which public opinion credited with an influence as unlucky as that of the 1st of January of the year 1000. Twelve hours after the sun had passed the meridian of Kilimanjaro, that is at midnight, Capt. Nicholl was to touch off the terrible cannon.
 
-[TT-018-003]Kilimanjaro being 35 degrees east of the meridian of Paris, and Baltimore 79 degrees east of said meridian, there was a difference of 114 degrees between these two places, or 456 minutes in time, or 7 hours and 36 minutes. So the exact moment at which the shooting would take place would be 5 hours and 24 minutes post meridian in that great city of Maryland. The weather was magnificent. The sun had just gone down on the plains of Wamasai, behind a horizon of perfect purity. It was impossible to wish for a prettier night, one more calm or starry, in which to throw the projectile across space. Not a cloud would be mixed with the artificial vapors developed by the deflagration of the melimelonite.
+[TT-018-003]Kilimanjaro being 35 degrees east of the meridian of Paris, and [[baltimore|Baltimore]] 79 degrees east of said meridian, there was a difference of 114 degrees between these two places, or 456 minutes in time, or 7 hours and 36 minutes. So the exact moment at which the shooting would take place would be 5 hours and 24 minutes post meridian in that great city of Maryland. The weather was magnificent. The sun had just gone down on the plains of Wamasai, behind a horizon of perfect purity. It was impossible to wish for a prettier night, one more calm or starry, in which to throw the projectile across space. Not a cloud would be mixed with the artificial vapors developed by the deflagration of the melimelonite.
 
-[TT-018-004]Who knows, perhaps President Barbicane and Capt. Nicholl regretted that they were not able to get into the projectile. In the first second they would have travelled 2,800 kilometres. Sultan Bali-Bali, with the great personages of his court, that is, his Finance Ministers and his Ministers of Public Works, together with the Black Brigade, who had helped in the great work, were all assembled to watch the different steps of the shooting.
+[TT-018-004]Who knows, perhaps [[barbicane|President Barbicane]] and Capt. Nicholl regretted that they were not able to get into the projectile. In the first second they would have travelled 2,800 kilometres. Sultan Bali-Bali, with the great personages of his court, that is, his Finance Ministers and his Ministers of Public Works, together with the Black Brigade, who had helped in the great work, were all assembled to watch the different steps of the shooting.
 
 [TT-018-005]But, with great precaution, they had all taken a position three kilometres from the shaft bored in the Kilimanjaro, so that they would have nothing to fear from the concussion of the air.
 
@@ -29,7 +29,7 @@ tags: [chapter]
 
 [TT-018-009]President Barbicane watched the hands of his chronometer, lighted by a lantern which was held by one of his helpers, while Capt. Nicholl, his finger on the button of the apparatus, was ready to connect the circuit of electricity.
 
-[TT-018-010]Twenty seconds, ten seconds, five seconds, one second. Not the slightest tremor could be noted in the hand of the impassive Nicholl. His partner and himself were no more excited than, at the moment when they waited, sitting in the projectile, for the Columbiad to fire them to the regions of the moon.
+[TT-018-010]Twenty seconds, ten seconds, five seconds, one second. Not the slightest tremor could be noted in the hand of the impassive Nicholl. His partner and himself were no more excited than, at the moment when they waited, sitting in the projectile, for the [[columbiad|Columbiad]] to fire them to the regions of the moon.
 
 [TT-018-011]"Fire," ordered President Barbicane.
 

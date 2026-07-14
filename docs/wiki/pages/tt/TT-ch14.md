@@ -17,7 +17,7 @@ tags: [chapter]
 
 [TT-014-003]"To John S. Wright, Minister of State, Washington, U.S.A.:
 
-[TT-014-004]Zanzibar, Sept. 13, 5 A.M. (local time).---Great works are being executed in the Wamasai, south of the chain of Kilimanjaro. For eight months President Barbicane and Capt. Nicholl have been established there with a great number of black help under the authority of Sultan Bali-Bali. This is brought to the knowledge of the Government by its devoted
+[TT-014-004]Zanzibar, Sept. 13, 5 A.M. (local time).---Great works are being executed in the Wamasai, south of the chain of Kilimanjaro. For eight months [[barbicane|President Barbicane]] and Capt. Nicholl have been established there with a great number of black help under the authority of Sultan Bali-Bali. This is brought to the knowledge of the Government by its devoted
 
 [TT-014-005]"RICHARD W. TRUST, Consul"
 

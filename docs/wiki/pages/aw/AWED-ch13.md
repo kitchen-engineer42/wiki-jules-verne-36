@@ -15,7 +15,7 @@ tags: [chapter]
 
 [AWED-013-002]The project was a bold one, full of difficulty, perhaps impracticable. Mr. Fogg was going to risk life, or at least liberty, and therefore the success of his tour. But he did not hesitate, and he found in Sir Francis Cromarty an enthusiastic ally.
 
-[AWED-013-003]As for Passepartout, he was ready for anything that might be proposed. His master's idea charmed him; he perceived a heart, a soul, under that icy exterior. He began to love Phileas Fogg.
+[AWED-013-003]As for [[passepartout|Passepartout]], he was ready for anything that might be proposed. His master's idea charmed him; he perceived a heart, a soul, under that icy exterior. He began to love [[phileas-fogg|Phileas Fogg]].
 
 [AWED-013-004]There remained the guide: what course would he adopt? Would he not take part with the Indians? In default of his assistance, it was necessary to be assured of his neutrality.
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [AWED-013-010]"I think so," said the guide.
 
-[AWED-013-011]The worthy Indian then gave some account of the victim, who, he said, was a celebrated beauty of the Parsee race, and the daughter of a wealthy Bombay merchant. She had received a thoroughly English education in that city, and, from her manners and intelligence, would be thought an European. Her name was Aouda. Left an orphan, she was married against her will to the old rajah of Bundelcund; and, knowing the fate that awaited her, she escaped, was retaken, and devoted by the rajah's relatives, who had an interest in her death, to the sacrifice from which it seemed she could not escape.
+[AWED-013-011]The worthy Indian then gave some account of the victim, who, he said, was a celebrated beauty of the Parsee race, and the daughter of a wealthy Bombay merchant. She had received a thoroughly English education in that city, and, from her manners and intelligence, would be thought an European. Her name was [[aouda|Aouda]]. Left an orphan, she was married against her will to the old rajah of Bundelcund; and, knowing the fate that awaited her, she escaped, was retaken, and devoted by the rajah's relatives, who had an interest in her death, to the sacrifice from which it seemed she could not escape.
 
 [AWED-013-012]The Parsee's narrative only confirmed Mr. Fogg and his companions in their generous design. It was decided that the guide should direct the elephant towards the pagoda of Pillaji, which he accordingly approached as quickly as possible. They halted, half an hour afterwards, in a copse, some five hundred feet from the pagoda, where they were well concealed; but they could hear the groans and cries of the fakirs distinctly.
 

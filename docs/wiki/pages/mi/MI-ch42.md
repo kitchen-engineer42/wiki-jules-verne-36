@@ -16,7 +16,7 @@ tags: [chapter]
 
 [MI-042-002]Fortunately, although the wind was strong the sea, being sheltered by the land, did not run very high. They had then little to fear from the waves, which always endanger small craft. The "Bonadventure" would doubtlessly not have capsized, for she was well ballasted, but enormous masses of water falling on the deck might injure her if her timbers could not sustain them. Pencroft, as a good sailor, was prepared for anything. Certainly, he had great confidence in his vessel, but nevertheless he awaited the return of day with some anxiety.
 
-[MI-042-003]During the night, Cyrus Harding and Gideon Spilett had no opportunity for talking together, and yet the words pronounced in the reporter's ear by the engineer were well worth being discussed, together with the mysterious influence which appeared to reign over Lincoln Island. Gideon Spilett did not cease from pondering over this new and inexplicable incident, the appearance of a fire on the coast of the island. The fire had actually been seen! His companions, Herbert and Pencroft, had seen it with him! The fire had served to signalize the position of the island during that dark night, and they had not doubted that it was lighted by the engineer's hand; and here was Cyrus Harding expressly declaring that he had never done anything of the sort! Spilett resolved to recur to this incident as soon as the "Bonadventure" returned, and to urge Cyrus Harding to acquaint their companions with these strange facts. Perhaps it would be decided to make in common a complete investigation of every part of Lincoln Island.
+[MI-042-003]During the night, [[cyrus-harding|Cyrus Harding]] and Gideon Spilett had no opportunity for talking together, and yet the words pronounced in the reporter's ear by the engineer were well worth being discussed, together with the mysterious influence which appeared to reign over [[lincoln-island|Lincoln Island]]. Gideon Spilett did not cease from pondering over this new and inexplicable incident, the appearance of a fire on the coast of the island. The fire had actually been seen! His companions, Herbert and Pencroft, had seen it with him! The fire had served to signalize the position of the island during that dark night, and they had not doubted that it was lighted by the engineer's hand; and here was Cyrus Harding expressly declaring that he had never done anything of the sort! Spilett resolved to recur to this incident as soon as the "Bonadventure" returned, and to urge Cyrus Harding to acquaint their companions with these strange facts. Perhaps it would be decided to make in common a complete investigation of every part of Lincoln Island.
 
 [MI-042-004]However that might be, on this evening no fire was lighted on these yet unknown shores, which formed the entrance to the gulf, and the little vessel stood off during the night.
 
@@ -64,7 +64,7 @@ tags: [chapter]
 
 [MI-042-026]One might really say that the honest Negro did not feel at his ease in those enormous jaws.
 
-[MI-042-027]The distance from Mandible Cape to the mouth of the Mercy was not more than eight miles. The head of the "Bonadventure" was put towards Granite House, and a fair wind filling her sails, she ran rapidly along the coast.
+[MI-042-027]The distance from Mandible Cape to the mouth of the Mercy was not more than eight miles. The head of the "Bonadventure" was put towards [[granite-house|Granite House]], and a fair wind filling her sails, she ran rapidly along the coast.
 
 [MI-042-028]To the enormous lava rocks succeeded soon those capricious sand dunes, among which the engineer had been so singularly recovered, and which seabirds frequented in thousands.
 
@@ -96,7 +96,7 @@ tags: [chapter]
 
 [MI-042-042]"Unless, being unconscious--" said Pencroft.
 
-[MI-042-043]"That is not admissible," replied the engineer. "But to continue. Have you understood how Top was able to discover your retreat five miles from the cave in which I was lying?"
+[MI-042-043]"That is not admissible," replied the engineer. "But to continue. Have you understood how [[top|Top]] was able to discover your retreat five miles from the cave in which I was lying?"
 
 [MI-042-044]"The dog's instinct--" observed Herbert.
 
@@ -162,7 +162,7 @@ tags: [chapter]
 
 [MI-042-075]They had also some fine sporting excursions, which were made during the frost in the vast Tadorn Marsh. Gideon Spilett and Herbert, aided by Jup and Top, did not miss a shot in the midst of myriads of wild-duck, snipe, teal, and others. The access to these hunting-grounds was easy; besides, whether they reached them by the road to Port Balloon, after having passed the Mercy Bridge, or by turning the rocks from Flotsam Point, the hunters were never distant from Granite House more than two or three miles.
 
-[MI-042-076]Thus passed the four winter months, which were really rigorous, that is to say, June, July, August, and September. But, in short, Granite House did not suffer much from the inclemency of the weather, and it was the same with the corral, which, less exposed than the plateau, and sheltered partly by Mount Franklin, only received the remains of the hurricanes, already broken by the forests and the high rocks of the shore. The damages there were consequently of small importance, and the activity and skill of Ayrton promptly repaired them, when some time in October he returned to pass a few days in the corral.
+[MI-042-076]Thus passed the four winter months, which were really rigorous, that is to say, June, July, August, and September. But, in short, Granite House did not suffer much from the inclemency of the weather, and it was the same with the corral, which, less exposed than the plateau, and sheltered partly by [[mount-franklin|Mount Franklin]], only received the remains of the hurricanes, already broken by the forests and the high rocks of the shore. The damages there were consequently of small importance, and the activity and skill of Ayrton promptly repaired them, when some time in October he returned to pass a few days in the corral.
 
 [MI-042-077]During this winter, no fresh inexplicable incident occurred. Nothing strange happened, although Pencroft and Neb were on the watch for the most insignificant facts to which they attached any mysterious cause. Top and Jup themselves no longer growled round the well or gave any signs of uneasiness. It appeared, therefore, as if the series of supernatural incidents was interrupted, although they often talked of them during the evenings in Granite House, and they remained thoroughly resolved that the island should be searched, even in those parts the most difficult to explore. But an event of the highest importance, and of which the consequences might be terrible, momentarily diverted from their projects Cyrus Harding and his companions.
 

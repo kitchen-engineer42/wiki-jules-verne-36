@@ -81,7 +81,7 @@ tags: [chapter]
 
 [JCE-034-035]"_Geyser,_" said Hans.
 
-[JCE-034-036]"No doubt it is a geyser, like those in Iceland."
+[JCE-034-036]"No doubt it is a geyser, like those in [[iceland|Iceland]]."
 
 [JCE-034-037]At first I protest against being so widely mistaken as to have taken an island for a marine monster. But the evidence is against me, and I have to confess my error. It is nothing worse than a natural phenomenon.
 
@@ -95,7 +95,7 @@ tags: [chapter]
 
 [JCE-034-042]I leaped up on the rock; my uncle lightly followed, while our hunter remained at his post, like a man too wise ever to be astonished.
 
-[JCE-034-043]We walked upon granite mingled with siliceous tufa. The soil shivers and shakes under our feet, like the sides of an overheated boiler filled with steam struggling to get loose. We come in sight of a small central basin, out of which the geyser springs. I plunge a register thermometer into the boiling water. It marks an intense heat of 325°, which is far above the boiling point; therefore this water issues from an ardent furnace, which is not at all in harmony with Professor Liedenbrock's theories. I cannot help making the remark.
+[JCE-034-043]We walked upon granite mingled with siliceous tufa. The soil shivers and shakes under our feet, like the sides of an overheated boiler filled with steam struggling to get loose. We come in sight of a small central basin, out of which the geyser springs. I plunge a register thermometer into the boiling water. It marks an intense heat of 325°, which is far above the boiling point; therefore this water issues from an ardent furnace, which is not at all in harmony with [[professor-lidenbrock|Professor Liedenbrock]]'s theories. I cannot help making the remark.
 
 [JCE-034-044]"Well," he replied, "how does that make against my doctrine?"
 

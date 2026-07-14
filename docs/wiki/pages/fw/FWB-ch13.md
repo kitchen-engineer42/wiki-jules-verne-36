@@ -25,7 +25,7 @@ tags: [chapter]
 
 [FWB-013-007]"There's nothing remarkable about that, my dear Dick, for we are in one of the most unhealthy regions in Africa; but we shall not remain here long; so let's be off."
 
-[FWB-013-008]Thanks to a skilful manoeuvre achieved by Joe, the anchor was disengaged, and Joe reascended to the car by means of the ladder. The doctor vigorously dilated the gas, and the Victoria resumed her flight, driven along by a spanking breeze.
+[FWB-013-008]Thanks to a skilful manoeuvre achieved by Joe, the anchor was disengaged, and Joe reascended to the car by means of the ladder. The doctor vigorously dilated the gas, and [[victoria-balloon|the Victoria]] resumed her flight, driven along by a spanking breeze.
 
 [FWB-013-009]Only a few scattered huts could be seen through the pestilential mists; but the appearance of the country soon changed, for it often happens in Africa that some of the unhealthiest districts lie close beside others that are perfectly salubrious.
 

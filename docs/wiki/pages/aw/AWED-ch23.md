@@ -13,7 +13,7 @@ tags: [chapter]
 
 [AWED-023-001]IN WHICH PASSEPARTOUT'S NOSE BECOMES OUTRAGEOUSLY LONG
 
-[AWED-023-002]The next morning poor, jaded, famished Passepartout said to himself that he must get something to eat at all hazards, and the sooner he did so the better. He might, indeed, sell his watch; but he would have starved first. Now or never he must use the strong, if not melodious voice which nature had bestowed upon him. He knew several French and English songs, and resolved to try them upon the Japanese, who must be lovers of music, since they were for ever pounding on their cymbals, tam-tams, and tambourines, and could not but appreciate European talent.
+[AWED-023-002]The next morning poor, jaded, famished [[passepartout|Passepartout]] said to himself that he must get something to eat at all hazards, and the sooner he did so the better. He might, indeed, sell his watch; but he would have starved first. Now or never he must use the strong, if not melodious voice which nature had bestowed upon him. He knew several French and English songs, and resolved to try them upon the Japanese, who must be lovers of music, since they were for ever pounding on their cymbals, tam-tams, and tambourines, and could not but appreciate European talent.
 
 [AWED-023-003]It was, perhaps, rather early in the morning to get up a concert, and the audience prematurely aroused from their slumbers, might not possibly pay their entertainer with coin bearing the Mikado's features. Passepartout therefore decided to wait several hours; and, as he was sauntering along, it occurred to him that he would seem rather too well dressed for a wandering artist. The idea struck him to change his garments for clothes more in harmony with his project; by which he might also get a little money to satisfy the immediate cravings of hunger. The resolution taken, it remained to carry it out.
 
@@ -115,6 +115,6 @@ tags: [chapter]
 
 [AWED-023-052]"Very well; then let us go to the steamer, young man!"
 
-[AWED-023-053]Mr. Fogg, Aouda, and Passepartout passed through the lobby of the theatre to the outside, where they encountered the Honourable Mr. Batulcar, furious with rage. He demanded damages for the "breakage" of the pyramid; and Phileas Fogg appeased him by giving him a handful of banknotes.
+[AWED-023-053]Mr. Fogg, [[aouda|Aouda]], and Passepartout passed through the lobby of the theatre to the outside, where they encountered the Honourable Mr. Batulcar, furious with rage. He demanded damages for the "breakage" of the pyramid; and [[phileas-fogg|Phileas Fogg]] appeased him by giving him a handful of banknotes.
 
 [AWED-023-054]At half-past six, the very hour of departure, Mr. Fogg and Aouda, followed by Passepartout, who in his hurry had retained his wings, and nose six feet long, stepped upon the American steamer.

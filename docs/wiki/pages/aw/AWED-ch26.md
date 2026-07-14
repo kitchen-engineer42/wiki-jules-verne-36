@@ -23,7 +23,7 @@ tags: [chapter]
 
 [AWED-026-006]The Pacific Railroad is joined by several branches in Iowa, Kansas, Colorado, and Oregon. On leaving Omaha, it passes along the left bank of the Platte River as far as the junction of its northern branch, follows its southern branch, crosses the Laramie territory and the Wahsatch Mountains, turns the Great Salt Lake, and reaches Salt Lake City, the Mormon capital, plunges into the Tuilla Valley, across the American Desert, Cedar and Humboldt Mountains, the Sierra Nevada, and descends, via Sacramento, to the Pacific--its grade, even on the Rocky Mountains, never exceeding one hundred and twelve feet to the mile.
 
-[AWED-026-007]Such was the road to be traversed in seven days, which would enable Phileas Fogg--at least, so he hoped--to take the Atlantic steamer at New York on the 11th for Liverpool.
+[AWED-026-007]Such was the road to be traversed in seven days, which would enable [[phileas-fogg|Phileas Fogg]]--at least, so he hoped--to take the Atlantic steamer at New York on the 11th for Liverpool.
 
 [AWED-026-008]The car which he occupied was a sort of long omnibus on eight wheels, and with no compartments in the interior. It was supplied with two rows of seats, perpendicular to the direction of the train on either side of an aisle which conducted to the front and rear platforms. These platforms were found throughout the train, and the passengers were able to pass from one end of the train to the other. It was supplied with saloon cars, balcony cars, restaurants, and smoking-cars; theatre cars alone were wanting, and they will have these some day.
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [AWED-026-010]The train left Oakland station at six o'clock. It was already night, cold and cheerless, the heavens being overcast with clouds which seemed to threaten snow. The train did not proceed rapidly; counting the stoppages, it did not run more than twenty miles an hour, which was a sufficient speed, however, to enable it to reach Omaha within its designated time.
 
-[AWED-026-011]There was but little conversation in the car, and soon many of the passengers were overcome with sleep. Passepartout found himself beside the detective; but he did not talk to him. After recent events, their relations with each other had grown somewhat cold; there could no longer be mutual sympathy or intimacy between them. Fix's manner had not changed; but Passepartout was very reserved, and ready to strangle his former friend on the slightest provocation.
+[AWED-026-011]There was but little conversation in the car, and soon many of the passengers were overcome with sleep. [[passepartout|Passepartout]] found himself beside the detective; but he did not talk to him. After recent events, their relations with each other had grown somewhat cold; there could no longer be mutual sympathy or intimacy between them. [[fix|Fix]]'s manner had not changed; but Passepartout was very reserved, and ready to strangle his former friend on the slightest provocation.
 
 [AWED-026-012]Snow began to fall an hour after they started, a fine snow, however, which happily could not obstruct the train; nothing could be seen from the windows but a vast, white sheet, against which the smoke of the locomotive had a greyish aspect.
 

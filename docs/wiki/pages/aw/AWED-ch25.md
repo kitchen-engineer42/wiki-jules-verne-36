@@ -13,7 +13,7 @@ tags: [chapter]
 
 [AWED-025-001]IN WHICH A SLIGHT GLIMPSE IS HAD OF SAN FRANCISCO
 
-[AWED-025-002]It was seven in the morning when Mr. Fogg, Aouda, and Passepartout set foot upon the American continent, if this name can be given to the floating quay upon which they disembarked. These quays, rising and falling with the tide, thus facilitate the loading and unloading of vessels. Alongside them were clippers of all sizes, steamers of all nationalities, and the steamboats, with several decks rising one above the other, which ply on the Sacramento and its tributaries. There were also heaped up the products of a commerce which extends to Mexico, Chili, Peru, Brazil, Europe, Asia, and all the Pacific islands.
+[AWED-025-002]It was seven in the morning when Mr. Fogg, [[aouda|Aouda]], and [[passepartout|Passepartout]] set foot upon the American continent, if this name can be given to the floating quay upon which they disembarked. These quays, rising and falling with the tide, thus facilitate the loading and unloading of vessels. Alongside them were clippers of all sizes, steamers of all nationalities, and the steamboats, with several decks rising one above the other, which ply on the Sacramento and its tributaries. There were also heaped up the products of a commerce which extends to Mexico, Chili, Peru, Brazil, Europe, Asia, and all the Pacific islands.
 
 [AWED-025-003]Passepartout, in his joy on reaching at last the American continent, thought he would manifest it by executing a perilous vault in fine style; but, tumbling upon some worm-eaten planks, he fell through them. Put out of countenance by the manner in which he thus "set foot" upon the New World, he uttered a loud cry, which so frightened the innumerable cormorants and pelicans that are always perched upon these movable quays, that they flew noisily away.
 
@@ -29,7 +29,7 @@ tags: [chapter]
 
 [AWED-025-009]After breakfast, Mr. Fogg, accompanied by Aouda, started for the English consulate to have his passport visaed. As he was going out, he met Passepartout, who asked him if it would not be well, before taking the train, to purchase some dozens of Enfield rifles and Colt's revolvers. He had been listening to stories of attacks upon the trains by the Sioux and Pawnees. Mr. Fogg thought it a useless precaution, but told him to do as he thought best, and went on to the consulate.
 
-[AWED-025-010]He had not proceeded two hundred steps, however, when, "by the greatest chance in the world," he met Fix. The detective seemed wholly taken by surprise. What! Had Mr. Fogg and himself crossed the Pacific together, and not met on the steamer! At least Fix felt honoured to behold once more the gentleman to whom he owed so much, and, as his business recalled him to Europe, he should be delighted to continue the journey in such pleasant company.
+[AWED-025-010]He had not proceeded two hundred steps, however, when, "by the greatest chance in the world," he met [[fix|Fix]]. The detective seemed wholly taken by surprise. What! Had Mr. Fogg and himself crossed the Pacific together, and not met on the steamer! At least Fix felt honoured to behold once more the gentleman to whom he owed so much, and, as his business recalled him to Europe, he should be delighted to continue the journey in such pleasant company.
 
 [AWED-025-011]Mr. Fogg replied that the honour would be his; and the detective--who was determined not to lose sight of him--begged permission to accompany them in their walk about San Francisco--a request which Mr. Fogg readily granted.
 
@@ -45,7 +45,7 @@ tags: [chapter]
 
 [AWED-025-017]Fix smiled at this remark; and, in order to be able to see without being jostled about, the party took up a position on the top of a flight of steps situated at the upper end of Montgomery Street. Opposite them, on the other side of the street, between a coal wharf and a petroleum warehouse, a large platform had been erected in the open air, towards which the current of the crowd seemed to be directed.
 
-[AWED-025-018]For what purpose was this meeting? What was the occasion of this excited assemblage? Phileas Fogg could not imagine. Was it to nominate some high official--a governor or member of Congress? It was not improbable, so agitated was the multitude before them.
+[AWED-025-018]For what purpose was this meeting? What was the occasion of this excited assemblage? [[phileas-fogg|Phileas Fogg]] could not imagine. Was it to nominate some high official--a governor or member of Congress? It was not improbable, so agitated was the multitude before them.
 
 [AWED-025-019]Just at this moment there was an unusual stir in the human mass. All the hands were raised in the air. Some, tightly closed, seemed to disappear suddenly in the midst of the cries--an energetic way, no doubt, of casting a vote. The crowd swayed back, the banners and flags wavered, disappeared an instant, then reappeared in tatters. The undulations of the human surge reached the steps, while all the heads floundered on the surface like a sea agitated by a squall. Many of the black hats disappeared, and the greater part of the crowd seemed to have diminished in height.
 

@@ -27,7 +27,7 @@ tags: [chapter]
 
 [JCE-017-008]Of course, we were not included under that head.
 
-[JCE-017-009]"Hans," said he, "will take charge of the tools and a portion of the provisions; you, Axel, will take another third of the provisions, and the arms; and I will take the rest of the provisions and the delicate instruments."
+[JCE-017-009]"Hans," said he, "will take charge of the tools and a portion of the provisions; you, [[axel|Axel]], will take another third of the provisions, and the arms; and I will take the rest of the provisions and the delicate instruments."
 
 [JCE-017-010]"But," said I, "the clothes, and that mass of ladders and ropes, what is to become of them?"
 

@@ -19,7 +19,7 @@ tags: [chapter]
 
 [JCE-033-004]My uncle has had no dreams, but he is out of temper. He examines the horizon all round with his glass, and folds his arms with the air of an injured man.
 
-[JCE-033-005]I remark that Professor Liedenbrock has a tendency to relapse into an impatient mood, and I make a note of it in my log. All my danger and sufferings were needed to strike a spark of human. feeling out of him; but now that I am well his nature has resumed its sway. And yet, what cause was there for anger? Is not the voyage prospering as favourably as possible under the circumstances? Is not the raft spinning along with marvellous speed?
+[JCE-033-005]I remark that [[professor-lidenbrock|Professor Liedenbrock]] has a tendency to relapse into an impatient mood, and I make a note of it in my log. All my danger and sufferings were needed to strike a spark of human. feeling out of him; but now that I am well his nature has resumed its sway. And yet, what cause was there for anger? Is not the voyage prospering as favourably as possible under the circumstances? Is not the raft spinning along with marvellous speed?
 
 [JCE-033-006]"-You seem anxious, my uncle," I said, seeing him continually with his glass to his eye.
 

@@ -13,7 +13,7 @@ tags: [chapter]
 
 [MW-016-001]ROBUR, THE CONQUEROR
 
-[MW-016-002]Robur, the Conqueror! This then was the likeness I had vaguely recalled. Some years before the portrait of this extraordinary man had been printed in all the American newspapers, under date of the thirteenth of June, the day after this personage had made his sensational appearance at the meeting of the Weldon Institute at Philadelphia.
+[MW-016-002][[robur|Robur]], the Conqueror! This then was the likeness I had vaguely recalled. Some years before the portrait of this extraordinary man had been printed in all the American newspapers, under date of the thirteenth of June, the day after this personage had made his sensational appearance at the meeting of the Weldon Institute at Philadelphia.
 
 [MW-016-003]I had noted the striking character of the portrait at the time; the square shoulders; the back like a regular trapezoid, its longer side formed by that geometrical shoulder line; the robust neck; the enormous spheroidal head. The eyes at the least emotion, burned with fire, while above them were the heavy, permanently contracted brows, which signified such energy. The hair was short and crisp, with a glitter as of metal in its lights. The huge breast rose and fell like a blacksmith's forge; and the thighs, the arms and hands, were worthy of the mighty body. The narrow beard was the same also, with the smooth shaven cheeks which showed the powerful muscles of the jaw.
 
@@ -25,7 +25,7 @@ tags: [chapter]
 
 [MW-016-007]He was in this turn doubted and ridiculed by the members of the club, who called him in mockery Robur the Conqueror. In the tumult that followed, revolver shots were fired; and the intruder disappeared.
 
-[MW-016-008]That same night he had by force abducted the president and the secretary of the club, and had taken them, much against their will upon a voyage in the wonderful air-ship, the "Albatross," which he had constructed. He meant thus to prove to them beyond argument the correctness of his assertions. This ship, a hundred feet long, was upheld in the air by a large number of horizontal screws and was driven forward by vertical screws at its bow and stern. It was managed by a crew of at least half a dozen men, who seemed absolutely devoted to their leader, Robur.
+[MW-016-008]That same night he had by force abducted the president and the secretary of the club, and had taken them, much against their will upon a voyage in the wonderful air-ship, the "[[albatross|Albatross]]," which he had constructed. He meant thus to prove to them beyond argument the correctness of his assertions. This ship, a hundred feet long, was upheld in the air by a large number of horizontal screws and was driven forward by vertical screws at its bow and stern. It was managed by a crew of at least half a dozen men, who seemed absolutely devoted to their leader, Robur.
 
 [MW-016-009]After a voyage almost completely around the world, Mr. Prudent and Mr. Evans managed to escape from the "Albatross" after a desperate struggle. They even managed to cause an explosion on the airship, destroying it, and involving the inventor and all his crew in a terrific fall from the sky into the Pacific ocean.
 

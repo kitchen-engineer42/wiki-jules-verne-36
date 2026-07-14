@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-026-001]THE WORST PERIL OF ALL
 
-[JCE-026-002]It must be confessed that hitherto things had not gone on so badly, and that I had small reason to complain. If our difficulties became no worse, we might hope to reach our end. And to what a height of scientific glory we should then attain! I had become quite a Liedenbrock in my reasonings; seriously I had. But would this state of things last in the strange place we had come to? Perhaps it might.
+[JCE-026-002]It must be confessed that hitherto things had not gone on so badly, and that I had small reason to complain. If our difficulties became no worse, we might hope to reach our end. And to what a height of scientific glory we should then attain! I had become quite a [[professor-lidenbrock|Liedenbrock]] in my reasonings; seriously I had. But would this state of things last in the strange place we had come to? Perhaps it might.
 
 [JCE-026-003]For several days steeper inclines, some even frightfully near to the perpendicular, brought us deeper and deeper into the mass of the interior of the earth. Some days we advanced nearer to the centre by a league and a half, or nearly two leagues. These were perilous descents, in which the skill and marvellous coolness of Hans were invaluable to us. That unimpassioned Icelander devoted himself with incomprehensible deliberation; and, thanks to him, we crossed many a dangerous spot which we should never have cleared alone.
 
@@ -21,7 +21,7 @@ tags: [chapter]
 
 [JCE-026-005]During the fortnight following our last conversation, no incident occurred worthy of being recorded. But I have good reason for remembering one very serious event which took place at this time, and of which I could scarcely now forget the smallest details.
 
-[JCE-026-006]By the 7th of August our successive descents had brought us to a depth of thirty leagues; that is, that for a space of thirty leagues there were over our heads solid beds of rock, ocean, continents, and towns. We must have been two hundred leagues from Iceland.
+[JCE-026-006]By the 7th of August our successive descents had brought us to a depth of thirty leagues; that is, that for a space of thirty leagues there were over our heads solid beds of rock, ocean, continents, and towns. We must have been two hundred leagues from [[iceland|Iceland]].
 
 [JCE-026-007]On that day the tunnel went down a gentle slope. I was ahead of the others. My uncle was carrying one of Ruhmkorff's lamps and I the. other. I was examining the beds of granite.
 

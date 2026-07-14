@@ -59,7 +59,7 @@ tags: [chapter]
 
 [FWB-041-024]"I will tell you. In 1854 a Marabout of the Senegalese Fouta, Al-Hadji by name, declaring himself to be inspired like Mohammed, stirred up all the tribes to war against the infidels--that is to say, against the Europeans. He carried destruction and desolation over the regions between the Senegal River and its tributary, the Fateme. Three hordes of fanatics led on by him scoured the country, sparing neither a village nor a hut in their pillaging, massacring career. He advanced in person on the town of Sego, which was a long time threatened. In 1857 he worked up farther to the northward, and invested the fortification of Medina, built by the French on the bank of the river. This stronghold was defended by Paul Holl, who, for several months, without provisions or ammunition, held out until Colonel Faidherbe came to his relief. Al-Hadji and his bands then repassed the Senegal, and reappeared in the Kaarta, continuing their rapine and murder.--Well, here below us is the very country in which he has found refuge with his hordes of banditti; and I assure you that it would not be a good thing to fall into his hands."
 
-[FWB-041-025]"We shall not," said Joe, "even if we have to throw overboard our clothes to save the Victoria."
+[FWB-041-025]"We shall not," said Joe, "even if we have to throw overboard our clothes to save [[victoria-balloon|the Victoria]]."
 
 [FWB-041-026]"We are not far from the river," said the doctor, "but I foresee that our balloon will not be able to carry us beyond it."
 

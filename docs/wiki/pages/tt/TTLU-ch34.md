@@ -14,9 +14,9 @@ tags: [chapter]
 
 [TTLU-034-001]The Underwater Coalfields
 
-[TTLU-034-002]THE NEXT DAY, February 20, I overslept. I was so exhausted from the night before, I didn't get up until eleven o'clock. I dressed quickly. I hurried to find out the Nautilus's heading. The instruments indicated that it was running southward at a speed of twenty miles per hour and a depth of 100 meters.
+[TTLU-034-002]THE NEXT DAY, February 20, I overslept. I was so exhausted from the night before, I didn't get up until eleven o'clock. I dressed quickly. I hurried to find out the [[nautilus|Nautilus]]'s heading. The instruments indicated that it was running southward at a speed of twenty miles per hour and a depth of 100 meters.
 
-[TTLU-034-003]Conseil entered. I described our nocturnal excursion to him, and since the panels were open, he could still catch a glimpse of this submerged continent.
+[TTLU-034-003][[conseil|Conseil]] entered. I described our nocturnal excursion to him, and since the panels were open, he could still catch a glimpse of this submerged continent.
 
 [TTLU-034-004]In fact, the Nautilus was skimming only ten meters over the soil of these Atlantis plains. The ship scudded along like an air balloon borne by the wind over some prairie on land; but it would be more accurate to say that we sat in the lounge as if we were riding in a coach on an express train. As for the foregrounds passing before our eyes, they were fantastically carved rocks, forests of trees that had crossed over from the vegetable kingdom into the mineral kingdom, their motionless silhouettes sprawling beneath the waves. There also were stony masses buried beneath carpets of axidia and sea anemone, bristling with long, vertical water plants, then strangely contoured blocks of lava that testified to all the fury of those plutonic developments.
 
@@ -46,7 +46,7 @@ tags: [chapter]
 
 [TTLU-034-017]"Is that you, professor?"
 
-[TTLU-034-018]"Ah, Captain Nemo!" I replied. "Where are we?"
+[TTLU-034-018]"Ah, [[captain-nemo|Captain Nemo]]!" I replied. "Where are we?"
 
 [TTLU-034-019]"Underground, professor."
 
@@ -94,7 +94,7 @@ tags: [chapter]
 
 [TTLU-034-041]I thanked the captain and went to look for my two companions, who hadn't yet left their cabin. I invited them to follow me, not telling them where we were.
 
-[TTLU-034-042]They climbed onto the platform. Conseil, whom nothing could startle, saw it as a perfectly natural thing to fall asleep under the waves and wake up under a mountain. But Ned Land had no idea in his head other than to see if this cavern offered some way out.
+[TTLU-034-042]They climbed onto the platform. Conseil, whom nothing could startle, saw it as a perfectly natural thing to fall asleep under the waves and wake up under a mountain. But [[ned-land|Ned Land]] had no idea in his head other than to see if this cavern offered some way out.
 
 [TTLU-034-043]After breakfast near ten o'clock, we went down onto the embankment.
 

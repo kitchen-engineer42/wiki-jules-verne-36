@@ -13,13 +13,13 @@ tags: [chapter]
 
 [AWED-032-001]IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE
 
-[AWED-032-002]The China, in leaving, seemed to have carried off Phileas Fogg's last hope. None of the other steamers were able to serve his projects. The Pereire, of the French Transatlantic Company, whose admirable steamers are equal to any in speed and comfort, did not leave until the 14th; the Hamburg boats did not go directly to Liverpool or London, but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail. The Inman steamer did not depart till the next day, and could not cross the Atlantic in time to save the wager.
+[AWED-032-002]The China, in leaving, seemed to have carried off [[phileas-fogg|Phileas Fogg]]'s last hope. None of the other steamers were able to serve his projects. The Pereire, of the French Transatlantic Company, whose admirable steamers are equal to any in speed and comfort, did not leave until the 14th; the Hamburg boats did not go directly to Liverpool or London, but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail. The Inman steamer did not depart till the next day, and could not cross the Atlantic in time to save the wager.
 
 [AWED-032-003]Mr. Fogg learned all this in consulting his Bradshaw, which gave him the daily movements of the trans-Atlantic steamers.
 
-[AWED-032-004]Passepartout was crushed; it overwhelmed him to lose the boat by three-quarters of an hour. It was his fault, for, instead of helping his master, he had not ceased putting obstacles in his path! And when he recalled all the incidents of the tour, when he counted up the sums expended in pure loss and on his own account, when he thought that the immense stake, added to the heavy charges of this useless journey, would completely ruin Mr. Fogg, he overwhelmed himself with bitter self-accusations. Mr. Fogg, however, did not reproach him; and, on leaving the Cunard pier, only said: "We will consult about what is best to-morrow. Come."
+[AWED-032-004][[passepartout|Passepartout]] was crushed; it overwhelmed him to lose the boat by three-quarters of an hour. It was his fault, for, instead of helping his master, he had not ceased putting obstacles in his path! And when he recalled all the incidents of the tour, when he counted up the sums expended in pure loss and on his own account, when he thought that the immense stake, added to the heavy charges of this useless journey, would completely ruin Mr. Fogg, he overwhelmed himself with bitter self-accusations. Mr. Fogg, however, did not reproach him; and, on leaving the Cunard pier, only said: "We will consult about what is best to-morrow. Come."
 
-[AWED-032-005]The party crossed the Hudson in the Jersey City ferryboat, and drove in a carriage to the St. Nicholas Hotel, on Broadway. Rooms were engaged, and the night passed, briefly to Phileas Fogg, who slept profoundly, but very long to Aouda and the others, whose agitation did not permit them to rest.
+[AWED-032-005]The party crossed the Hudson in the Jersey City ferryboat, and drove in a carriage to the St. Nicholas Hotel, on Broadway. Rooms were engaged, and the night passed, briefly to Phileas Fogg, who slept profoundly, but very long to [[aouda|Aouda]] and the others, whose agitation did not permit them to rest.
 
 [AWED-032-006]The next day was the 12th of December. From seven in the morning of the 12th to a quarter before nine in the evening of the 21st there were nine days, thirteen hours, and forty-five minutes. If Phileas Fogg had left in the China, one of the fastest steamers on the Atlantic, he would have reached Liverpool, and then London, within the period agreed upon.
 
@@ -87,7 +87,7 @@ tags: [chapter]
 
 [AWED-032-038]"No."
 
-[AWED-032-039]Phileas Fogg did not betray the least disappointment; but the situation was a grave one. It was not at New York as at Hong Kong, nor with the captain of the Henrietta as with the captain of the Tankadere. Up to this time money had smoothed away every obstacle. Now money failed.
+[AWED-032-039]Phileas Fogg did not betray the least disappointment; but the situation was a grave one. It was not at New York as at [[hong-kong|Hong Kong]], nor with the captain of the Henrietta as with the captain of the Tankadere. Up to this time money had smoothed away every obstacle. Now money failed.
 
 [AWED-032-040]Still, some means must be found to cross the Atlantic on a boat, unless by balloon--which would have been venturesome, besides not being capable of being put in practice. It seemed that Phileas Fogg had an idea, for he said to the captain, "Well, will you carry me to Bordeaux?"
 
@@ -107,7 +107,7 @@ tags: [chapter]
 
 [AWED-032-048]"We will be on board at nine o'clock," replied, no less simply, Mr. Fogg.
 
-[AWED-032-049]It was half-past eight. To disembark from the Henrietta, jump into a hack, hurry to the St. Nicholas, and return with Aouda, Passepartout, and even the inseparable Fix was the work of a brief time, and was performed by Mr. Fogg with the coolness which never abandoned him. They were on board when the Henrietta made ready to weigh anchor.
+[AWED-032-049]It was half-past eight. To disembark from the Henrietta, jump into a hack, hurry to the St. Nicholas, and return with Aouda, Passepartout, and even the inseparable [[fix|Fix]] was the work of a brief time, and was performed by Mr. Fogg with the coolness which never abandoned him. They were on board when the Henrietta made ready to weigh anchor.
 
 [AWED-032-050]When Passepartout heard what this last voyage was going to cost, he uttered a prolonged "Oh!" which extended throughout his vocal gamut.
 

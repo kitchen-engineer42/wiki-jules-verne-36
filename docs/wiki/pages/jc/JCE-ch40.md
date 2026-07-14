@@ -15,7 +15,7 @@ tags: [chapter]
 
 [JCE-040-002]Since the start upon this marvellous pilgrimage I had been through so many astonishments that I might well be excused for thinking myself well hardened against any further surprise. Yet at the sight of these two letters, engraved on this spot three hundred years ago, I stood aghast in dumb amazement. Not only were the initials of the learned alchemist visible upon the living rock, but there lay the iron point with which the letters had been engraved. I could no longer doubt of the existence of that wonderful traveller and of the fact of his unparalleled journey, without the most glaring incredulity.
 
-[JCE-040-003]Whilst these reflections were occupying me, Professor Liedenbrock had launched into a somewhat rhapsodical eulogium, of which Arne Saknussemm was, of course, the hero.
+[JCE-040-003]Whilst these reflections were occupying me, [[professor-lidenbrock|Professor Liedenbrock]] had launched into a somewhat rhapsodical eulogium, of which Arne Saknussemm was, of course, the hero.
 
 [JCE-040-004]"Thou marvellous genius!" he cried, "thou hast not forgotten one indication which might serve to lay open to mortals the road through the terrestrial crust; and thy fellow-creatures may even now, after the lapse of three centuries, again trace thy footsteps through these deep and darksome ways. You reserved the contemplation of these wonders for other eyes besides your own. Your name, graven from stage to stage, leads the bold follower of your footsteps to the very centre of our planet's core, and there again we shall find your own name written with your own hand. I too will inscribe my name upon this dark granite page. But for ever henceforth let this cape that advances into the sea discovered by yourself be known by your own illustrious name - Cape Saknussemm."
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [JCE-040-010]I said: "Uncle, do you know it seems to me that circumstances have wonderfully befriended us hitherto?"
 
-[JCE-040-011]"You think so, Axel?"
+[JCE-040-011]"You think so, [[axel|Axel]]?"
 
 [JCE-040-012]"No doubt; even the tempest has put us on the right way. Blessings on that storm! It has brought us back to this coast from which fine weather would have carried us far away. Suppose we had touched with our prow (the prow of a rudder!) the southern shore of the Liedenbrock sea, what would have become of us? We should never have seen the name of Saknussemm, and we should at this moment be imprisoned on a rockbound, impassable coast."
 

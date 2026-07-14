@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 22
 
-[TTLU-022-001]The Lightning Bolts of Captain Nemo
+[TTLU-022-001]The Lightning Bolts of [[captain-nemo|Captain Nemo]]
 
-[TTLU-022-002]WITHOUT STANDING UP, we stared in the direction of the forest, my hand stopping halfway to my mouth, Ned Land's completing its assignment.
+[TTLU-022-002]WITHOUT STANDING UP, we stared in the direction of the forest, my hand stopping halfway to my mouth, [[ned-land|Ned Land]]'s completing its assignment.
 
-[TTLU-022-003]"Stones don't fall from the sky," Conseil said, "or else they deserve to be called meteorites."
+[TTLU-022-003]"Stones don't fall from the sky," [[conseil|Conseil]] said, "or else they deserve to be called meteorites."
 
 [TTLU-022-004]A second well-polished stone removed a tasty ringdove leg from Conseil's hand, giving still greater relevance to his observation.
 
@@ -36,7 +36,7 @@ tags: [chapter]
 
 [TTLU-022-012]Ned Land was unwilling to leave his provisions behind, and despite the impending danger, he clutched his pig on one side, his kangaroos on the other, and scampered off with respectable speed.
 
-[TTLU-022-013]In two minutes we were on the strand. Loading provisions and weapons into the skiff, pushing it to sea, and positioning its two oars were the work of an instant. We hadn't gone two cable lengths when a hundred savages, howling and gesticulating, entered the water up to their waists. I looked to see if their appearance might draw some of the Nautilus's men onto the platform. But no. Lying well out, that enormous machine still seemed completely deserted.
+[TTLU-022-013]In two minutes we were on the strand. Loading provisions and weapons into the skiff, pushing it to sea, and positioning its two oars were the work of an instant. We hadn't gone two cable lengths when a hundred savages, howling and gesticulating, entered the water up to their waists. I looked to see if their appearance might draw some of the [[nautilus|Nautilus]]'s men onto the platform. But no. Lying well out, that enormous machine still seemed completely deserted.
 
 [TTLU-022-014]Twenty minutes later we boarded ship. The hatches were open. After mooring the skiff, we reentered the Nautilus's interior.
 

@@ -117,7 +117,7 @@ tags: [chapter]
 
 [FWB-036-053]One of them was very perceptibly gaining on Joe, and was about to pierce him with his lance, when Kennedy, with fixed eye and steady hand, stopped him short with a ball, that hurled him to the earth.
 
-[FWB-036-054]Joe did not even turn his head at the report. Some of the horsemen reined in their barbs, and fell on their faces in the dust as they caught sight of the Victoria; the rest continued their pursuit.
+[FWB-036-054]Joe did not even turn his head at the report. Some of the horsemen reined in their barbs, and fell on their faces in the dust as they caught sight of [[victoria-balloon|the Victoria]]; the rest continued their pursuit.
 
 [FWB-036-055]"But what is Joe about?" said Kennedy; "he don't stop!"
 

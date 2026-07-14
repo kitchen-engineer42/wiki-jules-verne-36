@@ -21,7 +21,7 @@ tags: [chapter]
 
 [FEM-020-005]"We are here to discuss the moon, not the earth."
 
-[FEM-020-006]"You are right, sir," answered Michel Ardan, "the discussion has wandered from the point; we will return to the moon."
+[FEM-020-006]"You are right, sir," answered [[michel-ardan|Michel Ardan]], "the discussion has wandered from the point; we will return to the moon."
 
 [FEM-020-007]"Sir," resumed the unknown man, "you pretend that our satellite is inhabited. So far so good; but if Selenites do exist they certainly live without breathing, for--I tell you the fact for your good--there is not the least particle of air on the surface of the moon."
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [FEM-020-021]"So much the better," replied the Frenchman, "if my madness takes me to the moon!"
 
-[FEM-020-022]Barbicane and his colleagues stared at the intruder who had come so boldly to stand in the way of their enterprise. None of them knew him, and the president, not reassured upon the upshot of such a discussion, looked at his new friend with some apprehension. The assembly was attentive and slightly uneasy, for this struggle called attention to the dangers and impossibilities of the expedition.
+[FEM-020-022][[barbicane|Barbicane]] and his colleagues stared at the intruder who had come so boldly to stand in the way of their enterprise. None of them knew him, and the president, not reassured upon the upshot of such a discussion, looked at his new friend with some apprehension. The assembly was attentive and slightly uneasy, for this struggle called attention to the dangers and impossibilities of the expedition.
 
 [FEM-020-023]"Sir," resumed Michel Ardan's adversary, "the reasons that prove the absence of all atmosphere round the moon are numerous and indisputable. I may say, even, that, _à priori_ if that atmosphere had ever existed, it must have been drawn away by the earth, but I would rather oppose you with incontestable facts."
 
@@ -189,7 +189,7 @@ tags: [chapter]
 
 [FEM-020-089]The cries of the immense crowds kept at their maximum of intensity during this triumphant march. Michel Ardan allowed himself to be carried with evident pleasure.
 
-[FEM-020-090]Sometimes the platform pitched and tossed like a ship beaten by the waves. But the two heroes of the meeting were good sailors, and their vessel safely arrived in the port of Tampa Town.
+[FEM-020-090]Sometimes the platform pitched and tossed like a ship beaten by the waves. But the two heroes of the meeting were good sailors, and their vessel safely arrived in the port of [[tampa-town|Tampa Town]].
 
 [FEM-020-091]Michel Ardan happily succeeded in escaping from his vigorous admirers. He fled to the Franklin Hotel, quickly reached his room, and glided rapidly into bed whilst an army of 100,000 men watched under his windows.
 

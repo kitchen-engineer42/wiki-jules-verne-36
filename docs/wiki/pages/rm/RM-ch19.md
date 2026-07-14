@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RM-019-001]A STRUGGLE WITH THE IMPOSSIBLE.
 
-[RM-019-002]For some time Barbicane and his companions, mute and pensive, looked at this world, which they had only seen from a distance, like Moses saw Canaan, and from which they were going away for ever. The position of the projectile relatively to the moon was modified, and now its lower end was turned towards the earth.
+[RM-019-002]For some time [[barbicane|Barbicane]] and his companions, mute and pensive, looked at this world, which they had only seen from a distance, like Moses saw Canaan, and from which they were going away for ever. The position of the projectile relatively to the moon was modified, and now its lower end was turned towards the earth.
 
 [RM-019-003]This change, verified by Barbicane, surprised him greatly. If the bullet was going to gravitate round the satellite in an elliptical orbit, why was not its heaviest part turned towards it like the moon to the earth? There again was an obscure point.
 
@@ -23,7 +23,7 @@ tags: [chapter]
 
 [RM-019-006]Questions immediately began to shower upon him.
 
-[RM-019-007]"What will become of us after we have reached the neutral point?" asked Michel Ardan.
+[RM-019-007]"What will become of us after we have reached the neutral point?" asked [[michel-ardan|Michel Ardan]].
 
 [RM-019-008]"That is unknown!" answered Barbicane.
 
@@ -225,7 +225,7 @@ tags: [chapter]
 
 [RM-019-107]In fact, the frightful fall had begun. The velocity kept by the projectile had sent it beyond the neutral point. The explosion of the fuses had not stopped it. That velocity which had carried the projectile beyond the neutral line as it went was destined to do the same upon its return. The law of physics condemned it, in its elliptical orbit, _to pass by every point it had already passed_.
 
-[RM-019-108]It was a terrible fall from a height of 78,000 leagues, and which no springs could deaden. According to the laws of ballistics the projectile would strike the earth with a velocity equal to that which animated it as it left the Columbiad--a velocity of "16,000 metres in the last second!"
+[RM-019-108]It was a terrible fall from a height of 78,000 leagues, and which no springs could deaden. According to the laws of ballistics the projectile would strike the earth with a velocity equal to that which animated it as it left the [[columbiad|Columbiad]]--a velocity of "16,000 metres in the last second!"
 
 [RM-019-109]And in order to give some figures for comparison it has been calculated that an object thrown from the towers of Notre Dame, the altitude of which is only 200 feet, would reach the pavement with a velocity of 120 leagues an hour. Here the projectile would strike the earth with a velocity of 57,600 _leagues an hour_.
 

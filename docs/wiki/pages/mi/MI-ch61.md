@@ -12,9 +12,9 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 19
 
-[MI-061-001]The next day, the 8th day of January, after a day and night passed at the corral, where they left all in order, Cyrus Harding and Ayrton arrived at Granite House.
+[MI-061-001]The next day, the 8th day of January, after a day and night passed at the corral, where they left all in order, [[cyrus-harding|Cyrus Harding]] and Ayrton arrived at [[granite-house|Granite House]].
 
-[MI-061-002]The engineer immediately called his companions together, and informed them of the imminent danger which threatened Lincoln Island, and from which no human power could deliver them.
+[MI-061-002]The engineer immediately called his companions together, and informed them of the imminent danger which threatened [[lincoln-island|Lincoln Island]], and from which no human power could deliver them.
 
 [MI-061-003]"My friends," he said, and his voice betrayed the depth of his emotion, "our island is not among those which will endure while this earth endures. It is doomed to more or less speedy destruction, the cause of which it bears within itself, and from which nothing can save it."
 
@@ -22,7 +22,7 @@ tags: [chapter]
 
 [MI-061-005]"Explain yourself, Cyrus!" said Gideon Spilett.
 
-[MI-061-006]"I will do so," replied Cyrus Harding, "or rather I will simply afford you the explanation which, during our few minutes of private conversation, was given me by Captain Nemo."
+[MI-061-006]"I will do so," replied Cyrus Harding, "or rather I will simply afford you the explanation which, during our few minutes of private conversation, was given me by [[captain-nemo|Captain Nemo]]."
 
 [MI-061-007]"Captain Nemo!" exclaimed the colonists.
 
@@ -80,7 +80,7 @@ tags: [chapter]
 
 [MI-061-034]To contend against this disaster would have been folly--nay, madness. In presence of Nature's grand convulsions man is powerless.
 
-[MI-061-035]It was now daylight--the 24th of January. Cyrus Harding and his companions, before returning to Granite House, desired to ascertain the probable direction this inundation of lava was about to take. The soil sloped gradually from Mount Franklin to the east coast, and it was to be feared that, in spite of the thick Jacamar Wood, the torrent would reach the plateau of Prospect Heights.
+[MI-061-035]It was now daylight--the 24th of January. Cyrus Harding and his companions, before returning to Granite House, desired to ascertain the probable direction this inundation of lava was about to take. The soil sloped gradually from [[mount-franklin|Mount Franklin]] to the east coast, and it was to be feared that, in spite of the thick Jacamar Wood, the torrent would reach the plateau of Prospect Heights.
 
 [MI-061-036]"The lake will cover us," said Gideon Spilett.
 
@@ -166,7 +166,7 @@ tags: [chapter]
 
 [MI-061-077]"Nor I!" answered Neb seriously.
 
-[MI-061-078]During the first week of March appearances again became menacing. Thousands of threads like glass, formed of fluid lava, fell like rain upon the island. The crater was again boiling with lava which overflowed the back of the volcano. The torrent flowed along the surface of the hardened tufa, and destroyed the few meager skeletons of trees which had withstood the first eruption. The stream, flowing this time towards the southwest shore of Lake Grant, stretched beyond Creek Glycerine, and invaded the plateau of Prospect Heights. This last blow to the work of the colonists was terrible. The mill, the buildings of the inner court, the stables, were all destroyed. The affrighted poultry fled in all directions. Top and Jup showed signs of the greatest alarm, as if their instinct warned them of an impending catastrophe. A large number of the animals of the island had perished in the first eruption. Those which survived found no refuge but Tadorn Marsh, save a few to which the plateau of Prospect Heights afforded asylum. But even this last retreat was now closed to them, and the lava-torrent, flowing over the edge of the granite wall, began to pour down upon the beach its cataracts of fire. The sublime horror of this spectacle passed all description. During the night it could only be compared to a Niagara of molten fluid, with its incandescent vapors above and its boiling masses below.
+[MI-061-078]During the first week of March appearances again became menacing. Thousands of threads like glass, formed of fluid lava, fell like rain upon the island. The crater was again boiling with lava which overflowed the back of the volcano. The torrent flowed along the surface of the hardened tufa, and destroyed the few meager skeletons of trees which had withstood the first eruption. The stream, flowing this time towards the southwest shore of Lake Grant, stretched beyond Creek Glycerine, and invaded the plateau of Prospect Heights. This last blow to the work of the colonists was terrible. The mill, the buildings of the inner court, the stables, were all destroyed. The affrighted poultry fled in all directions. [[top|Top]] and Jup showed signs of the greatest alarm, as if their instinct warned them of an impending catastrophe. A large number of the animals of the island had perished in the first eruption. Those which survived found no refuge but Tadorn Marsh, save a few to which the plateau of Prospect Heights afforded asylum. But even this last retreat was now closed to them, and the lava-torrent, flowing over the edge of the granite wall, began to pour down upon the beach its cataracts of fire. The sublime horror of this spectacle passed all description. During the night it could only be compared to a Niagara of molten fluid, with its incandescent vapors above and its boiling masses below.
 
 [MI-061-079]The colonists were driven to their last entrenchment, and although the upper seams of the vessel were not yet calked, they decided to launch her at once.
 

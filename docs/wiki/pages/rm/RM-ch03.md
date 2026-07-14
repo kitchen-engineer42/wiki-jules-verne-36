@@ -19,13 +19,13 @@ tags: [chapter]
 
 [RM-003-004]This noise was a very distinct bark.
 
-[RM-003-005]"The dogs! It is the dogs!" cried Michel Ardan, getting up immediately.
+[RM-003-005]"The dogs! It is the dogs!" cried [[michel-ardan|Michel Ardan]], getting up immediately.
 
 [RM-003-006]"They are hungry," said Nicholl.
 
 [RM-003-007]"I should think so," answered Michel; "we have forgotten them."
 
-[RM-003-008]"Where are they?" asked Barbicane.
+[RM-003-008]"Where are they?" asked [[barbicane|Barbicane]].
 
 [RM-003-009]One of the animals was found cowering under the divan. Terrified and stunned by the first shock, it had remained in a corner until the moment it had recovered its voice along with the feeling of hunger.
 

@@ -14,7 +14,7 @@ tags: [chapter]
 
 [MI-013-001]"Well, captain, where are we going to begin?" asked Pencroft next morning of the engineer.
 
-[MI-013-002]"At the beginning," replied Cyrus Harding.
+[MI-013-002]"At the beginning," replied [[cyrus-harding|Cyrus Harding]].
 
 [MI-013-003]And in fact, the settlers were compelled to begin "at the very beginning." They did not possess even the tools necessary for making tools, and they were not even in the condition of nature, who, "having time, husbands her strength." They had no time, since they had to provide for the immediate wants of their existence, and though, profiting by acquired experience, they had nothing to invent, still they had everything to make; their iron and their steel were as yet only in the state of minerals, their earthenware in the state of clay, their linen and their clothes in the state of textile material.
 
@@ -54,7 +54,7 @@ tags: [chapter]
 
 [MI-013-021]"Yes, a knife, a sharp blade." said the engineer, as if he was speaking to himself.
 
-[MI-013-022]At this moment his eyes fell upon Top, who was running about on the shore. Suddenly Harding's face became animated.
+[MI-013-022]At this moment his eyes fell upon [[top|Top]], who was running about on the shore. Suddenly Harding's face became animated.
 
 [MI-013-023]"Top, here," said he.
 
@@ -72,7 +72,7 @@ tags: [chapter]
 
 [MI-013-030]The settlers arrived on the ground which had been discovered the day before. Being composed of the sort of clay which is used for making bricks and tiles, it was very useful for the work in question. There was no great difficulty in it. It was enough to scour the clay with sand, then to mold the bricks and bake them by the heat of a wood fire.
 
-[MI-013-031]Generally bricks are formed in molds, but the engineer contented himself with making them by hand. All that day and the day following were employed in this work. The clay, soaked in water, was mixed by the feet and hands of the manipulators, and then divided into pieces of equal size. A practiced workman can make, without a machine, about ten thousand bricks in twelve hours; but in their two days work the five brickmakers on Lincoln Island had not made more than three thousand, which were ranged near each other, until the time when their complete desiccation would permit them to be used in building the oven, that is to say, in three or four days.
+[MI-013-031]Generally bricks are formed in molds, but the engineer contented himself with making them by hand. All that day and the day following were employed in this work. The clay, soaked in water, was mixed by the feet and hands of the manipulators, and then divided into pieces of equal size. A practiced workman can make, without a machine, about ten thousand bricks in twelve hours; but in their two days work the five brickmakers on [[lincoln-island|Lincoln Island]] had not made more than three thousand, which were ranged near each other, until the time when their complete desiccation would permit them to be used in building the oven, that is to say, in three or four days.
 
 [MI-013-032]It was on the 2nd of April that Harding had employed himself in fixing the orientation of the island, or, in other words, the precise spot where the sun rose. The day before he had noted exactly the hour when the sun disappeared beneath the horizon, making allowance for the refraction. This morning he noted, no less exactly, the hour at which it reappeared. Between this setting and rising twelve hours, twenty-four minutes passed. Then, six hours, twelve minutes after its rising, the sun on this day would exactly pass the meridian and the point of the sky which it occupied at this moment would be the north. At the said hour, Cyrus marked this point, and putting in a line with the sun two trees which would serve him for marks, he thus obtained an invariable meridian for his ulterior operations.
 
@@ -114,7 +114,7 @@ tags: [chapter]
 
 [MI-013-051]The colonists had a good supper that evening. Neb prepared some agouti soup, a smoked capybara ham, to which was added the boiled tubercules of the "caladium macrorhizum," an herbaceous plant of the arum family. They had an excellent taste, and were very nutritious, being something similar to the substance which is sold in England under the name of "Portland sago"; they were also a good substitute for bread, which the settlers in Lincoln Island did not yet possess.
 
-[MI-013-052]When supper was finished, before sleeping, Harding and his companions went to take the air on the beach. It was eight o'clock in the evening; the night was magnificent. The moon, which had been full five days before, had not yet risen, but the horizon was already silvered by those soft, pale shades which might be called the dawn of the moon. At the southern zenith glittered the circumpolar constellations, and above all the Southern Cross, which some days before the engineer had greeted on the summit of Mount Franklin.
+[MI-013-052]When supper was finished, before sleeping, Harding and his companions went to take the air on the beach. It was eight o'clock in the evening; the night was magnificent. The moon, which had been full five days before, had not yet risen, but the horizon was already silvered by those soft, pale shades which might be called the dawn of the moon. At the southern zenith glittered the circumpolar constellations, and above all the Southern Cross, which some days before the engineer had greeted on the summit of [[mount-franklin|Mount Franklin]].
 
 [MI-013-053]Cyrus Harding gazed for some time at this splendid constellation, which has at its summit and at its base two stars of the first magnitude, at its left arm a star of the second, and at its right arm a star of the third magnitude.
 

@@ -25,9 +25,9 @@ tags: [chapter]
 
 [FEM-009-007]"My dear comrades," said the distinguished chemist, "I am going to begin with some unexceptionable figures, which will serve as a basis for our calculation. The 24-lb. cannon-ball, of which the Hon. J.T. Maston spoke the day before yesterday, is driven out of the cannon by 16 lbs. of powder only."
 
-[FEM-009-008]"You are certain of your figures?" asked Barbicane.
+[FEM-009-008]"You are certain of your figures?" asked [[barbicane|Barbicane]].
 
-[FEM-009-009]"Absolutely certain," answered the major. "The Armstrong cannon only uses 75 lbs. of powder for a projectile of 800 lbs., and the Rodman Columbiad only expends 160 lbs. of powder to send its half-ton bullet six miles. These facts cannot be doubted, for I found them myself in the reports of the Committee of Artillery."
+[FEM-009-009]"Absolutely certain," answered the major. "The Armstrong cannon only uses 75 lbs. of powder for a projectile of 800 lbs., and the Rodman [[columbiad|Columbiad]] only expends 160 lbs. of powder to send its half-ton bullet six miles. These facts cannot be doubted, for I found them myself in the reports of the Committee of Artillery."
 
 [FEM-009-010]"That is certain," answered the general.
 
@@ -107,7 +107,7 @@ tags: [chapter]
 
 [FEM-009-048]"This matter," said the president, "is obtained in perfect purity in different things, especially in cotton, which is nothing but the skin of the seeds of the cotton plant. Now cotton, combined with cold nitric acid, is transformed into a substance eminently insoluble, eminently combustible, eminently explosive. Some years ago, in 1832, a French chemist, Braconnot, discovered this substance, which he called xyloidine. In 1838, another Frenchman, Pelouze, studied its different properties; and lastly, in 1846, Schonbein, professor of chemistry at Basle, proposed it as gunpowder. This powder is nitric cotton."
 
-[FEM-009-049]"Or pyroxyle," answered Elphinstone.
+[FEM-009-049]"Or [[gun-cotton|pyroxyle]]," answered Elphinstone.
 
 [FEM-009-050]"Or fulminating cotton," replied Morgan.
 

@@ -20,7 +20,7 @@ tags: [chapter]
 
 [TTLU-006-004]By then the darkness was profound, and as good as the Canadian's eyes were, I still wondered how he could see--and what he had seen. My heart was pounding fit to burst.
 
-[TTLU-006-005]But Ned Land was not mistaken, and we all spotted the object his hand was indicating.
+[TTLU-006-005]But [[ned-land|Ned Land]] was not mistaken, and we all spotted the object his hand was indicating.
 
 [TTLU-006-006]Two cable lengths off the Abraham Lincoln's starboard quarter, the sea seemed to be lit up from underneath. This was no mere phosphorescent phenomenon, that much was unmistakable. Submerged some fathoms below the surface of the water, the monster gave off that very intense but inexplicable glow that several captains had mentioned in their reports. This magnificent radiance had to come from some force with a great illuminating capacity. The edge of its light swept over the sea in an immense, highly elongated oval, condensing at the center into a blazing core whose unbearable glow diminished by degrees outward.
 
@@ -154,7 +154,7 @@ tags: [chapter]
 
 [TTLU-006-071]A typical American order if I ever heard one. It would have sounded just fine during some Mississippi paddle-wheeler race, to "outstrip the competition!"
 
-[TTLU-006-072]"Conseil," I said to my gallant servant, now at my side, "you realize that we'll probably blow ourselves skyhigh?"
+[TTLU-006-072]"[[conseil|Conseil]]," I said to my gallant servant, now at my side, "you realize that we'll probably blow ourselves skyhigh?"
 
 [TTLU-006-073]"As master wishes!" Conseil replied.
 

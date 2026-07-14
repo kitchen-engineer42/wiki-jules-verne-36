@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FWB-037-001]The Western Route.--Joe wakes up.--His Obstinacy.--End of Joe's Narrative.--Tagelei.--Kennedy's Anxieties.--The Route to the North.--A Night near Aghades.
 
-[FWB-037-002]During the night the wind lulled as though reposing after the boisterousness of the day, and the Victoria remained quietly at the top of the tall sycamore. The doctor and Kennedy kept watch by turns, and Joe availed himself of the chance to sleep most sturdily for twenty-four hours at a stretch.
+[FWB-037-002]During the night the wind lulled as though reposing after the boisterousness of the day, and [[victoria-balloon|the Victoria]] remained quietly at the top of the tall sycamore. The doctor and Kennedy kept watch by turns, and Joe availed himself of the chance to sleep most sturdily for twenty-four hours at a stretch.
 
 [FWB-037-003]"That's the remedy he needs," said Dr. Ferguson. "Nature will take charge of his care."
 

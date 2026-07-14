@@ -1,0 +1,6 @@
+# Phase 9-C wikify deny list — aliases that must NOT be auto-linked.
+# One term per line. Full-line # comments are ignored; no inline comments.
+# "About": common word ("about half-past six") false-matches system About page.
+# "Forward": exclamation "Forward!" false-matches ship The Forward (ship still links via full label).
+About
+Forward

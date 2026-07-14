@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-019-001]ANCHORED AT LAST
 
-[RC-019-002]When the "Albatross" was high in the air the island could be seen to be of moderate size. But on what parallel was it situated? What meridian ran through it? Was it an island in the Pacific, in Australasia, or in the Indian Ocean? When the sun appeared, and Robur had taken his observations, they would know; but although they could not trust to the indications of the compass there was reason to think they were in the Pacific.
+[RC-019-002]When the "[[albatross|Albatross]]" was high in the air the island could be seen to be of moderate size. But on what parallel was it situated? What meridian ran through it? Was it an island in the Pacific, in Australasia, or in the Indian Ocean? When the sun appeared, and [[robur|Robur]] had taken his observations, they would know; but although they could not trust to the indications of the compass there was reason to think they were in the Pacific.
 
 [RC-019-003]At this height--one hundred and fifty feet--the island which measured about fifteen miles round, was like a three-pointed star in the sea.
 

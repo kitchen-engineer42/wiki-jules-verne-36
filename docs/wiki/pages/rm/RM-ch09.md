@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RM-009-001]THE CONSEQUENCES OF DEVIATION.
 
-[RM-009-002]Barbicane had now no fear, if not about the issue of the journey, at least about the projectile's force of impulsion. Its own speed would carry it beyond the neutral line. Therefore it would not return to the earth nor remain motionless upon the point of attraction. One hypothesis only remained to be realised, the arrival of the bullet at its goal under the action of lunar attraction.
+[RM-009-002][[barbicane|Barbicane]] had now no fear, if not about the issue of the journey, at least about the projectile's force of impulsion. Its own speed would carry it beyond the neutral line. Therefore it would not return to the earth nor remain motionless upon the point of attraction. One hypothesis only remained to be realised, the arrival of the bullet at its goal under the action of lunar attraction.
 
 [RM-009-003]In reality it was a fall of 8,296 leagues upon a planet, it is true, where the gravity is six times less than upon the earth. Nevertheless it would be a terrible fall, and one against which all precautions ought to be taken without delay.
 
@@ -35,11 +35,11 @@ tags: [chapter]
 
 [RM-009-012]"We must act as though we should," answered Barbicane.
 
-[RM-009-013]"You are faint-hearted fellows," replied Michel Ardan. "We shall get there, and quicker than we want."
+[RM-009-013]"You are faint-hearted fellows," replied [[michel-ardan|Michel Ardan]]. "We shall get there, and quicker than we want."
 
 [RM-009-014]This answer recalled Barbicane to his preparations, and he occupied himself with placing the contrivances destined to retard the fall.
 
-[RM-009-015]It will be remembered that, at the meeting held in Tampa Town, Florida, Captain Nicholl appeared as Barbicane's enemy, and Michel Ardan's adversary. When Captain Nicholl said that the projectile would be broken like glass, Michel answered that he would retard the fall by means of fusees properly arranged.
+[RM-009-015]It will be remembered that, at the meeting held in [[tampa-town|Tampa Town]], Florida, Captain Nicholl appeared as Barbicane's enemy, and Michel Ardan's adversary. When Captain Nicholl said that the projectile would be broken like glass, Michel answered that he would retard the fall by means of fusees properly arranged.
 
 [RM-009-016]In fact, powerful fusees, resting upon the bottom, and being fired outside, might, by producing a recoil action, lessen the speed of the bullet. These fusees were to burn in the void it is true, but oxygen would not fail them, for they would furnish that themselves like the lunar volcanoes, the deflagration of which has never been prevented by the want of atmosphere around the moon.
 
@@ -55,7 +55,7 @@ tags: [chapter]
 
 [RM-009-022]"So we are off the line," said Michel. "But how is that?"
 
-[RM-009-023]"I am very much afraid," answered Nicholl, "that notwithstanding all the precautions that were taken, the Columbiad was not aimed correctly. The slightest error would suffice to throw us outside the pale of lunar attraction."
+[RM-009-023]"I am very much afraid," answered Nicholl, "that notwithstanding all the precautions that were taken, the [[columbiad|Columbiad]] was not aimed correctly. The slightest error would suffice to throw us outside the pale of lunar attraction."
 
 [RM-009-024]"Then the cannon was pointed badly?" said Michel.
 

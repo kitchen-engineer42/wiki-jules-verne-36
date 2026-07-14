@@ -14,7 +14,7 @@ tags: [chapter]
 
 [TTLU-005-001]At Random!
 
-[TTLU-005-002]FOR SOME WHILE the voyage of the Abraham Lincoln was marked by no incident. But one circumstance arose that displayed Ned Land's marvelous skills and showed just how much confidence we could place in him.
+[TTLU-005-002]FOR SOME WHILE the voyage of the Abraham Lincoln was marked by no incident. But one circumstance arose that displayed [[ned-land|Ned Land]]'s marvelous skills and showed just how much confidence we could place in him.
 
 [TTLU-005-003]Off the Falkland Islands on June 30, the frigate came in contact with a fleet of American whalers, and we learned that they hadn't seen the narwhale. But one of them, the captain of the Monroe, knew that Ned Land had shipped aboard the Abraham Lincoln and asked his help in hunting a baleen whale that was in sight. Anxious to see Ned Land at work, Commander Farragut authorized him to make his way aboard the Monroe. And the Canadian had such good luck that with a right-and-left shot, he harpooned not one whale but two, striking the first straight to the heart and catching the other after a few minutes' chase!
 
@@ -30,7 +30,7 @@ tags: [chapter]
 
 [TTLU-005-009]And they opened amazingly wide. Eyes and spyglasses (a bit dazzled, it is true, by the vista of $2,000.00) didn't remain at rest for an instant. Day and night we observed the surface of the ocean, and those with nyctalopic eyes, whose ability to see in the dark increased their chances by fifty percent, had an excellent shot at winning the prize.
 
-[TTLU-005-010]As for me, I was hardly drawn by the lure of money and yet was far from the least attentive on board. Snatching only a few minutes for meals and a few hours for sleep, come rain or come shine, I no longer left the ship's deck. Sometimes bending over the forecastle railings, sometimes leaning against the sternrail, I eagerly scoured that cotton-colored wake that whitened the ocean as far as the eye could see! And how many times I shared the excitement of general staff and crew when some unpredictable whale lifted its blackish back above the waves. In an instant the frigate's deck would become densely populated. The cowls over the companionways would vomit a torrent of sailors and officers. With panting chests and anxious eyes, we each would observe the cetacean's movements. I stared; I stared until I nearly went blind from a worn-out retina, while Conseil, as stoic as ever, kept repeating to me in a calm tone:
+[TTLU-005-010]As for me, I was hardly drawn by the lure of money and yet was far from the least attentive on board. Snatching only a few minutes for meals and a few hours for sleep, come rain or come shine, I no longer left the ship's deck. Sometimes bending over the forecastle railings, sometimes leaning against the sternrail, I eagerly scoured that cotton-colored wake that whitened the ocean as far as the eye could see! And how many times I shared the excitement of general staff and crew when some unpredictable whale lifted its blackish back above the waves. In an instant the frigate's deck would become densely populated. The cowls over the companionways would vomit a torrent of sailors and officers. With panting chests and anxious eyes, we each would observe the cetacean's movements. I stared; I stared until I nearly went blind from a worn-out retina, while [[conseil|Conseil]], as stoic as ever, kept repeating to me in a calm tone:
 
 [TTLU-005-011]"If master's eyes would kindly stop bulging, master will see farther!"
 

@@ -12,13 +12,13 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 18
 
-[MI-018-001]Cyrus Harding's project had succeeded, but, according to his usual habit he showed no satisfaction; with closed lips and a fixed look, he remained motionless. Herbert was in ecstasies, Neb bounded with joy, Pencroft nodded his great head, murmuring these words,--
+[MI-018-001][[cyrus-harding|Cyrus Harding]]'s project had succeeded, but, according to his usual habit he showed no satisfaction; with closed lips and a fixed look, he remained motionless. Herbert was in ecstasies, Neb bounded with joy, Pencroft nodded his great head, murmuring these words,--
 
 [MI-018-002]"Come, our engineer gets on capitally!"
 
-[MI-018-003]The nitro-glycerine had indeed acted powerfully. The opening which it had made was so large that the volume of water which escaped through this new outlet was at least treble that which before passed through the old one. The result was, that a short time after the operation the level of the lake would be lowered two feet, or more.
+[MI-018-003]The [[nitroglycerine|nitro-glycerine]] had indeed acted powerfully. The opening which it had made was so large that the volume of water which escaped through this new outlet was at least treble that which before passed through the old one. The result was, that a short time after the operation the level of the lake would be lowered two feet, or more.
 
-[MI-018-004]The settlers went to the Chimneys to take some pickaxes, iron-tipped spears, string made of fibers, flint and steel; they then returned to the plateau, Top accompanying them.
+[MI-018-004]The settlers went to the Chimneys to take some pickaxes, iron-tipped spears, string made of fibers, flint and steel; they then returned to the plateau, [[top|Top]] accompanying them.
 
 [MI-018-005]On the way the sailor could not help saying to the engineer,--
 
@@ -32,7 +32,7 @@ tags: [chapter]
 
 [MI-018-010]"Oh, captain," replied the sailor, "with a little determination--"
 
-[MI-018-011]Pencroft had erased the word "impossible" from the dictionary of Lincoln Island.
+[MI-018-011]Pencroft had erased the word "impossible" from the dictionary of [[lincoln-island|Lincoln Island]].
 
 [MI-018-012]The settlers, having arrived at Prospect Heights, went immediately towards that point of the lake near which was the old opening now uncovered. This outlet had now become practicable, since the water no longer rushed through it, and it would doubtless be easy to explore the interior.
 
@@ -152,7 +152,7 @@ tags: [chapter]
 
 [MI-018-070]"And we will call it?--" asked Herbert.
 
-[MI-018-071]"Granite House," replied Harding; a name which his companions again saluted with a cheer.
+[MI-018-071]"[[granite-house|Granite House]]," replied Harding; a name which his companions again saluted with a cheer.
 
 [MI-018-072]The torches were now almost consumed, and as they were obliged to return by the passage to reach the summit of the plateau, it was decided to put off the work necessary for the arrangement of their new dwelling till the next day.
 

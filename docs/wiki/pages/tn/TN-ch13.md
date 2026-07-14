@@ -49,7 +49,7 @@ tags: [chapter]
 
 [TN-013-019]Sylvius Hogg then apprised his friend of the important information which had just been received through the Naval Department, and the full permission given him to utilize it.
 
-[TN-013-020]The bottle containing Ole Kamp's lottery-ticket had been picked up on the third of June, about two hundred miles south of Iceland, by the schooner "Christian," of Elsineur, Captain Mosselman, and the wind was blowing strong from the south-east at the time.
+[TN-013-020]The bottle containing Ole Kamp's lottery-ticket had been picked up on the third of June, about two hundred miles south of [[iceland|Iceland]], by the schooner "Christian," of Elsineur, Captain Mosselman, and the wind was blowing strong from the south-east at the time.
 
 [TN-013-021]The captain had immediately examined the contents of the bottle, as it was certainly his duty to do, inasmuch as he might-have rendered very effectual aid to the survivors of the "Viking" had he known where the catastrophe occurred; but the lines scrawled upon the back of the lottery-ticket gave no clew, so the "Christian" could not direct her course to the scene of the shipwreck.
 

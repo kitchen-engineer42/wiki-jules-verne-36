@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 11
 
-[MI-011-001]Half an hour later Cyrus Harding and Herbert had returned to the encampment. The engineer merely told his companions that the land upon which fate had thrown them was an island, and that the next day they would consult. Then each settled himself as well as he could to sleep, and in that rocky hole, at a height of two thousand five hundred feet above the level of the sea, through a peaceful night, the islanders enjoyed profound repose.
+[MI-011-001]Half an hour later [[cyrus-harding|Cyrus Harding]] and Herbert had returned to the encampment. The engineer merely told his companions that the land upon which fate had thrown them was an island, and that the next day they would consult. Then each settled himself as well as he could to sleep, and in that rocky hole, at a height of two thousand five hundred feet above the level of the sea, through a peaceful night, the islanders enjoyed profound repose.
 
 [MI-011-002]The next day, the 30th of March, after a hasty breakfast, which consisted solely of the roasted tragopan, the engineer wished to climb again to the summit of the volcano, so as more attentively to survey the island upon which he and his companions were imprisoned for life perhaps, should the island be situated at a great distance from any land, or if it was out of the course of vessels which visited the archipelagoes of the Pacific Ocean. This time his companions followed him in the new exploration. They also wished to see the island, on the productions of which they must depend for the supply of all their wants.
 
@@ -132,7 +132,7 @@ tags: [chapter]
 
 [MI-011-060]"I should prefer borrowing names from our country," said the reporter, "which would remind us of America."
 
-[MI-011-061]"Yes, for the principal ones," then said Cyrus Harding; "for those of the bays and seas, I admit it willingly. We might give to that vast bay on the east the name of Union Bay, for example; to that large hollow on the south, Washington Bay; to the mountain upon which we are standing, that of Mount Franklin; to that lake which is extended under our eyes, that of Lake Grant; nothing could be better, my friends. These names will recall our country, and those of the great citizens who have honored it; but for the rivers, gulfs, capes, and promontories, which we perceive from the top of this mountain, rather let us choose names which will recall their particular shape. They will impress themselves better on our memory, and at the same time will be more practical. The shape of the island is so strange that we shall not be troubled to imagine what it resembles. As to the streams which we do not know as yet, in different parts of the forest which we shall explore later, the creeks which afterwards will he discovered, we can christen them as we find them. What do you think, my friends?"
+[MI-011-061]"Yes, for the principal ones," then said Cyrus Harding; "for those of the bays and seas, I admit it willingly. We might give to that vast bay on the east the name of Union Bay, for example; to that large hollow on the south, Washington Bay; to the mountain upon which we are standing, that of [[mount-franklin|Mount Franklin]]; to that lake which is extended under our eyes, that of Lake Grant; nothing could be better, my friends. These names will recall our country, and those of the great citizens who have honored it; but for the rivers, gulfs, capes, and promontories, which we perceive from the top of this mountain, rather let us choose names which will recall their particular shape. They will impress themselves better on our memory, and at the same time will be more practical. The shape of the island is so strange that we shall not be troubled to imagine what it resembles. As to the streams which we do not know as yet, in different parts of the forest which we shall explore later, the creeks which afterwards will he discovered, we can christen them as we find them. What do you think, my friends?"
 
 [MI-011-062]The engineer's proposal was unanimously agreed to by his companions. The island was spread out under their eyes like a map, and they had only to give names to all its angles and points. Gideon Spilett would write them down, and the geographical nomenclature of the island would be definitely adopted. First, they named the two bays and the mountain, Union Bay, Washington Bay, and Mount Franklin, as the engineer had suggested.
 
@@ -176,7 +176,7 @@ tags: [chapter]
 
 [MI-011-082]Herbert was going to propose to give it the engineer's name and all his companions would have applauded him, when Cyrus Harding said simply,--
 
-[MI-011-083]"Let us give it the name of a great citizen, my friend; of him who now struggles to defend the unity of the American Republic! Let us call it Lincoln Island!"
+[MI-011-083]"Let us give it the name of a great citizen, my friend; of him who now struggles to defend the unity of the American Republic! Let us call it [[lincoln-island|Lincoln Island]]!"
 
 [MI-011-084]The engineer's proposal was replied to by three hurrahs.
 

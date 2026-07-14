@@ -4,8 +4,8 @@ type: overview
 label: About This Wiki
 aliases: [About, 关于]
 description: A reader's companion to the Collected Works of Jules Verne.
+quality: standard
 ---
-
 # About This Wiki
 
 The **Vernean Voyages Wiki** is a reader's companion to the *Voyages Extraordinaires* — the collected novels and short stories of **Jules Verne** (1828–1905). It catalogs the characters, places, vessels, and inventions that recur across his extraordinary journeys, with each entry cross-linked to the passages where it appears.

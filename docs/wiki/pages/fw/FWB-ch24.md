@@ -57,7 +57,7 @@ tags: [chapter]
 
 [FWB-024-023]The doctor might have escaped this intense heat by rising into a higher range, but, in order to do so, he would have had to consume a large quantity of water, a thing that had now become impossible. He contented himself, therefore, with keeping the balloon at one hundred feet from the ground, and, at that elevation, a feeble current drove it toward the western horizon.
 
-[FWB-024-024]The breakfast consisted of a little dried meat and pemmican. By noon, the Victoria had advanced only a few miles.
+[FWB-024-024]The breakfast consisted of a little dried meat and pemmican. By noon, [[victoria-balloon|the Victoria]] had advanced only a few miles.
 
 [FWB-024-025]"We cannot go any faster," said the doctor; "we no longer command--we have to obey."
 

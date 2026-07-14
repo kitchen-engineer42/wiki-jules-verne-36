@@ -3,8 +3,8 @@ id: TOC
 type: overview
 label: Table of Contents
 description: 'Complete contents of the Collected Works of Jules Verne.'
+quality: standard
 ---
-
 # Table of Contents
 
 ## 1. Twenty Thousand Leagues Under the Sea

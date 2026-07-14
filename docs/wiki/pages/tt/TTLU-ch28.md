@@ -14,13 +14,13 @@ tags: [chapter]
 
 [TTLU-028-001]The Red Sea
 
-[TTLU-028-002]DURING THE DAY of January 29, the island of Ceylon disappeared below the horizon, and at a speed of twenty miles per hour, the Nautilus glided into the labyrinthine channels that separate the Maldive and Laccadive Islands. It likewise hugged Kiltan Island, a shore of madreporic origin discovered by Vasco da Gama in 1499 and one of nineteen chief islands in the island group of the Laccadives, located between latitude 10 degrees and 14 degrees 30' north, and between longitude 50 degrees 72' and 69 degrees east.
+[TTLU-028-002]DURING THE DAY of January 29, the island of Ceylon disappeared below the horizon, and at a speed of twenty miles per hour, the [[nautilus|Nautilus]] glided into the labyrinthine channels that separate the Maldive and Laccadive Islands. It likewise hugged Kiltan Island, a shore of madreporic origin discovered by Vasco da Gama in 1499 and one of nineteen chief islands in the island group of the Laccadives, located between latitude 10 degrees and 14 degrees 30' north, and between longitude 50 degrees 72' and 69 degrees east.
 
 [TTLU-028-003]By then we had fared 16,220 miles, or 7,500 leagues, from our starting point in the seas of Japan.
 
 [TTLU-028-004]The next day, January 30, when the Nautilus rose to the surface of the ocean, there was no more land in sight. Setting its course to the north-northwest, the ship headed toward the Gulf of Oman, carved out between Arabia and the Indian peninsula and providing access to the Persian Gulf.
 
-[TTLU-028-005]This was obviously a blind alley with no possible outlet. So where was Captain Nemo taking us? I was unable to say. Which didn't satisfy the Canadian, who that day asked me where we were going.
+[TTLU-028-005]This was obviously a blind alley with no possible outlet. So where was [[captain-nemo|Captain Nemo]] taking us? I was unable to say. Which didn't satisfy the Canadian, who that day asked me where we were going.
 
 [TTLU-028-006]"We're going, Mr. Ned, where the captain's fancy takes us."
 
@@ -28,7 +28,7 @@ tags: [chapter]
 
 [TTLU-028-008]"All right, we'll return, Mr. Land, and after the Persian Gulf, if the Nautilus wants to visit the Red Sea, the Strait of Bab el Mandeb is still there to let us in!"
 
-[TTLU-028-009]"I don't have to tell you, sir," Ned Land replied, "that the Red Sea is just as landlocked as the gulf, since the Isthmus of Suez hasn't been cut all the way through yet; and even if it was, a boat as secretive as ours wouldn't risk a canal intersected with locks. So the Red Sea won't be our way back to Europe either."
+[TTLU-028-009]"I don't have to tell you, sir," [[ned-land|Ned Land]] replied, "that the Red Sea is just as landlocked as the gulf, since the Isthmus of Suez hasn't been cut all the way through yet; and even if it was, a boat as secretive as ours wouldn't risk a canal intersected with locks. So the Red Sea won't be our way back to Europe either."
 
 [TTLU-028-010]"But I didn't say we'd return to Europe."
 
@@ -84,7 +84,7 @@ tags: [chapter]
 
 [TTLU-028-036]The class Spongiaria contains about 300 species that are encountered in a large number of seas and even in certain streams, where they've been given the name freshwater sponges. But their waters of choice are the Red Sea and the Mediterranean near the Greek Islands or the coast of Syria. These waters witness the reproduction and growth of soft, delicate bath sponges whose prices run as high as 150 francs apiece: the yellow sponge from Syria, the horn sponge from Barbary, etc. But since I had no hope of studying these zoophytes in the seaports of the Levant, from which we were separated by the insuperable Isthmus of Suez, I had to be content with observing them in the waters of the Red Sea.
 
-[TTLU-028-037]So I called Conseil to my side, while at an average depth of eight to nine meters, the Nautilus slowly skimmed every beautiful rock on the easterly coast.
+[TTLU-028-037]So I called [[conseil|Conseil]] to my side, while at an average depth of eight to nine meters, the Nautilus slowly skimmed every beautiful rock on the easterly coast.
 
 [TTLU-028-038]There sponges grew in every shape, globular, stalklike, leaflike, fingerlike. With reasonable accuracy, they lived up to their nicknames of basket sponges, chalice sponges, distaff sponges, elkhorn sponges, lion's paws, peacock's tails, and Neptune's gloves-- designations bestowed on them by fishermen, more poetically inclined than scientists. A gelatinous, semifluid substance coated the fibrous tissue of these sponges, and from this tissue there escaped a steady trickle of water that, after carrying sustenance to each cell, was being expelled by a contracting movement. This jellylike substance disappears when the polyp dies, emitting ammonia as it rots. Finally nothing remains but the fibers, either gelatinous or made of horn, that constitute your household sponge, which takes on a russet hue and is used for various tasks depending on its degree of elasticity, permeability, or resistance to saturation.
 

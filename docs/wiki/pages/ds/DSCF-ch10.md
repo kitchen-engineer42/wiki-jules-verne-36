@@ -93,7 +93,7 @@ tags: [chapter]
 
 [DSCF-010-041]And little Jack, very proud of himself, shook his friend Hercules' hand vigorously.
 
-[DSCF-010-042]The setting of the "Pilgrim's" sails was not yet complete. She still lacked those top-sails whose action is not to be despised under this full-sail movement. Top-sail, royal, stay-sails, would add sensibly to the schooner's speed, and Dick Sand resolved to set them.
+[DSCF-010-042]The setting of the "Pilgrim's" sails was not yet complete. She still lacked those top-sails whose action is not to be despised under this full-sail movement. [[top|Top]]-sail, royal, stay-sails, would add sensibly to the schooner's speed, and Dick Sand resolved to set them.
 
 [DSCF-010-043]This operation would be more difficult than the others, not for the stay-sails, which could be hoisted, hauled aboard and fastened from below, but for the cross-jacks of the foremast. It was necessary to climb to the spars to let them out, and Dick Sand, not wishing to expose any one of his improvised crew, undertook to do it himself.
 

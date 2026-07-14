@@ -17,9 +17,9 @@ tags: [chapter]
 
 [RM-007-003]The next day, the 5th of December, they were all wide awake at 5 a.m. That day was to be the last of their journey if the calculations were exact. That same evening, at midnight, within eighteen hours, at the precise moment of full moon, they would reach her brilliant disc. The next midnight would bring them to the goal of their journey, the most extraordinary one of ancient or modern times. At early dawn, through the windows made silvery with her rays, they saluted the Queen of Night with a confident and joyful hurrah.
 
-[RM-007-004]The moon was sailing majestically across the starry firmament. A few more degrees and she would reach that precise point in space where the projectile was to meet her. According to his own observations, Barbicane thought that he should accost her in her northern hemisphere, where vast plains extend and mountains are rare--a favourable circumstance if the lunar atmosphere was, according to received opinion, stored up in deep places only.
+[RM-007-004]The moon was sailing majestically across the starry firmament. A few more degrees and she would reach that precise point in space where the projectile was to meet her. According to his own observations, [[barbicane|Barbicane]] thought that he should accost her in her northern hemisphere, where vast plains extend and mountains are rare--a favourable circumstance if the lunar atmosphere was, according to received opinion, stored up in deep places only.
 
-[RM-007-005]"Besides," observed Michel Ardan, "a plain is more suitable for landing upon than a mountain. A Selenite landed in Europe on the summit of Mont Blanc, or in Asia on a peak of the Himalayas, would not be precisely at his destination!"
+[RM-007-005]"Besides," observed [[michel-ardan|Michel Ardan]], "a plain is more suitable for landing upon than a mountain. A Selenite landed in Europe on the summit of Mont Blanc, or in Asia on a peak of the Himalayas, would not be precisely at his destination!"
 
 [RM-007-006]"What is more," added Nicholl, "on a plain the projectile will remain motionless after it has touched the ground, whilst it would roll down a hill like an avalanche, and as we are not squirrels we should not come out safe and sound. Therefore all is for the best."
 
@@ -73,7 +73,7 @@ tags: [chapter]
 
 [RM-007-031]"That is what you call answering," cried Nicholl.
 
-[RM-007-032]"I approve of Michel's words, and add that the question has no actual interest. We will think about that later on, when we want to return. Though the Columbiad will not be there, the projectile will."
+[RM-007-032]"I approve of Michel's words, and add that the question has no actual interest. We will think about that later on, when we want to return. Though the [[columbiad|Columbiad]] will not be there, the projectile will."
 
 [RM-007-033]"Much good that will be, a bullet without a gun!"
 

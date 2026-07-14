@@ -13,11 +13,11 @@ tags: [chapter]
 
 [SI-006-001]EXPEDITIONS PLANNED--AYRTON AT THE CORRAL--VISIT TO PORT BALLOON-- PENCROFT'S OBSERVATIONS ON BOARD THE BONADVENTURE--DESPATCH SENT TO THE CORRAL--NO REPLY FROM AYRTON--DEPARTURE THE NEXT DAY--THE REASON WHY THE WIRE DID NOT WORK--A REPORT.
 
-[SI-006-002]However, the chief business of the colonists was to make that complete exploration of the island which had been decided upon, and which would have two objects: to discover the mysterious being whose existence was now indisputable, and at the same time to find out what had become of the pirates, what retreat they had chosen, what sort of life they were leading, and what was to be feared from them. Cyrus Harding wished to set out without delay; but as the expedition would be of some days' duration, it appeared best to load the cart with different materials and tools in order to facilitate the organisation of the encampments. One of the onagers, however, having hurt its leg, could not be harnessed at present, and a few days' rest was necessary. The departure was, therefore, put off for a week, until the 20th of November. The month of November in this latitude corresponds to the month of May in the northern zones. It was, therefore, the fine season. The sun was entering the tropic of Capricorn, and gave the longest days in the year. The time was, therefore, very favourable for the projected expedition, which, if it did not accomplish its principal object, would at any rate be fruitful in discoveries, especially of natural productions, since Harding proposed to explore those dense forests of the Far West, which stretched to the extremity of the Serpentine Peninsula.
+[SI-006-002]However, the chief business of the colonists was to make that complete exploration of the island which had been decided upon, and which would have two objects: to discover the mysterious being whose existence was now indisputable, and at the same time to find out what had become of the pirates, what retreat they had chosen, what sort of life they were leading, and what was to be feared from them. [[cyrus-harding|Cyrus Harding]] wished to set out without delay; but as the expedition would be of some days' duration, it appeared best to load the cart with different materials and tools in order to facilitate the organisation of the encampments. One of the onagers, however, having hurt its leg, could not be harnessed at present, and a few days' rest was necessary. The departure was, therefore, put off for a week, until the 20th of November. The month of November in this latitude corresponds to the month of May in the northern zones. It was, therefore, the fine season. The sun was entering the tropic of Capricorn, and gave the longest days in the year. The time was, therefore, very favourable for the projected expedition, which, if it did not accomplish its principal object, would at any rate be fruitful in discoveries, especially of natural productions, since Harding proposed to explore those dense forests of the Far West, which stretched to the extremity of the Serpentine Peninsula.
 
 [SI-006-003]During the nine days which preceded their departure, it was agreed that the work on Prospect Heights should be finished off.
 
-[SI-006-004]Moreover, it was necessary for Ayrton to return to the corral, where the domesticated animals required his care. It was decided that he should spend two days there, and return to Granite House after having liberally supplied the stables.
+[SI-006-004]Moreover, it was necessary for Ayrton to return to the corral, where the domesticated animals required his care. It was decided that he should spend two days there, and return to [[granite-house|Granite House]] after having liberally supplied the stables.
 
 [SI-006-005]As he was about to start, Harding asked him if he would not like one of them to accompany him, observing that the island was less safe than formerly. Ayrton replied that this was unnecessary, as he was enough for the work, and that besides he apprehended no danger. If anything occurred at the corral, or in the neighbourhood, he could instantly warn the colonists by sending a telegram to Granite House.
 
@@ -29,7 +29,7 @@ tags: [chapter]
 
 [SI-006-009]This work finished, it would have been impossible to guess that at that part of the lake, there existed a subterranean passage through which the overflow of the lake formerly escaped.
 
-[SI-006-010]Of course the little stream which fed the reservoir of Granite House and worked the lift had been carefully preserved, and the water could not fail. The lift once raised, this sure and comfortable retreat would be safe from any surprise.
+[SI-006-010]Of course the little stream which fed the reservoir of Granite House and worked [[granite-house-lift|the lift]] had been carefully preserved, and the water could not fail. The lift once raised, this sure and comfortable retreat would be safe from any surprise.
 
 [SI-006-011]This work had been so quickly done, that Pencroft, Gideon Spilett, and Herbert found time to make an expedition to Port Balloon. The sailor was very anxious to know if the little creek in which the Bonadventure was moored, had been visited by the convicts.
 
@@ -47,7 +47,7 @@ tags: [chapter]
 
 [SI-006-018]"And it's very lucky, for if they had found the Bonadventure," added Herbert, "they would have gone off in her, and we should have been prevented from returning to Tabor Island."
 
-[SI-006-019]"Indeed," remarked the reporter, "it will be important to take a document there which will make known the situation of Lincoln Island, and Ayrton's new residence, in case the Scotch yacht returns to fetch him."
+[SI-006-019]"Indeed," remarked the reporter, "it will be important to take a document there which will make known the situation of [[lincoln-island|Lincoln Island]], and Ayrton's new residence, in case the Scotch yacht returns to fetch him."
 
 [SI-006-020]"Well, the Bonadventure is always there, Mr Spilett," answered the sailor. "She and her crew are ready to start at a moment's notice!"
 
@@ -151,7 +151,7 @@ tags: [chapter]
 
 [SI-006-070]The wood was thick on each side of the road and might easily have concealed the convicts, who owing to their weapons would have been really formidable.
 
-[SI-006-071]The colonists walked rapidly and in silence. Top preceded them, sometimes running on the road, sometimes taking a ramble into the wood, but always quiet and not appearing to fear anything unusual. And they could be sure that the faithful dog would not allow them to be surprised, but would bark at the least appearance of danger.
+[SI-006-071]The colonists walked rapidly and in silence. [[top|Top]] preceded them, sometimes running on the road, sometimes taking a ramble into the wood, but always quiet and not appearing to fear anything unusual. And they could be sure that the faithful dog would not allow them to be surprised, but would bark at the least appearance of danger.
 
 [SI-006-072]Cyrus Harding and his companions followed beside the road the wire which connected the corral with Granite House. After walking for nearly two miles, they had not as yet discovered any explanation of the difficulty. The posts were in good order, the wire regularly expended. However, at that moment the engineer observed that the wire appeared to be slack, and on arriving at post Number 74, Herbert, who was in advance stopped, exclaiming--
 

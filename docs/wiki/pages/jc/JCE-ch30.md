@@ -17,7 +17,7 @@ tags: [chapter]
 
 [JCE-030-003]"The sea!" I cried.
 
-[JCE-030-004]"Yes," my uncle replied, "the Liedenbrock Sea; and I don't suppose any other discoverer will ever dispute my claim to name it after myself as its first discoverer."
+[JCE-030-004]"Yes," my uncle replied, "the [[liedenbrock-sea|Liedenbrock Sea]]; and I don't suppose any other discoverer will ever dispute my claim to name it after myself as its first discoverer."
 
 [JCE-030-005]A vast sheet of water, the commencement of a lake or an ocean, spread far away beyond the range of the eye, reminding me forcibly of that open sea which drew from Xenophon's ten thousand Greeks, after their long retreat, the simultaneous cry, "Thalatta! thalatta!" the sea! the sea! The deeply indented shore was lined with a breadth of fine shining sand, softly lapped by the waves, and strewn with the small shells which had been inhabited by the first of created beings. The waves broke on this shore with the hollow echoing murmur peculiar to vast inclosed spaces. A light foam flew over the waves before the breath of a moderate breeze, and some of the spray fell upon my face. On this slightly inclining shore, about a hundred fathoms from the limit of the waves, came down the foot of a huge wall of vast cliffs, which rose majestically to an enormous height. Some of these, dividing the beach with their sharp spurs, formed capes and promontories, worn away by the ceaseless action of the surf. Farther on the eye discerned their massive outline sharply defined against the hazy distant horizon.
 
@@ -51,7 +51,7 @@ tags: [chapter]
 
 [JCE-030-020]"Yes, certainly; and nothing could be more delightful."
 
-[JCE-030-021]"Well, take my arm, Axel, and let us follow the windings of the shore."
+[JCE-030-021]"Well, take my arm, [[axel|Axel]], and let us follow the windings of the shore."
 
 [JCE-030-022]I eagerly accepted, and we began to coast along this new sea. On the left huge pyramids of rock, piled one upon another, produced a prodigious titanic effect. Down their sides flowed numberless waterfalls, which went on their way in brawling but pellucid streams. A few light vapours, leaping from rock to rock, denoted the place of hot springs; and streams flowed softly down to the common basin, gliding down the gentle slopes with a softer murmur.
 

@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FWB-038-001]A Rapid Passage.--Prudent Resolves.--Caravans in Sight.--Incessant Rains.-- Goa.--The Niger.--Golberry, Geoffroy, and Gray.--Mungo Park.--Laing.-- Rene Caillie.--Clapperton.--John and Richard Lander.
 
-[FWB-038-002]The 17th of May passed tranquilly, without any remarkable incident; the desert gained upon them once more; a moderate wind bore the Victoria toward the southwest, and she never swerved to the right or to the left, but her shadow traced a perfectly straight line on the sand.
+[FWB-038-002]The 17th of May passed tranquilly, without any remarkable incident; the desert gained upon them once more; a moderate wind bore [[victoria-balloon|the Victoria]] toward the southwest, and she never swerved to the right or to the left, but her shadow traced a perfectly straight line on the sand.
 
 [FWB-038-003]Before starting, the doctor had prudently renewed his stock of water, having feared that he should not be able to touch ground in these regions, infested as they are by the Aouelim-Minian Touaregs. The plateau, at an elevation of eighteen hundred feet above the level of the sea, sloped down toward the south. Our travellers, having crossed the Aghades route at Murzouk--a route often pressed by the feet of camels--arrived that evening, in the sixteenth degree of north latitude, and four degrees fifty-five minutes east longitude, after having passed over one hundred and eighty miles of a long and monotonous day's journey.
 

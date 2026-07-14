@@ -39,7 +39,7 @@ tags: [chapter]
 
 [RC-006-014]"You are right," answered Evans. "We are now only two men agreed to avenge ourselves on a third whose attempt deserves severe reprisals. And this third is--"
 
-[RC-006-015]"Robur!"
+[RC-006-015]"[[robur|Robur]]!"
 
 [RC-006-016]"It is Robur!"
 
@@ -233,7 +233,7 @@ tags: [chapter]
 
 [RC-006-111]"Free!" exclaimed Uncle Prudent.
 
-[RC-006-112]"Yes--within the limits of the "Albatross!"
+[RC-006-112]"Yes--within the limits of the "[[albatross|Albatross]]!"
 
 [RC-006-113]Uncle Prudent and Phil Evans rushed out of their prison. And what did they see?
 

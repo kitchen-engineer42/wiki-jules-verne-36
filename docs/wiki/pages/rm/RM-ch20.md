@@ -65,7 +65,7 @@ tags: [chapter]
 
 [RM-020-027]"I am certain of it as you say so, my young friend," answered Lieutenant Bronsfield, smiling.
 
-[RM-020-028]"Still," said another officer, "their arrival cannot be doubted. The projectile must have reached the moon at the moment she was full, at midnight on the 5th. We are now at the 11th of December; that makes six days. Now in six times twenty-four hours, with no darkness, they have had time to get comfortably settled. It seems to me that I see our brave countrymen encamped at the bottom of a valley, on the borders of a Selenite stream, near the projectile, half buried by its fall, amidst volcanic remains, Captain Nicholl beginning his levelling operations, President Barbicane putting his travelling notes in order, Michel Ardan performing the lunar solitudes with his Londrès cigar--"
+[RM-020-028]"Still," said another officer, "their arrival cannot be doubted. The projectile must have reached the moon at the moment she was full, at midnight on the 5th. We are now at the 11th of December; that makes six days. Now in six times twenty-four hours, with no darkness, they have had time to get comfortably settled. It seems to me that I see our brave countrymen encamped at the bottom of a valley, on the borders of a Selenite stream, near the projectile, half buried by its fall, amidst volcanic remains, Captain Nicholl beginning his levelling operations, [[barbicane|President Barbicane]] putting his travelling notes in order, [[michel-ardan|Michel Ardan]] performing the lunar solitudes with his Londrès cigar--"
 
 [RM-020-029]"Oh, it must be so; it is so!" exclaimed the young midshipman, enthusiastic at the ideal description of his superior.
 
@@ -87,7 +87,7 @@ tags: [chapter]
 
 [RM-020-038]The young midshipman, who certainly had some imagination was loudly applauded. Lieutenant Bronsfield himself was convinced that the idea could have been carried out. He added that by sending luminous rays, grouped by means of parabolical mirrors, direct communications could also be established--in fact, these rays would be as visible on the surface of Venus or Mars as the planet Neptune is from the earth. He ended by saying that the brilliant points already observed on the nearest planets might be signals made to the earth. But he said, that though by these means they could have news from the lunar world, they could not send any from the terrestrial world unless the Selenites have at their disposition instruments with which to make distant observations.
 
-[RM-020-039]"That is evident," answered one of the officers, "but what has become of the travellers? What have they done? What have they seen? That is what interests us. Besides, if the experiment has succeeded, which I do not doubt, it will be done again. The Columbiad is still walled up in the soil of Florida. It is, therefore, now only a question of powder and shot, and every time the moon passes the zenith we can send it a cargo of visitors."
+[RM-020-039]"That is evident," answered one of the officers, "but what has become of the travellers? What have they done? What have they seen? That is what interests us. Besides, if the experiment has succeeded, which I do not doubt, it will be done again. The [[columbiad|Columbiad]] is still walled up in the soil of Florida. It is, therefore, now only a question of powder and shot, and every time the moon passes the zenith we can send it a cargo of visitors."
 
 [RM-020-040]"It is evident," answered Lieutenant Bronsfield, "that J.T. Maston will go and join his friends one of these days."
 

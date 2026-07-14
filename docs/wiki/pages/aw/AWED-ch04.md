@@ -13,9 +13,9 @@ tags: [chapter]
 
 [AWED-004-001]IN WHICH PHILEAS FOGG ASTOUNDS PASSEPARTOUT, HIS SERVANT
 
-[AWED-004-002]Having won twenty guineas at whist, and taken leave of his friends, Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.
+[AWED-004-002]Having won twenty guineas at whist, and taken leave of his friends, [[phileas-fogg|Phileas Fogg]], at twenty-five minutes past seven, left the [[reform-club|Reform Club]].
 
-[AWED-004-003]Passepartout, who had conscientiously studied the programme of his duties, was more than surprised to see his master guilty of the inexactness of appearing at this unaccustomed hour; for, according to rule, he was not due in Saville Row until precisely midnight.
+[AWED-004-003][[passepartout|Passepartout]], who had conscientiously studied the programme of his duties, was more than surprised to see his master guilty of the inexactness of appearing at this unaccustomed hour; for, according to rule, he was not due in Saville Row until precisely midnight.
 
 [AWED-004-004]Mr. Fogg repaired to his bedroom, and called out, "Passepartout!"
 

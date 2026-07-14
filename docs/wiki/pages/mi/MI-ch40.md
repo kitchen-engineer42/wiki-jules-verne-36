@@ -12,9 +12,9 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 18
 
-[MI-040-001]"Poor man!" said Herbert, who had rushed to the door, but returned, having seen Ayrton slide down the rope on the lift and disappear in the darkness.
+[MI-040-001]"Poor man!" said Herbert, who had rushed to the door, but returned, having seen Ayrton slide down the rope on [[granite-house-lift|the lift]] and disappear in the darkness.
 
-[MI-040-002]"He will come back," said Cyrus Harding.
+[MI-040-002]"He will come back," said [[cyrus-harding|Cyrus Harding]].
 
 [MI-040-003]"Come, now, captain," exclaimed Pencroft, "what does that mean? What! wasn't it Ayrton who threw that bottle into the sea? Who was it then?"
 
@@ -52,7 +52,7 @@ tags: [chapter]
 
 [MI-040-020]"I think nothing, I know nothing!" interrupted Cyrus Harding. "I am content to rank this incident among those which I have not been able to explain to this day!"
 
-[MI-040-021]"Indeed, Cyrus," said Spilett, "these things are incredible! Your rescue, the case stranded on the sand, Top's adventure, and lastly this bottle... Shall we never have the answer to these enigmas?"
+[MI-040-021]"Indeed, Cyrus," said Spilett, "these things are incredible! Your rescue, the case stranded on the sand, [[top|Top]]'s adventure, and lastly this bottle... Shall we never have the answer to these enigmas?"
 
 [MI-040-022]"Yes!" replied the engineer quickly, "yes, even if I have to penetrate into the bowels of this island!"
 
@@ -62,9 +62,9 @@ tags: [chapter]
 
 [MI-040-025]The month of January arrived. The year 1867 commenced. The summer occupations were assiduously continued. During the days which followed, Herbert and Spilett having gone in the direction of the corral, ascertained that Ayrton had taken possession of the habitation which had been prepared for him. He busied himself with the numerous flock confided to his care, and spared his companions the trouble of coming every two or three days to visit the corral. Nevertheless, in order not to leave Ayrton in solitude for too long a time, the settlers often paid him a visit.
 
-[MI-040-026]It was not unimportant either, in consequence of some suspicions entertained by the engineer and Gideon Spilett, that this part of the island should be subject to a surveillance of some sort, and that Ayrton, if any incident occurred unexpectedly, should not neglect to inform the inhabitants of Granite House of it.
+[MI-040-026]It was not unimportant either, in consequence of some suspicions entertained by the engineer and Gideon Spilett, that this part of the island should be subject to a surveillance of some sort, and that Ayrton, if any incident occurred unexpectedly, should not neglect to inform the inhabitants of [[granite-house|Granite House]] of it.
 
-[MI-040-027]Nevertheless it might happen that something would occur which it would be necessary to bring rapidly to the engineer's knowledge. Independently of facts bearing on the mystery of Lincoln Island, many others might happen, which would call for the prompt interference of the colonists,--such as the sighting of a vessel, a wreck on the western coast, the possible arrival of pirates, etc.
+[MI-040-027]Nevertheless it might happen that something would occur which it would be necessary to bring rapidly to the engineer's knowledge. Independently of facts bearing on the mystery of [[lincoln-island|Lincoln Island]], many others might happen, which would call for the prompt interference of the colonists,--such as the sighting of a vessel, a wreck on the western coast, the possible arrival of pirates, etc.
 
 [MI-040-028]Therefore Cyrus Harding resolved to put the corral in instantaneous communication with Granite House.
 
@@ -124,7 +124,7 @@ tags: [chapter]
 
 [MI-040-056]This apparatus, provided with a powerful object-glass, was very complete. Substances necessary for the photographic reproduction, collodion for preparing the glass plate, nitrate of silver to render it sensitive, hyposulfate of soda to fix the prints obtained, chloride of ammonium in which to soak the paper destined to give the positive proof, acetate of soda and chloride of gold in which to immerse the paper, nothing was wanting. Even the papers were there, all prepared, and before laying in the printing-frame upon the negatives, it was sufficient to soak them for a few minutes in the solution of nitrate of silver.
 
-[MI-040-057]The reporter and his assistant became in a short time very skilful operators, and they obtained fine views of the country, such as the island, taken from Prospect Heights with Mount Franklin in the distance, the mouth of the Mercy, so picturesquely framed in high rocks, the glade and the corral, with the spurs of the mountain in the background, the curious development of Claw Cape, Flotsam Point, etc.
+[MI-040-057]The reporter and his assistant became in a short time very skilful operators, and they obtained fine views of the country, such as the island, taken from Prospect Heights with [[mount-franklin|Mount Franklin]] in the distance, the mouth of the Mercy, so picturesquely framed in high rocks, the glade and the corral, with the spurs of the mountain in the background, the curious development of Claw Cape, Flotsam Point, etc.
 
 [MI-040-058]Nor did the photographers forget to take the portraits of all the inhabitants of the island, leaving out no one.
 

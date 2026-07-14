@@ -31,7 +31,7 @@ tags: [chapter]
 
 [JCE-032-010]I made no answer, but went and sat forward. The northern shore was already beginning to dip under the horizon. The eastern and western strands spread wide as if to bid us farewell. Before our eyes lay far and wide a vast sea; shadows of great clouds swept heavily over its silver-grey surface; the glistening bluish rays of electric light, here and there reflected by the dancing drops of spray, shot out little sheaves of light from the track we left in our rear. Soon we entirely lost sight of land; no object was left for the eye to judge by, and but for the frothy track of the raft, I might have thought we were standing still.
 
-[JCE-032-011]About twelve, immense shoals of seaweeds came in sight. I was aware of the great powers of vegetation that characterise these plants, which grow at a depth of twelve thousand feet, reproduce themselves under a pressure of four hundred atmospheres, and sometimes form barriers strong enough to impede the course of a ship. But never, I think, were such seaweeds as those which we saw floating in immense waving lines upon the sea of Liedenbrock.
+[JCE-032-011]About twelve, immense shoals of seaweeds came in sight. I was aware of the great powers of vegetation that characterise these plants, which grow at a depth of twelve thousand feet, reproduce themselves under a pressure of four hundred atmospheres, and sometimes form barriers strong enough to impede the course of a ship. But never, I think, were such seaweeds as those which we saw floating in immense waving lines upon the sea of [[professor-lidenbrock|Liedenbrock]].
 
 [JCE-032-012]Our raft skirted the whole length of the fuci, three or four thousand feet long, undulating like vast serpents beyond the reach of sight; I found some amusement in tracing these endless waves, always thinking I should come to the end of them, and for hours my patience was vying with my surprise.
 
@@ -89,7 +89,7 @@ tags: [chapter]
 
 [JCE-032-039]My staring eyes are fixed vacantly upon him.
 
-[JCE-032-040]"Take care, Axel, or you will fall overboard."
+[JCE-032-040]"Take care, [[axel|Axel]], or you will fall overboard."
 
 [JCE-032-041]At that moment I felt the sinewy hand of Hans seizing me vigorously. But for him, carried away by my dream, I should have thrown myself into the sea.
 

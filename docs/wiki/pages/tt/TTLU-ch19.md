@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-019-001]Vanikoro
 
-[TTLU-019-002]THIS DREADFUL SIGHT was the first of a whole series of maritime catastrophes that the Nautilus would encounter on its run. When it plied more heavily traveled seas, we often saw wrecked hulls rotting in midwater, and farther down, cannons, shells, anchors, chains, and a thousand other iron objects rusting away.
+[TTLU-019-002]THIS DREADFUL SIGHT was the first of a whole series of maritime catastrophes that the [[nautilus|Nautilus]] would encounter on its run. When it plied more heavily traveled seas, we often saw wrecked hulls rotting in midwater, and farther down, cannons, shells, anchors, chains, and a thousand other iron objects rusting away.
 
 [TTLU-019-003]Meanwhile, continuously swept along by the Nautilus, where we lived in near isolation, we raised the Tuamotu Islands on December 11, that old "dangerous group" associated with the French global navigator Commander Bougainville; it stretches from Ducie Island to Lazareff Island over an area of 500 leagues from the east-southeast to the west-northwest, between latitude 13 degrees 30' and 23 degrees 50' south, and between longitude 125 degrees 30' and 151 degrees 30' west. This island group covers a surface area of 370 square leagues, and it's made up of some sixty subgroups, among which we noted the Gambier group, which is a French protectorate. These islands are coral formations. Thanks to the work of polyps, a slow but steady upheaval will someday connect these islands to each other. Later on, this new island will be fused to its neighboring island groups, and a fifth continent will stretch from New Zealand and New Caledonia as far as the Marquesas Islands.
 
-[TTLU-019-004]The day I expounded this theory to Captain Nemo, he answered me coldly:
+[TTLU-019-004]The day I expounded this theory to [[captain-nemo|Captain Nemo]], he answered me coldly:
 
 [TTLU-019-005]"The earth doesn't need new continents, but new men!"
 
@@ -30,7 +30,7 @@ tags: [chapter]
 
 [TTLU-019-009]I could observe these strange walls quite closely: our sounding lines indicated that they dropped perpendicularly for more than 300 meters, and our electric beams made the bright limestone positively sparkle.
 
-[TTLU-019-010]In reply to a question Conseil asked me about the growth rate of these colossal barriers, I thoroughly amazed him by saying that scientists put it at an eighth of an inch per biennium.
+[TTLU-019-010]In reply to a question [[conseil|Conseil]] asked me about the growth rate of these colossal barriers, I thoroughly amazed him by saying that scientists put it at an eighth of an inch per biennium.
 
 [TTLU-019-011]"Therefore," he said to me, "to build these walls, it took . . . ?"
 
@@ -50,7 +50,7 @@ tags: [chapter]
 
 [TTLU-019-019]This bay, repeatedly dredged, furnished a huge supply of excellent oysters. As the Roman playwright Seneca recommended, we opened them right at our table, then stuffed ourselves. These mollusks belonged to the species known by name as Ostrea lamellosa, whose members are quite common off Corsica. This Wailea oysterbank must have been extensive, and for certain, if they hadn't been controlled by numerous natural checks, these clusters of shellfish would have ended up jam-packing the bay, since as many as 2,000,000 eggs have been counted in a single individual.
 
-[TTLU-019-020]And if Mr. Ned Land did not repent of his gluttony at our oyster fest, it's because oysters are the only dish that never causes indigestion. In fact, it takes no less than sixteen dozen of these headless mollusks to supply the 315 grams that satisfy one man's minimum daily requirement for nitrogen.
+[TTLU-019-020]And if Mr. [[ned-land|Ned Land]] did not repent of his gluttony at our oyster fest, it's because oysters are the only dish that never causes indigestion. In fact, it takes no less than sixteen dozen of these headless mollusks to supply the 315 grams that satisfy one man's minimum daily requirement for nitrogen.
 
 [TTLU-019-021]On December 25 the Nautilus navigated amid the island group of the New Hebrides, which the Portuguese seafarer Queirós discovered in 1606, which Commander Bougainville explored in 1768, and to which Captain Cook gave its current name in 1773. This group is chiefly made up of nine large islands and forms a 120-league strip from the north-northwest to the south-southeast, lying between latitude 2 degrees and 15 degrees south, and between longitude 164 degrees and 168 degrees. At the moment of our noon sights, we passed fairly close to the island of Aurou, which looked to me like a mass of green woods crowned by a peak of great height.
 

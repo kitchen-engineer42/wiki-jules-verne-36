@@ -13,9 +13,9 @@ tags: [chapter]
 
 [RM-001-001]FROM 10.20 P.M. TO 10.47 P.M.
 
-[RM-001-002]When ten o'clock struck, Michel Ardan, Barbicane, and Nicholl said good-bye to the numerous friends they left upon the earth. The two dogs, destined to acclimatise the canine race upon the lunar continents, were already imprisoned in the projectile. The three travellers approached the orifice of the enormous iron tube, and a crane lowered them to the conical covering of the bullet.
+[RM-001-002]When ten o'clock struck, [[michel-ardan|Michel Ardan]], [[barbicane|Barbicane]], and Nicholl said good-bye to the numerous friends they left upon the earth. The two dogs, destined to acclimatise the canine race upon the lunar continents, were already imprisoned in the projectile. The three travellers approached the orifice of the enormous iron tube, and a crane lowered them to the conical covering of the bullet.
 
-[RM-001-003]There an opening made on purpose let them down into the aluminium vehicle. The crane's tackling was drawn up outside, and the mouth of the Columbiad instantly cleared of its last scaffolding.
+[RM-001-003]There an opening made on purpose let them down into the aluminium vehicle. The crane's tackling was drawn up outside, and the mouth of the [[columbiad|Columbiad]] instantly cleared of its last scaffolding.
 
 [RM-001-004]As soon as Nicholl and his companions were in the projectile he closed the opening by means of a strong plate screwed down inside. Other closely-fitting plates covered the lenticular glasses of the skylights. The travellers, hermetically inclosed in their metal prison, were in profound darkness.
 
@@ -113,7 +113,7 @@ tags: [chapter]
 
 [RM-001-051]"Because if you win the first the Columbiad will have burst, and the bullet with it, and Barbicane will not be there to pay you your dollars."
 
-[RM-001-052]"My wager is deposited in the Baltimore Bank," answered Barbicane simply; "and in default of Nicholl it will go to his heirs."
+[RM-001-052]"My wager is deposited in the [[baltimore|Baltimore]] Bank," answered Barbicane simply; "and in default of Nicholl it will go to his heirs."
 
 [RM-001-053]"What practical men you are!" cried Michel Ardan. "I admire you as much as I do not understand you."
 
@@ -139,4 +139,4 @@ tags: [chapter]
 
 [RM-001-064]The profound silence was only broken by the chronometer beating the seconds.
 
-[RM-001-065]Suddenly a frightful shock was felt, and the projectile, under the impulsion of 6,000,000,000 litres of gas developed by the deflagration of the pyroxyle, rose into space.
+[RM-001-065]Suddenly a frightful shock was felt, and the projectile, under the impulsion of 6,000,000,000 litres of gas developed by the deflagration of the [[gun-cotton|pyroxyle]], rose into space.

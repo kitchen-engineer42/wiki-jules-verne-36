@@ -123,7 +123,7 @@ tags: [chapter]
 
 [FWB-014-056]It was, indeed, a troop of very formidable baboons of the dog-faced species. These creatures are brutal, ferocious, and horrible to look upon, with their dog-like muzzles and savage expression. However, a few shots scattered them, and the chattering horde scampered off, leaving several of their number on the ground.
 
-[FWB-014-057]In a moment Kennedy was on the ladder, and Joe, clambering up the branches, detached the anchor; the car then dipped to where he was, and he got into it without difficulty. A few minutes later, the Victoria slowly ascended and soared away to the eastward, wafted by a moderate wind.
+[FWB-014-057]In a moment Kennedy was on the ladder, and Joe, clambering up the branches, detached the anchor; the car then dipped to where he was, and he got into it without difficulty. A few minutes later, [[victoria-balloon|the Victoria]] slowly ascended and soared away to the eastward, wafted by a moderate wind.
 
 [FWB-014-058]"That was an attack for you!" said Joe.
 

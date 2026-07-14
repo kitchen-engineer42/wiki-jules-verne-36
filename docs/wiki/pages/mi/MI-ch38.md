@@ -12,9 +12,9 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 16
 
-[MI-038-001]Yes! the unfortunate man had wept! Some recollection doubtless had flashed across his brain, and to use Cyrus Harding's expression, by those tears he was once more a man.
+[MI-038-001]Yes! the unfortunate man had wept! Some recollection doubtless had flashed across his brain, and to use [[cyrus-harding|Cyrus Harding]]'s expression, by those tears he was once more a man.
 
-[MI-038-002]The colonists left him for some time on the plateau, and withdrew themselves to a short distance, so that he might feel himself free; but he did not think of profiting by this liberty, and Harding soon brought him back to Granite House. Two days after this occurrence, the stranger appeared to wish gradually to mingle with their common life. He evidently heard and understood, but no less evidently was he strangely determined not to speak to the colonists; for one evening, Pencroft, listening at the door of his room, heard these words escape from his lips:--
+[MI-038-002]The colonists left him for some time on the plateau, and withdrew themselves to a short distance, so that he might feel himself free; but he did not think of profiting by this liberty, and Harding soon brought him back to [[granite-house|Granite House]]. Two days after this occurrence, the stranger appeared to wish gradually to mingle with their common life. He evidently heard and understood, but no less evidently was he strangely determined not to speak to the colonists; for one evening, Pencroft, listening at the door of his room, heard these words escape from his lips:--
 
 [MI-038-003]"No! here! I! never!"
 
@@ -120,7 +120,7 @@ tags: [chapter]
 
 [MI-038-054]"No doubt," and yet the document appears to have been recently written!
 
-[MI-038-055]"Besides, how do you know that the bottle which enclosed the document may not have taken several years to come from Tabor Island to Lincoln Island?"
+[MI-038-055]"Besides, how do you know that the bottle which enclosed the document may not have taken several years to come from Tabor Island to [[lincoln-island|Lincoln Island]]?"
 
 [MI-038-056]"That is not absolutely impossible," replied the reporter.
 

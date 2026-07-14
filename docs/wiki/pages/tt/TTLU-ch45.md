@@ -14,7 +14,7 @@ tags: [chapter]
 
 [TTLU-045-001]A Mass Execution
 
-[TTLU-045-002]THE WAY HE SAID THIS, the unexpectedness of this scene, first the biography of this patriotic ship, then the excitement with which this eccentric individual pronounced these last words--the name Avenger whose significance could not escape me--all this, taken together, had a profound impact on my mind. My eyes never left the captain. Hands outstretched toward the sea, he contemplated the proud wreck with blazing eyes. Perhaps I would never learn who he was, where he came from or where he was heading, but more and more I could see a distinction between the man and the scientist. It was no ordinary misanthropy that kept Captain Nemo and his companions sequestered inside the Nautilus's plating, but a hate so monstrous or so sublime that the passing years could never weaken it.
+[TTLU-045-002]THE WAY HE SAID THIS, the unexpectedness of this scene, first the biography of this patriotic ship, then the excitement with which this eccentric individual pronounced these last words--the name Avenger whose significance could not escape me--all this, taken together, had a profound impact on my mind. My eyes never left the captain. Hands outstretched toward the sea, he contemplated the proud wreck with blazing eyes. Perhaps I would never learn who he was, where he came from or where he was heading, but more and more I could see a distinction between the man and the scientist. It was no ordinary misanthropy that kept [[captain-nemo|Captain Nemo]] and his companions sequestered inside the [[nautilus|Nautilus]]'s plating, but a hate so monstrous or so sublime that the passing years could never weaken it.
 
 [TTLU-045-003]Did this hate also hunger for vengeance? Time would soon tell.
 
@@ -26,11 +26,11 @@ tags: [chapter]
 
 [TTLU-045-007]He didn't reply.
 
-[TTLU-045-008]I left him and climbed onto the platform. Conseil and the Canadian were already there.
+[TTLU-045-008]I left him and climbed onto the platform. [[conseil|Conseil]] and the Canadian were already there.
 
 [TTLU-045-009]"What caused that explosion?" I asked.
 
-[TTLU-045-010]"A cannon going off," Ned Land replied.
+[TTLU-045-010]"A cannon going off," [[ned-land|Ned Land]] replied.
 
 [TTLU-045-011]I stared in the direction of the ship I had spotted. It was heading toward the Nautilus, and you could tell it had put on steam. Six miles separated it from us.
 

@@ -35,7 +35,7 @@ tags: [chapter]
 
 [JCE-042-012]"Yes, if nothing stops us; if this well has an aperture. But suppose it to be stopped. If the air is condensed by the pressure of this column of water we shall be crushed."
 
-[JCE-042-013]"Axel," replied the Professor with perfect coolness, "our situation is almost desperate; but there are some chances of deliverance, and it is these that I am considering. If at every instant we may perish, so at every instant we may be saved. Let us then be prepared to seize upon the smallest advantage."
+[JCE-042-013]"[[axel|Axel]]," replied the Professor with perfect coolness, "our situation is almost desperate; but there are some chances of deliverance, and it is these that I am considering. If at every instant we may perish, so at every instant we may be saved. Let us then be prepared to seize upon the smallest advantage."
 
 [JCE-042-014]"But what shall we do now?"
 
@@ -63,7 +63,7 @@ tags: [chapter]
 
 [JCE-042-026]But now we were mounting up with excessive speed. Sometimes the air would cut our breath short, as is experienced by aeronauts ascending too rapidly. But whilst they suffer from cold in proportion to their rise, we were beginning to feel a contrary effect. The heat was increasing in a manner to cause us the most fearful anxiety, and certainly the temperature was at this moment at the height of 100° Fahr.
 
-[JCE-042-027]What could be the meaning of such a change? Up to this time facts had supported the theories of Davy and of Liedenbrock; until now particular conditions of non-conducting rocks, electricity and magnetism, had tempered the laws of nature, giving us only a moderately warm climate, for the theory of a central fire remained in my estimation the only one that was true and explicable. Were we then turning back to where the phenomena of central heat ruled in all their rigour and would reduce the most refractory rocks to the state of a molten liquid? I feared this, and said to the Professor:
+[JCE-042-027]What could be the meaning of such a change? Up to this time facts had supported the theories of Davy and of [[professor-lidenbrock|Liedenbrock]]; until now particular conditions of non-conducting rocks, electricity and magnetism, had tempered the laws of nature, giving us only a moderately warm climate, for the theory of a central fire remained in my estimation the only one that was true and explicable. Were we then turning back to where the phenomena of central heat ruled in all their rigour and would reduce the most refractory rocks to the state of a molten liquid? I feared this, and said to the Professor:
 
 [JCE-042-028]"If we are neither drowned, nor shattered to pieces, nor starved to death, there is still the chance that we may be burned alive and reduced to ashes."
 

@@ -13,9 +13,9 @@ tags: [chapter]
 
 [FEM-023-001]THE PROJECTILE COMPARTMENT.
 
-[FEM-023-002]After the celebrated Columbiad was completed public interest immediately centred upon the projectile, the new vehicle destined to transport the three bold adventurers across space. No one had forgotten that in his despatch of September 30th Michel Ardan asked for a modification of the plans laid out by the members of the committee.
+[FEM-023-002]After the celebrated [[columbiad|Columbiad]] was completed public interest immediately centred upon the projectile, the new vehicle destined to transport the three bold adventurers across space. No one had forgotten that in his despatch of September 30th [[michel-ardan|Michel Ardan]] asked for a modification of the plans laid out by the members of the committee.
 
-[FEM-023-003]President Barbicane then thought with reason that the form of the projectile was of slight importance, for, after crossing the atmosphere in a few seconds, it would meet with vacuum. The committee had therefore chosen the round form, so that the ball might turn over and over and do as it liked. But as soon as it had to be made into a vehicle, that was another thing. Michel Ardan did not want to travel squirrel-fashion; he wished to go up head up and feet down with as much dignity as in the car of a balloon, quicker of course, but without unseemly gambols.
+[FEM-023-003][[barbicane|President Barbicane]] then thought with reason that the form of the projectile was of slight importance, for, after crossing the atmosphere in a few seconds, it would meet with vacuum. The committee had therefore chosen the round form, so that the ball might turn over and over and do as it liked. But as soon as it had to be made into a vehicle, that was another thing. Michel Ardan did not want to travel squirrel-fashion; he wished to go up head up and feet down with as much dignity as in the car of a balloon, quicker of course, but without unseemly gambols.
 
 [FEM-023-004]New plans were, therefore, sent to the firm of Breadwill and Co., of Albany, with the recommendation to execute them without delay. The projectile, thus modified, was cast on the 2nd of November, and sent immediately to Stony Hill by the Eastern Railway.
 
@@ -65,7 +65,7 @@ tags: [chapter]
 
 [FEM-023-027]All imaginable precautions for deadening the first shock having been taken, Michel Ardan said they must be made of "very bad stuff" to be crushed.
 
-[FEM-023-028]The projectile outside was nine feet wide and twelve feet high. In order not to pass the weight assigned the sides had been made a little less thick and the bottom thicker, as it would have to support all the violence of the gases developed by the deflagration of the pyroxyle. Bombs and cylindro-conical howitzers are always made with thicker bottoms.
+[FEM-023-028]The projectile outside was nine feet wide and twelve feet high. In order not to pass the weight assigned the sides had been made a little less thick and the bottom thicker, as it would have to support all the violence of the gases developed by the deflagration of the [[gun-cotton|pyroxyle]]. Bombs and cylindro-conical howitzers are always made with thicker bottoms.
 
 [FEM-023-029]The entrance to this tower of metal was a narrow opening in the wall of the cone, like the "man-hole" of steam boilers. It closed hermetically by means of an aluminium plate fastened inside by powerful screw pressure. The travellers could therefore leave their mobile prison at will as soon as they had reached the Queen of Night.
 

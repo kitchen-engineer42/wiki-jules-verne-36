@@ -15,7 +15,7 @@ tags: [chapter]
 
 [AWED-027-002]During the night of the 5th of December, the train ran south-easterly for about fifty miles; then rose an equal distance in a north-easterly direction, towards the Great Salt Lake.
 
-[AWED-027-003]Passepartout, about nine o'clock, went out upon the platform to take the air. The weather was cold, the heavens grey, but it was not snowing. The sun's disc, enlarged by the mist, seemed an enormous ring of gold, and Passepartout was amusing himself by calculating its value in pounds sterling, when he was diverted from this interesting study by a strange-looking personage who made his appearance on the platform.
+[AWED-027-003][[passepartout|Passepartout]], about nine o'clock, went out upon the platform to take the air. The weather was cold, the heavens grey, but it was not snowing. The sun's disc, enlarged by the mist, seemed an enormous ring of gold, and Passepartout was amusing himself by calculating its value in pounds sterling, when he was diverted from this interesting study by a strange-looking personage who made his appearance on the platform.
 
 [AWED-027-004]This personage, who had taken the train at Elko, was tall and dark, with black moustache, black stockings, a black silk hat, a black waistcoat, black trousers, a white cravat, and dogskin gloves. He might have been taken for a clergyman. He went from one end of the train to the other, and affixed to the door of each car a notice written in manuscript.
 
@@ -23,7 +23,7 @@ tags: [chapter]
 
 [AWED-027-006]"I'll go," said Passepartout to himself. He knew nothing of Mormonism except the custom of polygamy, which is its foundation.
 
-[AWED-027-007]The news quickly spread through the train, which contained about one hundred passengers, thirty of whom, at most, attracted by the notice, ensconced themselves in car No. 117. Passepartout took one of the front seats. Neither Mr. Fogg nor Fix cared to attend.
+[AWED-027-007]The news quickly spread through the train, which contained about one hundred passengers, thirty of whom, at most, attracted by the notice, ensconced themselves in car No. 117. Passepartout took one of the front seats. Neither Mr. Fogg nor [[fix|Fix]] cared to attend.
 
 [AWED-027-008]At the appointed hour Elder William Hitch rose, and, in an irritated voice, as if he had already been contradicted, said, "I tell you that Joe Smith is a martyr, that his brother Hiram is a martyr, and that the persecutions of the United States Government against the prophets will also make a martyr of Brigham Young. Who dares to say the contrary?"
 

@@ -74,13 +74,13 @@ tags: [chapter]
 
 [MI-005-031]It was five in the evening when he and Herbert re-entered the cave. It is useless to say that the darkest corners of the passages were ransacked before they were obliged to give it up in despair. Towards six o'clock, when the sun was disappearing behind the high lands of the west, Herbert, who was walking up and down on the strand, signalized the return of Neb and Spilett.
 
-[MI-005-032]They were returning alone!... The boy's heart sank; the sailor had not been deceived in his forebodings; the engineer, Cyrus Harding, had not been found!
+[MI-005-032]They were returning alone!... The boy's heart sank; the sailor had not been deceived in his forebodings; the engineer, [[cyrus-harding|Cyrus Harding]], had not been found!
 
 [MI-005-033]The reporter, on his arrival, sat down on a rock, without saying anything. Exhausted with fatigue, dying of hunger, he had not strength to utter a word.
 
 [MI-005-034]As to Neb, his red eyes showed how he had cried, and the tears which he could not restrain told too clearly that he had lost all hope.
 
-[MI-005-035]The reporter recounted all that they had done in their attempt to recover Cyrus Harding. He and Neb had surveyed the coast for a distance of eight miles and consequently much beyond the place where the balloon had fallen the last time but one, a fall which was followed by the disappearance of the engineer and the dog Top. The shore was solitary; not a vestige of a mark. Not even a pebble recently displaced; not a trace on the sand; not a human footstep on all that part of the beach. It was clear that that portion of the shore had never been visited by a human being. The sea was as deserted as the land, and it was there, a few hundred feet from the coast, that the engineer must have found a tomb.
+[MI-005-035]The reporter recounted all that they had done in their attempt to recover Cyrus Harding. He and Neb had surveyed the coast for a distance of eight miles and consequently much beyond the place where the balloon had fallen the last time but one, a fall which was followed by the disappearance of the engineer and the dog [[top|Top]]. The shore was solitary; not a vestige of a mark. Not even a pebble recently displaced; not a trace on the sand; not a human footstep on all that part of the beach. It was clear that that portion of the shore had never been visited by a human being. The sea was as deserted as the land, and it was there, a few hundred feet from the coast, that the engineer must have found a tomb.
 
 [MI-005-036]As Spilett ended his account, Neb jumped up, exclaiming in a voice which showed how hope struggled within him, "No! he is not dead! he can't be dead! It might happen to any one else, but never to him! He could get out of anything!" Then his strength forsaking him, "Oh! I can do no more!" he murmured.
 

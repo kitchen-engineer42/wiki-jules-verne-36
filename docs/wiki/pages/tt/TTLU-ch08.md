@@ -16,7 +16,7 @@ tags: [chapter]
 
 [TTLU-008-002]THIS BRUTALLY EXECUTED capture was carried out with lightning speed. My companions and I had no time to collect ourselves. I don't know how they felt about being shoved inside this aquatic prison, but as for me, I was shivering all over. With whom were we dealing? Surely with some new breed of pirates, exploiting the sea after their own fashion.
 
-[TTLU-008-003]The narrow hatch had barely closed over me when I was surrounded by profound darkness. Saturated with the outside light, my eyes couldn't make out a thing. I felt my naked feet clinging to the steps of an iron ladder. Forcibly seized, Ned Land and Conseil were behind me. At the foot of the ladder, a door opened and instantly closed behind us with a loud clang.
+[TTLU-008-003]The narrow hatch had barely closed over me when I was surrounded by profound darkness. Saturated with the outside light, my eyes couldn't make out a thing. I felt my naked feet clinging to the steps of an iron ladder. Forcibly seized, [[ned-land|Ned Land]] and [[conseil|Conseil]] were behind me. At the foot of the ladder, a door opened and instantly closed behind us with a loud clang.
 
 [TTLU-008-004]We were alone. Where? I couldn't say, could barely even imagine. All was darkness, but such utter darkness that after several minutes, my eyes were still unable to catch a single one of those hazy gleams that drift through even the blackest nights.
 

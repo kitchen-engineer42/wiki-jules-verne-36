@@ -25,7 +25,7 @@ tags: [chapter]
 
 [FWB-018-007]He could easily distinguish the astonished countenances of a rather fine-looking race of natives of yellowish-brown complexion. Women of incredible corpulence were dawdling about through the cultivated grounds, and the doctor greatly surprised his companions by informing them that this rotundity, which is highly esteemed in that region, was obtained by an obligatory diet of curdled milk.
 
-[FWB-018-008]At noon, the Victoria was in one degree forty-five minutes south latitude, and at one o'clock the wind was driving her directly toward the lake.
+[FWB-018-008]At noon, [[victoria-balloon|the Victoria]] was in one degree forty-five minutes south latitude, and at one o'clock the wind was driving her directly toward the lake.
 
 [FWB-018-009]This sheet of water was christened Uyanza Victoria, or Victoria Lake, by Captain Speke. At the place now mentioned it might measure about ninety miles in breadth, and at its southern extremity the captain found a group of islets, which he named the Archipelago of Bengal. He pushed his survey as far as Muanza, on the eastern coast, where he was received by the sultan. He made a triangulation of this part of the lake, but he could not procure a boat, either to cross it or to visit the great island of Ukereoue which is very populous, is governed by three sultans, and appears to be only a promontory at low tide.
 

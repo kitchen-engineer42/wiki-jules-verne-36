@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-015-001]A SKIRMISH IN DAHOMEY
 
-[RC-015-002]At this point in the circumnavigatory voyage of the "Albatross" it is only natural that some such questions as the following should be asked. Who was this Robur, of whom up to the present we know nothing but the name? Did he pass his life in the air? Did his aeronef never rest? Had he not some retreat in some inaccessible spot in which, if he had need of repose or revictualing, he could betake himself? It would be very strange if it were not so. The most powerful flyers have always an eyrie or nest somewhere.
+[RC-015-002]At this point in the circumnavigatory voyage of the "[[albatross|Albatross]]" it is only natural that some such questions as the following should be asked. Who was this [[robur|Robur]], of whom up to the present we know nothing but the name? Did he pass his life in the air? Did his aeronef never rest? Had he not some retreat in some inaccessible spot in which, if he had need of repose or revictualing, he could betake himself? It would be very strange if it were not so. The most powerful flyers have always an eyrie or nest somewhere.
 
 [RC-015-003]And what was the engineer going to do with his prisoners? Was he going to keep them in his power and condemn them to perpetual aviation? Or was he going to take them on a trip over Africa, South America, Australasia, the Indian Ocean, the Atlantic and the Pacific, to convince them against their will, and then dismiss them with, "And now gentlemen, I hope you will believe a little more in heavier than air?"
 

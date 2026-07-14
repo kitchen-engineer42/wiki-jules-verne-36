@@ -16,7 +16,7 @@ tags: [chapter]
 
 [TTLU-012-002]"SIR," CAPTAIN NEMO SAID, showing me the instruments hanging on the walls of his stateroom,
 
-[TTLU-012-003]"these are the devices needed to navigate the Nautilus. Here, as in the lounge, I always have them before my eyes, and they indicate my position and exact heading in the midst of the ocean. You're familiar with some of them, such as the thermometer, which gives the temperature inside the Nautilus; the barometer, which measures the heaviness of the outside air and forecasts changes in the weather; the humidistat, which indicates the degree of dryness in the atmosphere; the storm glass, whose mixture decomposes to foretell the arrival of tempests; the compass, which steers my course; the sextant, which takes the sun's altitude and tells me my latitude; chronometers, which allow me to calculate my longitude; and finally, spyglasses for both day and night, enabling me to scrutinize every point of the horizon once the Nautilus has risen to the surface of the waves."
+[TTLU-012-003]"these are the devices needed to navigate the [[nautilus|Nautilus]]. Here, as in the lounge, I always have them before my eyes, and they indicate my position and exact heading in the midst of the ocean. You're familiar with some of them, such as the thermometer, which gives the temperature inside the Nautilus; the barometer, which measures the heaviness of the outside air and forecasts changes in the weather; the humidistat, which indicates the degree of dryness in the atmosphere; the storm glass, whose mixture decomposes to foretell the arrival of tempests; the compass, which steers my course; the sextant, which takes the sun's altitude and tells me my latitude; chronometers, which allow me to calculate my longitude; and finally, spyglasses for both day and night, enabling me to scrutinize every point of the horizon once the Nautilus has risen to the surface of the waves."
 
 [TTLU-012-004]"These are the normal navigational instruments," I replied, "and I'm familiar with their uses. But no doubt these others answer pressing needs unique to the Nautilus. That dial I see there, with the needle moving across it--isn't it a pressure gauge?"
 
@@ -28,7 +28,7 @@ tags: [chapter]
 
 [TTLU-012-008]"And these other instruments, whose functions I can't even guess?"
 
-[TTLU-012-009]"Here, professor, I need to give you some background information," Captain Nemo said. "So kindly hear me out."
+[TTLU-012-009]"Here, professor, I need to give you some background information," [[captain-nemo|Captain Nemo]] said. "So kindly hear me out."
 
 [TTLU-012-010]He fell silent for some moments, then he said:
 
@@ -110,7 +110,7 @@ tags: [chapter]
 
 [TTLU-012-049]"Right," I said, tipsy from all these wonders, "nothing to it!"
 
-[TTLU-012-050]After passing the well of the companionway that led to the platform, I saw a cabin 2 meters long in which Conseil and Ned Land, enraptured with their meal, were busy devouring it to the last crumb. Then a door opened into the galley, 3 meters long and located between the vessel's huge storage lockers.
+[TTLU-012-050]After passing the well of the companionway that led to the platform, I saw a cabin 2 meters long in which [[conseil|Conseil]] and [[ned-land|Ned Land]], enraptured with their meal, were busy devouring it to the last crumb. Then a door opened into the galley, 3 meters long and located between the vessel's huge storage lockers.
 
 [TTLU-012-051]There, even more powerful and obedient than gas, electricity did most of the cooking. Arriving under the stoves, wires transmitted to platinum griddles a heat that was distributed and sustained with perfect consistency. It also heated a distilling mechanism that, via evaporation, supplied excellent drinking water. Next to this galley was a bathroom, conveniently laid out, with faucets supplying hot or cold water at will.
 

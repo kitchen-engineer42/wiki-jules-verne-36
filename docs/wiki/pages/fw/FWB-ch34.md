@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FWB-034-001]The Hurricane.--A Forced Departure.--Loss of an Anchor.--Melancholy Reflections.--The Resolution adopted.--The Sand-Storm.--The Buried Caravan.--A Contrary yet Favorable Wind.--The Return southward.--Kennedy at his Post.
 
-[FWB-034-002]At three o'clock in the morning the wind was raging. It beat down with such violence that the Victoria could not stay near the ground without danger. It was thrown almost flat over upon its side, and the reeds chafed the silk so roughly that it seemed as though they would tear it.
+[FWB-034-002]At three o'clock in the morning the wind was raging. It beat down with such violence that [[victoria-balloon|the Victoria]] could not stay near the ground without danger. It was thrown almost flat over upon its side, and the reeds chafed the silk so roughly that it seemed as though they would tear it.
 
 [FWB-034-003]"We must be off, Dick," said the doctor; "we cannot remain in this situation."
 

@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 17
 
-[MI-039-001]These last words justified the colonists' presentiment. There had been some mournful past, perhaps expiated in the sight of men, but from which his conscience had not yet absolved him. At any rate the guilty man felt remorse, he repented, and his new friends would have cordially pressed the hand which they sought; but he did not feel himself worthy to extend it to honest men! However, after the scene with the jaguar, he did not return to the forest, and from that day did not go beyond the enclosure of Granite House.
+[MI-039-001]These last words justified the colonists' presentiment. There had been some mournful past, perhaps expiated in the sight of men, but from which his conscience had not yet absolved him. At any rate the guilty man felt remorse, he repented, and his new friends would have cordially pressed the hand which they sought; but he did not feel himself worthy to extend it to honest men! However, after the scene with the jaguar, he did not return to the forest, and from that day did not go beyond the enclosure of [[granite-house|Granite House]].
 
 [MI-039-002]What was the mystery of his life? Would the stranger one day speak of it? Time alone could show. At any rate, it was agreed that his secret should never be asked from him, and that they would live with him as if they suspected nothing.
 
-[MI-039-003]For some days their life continued as before. Cyrus Harding and Gideon Spilett worked together, sometimes chemists, sometimes experimentalists. The reporter never left the engineer except to hunt with Herbert, for it would not have been prudent to allow the lad to ramble alone in the forest; and it was very necessary to be on their guard. As to Neb and Pencroft, one day at the stables and poultry-yard, another at the corral, without reckoning work in Granite House, they were never in want of employment.
+[MI-039-003]For some days their life continued as before. [[cyrus-harding|Cyrus Harding]] and Gideon Spilett worked together, sometimes chemists, sometimes experimentalists. The reporter never left the engineer except to hunt with Herbert, for it would not have been prudent to allow the lad to ramble alone in the forest; and it was very necessary to be on their guard. As to Neb and Pencroft, one day at the stables and poultry-yard, another at the corral, without reckoning work in Granite House, they were never in want of employment.
 
 [MI-039-004]The stranger worked alone, and he had resumed his usual life, never appearing at meals, sleeping under the trees in the plateau, never mingling with his companions. It really seemed as if the society of those who had saved him was insupportable to him!
 

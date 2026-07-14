@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 4
 
-[TTLU-004-001]Ned Land
+[TTLU-004-001][[ned-land|Ned Land]]
 
 [TTLU-004-002]COMMANDER FARRAGUT was a good seaman, worthy of the frigate he commanded. His ship and he were one. He was its very soul. On the cetacean question no doubts arose in his mind, and he didn't allow the animal's existence to be disputed aboard his vessel. He believed in it as certain pious women believe in the leviathan from the Book of Job--out of faith, not reason. The monster existed, and he had vowed to rid the seas of it. The man was a sort of Knight of Rhodes, a latter-day Sir Dieudonné of Gozo, on his way to fight an encounter with the dragon devastating the island. Either Commander Farragut would slay the narwhale, or the narwhale would slay Commander Farragut. No middle of the road for these two.
 
@@ -20,7 +20,7 @@ tags: [chapter]
 
 [TTLU-004-004]As for the crew, they only wanted to encounter the unicorn, harpoon it, haul it on board, and carve it up. They surveyed the sea with scrupulous care. Besides, Commander Farragut had mentioned that a certain sum of $2,000.00 was waiting for the man who first sighted the animal, be he cabin boy or sailor, mate or officer. I'll let the reader decide whether eyes got proper exercise aboard the Abraham Lincoln.
 
-[TTLU-004-005]As for me, I didn't lag behind the others and I yielded to no one my share in these daily observations. Our frigate would have had fivescore good reasons for renaming itself the Argus, after that mythological beast with 100 eyes! The lone rebel among us was Conseil, who seemed utterly uninterested in the question exciting us and was out of step with the general enthusiasm on board.
+[TTLU-004-005]As for me, I didn't lag behind the others and I yielded to no one my share in these daily observations. Our frigate would have had fivescore good reasons for renaming itself the Argus, after that mythological beast with 100 eyes! The lone rebel among us was [[conseil|Conseil]], who seemed utterly uninterested in the question exciting us and was out of step with the general enthusiasm on board.
 
 [TTLU-004-006]As I said, Commander Farragut had carefully equipped his ship with all the gear needed to fish for a gigantic cetacean. No whaling vessel could have been better armed. We had every known mechanism, from the hand-hurled harpoon, to the blunderbuss firing barbed arrows, to the duck gun with exploding bullets. On the forecastle was mounted the latest model breech-loading cannon, very heavy of barrel and narrow of bore, a weapon that would figure in the Universal Exhibition of 1867. Made in America, this valuable instrument could fire a four-kilogram conical projectile an average distance of sixteen kilometers without the least bother.
 

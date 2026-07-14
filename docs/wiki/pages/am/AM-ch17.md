@@ -73,7 +73,7 @@ tags: [chapter]
 
 [AM-017-031]"Edgar Poe asserts that he is," I replied.
 
-[AM-017-032]"Yes, I know, Edgar Poe of Baltimore. But--he never saw poor Pym, never, never."
+[AM-017-032]"Yes, I know, Edgar Poe of [[baltimore|Baltimore]]. But--he never saw poor Pym, never, never."
 
 [AM-017-033]"What?" exclaimed Captain Len Guy; "the two men were not acquainted?"
 

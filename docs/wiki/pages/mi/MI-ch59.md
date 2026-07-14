@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 17
 
-[MI-059-001]Day had returned. No ray of light penetrated into the profundity of the cavern. It being high-water, the entrance was closed by the sea. But the artificial light, which escaped in long streams from the skylights of the "Nautilus" was as vivid as before, and the sheet of water shone around the floating vessel.
+[MI-059-001]Day had returned. No ray of light penetrated into the profundity of the cavern. It being high-water, the entrance was closed by the sea. But the artificial light, which escaped in long streams from the skylights of the "[[nautilus|Nautilus]]" was as vivid as before, and the sheet of water shone around the floating vessel.
 
-[MI-059-002]An extreme exhaustion now overcame Captain Nemo, who had fallen back upon the divan. It was useless to contemplate removing him to Granite House, for he had expressed his wish to remain in the midst of those marvels of the "Nautilus" which millions could not have purchased, and to wait there for that death which was swiftly approaching.
+[MI-059-002]An extreme exhaustion now overcame [[captain-nemo|Captain Nemo]], who had fallen back upon the divan. It was useless to contemplate removing him to [[granite-house|Granite House]], for he had expressed his wish to remain in the midst of those marvels of the "Nautilus" which millions could not have purchased, and to wait there for that death which was swiftly approaching.
 
-[MI-059-003]During a long interval of prostration, which rendered him almost unconscious, Cyrus Harding and Gideon Spilett attentively observed the condition of the dying man. It was apparent that his strength was gradually diminishing. That frame, once so robust, was now but the fragile tenement of a departing soul. All of life was concentrated in the heart and head.
+[MI-059-003]During a long interval of prostration, which rendered him almost unconscious, [[cyrus-harding|Cyrus Harding]] and Gideon Spilett attentively observed the condition of the dying man. It was apparent that his strength was gradually diminishing. That frame, once so robust, was now but the fragile tenement of a departing soul. All of life was concentrated in the heart and head.
 
 [MI-059-004]The engineer and reporter consulted in whispers. Was it possible to render any aid to the dying man? Might his life, if not saved, be prolonged for some days? He himself had said that no remedy could avail, and he awaited with tranquillity that death which had for him no terrors.
 
@@ -102,7 +102,7 @@ tags: [chapter]
 
 [MI-059-045]"What a man!" said Pencroft. "Is it possible that he can have lived at the bottom of the sea? And it seems to me that perhaps he has not found peace there any more than elsewhere!"
 
-[MI-059-046]"The 'Nautilus,'" observed Ayrton, "might have enabled us to leave Lincoln Island and reach some inhabited country."
+[MI-059-046]"The 'Nautilus,'" observed Ayrton, "might have enabled us to leave [[lincoln-island|Lincoln Island]] and reach some inhabited country."
 
 [MI-059-047]"Good Heavens!" exclaimed Pencroft, "I for one would never risk myself in such a craft. To sail on the seas, good, but under the seas, never!"
 

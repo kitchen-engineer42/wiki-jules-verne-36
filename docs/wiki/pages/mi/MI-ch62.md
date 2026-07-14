@@ -14,11 +14,11 @@ tags: [chapter]
 
 [MI-062-001]An isolated rock, thirty feet in length, twenty in breadth, scarcely ten from the water's edge, such was the only solid point which the waves of the Pacific had not engulfed.
 
-[MI-062-002]It was all that remained of the structure of Granite House! The wall had fallen headlong and been then shattered to fragments, and a few of the rocks of the large room were piled one above another to form this point. All around had disappeared in the abyss; the inferior cone of Mount Franklin, rent asunder by the explosion; the lava jaws of Shark Gulf, the plateau of Prospect Heights, Safety Islet, the granite rocks of Port Balloon, the basalts of Dakkar Grotto, the long Serpentine Peninsula, so distant nevertheless from the center of the eruption. All that could now be seen of Lincoln Island was the narrow rock which now served as a refuge to the six colonists and their dog Top.
+[MI-062-002]It was all that remained of the structure of [[granite-house|Granite House]]! The wall had fallen headlong and been then shattered to fragments, and a few of the rocks of the large room were piled one above another to form this point. All around had disappeared in the abyss; the inferior cone of [[mount-franklin|Mount Franklin]], rent asunder by the explosion; the lava jaws of Shark Gulf, the plateau of Prospect Heights, Safety Islet, the granite rocks of Port Balloon, the basalts of Dakkar Grotto, the long Serpentine Peninsula, so distant nevertheless from the center of the eruption. All that could now be seen of [[lincoln-island|Lincoln Island]] was the narrow rock which now served as a refuge to the six colonists and their dog [[top|Top]].
 
 [MI-062-003]The animals had also perished in the catastrophe; the birds, as well as those representing the fauna of the island--all either crushed or drowned, and the unfortunate Jup himself had, alas! found his death in some crevice of the soil.
 
-[MI-062-004]If Cyrus Harding, Gideon Spilett, Herbert, Pencroft, Neb, and Ayrton had survived, it was because, assembled under their tent, they had been hurled into the sea at the instant when the fragments of the island rained down on every side.
+[MI-062-004]If [[cyrus-harding|Cyrus Harding]], Gideon Spilett, Herbert, Pencroft, Neb, and Ayrton had survived, it was because, assembled under their tent, they had been hurled into the sea at the instant when the fragments of the island rained down on every side.
 
 [MI-062-005]When they reached the surface they could only perceive, at half a cable's length, this mass of rocks, towards which they swam and on which they found footing.
 
@@ -30,7 +30,7 @@ tags: [chapter]
 
 [MI-062-009]"Ah, what a misfortune! what a misfortune!" often repeated Pencroft. "If we had but a walnut-shell to take us to Tabor Island! But we have nothing, nothing!"
 
-[MI-062-010]"Captain Nemo did right to die," said Neb.
+[MI-062-010]"[[captain-nemo|Captain Nemo]] did right to die," said Neb.
 
 [MI-062-011]During the five ensuing days Cyrus Harding and his unfortunate companions husbanded their provisions with the most extreme care, eating only what would prevent them from dying of starvation. Their weakness was extreme. Herbert and Neb began to show symptoms of delirium.
 

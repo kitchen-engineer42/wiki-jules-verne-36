@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-009-001]ICELAND! BUT WHAT NEXT?
 
-[JCE-009-002]The day for our departure arrived. The day before it our kind friend M. Thomsen brought us letters of introduction to Count Trampe, the Governor of Iceland, M. Picturssen, the bishop's suffragan, and M. Finsen, mayor of Rejkiavik. My uncle expressed his gratitude by tremendous compressions of both his hands.
+[JCE-009-002]The day for our departure arrived. The day before it our kind friend M. Thomsen brought us letters of introduction to Count Trampe, the Governor of [[iceland|Iceland]], M. Picturssen, the bishop's suffragan, and M. Finsen, mayor of Rejkiavik. My uncle expressed his gratitude by tremendous compressions of both his hands.
 
 [JCE-009-003]On the 2nd, at six in the evening, all our precious baggage being safely on board the _Valkyria,_ the captain took us into a very narrow cabin.
 
@@ -37,7 +37,7 @@ tags: [chapter]
 
 [JCE-009-013]"But are you not subject to considerable delays?"
 
-[JCE-009-014]"No, M. Liedenbrock, don't be uneasy, we shall get there in very good time."
+[JCE-009-014]"No, M. [[professor-lidenbrock|Liedenbrock]], don't be uneasy, we shall get there in very good time."
 
 [JCE-009-015]At evening the schooner doubled the Skaw at the northern point of Denmark, in the night passed the Skager Rack, skirted Norway by Cape Lindness, and entered the North Sea.
 
@@ -47,7 +47,7 @@ tags: [chapter]
 
 [JCE-009-018]The passage was marked by nothing unusual. I bore the troubles of the sea pretty well; my uncle, to his own intense disgust, and his greater shame, was ill all through the voyage.
 
-[JCE-009-019]He therefore was unable to converse with the captain about Snæfell, the way to get to it, the facilities for transport, he was obliged to put off these inquiries until his arrival, and spent all his time at full length in his cabin, of which the timbers creaked and shook with every pitch she took. It must be confessed he was not undeserving of his punishment.
+[JCE-009-019]He therefore was unable to converse with the captain about [[snaefellsjokull|Snæfell]], the way to get to it, the facilities for transport, he was obliged to put off these inquiries until his arrival, and spent all his time at full length in his cabin, of which the timbers creaked and shook with every pitch she took. It must be confessed he was not undeserving of his punishment.
 
 [JCE-009-020]On the 11th we reached Cape Portland. The clear open weather gave us a good view of Myrdals jokul, which overhangs it. The cape is merely a low hill with steep sides, standing lonely by the beach.
 
@@ -75,7 +75,7 @@ tags: [chapter]
 
 [JCE-009-032]This good-natured gentleman made over to us two of the three rooms which his house contained, and we were soon installed in it with all our luggage, the abundance of which rather astonished the good people of Rejkiavik.
 
-[JCE-009-033]"Well, Axel," said my uncle, "we are getting on, and now the worst is over."
+[JCE-009-033]"Well, [[axel|Axel]]," said my uncle, "we are getting on, and now the worst is over."
 
 [JCE-009-034]"The worst!" I said, astonished.
 

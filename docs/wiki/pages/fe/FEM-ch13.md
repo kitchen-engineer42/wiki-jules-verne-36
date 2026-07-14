@@ -15,13 +15,13 @@ tags: [chapter]
 
 [FEM-013-002]Since the choice made by the members of the Gun Club to the detriment of Texas, every one in America--where every one knows how to read--made it his business to study the geography of Florida. Never before had the booksellers sold so many _Bertram's Travels in Florida_, _Roman's Natural History of East and West Florida_, _Williams' Territory of Florida_, and _Cleland on the Culture of the Sugar Cane in East Florida_. New editions of these works were required. There was quite a rage for them.
 
-[FEM-013-003]Barbicane had something better to do than to read; he wished to see with his own eyes and choose the site of the Columbiad. Therefore, without losing a moment, he put the funds necessary for the construction of a telescope at the disposition of the Cambridge Observatory, and made a contract with the firm of Breadwill and Co., of Albany, for the making of the aluminium projectile; then he left Baltimore accompanied by J.T. Maston, Major Elphinstone, and the manager of the Goldspring Manufactory.
+[FEM-013-003][[barbicane|Barbicane]] had something better to do than to read; he wished to see with his own eyes and choose the site of the [[columbiad|Columbiad]]. Therefore, without losing a moment, he put the funds necessary for the construction of a telescope at the disposition of the Cambridge Observatory, and made a contract with the firm of Breadwill and Co., of Albany, for the making of the [[lunar-projectile|aluminium projectile]]; then he left [[baltimore|Baltimore]] accompanied by J.T. Maston, Major Elphinstone, and the manager of the Goldspring Manufactory.
 
 [FEM-013-004]The next day the four travelling companions reached New Orleans. There they embarked on board the _Tampico_, a despatch-boat belonging to the Federal Navy, which the Government had placed at their disposal, and, with all steam on, they quickly lost sight of the shores of Louisiana.
 
 [FEM-013-005]The passage was not a long one; two days after its departure the _Tampico_, having made four hundred and eighty miles, sighted the Floridian coast. As it approached, Barbicane saw a low, flat coast, looking rather unfertile. After coasting a series of creeks rich in oysters and lobsters, the _Tampico_ entered the Bay of Espiritu-Santo.
 
-[FEM-013-006]This bay is divided into two long roadsteads, those of Tampa and Hillisboro, the narrow entrance to which the steamer soon cleared. A short time afterwards the batteries of Fort Brooke rose above the waves and the town of Tampa appeared, carelessly lying on a little natural harbour formed by the mouth of the river Hillisboro.
+[FEM-013-006]This bay is divided into two long roadsteads, those of [[tampa-town|Tampa]] and Hillisboro, the narrow entrance to which the steamer soon cleared. A short time afterwards the batteries of Fort Brooke rose above the waves and the town of Tampa appeared, carelessly lying on a little natural harbour formed by the mouth of the river Hillisboro.
 
 [FEM-013-007]There the _Tampico_ anchored on October 22nd, at seven p.m.; the four passengers landed immediately.
 

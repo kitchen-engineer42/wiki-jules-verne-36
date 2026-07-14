@@ -19,7 +19,7 @@ tags: [chapter]
 
 [JCE-044-004]The hunter shook his head in token of complete ignorance.
 
-[JCE-044-005]"Is it Iceland?" I asked.
+[JCE-044-005]"Is it [[iceland|Iceland]]?" I asked.
 
 [JCE-044-006]"_Nej,_" replied Hans.
 
@@ -39,7 +39,7 @@ tags: [chapter]
 
 [JCE-044-014]"But is it Jan Mayen?" I asked.
 
-[JCE-044-015]"Nor that either," he answered. "This is no northern mountain; here are no granite peaks capped with snow. Look, Axel, look!"
+[JCE-044-015]"Nor that either," he answered. "This is no northern mountain; here are no granite peaks capped with snow. Look, [[axel|Axel]], look!"
 
 [JCE-044-016]Above our heads, at a height of five hundred feet or more, we saw the crater of a volcano, through. which, at intervals of fifteen minutes or so, there issued with loud explosions lofty columns of fire, mingled with pumice stones, ashes, and flowing lava. I could feel the heaving of the mountain, which seemed to breathe like a huge whale, and puff out fire and wind from its vast blowholes. Beneath, down a pretty steep declivity, ran streams of lava for eight or nine hundred feet, giving the mountain a height of about 1,300 or 1,400 feet. But the base of the mountain was hidden in a perfect bower of rich verdure, amongst which I was able to distinguish the olive, the fig, and vines, covered with their luscious purple bunches.
 
@@ -115,13 +115,13 @@ tags: [chapter]
 
 [JCE-044-052]"STROMBOLI," replied the little herdboy, slipping out of Hans' hands, and scudding into the plain across the olive trees.
 
-[JCE-044-053]We were hardly thinking of that. Stromboli! What an effect this unexpected name produced upon my mind! We were in the midst of the Mediterranean Sea, on an island of the Æolian archipelago, in the ancient Strongyle, where Æolus kept the winds and the storms chained up, to be let loose at his will. And those distant blue mountains in the east were the mountains of Calabria. And that threatening volcano far away in the south was the fierce Etna.
+[JCE-044-053]We were hardly thinking of that. [[stromboli|Stromboli]]! What an effect this unexpected name produced upon my mind! We were in the midst of the Mediterranean Sea, on an island of the Æolian archipelago, in the ancient Strongyle, where Æolus kept the winds and the storms chained up, to be let loose at his will. And those distant blue mountains in the east were the mountains of Calabria. And that threatening volcano far away in the south was the fierce Etna.
 
 [JCE-044-054]"Stromboli, Stromboli!" I repeated.
 
 [JCE-044-055]My uncle kept time to my exclamations with hands and feet, as well as with words. We seemed to be chanting in chorus!
 
-[JCE-044-056]What a journey we had accomplished! How marvellous! Having entered by one volcano, we had issued out of another more than two thousand miles from Snæfell and from that barren, far-away Iceland! The strange chances of our expedition had carried us into the heart of the fairest region in the world. We had exchanged the bleak regions of perpetual snow and of impenetrable barriers of ice for those of brightness and 'the rich hues of all glorious things.' We had left over our heads the murky sky and cold fogs of the frigid zone to revel under the azure sky of Italy!
+[JCE-044-056]What a journey we had accomplished! How marvellous! Having entered by one volcano, we had issued out of another more than two thousand miles from [[snaefellsjokull|Snæfell]] and from that barren, far-away Iceland! The strange chances of our expedition had carried us into the heart of the fairest region in the world. We had exchanged the bleak regions of perpetual snow and of impenetrable barriers of ice for those of brightness and 'the rich hues of all glorious things.' We had left over our heads the murky sky and cold fogs of the frigid zone to revel under the azure sky of Italy!
 
 [JCE-044-057]After our delicious repast of fruits and cold, clear water we set off again to reach the port of Stromboli. It would not have been wise to tell how we came there. The superstitious Italians would have set us down for fire-devils vomited out of hell; so we presented ourselves in the humble guise of shipwrecked mariners. It was not so glorious, but it was safer.
 

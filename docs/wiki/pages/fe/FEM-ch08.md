@@ -17,7 +17,7 @@ tags: [chapter]
 
 [FEM-008-003]The next evening the four members of the Gun Club sat down before fresh mountains of sandwiches and a veritable ocean of tea. The debate then began.
 
-[FEM-008-004]"My dear colleagues," said Barbicane, "we are going to occupy ourselves with the construction of the engine, its length, form, composition, and weight. It is probable that we shall have to give it gigantic dimensions, but, however great our difficulties might be, our industrial genius will easily overcome them. Will you please listen to me and spare objections for the present? I do not fear them."
+[FEM-008-004]"My dear colleagues," said [[barbicane|Barbicane]], "we are going to occupy ourselves with the construction of the engine, its length, form, composition, and weight. It is probable that we shall have to give it gigantic dimensions, but, however great our difficulties might be, our industrial genius will easily overcome them. Will you please listen to me and spare objections for the present? I do not fear them."
 
 [FEM-008-005]An approving murmur greeted this declaration.
 
@@ -93,7 +93,7 @@ tags: [chapter]
 
 [FEM-008-041]A fresh discussion was pending, each taking the part of his favourite weapon, when the president stopped it short.
 
-[FEM-008-042]"My friends," said he, "I will soon make you agree. Our Columbiad will be a mixture of all three. It will be a cannon, because the powder-magazine will have the same diameter as the chamber. It will be a howitzer, because it will hurl an obus. Lastly, it will be a mortar, because it will be pointed at an angle of 90°, and that without any chance of recoil; unalterably fixed to the ground, it will communicate to the projectile all the power of impulsion accumulated in its body."
+[FEM-008-042]"My friends," said he, "I will soon make you agree. Our [[columbiad|Columbiad]] will be a mixture of all three. It will be a cannon, because the powder-magazine will have the same diameter as the chamber. It will be a howitzer, because it will hurl an obus. Lastly, it will be a mortar, because it will be pointed at an angle of 90°, and that without any chance of recoil; unalterably fixed to the ground, it will communicate to the projectile all the power of impulsion accumulated in its body."
 
 [FEM-008-043]"Adopted, adopted," answered the members of the committee.
 

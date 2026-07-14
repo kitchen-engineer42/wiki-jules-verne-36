@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 3
 
-[MI-025-001]The next day, the 30th of October, all was ready for the proposed exploring expedition, which recent events had rendered so necessary. In fact, things had so come about that the settlers in Lincoln Island no longer needed help for themselves, but were even able to carry it to others.
+[MI-025-001]The next day, the 30th of October, all was ready for the proposed exploring expedition, which recent events had rendered so necessary. In fact, things had so come about that the settlers in [[lincoln-island|Lincoln Island]] no longer needed help for themselves, but were even able to carry it to others.
 
 [MI-025-002]It was therefore agreed that they should ascend the Mercy as far as the river was navigable. A great part of the distance would thus be traversed without fatigue, and the explorers could transport their provisions and arms to an advanced point in the west of the island.
 
-[MI-025-003]It was necessary to think not only of the things which they should take with them, but also of those which they might have by chance to bring back to Granite House. If there had been a wreck on the coast, as was supposed, there would be many things cast up, which would be lawfully their prizes. In the event of this, the cart would have been of more use than the light canoe, but it was heavy and clumsy to drag, and therefore more difficult to use; this led Pencroft to express his regret that the chest had not contained, besides "his halfpound of tobacco," a pair of strong New Jersey horses, which would have been very useful to the colony!
+[MI-025-003]It was necessary to think not only of the things which they should take with them, but also of those which they might have by chance to bring back to [[granite-house|Granite House]]. If there had been a wreck on the coast, as was supposed, there would be many things cast up, which would be lawfully their prizes. In the event of this, the cart would have been of more use than the light canoe, but it was heavy and clumsy to drag, and therefore more difficult to use; this led Pencroft to express his regret that the chest had not contained, besides "his halfpound of tobacco," a pair of strong New Jersey horses, which would have been very useful to the colony!
 
 [MI-025-004]The provisions, which Neb had already packed up, consisted of a store of meat and of several gallons of beer, that is to say enough to sustain them for three days, the time which Harding assigned for the expedition. They hoped besides to supply themselves on the road, and Neb took care not to forget the portable stove.
 
@@ -24,9 +24,9 @@ tags: [chapter]
 
 [MI-025-006]For weapons they selected the two flint-lock guns, which were likely to be more useful to them than the percussion fowling-pieces, the first only requiring flints which could be easily replaced, and the latter needing fulminating caps, a frequent use of which would soon exhaust their limited stock. However, they took also one of the carbines and some cartridges. As to the powder, of which there was about fifty pounds in the barrel, a small supply of it had to be taken, but the engineer hoped to manufacture an explosive substance which would allow them to husband it. To the firearms were added the five cutlasses well sheathed in leather, and, thus supplied, the settlers could venture into the vast forest with some chance of success.
 
-[MI-025-007]It is useless to add that Pencroft, Herbert, and Neb, thus armed, were at the summit of their happiness, although Cyrus Harding made them promise not to fire a shot unless it was necessary.
+[MI-025-007]It is useless to add that Pencroft, Herbert, and Neb, thus armed, were at the summit of their happiness, although [[cyrus-harding|Cyrus Harding]] made them promise not to fire a shot unless it was necessary.
 
-[MI-025-008]At six in the morning the canoe put off from the shore; all had embarked, including Top, and they proceeded to the mouth of the Mercy.
+[MI-025-008]At six in the morning the canoe put off from the shore; all had embarked, including [[top|Top]], and they proceeded to the mouth of the Mercy.
 
 [MI-025-009]The tide had begun to come up half an hour before. For several hours, therefore, there would be a current, which it was well to profit by, for later the ebb would make it difficult to ascend the river. The tide was already strong, for in three days the moon would be full, and it was enough to keep the boat in the center of the current, where it floated swiftly along between the high banks without its being necessary to increase its speed by the aid of the oars. In a few minutes the explorers arrived at the angle formed by the Mercy and exactly at the place where, seven months before, Pencroft had made his first raft of wood.
 
@@ -52,7 +52,7 @@ tags: [chapter]
 
 [MI-025-020]The reporter, Herbert, and Pencroft in this manner frequently disembarked, sometimes on the right bank, sometimes on the left bank of the Mercy.
 
-[MI-025-021]The latter was less abrupt, but the former more wooded. The engineer ascertained by consulting his pocket-compass that the direction of the river from the first turn was obviously southwest and northeast, and nearly straight for a length of about three miles. But it was to be supposed that this direction changed beyond that point, and that the Mercy continued to the north-west, towards the spurs of Mount Franklin, among which the river rose.
+[MI-025-021]The latter was less abrupt, but the former more wooded. The engineer ascertained by consulting his pocket-compass that the direction of the river from the first turn was obviously southwest and northeast, and nearly straight for a length of about three miles. But it was to be supposed that this direction changed beyond that point, and that the Mercy continued to the north-west, towards the spurs of [[mount-franklin|Mount Franklin]], among which the river rose.
 
 [MI-025-022]During one of these excursions, Gideon Spilett managed to get hold of two couples of living gallinaceae. They were birds with long, thin beaks, lengthened necks, short wings, and without any appearance of a tail. Herbert rightly gave them the name of tinamous, and it was resolved that they should be the first tenants of their future poultry-yard.
 

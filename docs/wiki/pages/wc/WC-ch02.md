@@ -197,7 +197,7 @@ tags: [chapter]
 
 [WC-002-093]"It is a strange name. To what country does it belong in your judgment, Mr. Hersebom?"
 
-[WC-002-094]"How should I know? Have I ever been beyond the shores of Noroe and Bergen, except once or twice to fish off the coast of Greenland and Iceland?" answered the good man, in a tone which grew more and more morose.
+[WC-002-094]"How should I know? Have I ever been beyond the shores of Noroe and Bergen, except once or twice to fish off the coast of Greenland and [[iceland|Iceland]]?" answered the good man, in a tone which grew more and more morose.
 
 [WC-002-095]"I think it is either an English or a German name," said the doctor, taking no notice of his crossness. "It would be easy to decide on account of the shape of the letters, if I could see the buoy. Have you preserved it?"
 

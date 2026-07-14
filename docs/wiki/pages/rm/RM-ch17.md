@@ -19,9 +19,9 @@ tags: [chapter]
 
 [RM-017-004]"Ah!" said Nicholl, "sunshine is good! How impatiently after their long nights the Selenites must await the reappearance of the orb of day!"
 
-[RM-017-005]"Yes," answered Michel Ardan, "imbibing, as it were, the brilliant ether, light and heat, all life is in them."
+[RM-017-005]"Yes," answered [[michel-ardan|Michel Ardan]], "imbibing, as it were, the brilliant ether, light and heat, all life is in them."
 
-[RM-017-006]At that moment the bottom of the projectile moved slightly from the lunar surface in order to describe a rather long elliptical orbit. From that point, if the earth had been full, Barbicane and his friends could have seen it again. But, drowned in the sun's irradiation, it remained absolutely invisible. Another spectacle attracted their eyes, presented by the southern region of the moon, brought by the telescopes to within half-a-mile. They left the port-lights no more, and noted all the details of the strange continent.
+[RM-017-006]At that moment the bottom of the projectile moved slightly from the lunar surface in order to describe a rather long elliptical orbit. From that point, if the earth had been full, [[barbicane|Barbicane]] and his friends could have seen it again. But, drowned in the sun's irradiation, it remained absolutely invisible. Another spectacle attracted their eyes, presented by the southern region of the moon, brought by the telescopes to within half-a-mile. They left the port-lights no more, and noted all the details of the strange continent.
 
 [RM-017-007]Mounts Doerfel and Leibnitz formed two separate groups stretching nearly to the South Pole; the former group extends from the Pole to the 84th parallel on the eastern part of the orb; the second, starting from the eastern border, stretches from the 65th degree of latitude to the Pole.
 

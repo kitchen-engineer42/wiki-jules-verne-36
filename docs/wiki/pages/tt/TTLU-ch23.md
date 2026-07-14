@@ -16,13 +16,13 @@ tags: [chapter]
 
 [TTLU-023-002]*Latin: "troubled dreams." Ed.
 
-[TTLU-023-003]THE FOLLOWING DAY, January 10, the Nautilus resumed its travels in midwater but at a remarkable speed that I estimated to be at least thirty-five miles per hour. The propeller was going so fast I could neither follow nor count its revolutions.
+[TTLU-023-003]THE FOLLOWING DAY, January 10, the [[nautilus|Nautilus]] resumed its travels in midwater but at a remarkable speed that I estimated to be at least thirty-five miles per hour. The propeller was going so fast I could neither follow nor count its revolutions.
 
 [TTLU-023-004]I thought about how this marvelous electric force not only gave motion, heat, and light to the Nautilus but even protected it against outside attack, transforming it into a sacred ark no profane hand could touch without being blasted; my wonderment was boundless, and it went from the submersible itself to the engineer who had created it.
 
-[TTLU-023-005]We were traveling due west and on January 11 we doubled Cape Wessel, located in longitude 135 degrees and latitude 10 degrees north, the western tip of the Gulf of Carpentaria. Reefs were still numerous but more widely scattered and were fixed on the chart with the greatest accuracy. The Nautilus easily avoided the Money breakers to port and the Victoria reefs to starboard, positioned at longitude 130 degrees on the tenth parallel, which we went along rigorously.
+[TTLU-023-005]We were traveling due west and on January 11 we doubled Cape Wessel, located in longitude 135 degrees and latitude 10 degrees north, the western tip of the Gulf of Carpentaria. Reefs were still numerous but more widely scattered and were fixed on the chart with the greatest accuracy. The Nautilus easily avoided the Money breakers to port and [[victoria-balloon|the Victoria]] reefs to starboard, positioned at longitude 130 degrees on the tenth parallel, which we went along rigorously.
 
-[TTLU-023-006]On January 13, arriving in the Timor Sea, Captain Nemo raised the island of that name at longitude 122 degrees. This island, whose surface area measures 1,625 square leagues, is governed by rajahs. These aristocrats deem themselves the sons of crocodiles, in other words, descendants with the most exalted origins to which a human being can lay claim. Accordingly, their scaly ancestors infest the island's rivers and are the subjects of special veneration. They are sheltered, nurtured, flattered, pampered, and offered a ritual diet of nubile maidens; and woe to the foreigner who lifts a finger against these sacred saurians.
+[TTLU-023-006]On January 13, arriving in the Timor Sea, [[captain-nemo|Captain Nemo]] raised the island of that name at longitude 122 degrees. This island, whose surface area measures 1,625 square leagues, is governed by rajahs. These aristocrats deem themselves the sons of crocodiles, in other words, descendants with the most exalted origins to which a human being can lay claim. Accordingly, their scaly ancestors infest the island's rivers and are the subjects of special veneration. They are sheltered, nurtured, flattered, pampered, and offered a ritual diet of nubile maidens; and woe to the foreigner who lifts a finger against these sacred saurians.
 
 [TTLU-023-007]But the Nautilus wanted nothing to do with these nasty animals. Timor Island was visible for barely an instant at noon while the chief officer determined his position. I also caught only a glimpse of little Roti Island, part of this same group, whose women have a well-established reputation for beauty in the Malaysian marketplace.
 
@@ -54,7 +54,7 @@ tags: [chapter]
 
 [TTLU-023-021]"--1.018 for the waters of the Ionian Sea, and 1.029 for the waters of the Adriatic."
 
-[TTLU-023-022]Assuredly, the Nautilus didn't avoid the heavily traveled seas of Europe, and from this insight I concluded that the ship would take us back--perhaps very soon--to more civilized shores. I expected Ned Land to greet this news with unfeigned satisfaction.
+[TTLU-023-022]Assuredly, the Nautilus didn't avoid the heavily traveled seas of Europe, and from this insight I concluded that the ship would take us back--perhaps very soon--to more civilized shores. I expected [[ned-land|Ned Land]] to greet this news with unfeigned satisfaction.
 
 [TTLU-023-023]For several days our work hours were spent in all sorts of experiments, on the degree of salinity in waters of different depths, or on their electric properties, coloration, and transparency, and in every instance Captain Nemo displayed an ingenuity equaled only by his graciousness toward me. Then I saw no more of him for some days and again lived on board in seclusion.
 
@@ -72,7 +72,7 @@ tags: [chapter]
 
 [TTLU-023-030]Some magic lay behind this dazzling sight! Perhaps some atmospheric condition had intensified this phenomenon? Perhaps a storm had been unleashed on the surface of the waves? But only a few meters down, the Nautilus felt no tempest's fury, and the ship rocked peacefully in the midst of the calm waters.
 
-[TTLU-023-031]And so it went, some new wonder constantly delighting us. Conseil observed and classified his zoophytes, articulates, mollusks, and fish. The days passed quickly, and I no longer kept track of them. Ned, as usual, kept looking for changes of pace from our standard fare. Like actual snails, we were at home in our shell, and I can vouch that it's easy to turn into a full-fledged snail.
+[TTLU-023-031]And so it went, some new wonder constantly delighting us. [[conseil|Conseil]] observed and classified his zoophytes, articulates, mollusks, and fish. The days passed quickly, and I no longer kept track of them. Ned, as usual, kept looking for changes of pace from our standard fare. Like actual snails, we were at home in our shell, and I can vouch that it's easy to turn into a full-fledged snail.
 
 [TTLU-023-032]So this way of living began to seem simple and natural to us, and we no longer envisioned a different lifestyle on the surface of the planet earth, when something happened to remind us of our strange circumstances.
 

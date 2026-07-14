@@ -31,7 +31,7 @@ tags: [chapter]
 
 [JCE-011-010]Nevertheless, they soon came to understand each other. Neither looked at the amount of the payment: the one was ready to accept whatever was offered; the other was ready to give whatever was demanded. Never was bargain more readily concluded.
 
-[JCE-011-011]The result of the treaty was, that Hans engaged on his part to conduct us to the village of Stapi, on the south shore of the Snæfell peninsula, at the very foot of the volcano. By land this would be about twenty-two miles, to be done, said my uncle, in two days.
+[JCE-011-011]The result of the treaty was, that Hans engaged on his part to conduct us to the village of Stapi, on the south shore of the [[snaefellsjokull|Snæfell]] peninsula, at the very foot of the volcano. By land this would be about twenty-two miles, to be done, said my uncle, in two days.
 
 [JCE-011-012]But when he learnt that the Danish mile was 24,000 feet long, he was obliged to modify his calculations and allow seven or eight days for the march.
 
@@ -51,7 +51,7 @@ tags: [chapter]
 
 [JCE-011-020]"So he is to go with us as far as --"
 
-[JCE-011-021]"As far as the centre of the earth, Axel."
+[JCE-011-021]"As far as the centre of the earth, [[axel|Axel]]."
 
 [JCE-011-022]Forty-eight hours were left before our departure; to my great regret I had to employ them in preparations; for all our ingenuity was required to pack every article to the best advantage; instruments here, arms there, tools in this package, provisions in that: four sets of packages in all.
 
@@ -69,7 +69,7 @@ tags: [chapter]
 
 [JCE-011-029]6. Two of Ruhmkorff's apparatus, which, by means of an electric current, supplied a safe and handy portable light [2]
 
-[JCE-011-030]The arms consisted of two of Purdy's rifles and two brace of pistols. But what did we want arms for? We had neither savages nor wild beasts to fear, I supposed. But my uncle seemed to believe in his arsenal as in his instruments, and more especially in a considerable quantity of gun cotton, which is unaffected by moisture, and the explosive force of which exceeds that of gunpowder.
+[JCE-011-030]The arms consisted of two of Purdy's rifles and two brace of pistols. But what did we want arms for? We had neither savages nor wild beasts to fear, I supposed. But my uncle seemed to believe in his arsenal as in his instruments, and more especially in a considerable quantity of [[gun-cotton|gun cotton]], which is unaffected by moisture, and the explosive force of which exceeds that of gunpowder.
 
 [JCE-011-031][1] In M. Verne's book a 'manometer' is the instrument used, of which very little is known. In a complete list of philosophical instruments the translator cannot find the name. As he is assured by a first-rate instrument maker, Chadburn, of Liverpool, that an aneroid can be constructed to measure any depth, he has thought it best to furnish the adventurous professor with this more familiar instrument. The 'manometer' is generally known as a pressure gauge. - TRANS.
 
@@ -87,7 +87,7 @@ tags: [chapter]
 
 [JCE-011-038]The 14th was wholly spent in arranging all our different articles. In the evening we dined with Baron Tramps; the mayor of Rejkiavik, and Dr. Hyaltalin, the first medical man of the place, being of the party. M. Fridrikssen was not there. I learned afterwards that he and the Governor disagreed upon some question of administration, and did not speak to each other. I therefore knew not a single word of all that was said at this semi-official dinner; but I could not help noticing that my uncle talked the whole time.
 
-[JCE-011-039]On the 15th our preparations were all made. Our host gave the Professor very great pleasure by presenting him with a map of Iceland far more complete than that of Hendersen. It was the map of M. Olaf Nikolas Olsen, in the proportion of 1 to 480,000 of the actual size of the island, and published by the Icelandic Literary Society. It was a precious document for a mineralogist.
+[JCE-011-039]On the 15th our preparations were all made. Our host gave the Professor very great pleasure by presenting him with a map of [[iceland|Iceland]] far more complete than that of Hendersen. It was the map of M. Olaf Nikolas Olsen, in the proportion of 1 to 480,000 of the actual size of the island, and published by the Icelandic Literary Society. It was a precious document for a mineralogist.
 
 [JCE-011-040]Our last evening was spent in intimate conversation with M. Fridrikssen, with whom I felt the liveliest sympathy; then, after the talk, succeeded, for me, at any rate, a disturbed and restless night.
 

@@ -43,7 +43,7 @@ tags: [chapter]
 
 [ACH-058-016]Two hours later, after unheard-of exertions, the survivors of the Forward were picked up by the Hans Christian, a Danish whaler, on her way to Davis' Straits. They were more like spectres than human beings, and the sight of their sufferings was enough. It told its own tale; but the captain received them with such hearty sympathy, and lavished on them such care and kindness, that he succeeded in keeping them alive.
 
-[ACH-058-017]Ten days afterwards, Clawbonny, Johnson, Bell, Altamont, and Captain Hatteras landed at Korsam, in Zealand, an island belonging to Denmark. They took the steamer to Kiel, and from there proceeded by Altona and Hamburg to London, where they arrived on the 13th of the same month, scarcely recovered after their long sufferings.
+[ACH-058-017]Ten days afterwards, Clawbonny, Johnson, Bell, Altamont, and [[captain-hatteras|Captain Hatteras]] landed at Korsam, in Zealand, an island belonging to Denmark. They took the steamer to Kiel, and from there proceeded by Altona and Hamburg to London, where they arrived on the 13th of the same month, scarcely recovered after their long sufferings.
 
 [ACH-058-018]The first care of Clawbonny was to request the Royal Geographical Society to receive a communication from him. He was accordingly admitted to the next
 
@@ -55,7 +55,7 @@ tags: [chapter]
 
 [ACH-058-022]The Doctor and his companions had the honour of being presented to the Queen by the Lord Chancellor, and they were feted and "lionized" in all quarters.
 
-[ACH-058-023]The Government confirmed the names of "Queen's Island," "Mount Hatteras," and "Altamont Harbour."
+[ACH-058-023]The Government confirmed the names of "[[north-pole|Queen's Island]]," "Mount Hatteras," and "Altamont Harbour."
 
 [ACH-058-024]Altamont would not part from his companions in misery and glory, but followed them to Liverpool, where they were joyously welcomed back, after being so long supposed dead and buried beneath the eternal snows.
 

@@ -15,7 +15,7 @@ tags: [chapter]
 
 [AWED-029-002]The train pursued its course, that evening, without interruption, passing Fort Saunders, crossing Cheyne Pass, and reaching Evans Pass. The road here attained the highest elevation of the journey, eight thousand and ninety-two feet above the level of the sea. The travellers had now only to descend to the Atlantic by limitless plains, levelled by nature. A branch of the "grand trunk" led off southward to Denver, the capital of Colorado. The country round about is rich in gold and silver, and more than fifty thousand inhabitants are already settled there.
 
-[AWED-029-003]Thirteen hundred and eighty-two miles had been passed over from San Francisco, in three days and three nights; four days and nights more would probably bring them to New York. Phileas Fogg was not as yet behind-hand.
+[AWED-029-003]Thirteen hundred and eighty-two miles had been passed over from San Francisco, in three days and three nights; four days and nights more would probably bring them to New York. [[phileas-fogg|Phileas Fogg]] was not as yet behind-hand.
 
 [AWED-029-004]During the night Camp Walbach was passed on the left; Lodge Pole Creek ran parallel with the road, marking the boundary between the territories of Wyoming and Colorado. They entered Nebraska at eleven, passed near Sedgwick, and touched at Julesburg, on the southern branch of the Platte River.
 
@@ -25,11 +25,11 @@ tags: [chapter]
 
 [AWED-029-007]The one hundred and first meridian was passed.
 
-[AWED-029-008]Mr. Fogg and his partners had resumed their game; no one--not even the dummy--complained of the length of the trip. Fix had begun by winning several guineas, which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr. Fogg. During the morning, chance distinctly favoured that gentleman. Trumps and honours were showered upon his hands.
+[AWED-029-008]Mr. Fogg and his partners had resumed their game; no one--not even the dummy--complained of the length of the trip. [[fix|Fix]] had begun by winning several guineas, which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr. Fogg. During the morning, chance distinctly favoured that gentleman. Trumps and honours were showered upon his hands.
 
 [AWED-029-009]Once, having resolved on a bold stroke, he was on the point of playing a spade, when a voice behind him said, "I should play a diamond."
 
-[AWED-029-010]Mr. Fogg, Aouda, and Fix raised their heads, and beheld Colonel Proctor.
+[AWED-029-010]Mr. Fogg, [[aouda|Aouda]], and Fix raised their heads, and beheld Colonel Proctor.
 
 [AWED-029-011]Stamp Proctor and Phileas Fogg recognised each other at once.
 
@@ -45,7 +45,7 @@ tags: [chapter]
 
 [AWED-029-017]"You have only to try, son of John Bull," replied the colonel.
 
-[AWED-029-018]Aouda turned pale, and her blood ran cold. She seized Mr. Fogg's arm and gently pulled him back. Passepartout was ready to pounce upon the American, who was staring insolently at his opponent. But Fix got up, and, going to Colonel Proctor said, "You forget that it is I with whom you have to deal, sir; for it was I whom you not only insulted, but struck!"
+[AWED-029-018]Aouda turned pale, and her blood ran cold. She seized Mr. Fogg's arm and gently pulled him back. [[passepartout|Passepartout]] was ready to pounce upon the American, who was staring insolently at his opponent. But Fix got up, and, going to Colonel Proctor said, "You forget that it is I with whom you have to deal, sir; for it was I whom you not only insulted, but struck!"
 
 [AWED-029-019]"Mr. Fix," said Mr. Fogg, "pardon me, but this affair is mine, and mine only. The colonel has again insulted me, by insisting that I should not play a spade, and he shall give me satisfaction for it."
 

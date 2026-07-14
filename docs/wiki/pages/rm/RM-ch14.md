@@ -15,11 +15,11 @@ tags: [chapter]
 
 [RM-014-002]At the moment this phenomenon took place the projectile was grazing the moon's North Pole, at less that twenty-five miles' distance. A few seconds had, therefore, sufficed to plunge it into the absolute darkness of space. The transition had taken place so rapidly, without gradations of light or attenuation of the luminous undulations, that the orb seemed to have been blown out by a powerful gust.
 
-[RM-014-003]"The moon has melted, disappeared!" cried Michel Ardan, wonder-stricken.
+[RM-014-003]"The moon has melted, disappeared!" cried [[michel-ardan|Michel Ardan]], wonder-stricken.
 
 [RM-014-004]In fact, no ray of light or shade had appeared on the disc, formerly so brilliant. The obscurity was complete, and rendered deeper still by the shining of the stars. It was the darkness of lunar night, which lasts 354 hours and a half on each point of the disc--a long night, the result of the equality of the movements of translation and rotation of the moon, the one upon herself, the other round the earth. The projectile in the satellite's cone of shadow was no longer under the action of the solar rays.
 
-[RM-014-005]In the interior darkness was, therefore, complete. The travellers could no longer see one another. Hence came the necessity to lighten this darkness. However desirous Barbicane might be to economise the gas, of which he had so small a reserve, he was obliged to have recourse to it for artificial light--an expensive brilliancy which the sun then refused.
+[RM-014-005]In the interior darkness was, therefore, complete. The travellers could no longer see one another. Hence came the necessity to lighten this darkness. However desirous [[barbicane|Barbicane]] might be to economise the gas, of which he had so small a reserve, he was obliged to have recourse to it for artificial light--an expensive brilliancy which the sun then refused.
 
 [RM-014-006]"The devil take the radiant orb!" cried Michel Ardan; "he is going to force us to spend our gas instead of giving us his rays for nothing."
 

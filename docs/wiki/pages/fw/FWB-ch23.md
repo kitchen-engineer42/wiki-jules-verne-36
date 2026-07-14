@@ -49,7 +49,7 @@ tags: [chapter]
 
 [FWB-023-019]Toward noon, the doctor, for the purpose of burying the body, decided to descend into a ravine, in the midst of some plutonic rocks of primitive formation. The surrounding mountains would shelter him, and enable him to bring his car to the ground, for there was no tree in sight to which he could make it fast.
 
-[FWB-023-020]But, as he had explained to Kennedy, it was now impossible for him to descend, except by releasing a quantity of gas proportionate to his loss of ballast at the time when he had rescued the missionary. He therefore opened the valve of the outside balloon. The hydrogen escaped, and the Victoria quietly descended into the ravine.
+[FWB-023-020]But, as he had explained to Kennedy, it was now impossible for him to descend, except by releasing a quantity of gas proportionate to his loss of ballast at the time when he had rescued the missionary. He therefore opened the valve of the outside balloon. The hydrogen escaped, and [[victoria-balloon|the Victoria]] quietly descended into the ravine.
 
 [FWB-023-021]As soon as the car touched the ground, the doctor shut the valve. Joe leaped out, holding on the while to the rim of the car with one hand, and with the other gathering up a quantity of stones equal to his own weight. He could then use both hands, and had soon heaped into the car more than five hundred pounds of stones, which enabled both the doctor and Kennedy, in their turn, to get out. Thus the Victoria found herself balanced, and her ascensional force insufficient to raise her.
 

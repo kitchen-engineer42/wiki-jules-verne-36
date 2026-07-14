@@ -32,15 +32,15 @@ tags: [chapter]
 
 [TTLU-033-010]"Anyhow," he said, "it's not over yet! My first harpoon missed, that's all! We'll succeed the next time, and as soon as this evening, if need be . . ."
 
-[TTLU-033-011]"What's the Nautilus's heading?" I asked.
+[TTLU-033-011]"What's the [[nautilus|Nautilus]]'s heading?" I asked.
 
 [TTLU-033-012]"I've no idea," Ned replied.
 
 [TTLU-033-013]"All right, at noon we'll find out what our position is!"
 
-[TTLU-033-014]The Canadian returned to Conseil's side. As soon as I was dressed, I went into the lounge. The compass wasn't encouraging. The Nautilus's course was south-southwest. We were turning our backs on Europe.
+[TTLU-033-014]The Canadian returned to [[conseil|Conseil]]'s side. As soon as I was dressed, I went into the lounge. The compass wasn't encouraging. The Nautilus's course was south-southwest. We were turning our backs on Europe.
 
-[TTLU-033-015]I could hardly wait until our position was reported on the chart. Near 11:30 the ballast tanks emptied, and the submersible rose to the surface of the ocean. I leaped onto the platform. Ned Land was already there.
+[TTLU-033-015]I could hardly wait until our position was reported on the chart. Near 11:30 the ballast tanks emptied, and the submersible rose to the surface of the ocean. I leaped onto the platform. [[ned-land|Ned Land]] was already there.
 
 [TTLU-033-016]No more shore in sight. Nothing but the immenseness of the sea. A few sails were on the horizon, no doubt ships going as far as Cape São Roque to find favorable winds for doubling the Cape of Good Hope. The sky was overcast. A squall was on the way.
 
@@ -52,7 +52,7 @@ tags: [chapter]
 
 [TTLU-033-020]As for me, I wasn't exactly grief-stricken. I felt as if a heavy weight had been lifted from me, and I was able to resume my regular tasks in a state of comparative calm.
 
-[TTLU-033-021]Near eleven o'clock in the evening, I received a most unexpected visit from Captain Nemo. He asked me very graciously if I felt exhausted from our vigil the night before. I said no.
+[TTLU-033-021]Near eleven o'clock in the evening, I received a most unexpected visit from [[captain-nemo|Captain Nemo]]. He asked me very graciously if I felt exhausted from our vigil the night before. I said no.
 
 [TTLU-033-022]"Then, Professor Aronnax, I propose an unusual excursion."
 

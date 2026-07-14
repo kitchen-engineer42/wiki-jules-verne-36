@@ -94,6 +94,6 @@ tags: [chapter]
 
 [EHLA-014-041]A peculiar phenomenon, for the river displaces itself to feed its own tributaries!
 
-[EHLA-014-042]Toward three o'clock in the afternoon the giant raft passed the mouth of the Jandiatuba, which brings its magnificent black waters from the southwest, and discharges them into the main artery by a mouth of four hundred meters in extent, after having watered the territories of the Culino Indians.
+[EHLA-014-042]Toward three o'clock in the afternoon [[jangada|the giant raft]] passed the mouth of the Jandiatuba, which brings its magnificent black waters from the southwest, and discharges them into the main artery by a mouth of four hundred meters in extent, after having watered the territories of the Culino Indians.
 
 [EHLA-014-043]A number of islands were breasted--Pimaicaira, Caturia, Chico, Motachina; some inhabited, others deserted, but all covered with superb vegetation, which forms an unbroken garland of green from one end of the Amazon to the other.

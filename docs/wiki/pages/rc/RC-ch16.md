@@ -13,9 +13,9 @@ tags: [chapter]
 
 [RC-016-001]OVER THE ATLANTIC
 
-[RC-016-002]Yes, the Atlantic! The fears of the two colleagues were realized; but it did not seem as though Robur had the least anxiety about venturing over this vast ocean. Both he and his men seemed quite unconcerned about it and had gone back to their stations.
+[RC-016-002]Yes, the Atlantic! The fears of the two colleagues were realized; but it did not seem as though [[robur|Robur]] had the least anxiety about venturing over this vast ocean. Both he and his men seemed quite unconcerned about it and had gone back to their stations.
 
-[RC-016-003]Whither was the "Albatross" bound? Was she going more than round the world as Robur had said? Even if she were, the voyage must end somewhere. That Robur spent his life in the air on board the aeronef and never came to the ground was impossible. How could he make up his stock of provisions and the materials required for working his machines? He must have some retreat, some harbor of refuge--in some unknown and inaccessible spot where the "Albatross" could revictual. That he had broken off all connections with the inhabitants of the land might be true, but with every point on the surface of the earth, certainly not.
+[RC-016-003]Whither was the "[[albatross|Albatross]]" bound? Was she going more than round the world as Robur had said? Even if she were, the voyage must end somewhere. That Robur spent his life in the air on board the aeronef and never came to the ground was impossible. How could he make up his stock of provisions and the materials required for working his machines? He must have some retreat, some harbor of refuge--in some unknown and inaccessible spot where the "Albatross" could revictual. That he had broken off all connections with the inhabitants of the land might be true, but with every point on the surface of the earth, certainly not.
 
 [RC-016-004]That being the case, where was this point? How had the engineer come to choose it? Was he expected by a little colony of which he was the chief? Could he there find a new crew?
 

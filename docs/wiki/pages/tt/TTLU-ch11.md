@@ -12,13 +12,13 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 11
 
-[TTLU-011-001]The Nautilus
+[TTLU-011-001]The [[nautilus|Nautilus]]
 
 [TTLU-011-002]CAPTAIN NEMO stood up. I followed him. Contrived at the rear of the dining room, a double door opened, and I entered a room whose dimensions equaled the one I had just left.
 
 [TTLU-011-003]It was a library. Tall, black-rosewood bookcases, inlaid with copperwork, held on their wide shelves a large number of uniformly bound books. These furnishings followed the contours of the room, their lower parts leading to huge couches upholstered in maroon leather and curved for maximum comfort. Light, movable reading stands, which could be pushed away or pulled near as desired, allowed books to be positioned on them for easy study. In the center stood a huge table covered with pamphlets, among which some newspapers, long out of date, were visible. Electric light flooded this whole harmonious totality, falling from four frosted half globes set in the scrollwork of the ceiling. I stared in genuine wonderment at this room so ingeniously laid out, and I couldn't believe my eyes.
 
-[TTLU-011-004]"Captain Nemo," I told my host, who had just stretched out on a couch, "this is a library that would do credit to more than one continental palace, and I truly marvel to think it can go with you into the deepest seas."
+[TTLU-011-004]"[[captain-nemo|Captain Nemo]]," I told my host, who had just stretched out on a couch, "this is a library that would do credit to more than one continental palace, and I truly marvel to think it can go with you into the deepest seas."
 
 [TTLU-011-005]"Where could one find greater silence or solitude, professor?" Captain Nemo replied. "Did your study at the museum afford you such a perfect retreat?"
 

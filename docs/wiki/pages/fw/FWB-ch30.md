@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FWB-030-001]Mosfeia.--The Sheik.--Denham, Clapperton, and Oudney.--Vogel.--The Capital of Loggoum.--Toole.--Becalmed above Kernak.--The Governor and his Court. --The Attack.--The Incendiary Pigeons.
 
-[FWB-030-002]On the next day, May 11th, the Victoria resumed her adventurous journey. Her passengers had the same confidence in her that a good seaman has in his ship.
+[FWB-030-002]On the next day, May 11th, [[victoria-balloon|the Victoria]] resumed her adventurous journey. Her passengers had the same confidence in her that a good seaman has in his ship.
 
 [FWB-030-003]In terrific hurricanes, in tropical heats, when making dangerous departures, and descents still more dangerous, it had, at all times and in all places, come out safely. It might almost have been said that Ferguson managed it with a wave of the hand; and hence, without knowing in advance, where the point of arrival would be, the doctor had no fears concerning the successful issue of his journey. However, in this country of barbarians and fanatics, prudence obliged him to take the strictest precautions. He therefore counselled his companions to have their eyes wide open for every thing and at all hours.
 

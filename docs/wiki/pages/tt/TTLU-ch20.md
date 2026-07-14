@@ -14,9 +14,9 @@ tags: [chapter]
 
 [TTLU-020-001]The Torres Strait
 
-[TTLU-020-002]DURING THE NIGHT of December 27-28, the Nautilus left the waterways of Vanikoro behind with extraordinary speed. Its heading was southwesterly, and in three days it had cleared the 750 leagues that separated La Pérouse's islands from the southeastern tip of Papua.
+[TTLU-020-002]DURING THE NIGHT of December 27-28, the [[nautilus|Nautilus]] left the waterways of Vanikoro behind with extraordinary speed. Its heading was southwesterly, and in three days it had cleared the 750 leagues that separated La Pérouse's islands from the southeastern tip of Papua.
 
-[TTLU-020-003]On January 1, 1868, bright and early, Conseil joined me on the platform.
+[TTLU-020-003]On January 1, 1868, bright and early, [[conseil|Conseil]] joined me on the platform.
 
 [TTLU-020-004]"Will master," the gallant lad said to me, "allow me to wish him a happy new year?"
 
@@ -26,13 +26,13 @@ tags: [chapter]
 
 [TTLU-020-007]"Never, Conseil."
 
-[TTLU-020-008]"Besides, Mr. Nemo really lives up to his Latin name, since he couldn't be less in the way if he didn't exist."
+[TTLU-020-008]"Besides, Mr. [[captain-nemo|Nemo]] really lives up to his Latin name, since he couldn't be less in the way if he didn't exist."
 
 [TTLU-020-009]"True enough, Conseil."
 
 [TTLU-020-010]"Therefore, with all due respect to master, I think a 'happy year' would be a year that lets us see everything--"
 
-[TTLU-020-011]"Everything, Conseil? No year could be that long. But what does Ned Land think about all this?"
+[TTLU-020-011]"Everything, Conseil? No year could be that long. But what does [[ned-land|Ned Land]] think about all this?"
 
 [TTLU-020-012]"Ned Land's thoughts are exactly the opposite of mine," Conseil replied. "He has a practical mind and a demanding stomach. He's tired of staring at fish and eating them day in and day out. This shortage of wine, bread, and meat isn't suitable for an upstanding Anglo-Saxon, a man accustomed to beefsteak and unfazed by regular doses of brandy or gin!"
 

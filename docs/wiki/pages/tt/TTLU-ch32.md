@@ -16,11 +16,11 @@ tags: [chapter]
 
 [TTLU-032-002]THE ATLANTIC! A vast expanse of water whose surface area is 25,000,000 square miles, with a length of 9,000 miles and an average width of 2,700. A major sea nearly unknown to the ancients, except perhaps the Carthaginians, those Dutchmen of antiquity who went along the west coasts of Europe and Africa on their commercial junkets! An ocean whose parallel winding shores form an immense perimeter fed by the world's greatest rivers: the St. Lawrence, Mississippi, Amazon, Plata, Orinoco, Niger, Senegal, Elbe, Loire, and Rhine, which bring it waters from the most civilized countries as well as the most undeveloped areas! A magnificent plain of waves plowed continuously by ships of every nation, shaded by every flag in the world, and ending in those two dreadful headlands so feared by navigators, Cape Horn and the Cape of Tempests!
 
-[TTLU-032-003]The Nautilus broke these waters with the edge of its spur after doing nearly 10,000 leagues in three and a half months, a track longer than a great circle of the earth. Where were we heading now, and what did the future have in store for us?
+[TTLU-032-003]The [[nautilus|Nautilus]] broke these waters with the edge of its spur after doing nearly 10,000 leagues in three and a half months, a track longer than a great circle of the earth. Where were we heading now, and what did the future have in store for us?
 
 [TTLU-032-004]Emerging from the Strait of Gibraltar, the Nautilus took to the high seas. It returned to the surface of the waves, so our daily strolls on the platform were restored to us.
 
-[TTLU-032-005]I climbed onto it instantly, Ned Land and Conseil along with me. Twelve miles away, Cape St. Vincent was hazily visible, the southwestern tip of the Hispanic peninsula. The wind was blowing a pretty strong gust from the south. The sea was swelling and surging. Its waves made the Nautilus roll and jerk violently. It was nearly impossible to stand up on the platform, which was continuously buffeted by this enormously heavy sea. After inhaling a few breaths of air, we went below once more.
+[TTLU-032-005]I climbed onto it instantly, [[ned-land|Ned Land]] and [[conseil|Conseil]] along with me. Twelve miles away, Cape St. Vincent was hazily visible, the southwestern tip of the Hispanic peninsula. The wind was blowing a pretty strong gust from the south. The sea was swelling and surging. Its waves made the Nautilus roll and jerk violently. It was nearly impossible to stand up on the platform, which was continuously buffeted by this enormously heavy sea. After inhaling a few breaths of air, we went below once more.
 
 [TTLU-032-006]I repaired to my stateroom. Conseil returned to his cabin; but the Canadian, looking rather worried, followed me. Our quick trip through the Mediterranean hadn't allowed him to put his plans into execution, and he could barely conceal his disappointment.
 
@@ -30,7 +30,7 @@ tags: [chapter]
 
 [TTLU-032-009]Ned Land didn't reply. His pursed lips and frowning brow indicated that he was in the grip of his monomania.
 
-[TTLU-032-010]"Look here," I went on, "as yet there's no cause for despair. We're going up the coast of Portugal. France and England aren't far off, and there we'll easily find refuge. Oh, I grant you, if the Nautilus had emerged from the Strait of Gibraltar and made for that cape in the south, if it were taking us toward those regions that have no continents, then I'd share your alarm. But we now know that Captain Nemo doesn't avoid the seas of civilization, and in a few days I think we can safely take action."
+[TTLU-032-010]"Look here," I went on, "as yet there's no cause for despair. We're going up the coast of Portugal. France and England aren't far off, and there we'll easily find refuge. Oh, I grant you, if the Nautilus had emerged from the Strait of Gibraltar and made for that cape in the south, if it were taking us toward those regions that have no continents, then I'd share your alarm. But we now know that [[captain-nemo|Captain Nemo]] doesn't avoid the seas of civilization, and in a few days I think we can safely take action."
 
 [TTLU-032-011]Ned Land stared at me still more intently and finally unpursed his lips:
 

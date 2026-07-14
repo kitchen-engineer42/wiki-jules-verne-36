@@ -16,9 +16,9 @@ tags: [chapter]
 
 [MI-041-002]What was now happening in their country? The picture of their native land was always before their eyes, the land torn by civil war at the time they left it, and which the Southern rebellion was perhaps still staining with blood! It was a great sorrow to them, and they often talked together of these things, without ever doubting however that the cause of the North must triumph, for the honor of the American Confederation.
 
-[MI-041-003]During these two years not a vessel had passed in sight of the island; or, at least, not a sail had been seen. It was evident that Lincoln Island was out of the usual track, and also that it was unknown,--as was besides proved by the maps,--for though there was no port, vessels might have visited it for the purpose of renewing their store of water. But the surrounding ocean was deserted as far as the eye could reach, and the colonists must rely on themselves for regaining their native land.
+[MI-041-003]During these two years not a vessel had passed in sight of the island; or, at least, not a sail had been seen. It was evident that [[lincoln-island|Lincoln Island]] was out of the usual track, and also that it was unknown,--as was besides proved by the maps,--for though there was no port, vessels might have visited it for the purpose of renewing their store of water. But the surrounding ocean was deserted as far as the eye could reach, and the colonists must rely on themselves for regaining their native land.
 
-[MI-041-004]However, one chance of rescue existed, and this chance was discussed one day on the first week of April, when the colonists were gathered together in the dining-room of Granite House.
+[MI-041-004]However, one chance of rescue existed, and this chance was discussed one day on the first week of April, when the colonists were gathered together in the dining-room of [[granite-house|Granite House]].
 
 [MI-041-005]They had been talking of America, of their native country, which they had so little hope of ever seeing again.
 
@@ -42,7 +42,7 @@ tags: [chapter]
 
 [MI-041-015]"Nonsense!" returned the reporter; "do you think that if Lord Glenarvan's yacht had appeared at Tabor Island, while he was still living there, Ayrton would have refused to depart?"
 
-[MI-041-016]"You forget, my friends," then said Cyrus Harding, "that Ayrton was not in possession of his reason during the last years of his stay there. But that is not the question. The point is to know if we may count among our chances of being rescued, the return of the Scotch vessel. Now, Lord Glenarvan promised Ayrton that he would return to take him off from Tabor Island when he considered that his crimes were expiated, and I believe that he will return."
+[MI-041-016]"You forget, my friends," then said [[cyrus-harding|Cyrus Harding]], "that Ayrton was not in possession of his reason during the last years of his stay there. But that is not the question. The point is to know if we may count among our chances of being rescued, the return of the Scotch vessel. Now, Lord Glenarvan promised Ayrton that he would return to take him off from Tabor Island when he considered that his crimes were expiated, and I believe that he will return."
 
 [MI-041-017]"Yes," said the reporter, "and I will add that he will return soon, for it is twelve years since Ayrton was abandoned."
 
@@ -88,7 +88,7 @@ tags: [chapter]
 
 [MI-041-038]Cyrus Harding informed Ayrton of the projected expedition, and proposed that he should take part in it, but Ayrton preferring to remain on shore, it was decided that he should come to Granite House during the absence of his companions. Master Jup was ordered to keep him company, and made no remonstrance.
 
-[MI-041-039]On the morning of the 16th of April all the colonists, including Top, embarked. A fine breeze blew from the south-west, and the "Bonadventure" tacked on leaving Port Balloon so as to reach Reptile End. Of the ninety miles which the perimeter of the island measured, twenty included the south coast between the port and the promontory. The wind being right ahead it was necessary to hug the shore.
+[MI-041-039]On the morning of the 16th of April all the colonists, including [[top|Top]], embarked. A fine breeze blew from the south-west, and the "Bonadventure" tacked on leaving Port Balloon so as to reach Reptile End. Of the ninety miles which the perimeter of the island measured, twenty included the south coast between the port and the promontory. The wind being right ahead it was necessary to hug the shore.
 
 [MI-041-040]It took the whole day to reach the promontory, for the vessel on leaving port had only two hours of ebb tide and had therefore to make way for six hours against the flood. It was nightfall before the promontory was doubled.
 
@@ -100,7 +100,7 @@ tags: [chapter]
 
 [MI-041-044]About noon the "Bonadventure" arrived at the mouth of Falls River. Beyond, on the left bank, a few scattered trees appeared, and three miles further even these dwindled into solitary groups among the western spurs of the mountain, whose arid ridge sloped down to the shore.
 
-[MI-041-045]What a contrast between the northern and southern part of the coast! In proportion as one was woody and fertile so was the other rugged and barren! It might have been designated as one of those iron coasts, as they are called in some countries, and its wild confusion appeared to indicate that a sudden crystallization had been produced in the yet liquid basalt of some distant geological sea. These stupendous masses would have terrified the settlers if they had been cast at first on this part of the island! They had not been able to perceive the sinister aspect of this shore from the summit of Mount Franklin, for they overlooked it from too great a height, but viewed from the sea it presented a wild appearance which could not perhaps be equaled in any corner of the globe.
+[MI-041-045]What a contrast between the northern and southern part of the coast! In proportion as one was woody and fertile so was the other rugged and barren! It might have been designated as one of those iron coasts, as they are called in some countries, and its wild confusion appeared to indicate that a sudden crystallization had been produced in the yet liquid basalt of some distant geological sea. These stupendous masses would have terrified the settlers if they had been cast at first on this part of the island! They had not been able to perceive the sinister aspect of this shore from the summit of [[mount-franklin|Mount Franklin]], for they overlooked it from too great a height, but viewed from the sea it presented a wild appearance which could not perhaps be equaled in any corner of the globe.
 
 [MI-041-046]The "Bonadventure" sailed along this coast for the distance of half a mile. It was easy to see that it was composed of blocks of all sizes, from twenty to three hundred feet in height, and of all shapes, round like towers, prismatic like steeples, pyramidal like obelisks, conical like factory chimneys. An iceberg of the Polar seas could not have been more capricious in its terrible sublimity! Here, bridges were thrown from one rock to another; there, arches like those of a wave, into the depths of which the eye could not penetrate; in one place, large vaulted excavations presented a monumental aspect; in another, a crowd of columns, spires, and arches, such as no Gothic cathedral ever possessed. Every caprice of nature, still more varied than those of the imagination, appeared on this grand coast, which extended over a length of eight or nine miles.
 

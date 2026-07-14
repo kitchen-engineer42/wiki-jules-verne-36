@@ -29,7 +29,7 @@ tags: [chapter]
 
 [TN-020-009]The fact that the "Telegraph" had found no traces nor survivors of the "Viking" can also be easily explained.
 
-[TN-020-010]During a violent tempest the vessel--which had become partially disabled--being obliged to scud along before the wind in a north-westerly direction, finally found herself about two hundred miles from the southern coast of Iceland. During the nights of the third and fourth of May the worst nights of the gale--it collided with one of those enormous icebergs that drift down from the shores of Greenland. The shock was terrible, so terrible, indeed, that the "Viking" went to pieces five minutes afterward.
+[TN-020-010]During a violent tempest the vessel--which had become partially disabled--being obliged to scud along before the wind in a north-westerly direction, finally found herself about two hundred miles from the southern coast of [[iceland|Iceland]]. During the nights of the third and fourth of May the worst nights of the gale--it collided with one of those enormous icebergs that drift down from the shores of Greenland. The shock was terrible, so terrible, indeed, that the "Viking" went to pieces five minutes afterward.
 
 [TN-020-011]It was then that Ole hastily penned his farewell message to his betrothed, and after inclosing it in a bottle, cast it into the sea.
 

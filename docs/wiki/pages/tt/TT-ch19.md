@@ -35,7 +35,7 @@ tags: [chapter]
 
 [TT-019-012]At Nanking, 5:05 A.M.
 
-[TT-019-013]At Baltimore, it was said, twelve hours after the passage of the sun of the meridian of Kilimanjaro, it was 5:24 P.M. It is impossible to describe the pangs which were produced at this moment. The most powerful of modern pens would be helpless at the task. The people of Baltimore stood fearing that they would be swept off the surface of the earth by the terrible mass of water which would fall on their city. They expected to see the Bay of Chesapeake empty itself upon them. Then, besides, the city, even should the waters not come upon it, would be terribly shaken up by the shock which would be produced. The monuments would be destroyed; its best quarters swallowed up at the bottom of the abysses which would open through the surface of the ground. These fears ran through the different parts of the globe which were not scheduled for submersion by the upheaval of the oceans.
+[TT-019-013]At [[baltimore|Baltimore]], it was said, twelve hours after the passage of the sun of the meridian of Kilimanjaro, it was 5:24 P.M. It is impossible to describe the pangs which were produced at this moment. The most powerful of modern pens would be helpless at the task. The people of Baltimore stood fearing that they would be swept off the surface of the earth by the terrible mass of water which would fall on their city. They expected to see the Bay of Chesapeake empty itself upon them. Then, besides, the city, even should the waters not come upon it, would be terribly shaken up by the shock which would be produced. The monuments would be destroyed; its best quarters swallowed up at the bottom of the abysses which would open through the surface of the ground. These fears ran through the different parts of the globe which were not scheduled for submersion by the upheaval of the oceans.
 
 [TT-019-014]Every human being felt the marrow in his bones creep and shake at this fearful moment.
 
@@ -81,7 +81,7 @@ tags: [chapter]
 
 [TT-019-035]"The cannon was fired off yesterday evening at midnight exactly by the device bored in the southern part of Kilimanjaro. Passage of the projectile was accompanied with a powerful whirr and terrible detonation. Whole provinces destroyed by the concussion of the air. Ocean agitated as far as the Mozambique channel. A large number of vessels disabled and thrown on the coast. Towns and villages destroyed. Everything else is well. RICHARD W. TRUST."
 
-[TT-019-036]Yes, everything else went on well. Nothing had been changed in the state of worldly affairs save the terrible disasters produced in Wamasai, which was partly deluged by the artificial waterspout, and the shipwrecks which were produced by the current of air. The same thing precisely happened when the Columbiad threw its projectile to the moon. The shock to the ground of Florida, was it not felt through a radius of 100 miles? Yes, certainly, but this time the effect should have been a hundred times stronger.
+[TT-019-036]Yes, everything else went on well. Nothing had been changed in the state of worldly affairs save the terrible disasters produced in Wamasai, which was partly deluged by the artificial waterspout, and the shipwrecks which were produced by the current of air. The same thing precisely happened when the [[columbiad|Columbiad]] threw its projectile to the moon. The shock to the ground of Florida, was it not felt through a radius of 100 miles? Yes, certainly, but this time the effect should have been a hundred times stronger.
 
 [TT-019-037]Whatever had happened the dispatch gave two pieces of information to the interested people of the old and new worlds.
 
@@ -89,7 +89,7 @@ tags: [chapter]
 
 [TT-019-039]Second---That the gun had been fired at the fixed hour. And now, the whole world uttered an exclamation of intense satisfaction, followed by a great burst of laughter.
 
-[TT-019-040]The trial which Barbicane & Co. had made had entirely failed. The calculations of J.T. Maston were good only for the waste basket. The N.P.P.A. could only announce its failure. But, perhaps, it might be that the secretary of the Gun Club had made a mistake in his calculations.
+[TT-019-040]The trial which [[barbicane|Barbicane]] & Co. had made had entirely failed. The calculations of J.T. Maston were good only for the waste basket. The N.P.P.A. could only announce its failure. But, perhaps, it might be that the secretary of the Gun Club had made a mistake in his calculations.
 
 [TT-019-041]"Rather would I believe that I have been mistaken in the affection which I feel for him," said Mrs. Evangelina Scorbitt.
 

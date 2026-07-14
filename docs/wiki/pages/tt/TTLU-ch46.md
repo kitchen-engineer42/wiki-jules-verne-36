@@ -12,11 +12,11 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 22
 
-[TTLU-046-001]The Last Words of Captain Nemo
+[TTLU-046-001]The Last Words of [[captain-nemo|Captain Nemo]]
 
-[TTLU-046-002]THE PANELS CLOSED over this frightful view, but the lights didn't go on in the lounge. Inside the Nautilus all was gloom and silence. It left this place of devastation with prodigious speed, 100 feet beneath the waters. Where was it going? North or south? Where would the man flee after this horrible act of revenge?
+[TTLU-046-002]THE PANELS CLOSED over this frightful view, but the lights didn't go on in the lounge. Inside the [[nautilus|Nautilus]] all was gloom and silence. It left this place of devastation with prodigious speed, 100 feet beneath the waters. Where was it going? North or south? Where would the man flee after this horrible act of revenge?
 
-[TTLU-046-003]I reentered my stateroom, where Ned and Conseil were waiting silently. Captain Nemo filled me with insurmountable horror. Whatever he had once suffered at the hands of humanity, he had no right to mete out such punishment. He had made me, if not an accomplice, at least an eyewitness to his vengeance! Even this was intolerable.
+[TTLU-046-003]I reentered my stateroom, where Ned and [[conseil|Conseil]] were waiting silently. Captain Nemo filled me with insurmountable horror. Whatever he had once suffered at the hands of humanity, he had no right to mete out such punishment. He had made me, if not an accomplice, at least an eyewitness to his vengeance! Even this was intolerable.
 
 [TTLU-046-004]At eleven o'clock the electric lights came back on. I went into the lounge. It was deserted. I consulted the various instruments. The Nautilus was fleeing northward at a speed of twenty-five miles per hour, sometimes on the surface of the sea, sometimes thirty feet beneath it.
 
@@ -36,7 +36,7 @@ tags: [chapter]
 
 [TTLU-046-012]You can appreciate that under these conditions, our situation had become untenable.
 
-[TTLU-046-013]One morning--whose date I'm unable to specify--I was slumbering near the first hours of daylight, a painful, sickly slumber. Waking up, I saw Ned Land leaning over me, and I heard him tell me in a low voice:
+[TTLU-046-013]One morning--whose date I'm unable to specify--I was slumbering near the first hours of daylight, a painful, sickly slumber. Waking up, I saw [[ned-land|Ned Land]] leaning over me, and I heard him tell me in a low voice:
 
 [TTLU-046-014]"We're going to escape!"
 

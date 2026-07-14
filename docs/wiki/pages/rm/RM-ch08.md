@@ -35,7 +35,7 @@ tags: [chapter]
 
 [RM-008-012]"Then," added the merry Frenchman, "I am not sorry for having experienced the effect of this captious gas. Do you know, my friends, that there might be a curious establishment set up with oxygen-rooms, where people whose constitutions are weak might live a more active life during a few hours at least? Suppose we had meetings where the air could be saturated with this heroic fluid, theatres where the managers would send it out in strong doses, what passion there would be in the souls of actors and spectators, what fire and what enthusiasm! And if, instead of a simple assembly, a whole nation could be saturated with it, what activity, what a supplement of life it would receive! Of an exhausted nation it perhaps would make a great and strong nation, and I know more than one state in old Europe that ought to put itself under the oxygen _régime_ in the interest of its health."
 
-[RM-008-013]Michel spoke with as much animation as if the tap were still full on. But with one sentence Barbicane damped his enthusiasm.
+[RM-008-013]Michel spoke with as much animation as if the tap were still full on. But with one sentence [[barbicane|Barbicane]] damped his enthusiasm.
 
 [RM-008-014]"All that is very well, friend Michel," he said, "but now perhaps you will tell us where those fowls that joined in our concert came from."
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [RM-008-021]"Ah, _gamin_, you eternal boy!" answered Barbicane, "you don't want oxygen to make you out of your senses! You are always what we were under the influence of this gas! You are always insane!"
 
-[RM-008-022]"Ah! how do we know we were not wiser then?" replied Michel Ardan.
+[RM-008-022]"Ah! how do we know we were not wiser then?" replied [[michel-ardan|Michel Ardan]].
 
 [RM-008-023]After this philosophical reflection the three friends repaired the disorder in the projectile. Cock and hens were put back in their cage. But as they were doing this Barbicane and his two companions distinctly perceived a fresh phenomenon.
 

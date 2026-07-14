@@ -14,7 +14,7 @@ tags: [chapter]
 
 [TTLU-040-001]Shortage of Air
 
-[TTLU-040-002]CONSEQUENTLY, above, below, and around the Nautilus, there were impenetrable frozen walls. We were the Ice Bank's prisoners! The Canadian banged a table with his fearsome fist. Conseil kept still. I stared at the captain. His face had resumed its usual emotionlessness. He crossed his arms. He pondered. The Nautilus did not stir.
+[TTLU-040-002]CONSEQUENTLY, above, below, and around the [[nautilus|Nautilus]], there were impenetrable frozen walls. We were the Ice Bank's prisoners! The Canadian banged a table with his fearsome fist. [[conseil|Conseil]] kept still. I stared at the captain. His face had resumed its usual emotionlessness. He crossed his arms. He pondered. The Nautilus did not stir.
 
 [TTLU-040-003]The captain then broke into speech:
 
@@ -26,7 +26,7 @@ tags: [chapter]
 
 [TTLU-040-007]"As for asphyxiation, captain," I replied, "that isn't a cause for alarm, because the air tanks are full."
 
-[TTLU-040-008]"True," Captain Nemo went on, "but they'll supply air for only two days. Now then, we've been buried beneath the waters for thirty-six hours, and the Nautilus's heavy atmosphere already needs renewing. In another forty-eight hours, our reserve air will be used up."
+[TTLU-040-008]"True," [[captain-nemo|Captain Nemo]] went on, "but they'll supply air for only two days. Now then, we've been buried beneath the waters for thirty-six hours, and the Nautilus's heavy atmosphere already needs renewing. In another forty-eight hours, our reserve air will be used up."
 
 [TTLU-040-009]"Well then, captain, let's free ourselves within forty-eight hours!"
 
@@ -56,7 +56,7 @@ tags: [chapter]
 
 [TTLU-040-022]After Ned was dressed, I reentered the lounge, whose windows had been uncovered; stationed next to Conseil, I examined the strata surrounding and supporting the Nautilus.
 
-[TTLU-040-023]Some moments later, we saw a dozen crewmen set foot on the shelf of ice, among them Ned Land, easily recognized by his tall figure. Captain Nemo was with them.
+[TTLU-040-023]Some moments later, we saw a dozen crewmen set foot on the shelf of ice, among them [[ned-land|Ned Land]], easily recognized by his tall figure. Captain Nemo was with them.
 
 [TTLU-040-024]Before digging into the ice, the captain had to obtain borings, to insure working in the best direction. Long bores were driven into the side walls; but after fifteen meters, the instruments were still impeded by the thickness of those walls. It was futile to attack the ceiling since that surface was the Ice Bank itself, more than 400 meters high. Captain Nemo then bored into the lower surface. There we were separated from the sea by a ten-meter barrier. That's how thick the iceberg was. From this point on, it was an issue of cutting out a piece equal in surface area to the Nautilus's waterline. This meant detaching about 6,500 cubic meters, to dig a hole through which the ship could descend below this tract of ice.
 

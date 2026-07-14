@@ -17,7 +17,7 @@ tags: [chapter]
 
 [JCE-016-003]Next morning we awoke half frozen by the sharp keen air, but with the light of a splendid sun. I rose from my granite bed and went out to enjoy the magnificent spectacle that lay unrolled before me.
 
-[JCE-016-004]I stood on the very summit of the southernmost of Snæfell's peaks. The range of the eye extended over the whole island. By an optical law which obtains at all great heights, the shores seemed raised and the centre depressed. It seemed as if one of Helbesmer's raised maps lay at my feet. I could see deep valleys intersecting each other in every direction, precipices like low walls, lakes reduced to ponds, rivers abbreviated into streams. On my right were numberless glaciers and innumerable peaks, some plumed with feathery clouds of smoke. The undulating surface of these endless mountains, crested with sheets of snow, reminded one of a stormy sea. If I looked westward, there the ocean lay spread out in all its magnificence, like a mere continuation of those flock-like summits. The eye could hardly tell where the snowy ridges ended and the foaming waves began.
+[JCE-016-004]I stood on the very summit of the southernmost of [[snaefellsjokull|Snæfell]]'s peaks. The range of the eye extended over the whole island. By an optical law which obtains at all great heights, the shores seemed raised and the centre depressed. It seemed as if one of Helbesmer's raised maps lay at my feet. I could see deep valleys intersecting each other in every direction, precipices like low walls, lakes reduced to ponds, rivers abbreviated into streams. On my right were numberless glaciers and innumerable peaks, some plumed with feathery clouds of smoke. The undulating surface of these endless mountains, crested with sheets of snow, reminded one of a stormy sea. If I looked westward, there the ocean lay spread out in all its magnificence, like a mere continuation of those flock-like summits. The eye could hardly tell where the snowy ridges ended and the foaming waves began.
 
 [JCE-016-005]I was thus steeped in the marvellous ecstasy which all high summits develop in the mind; and now without giddiness, for I was beginning to be accustomed to these sublime aspects of nature. My dazzled eyes were bathed in the bright flood of the solar rays. I was forgetting where and who I was, to live the life of elves and sylphs, the fanciful creation of Scandinavian superstitions. I felt intoxicated with the sublime pleasure of lofty elevations without thinking of the profound abysses into which I was shortly to be plunged. But I was brought back to the realities of things by the arrival of Hans and the Professor, who joined me on the summit.
 
@@ -27,7 +27,7 @@ tags: [chapter]
 
 [JCE-016-008]"Greenland?" I cried.
 
-[JCE-016-009]"Yes; we are only thirty-five leagues from it; and during thaws the white bears, borne by the ice fields from the north, are carried even into Iceland. But never mind that. Here we are at the top of Snæfell and here are two peaks, one north and one south. Hans will tell us the name of that on which we are now standing."
+[JCE-016-009]"Yes; we are only thirty-five leagues from it; and during thaws the white bears, borne by the ice fields from the north, are carried even into [[iceland|Iceland]]. But never mind that. Here we are at the top of Snæfell and here are two peaks, one north and one south. Hans will tell us the name of that on which we are now standing."
 
 [JCE-016-010]The question being put, Hans replied:
 
@@ -51,11 +51,11 @@ tags: [chapter]
 
 [JCE-016-020]At mid-day we arrived. I raised my head and saw straight above me the upper aperture of the cone, framing a bit of sky of very small circumference, but almost perfectly round. Just upon the edge appeared the snowy peak of Saris, standing out sharp and clear against endless space.
 
-[JCE-016-021]At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfell had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter. They gaped before us right in our path. I had not the courage to look down either of them. But Professor Liedenbrock had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions. Hans and his comrades, seated upon loose lava rocks, looked at him with asmuch wonder as they knew how to express, and perhaps taking him for an escaped lunatic.
+[JCE-016-021]At the bottom of the crater were three chimneys, through which, in its eruptions, Snæfell had driven forth fire and lava from its central furnace. Each of these chimneys was a hundred feet in diameter. They gaped before us right in our path. I had not the courage to look down either of them. But [[professor-lidenbrock|Professor Liedenbrock]] had hastily surveyed all three; he was panting, running from one to the other, gesticulating, and uttering incoherent expressions. Hans and his comrades, seated upon loose lava rocks, looked at him with asmuch wonder as they knew how to express, and perhaps taking him for an escaped lunatic.
 
 [JCE-016-022]Suddenly my uncle uttered a cry. I thought his foot must have slipped and that he had fallen down one of the holes. But, no; I saw him, with arms outstretched and legs straddling wide apart, erect before a granite rock that stood in the centre of the crater, just like a pedestal made ready to receive a statue of Pluto. He stood like a man stupefied, but the stupefaction soon gave way to delirious rapture.
 
-[JCE-016-023]"Axel, Axel," he cried. "Come, come!"
+[JCE-016-023]"[[axel|Axel]], Axel," he cried. "Come, come!"
 
 [JCE-016-024]I ran. Hans and the Icelanders never stirred.
 

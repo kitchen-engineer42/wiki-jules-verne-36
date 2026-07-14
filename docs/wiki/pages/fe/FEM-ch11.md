@@ -13,9 +13,9 @@ tags: [chapter]
 
 [FEM-011-001]FLORIDA AND TEXAS.
 
-[FEM-011-002]There still remained one question to be decided--a place favourable to the experiment had to be chosen. According to the recommendation of the Cambridge Observatory the gun must be aimed perpendicularly to the plane of the horizon--that is to say, towards the zenith. Now the moon only appears in the zenith in the places situated between 0° and 28° of latitude, or, in other terms, when her declination is only 28°. The question was, therefore, to determine the exact point of the globe where the immense Columbiad should be cast.
+[FEM-011-002]There still remained one question to be decided--a place favourable to the experiment had to be chosen. According to the recommendation of the Cambridge Observatory the gun must be aimed perpendicularly to the plane of the horizon--that is to say, towards the zenith. Now the moon only appears in the zenith in the places situated between 0° and 28° of latitude, or, in other terms, when her declination is only 28°. The question was, therefore, to determine the exact point of the globe where the immense [[columbiad|Columbiad]] should be cast.
 
-[FEM-011-003]On the 20th of October the Gun Club held a general meeting. Barbicane brought a magnificent map of the United States by Z. Belltropp. But before he had time to unfold it J.T. Maston rose with his habitual vehemence, and began to speak as follows:--
+[FEM-011-003]On the 20th of October the Gun Club held a general meeting. [[barbicane|Barbicane]] brought a magnificent map of the United States by Z. Belltropp. But before he had time to unfold it J.T. Maston rose with his habitual vehemence, and began to speak as follows:--
 
 [FEM-011-004]"Honourable colleagues, the question we are to settle to-day is really of national importance, and will furnish us with an occasion for doing a great act of patriotism."
 
@@ -45,11 +45,11 @@ tags: [chapter]
 
 [FEM-011-017]The 28th parallel, when it touches the American coast, crosses the peninsula of Florida, and divides it into two nearly equal portions. Then, plunging into the Gulf of Mexico, it subtends the arc formed by the coasts of Alabama, Mississippi, and Louisiana; then skirting Texas, off which it cuts an angle, it continues its direction over Mexico, crosses the Sonora and Old California, and loses itself in the Pacific Ocean; therefore only the portions of Texas and Florida situated below this parallel fulfilled the requisite conditions of latitude recommended by the Observatory of Cambridge.
 
-[FEM-011-018]The southern portion of Florida contains no important cities. It only bristles with forts raised against wandering Indians. One town only, Tampa Town, could put in a claim in favour of its position.
+[FEM-011-018]The southern portion of Florida contains no important cities. It only bristles with forts raised against wandering Indians. One town only, [[tampa-town|Tampa Town]], could put in a claim in favour of its position.
 
 [FEM-011-019]In Texas, on the contrary, towns are more numerous and more important. Corpus Christi in the county of Nuaces, and all the cities situated on the Rio Bravo, Laredo, Comalites, San Ignacio in Web, Rio Grande city in Starr, Edinburgh in Hidalgo, Santa-Rita, El Panda, and Brownsville in Cameron, formed a powerful league against the pretensions of Florida.
 
-[FEM-011-020]The decision, therefore, was hardly made public before the Floridan and Texican deputies flocked to Baltimore by the shortest way. From that moment President Barbicane and the influential members of the Gun Club were besieged day and night by formidable claims. If seven towns of Greece contended for the honour of being Homer's birthplace, two entire states threatened to fight over a cannon.
+[FEM-011-020]The decision, therefore, was hardly made public before the Floridan and Texican deputies flocked to [[baltimore|Baltimore]] by the shortest way. From that moment President Barbicane and the influential members of the Gun Club were besieged day and night by formidable claims. If seven towns of Greece contended for the honour of being Homer's birthplace, two entire states threatened to fight over a cannon.
 
 [FEM-011-021]These rival parties were then seen marching with weapons about the streets of the town. Every time they met a fight was imminent, which would have had disastrous consequences. Happily the prudence and skill of President Barbicane warded off this danger. Personal demonstrations found an outlet in the newspapers of the different states. It was thus that the _New York Herald_ and the _Tribune_ supported the claims of Texas, whilst the _Times_ and the _American Review_ took the part of the Floridan deputies. The members of the Gun Club did not know which to listen to.
 

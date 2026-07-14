@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-037-001]THE LIEDENBROCK MUSEUM OF GEOLOGY
 
-[JCE-037-002]How shall I describe the strange series of passions which in succession shook the breast of Professor Liedenbrock? First stupefaction, then incredulity, lastly a downright burst of rage. Never had I seen the man so put out of countenance and so disturbed. The fatigues of our passage across, the dangers met, had all to be begun over again. We had gone backwards instead of forwards!
+[JCE-037-002]How shall I describe the strange series of passions which in succession shook the breast of [[professor-lidenbrock|Professor Liedenbrock]]? First stupefaction, then incredulity, lastly a downright burst of rage. Never had I seen the man so put out of countenance and so disturbed. The fatigues of our passage across, the dangers met, had all to be begun over again. We had gone backwards instead of forwards!
 
 [JCE-037-003]But my uncle rapidly recovered himself.
 
@@ -67,7 +67,7 @@ tags: [chapter]
 
 [JCE-037-028]But more was to come, when, with a rush through clouds of bone dust, he laid his hand upon a bare skull, and cried with a voice trembling with excitement:
 
-[JCE-037-029]"Axel! Axel! a human head!"
+[JCE-037-029]"[[axel|Axel]]! Axel! a human head!"
 
 [JCE-037-030]"A human skull?" I cried, no less astonished.
 

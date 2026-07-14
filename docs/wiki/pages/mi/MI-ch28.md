@@ -12,13 +12,13 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 6
 
-[MI-028-001]Cyrus Harding stood still, without saying a word. His companions searched in the darkness on the wall, in case the wind should have moved the ladder, and on the ground, thinking that it might have fallen down.... But the ladder had quite disappeared. As to ascertaining if a squall had blown it on the landing-place, half way up, that was impossible in the dark.
+[MI-028-001][[cyrus-harding|Cyrus Harding]] stood still, without saying a word. His companions searched in the darkness on the wall, in case the wind should have moved the ladder, and on the ground, thinking that it might have fallen down.... But the ladder had quite disappeared. As to ascertaining if a squall had blown it on the landing-place, half way up, that was impossible in the dark.
 
 [MI-028-002]"If it is a joke," cried Pencroft, "it is a very stupid one! To come home and find no staircase to go up to your room by--that's nothing for weary men to laugh at."
 
 [MI-028-003]Neb could do nothing but cry out "Oh! oh! oh!"
 
-[MI-028-004]"I begin to think that very curious things happen in Lincoln Island!" said Pencroft.
+[MI-028-004]"I begin to think that very curious things happen in [[lincoln-island|Lincoln Island]]!" said Pencroft.
 
 [MI-028-005]"Curious?" replied Gideon Spilett, "not at all, Pencroft, nothing can be more natural. Some one has come during our absence, taken possession of our dwelling and drawn up the ladder."
 
@@ -34,13 +34,13 @@ tags: [chapter]
 
 [MI-028-011]There was something indeed in this to astonish the most apathetic of men, and the settlers were not men of that description. In their situation every incident had its importance, and, certainly, during the seven months which they had spent on the island, they had not before met with anything of so surprising a character.
 
-[MI-028-012]Be that as it may, forgetting their fatigue in the singularity of the event, they remained below Granite House, not knowing what to think, not knowing what to do, questioning each other without any hope of a satisfactory reply, every one starting some supposition each more unlikely than the last. Neb bewailed himself, much disappointed at not being able to get into his kitchen, for the provisions which they had had on their expedition were exhausted, and they had no means of renewing them.
+[MI-028-012]Be that as it may, forgetting their fatigue in the singularity of the event, they remained below [[granite-house|Granite House]], not knowing what to think, not knowing what to do, questioning each other without any hope of a satisfactory reply, every one starting some supposition each more unlikely than the last. Neb bewailed himself, much disappointed at not being able to get into his kitchen, for the provisions which they had had on their expedition were exhausted, and they had no means of renewing them.
 
 [MI-028-013]"My friends," at last said Cyrus Harding, "there is only one thing to be done at present; wait for day, and then act according to circumstances. But let us go to the Chimneys. There we shall be under shelter, and if we cannot eat, we can at least sleep."
 
 [MI-028-014]"But who is it that has played us this cool trick?" again asked Pencroft, unable to make up his mind to retire from the spot.
 
-[MI-028-015]Whoever it was, the only thing practicable was to do as the engineer proposed, to go to the Chimneys and there wait for day. In the meanwhile Top was ordered to mount guard below the windows of Granite House, and when Top received an order he obeyed it without any questioning. The brave dog therefore remained at the foot of the cliff while his master with his companions sought a refuge among the rocks.
+[MI-028-015]Whoever it was, the only thing practicable was to do as the engineer proposed, to go to the Chimneys and there wait for day. In the meanwhile [[top|Top]] was ordered to mount guard below the windows of Granite House, and when Top received an order he obeyed it without any questioning. The brave dog therefore remained at the foot of the cliff while his master with his companions sought a refuge among the rocks.
 
 [MI-028-016]To say that the settlers, notwithstanding their fatigue, slept well on the sandy floor of the Chimneys would not be true. It was not only that they were extremely anxious to find out the cause of what had happened, whether it was the result of an accident which would be discovered at the return of day, or whether on the contrary it was the work of a human being; but they also had very uncomfortable beds. That could not be helped, however, for in some way or other at that moment their dwelling was occupied, and they could not possibly enter it.
 

@@ -40,7 +40,7 @@ tags: [chapter]
 
 [MI-009-014]"With nothing."
 
-[MI-009-015]What had Pencroft to say? He could say nothing, for, in the bottom of his heart he shared the confidence which his companions had in Cyrus Harding. The engineer was to them a microcosm, a compound of every science, a possessor of all human knowledge. It was better to be with Cyrus in a desert island, than without him in the most flourishing town in the United States. With him they could want nothing; with him they would never despair. If these brave men had been told that a volcanic eruption would destroy the land, that this land would be engulfed in the depths of the Pacific, they would have imperturbably replied,--
+[MI-009-015]What had Pencroft to say? He could say nothing, for, in the bottom of his heart he shared the confidence which his companions had in [[cyrus-harding|Cyrus Harding]]. The engineer was to them a microcosm, a compound of every science, a possessor of all human knowledge. It was better to be with Cyrus in a desert island, than without him in the most flourishing town in the United States. With him they could want nothing; with him they would never despair. If these brave men had been told that a volcanic eruption would destroy the land, that this land would be engulfed in the depths of the Pacific, they would have imperturbably replied,--
 
 [MI-009-016]"Cyrus is here!"
 
@@ -68,7 +68,7 @@ tags: [chapter]
 
 [MI-009-028]"I am rubbing," replied Herbert, laughing, "but I don't pretend to do anything else but warm myself instead of shivering, and soon I shall be as hot as you are, my good Pencroft!"
 
-[MI-009-029]This soon happened. However, they were obliged to give up, for this night at least, the attempt to procure fire. Gideon Spilett repeated, for the twentieth time, that Cyrus Harding would not have been troubled for so small a difficulty. And, in the meantime, he stretched himself in one of the passages on his bed of sand. Herbert, Neb, and Pencroft did the same, while Top slept at his master's feet.
+[MI-009-029]This soon happened. However, they were obliged to give up, for this night at least, the attempt to procure fire. Gideon Spilett repeated, for the twentieth time, that Cyrus Harding would not have been troubled for so small a difficulty. And, in the meantime, he stretched himself in one of the passages on his bed of sand. Herbert, Neb, and Pencroft did the same, while [[top|Top]] slept at his master's feet.
 
 [MI-009-030]Next day, the 28th of March, when the engineer awoke, about eight in the morning, he saw his companions around him watching his sleep, and, as on the day before, his first words were:--
 

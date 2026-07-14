@@ -15,11 +15,11 @@ tags: [chapter]
 
 [RC-018-002]The sea was as rough as ever, and the symptoms became alarming. The barometer fell several millimeters. The wind came in violent gusts, and then for a moment or so failed altogether. Under such circumstances a sailing vessel would have had to reef in her topsails and her foresail. Everything showed that the wind was rising in the northwest. The storm-glass became much troubled and its movements were most disquieting.
 
-[RC-018-003]At one o'clock in the morning the wind came on again with extreme violence. Although the aeronef was going right in its teeth she was still making progress at a rate of from twelve to fifteen miles an hour. But that was the utmost she could do.
+[RC-018-003]At one o'clock in the morning the wind came on again with extreme violence. Although the [[albatross|aeronef]] was going right in its teeth she was still making progress at a rate of from twelve to fifteen miles an hour. But that was the utmost she could do.
 
 [RC-018-004]Evidently preparations must be made for a cyclone, a very rare occurrence in these latitudes. Whether it be called a hurricane, as in the Atlantic, a typhoon, as in Chinese waters a simoom, as in the Sahara, or a tornado, as on the western coast, such a storm is always a gyratory one, and most dangerous for any ship caught in the current which increases from the circumference to the center, and has only one spot of calm, the middle of the vortex.
 
-[RC-018-005]Robur knew this. He also knew it was best to escape from the cyclone and get beyond its zone of attraction by ascending to the higher strata. Up to then he had always succeeded in doing this, but now he had not an hour, perhaps not a minute, to lose.
+[RC-018-005][[robur|Robur]] knew this. He also knew it was best to escape from the cyclone and get beyond its zone of attraction by ascending to the higher strata. Up to then he had always succeeded in doing this, but now he had not an hour, perhaps not a minute, to lose.
 
 [RC-018-006]In fact the violence of the wind sensibly increased. The crests of the waves were swept off as they rose and blown into white dust on the surface of the sea. It was manifest that the cyclone was advancing with fearful velocity straight towards the regions of the pole.
 

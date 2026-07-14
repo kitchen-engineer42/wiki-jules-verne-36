@@ -17,13 +17,13 @@ tags: [chapter]
 
 [AWED-028-003]The track up to this time had reached its highest elevation at the Great Salt Lake. From this point it described a long curve, descending towards Bitter Creek Valley, to rise again to the dividing ridge of the waters between the Atlantic and the Pacific. There were many creeks in this mountainous region, and it was necessary to cross Muddy Creek, Green Creek, and others, upon culverts.
 
-[AWED-028-004]Passepartout grew more and more impatient as they went on, while Fix longed to get out of this difficult region, and was more anxious than Phileas Fogg himself to be beyond the danger of delays and accidents, and set foot on English soil.
+[AWED-028-004][[passepartout|Passepartout]] grew more and more impatient as they went on, while [[fix|Fix]] longed to get out of this difficult region, and was more anxious than [[phileas-fogg|Phileas Fogg]] himself to be beyond the danger of delays and accidents, and set foot on English soil.
 
 [AWED-028-005]At ten o'clock at night the train stopped at Fort Bridger station, and twenty minutes later entered Wyoming Territory, following the valley of Bitter Creek throughout. The next day, 7th December, they stopped for a quarter of an hour at Green River station. Snow had fallen abundantly during the night, but, being mixed with rain, it had half melted, and did not interrupt their progress. The bad weather, however, annoyed Passepartout; for the accumulation of snow, by blocking the wheels of the cars, would certainly have been fatal to Mr. Fogg's tour.
 
 [AWED-028-006]"What an idea!" he said to himself. "Why did my master make this journey in winter? Couldn't he have waited for the good season to increase his chances?"
 
-[AWED-028-007]While the worthy Frenchman was absorbed in the state of the sky and the depression of the temperature, Aouda was experiencing fears from a totally different cause.
+[AWED-028-007]While the worthy Frenchman was absorbed in the state of the sky and the depression of the temperature, [[aouda|Aouda]] was experiencing fears from a totally different cause.
 
 [AWED-028-008]Several passengers had got off at Green River, and were walking up and down the platforms; and among these Aouda recognised Colonel Stamp Proctor, the same who had so grossly insulted Phileas Fogg at the San Francisco meeting. Not wishing to be recognised, the young woman drew back from the window, feeling much alarm at her discovery. She was attached to the man who, however coldly, gave her daily evidences of the most absolute devotion. She did not comprehend, perhaps, the depth of the sentiment with which her protector inspired her, which she called gratitude, but which, though she was unconscious of it, was really more than that. Her heart sank within her when she recognised the man whom Mr. Fogg desired, sooner or later, to call to account for his conduct. Chance alone, it was clear, had brought Colonel Proctor on this train; but there he was, and it was necessary, at all hazards, that Phileas Fogg should not perceive his adversary.
 
@@ -37,7 +37,7 @@ tags: [chapter]
 
 [AWED-028-013]"You are right, madam," replied Fix; "a meeting between them might ruin all. Whether he were victorious or beaten, Mr. Fogg would be delayed, and--"
 
-[AWED-028-014]"And," added Passepartout, "that would play the game of the gentlemen of the Reform Club. In four days we shall be in New York. Well, if my master does not leave this car during those four days, we may hope that chance will not bring him face to face with this confounded American. We must, if possible, prevent his stirring out of it."
+[AWED-028-014]"And," added Passepartout, "that would play the game of the gentlemen of the [[reform-club|Reform Club]]. In four days we shall be in New York. Well, if my master does not leave this car during those four days, we may hope that chance will not bring him face to face with this confounded American. We must, if possible, prevent his stirring out of it."
 
 [AWED-028-015]The conversation dropped. Mr. Fogg had just woke up, and was looking out of the window. Soon after Passepartout, without being heard by his master or Aouda, whispered to the detective, "Would you really fight for him?"
 

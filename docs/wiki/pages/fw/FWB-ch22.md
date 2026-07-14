@@ -143,7 +143,7 @@ tags: [chapter]
 
 [FWB-022-066]"Very well, we shall cross it then at a safe height!" said the doctor.
 
-[FWB-022-067]Three hours later, the Victoria was right among the mountains. Her exact position was twenty-four degrees fifteen minutes east longitude, and four degrees forty-two minutes north latitude, and four degrees forty-two minutes north latitude. In front of her a volcanic crater was pouring forth torrents of melted lava, and hurling masses of rock to an enormous height. There were jets, too, of liquid fire that fell back in dazzling cascades--a superb but dangerous spectacle, for the wind with unswerving certainty was carrying the balloon directly toward this blazing atmosphere.
+[FWB-022-067]Three hours later, [[victoria-balloon|the Victoria]] was right among the mountains. Her exact position was twenty-four degrees fifteen minutes east longitude, and four degrees forty-two minutes north latitude, and four degrees forty-two minutes north latitude. In front of her a volcanic crater was pouring forth torrents of melted lava, and hurling masses of rock to an enormous height. There were jets, too, of liquid fire that fell back in dazzling cascades--a superb but dangerous spectacle, for the wind with unswerving certainty was carrying the balloon directly toward this blazing atmosphere.
 
 [FWB-022-068]This obstacle, which could not be turned, had to be crossed, so the cylinder was put to its utmost power, and the balloon rose to the height of six thousand feet, leaving between it and the volcano a space of more than three hundred fathoms.
 

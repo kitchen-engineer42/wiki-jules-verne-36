@@ -13,7 +13,7 @@ tags: [chapter]
 
 [AWED-031-001]IN WHICH FIX, THE DETECTIVE, CONSIDERABLY FURTHERS THE INTERESTS OF PHILEAS FOGG
 
-[AWED-031-002]Phileas Fogg found himself twenty hours behind time. Passepartout, the involuntary cause of this delay, was desperate. He had ruined his master!
+[AWED-031-002][[phileas-fogg|Phileas Fogg]] found himself twenty hours behind time. [[passepartout|Passepartout]], the involuntary cause of this delay, was desperate. He had ruined his master!
 
 [AWED-031-003]At this moment the detective approached Mr. Fogg, and, looking him intently in the face, said:
 
@@ -21,7 +21,7 @@ tags: [chapter]
 
 [AWED-031-005]"Quite seriously."
 
-[AWED-031-006]"I have a purpose in asking," resumed Fix. "Is it absolutely necessary that you should be in New York on the 11th, before nine o'clock in the evening, the time that the steamer leaves for Liverpool?"
+[AWED-031-006]"I have a purpose in asking," resumed [[fix|Fix]]. "Is it absolutely necessary that you should be in New York on the 11th, before nine o'clock in the evening, the time that the steamer leaves for Liverpool?"
 
 [AWED-031-007]"It is absolutely necessary."
 
@@ -43,7 +43,7 @@ tags: [chapter]
 
 [AWED-031-016]Mr. Fogg readily made a bargain with the owner of this land-craft. The wind was favourable, being fresh, and blowing from the west. The snow had hardened, and Mudge was very confident of being able to transport Mr. Fogg in a few hours to Omaha. Thence the trains eastward run frequently to Chicago and New York. It was not impossible that the lost time might yet be recovered; and such an opportunity was not to be rejected.
 
-[AWED-031-017]Not wishing to expose Aouda to the discomforts of travelling in the open air, Mr. Fogg proposed to leave her with Passepartout at Fort Kearney, the servant taking upon himself to escort her to Europe by a better route and under more favourable conditions. But Aouda refused to separate from Mr. Fogg, and Passepartout was delighted with her decision; for nothing could induce him to leave his master while Fix was with him.
+[AWED-031-017]Not wishing to expose [[aouda|Aouda]] to the discomforts of travelling in the open air, Mr. Fogg proposed to leave her with Passepartout at Fort Kearney, the servant taking upon himself to escort her to Europe by a better route and under more favourable conditions. But Aouda refused to separate from Mr. Fogg, and Passepartout was delighted with her decision; for nothing could induce him to leave his master while Fix was with him.
 
 [AWED-031-018]It would be difficult to guess the detective's thoughts. Was this conviction shaken by Phileas Fogg's return, or did he still regard him as an exceedingly shrewd rascal, who, his journey round the world completed, would think himself absolutely safe in England? Perhaps Fix's opinion of Phileas Fogg was somewhat modified; but he was nevertheless resolved to do his duty, and to hasten the return of the whole party to England as much as possible.
 

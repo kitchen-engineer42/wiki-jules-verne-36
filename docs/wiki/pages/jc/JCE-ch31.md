@@ -27,7 +27,7 @@ tags: [chapter]
 
 [JCE-031-008]"Here is the tide rising," I cried.
 
-[JCE-031-009]"Yes, Axel; and judging by these ridges of foam, you may observe that the sea will rise about twelve feet."
+[JCE-031-009]"Yes, [[axel|Axel]]; and judging by these ridges of foam, you may observe that the sea will rise about twelve feet."
 
 [JCE-031-010]"This is wonderful," I said.
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [JCE-031-021]"But where are we, uncle? for I have not yet asked you that question, and your instruments must be able to furnish the answer."
 
-[JCE-031-022]"Horizontally, three hundred and fifty leagues from Iceland."
+[JCE-031-022]"Horizontally, three hundred and fifty leagues from [[iceland|Iceland]]."
 
 [JCE-031-023]"So much as that?"
 
@@ -121,4 +121,4 @@ tags: [chapter]
 
 [JCE-031-055]"I am quite convinced, although it is incredible!"
 
-[JCE-031-056]By next evening, thanks to the industry and skill of our guide, the raft was made. It was ten feet by five; the planks of surturbrand, braced strongly together with cords, presented an even surface, and when launched this improvised vessel floated easily upon the waves of the Liedenbrock Sea.
+[JCE-031-056]By next evening, thanks to the industry and skill of our guide, the raft was made. It was ten feet by five; the planks of surturbrand, braced strongly together with cords, presented an even surface, and when launched this improvised vessel floated easily upon the waves of the [[liedenbrock-sea|Liedenbrock Sea]].

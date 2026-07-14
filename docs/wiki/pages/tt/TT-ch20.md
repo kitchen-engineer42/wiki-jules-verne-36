@@ -13,7 +13,7 @@ tags: [chapter]
 
 [TT-020-001]IN WHICH THIS STORY, AS TRUTHFUL AS IT IS IMPROBABLE, IS FINISHED.
 
-[TT-020-002]"Barbicane!!! Nicholl!!"
+[TT-020-002]"[[barbicane|Barbicane]]!!! Nicholl!!"
 
 [TT-020-003]"Maston."
 
@@ -57,7 +57,7 @@ tags: [chapter]
 
 [TT-020-023]"You ought to be blown up with the melimelonite."
 
-[TT-020-024]"No, gun cotton; that is more sure."
+[TT-020-024]"No, [[gun-cotton|gun cotton]]; that is more sure."
 
 [TT-020-025]Mrs. Evangelina Scorbitt had to interfere and cool these two enraged gunners down.
 

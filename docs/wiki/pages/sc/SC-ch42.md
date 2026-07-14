@@ -109,7 +109,7 @@ tags: [chapter]
 
 [SC-042-049]"You are a brave traveling companion, dear Helena," said Lord Glenarvan. "But are we sure of finding at the bay all we want when we get there?"
 
-[SC-042-050]"Without the least doubt," replied Paganel. "Eden is a municipality which already numbers many years in existence; its port must have frequent communication with Melbourne. I suppose even at Delegete, on the Victoria frontier, thirty-five miles from here, we might revictual our expedition, and find fresh means of transport."
+[SC-042-050]"Without the least doubt," replied Paganel. "Eden is a municipality which already numbers many years in existence; its port must have frequent communication with Melbourne. I suppose even at Delegete, on [[victoria-balloon|the Victoria]] frontier, thirty-five miles from here, we might revictual our expedition, and find fresh means of transport."
 
 [SC-042-051]"And the DUNCAN?" asked Ayrton. "Don't you think it advisable to send for her to come to the bay?"
 

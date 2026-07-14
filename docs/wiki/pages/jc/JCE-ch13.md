@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-013-001]HOSPITALITY UNDER THE ARCTIC CIRCLE
 
-[JCE-013-002]It ought to have been night-time, but under the 65th parallel there was nothing surprising in the nocturnal polar light. In Iceland during the months of June and July the sun does not set.
+[JCE-013-002]It ought to have been night-time, but under the 65th parallel there was nothing surprising in the nocturnal polar light. In [[iceland|Iceland]] during the months of June and July the sun does not set.
 
 [JCE-013-003]But the temperature was much lower. I was cold and more hungry than cold. Welcome was the sight of the boër which was hospitably opened to receive us.
 
@@ -73,7 +73,7 @@ tags: [chapter]
 
 [JCE-013-031]On the 19th of June, for about a mile, that is an Icelandic mile, we walked upon hardened lava; this ground is called in the country 'hraun'; the writhen surface presented the appearance of distorted, twisted cables, sometimes stretched in length, sometimes contorted together; an immense torrent, once liquid, now solid, ran from the nearest mountains, now extinct volcanoes, but the ruins around revealed the violence of the past eruptions. Yet here and there were a few jets of steam from hot springs.
 
-[JCE-013-032]We had no time to watch these phenomena; we had to proceed on our way. Soon at the foot of the mountains the boggy land reappeared, intersected by little lakes. Our route now lay westward; we had turned the great bay of Faxa, and the twin peaks of Snæfell rose white into the cloudy sky at the distance of at least five miles.
+[JCE-013-032]We had no time to watch these phenomena; we had to proceed on our way. Soon at the foot of the mountains the boggy land reappeared, intersected by little lakes. Our route now lay westward; we had turned the great bay of Faxa, and the twin peaks of [[snaefellsjokull|Snæfell]] rose white into the cloudy sky at the distance of at least five miles.
 
 [JCE-013-033]The horses did their duty well, no difficulties stopped them in their steady career. I was getting tired; but my uncle was as firm and straight as he was at our first start. I could not help admiring his persistency, as well as the hunter's, who treated our expedition like a mere promenade.
 

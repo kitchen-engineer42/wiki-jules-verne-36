@@ -14,13 +14,13 @@ tags: [chapter]
 
 [TTLU-042-001]The Devilfish
 
-[TTLU-042-002]FOR SOME DAYS the Nautilus kept veering away from the American coast. It obviously didn't want to frequent the waves of the Gulf of Mexico or the Caribbean Sea. Yet there was no shortage of water under its keel, since the average depth of these seas is 1,800 meters; but these waterways, strewn with islands and plowed by steamers, probably didn't agree with Captain Nemo.
+[TTLU-042-002]FOR SOME DAYS the [[nautilus|Nautilus]] kept veering away from the American coast. It obviously didn't want to frequent the waves of the Gulf of Mexico or the Caribbean Sea. Yet there was no shortage of water under its keel, since the average depth of these seas is 1,800 meters; but these waterways, strewn with islands and plowed by steamers, probably didn't agree with [[captain-nemo|Captain Nemo]].
 
 [TTLU-042-003]On April 16 we raised Martinique and Guadalupe from a distance of about thirty miles. For one instant I could see their lofty peaks.
 
-[TTLU-042-004]The Canadian was quite disheartened, having counted on putting his plans into execution in the gulf, either by reaching shore or by pulling alongside one of the many boats plying a coastal trade from one island to another. An escape attempt would have been quite feasible, assuming Ned Land managed to seize the skiff without the captain's knowledge. But in midocean it was unthinkable.
+[TTLU-042-004]The Canadian was quite disheartened, having counted on putting his plans into execution in the gulf, either by reaching shore or by pulling alongside one of the many boats plying a coastal trade from one island to another. An escape attempt would have been quite feasible, assuming [[ned-land|Ned Land]] managed to seize the skiff without the captain's knowledge. But in midocean it was unthinkable.
 
-[TTLU-042-005]The Canadian, Conseil, and I had a pretty long conversation on this subject. For six months we had been prisoners aboard the Nautilus. We had fared 17,000 leagues, and as Ned Land put it, there was no end in sight. So he made me a proposition I hadn't anticipated. We were to ask Captain Nemo this question straight out: did the captain mean to keep us on board his vessel permanently?
+[TTLU-042-005]The Canadian, [[conseil|Conseil]], and I had a pretty long conversation on this subject. For six months we had been prisoners aboard the Nautilus. We had fared 17,000 leagues, and as Ned Land put it, there was no end in sight. So he made me a proposition I hadn't anticipated. We were to ask Captain Nemo this question straight out: did the captain mean to keep us on board his vessel permanently?
 
 [TTLU-042-006]This measure was distasteful to me. To my mind it would lead nowhere. We could hope for nothing from the Nautilus's commander but could depend only on ourselves. Besides, for some time now the man had been gloomier, more withdrawn, less sociable. He seemed to be avoiding me. I encountered him only at rare intervals. He used to take pleasure in explaining the underwater wonders to me; now he left me to my research and no longer entered the lounge.
 

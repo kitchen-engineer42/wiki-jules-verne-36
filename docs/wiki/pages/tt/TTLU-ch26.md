@@ -12,9 +12,9 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 2
 
-[TTLU-026-001]A New Proposition from Captain Nemo
+[TTLU-026-001]A New Proposition from [[captain-nemo|Captain Nemo]]
 
-[TTLU-026-002]ON JANUARY 28, in latitude 9 degrees 4' north, when the Nautilus returned at noon to the surface of the sea, it lay in sight of land some eight miles to the west. Right off, I observed a cluster of mountains about 2,000 feet high, whose shapes were very whimsically sculpted. After our position fix, I reentered the lounge, and when our bearings were reported on the chart, I saw that we were off the island of Ceylon, that pearl dangling from the lower lobe of the Indian peninsula.
+[TTLU-026-002]ON JANUARY 28, in latitude 9 degrees 4' north, when the [[nautilus|Nautilus]] returned at noon to the surface of the sea, it lay in sight of land some eight miles to the west. Right off, I observed a cluster of mountains about 2,000 feet high, whose shapes were very whimsically sculpted. After our position fix, I reentered the lounge, and when our bearings were reported on the chart, I saw that we were off the island of Ceylon, that pearl dangling from the lower lobe of the Indian peninsula.
 
 [TTLU-026-003]I went looking in the library for a book about this island, one of the most fertile in the world. Sure enough, I found a volume entitled Ceylon and the Singhalese by H. C. Sirr, Esq. Reentering the lounge, I first noted the bearings of Ceylon, on which antiquity lavished so many different names. It was located between latitude 5 degrees 55' and 9 degrees 49' north, and between longitude 79 degrees 42' and 82 degrees 4' east of the meridian of Greenwich; its length is 275 miles; its maximum width, 150 miles; its circumference, 900 miles; its surface area, 24,448 square miles, in other words, a little smaller than that of Ireland.
 
@@ -78,9 +78,9 @@ tags: [chapter]
 
 [TTLU-026-033]And there I was, fantasizing about sharks, envisioning huge jaws armed with multiple rows of teeth and capable of cutting a man in half. I could already feel a definite pain around my pelvic girdle. And how I resented the offhand manner in which the captain had extended his deplorable invitation! You would have thought it was an issue of going into the woods on some harmless fox hunt!
 
-[TTLU-026-034]"Thank heavens!" I said to myself. "Conseil will never want to come along, and that'll be my excuse for not going with the captain."
+[TTLU-026-034]"Thank heavens!" I said to myself. "[[conseil|Conseil]] will never want to come along, and that'll be my excuse for not going with the captain."
 
-[TTLU-026-035]As for Ned Land, I admit I felt less confident of his wisdom. Danger, however great, held a perennial attraction for his aggressive nature.
+[TTLU-026-035]As for [[ned-land|Ned Land]], I admit I felt less confident of his wisdom. Danger, however great, held a perennial attraction for his aggressive nature.
 
 [TTLU-026-036]I went back to reading Sirr's book, but I leafed through it mechanically. Between the lines I kept seeing fearsome, wide-open jaws.
 

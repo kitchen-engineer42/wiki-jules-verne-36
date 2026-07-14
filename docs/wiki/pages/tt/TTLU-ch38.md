@@ -26,15 +26,15 @@ tags: [chapter]
 
 [TTLU-038-007]"No matter how faintly it shines, it will be enough for me," the captain replied.
 
-[TTLU-038-008]To the south, ten miles from the Nautilus, a solitary islet rose to a height of 200 meters. We proceeded toward it, but cautiously, because this sea could have been strewn with reefs.
+[TTLU-038-008]To the south, ten miles from the [[nautilus|Nautilus]], a solitary islet rose to a height of 200 meters. We proceeded toward it, but cautiously, because this sea could have been strewn with reefs.
 
 [TTLU-038-009]In an hour we had reached the islet. Two hours later we had completed a full circle around it. It measured four to five miles in circumference. A narrow channel separated it from a considerable shore, perhaps a continent whose limits we couldn't see. The existence of this shore seemed to bear out Commander Maury's hypotheses. In essence, this ingenious American has noted that between the South Pole and the 60th parallel, the sea is covered with floating ice of dimensions much greater than any found in the north Atlantic. From this fact he drew the conclusion that the Antarctic Circle must contain considerable shores, since icebergs can't form on the high seas but only along coastlines. According to his calculations, this frozen mass enclosing the southernmost pole forms a vast ice cap whose width must reach 4,000 kilometers.
 
-[TTLU-038-010]Meanwhile, to avoid running aground, the Nautilus halted three cable lengths from a strand crowned by superb piles of rocks. The skiff was launched to sea. Two crewmen carrying instruments, the captain, Conseil, and I were on board. It was ten o'clock in the morning. I hadn't seen Ned Land. No doubt, in the presence of the South Pole, the Canadian hated having to eat his words.
+[TTLU-038-010]Meanwhile, to avoid running aground, the Nautilus halted three cable lengths from a strand crowned by superb piles of rocks. The skiff was launched to sea. Two crewmen carrying instruments, the captain, [[conseil|Conseil]], and I were on board. It was ten o'clock in the morning. I hadn't seen [[ned-land|Ned Land]]. No doubt, in the presence of the South Pole, the Canadian hated having to eat his words.
 
 [TTLU-038-011]A few strokes of the oar brought the skiff to the sand, where it ran aground. Just as Conseil was about to jump ashore, I held him back.
 
-[TTLU-038-012]"Sir," I told Captain Nemo, "to you belongs the honor of first setting foot on this shore."
+[TTLU-038-012]"Sir," I told [[captain-nemo|Captain Nemo]], "to you belongs the honor of first setting foot on this shore."
 
 [TTLU-038-013]"Yes, sir," the captain replied, "and if I have no hesitation in treading this polar soil, it's because no human being until now has left a footprint here."
 

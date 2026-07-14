@@ -29,7 +29,7 @@ tags: [chapter]
 
 [WC-017-009]"Tudor Brown has been here," he cried. "They told us on board the 'Vega' that his vessel was at Valparaiso when he telegraphed them to wait for him at Vancouver. Besides, this box from Chili could not have been brought here by the 'Vega,' for it is evidently quite fresh. It can not be three days, perhaps not twenty-four hours since it has been opened!"
 
-[WC-017-010]Dr. Schwaryencrona and Mr. Bredejord shook their heads, as if they hesitated to accept Erik's conclusions, when turning the box in his hands, he descried written in pencil the word "Albatross," which had doubtless been done by the person who had furnished the vessel with the beef. He pointed it out to his friends.
+[WC-017-010]Dr. Schwaryencrona and Mr. Bredejord shook their heads, as if they hesitated to accept Erik's conclusions, when turning the box in his hands, he descried written in pencil the word "[[albatross|Albatross]]," which had doubtless been done by the person who had furnished the vessel with the beef. He pointed it out to his friends.
 
 [WC-017-011]"Tudor Brown has been here," he repeated, "and why should he come except to carry off Patrick O'Donoghan. Let us go, it is evident they embarked at this creek. His men, while they were waiting for him, have taken breakfast around this fire. He has carried off the Irishman, either willingly or unwillingly. I am as certain of it as if I saw them embark."
 

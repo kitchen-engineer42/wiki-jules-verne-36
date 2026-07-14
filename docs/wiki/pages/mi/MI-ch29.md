@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 7
 
-[MI-029-001]The settlers in Lincoln Island had now regained their dwelling, without having been obliged to reach it by the old opening, and were therefore spared the trouble of mason's work. It was certainly lucky, that at the moment they were about to set out to do so, the apes had been seized with that terror, no less sudden than inexplicable, which had driven them out of Granite House. Had the animals discovered that they were about to be attacked from another direction? This was the only explanation of their sudden retreat.
+[MI-029-001]The settlers in [[lincoln-island|Lincoln Island]] had now regained their dwelling, without having been obliged to reach it by the old opening, and were therefore spared the trouble of mason's work. It was certainly lucky, that at the moment they were about to set out to do so, the apes had been seized with that terror, no less sudden than inexplicable, which had driven them out of [[granite-house|Granite House]]. Had the animals discovered that they were about to be attacked from another direction? This was the only explanation of their sudden retreat.
 
 [MI-029-002]During the day the bodies of the apes were carried into the wood, where they were buried; then the settlers busied themselves in repairing the disorder caused by the intruders, disorder but not damage, for although they had turned everything in the rooms topsy-turvy, yet they had broken nothing. Neb relighted his stove, and the stores in the larder furnished a substantial repast, to which all did ample justice.
 
@@ -22,7 +22,7 @@ tags: [chapter]
 
 [MI-029-005]These two projects would help to solve the difficulty as to their clothing, which was now serious. The bridge would render easy the transport of the balloon case, which would furnish them with linen, and the inhabitants of the enclosure would yield wool which would supply them with winter clothes.
 
-[MI-029-006]As to the enclosure, it was Cyrus Harding's intention to establish it at the sources of the Red Creek, where the ruminants would find fresh and abundant pasture. The road between Prospect Heights and the sources of the stream was already partly beaten, and with a better cart than the first, the material could be easily conveyed to the spot, especially if they could manage to capture some animals to draw it.
+[MI-029-006]As to the enclosure, it was [[cyrus-harding|Cyrus Harding]]'s intention to establish it at the sources of the Red Creek, where the ruminants would find fresh and abundant pasture. The road between Prospect Heights and the sources of the stream was already partly beaten, and with a better cart than the first, the material could be easily conveyed to the spot, especially if they could manage to capture some animals to draw it.
 
 [MI-029-007]But though there might be no inconvenience in the enclosure being so far from Granite House, it would not be the same with the poultry-yard, to which Neb called the attention of the colonists. It was indeed necessary that the birds should be close within reach of the cook, and no place appeared more favorable for the establishment of the said poultry-yard than that portion of the banks of the lake which was close to the old opening.
 
@@ -62,7 +62,7 @@ tags: [chapter]
 
 [MI-029-025]The construction of the Mercy bridge lasted three weeks of regular hard work. They even breakfasted on the scene of their labors, and the weather being magnificent, they only returned to Granite House to sleep.
 
-[MI-029-026]During this period it may be stated that Master Jup grew more accustomed to his new masters, whose movements he always watched with very inquisitive eyes. However, as a precautionary measure, Pencroft did not as yet allow him complete liberty, rightly wishing to wait until the limits of the plateau should be settled by the projected works. Top and Jup were good friends and played willingly together, but Jup did everything solemnly.
+[MI-029-026]During this period it may be stated that Master Jup grew more accustomed to his new masters, whose movements he always watched with very inquisitive eyes. However, as a precautionary measure, Pencroft did not as yet allow him complete liberty, rightly wishing to wait until the limits of the plateau should be settled by the projected works. [[top|Top]] and Jup were good friends and played willingly together, but Jup did everything solemnly.
 
 [MI-029-027]On the 20th of November the bridge was finished. The movable part, balanced by the counterpoise, swung easily, and only a slight effort was needed to rise it; between its hinge and the last cross-bar on which it rested when closed, there existed a space of twenty feet, which was sufficiently wide to prevent any animals from crossing.
 
@@ -80,7 +80,7 @@ tags: [chapter]
 
 [MI-029-034]The field was prepared, then surrounded with a strong palisade, high and pointed, which quadrupeds would have found difficulty in leaping. As to birds, some scarecrows, due to Pencroft's ingenious brain, were enough to frighten them. The seven hundred and fifty grains deposited in very regular furrows were then left for nature to do the rest.
 
-[MI-029-035]On the 21st of November, Cyrus Harding began to plan the canal which was to close the plateau on the west, from the south angle of Lake Grant to the angle of the Mercy. There was there two or three feet of vegetable earth, and below that granite. It was therefore necessary to manufacture some more nitro-glycerine, and the nitro-glycerine did its accustomed work. In less than a fortnight a ditch, twelve feet wide and six deep, was dug out in the hard ground of the plateau. A new trench was made by the same means in the rocky border of the lake, forming a small stream, to which they gave the name of Creek Glycerine, and which was thus an affluent of the Mercy. As the engineer had predicted, the level of the lake was lowered, though very slightly. To complete the enclosure the bed of the stream on the beach was considerably enlarged, and the sand supported by means of stakes.
+[MI-029-035]On the 21st of November, Cyrus Harding began to plan the canal which was to close the plateau on the west, from the south angle of Lake Grant to the angle of the Mercy. There was there two or three feet of vegetable earth, and below that granite. It was therefore necessary to manufacture some more [[nitroglycerine|nitro-glycerine]], and the nitro-glycerine did its accustomed work. In less than a fortnight a ditch, twelve feet wide and six deep, was dug out in the hard ground of the plateau. A new trench was made by the same means in the rocky border of the lake, forming a small stream, to which they gave the name of Creek Glycerine, and which was thus an affluent of the Mercy. As the engineer had predicted, the level of the lake was lowered, though very slightly. To complete the enclosure the bed of the stream on the beach was considerably enlarged, and the sand supported by means of stakes.
 
 [MI-029-036]By the end of the first fortnight of December these works were finished, and Prospect Heights--that is to say, a sort of irregular pentagon, having a perimeter of nearly four miles, surrounded by a liquid belt--was completely protected from depredators of every description.
 
@@ -100,7 +100,7 @@ tags: [chapter]
 
 [MI-029-044]But did there not exist in the island some animal which might supply the place of the horse, ass, or ox? That was the question.
 
-[MI-029-045]"Certainly," said Pencroft, "a beast of burden would be very useful to us until the captain has made a steam cart, or even an engine, for some day we shall have a railroad from Granite House to Port Balloon, with a branch line to Mount Franklin!"
+[MI-029-045]"Certainly," said Pencroft, "a beast of burden would be very useful to us until the captain has made a steam cart, or even an engine, for some day we shall have a railroad from Granite House to Port Balloon, with a branch line to [[mount-franklin|Mount Franklin]]!"
 
 [MI-029-046]One day, the 23rd of December, Neb and Top were heard shouting and barking, each apparently trying to see who could make the most noise. The settlers, who were busy at the Chimneys, ran, fearing some vexatious incident.
 

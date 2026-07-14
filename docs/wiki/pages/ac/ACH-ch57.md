@@ -13,7 +13,7 @@ tags: [chapter]
 
 [ACH-057-001]RETURN SOUTH.
 
-[ACH-057-002]Three hours after this sad dénouement of the adventures of Captain Hatteras, the whole party were back once more in the grotto.
+[ACH-057-002]Three hours after this sad dénouement of the adventures of [[captain-hatteras|Captain Hatteras]], the whole party were back once more in the grotto.
 
 [ACH-057-003]Clawbonny was asked his opinion as to what was best to be done.
 

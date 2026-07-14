@@ -79,7 +79,7 @@ tags: [chapter]
 
 [SC-059-034]"Taboo! taboo! taboo!"
 
-[SC-059-035]An enormous quantity of vapors, heated stones and lava was escaping by this crater of Maunganamu. It was not a mere geyser like those that girdle round Mount Hecla, in Iceland, it was itself a Hecla. All this volcanic commotion was confined till then in the envelope of the cone, because the safety valve of Tangariro was enough for its expansion; but when this new issue was afforded, it rushed forth fiercely, and by the laws of equilibrium, the other eruptions in the island must on that night have lost their usual intensity.
+[SC-059-035]An enormous quantity of vapors, heated stones and lava was escaping by this crater of Maunganamu. It was not a mere geyser like those that girdle round Mount Hecla, in [[iceland|Iceland]], it was itself a Hecla. All this volcanic commotion was confined till then in the envelope of the cone, because the safety valve of Tangariro was enough for its expansion; but when this new issue was afforded, it rushed forth fiercely, and by the laws of equilibrium, the other eruptions in the island must on that night have lost their usual intensity.
 
 [SC-059-036]An hour after this volcano burst upon the world, broad streams of lava were running down its sides. Legions of rats came out of their holes, and fled from the scene.
 

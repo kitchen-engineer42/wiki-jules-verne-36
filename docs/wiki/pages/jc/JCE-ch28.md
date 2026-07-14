@@ -53,11 +53,11 @@ tags: [chapter]
 
 [JCE-028-021]But there was no time to lose. If my companions moved but a few steps away, the acoustic phenomenon would cease. I therefore approached the wall, and pronounced these words as clearly as possible:
 
-[JCE-028-022]"Uncle Liedenbrock!"
+[JCE-028-022]"Uncle [[professor-lidenbrock|Liedenbrock]]!"
 
 [JCE-028-023]I waited with the deepest anxiety. Sound does not travel with great velocity. Even increased density air has no effect upon its rate of travelling; it merely augments its intensity. Seconds, which seemed ages, passed away, and at last these words reached me:
 
-[JCE-028-024]"Axel! Axel! is it you?"
+[JCE-028-024]"[[axel|Axel]]! Axel! is it you?"
 
 [JCE-028-025]. . . .
 

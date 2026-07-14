@@ -25,7 +25,7 @@ tags: [chapter]
 
 [FWB-012-007]Kennedy looked on, and had not eyes enough to take in all that he saw.
 
-[FWB-012-008]The rays of the sun coming to the aid of the heating cylinder, the tension of the gas increased, and the Victoria attained the height of twenty-five hundred feet.
+[FWB-012-008]The rays of the sun coming to the aid of the heating cylinder, the tension of the gas increased, and [[victoria-balloon|the Victoria]] attained the height of twenty-five hundred feet.
 
 [FWB-012-009]The Resolute looked like a mere cockle-shell, and the African coast could be distinctly seen in the west marked out by a fringe of foam.
 

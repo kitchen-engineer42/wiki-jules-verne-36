@@ -17,13 +17,13 @@ tags: [chapter]
 
 [RC-008-003]The valet Frycollin did not conceal his terror at finding himself borne through space on such a machine, and he took no pains whatever to hide it.
 
-[RC-008-004]The suspensory screws were rapidly spinning overhead. Fast as they were going, they would have to triple their speed if the "Albatross" was to ascend to higher zones. The two propellers were running very easily and driving the ship at about eleven knots an hour.
+[RC-008-004]The suspensory screws were rapidly spinning overhead. Fast as they were going, they would have to triple their speed if the "[[albatross|Albatross]]" was to ascend to higher zones. The two propellers were running very easily and driving the ship at about eleven knots an hour.
 
 [RC-008-005]As they leaned over the rail the passengers of the "Albatross" could perceive a long sinuous liquid ribbon which meandered like a mere brook through a varied country amid the gleaming of many lagoons obliquely struck by the rays of the sun. The brook was a river, one of the most important in that district. Along its left bank was a chain of mountains extending out of sight.
 
 [RC-008-006]"And will you tell us where we are?" asked Uncle Prudent, in a voice tremulous with anger.
 
-[RC-008-007]"I have nothing to teach you," answered Robur.
+[RC-008-007]"I have nothing to teach you," answered [[robur|Robur]].
 
 [RC-008-008]"And will you tell us where we are going?" asked Phil Evans.
 
@@ -87,7 +87,7 @@ tags: [chapter]
 
 [RC-008-038]Such was the speed of the aeronef; and if the passengers were not inconvenienced by it, it was because they were going with the wind. In a calm such speed would have been difficult and the rate would have sunk to that of an express. In a head-wind the speed would have been unbearable.
 
-[RC-008-039]Phil Evans was not mistaken. Below the "Albatross" appeared Montreal, easily recognizable by the Victoria Bridge, a tubular bridge thrown over the St. Lawrence like the railway viaduct over the Venice lagoon. Soon they could distinguish the town's wide streets, its huge shops, its palatial banks, its cathedral, recently built on the model of St. Peter's at Rome, and then Mount Royal, which commands the city and forms a magnificent park.
+[RC-008-039]Phil Evans was not mistaken. Below the "Albatross" appeared Montreal, easily recognizable by [[victoria-balloon|the Victoria]] Bridge, a tubular bridge thrown over the St. Lawrence like the railway viaduct over the Venice lagoon. Soon they could distinguish the town's wide streets, its huge shops, its palatial banks, its cathedral, recently built on the model of St. Peter's at Rome, and then Mount Royal, which commands the city and forms a magnificent park.
 
 [RC-008-040]Luckily Phil Evans had visited the chief towns of Canada, and could recognize them without asking Robur. After Montreal they passed Ottawa, whose falls, seen from above, looked like a vast cauldron in ebullition, throwing off masses of steam with grand effect.
 

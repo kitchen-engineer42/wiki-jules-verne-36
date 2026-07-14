@@ -14,7 +14,7 @@ tags: [chapter]
 
 [MI-035-001]"A castaway!" exclaimed Pencroft; "left on this Tabor Island not two hundred miles from us! Ah, Captain Harding, you won't now oppose my going."
 
-[MI-035-002]"No, Pencroft," replied Cyrus Harding; "and you shall set out as soon as possible."
+[MI-035-002]"No, Pencroft," replied [[cyrus-harding|Cyrus Harding]]; "and you shall set out as soon as possible."
 
 [MI-035-003]"To-morrow?"
 
@@ -44,9 +44,9 @@ tags: [chapter]
 
 [MI-035-016]Claw Cape was doubled, and about four o'clock the "Bonadventure" dropped her anchor at the mouth of the Mercy.
 
-[MI-035-017]That same evening the arrangements for the new expedition were made. It appeared best that Pencroft and Herbert, who knew how to work the vessel, should undertake the voyage alone. By setting out the next day, the 10th of October, they would arrive on the 13th, for with the present wind it would not take more than forty-eight hours to make this passage of a hundred and fifty miles. One day in the island, three or four to return, they might hope therefore that on the 17th they would again reach Lincoln Island. The weather was fine, the barometer was rising, the wind appeared settled, everything then was in favor of these brave men whom an act of humanity was taking far from their island.
+[MI-035-017]That same evening the arrangements for the new expedition were made. It appeared best that Pencroft and Herbert, who knew how to work the vessel, should undertake the voyage alone. By setting out the next day, the 10th of October, they would arrive on the 13th, for with the present wind it would not take more than forty-eight hours to make this passage of a hundred and fifty miles. One day in the island, three or four to return, they might hope therefore that on the 17th they would again reach [[lincoln-island|Lincoln Island]]. The weather was fine, the barometer was rising, the wind appeared settled, everything then was in favor of these brave men whom an act of humanity was taking far from their island.
 
-[MI-035-018]Thus it had been agreed that Cyrus Harding, Neb, and Gideon Spilett should remain at Granite House, but an objection was raised, and Spilett, who had not forgotten his business as reporter to the New York Herald, having declared that he would go by swimming rather than lose such an opportunity, he was admitted to take a part in the voyage.
+[MI-035-018]Thus it had been agreed that Cyrus Harding, Neb, and Gideon Spilett should remain at [[granite-house|Granite House]], but an objection was raised, and Spilett, who had not forgotten his business as reporter to the New York Herald, having declared that he would go by swimming rather than lose such an opportunity, he was admitted to take a part in the voyage.
 
 [MI-035-019]The evening was occupied in transporting on board the "Bonadventure," articles of bedding, utensils, arms, ammunition, a compass, provisions for a week; this being rapidly done, the colonists ascended to Granite House.
 
@@ -58,7 +58,7 @@ tags: [chapter]
 
 [MI-035-023]Pencroft, the reporter and Herbert waved in return, and Granite House soon disappeared behind the high rocks of the Cape.
 
-[MI-035-024]During the first part of the day the "Bonadventure" was still in sight of the southern coast of Lincoln Island, which soon appeared just like a green basket, with Mount Franklin rising from the center. The heights, diminished by distance, did not present an appearance likely to tempt vessels to touch there. Reptile End was passed in about an hour, though at a distance of about ten miles.
+[MI-035-024]During the first part of the day the "Bonadventure" was still in sight of the southern coast of Lincoln Island, which soon appeared just like a green basket, with [[mount-franklin|Mount Franklin]] rising from the center. The heights, diminished by distance, did not present an appearance likely to tempt vessels to touch there. Reptile End was passed in about an hour, though at a distance of about ten miles.
 
 [MI-035-025]At this distance it was no longer possible to distinguish anything of the Western Coast, which stretched away to the ridges of Mount Franklin, and three hours after the last of Lincoln Island sank below the horizon.
 

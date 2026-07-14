@@ -13,9 +13,9 @@ tags: [chapter]
 
 [AWED-037-001]IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS
 
-[AWED-037-002]Yes; Phileas Fogg in person.
+[AWED-037-002]Yes; [[phileas-fogg|Phileas Fogg]] in person.
 
-[AWED-037-003]The reader will remember that at five minutes past eight in the evening--about five and twenty hours after the arrival of the travellers in London--Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.
+[AWED-037-003]The reader will remember that at five minutes past eight in the evening--about five and twenty hours after the arrival of the travellers in London--[[passepartout|Passepartout]] had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.
 
 [AWED-037-004]Passepartout went on his errand enchanted. He soon reached the clergyman's house, but found him not at home. Passepartout waited a good twenty minutes, and when he left the reverend gentleman, it was thirty-five minutes past eight. But in what a state he was! With his hair in disorder, and without his hat, he ran along the street as never man was seen to run before, overturning passers-by, rushing over the sidewalk like a waterspout.
 
@@ -45,7 +45,7 @@ tags: [chapter]
 
 [AWED-037-017]Passepartout had seized his master by the collar, and was dragging him along with irresistible force.
 
-[AWED-037-018]Phileas Fogg, thus kidnapped, without having time to think, left his house, jumped into a cab, promised a hundred pounds to the cabman, and, having run over two dogs and overturned five carriages, reached the Reform Club.
+[AWED-037-018]Phileas Fogg, thus kidnapped, without having time to think, left his house, jumped into a cab, promised a hundred pounds to the cabman, and, having run over two dogs and overturned five carriages, reached the [[reform-club|Reform Club]].
 
 [AWED-037-019]The clock indicated a quarter before nine when he appeared in the great saloon.
 
@@ -63,9 +63,9 @@ tags: [chapter]
 
 [AWED-037-026]And Passepartout's famous family watch, which had always kept London time, would have betrayed this fact, if it had marked the days as well as the hours and the minutes!
 
-[AWED-037-027]Phileas Fogg, then, had won the twenty thousand pounds; but, as he had spent nearly nineteen thousand on the way, the pecuniary gain was small. His object was, however, to be victorious, and not to win money. He divided the one thousand pounds that remained between Passepartout and the unfortunate Fix, against whom he cherished no grudge. He deducted, however, from Passepartout's share the cost of the gas which had burned in his room for nineteen hundred and twenty hours, for the sake of regularity.
+[AWED-037-027]Phileas Fogg, then, had won the twenty thousand pounds; but, as he had spent nearly nineteen thousand on the way, the pecuniary gain was small. His object was, however, to be victorious, and not to win money. He divided the one thousand pounds that remained between Passepartout and the unfortunate [[fix|Fix]], against whom he cherished no grudge. He deducted, however, from Passepartout's share the cost of the gas which had burned in his room for nineteen hundred and twenty hours, for the sake of regularity.
 
-[AWED-037-028]That evening, Mr. Fogg, as tranquil and phlegmatic as ever, said to Aouda: "Is our marriage still agreeable to you?"
+[AWED-037-028]That evening, Mr. Fogg, as tranquil and phlegmatic as ever, said to [[aouda|Aouda]]: "Is our marriage still agreeable to you?"
 
 [AWED-037-029]"Mr. Fogg," replied she, "it is for me to ask that question. You were ruined, but now you are rich again."
 

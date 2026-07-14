@@ -57,7 +57,7 @@ tags: [chapter]
 
 [ACH-055-023]"Let us go on, then," said Clawbonny, dejectedly.
 
-[ACH-055-024]He had no heart now for anything. The North Pole was indeed before his eyes, but not the man who had discovered it.
+[ACH-055-024]He had no heart now for anything. [[north-pole|The North Pole]] was indeed before his eyes, but not the man who had discovered it.
 
 [ACH-055-025]As they got nearer the island, which was not more than eight or ten miles in circumference, the navigators noticed a tiny fiord, just large enough to harbour their boat, and made towards it immediately. They feared their captain's dead body would meet their eyes on the coast, and yet it seemed difficult for a corpse to lie on it, for there was no shore, and the sea broke on steep rocks, which were covered with cinders above watermark.
 
@@ -121,7 +121,7 @@ tags: [chapter]
 
 [ACH-055-055]Clawbonny was the scribe, and indited the following document, a copy of which is now among the archives of the Royal Geographical Society of London:---
 
-[ACH-055-056]"On this 11th day of July, 1861, in North latitude 89° 59' 15" was discovered Queen's Island at the North Pole, by Captain Hatteras, Commander of the brig Forward of Liverpool, who signs this, as also all his companions.
+[ACH-055-056]"On this 11th day of July, 1861, in North latitude 89° 59' 15" was discovered Queen's Island at the North Pole, by [[captain-hatteras|Captain Hatteras]], Commander of the brig Forward of Liverpool, who signs this, as also all his companions.
 
 [ACH-055-057]"Whoever may find this document is requested to forward it to the Admiralty.
 

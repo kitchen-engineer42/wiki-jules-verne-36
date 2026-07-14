@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RM-015-001]HYPERBOLA OR PARABOLA.
 
-[RM-015-002]Our readers will probably be astonished that Barbicane and his companions were so little occupied with the future in store for them in their metal prison, carried along in the infinitude of ether. Instead of asking themselves where they were going, they lost their time in making experiments, just as if they had been comfortably installed in their own studies.
+[RM-015-002]Our readers will probably be astonished that [[barbicane|Barbicane]] and his companions were so little occupied with the future in store for them in their metal prison, carried along in the infinitude of ether. Instead of asking themselves where they were going, they lost their time in making experiments, just as if they had been comfortably installed in their own studies.
 
 [RM-015-003]It might be answered that men so strong-minded were above such considerations, that such little things did not make them uneasy, and that they had something else to do than to think about their future.
 
@@ -21,7 +21,7 @@ tags: [chapter]
 
 [RM-015-005]Where were they at that moment, 8 a.m. during that day called upon earth the sixth of December? Certainly in the neighbourhood of the moon, and even near enough for her to appear like a vast black screen upon the firmament. As to the distance which separated them, it was impossible to estimate it. The projectile, kept up by inexplicable forces, has grazed the north pole of the satellite at less than twenty-five miles' distance. But had that distance increased or diminished since they had been in the cone of shadow? There was no landmark by which to estimate either the direction or the velocity of the projectile. Perhaps it was going rapidly away from the disc and would soon leave the pure shadow. Perhaps, on the contrary, it was approaching it, and would before long strike against some elevated peak in the invisible atmosphere, which would have terminated the journey, doubtless to the detriment of the travellers.
 
-[RM-015-006]A discussion began upon this subject, and Michel Ardan, always rich in explanations, gave out the opinion that the bullet, restrained by lunar attraction, would end by falling on the moon like an aërolite on to the surface of the terrestrial globe.
+[RM-015-006]A discussion began upon this subject, and [[michel-ardan|Michel Ardan]], always rich in explanations, gave out the opinion that the bullet, restrained by lunar attraction, would end by falling on the moon like an aërolite on to the surface of the terrestrial globe.
 
 [RM-015-007]"In the first place," answered Barbicane, "all aërolites do not fall upon the surface of the earth; only a small proportion do so. Therefore, if we are aërolites it does not necessarily follow that we shall fall upon the moon."
 

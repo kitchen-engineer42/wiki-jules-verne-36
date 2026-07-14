@@ -14,9 +14,9 @@ tags: [chapter]
 
 [TTLU-016-001]Strolling the Plains
 
-[TTLU-016-002]THIS CELL, properly speaking, was the Nautilus's arsenal and wardrobe. Hanging from its walls, a dozen diving outfits were waiting for anybody who wanted to take a stroll.
+[TTLU-016-002]THIS CELL, properly speaking, was the [[nautilus|Nautilus]]'s arsenal and wardrobe. Hanging from its walls, a dozen diving outfits were waiting for anybody who wanted to take a stroll.
 
-[TTLU-016-003]After seeing these, Ned Land exhibited an obvious distaste for the idea of putting one on.
+[TTLU-016-003]After seeing these, [[ned-land|Ned Land]] exhibited an obvious distaste for the idea of putting one on.
 
 [TTLU-016-004]"But my gallant Ned," I told him, "the forests of Crespo Island are simply underwater forests!"
 
@@ -26,9 +26,9 @@ tags: [chapter]
 
 [TTLU-016-007]"Have it your way, sir," the harpooner replied, shrugging his shoulders. "But speaking for myself, I'll never get into those things unless they force me!"
 
-[TTLU-016-008]"No one will force you, Mr. Land," Captain Nemo said.
+[TTLU-016-008]"No one will force you, Mr. Land," [[captain-nemo|Captain Nemo]] said.
 
-[TTLU-016-009]"And is Conseil going to risk it?" Ned asked.
+[TTLU-016-009]"And is [[conseil|Conseil]] going to risk it?" Ned asked.
 
 [TTLU-016-010]"Where master goes, I go," Conseil replied.
 
@@ -50,7 +50,7 @@ tags: [chapter]
 
 [TTLU-016-019]Captain Nemo inserted his cranium into its spherical headgear. Conseil and I did the same, but not without hearing the Canadian toss us a sarcastic "happy hunting." On top, the suit ended in a collar of threaded copper onto which the metal helmet was screwed. Three holes, protected by heavy glass, allowed us to see in any direction with simply a turn of the head inside the sphere. Placed on our backs, the Rouquayrol device went into operation as soon as it was in position, and for my part, I could breathe with ease.
 
-[TTLU-016-020]The Ruhmkorff lamp hanging from my belt, my rifle in hand, I was ready to go forth. But in all honesty, while imprisoned in these heavy clothes and nailed to the deck by my lead soles, it was impossible for me to take a single step.
+[TTLU-016-020]The [[ruhmkorff-apparatus|Ruhmkorff lamp]] hanging from my belt, my rifle in hand, I was ready to go forth. But in all honesty, while imprisoned in these heavy clothes and nailed to the deck by my lead soles, it was impossible for me to take a single step.
 
 [TTLU-016-021]But this circumstance had been foreseen, because I felt myself propelled into a little room adjoining the wardrobe. Towed in the same way, my companions went with me. I heard a door with watertight seals close after us, and we were surrounded by profound darkness.
 

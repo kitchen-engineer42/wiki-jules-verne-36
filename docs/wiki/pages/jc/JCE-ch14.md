@@ -33,7 +33,7 @@ tags: [chapter]
 
 [JCE-014-011]"_Kyrkoherde,_" said Hans, turning round to my uncle.
 
-[JCE-014-012]"The rector," repeated the Professor. "It seems, Axel, that this good man is the rector."
+[JCE-014-012]"The rector," repeated the Professor. "It seems, [[axel|Axel]], that this good man is the rector."
 
 [JCE-014-013]Our guide in the meanwhile was making the 'kyrkoherde' aware of the position of things; when the latter, suspending his labours for a moment, uttered a sound no doubt understood between horses and farriers, and immediately a tall and ugly hag appeared from the hut. She must have been six feet at the least. I was in great alarm lest she should treat me to the Icelandic kiss; but there was no occasion to fear, nor did she do the honours at all too gracefully.
 
@@ -47,7 +47,7 @@ tags: [chapter]
 
 [JCE-014-018]My uncle now took the opportunity to explain to Hans that it was his intention to explore the interior of the volcano to its farthest limits.
 
-[JCE-014-019]Hans merely nodded. There or elsewhere, down in the bowels of the earth, or anywhere on the surface, all was alike to him. For my own part the incidents of the journey had hitherto kept me amused, and made me forgetful of coming evils; but now my fears again were beginning to get the better of me. But what could I do? The place to resist the Professor would have been Hamburg, not the foot of Snæfell.
+[JCE-014-019]Hans merely nodded. There or elsewhere, down in the bowels of the earth, or anywhere on the surface, all was alike to him. For my own part the incidents of the journey had hitherto kept me amused, and made me forgetful of coming evils; but now my fears again were beginning to get the better of me. But what could I do? The place to resist the Professor would have been Hamburg, not the foot of [[snaefellsjokull|Snæfell]].
 
 [JCE-014-020]One thought, above all others, harassed and alarmed me; it was one calculated to shake firmer nerves than mine.
 
@@ -89,7 +89,7 @@ tags: [chapter]
 
 [JCE-014-039]'No more; that is sufficient. When science has uttered her voice, let babblers hold their peace.'
 
-[JCE-014-040]I returned to the parsonage, very crestfallen. My uncle had beaten me with the weapons of science. Still I had one hope left, and this was, that when we had reached the bottom of the crater it would be impossible, for want of a passage, to go deeper, in spite of all the Saknussemm's in Iceland.
+[JCE-014-040]I returned to the parsonage, very crestfallen. My uncle had beaten me with the weapons of science. Still I had one hope left, and this was, that when we had reached the bottom of the crater it would be impossible, for want of a passage, to go deeper, in spite of all the Saknussemm's in [[iceland|Iceland]].
 
 [JCE-014-041]I spent that whole night in one constant nightmare; in the heart of a volcano, and from the deepest depths of the earth I saw myself tossed up amongst the interplanetary spaces under the form of an eruptive rock.
 

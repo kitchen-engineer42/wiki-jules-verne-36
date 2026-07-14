@@ -17,7 +17,7 @@ tags: [chapter]
 
 [AWED-007-003]"Consul," said he, without preamble, "I have strong reasons for believing that my man is a passenger on the Mongolia." And he narrated what had just passed concerning the passport.
 
-[AWED-007-004]"Well, Mr. Fix," replied the consul, "I shall not be sorry to see the rascal's face; but perhaps he won't come here--that is, if he is the person you suppose him to be. A robber doesn't quite like to leave traces of his flight behind him; and, besides, he is not obliged to have his passport countersigned."
+[AWED-007-004]"Well, Mr. [[fix|Fix]]," replied the consul, "I shall not be sorry to see the rascal's face; but perhaps he won't come here--that is, if he is the person you suppose him to be. A robber doesn't quite like to leave traces of his flight behind him; and, besides, he is not obliged to have his passport countersigned."
 
 [AWED-007-005]"If he is as shrewd as I think he is, consul, he will come."
 
@@ -33,13 +33,13 @@ tags: [chapter]
 
 [AWED-007-011]The consul did not finish his sentence, for as he spoke a knock was heard at the door, and two strangers entered, one of whom was the servant whom Fix had met on the quay. The other, who was his master, held out his passport with the request that the consul would do him the favour to visa it. The consul took the document and carefully read it, whilst Fix observed, or rather devoured, the stranger with his eyes from a corner of the room.
 
-[AWED-007-012]"You are Mr. Phileas Fogg?" said the consul, after reading the passport.
+[AWED-007-012]"You are Mr. [[phileas-fogg|Phileas Fogg]]?" said the consul, after reading the passport.
 
 [AWED-007-013]"I am."
 
 [AWED-007-014]"And this man is your servant?"
 
-[AWED-007-015]"He is: a Frenchman, named Passepartout."
+[AWED-007-015]"He is: a Frenchman, named [[passepartout|Passepartout]]."
 
 [AWED-007-016]"You are from London?"
 
@@ -73,4 +73,4 @@ tags: [chapter]
 
 [AWED-007-031]"Left London, Wednesday, October 2nd, at 8.45 p.m. "Reached Paris, Thursday, October 3rd, at 7.20 a.m. "Left Paris, Thursday, at 8.40 a.m. "Reached Turin by Mont Cenis, Friday, October 4th, at 6.35 a.m. "Left Turin, Friday, at 7.20 a.m. "Arrived at Brindisi, Saturday, October 5th, at 4 p.m. "Sailed on the Mongolia, Saturday, at 5 p.m. "Reached Suez, Wednesday, October 9th, at 11 a.m. "Total of hours spent, 158+; or, in days, six days and a half."
 
-[AWED-007-032]These dates were inscribed in an itinerary divided into columns, indicating the month, the day of the month, and the day for the stipulated and actual arrivals at each principal point Paris, Brindisi, Suez, Bombay, Calcutta, Singapore, Hong Kong, Yokohama, San Francisco, New York, and London--from the 2nd of October to the 21st of December; and giving a space for setting down the gain made or the loss suffered on arrival at each locality. This methodical record thus contained an account of everything needed, and Mr. Fogg always knew whether he was behind-hand or in advance of his time. On this Friday, October 9th, he noted his arrival at Suez, and observed that he had as yet neither gained nor lost. He sat down quietly to breakfast in his cabin, never once thinking of inspecting the town, being one of those Englishmen who are wont to see foreign countries through the eyes of their domestics.
+[AWED-007-032]These dates were inscribed in an itinerary divided into columns, indicating the month, the day of the month, and the day for the stipulated and actual arrivals at each principal point Paris, Brindisi, Suez, Bombay, Calcutta, Singapore, [[hong-kong|Hong Kong]], Yokohama, San Francisco, New York, and London--from the 2nd of October to the 21st of December; and giving a space for setting down the gain made or the loss suffered on arrival at each locality. This methodical record thus contained an account of everything needed, and Mr. Fogg always knew whether he was behind-hand or in advance of his time. On this Friday, October 9th, he noted his arrival at Suez, and observed that he had as yet neither gained nor lost. He sat down quietly to breakfast in his cabin, never once thinking of inspecting the town, being one of those Englishmen who are wont to see foreign countries through the eyes of their domestics.

@@ -11,7 +11,7 @@ tags: [chapter]
 ---
 # Five Weeks in a Balloon — CHAPTER TWENTY-FIFTH
 
-[FWB-025-001]A Little Philosophy.--A Cloud on the Horizon.--In the Midst of a Fog.--The Strange Balloon.--An Exact View of the Victoria.--The Palm-Trees.--Traces of a Caravan.--The Well in the Midst of the Desert.
+[FWB-025-001]A Little Philosophy.--A Cloud on the Horizon.--In the Midst of a Fog.--The Strange Balloon.--An Exact View of [[victoria-balloon|the Victoria]].--The Palm-Trees.--Traces of a Caravan.--The Well in the Midst of the Desert.
 
 [FWB-025-002]On the morrow, there was the same purity of sky, the same stillness of the atmosphere. The balloon rose to an elevation of five hundred feet, but it had scarcely changed its position to the westward in any perceptible degree.
 

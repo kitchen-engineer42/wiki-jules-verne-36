@@ -21,7 +21,7 @@ tags: [chapter]
 
 [JCE-008-005]As for the Professor's reflections, they went far in advance of the swiftest express. We were alone in the carriage, but we sat in silence. My uncle examined all his pockets and his travelling bag with the minutest care. I saw that he had not forgotten the smallest matter of detail.
 
-[JCE-008-006]Amongst other documents, a sheet of paper, carefully folded, bore the heading of the Danish consulate with the signature of W. Christiensen, consul at Hamburg and the Professor's friend. With this we possessed the proper introductions to the Governor of Iceland.
+[JCE-008-006]Amongst other documents, a sheet of paper, carefully folded, bore the heading of the Danish consulate with the signature of W. Christiensen, consul at Hamburg and the Professor's friend. With this we possessed the proper introductions to the Governor of [[iceland|Iceland]].
 
 [JCE-008-007]I also observed the famous document most carefully laid up in a secret pocket in his portfolio. I bestowed a malediction upon it, and then proceeded to examine the country.
 
@@ -53,7 +53,7 @@ tags: [chapter]
 
 [JCE-008-021]"That's a lunatic asylum," said one of or travelling companions.
 
-[JCE-008-022]Very good! thought I, just the place we want to end our days in; and great as it is, that asylum is not big enough to contain all Professor Liedenbrock's madness!
+[JCE-008-022]Very good! thought I, just the place we want to end our days in; and great as it is, that asylum is not big enough to contain all [[professor-lidenbrock|Professor Liedenbrock]]'s madness!
 
 [JCE-008-023]At ten in the morning, at last, we set our feet in Copenhagen; the luggage was put upon a carriage and taken with ourselves to the Phoenix Hotel in Breda Gate. This took half an hour, for the station is out of the town. Then my uncle, after a hasty toilet, dragged me after him. The porter at the hotel could speak German and English; but the Professor, as a polyglot, questioned him in good Danish, and it was in the same language that that personage directed him to the Museum of Northern Antiquities.
 

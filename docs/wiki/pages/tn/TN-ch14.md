@@ -223,7 +223,7 @@ tags: [chapter]
 
 [TN-014-106]Sandgoist, seeing that he had once more become master of the situation, grew even more arrogant and imperious in his manner.
 
-[TN-014-107]"I want that ticket, and I intend to have it," he repeated. "In exchange for it I offer no fixed price, but I promise to extend the mortgage for one--two, or three years--Fix the date yourself, Hulda."
+[TN-014-107]"I want that ticket, and I intend to have it," he repeated. "In exchange for it I offer no fixed price, but I promise to extend the mortgage for one--two, or three years--[[fix|Fix]] the date yourself, Hulda."
 
 [TN-014-108]Hulda's heart was so deeply oppressed with anguish that she was unable to reply, but her brother answered for her.
 

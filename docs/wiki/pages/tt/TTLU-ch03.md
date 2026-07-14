@@ -22,7 +22,7 @@ tags: [chapter]
 
 [TTLU-003-005]But in the meantime I would have to look for this narwhale in the northern Pacific Ocean; which meant returning to France by way of the Antipodes.
 
-[TTLU-003-006]"Conseil!" I called in an impatient voice.
+[TTLU-003-006]"[[conseil|Conseil]]!" I called in an impatient voice.
 
 [TTLU-003-007]Conseil was my manservant. A devoted lad who went with me on all my journeys; a gallant Flemish boy whom I genuinely liked and who returned the compliment; a born stoic, punctilious on principle, habitually hardworking, rarely startled by life's surprises, very skillful with his hands, efficient in his every duty, and despite his having a name that means "counsel," never giving advice-- not even the unsolicited kind!
 

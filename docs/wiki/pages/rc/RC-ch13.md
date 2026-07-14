@@ -15,7 +15,7 @@ tags: [chapter]
 
 [RC-013-002]The engineer had no intention of taking his ship over the wondrous lands of Hindustan. To cross the Himalayas was to show how admirable was the machine he commanded; to convince those who would not be convinced was all he wished to do.
 
-[RC-013-003]But if in their hearts Uncle Prudent and his colleague could not help admiring so perfect an engine of aerial locomotion, they allowed none of their admiration to be visible. All they thought of was how to escape. They did not even admire the superb spectacle that lay beneath them as the "Albatross" flew along the river banks of the Punjab.
+[RC-013-003]But if in their hearts Uncle Prudent and his colleague could not help admiring so perfect an engine of aerial locomotion, they allowed none of their admiration to be visible. All they thought of was how to escape. They did not even admire the superb spectacle that lay beneath them as the "[[albatross|Albatross]]" flew along the river banks of the Punjab.
 
 [RC-013-004]At the base of the Himalayas there runs a marshy belt of country, the home of malarious vapors, the Terai, in which fever is endemic. But this offered no obstacle to the "Albatross," or, in any way, affected the health of her crew. She kept on without undue haste towards the angle where India joins on to China and Turkestan, and on the 29th of June, in the early hours of the morning, there opened to view the incomparable valley of Cashmere.
 
@@ -29,7 +29,7 @@ tags: [chapter]
 
 [RC-013-009]The "Albatross" did not linger over the lake through which the river flows, but continued her flight down the valley of the Hydaspes.
 
-[RC-013-010]For half an hour only did she descend to within thirty feet of the river and remained stationary. Then, by means of an india-rubber pipe, Tom Turner and his men replenished their water supply, which was drawn up by a pump worked by the accumulators. Uncle Prudent and Phil Evans stood watching the operation. The same idea occurred to each of them. They were only a few feet from the surface of the stream. They were both good swimmers. A plunge would give them their liberty; and once they had reached the river, how could Robur get them back again? For his propellers to work, he must keep at least six feet above the ground.
+[RC-013-010]For half an hour only did she descend to within thirty feet of the river and remained stationary. Then, by means of an india-rubber pipe, Tom Turner and his men replenished their water supply, which was drawn up by a pump worked by the accumulators. Uncle Prudent and Phil Evans stood watching the operation. The same idea occurred to each of them. They were only a few feet from the surface of the stream. They were both good swimmers. A plunge would give them their liberty; and once they had reached the river, how could [[robur|Robur]] get them back again? For his propellers to work, he must keep at least six feet above the ground.
 
 [RC-013-011]In a moment all the chances pro and con were run over in their heads. In a moment they were considered, and the prisoners rushed to throw themselves overboard, when several pairs of hands seized them by the shoulders.
 

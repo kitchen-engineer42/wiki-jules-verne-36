@@ -19,7 +19,7 @@ tags: [chapter]
 
 [RM-002-004]In the interior there was very little disorder on the whole. A few objects had been violently hurled up to the roof, but the most important did not seem to have suffered from the shock. Their fastenings were intact.
 
-[RM-002-005]On the movable disc, crushed down to the bottom by the smashing of the partitions and the escape of the water, three bodies lay motionless. Did Barbicane, Nicholl, and Michel Ardan still breathe? Was the projectile nothing but a metal coffin carrying three corpses into space?
+[RM-002-005]On the movable disc, crushed down to the bottom by the smashing of the partitions and the escape of the water, three bodies lay motionless. Did [[barbicane|Barbicane]], Nicholl, and [[michel-ardan|Michel Ardan]] still breathe? Was the projectile nothing but a metal coffin carrying three corpses into space?
 
 [RM-002-006]A few minutes after the departure of the bullet one of these bodies moved, stretched out its arms, lifted up its head, and succeeded in getting upon its knees. It was Michel Ardan. He felt himself, uttered a sonorous "Hum," then said--
 
@@ -85,7 +85,7 @@ tags: [chapter]
 
 [RM-002-037]"In the proportion of one-third," answered Barbicane. "This diminution is considerable, but it is so much according to my calculations. If, therefore, we have had an initial velocity of 11,000 metres, when we get past the atmosphere it will be reduced to 7,332 metres. However that may be, we have already cleared that space, and--"
 
-[RM-002-038]"And then," said Michel Ardan, "friend Nicholl has lost his two bets--four thousand dollars because the Columbiad has not burst, five thousand dollars because the projectile has risen to a greater height than six miles; therefore, Nicholl, shell out."
+[RM-002-038]"And then," said Michel Ardan, "friend Nicholl has lost his two bets--four thousand dollars because the [[columbiad|Columbiad]] has not burst, five thousand dollars because the projectile has risen to a greater height than six miles; therefore, Nicholl, shell out."
 
 [RM-002-039]"We must prove it first," answered the captain, "and pay afterwards. It is quite possible that Barbicane's calculations are exact, and that I have lost my nine thousand dollars. But another hypothesis has come into my mind, and it may cancel the wager."
 

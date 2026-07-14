@@ -21,17 +21,17 @@ tags: [chapter]
 
 [SI-013-005]Ayrton then in a few words recounted what had happened, or at least as much as he knew.
 
-[SI-013-006]The day after his arrival at the corral, on the 10th of last November, at nightfall, he was surprised by the convicts, who had scaled the palisade. They bound and gagged him; then he was led to a dark cavern, at the foot of Mount Franklin, where the convicts had taken refuge.
+[SI-013-006]The day after his arrival at the corral, on the 10th of last November, at nightfall, he was surprised by the convicts, who had scaled the palisade. They bound and gagged him; then he was led to a dark cavern, at the foot of [[mount-franklin|Mount Franklin]], where the convicts had taken refuge.
 
 [SI-013-007]His death had been decided upon, and the next day the convicts were about to kill him, when one of them recognised him, and called him by the name which he bore in Australia. The wretches had no scruples as to murdering Ayrton! They spared Ben Joyce!
 
-[SI-013-008]But from that moment Ayrton was exposed to the importunities of his former accomplices. They wished him to join them again, and relied upon his aid to enable them to gain possession of Granite House, to penetrate into that hitherto inaccessible dwelling, and to become masters of the island, after murdering the colonists!
+[SI-013-008]But from that moment Ayrton was exposed to the importunities of his former accomplices. They wished him to join them again, and relied upon his aid to enable them to gain possession of [[granite-house|Granite House]], to penetrate into that hitherto inaccessible dwelling, and to become masters of the island, after murdering the colonists!
 
 [SI-013-009]Ayrton remained firm. The once convict, now repentant and pardoned, would rather die than betray his companions. Ayrton--bound, gagged, and closely watched--lived in this cave for four months.
 
 [SI-013-010]Nevertheless the convicts had discovered the corral a short time after their arrival in the island, and since then they had subsisted on Ayrton's stores, but did not live at the corral.
 
-[SI-013-011]On the 11th of November, two of the villains, surprised by the colonists' arrival, fired at Herbert, and one of them returned, boasting of having killed one of the inhabitants of the island; but he returned alone. His companion, as is known, fell by Cyrus Harding's dagger.
+[SI-013-011]On the 11th of November, two of the villains, surprised by the colonists' arrival, fired at Herbert, and one of them returned, boasting of having killed one of the inhabitants of the island; but he returned alone. His companion, as is known, fell by [[cyrus-harding|Cyrus Harding]]'s dagger.
 
 [SI-013-012]Ayrton's anxiety and despair may be imagined when he learnt the news of Herbert's death. The settlers were now only four, and, as it seemed, at the mercy of the convicts. After this event, and during all the time that the colonists, detained by Herbert's illness, remained in the corral, the pirates did not leave their cavern, and even after they had pillaged the plateau of Prospect Heights, they did not think it prudent to abandon it.
 
@@ -77,7 +77,7 @@ tags: [chapter]
 
 [SI-013-033]"Let us search," he resumed, "and God grant that we may some day be permitted to prove to this haughty protector that he has not to deal with ungrateful people! What would I not give could we repay him, by rendering him in our turn, although at the price of our lives, some signal service!"
 
-[SI-013-034]From this day, the thoughts of the inhabitants of Lincoln Island were solely occupied with the intended search. Everything incited them to discover the answer to this enigma, an answer which could only be the name of a man endowed with a truly inexplicable, and in some degree superhuman power. In a few minutes, the settlers re-entered the house, where their influence soon restored to Ayrton his moral and physical energy.
+[SI-013-034]From this day, the thoughts of the inhabitants of [[lincoln-island|Lincoln Island]] were solely occupied with the intended search. Everything incited them to discover the answer to this enigma, an answer which could only be the name of a man endowed with a truly inexplicable, and in some degree superhuman power. In a few minutes, the settlers re-entered the house, where their influence soon restored to Ayrton his moral and physical energy.
 
 [SI-013-035]Neb and Pencroft carried the corpses of the convicts into the forest, some distance from the corral, and buried them deep in the ground.
 

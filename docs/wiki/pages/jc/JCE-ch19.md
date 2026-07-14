@@ -27,11 +27,11 @@ tags: [chapter]
 
 [JCE-019-008]The slope of this gallery was scarcely perceptible, and its sections very unequal. Sometimes we passed a series of arches succeeding each other like the majestic arcades of a gothic cathedral. Here the architects of the middle ages might have found studies for every form of the sacred art which sprang from the development of the pointed arch. A mile farther we had to bow or heads under corniced elliptic arches in the romanesque style; and massive pillars standing out from the wall bent under the spring of the vault that rested heavily upon them. In other places this magnificence gave way to narrow channels between low structures which looked like beaver's huts, and we had to creep along through extremely narrow passages.
 
-[JCE-019-009]The heat was perfectly bearable. Involuntarily I began to think of its heat when the lava thrown out by Snæfell was boiling and working through this now silent road. I imagined the torrents of fire hurled back at every angle in the gallery, and the accumulation of intensely heated vapours in the midst of this confined channel.
+[JCE-019-009]The heat was perfectly bearable. Involuntarily I began to think of its heat when the lava thrown out by [[snaefellsjokull|Snæfell]] was boiling and working through this now silent road. I imagined the torrents of fire hurled back at every angle in the gallery, and the accumulation of intensely heated vapours in the midst of this confined channel.
 
 [JCE-019-010]I only hope, thought I, that this so-called extinct volcano won't take a fancy in his old age to begin his sports again!
 
-[JCE-019-011]I abstained from communicating these fears to Professor Liedenbrock. He would never have understood them at all. He had but one idea - forward! He walked, he slid, he scrambled, he tumbled, with a persistency which one could not but admire.
+[JCE-019-011]I abstained from communicating these fears to [[professor-lidenbrock|Professor Liedenbrock]]. He would never have understood them at all. He had but one idea - forward! He walked, he slid, he scrambled, he tumbled, with a persistency which one could not but admire.
 
 [JCE-019-012]By six in the evening, after a not very fatiguing walk, we had gone two leagues south, but scarcely a quarter of a mile down.
 
@@ -41,7 +41,7 @@ tags: [chapter]
 
 [JCE-019-015]Next morning, we awoke fresh and in good spirits. The road was resumed. As the day before, we followed the path of the lava. It was impossible to tell what rocks we were passing: the tunnel, instead of tending lower, approached more and more nearly to a horizontal direction, I even fancied a slight rise. But about ten this upward tendency became so evident, and therefore so fatiguing, that I was obliged to slacken my pace.
 
-[JCE-019-016]"Well, Axel?" demanded the Professor impatiently.
+[JCE-019-016]"Well, [[axel|Axel]]?" demanded the Professor impatiently.
 
 [JCE-019-017]"Well, I cannot stand it any longer," I replied.
 
@@ -55,7 +55,7 @@ tags: [chapter]
 
 [JCE-019-022]"Going up!" said my uncle, with a shrug.
 
-[JCE-019-023]"No doubt, for the last half-hour the inclines have gone the other way, and at this rate we shall soon arrive upon the level soil of Iceland."
+[JCE-019-023]"No doubt, for the last half-hour the inclines have gone the other way, and at this rate we shall soon arrive upon the level soil of [[iceland|Iceland]]."
 
 [JCE-019-024]The Professor nodded slowly and uneasily like a man that declines to be convinced. I tried to resume the conversation. He answered not a word, and gave the signal for a start. I saw that his silence was nothing but ill-humour.
 

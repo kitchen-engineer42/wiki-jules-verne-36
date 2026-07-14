@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RC-014-001]THE AERONEF AT FULL SPEED
 
-[RC-014-002]If ever Prudent and Evans despaired on escaping from the "Albatross" it was during the two days that followed. It may be that Robur considered it more difficult to keep a watch on his prisoners while he was crossing Europe, and he knew that they had made up their minds to get away.
+[RC-014-002]If ever Prudent and Evans despaired on escaping from the "[[albatross|Albatross]]" it was during the two days that followed. It may be that [[robur|Robur]] considered it more difficult to keep a watch on his prisoners while he was crossing Europe, and he knew that they had made up their minds to get away.
 
 [RC-014-003]But any attempt to have done so would have been simply committing suicide. To jump from an express going sixty miles an hour is to risk your life, but to jump from a machine going one hundred and twenty miles an hour would be to seek your death.
 

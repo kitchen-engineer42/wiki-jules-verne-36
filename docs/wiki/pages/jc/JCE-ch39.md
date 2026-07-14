@@ -21,7 +21,7 @@ tags: [chapter]
 
 [JCE-039-005]Here was the vegetation of the tertiary period in its fullest blaze of magnificence. Tall palms, belonging to species no longer living, splendid palmacites, firs, yews, cypress trees, thujas, representatives of the conifers. were linked together by a tangled network of long climbing plants. A soft carpet of moss and hepaticas luxuriously clothed the soil. A few sparkling streams ran almost in silence under what would have been the shade of the trees, but that there was no shadow. On their banks grew tree-ferns similar to those we grow in hothouses. But a remarkable feature was the total absence of colour in all those trees, shrubs, and plants, growing without the life-giving heat and light of the sun. Everything seemed mixed-up and confounded in one uniform silver grey or light brown tint like that of fading and faded leaves. Not a green leaf anywhere, and the flowers - which were abundant enough in the tertiary period, which first gave birth to flowers - looked like brown-paper flowers, without colour or scent.
 
-[JCE-039-006]My uncle Liedenbrock ventured to penetrate under this colossal grove. I followed him, not without fear. Since nature had here provided vegetable nourishment, why should not the terrible mammals be there too? I perceived in the broad clearings left by fallen trees, decayed with age, leguminose plants, acerineæ, rubiceæ and many other eatable shrubs, dear to ruminant animals at every period. Then I observed, mingled together in confusion, trees of countries far apart on the surface of the globe. The oak and the palm were growing side by side, the Australian eucalyptus leaned against the Norwegian pine, the birch-tree of the north mingled its foliage with New Zealand kauris. It was enough to distract the most ingenious classifier of terrestrial botany.
+[JCE-039-006]My uncle [[professor-lidenbrock|Liedenbrock]] ventured to penetrate under this colossal grove. I followed him, not without fear. Since nature had here provided vegetable nourishment, why should not the terrible mammals be there too? I perceived in the broad clearings left by fallen trees, decayed with age, leguminose plants, acerineæ, rubiceæ and many other eatable shrubs, dear to ruminant animals at every period. Then I observed, mingled together in confusion, trees of countries far apart on the surface of the globe. The oak and the palm were growing side by side, the Australian eucalyptus leaned against the Norwegian pine, the birch-tree of the north mingled its foliage with New Zealand kauris. It was enough to distract the most ingenious classifier of terrestrial botany.
 
 [JCE-039-007]Suddenly I halted. I drew back my uncle.
 
@@ -35,7 +35,7 @@ tags: [chapter]
 
 [JCE-039-012]"No, I will not!" I cried. "We have no firearms. What could we do in the midst of a herd of these four-footed giants? Come away, uncle - come! No human being may with safety dare the anger of these monstrous beasts."
 
-[JCE-039-013]"No human creature?" replied my uncle in a lower voice. "You are wrong, Axel. Look, look down there! I fancy I see a living creature similar to ourselves: it is a man!"
+[JCE-039-013]"No human creature?" replied my uncle in a lower voice. "You are wrong, [[axel|Axel]]. Look, look down there! I fancy I see a living creature similar to ourselves: it is a man!"
 
 [JCE-039-014]I looked, shaking my head incredulously. But though at first I was unbelieving I had to yield to the evidence of my senses.
 

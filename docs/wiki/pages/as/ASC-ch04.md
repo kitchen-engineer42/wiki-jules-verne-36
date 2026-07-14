@@ -41,7 +41,7 @@ tags: [chapter]
 
 [ASC-004-015]It occurs to me to take a stroll among these groups. I am like a hunter beating the brushwood before getting into the hiding place. And I go among this heap of packages, looking them over as if I were a custom house officer.
 
-[ASC-004-016]A rather large deal case, covered with a tarpaulin, attracts my attention. It measures about a yard and a half in height, and a yard in width and depth. It has been placed here with the care required by these words in Russian, written on the side, "Glass--Fragile--Keep from damp," and then directions, "Top--Bottom," which have been respected. And then there is the address, "Mademoiselle Zinca Klork, Avenue Cha-Coua, Pekin, Petchili, China."
+[ASC-004-016]A rather large deal case, covered with a tarpaulin, attracts my attention. It measures about a yard and a half in height, and a yard in width and depth. It has been placed here with the care required by these words in Russian, written on the side, "Glass--Fragile--Keep from damp," and then directions, "[[top|Top]]--Bottom," which have been respected. And then there is the address, "Mademoiselle Zinca Klork, Avenue Cha-Coua, Pekin, Petchili, China."
 
 [ASC-004-017]This Zinca Klork--her name showed it--ought to be a Roumanian, and she was taking advantage of this through train on the Grand Transasiatic to get her glass forwarded. Was this an article in request at the shops of the Middle Kingdom? How otherwise could the fair Celestials admire their almond eyes and their elaborate hair?
 

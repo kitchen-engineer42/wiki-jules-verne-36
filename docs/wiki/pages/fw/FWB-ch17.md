@@ -23,7 +23,7 @@ tags: [chapter]
 
 [FWB-017-006]"Not, if it please God. I am looking for a wind that will take me back toward the equator. I will even wait for one, if necessary, and will make the balloon like a ship that casts anchor, until favorable breezes come up."
 
-[FWB-017-007]But the foresight of the doctor was not long in bringing its reward; for, after having tried different heights, the Victoria at length began to sail off to the northeastward with medium speed.
+[FWB-017-007]But the foresight of the doctor was not long in bringing its reward; for, after having tried different heights, [[victoria-balloon|the Victoria]] at length began to sail off to the northeastward with medium speed.
 
 [FWB-017-008]"We are in the right track," said the doctor, consulting his compass, "and scarcely two hundred feet from the surface; lucky circumstances for us, enabling us, as they do, to reconnoitre these new regions. When Captain Speke set out to discover Lake Ukereoue, he ascended more to the eastward in a straight line above Kazeh."
 

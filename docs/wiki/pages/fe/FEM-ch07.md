@@ -15,7 +15,7 @@ tags: [chapter]
 
 [FEM-007-002]The Cambridge Observatory had, in its memorable letter of October 7th, treated the question from an astronomical point of view--the mechanical point had still to be treated. It was then that the practical difficulties would have seemed insurmountable to any other country but America; but there they were looked upon as play.
 
-[FEM-007-003]President Barbicane had, without losing any time, nominated a working committee in the heart of the Gun Club. This committee was in three sittings to elucidate the three great questions of the cannon, the projectile, and the powder. It was composed of four members very learned upon these matters. Barbicane had the casting vote, and with him were associated General Morgan, Major Elphinstone, and, lastly, the inevitable J.T. Maston, to whom were confided the functions of secretary.
+[FEM-007-003][[barbicane|President Barbicane]] had, without losing any time, nominated a working committee in the heart of the Gun Club. This committee was in three sittings to elucidate the three great questions of the cannon, the projectile, and the powder. It was composed of four members very learned upon these matters. Barbicane had the casting vote, and with him were associated General Morgan, Major Elphinstone, and, lastly, the inevitable J.T. Maston, to whom were confided the functions of secretary.
 
 [FEM-007-004]On the 8th of October the committee met at President Barbicane's house, No. 3, Republican-street; as it was important that the stomach should not trouble so important a debate, the four members of the Gun Club took their seats at a table covered with sandwiches and teapots. J.T. Maston immediately screwed his pen on to his steel hook and the business began.
 
@@ -57,7 +57,7 @@ tags: [chapter]
 
 [FEM-007-023]"So much the more easily," answered the general, "because during the war I was a member of the Experiment Commission. The 100-pound cannon of Dahlgren, with a range of 5,000 yards, gave their projectiles an initial speed of 500 yards a second."
 
-[FEM-007-024]"Yes; and the Rodman Columbiad?" (the Americans gave the name of "Columbiad" to their enormous engines of destruction) asked the president.
+[FEM-007-024]"Yes; and the Rodman [[columbiad|Columbiad]]?" (the Americans gave the name of "Columbiad" to their enormous engines of destruction) asked the president.
 
 [FEM-007-025]"The Rodman Columbiad, tried at Fort Hamilton, near New York, hurled a projectile, weighing half a ton, a distance of six miles, with a speed of 800 yards a second, a result which neither Armstrong nor Palliser has obtained in England."
 

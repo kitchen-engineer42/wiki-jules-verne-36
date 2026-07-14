@@ -103,7 +103,7 @@ tags: [chapter]
 
 [FWB-042-046]"The Talabas! Al-Hadji's marabouts, no doubt," said the doctor.
 
-[FWB-042-047]A circle of fire hemmed the Victoria in; the crackling of the dry wood mingled with the hissing and sputtering of the green branches; the clambering vines, the foliage, all the living part of this vegetation, writhed in the destructive element. The eye took in nothing but one vast ocean of flame; the large trees stood forth in black relief in this huge furnace, their branches covered with glowing coals, while the whole blazing mass, the entire conflagration, was reflected on the clouds, and the travellers could fancy themselves enveloped in a hollow globe of fire.
+[FWB-042-047]A circle of fire hemmed [[victoria-balloon|the Victoria]] in; the crackling of the dry wood mingled with the hissing and sputtering of the green branches; the clambering vines, the foliage, all the living part of this vegetation, writhed in the destructive element. The eye took in nothing but one vast ocean of flame; the large trees stood forth in black relief in this huge furnace, their branches covered with glowing coals, while the whole blazing mass, the entire conflagration, was reflected on the clouds, and the travellers could fancy themselves enveloped in a hollow globe of fire.
 
 [FWB-042-048]"Let us escape to the ground!" shouted Kennedy, "it is our only chance of safety!"
 

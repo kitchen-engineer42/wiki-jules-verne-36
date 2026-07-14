@@ -56,7 +56,7 @@ tags: [chapter]
 
 [FC-026-022]"Perhaps some of the messengers may have fallen into the hands of the shipwrecked wanderers."
 
-[FC-026-023]"Perhaps so," replied Hobson; "I know that an old fox was taken by Captain Hatteras during his voyage of discovery, wearing a collar half worn away and hidden beneath his thick white fur. What we cannot do with the quadrupeds, we will do with the birds."
+[FC-026-023]"Perhaps so," replied Hobson; "I know that an old fox was taken by [[captain-hatteras|Captain Hatteras]] during his voyage of discovery, wearing a collar half worn away and hidden beneath his thick white fur. What we cannot do with the quadrupeds, we will do with the birds."
 
 [FC-026-024]Chatting thus and laying plans for the future, the three explorers continued to follow the coast. They noticed no change; the abrupt cliffs covered with earth and sand showed no signs of a recent alteration in the extent of the island. It was, however, to be feared that the vast sheet of ice would be worn away at the base by the action of the warm currents, and on this point Hobson was naturally anxious.
 

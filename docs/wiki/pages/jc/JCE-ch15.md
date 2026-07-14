@@ -13,13 +13,13 @@ tags: [chapter]
 
 [JCE-015-001]SNÆFELL AT LAST
 
-[JCE-015-002]Snæfell is 5,000 feet high. Its double cone forms the limit of a trachytic belt which stands out distinctly in the mountain system of the island. From our starting point we could see the two peaks boldly projected against the dark grey sky; I could see an enormous cap of snow coming low down upon the giant's brow.
+[JCE-015-002][[snaefellsjokull|Snæfell]] is 5,000 feet high. Its double cone forms the limit of a trachytic belt which stands out distinctly in the mountain system of the island. From our starting point we could see the two peaks boldly projected against the dark grey sky; I could see an enormous cap of snow coming low down upon the giant's brow.
 
 [JCE-015-003]We walked in single file, headed by the hunter, who ascended by narrow tracks, where two could not have gone abreast. There was therefore no room for conversation.
 
-[JCE-015-004]After we had passed the basaltic wall of the fiord of Stapi we passed over a vegetable fibrous peat bog, left from the ancient vegetation of this peninsula. The vast quantity of this unworked fuel would be sufficient to warm the whole population of Iceland for a century; this vast turbary measured in certain ravines had in many places a depth of seventy feet, and presented layers of carbonized remains of vegetation alternating with thinner layers of tufaceous pumice.
+[JCE-015-004]After we had passed the basaltic wall of the fiord of Stapi we passed over a vegetable fibrous peat bog, left from the ancient vegetation of this peninsula. The vast quantity of this unworked fuel would be sufficient to warm the whole population of [[iceland|Iceland]] for a century; this vast turbary measured in certain ravines had in many places a depth of seventy feet, and presented layers of carbonized remains of vegetation alternating with thinner layers of tufaceous pumice.
 
-[JCE-015-005]As a true nephew of the Professor Liedenbrock, and in spite of my dismal prospects, I could not help observing with interest the mineralogical curiosities which lay about me as in a vast museum, and I constructed for myself a complete geological account of Iceland.
+[JCE-015-005]As a true nephew of the [[professor-lidenbrock|Professor Liedenbrock]], and in spite of my dismal prospects, I could not help observing with interest the mineralogical curiosities which lay about me as in a vast museum, and I constructed for myself a complete geological account of Iceland.
 
 [JCE-015-006]This most curious island has evidently been projected from the bottom of the sea at a comparatively recent date. Possibly, it may still be subject to gradual elevation. If this is the case, its origin may well be attributed to subterranean fires. Therefore, in this case, the theory of Sir Humphry Davy, Saknussemm's document, and my uncle's theories would all go off in smoke. This hypothesis led me to examine with more attention the appearance of the surface, and I soon arrived at a conclusion as to the nature of the forces which presided at its birth.
 

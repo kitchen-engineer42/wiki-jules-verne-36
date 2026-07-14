@@ -30,7 +30,7 @@ tags: [chapter]
 
 [MI-007-009]"About a hundred and twenty fathoms, or six hundred feet."
 
-[MI-007-010]"Then," said the reporter, "Cyrus Harding must have disappeared twelve hundred feet at the most from the shore?"
+[MI-007-010]"Then," said the reporter, "[[cyrus-harding|Cyrus Harding]] must have disappeared twelve hundred feet at the most from the shore?"
 
 [MI-007-011]"About that," replied Pencroft.
 
@@ -38,7 +38,7 @@ tags: [chapter]
 
 [MI-007-013]"Also."
 
-[MI-007-014]"What astonishes me," rejoined the reporter, "while admitting that our companion has perished, is that Top has also met his death, and that neither the body of the dog nor of his master has been cast on the shore!"
+[MI-007-014]"What astonishes me," rejoined the reporter, "while admitting that our companion has perished, is that [[top|Top]] has also met his death, and that neither the body of the dog nor of his master has been cast on the shore!"
 
 [MI-007-015]"It is not astonishing, with such a heavy sea," replied the sailor. "Besides, it is possible that currents have carried them farther down the coast."
 

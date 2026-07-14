@@ -13,7 +13,7 @@ tags: [chapter]
 
 [RM-013-001]LUNAR LANDSCAPES.
 
-[RM-013-002]At half-past two in the morning the bullet was over the 30th lunar parallel at an effective distance of 1,000 kilometres, reduced by the optical instruments to ten. It still seemed impossible that it could reach any point on the disc. Its movement of translation, relatively slow, was inexplicable to President Barbicane. At that distance from the moon it ought to have been fast in order to maintain it against the power of attraction. The reason of that phenomenon was also inexplicable; besides, time was wanting to seek for the cause. The reliefs on the lunar surface flew beneath their eyes, and they did not want to lose a single detail.
+[RM-013-002]At half-past two in the morning the bullet was over the 30th lunar parallel at an effective distance of 1,000 kilometres, reduced by the optical instruments to ten. It still seemed impossible that it could reach any point on the disc. Its movement of translation, relatively slow, was inexplicable to [[barbicane|President Barbicane]]. At that distance from the moon it ought to have been fast in order to maintain it against the power of attraction. The reason of that phenomenon was also inexplicable; besides, time was wanting to seek for the cause. The reliefs on the lunar surface flew beneath their eyes, and they did not want to lose a single detail.
 
 [RM-013-003]The disc appeared through the telescopes at a distance of two and a half leagues. If an aëronaut were taken up that distance from the earth, what would he distinguish upon its surface? No one can tell, as the highest ascensions have not exceeded 8,000 metres.
 
@@ -27,7 +27,7 @@ tags: [chapter]
 
 [RM-013-008]He was not more fortunate about another peculiarity of the disc, for he could not find out its cause. The peculiarity was the following one:--
 
-[RM-013-009]Michel Ardan was watching near the president when he remarked some long white lines brilliantly lighted up by the direct rays of the sun. It was a succession of luminous furrows, very different from the radiation that Copernicus had presented. They ran in parallel lines.
+[RM-013-009][[michel-ardan|Michel Ardan]] was watching near the president when he remarked some long white lines brilliantly lighted up by the direct rays of the sun. It was a succession of luminous furrows, very different from the radiation that Copernicus had presented. They ran in parallel lines.
 
 [RM-013-010]Michel, with his usual readiness, exclaimed--
 

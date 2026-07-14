@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FEM-021-001]HOW A FRENCHMAN SETTLES AN AFFAIR.
 
-[FEM-021-002]Whilst the duel was being discussed between the president and the captain--a terrible and savage duel in which each adversary became a man-hunter--Michel Ardan was resting after the fatigues of his triumph. Resting is evidently not the right expression, for American beds rival in hardness tables of marble or granite.
+[FEM-021-002]Whilst the duel was being discussed between the president and the captain--a terrible and savage duel in which each adversary became a man-hunter--[[michel-ardan|Michel Ardan]] was resting after the fatigues of his triumph. Resting is evidently not the right expression, for American beds rival in hardness tables of marble or granite.
 
 [FEM-021-003]Ardan slept badly, turning over and over between the _serviettes_ that served him for sheets, and he was thinking of installing a more comfortable bed in his projectile when a violent noise startled him from his slumbers. Thundering blows shook his door. They seemed to be administered with an iron instrument. Shouts were heard in this racket, rather too early to be agreeable.
 
@@ -23,9 +23,9 @@ tags: [chapter]
 
 [FEM-021-006]The secretary of the Gun Club bounded into the room. A bomb would not have entered with less ceremony.
 
-[FEM-021-007]"Yesterday evening," exclaimed J.T. Maston _ex abrupto_, "our president was publicly insulted during the meeting! He has challenged his adversary, who is no other than Captain Nicholl! They are going to fight this morning in Skersnaw Wood! I learnt it all from Barbicane himself! If he is killed our project will be at an end! This duel must be prevented! Now one man only can have enough empire over Barbicane to stop it, and that man is Michel Ardan."
+[FEM-021-007]"Yesterday evening," exclaimed J.T. Maston _ex abrupto_, "our president was publicly insulted during the meeting! He has challenged his adversary, who is no other than Captain Nicholl! They are going to fight this morning in Skersnaw Wood! I learnt it all from [[barbicane|Barbicane]] himself! If he is killed our project will be at an end! This duel must be prevented! Now one man only can have enough empire over Barbicane to stop it, and that man is Michel Ardan."
 
-[FEM-021-008]Whilst J.T. Maston was speaking thus, Michel Ardan, giving up interrupting him, jumped into his vast trousers, and in less than two minutes after the two friends were rushing as fast as they could go towards the suburbs of Tampa Town.
+[FEM-021-008]Whilst J.T. Maston was speaking thus, Michel Ardan, giving up interrupting him, jumped into his vast trousers, and in less than two minutes after the two friends were rushing as fast as they could go towards the suburbs of [[tampa-town|Tampa Town]].
 
 [FEM-021-009]It was during this rapid course that Maston told Ardan the state of the case. He told him the real causes of the enmity between Barbicane and Nicholl, how that enmity was of old date, why until then, thanks to mutual friends, the president and the captain had never met; he added that it was solely a rivalry between iron-plate and bullet; and, lastly, that the scene of the meeting had only been an occasion long sought by Nicholl to satisfy an old grudge.
 

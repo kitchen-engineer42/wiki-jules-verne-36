@@ -13,11 +13,11 @@ tags: [chapter]
 
 [RC-020-001]THE WRECK OF THE ALBATROSS
 
-[RC-020-002]It was then twenty minutes after midnight. Five or six shots had been fired from the aeronef. Uncle Prudent and Frycollin, supporting Phil Evans, had taken shelter among the rocks. They had not been hit. For the moment there was nothing to fear.
+[RC-020-002]It was then twenty minutes after midnight. Five or six shots had been fired from the [[albatross|aeronef]]. Uncle Prudent and Frycollin, supporting Phil Evans, had taken shelter among the rocks. They had not been hit. For the moment there was nothing to fear.
 
 [RC-020-003]As the "Albatross" drifted off from Pitt Island she rose obliquely to nearly three thousand feet. It was necessary to increase the ascensional power to prevent her falling into the sea.
 
-[RC-020-004]When the look-out man had got clear of his gag and shouted, Robur and Tom Turner had rushed up to him and torn off his bandage. The mate had then run back to the stern cabin. It was empty! Tapage had searched Frycollin's cabin, and that also was empty.
+[RC-020-004]When the look-out man had got clear of his gag and shouted, [[robur|Robur]] and Tom Turner had rushed up to him and torn off his bandage. The mate had then run back to the stern cabin. It was empty! Tapage had searched Frycollin's cabin, and that also was empty.
 
 [RC-020-005]When he saw that the prisoners had escaped, Robur was seized with a paroxysm of anger. The escape meant the revelation of his secret to the world. He had not been much concerned at the document thrown overboard while they were crossing Europe, for there were so many chances that it would be lost in its fall; but now!
 

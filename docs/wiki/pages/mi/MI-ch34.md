@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 12
 
-[MI-034-001]In the evening the hunters returned, having enjoyed good sport, and being literally loaded with game; indeed, they had as much as four men could possibly carry. Top wore a necklace of teal and Jup wreaths of snipe round his body.
+[MI-034-001]In the evening the hunters returned, having enjoyed good sport, and being literally loaded with game; indeed, they had as much as four men could possibly carry. [[top|Top]] wore a necklace of teal and Jup wreaths of snipe round his body.
 
 [MI-034-002]"Here, master," cried Neb; "here's something to employ our time! Preserved and made into pies we shall have a welcome store! But I must have some one to help me. I count on you, Pencroft."
 
@@ -30,9 +30,9 @@ tags: [chapter]
 
 [MI-034-009]And so the next day Gideon Spilett became Neb's assistant and was installed in his culinary laboratory. The engineer had previously made known to him the result of the exploration which he had made the day before, and on this point the reporter shared Harding's opinion, that although he had found nothing, a secret still remained to be discovered!
 
-[MI-034-010]The frost continued for another week, and the settlers did not leave Granite House unless to look after the poultry-yard. The dwelling was filled with appetizing odors, which were emitted from the learned manipulation of Neb and the reporter. But all the results of the chase were not made into preserved provisions; and as the game kept perfectly in the intense cold, wild duck and other fowl were eaten fresh, and declared superior to all other aquatic birds in the known world.
+[MI-034-010]The frost continued for another week, and the settlers did not leave [[granite-house|Granite House]] unless to look after the poultry-yard. The dwelling was filled with appetizing odors, which were emitted from the learned manipulation of Neb and the reporter. But all the results of the chase were not made into preserved provisions; and as the game kept perfectly in the intense cold, wild duck and other fowl were eaten fresh, and declared superior to all other aquatic birds in the known world.
 
-[MI-034-011]During this week, Pencroft, aided by Herbert, who handled the sailmaker's needle with much skill, worked with such energy that the sails of the vessel were finished. There was no want of cordage. Thanks to the rigging which had been discovered with the case of the balloon, the ropes and cables from the net were all of good quality, and the sailor turned them all to account. To the sails were attached strong bolt ropes, and there still remained enough from which to make the halyards, shrouds, and sheets, etc. The blocks were manufactured by Cyrus Harding under Pencroft's directions by means of the turning lathe. It therefore happened that the rigging was entirely prepared before the vessel was finished. Pencroft also manufactured a flag, that flag so dear to every true American, containing the stars and stripes of their glorious Union. The colors for it were supplied from certain plants used in dyeing, and which were very abundant in the island; only to the thirty-seven stars, representing the thirty-seven States of the Union, which shine on the American flag, the sailor added a thirty-eighth, the star of "the State of Lincoln," for he considered his island as already united to the great republic. "And," said he, "it is so already in heart, if not in deed!"
+[MI-034-011]During this week, Pencroft, aided by Herbert, who handled the sailmaker's needle with much skill, worked with such energy that the sails of the vessel were finished. There was no want of cordage. Thanks to the rigging which had been discovered with the case of the balloon, the ropes and cables from the net were all of good quality, and the sailor turned them all to account. To the sails were attached strong bolt ropes, and there still remained enough from which to make the halyards, shrouds, and sheets, etc. The blocks were manufactured by [[cyrus-harding|Cyrus Harding]] under Pencroft's directions by means of the turning lathe. It therefore happened that the rigging was entirely prepared before the vessel was finished. Pencroft also manufactured a flag, that flag so dear to every true American, containing the stars and stripes of their glorious Union. The colors for it were supplied from certain plants used in dyeing, and which were very abundant in the island; only to the thirty-seven stars, representing the thirty-seven States of the Union, which shine on the American flag, the sailor added a thirty-eighth, the star of "the State of Lincoln," for he considered his island as already united to the great republic. "And," said he, "it is so already in heart, if not in deed!"
 
 [MI-034-012]In the meantime, the flag was hoisted at the central window of Granite House, and the settlers saluted it with three cheers.
 
@@ -76,7 +76,7 @@ tags: [chapter]
 
 [MI-034-032]"Forward!" shouted the sailor.
 
-[MI-034-033]And all arming themselves with hatchets, carbines, and revolvers, threw themselves into the lift and soon set foot on the shore.
+[MI-034-033]And all arming themselves with hatchets, carbines, and revolvers, threw themselves into [[granite-house-lift|the lift]] and soon set foot on the shore.
 
 [MI-034-034]Colpeos are dangerous animals when in great numbers and irritated by hunger, nevertheless the colonists did not hesitate to throw themselves into the midst of the troop, and their first shots vividly lighting up the darkness made their assailants draw back.
 
@@ -174,7 +174,7 @@ tags: [chapter]
 
 [MI-034-081]The wind blowing out of Union Bay she ran before it, and thus showed her owners, much to their satisfaction, that she possessed a remarkably fast pair of heels, according to Pencroft's mode of speaking. After having doubled Flotsam Point and Claw Cape, the captain kept her close hauled, so as to sail along the southern coast of the island, when it was found she sailed admirably within five points of the wind. All hands were enchanted, they had a good vessel, which, in case of need, would be of great service to them, and with fine weather and a fresh breeze the voyage promised to be charming.
 
-[MI-034-082]Pencroft now stood off the shore, three or four miles across from Port Balloon. The island then appeared in all its extent and under a new aspect, with the varied panorama of its shore from Claw Cape to Reptile End, the forests in which dark firs contrasted with the young foliage of other trees and overlooked the whole, and Mount Franklin whose lofty head was still whitened with snow.
+[MI-034-082]Pencroft now stood off the shore, three or four miles across from Port Balloon. The island then appeared in all its extent and under a new aspect, with the varied panorama of its shore from Claw Cape to Reptile End, the forests in which dark firs contrasted with the young foliage of other trees and overlooked the whole, and [[mount-franklin|Mount Franklin]] whose lofty head was still whitened with snow.
 
 [MI-034-083]"How beautiful it is!" cried Herbert.
 
@@ -210,7 +210,7 @@ tags: [chapter]
 
 [MI-034-099]"One companion will be enough for me."
 
-[MI-034-100]"Even so," replied the engineer, "you will risk depriving the colony of Lincoln Island of two settlers out of five."
+[MI-034-100]"Even so," replied the engineer, "you will risk depriving the colony of [[lincoln-island|Lincoln Island]] of two settlers out of five."
 
 [MI-034-101]"Out of six," answered Pencroft; "you forget Jup."
 

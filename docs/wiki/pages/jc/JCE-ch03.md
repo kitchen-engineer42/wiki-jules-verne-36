@@ -63,7 +63,7 @@ tags: [chapter]
 
 [JCE-003-026]My comment on this was a half-suppressed "Oh!"
 
-[JCE-003-027]"Nor you either, Axel," he added.
+[JCE-003-027]"Nor you either, [[axel|Axel]]," he added.
 
 [JCE-003-028]"The deuce!" said I to myself; "then it is lucky I have eaten two dinners to-day!"
 

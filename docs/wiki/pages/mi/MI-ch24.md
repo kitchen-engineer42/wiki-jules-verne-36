@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 2
 
-[MI-024-001]On the 9th of October the bark canoe was entirely finished. Pencroft had kept his promise, and a light boat, the shell of which was joined together by the flexible twigs of the crejimba, had been constructed in five days. A seat in the stern, a second seat in the middle to preserve the equilibrium, a third seat in the bows, rowlocks for the two oars, a scull to steer with, completed the little craft, which was twelve feet long, and did not weigh more than two hundred pounds. The operation of launching it was extremely simple. The canoe was carried to the beach and laid on the sand before Granite House, and the rising tide floated it. Pencroft, who leaped in directly, maneuvered it with the scull and declared it to be just the thing for the purpose to which they wished to put it.
+[MI-024-001]On the 9th of October the bark canoe was entirely finished. Pencroft had kept his promise, and a light boat, the shell of which was joined together by the flexible twigs of the crejimba, had been constructed in five days. A seat in the stern, a second seat in the middle to preserve the equilibrium, a third seat in the bows, rowlocks for the two oars, a scull to steer with, completed the little craft, which was twelve feet long, and did not weigh more than two hundred pounds. The operation of launching it was extremely simple. The canoe was carried to the beach and laid on the sand before [[granite-house|Granite House]], and the rising tide floated it. Pencroft, who leaped in directly, maneuvered it with the scull and declared it to be just the thing for the purpose to which they wished to put it.
 
 [MI-024-002]"Hurrah!" cried the sailor, who did not disdain to celebrate thus his own triumph. "With this we could go round--"
 
@@ -32,7 +32,7 @@ tags: [chapter]
 
 [MI-024-010]Neb took one of the oars, Herbert the other, and Pencroft remained in the stern in order to use the scull.
 
-[MI-024-011]The sailor first crossed the channel, and steered close to the southern point of the islet. A light breeze blew from the south. No roughness was found either in the channel or the green sea. A long swell, which the canoe scarcely felt, as it was heavily laden, rolled regularly over the surface of the water. They pulled out about half a mile distant from the shore, that they might have a good view of Mount Franklin.
+[MI-024-011]The sailor first crossed the channel, and steered close to the southern point of the islet. A light breeze blew from the south. No roughness was found either in the channel or the green sea. A long swell, which the canoe scarcely felt, as it was heavily laden, rolled regularly over the surface of the water. They pulled out about half a mile distant from the shore, that they might have a good view of [[mount-franklin|Mount Franklin]].
 
 [MI-024-012]Pencroft afterwards returned towards the mouth of the river. The boat then skirted the shore, which, extending to the extreme point, hid all Tadorn's Fens.
 
@@ -42,7 +42,7 @@ tags: [chapter]
 
 [MI-024-015]The canoe, impelled by the two oars, advanced without difficulty. Gideon Spilett, pencil in one hand and notebook in the other, sketched the coast in bold strokes. Neb, Herbert, and Pencroft chatted, while examining this part of their domain, which was new to them, and, in proportion as the canoe proceeded towards the south, the two Mandible Capes appeared to move, and surround Union Bay more closely.
 
-[MI-024-016]As to Cyrus Harding, he did not speak; he simply gazed, and by the mistrust which his look expressed, it appeared that he was examining some strange country.
+[MI-024-016]As to [[cyrus-harding|Cyrus Harding]], he did not speak; he simply gazed, and by the mistrust which his look expressed, it appeared that he was examining some strange country.
 
 [MI-024-017]In the meantime, after a voyage of three-quarters of an hour, the canoe reached the extremity of the point, and Pencroft was preparing to return, when Herbert, rising, pointed to a black object, saying,--
 
@@ -156,7 +156,7 @@ tags: [chapter]
 
 [MI-024-072]There was nothing, therefore, on these different articles by which they could be traced, and nothing consequently of a nature to show the nationality of the vessel which must have recently passed these shores.
 
-[MI-024-073]But, wherever the chest might have come from, it was a treasure to the settlers on Lincoln Island. Till then, by making use of the productions of nature, they had created everything for themselves, and, thanks to their intelligence, they had managed without difficulty. But did it not appear as if Providence had wished to reward them by sending them these productions of human industry? Their thanks rose unanimously to Heaven.
+[MI-024-073]But, wherever the chest might have come from, it was a treasure to the settlers on [[lincoln-island|Lincoln Island]]. Till then, by making use of the productions of nature, they had created everything for themselves, and, thanks to their intelligence, they had managed without difficulty. But did it not appear as if Providence had wished to reward them by sending them these productions of human industry? Their thanks rose unanimously to Heaven.
 
 [MI-024-074]However, one of them was not quite satisfied: it was Pencroft. It appeared that the chest did not contain something which he evidently held in great esteem, for in proportion as they approached the bottom of the box, his hurrahs diminished in heartiness, and, the inventory finished, he was heard to mutter these words:--"That's all very fine, but you can see that there is nothing for me in that box!"
 

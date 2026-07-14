@@ -47,7 +47,7 @@ tags: [chapter]
 
 [ACH-054-018]"In so high a latitude?"
 
-[ACH-054-019]"Why not? Is not Iceland a volcanic island---indeed, almost made of volcanoes, one might say?"
+[ACH-054-019]"Why not? Is not [[iceland|Iceland]] a volcanic island---indeed, almost made of volcanoes, one might say?"
 
 [ACH-054-020]"Well, has not our famous countryman, James Ross, affirmed the existence of two active volcanoes, the Erebus and the Terror, on the Southern Continent, in longitude 170° and latitude 78°? Why, then, should not volcanoes be found near the North Pole?"
 

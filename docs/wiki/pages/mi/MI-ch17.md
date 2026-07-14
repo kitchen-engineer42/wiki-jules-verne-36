@@ -16,7 +16,7 @@ tags: [chapter]
 
 [MI-017-002]The engineer and the reporter soon reached the little beach on which the dugong had been stranded. Already flocks of birds had attacked the mass of flesh, and had to be driven away with stones, for Cyrus wished to keep the fat for the use of the colony. As to the animal's flesh it would furnish excellent food, for in the islands of the Malay Archipelago and elsewhere, it is especially reserved for the table of the native princes. But that was Neb's affair.
 
-[MI-017-003]At this moment Cyrus Harding had other thoughts. He was much interested in the incident of the day before. He wished to penetrate the mystery of that submarine combat, and to ascertain what monster could have given the dugong so strange a wound. He remained at the edge of the lake, looking, observing; but nothing appeared under the tranquil waters, which sparkled in the first rays of the rising sun.
+[MI-017-003]At this moment [[cyrus-harding|Cyrus Harding]] had other thoughts. He was much interested in the incident of the day before. He wished to penetrate the mystery of that submarine combat, and to ascertain what monster could have given the dugong so strange a wound. He remained at the edge of the lake, looking, observing; but nothing appeared under the tranquil waters, which sparkled in the first rays of the rising sun.
 
 [MI-017-004]At the beach, on which lay the body of the dugong, the water was tolerably shallow, but from this point the bottom of the lake sloped gradually, and it was probable that the depth was considerable in the center. The lake might be considered as a large center basin, which was filled by the water from the Red Creek.
 
@@ -24,7 +24,7 @@ tags: [chapter]
 
 [MI-017-006]"No, my dear Spilett," replied the engineer, "and I really do not know how to account for the incident of yesterday."
 
-[MI-017-007]"I acknowledge," returned Spilett, "that the wound given this creature is, at least, very strange, and I cannot explain either how Top was so vigorously cast up out of the water. One could have thought that a powerful arm hurled him up, and that the same arm with a dagger killed the dugong!"
+[MI-017-007]"I acknowledge," returned Spilett, "that the wound given this creature is, at least, very strange, and I cannot explain either how [[top|Top]] was so vigorously cast up out of the water. One could have thought that a powerful arm hurled him up, and that the same arm with a dagger killed the dugong!"
 
 [MI-017-008]"Yes," replied the engineer, who had become thoughtful; "there is something there that I cannot understand. But do you better understand either, my dear Spilett, in what way I was saved myself--how I was drawn from the waves, and carried to the downs? No! Is it not true? Now, I feel sure that there is some mystery there, which, doubtless, we shall discover some day. Let us observe, but do not dwell on these singular incidents before our companions. Let us keep our remarks to ourselves, and continue our work."
 
@@ -98,7 +98,7 @@ tags: [chapter]
 
 [MI-017-043]But this was not all. Cyrus Harding still needed, in view of his future preparation, another substance, nitrate of potash, which is better known under the name of salt niter, or of saltpeter.
 
-[MI-017-044]Cyrus Harding could have manufactured this substance by treating the carbonate of potash, which would be easily extracted from the cinders of the vegetables, by azotic acid. But this acid was wanting, and he would have been in some difficulty, if nature had not happily furnished the saltpeter, without giving them any other trouble than that of picking it up. Herbert found a vein of it at the foot of Mount Franklin, and they had nothing to do but purify this salt.
+[MI-017-044]Cyrus Harding could have manufactured this substance by treating the carbonate of potash, which would be easily extracted from the cinders of the vegetables, by azotic acid. But this acid was wanting, and he would have been in some difficulty, if nature had not happily furnished the saltpeter, without giving them any other trouble than that of picking it up. Herbert found a vein of it at the foot of [[mount-franklin|Mount Franklin]], and they had nothing to do but purify this salt.
 
 [MI-017-045]These different works lasted a week. They were finished before the transformation of the sulphuret into sulphate of iron had been accomplished. During the following days the settlers had time to construct a furnace of bricks of a particular arrangement, to serve for the distillation of the sulphate or iron when it had been obtained. All this was finished about the 18th of May, nearly at the time when the chemical transformation terminated. Gideon Spilett, Herbert, Neb, and Pencroft, skillfully directed by the engineer, had become most clever workmen. Before all masters, necessity is the one most listened to, and who teaches the best.
 
@@ -120,9 +120,9 @@ tags: [chapter]
 
 [MI-017-054]This last operation Cyrus Harding had made alone, in a retired place, at a distance from the Chimneys, for he feared the danger of an explosion, and when he showed a bottle of this liquid to his friends, he contented himself with saying,--
 
-[MI-017-055]"Here is nitro-glycerine!"
+[MI-017-055]"Here is [[nitroglycerine|nitro-glycerine]]!"
 
-[MI-017-056]It was really this terrible production, of which the explosive power is perhaps tenfold that of ordinary powder, and which has already caused so many accidents. However, since a way has been found to transform it into dynamite, that is to say, to mix with it some solid substance, clay or sugar, porous enough to hold it, the dangerous liquid has been used with some security. But dynamite was not yet known at the time when the settlers worked on Lincoln Island.
+[MI-017-056]It was really this terrible production, of which the explosive power is perhaps tenfold that of ordinary powder, and which has already caused so many accidents. However, since a way has been found to transform it into dynamite, that is to say, to mix with it some solid substance, clay or sugar, porous enough to hold it, the dangerous liquid has been used with some security. But dynamite was not yet known at the time when the settlers worked on [[lincoln-island|Lincoln Island]].
 
 [MI-017-057]"And is it that liquid that is going to blow up our rocks?" said Pencroft incredulously.
 

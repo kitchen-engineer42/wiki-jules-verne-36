@@ -40,11 +40,11 @@ tags: [chapter]
 
 [MI-008-014]But the explanation would come later. When Cyrus was able to speak he would say what had happened. For the present the question was, how to recall him to life, and it appeared likely that rubbing would bring this about; so they set to work with the sailor's jersey.
 
-[MI-008-015]The engineer, revived by this rude shampooing, moved his arm slightly and began to breathe more regularly. He was sinking from exhaustion, and certainly, had not the reporter and his companions arrived, it would have been all over with Cyrus Harding.
+[MI-008-015]The engineer, revived by this rude shampooing, moved his arm slightly and began to breathe more regularly. He was sinking from exhaustion, and certainly, had not the reporter and his companions arrived, it would have been all over with [[cyrus-harding|Cyrus Harding]].
 
 [MI-008-016]"You thought your master was dead, didn't you?" said the seaman to Neb.
 
-[MI-008-017]"Yes! quite dead!" replied Neb, "and if Top had not found you, and brought you here, I should have buried my master, and then have lain down on his grave to die!"
+[MI-008-017]"Yes! quite dead!" replied Neb, "and if [[top|Top]] had not found you, and brought you here, I should have buried my master, and then have lain down on his grave to die!"
 
 [MI-008-018]It had indeed been a narrow escape for Cyrus Harding!
 

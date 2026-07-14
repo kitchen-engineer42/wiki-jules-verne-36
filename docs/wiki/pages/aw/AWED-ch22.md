@@ -13,11 +13,11 @@ tags: [chapter]
 
 [AWED-022-001]IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE'S POCKET
 
-[AWED-022-002]The Carnatic, setting sail from Hong Kong at half-past six on the 7th of November, directed her course at full steam towards Japan. She carried a large cargo and a well-filled cabin of passengers. Two state-rooms in the rear were, however, unoccupied--those which had been engaged by Phileas Fogg.
+[AWED-022-002]The Carnatic, setting sail from [[hong-kong|Hong Kong]] at half-past six on the 7th of November, directed her course at full steam towards Japan. She carried a large cargo and a well-filled cabin of passengers. Two state-rooms in the rear were, however, unoccupied--those which had been engaged by [[phileas-fogg|Phileas Fogg]].
 
 [AWED-022-003]The next day a passenger with a half-stupefied eye, staggering gait, and disordered hair, was seen to emerge from the second cabin, and to totter to a seat on deck.
 
-[AWED-022-004]It was Passepartout; and what had happened to him was as follows: Shortly after Fix left the opium den, two waiters had lifted the unconscious Passepartout, and had carried him to the bed reserved for the smokers. Three hours later, pursued even in his dreams by a fixed idea, the poor fellow awoke, and struggled against the stupefying influence of the narcotic. The thought of a duty unfulfilled shook off his torpor, and he hurried from the abode of drunkenness. Staggering and holding himself up by keeping against the walls, falling down and creeping up again, and irresistibly impelled by a kind of instinct, he kept crying out, "The Carnatic! the Carnatic!"
+[AWED-022-004]It was [[passepartout|Passepartout]]; and what had happened to him was as follows: Shortly after [[fix|Fix]] left the opium den, two waiters had lifted the unconscious Passepartout, and had carried him to the bed reserved for the smokers. Three hours later, pursued even in his dreams by a fixed idea, the poor fellow awoke, and struggled against the stupefying influence of the narcotic. The thought of a duty unfulfilled shook off his torpor, and he hurried from the abode of drunkenness. Staggering and holding himself up by keeping against the walls, falling down and creeping up again, and irresistibly impelled by a kind of instinct, he kept crying out, "The Carnatic! the Carnatic!"
 
 [AWED-022-005]The steamer lay puffing alongside the quay, on the point of starting. Passepartout had but few steps to go; and, rushing upon the plank, he crossed it, and fell unconscious on the deck, just as the Carnatic was moving off. Several sailors, who were evidently accustomed to this sort of scene, carried the poor Frenchman down into the second cabin, and Passepartout did not wake until they were one hundred and fifty miles away from China. Thus he found himself the next morning on the deck of the Carnatic, and eagerly inhaling the exhilarating sea-breeze. The pure air sobered him. He began to collect his sense, which he found a difficult task; but at last he recalled the events of the evening before, Fix's revelation, and the opium-house.
 
@@ -27,7 +27,7 @@ tags: [chapter]
 
 [AWED-022-008]Should he divulge Fix's real errand to his master? Would it do to tell the part the detective was playing. Would it not be better to wait until Mr. Fogg reached London again, and then impart to him that an agent of the metropolitan police had been following him round the world, and have a good laugh over it? No doubt; at least, it was worth considering. The first thing to do was to find Mr. Fogg, and apologise for his singular behaviour.
 
-[AWED-022-009]Passepartout got up and proceeded, as well as he could with the rolling of the steamer, to the after-deck. He saw no one who resembled either his master or Aouda. "Good!" muttered he; "Aouda has not got up yet, and Mr. Fogg has probably found some partners at whist."
+[AWED-022-009]Passepartout got up and proceeded, as well as he could with the rolling of the steamer, to the after-deck. He saw no one who resembled either his master or [[aouda|Aouda]]. "Good!" muttered he; "Aouda has not got up yet, and Mr. Fogg has probably found some partners at whist."
 
 [AWED-022-010]He descended to the saloon. Mr. Fogg was not there. Passepartout had only, however, to ask the purser the number of his master's state-room. The purser replied that he did not know any passenger by the name of Fogg.
 

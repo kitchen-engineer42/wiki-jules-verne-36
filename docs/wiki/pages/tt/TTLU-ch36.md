@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-036-001]Sperm Whales and Baleen Whales
 
-[TTLU-036-002]DURING THE NIGHT of March 13-14, the Nautilus resumed its southward heading. Once it was abreast of Cape Horn, I thought it would strike west of the cape, make for Pacific seas, and complete its tour of the world. It did nothing of the sort and kept moving toward the southernmost regions. So where was it bound? The pole? That was insanity. I was beginning to think that the captain's recklessness more than justified Ned Land's worst fears.
+[TTLU-036-002]DURING THE NIGHT of March 13-14, the [[nautilus|Nautilus]] resumed its southward heading. Once it was abreast of Cape Horn, I thought it would strike west of the cape, make for Pacific seas, and complete its tour of the world. It did nothing of the sort and kept moving toward the southernmost regions. So where was it bound? The pole? That was insanity. I was beginning to think that the captain's recklessness more than justified [[ned-land|Ned Land]]'s worst fears.
 
 [TTLU-036-003]For a good while the Canadian had said nothing more to me about his escape plans. He had become less sociable, almost sullen. I could see how heavily this protracted imprisonment was weighing on him. I could feel the anger building in him. Whenever he encountered the captain, his eyes would flicker with dark fire, and I was in constant dread that his natural vehemence would cause him to do something rash.
 
-[TTLU-036-004]That day, March 14, he and Conseil managed to find me in my stateroom. I asked them the purpose of their visit.
+[TTLU-036-004]That day, March 14, he and [[conseil|Conseil]] managed to find me in my stateroom. I asked them the purpose of their visit.
 
 [TTLU-036-005]"To put a simple question to you, sir," the Canadian answered me.
 
@@ -74,7 +74,7 @@ tags: [chapter]
 
 [TTLU-036-031]Conseil had said the true word.
 
-[TTLU-036-032]"Even so," he went on, "Captain Nemo can't go south forever! He'll surely have to stop, if only at the Ice Bank, and he'll return to the seas of civilization! Then it will be time to resume Ned Land's plans."
+[TTLU-036-032]"Even so," he went on, "[[captain-nemo|Captain Nemo]] can't go south forever! He'll surely have to stop, if only at the Ice Bank, and he'll return to the seas of civilization! Then it will be time to resume Ned Land's plans."
 
 [TTLU-036-033]The Canadian shook his head, passed his hand over his brow, made no reply, and left us.
 

@@ -59,7 +59,7 @@ tags: [chapter]
 
 [FC-015-024]"Well, there are riot many of them !" said Mrs Barnett.
 
-[FC-015-025]"No, madam," replied Jaspar, "but they are not so very rare either; they are to be found in Jan Mayen's Land, the Aleutian Isles, Kamtchatka, Russian America, and Iceland, as well as in the Antarctic circle, in Tierra del Fuego, and Australasia. They are the chimneys of the great furnace in the centre of the earth, where Nature makes her chemical experiments, and it appears to me that the Creator of all things has taken care to place these safety-valves wherever they were most needed."
+[FC-015-025]"No, madam," replied Jaspar, "but they are not so very rare either; they are to be found in Jan Mayen's Land, the Aleutian Isles, Kamtchatka, Russian America, and [[iceland|Iceland]], as well as in the Antarctic circle, in Tierra del Fuego, and Australasia. They are the chimneys of the great furnace in the centre of the earth, where Nature makes her chemical experiments, and it appears to me that the Creator of all things has taken care to place these safety-valves wherever they were most needed."
 
 [FC-015-026]"I suppose so," replied the Sergeant; "and yet it does seem very strange to find them in this icy climate."
 

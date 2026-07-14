@@ -13,17 +13,17 @@ tags: [chapter]
 
 [AWED-020-001]IN WHICH FIX COMES FACE TO FACE WITH PHILEAS FOGG
 
-[AWED-020-002]While these events were passing at the opium-house, Mr. Fogg, unconscious of the danger he was in of losing the steamer, was quietly escorting Aouda about the streets of the English quarter, making the necessary purchases for the long voyage before them. It was all very well for an Englishman like Mr. Fogg to make the tour of the world with a carpet-bag; a lady could not be expected to travel comfortably under such conditions. He acquitted his task with characteristic serenity, and invariably replied to the remonstrances of his fair companion, who was confused by his patience and generosity:
+[AWED-020-002]While these events were passing at the opium-house, Mr. Fogg, unconscious of the danger he was in of losing the steamer, was quietly escorting [[aouda|Aouda]] about the streets of the English quarter, making the necessary purchases for the long voyage before them. It was all very well for an Englishman like Mr. Fogg to make the tour of the world with a carpet-bag; a lady could not be expected to travel comfortably under such conditions. He acquitted his task with characteristic serenity, and invariably replied to the remonstrances of his fair companion, who was confused by his patience and generosity:
 
 [AWED-020-003]"It is in the interest of my journey--a part of my programme."
 
 [AWED-020-004]The purchases made, they returned to the hotel, where they dined at a sumptuously served table-d'hote; after which Aouda, shaking hands with her protector after the English fashion, retired to her room for rest. Mr. Fogg absorbed himself throughout the evening in the perusal of The Times and Illustrated London News.
 
-[AWED-020-005]Had he been capable of being astonished at anything, it would have been not to see his servant return at bedtime. But, knowing that the steamer was not to leave for Yokohama until the next morning, he did not disturb himself about the matter. When Passepartout did not appear the next morning to answer his master's bell, Mr. Fogg, not betraying the least vexation, contented himself with taking his carpet-bag, calling Aouda, and sending for a palanquin.
+[AWED-020-005]Had he been capable of being astonished at anything, it would have been not to see his servant return at bedtime. But, knowing that the steamer was not to leave for Yokohama until the next morning, he did not disturb himself about the matter. When [[passepartout|Passepartout]] did not appear the next morning to answer his master's bell, Mr. Fogg, not betraying the least vexation, contented himself with taking his carpet-bag, calling Aouda, and sending for a palanquin.
 
 [AWED-020-006]It was then eight o'clock; at half-past nine, it being then high tide, the Carnatic would leave the harbour. Mr. Fogg and Aouda got into the palanquin, their luggage being brought after on a wheelbarrow, and half an hour later stepped upon the quay whence they were to embark. Mr. Fogg then learned that the Carnatic had sailed the evening before. He had expected to find not only the steamer, but his domestic, and was forced to give up both; but no sign of disappointment appeared on his face, and he merely remarked to Aouda, "It is an accident, madam; nothing more."
 
-[AWED-020-007]At this moment a man who had been observing him attentively approached. It was Fix, who, bowing, addressed Mr. Fogg: "Were you not, like me, sir, a passenger by the Rangoon, which arrived yesterday?"
+[AWED-020-007]At this moment a man who had been observing him attentively approached. It was [[fix|Fix]], who, bowing, addressed Mr. Fogg: "Were you not, like me, sir, a passenger by the Rangoon, which arrived yesterday?"
 
 [AWED-020-008]"I was, sir," replied Mr. Fogg coldly. "But I have not the honour--"
 
@@ -39,11 +39,11 @@ tags: [chapter]
 
 [AWED-020-014]"Yes, sir."
 
-[AWED-020-015]"So did I, madam, and I am excessively disappointed. The Carnatic, its repairs being completed, left Hong Kong twelve hours before the stated time, without any notice being given; and we must now wait a week for another steamer."
+[AWED-020-015]"So did I, madam, and I am excessively disappointed. The Carnatic, its repairs being completed, left [[hong-kong|Hong Kong]] twelve hours before the stated time, without any notice being given; and we must now wait a week for another steamer."
 
 [AWED-020-016]As he said "a week" Fix felt his heart leap for joy. Fogg detained at Hong Kong for a week! There would be time for the warrant to arrive, and fortune at last favoured the representative of the law. His horror may be imagined when he heard Mr. Fogg say, in his placid voice, "But there are other vessels besides the Carnatic, it seems to me, in the harbour of Hong Kong."
 
-[AWED-020-017]And, offering his arm to Aouda, he directed his steps toward the docks in search of some craft about to start. Fix, stupefied, followed; it seemed as if he were attached to Mr. Fogg by an invisible thread. Chance, however, appeared really to have abandoned the man it had hitherto served so well. For three hours Phileas Fogg wandered about the docks, with the determination, if necessary, to charter a vessel to carry him to Yokohama; but he could only find vessels which were loading or unloading, and which could not therefore set sail. Fix began to hope again.
+[AWED-020-017]And, offering his arm to Aouda, he directed his steps toward the docks in search of some craft about to start. Fix, stupefied, followed; it seemed as if he were attached to Mr. Fogg by an invisible thread. Chance, however, appeared really to have abandoned the man it had hitherto served so well. For three hours [[phileas-fogg|Phileas Fogg]] wandered about the docks, with the determination, if necessary, to charter a vessel to carry him to Yokohama; but he could only find vessels which were loading or unloading, and which could not therefore set sail. Fix began to hope again.
 
 [AWED-020-018]But Mr. Fogg, far from being discouraged, was continuing his search, resolved not to stop if he had to resort to Macao, when he was accosted by a sailor on one of the wharves.
 

@@ -15,11 +15,11 @@ tags: [chapter]
 
 [SI-002-002]There was no longer any doubt as to the pirates' intentions. They had dropped anchor at a short distance from the island, and it was evident that the next day by means of their boats they purposed to land on the beach!
 
-[SI-002-003]Cyrus Harding and his companions were ready to act, but, determined though they were, they must not forget to be prudent. Perhaps their presence might still be concealed in the event of the pirates contenting themselves with landing on the shore without examining the interior of the island. It might be, indeed, that their only intention was to obtain fresh water from the Mercy, and it was not impossible that the bridge, thrown across a mile and a half from the mouth, and the manufactory at the Chimneys might escape their notice.
+[SI-002-003][[cyrus-harding|Cyrus Harding]] and his companions were ready to act, but, determined though they were, they must not forget to be prudent. Perhaps their presence might still be concealed in the event of the pirates contenting themselves with landing on the shore without examining the interior of the island. It might be, indeed, that their only intention was to obtain fresh water from the Mercy, and it was not impossible that the bridge, thrown across a mile and a half from the mouth, and the manufactory at the Chimneys might escape their notice.
 
-[SI-002-004]But why was that flag hoisted at the brig's peak? What was that shot fired for? Pure bravado doubtless, unless it was a sign of the act of taking possession. Harding knew now that the vessel was well-armed. And what had the colonists of Lincoln Island to reply to the pirates' guns? A few muskets only.
+[SI-002-004]But why was that flag hoisted at the brig's peak? What was that shot fired for? Pure bravado doubtless, unless it was a sign of the act of taking possession. Harding knew now that the vessel was well-armed. And what had the colonists of [[lincoln-island|Lincoln Island]] to reply to the pirates' guns? A few muskets only.
 
-[SI-002-005]"However," observed Cyrus Harding, "here we are in an impregnable position. The enemy cannot discover the mouth of the outlet, now that it is hidden under reeds and grass, and consequently it would be impossible for them to penetrate into Granite House."
+[SI-002-005]"However," observed Cyrus Harding, "here we are in an impregnable position. The enemy cannot discover the mouth of the outlet, now that it is hidden under reeds and grass, and consequently it would be impossible for them to penetrate into [[granite-house|Granite House]]."
 
 [SI-002-006]"But our plantations, our poultry-yard, our corral, all, everything!" exclaimed Pencroft, stamping his foot. "They may spoil everything, destroy everything in a few hours!"
 

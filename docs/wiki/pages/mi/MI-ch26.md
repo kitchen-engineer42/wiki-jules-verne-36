@@ -12,9 +12,9 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 4
 
-[MI-026-001]It was six o' clock in the morning when the settlers, after a hasty breakfast, set out to reach by the shortest way, the western coast of the island. And how long would it take to do this? Cyrus Harding had said two hours, but of course that depended on the nature of the obstacles they might meet with As it was probable that they would have to cut a path through the grass, shrubs, and creepers, they marched axe in hand, and with guns also ready, wisely taking warning from the cries of the wild beasts heard in the night.
+[MI-026-001]It was six o' clock in the morning when the settlers, after a hasty breakfast, set out to reach by the shortest way, the western coast of the island. And how long would it take to do this? [[cyrus-harding|Cyrus Harding]] had said two hours, but of course that depended on the nature of the obstacles they might meet with As it was probable that they would have to cut a path through the grass, shrubs, and creepers, they marched axe in hand, and with guns also ready, wisely taking warning from the cries of the wild beasts heard in the night.
 
-[MI-026-002]The exact position of the encampment could be determined by the bearing of Mount Franklin, and as the volcano arose in the north at a distance of less than three miles, they had only to go straight towards the southwest to reach the western coast. They set out, having first carefully secured the canoe. Pencroft and Neb carried sufficient provision for the little band for at least two days. It would not thus be necessary to hunt. The engineer advised his companions to refrain from firing, that their presence might not be betrayed to any one near the shore. The first hatchet blows were given among the brushwood in the midst of some mastic-trees, a little above the cascade; and his compass in his hand, Cyrus Harding led the way.
+[MI-026-002]The exact position of the encampment could be determined by the bearing of [[mount-franklin|Mount Franklin]], and as the volcano arose in the north at a distance of less than three miles, they had only to go straight towards the southwest to reach the western coast. They set out, having first carefully secured the canoe. Pencroft and Neb carried sufficient provision for the little band for at least two days. It would not thus be necessary to hunt. The engineer advised his companions to refrain from firing, that their presence might not be betrayed to any one near the shore. The first hatchet blows were given among the brushwood in the midst of some mastic-trees, a little above the cascade; and his compass in his hand, Cyrus Harding led the way.
 
 [MI-026-003]The forest here was composed for the most part of trees which had already been met with near the lake and on Prospect Heights. There were deodars, Douglas firs, casuarinas, gum trees, eucalypti, hibiscus, cedars, and other trees, generally of a moderate size, for their number prevented their growth.
 
@@ -68,7 +68,7 @@ tags: [chapter]
 
 [MI-026-028]In the meanwhile, considering the rapid current, Harding was led to suppose that he and his companions were much farther from the western coast than they had at first supposed. In fact, at this hour, the rising tide would have turned back the current of the creek, if its mouth had only been a few miles distant. Now, this effect was not produced, and the water pursued its natural course. The engineer was much astonished at this, and frequently consulted his compass, to assure himself that some turn of the river was not leading them again into the Far West.
 
-[MI-026-029]However, the creek gradually widened and its waters became less tumultuous. The trees on the right bank were as close together as on the left bank, and it was impossible to distinguish anything beyond them; but these masses of wood were evidently uninhabited, for Top did not bark, and the intelligent animal would not have failed to signal the presence of any stranger in the neighborhood.
+[MI-026-029]However, the creek gradually widened and its waters became less tumultuous. The trees on the right bank were as close together as on the left bank, and it was impossible to distinguish anything beyond them; but these masses of wood were evidently uninhabited, for [[top|Top]] did not bark, and the intelligent animal would not have failed to signal the presence of any stranger in the neighborhood.
 
 [MI-026-030]At half-past ten, to the great surprise of Cyrus Harding, Herbert, who was a little in front, suddenly stopped and exclaimed,--
 
@@ -90,7 +90,7 @@ tags: [chapter]
 
 [MI-026-039]There was, however, nothing to show that a shipwreck had taken place recently. It is true that, as Gideon Spilett observed, any remains of it might have drifted out to sea, and they must not take it for granted that because they could find no traces of it, a ship had not been castaway on the coast.
 
-[MI-026-040]The reporter's argument was just, and besides, the incident of the bullet proved that a shot must have been fired in Lincoln Island within three months.
+[MI-026-040]The reporter's argument was just, and besides, the incident of the bullet proved that a shot must have been fired in [[lincoln-island|Lincoln Island]] within three months.
 
 [MI-026-041]It was already five o'clock, and there were still two miles between the settlers and the extremity of the Serpentine Peninsula. It was evident that after having reached Reptile End, Harding and his companions would not have time to return before dark to their encampment near the source of the Mercy. It would therefore be necessary to pass the night on the promontory. But they had no lack of provisions, which was lucky, for there were no animals on the shore, though birds, on the contrary, abound--jacamars, couroucous, tragopans, grouse, lories, parrots, cockatoos, pheasants, pigeons, and a hundred others. There was not a tree without a nest, and not a nest which was not full of flapping wings.
 
@@ -138,7 +138,7 @@ tags: [chapter]
 
 [MI-026-063]At this moment the reporter appeared round a rock, and Herbert, thinking that he had not seen the jaguar, was about to rush towards him, when Gideon Spilett signed to him to remain where he was. This was not his first tiger, and advancing to within ten feet of the animal he remained motionless, his gun to his shoulder, without moving a muscle. The jaguar collected itself for a spring, but at that moment a shot struck it in the eyes, and it fell dead.
 
-[MI-026-064]Herbert and Pencroft rushed towards the jaguar. Neb and Harding also ran up, and they remained for some instants contemplating the animal as it lay stretched on the ground, thinking that its magnificent skin would be a great ornament to the hall at Granite House.
+[MI-026-064]Herbert and Pencroft rushed towards the jaguar. Neb and Harding also ran up, and they remained for some instants contemplating the animal as it lay stretched on the ground, thinking that its magnificent skin would be a great ornament to the hall at [[granite-house|Granite House]].
 
 [MI-026-065]"Oh, Mr. Spilett, how I admire and envy you!" cried Herbert, in a fit of very natural enthusiasm.
 

@@ -14,7 +14,7 @@ tags: [chapter]
 
 [MI-003-001]The engineer, the meshes of the net having given way, had been carried off by a wave. His dog also had disappeared. The faithful animal had voluntarily leaped out to help his master. "Forward," cried the reporter; and all four, Spilett, Herbert, Pencroft, and Neb, forgetting their fatigue, began their search. Poor Neb shed bitter tears, giving way to despair at the thought of having lost the only being he loved on earth.
 
-[MI-003-002]Only two minutes had passed from the time when Cyrus Harding disappeared to the moment when his companions set foot on the ground. They had hopes therefore of arriving in time to save him. "Let us look for him! let us look for him!" cried Neb.
+[MI-003-002]Only two minutes had passed from the time when [[cyrus-harding|Cyrus Harding]] disappeared to the moment when his companions set foot on the ground. They had hopes therefore of arriving in time to save him. "Let us look for him! let us look for him!" cried Neb.
 
 [MI-003-003]"Yes, Neb," replied Gideon Spilett, "and we will find him too!"
 
@@ -24,7 +24,7 @@ tags: [chapter]
 
 [MI-003-006]"Can he swim?" asked Pencroft.
 
-[MI-003-007]"Yes," replied Neb, "and besides, Top is there."
+[MI-003-007]"Yes," replied Neb, "and besides, [[top|Top]] is there."
 
 [MI-003-008]The sailor, observing the heavy surf on the shore, shook his head.
 

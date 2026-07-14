@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # Twenty Thousand Leagues Under the Sea — CHAPTER 9
 
-[TTLU-009-001]The Tantrums of Ned Land
+[TTLU-009-001]The Tantrums of [[ned-land|Ned Land]]
 
 [TTLU-009-002]I HAVE NO IDEA how long this slumber lasted; but it must have been a good while, since we were
 
@@ -32,7 +32,7 @@ tags: [chapter]
 
 [TTLU-009-010]When I had absorbed a chestful of this clean air, I looked for the conduit--the "air carrier," if you prefer--that allowed this beneficial influx to reach us, and I soon found it. Above the door opened an air vent that let in a fresh current of oxygen, renewing the thin air in our cell.
 
-[TTLU-009-011]I had gotten to this point in my observations when Ned and Conseil woke up almost simultaneously, under the influence of this reviving air purification. They rubbed their eyes, stretched their arms, and sprang to their feet.
+[TTLU-009-011]I had gotten to this point in my observations when Ned and [[conseil|Conseil]] woke up almost simultaneously, under the influence of this reviving air purification. They rubbed their eyes, stretched their arms, and sprang to their feet.
 
 [TTLU-009-012]"Did master sleep well?" Conseil asked me with his perennial good manners.
 

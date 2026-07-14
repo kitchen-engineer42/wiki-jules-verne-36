@@ -17,11 +17,11 @@ tags: [chapter]
 
 [RM-004-003]The travellers' sleep was so much the more peaceful because, notwithstanding its excessive speed, the projectile seemed absolutely motionless. No movement indicated its journey through space. However rapidly change of place may be effected, it cannot produce any sensible effect upon the organism when it takes place in the void, or when the mass of air circulates along with the travelling body. What inhabitant of the earth perceives the speed which carries him along at the rate of 68,000 miles an hour? Movement under such circumstances is not felt more than repose. Every object is indifferent to it. When a body is in repose it remains so until some foreign force puts it in movement. When in movement it would never stop if some obstacle were not in its road. This indifference to movement or repose is inertia.
 
-[RM-004-004]Barbicane and his companions could, therefore, imagine themselves absolutely motionless, shut up in the interior of the projectile. The effect would have been the same if they had placed themselves on the outside. Without the moon, which grew larger above them, and the earth that grew smaller below, they would have sworn they were suspended in a complete stagnation.
+[RM-004-004][[barbicane|Barbicane]] and his companions could, therefore, imagine themselves absolutely motionless, shut up in the interior of the projectile. The effect would have been the same if they had placed themselves on the outside. Without the moon, which grew larger above them, and the earth that grew smaller below, they would have sworn they were suspended in a complete stagnation.
 
 [RM-004-005]That morning, the 3rd of December, they were awakened by a joyful but unexpected noise. It was the crowing of a cock in the interior of their vehicle.
 
-[RM-004-006]Michel Ardan was the first to get up; he climbed to the top of the projectile and closed a partly-open case.
+[RM-004-006][[michel-ardan|Michel Ardan]] was the first to get up; he climbed to the top of the projectile and closed a partly-open case.
 
 [RM-004-007]"Be quiet," said he in a whisper. "That animal will spoil my plan!"
 
@@ -45,7 +45,7 @@ tags: [chapter]
 
 [RM-004-017]"No," answered the president.
 
-[RM-004-018]"About our friends at Cambridge. You have already remarked how admirably ignorant I am of mathematics. I find it, therefore, impossible to guess how our _savants_ of the observatory could calculate what initial velocity the projectile ought to be endowed with on leaving the Columbiad in order to reach the moon."
+[RM-004-018]"About our friends at Cambridge. You have already remarked how admirably ignorant I am of mathematics. I find it, therefore, impossible to guess how our _savants_ of the observatory could calculate what initial velocity the projectile ought to be endowed with on leaving the [[columbiad|Columbiad]] in order to reach the moon."
 
 [RM-004-019]"You mean," replied Barbicane, "in order to reach that neutral point where the terrestrial and lunar attractions are equal; for beyond this point, situated at about 0.9 of the distance, the projectile will fall upon the moon by virtue of its own weight merely."
 

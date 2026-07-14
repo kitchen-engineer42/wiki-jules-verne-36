@@ -15,11 +15,11 @@ tags: [chapter]
 
 [FEM-010-002]The American public took great interest in the least details of the Gun Club's enterprise. It followed the committee debates day by day. The most simple preparations for this great experiment, the questions of figures it provoked, the mechanical difficulties to be solved, all excited popular opinion to the highest pitch.
 
-[FEM-010-003]More than a year would elapse between the commencement of the work and its completion; but the interval would not be void of excitement. The place to be chosen for the boring, the casting the metal of the Columbiad, its perilous loading, all this was more than necessary to excite public curiosity. The projectile, once fired, would be out of sight in a few seconds; then what would become of it, how it would behave in space, how it would reach the moon, none but a few privileged persons would see with their own eyes. Thus, then, the preparations for the experiment and the precise details of its execution constituted the real source of interest.
+[FEM-010-003]More than a year would elapse between the commencement of the work and its completion; but the interval would not be void of excitement. The place to be chosen for the boring, the casting the metal of the [[columbiad|Columbiad]], its perilous loading, all this was more than necessary to excite public curiosity. The projectile, once fired, would be out of sight in a few seconds; then what would become of it, how it would behave in space, how it would reach the moon, none but a few privileged persons would see with their own eyes. Thus, then, the preparations for the experiment and the precise details of its execution constituted the real source of interest.
 
 [FEM-010-004]In the meantime the purely scientific attraction of the enterprise was all at once heightened by an incident.
 
-[FEM-010-005]It is known what numerous legions of admirers and friends the Barbicane project had called round its author. But, notwithstanding the number and importance of the majority, it was not destined to be unanimous. One man, one out of all the United States, protested against the Gun Club. He attacked it violently on every occasion, and--for human nature is thus constituted--Barbicane was more sensitive to this one man's opposition than to the applause of all the others.
+[FEM-010-005]It is known what numerous legions of admirers and friends the [[barbicane|Barbicane]] project had called round its author. But, notwithstanding the number and importance of the majority, it was not destined to be unanimous. One man, one out of all the United States, protested against the Gun Club. He attacked it violently on every occasion, and--for human nature is thus constituted--Barbicane was more sensitive to this one man's opposition than to the applause of all the others.
 
 [FEM-010-006]Nevertheless he well knew the motive of this antipathy, from whence came this solitary enmity, why it was personal and of ancient date; lastly, in what rivalry it had taken root.
 
@@ -27,7 +27,7 @@ tags: [chapter]
 
 [FEM-010-008]No one is ignorant of the curious struggle which went on during the Federal war between the projectile and ironclad vessels, the former destined to pierce the latter, the latter determined not to be pierced. Thence came a radical transformation in the navies of the two continents. Cannon-balls and iron plates struggled for supremacy, the former getting larger as the latter got thicker. Ships armed with formidable guns went into the fire under shelter of their invulnerable armour. The Merrimac, Monitor, ram Tennessee, and Wechhausen shot enormous projectiles after having made themselves proof against the projectiles of other ships. They did to others what they would not have others do to them, an immoral principle upon which the whole art of war is based.
 
-[FEM-010-009]Now Barbicane was a great caster of projectiles, and Nicholl was an equally great forger of plate-armour. The one cast night and day at Baltimore, the other forged day and night at Philadelphia. Each followed an essentially different current of ideas.
+[FEM-010-009]Now Barbicane was a great caster of projectiles, and Nicholl was an equally great forger of plate-armour. The one cast night and day at [[baltimore|Baltimore]], the other forged day and night at Philadelphia. Each followed an essentially different current of ideas.
 
 [FEM-010-010]As soon as Barbicane had invented a new projectile, Nicholl invented a new plate armour. The president of the Gun Club passed his life in piercing holes, the captain in preventing him doing it. Hence a constant rivalry which even touched their persons. Nicholl appeared in Barbicane's dreams as an impenetrable ironclad against which he split, and Barbicane in Nicholl's dreams appeared like a projectile which ripped him up.
 
@@ -71,7 +71,7 @@ tags: [chapter]
 
 [FEM-010-030]2. That the casting of a cannon of 900 feet was impracticable and would not succeed, 2,000 dols.
 
-[FEM-010-031]3. That it would be impossible to load the Columbiad, and that the pyroxyle would ignite spontaneously under the weight of the projectile, 3,000 dols.
+[FEM-010-031]3. That it would be impossible to load the Columbiad, and that the [[gun-cotton|pyroxyle]] would ignite spontaneously under the weight of the projectile, 3,000 dols.
 
 [FEM-010-032]4. That the Columbiad would burst at the first discharge, 4,000 dols.
 

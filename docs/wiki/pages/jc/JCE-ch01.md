@@ -13,7 +13,7 @@ tags: [chapter]
 
 [JCE-001-001]THE PROFESSOR AND HIS FAMILY
 
-[JCE-001-002]On the 24th of May, 1863, my uncle, Professor Liedenbrock, rushed into his little house, No. 19 Königstrasse, one of the oldest streets in the oldest portion of the city of Hamburg.
+[JCE-001-002]On the 24th of May, 1863, my uncle, [[professor-lidenbrock|Professor Liedenbrock]], rushed into his little house, No. 19 Königstrasse, one of the oldest streets in the oldest portion of the city of Hamburg.
 
 [JCE-001-003]Martha must have concluded that she was very much behindhand, for the dinner had only just been put into the oven.
 
@@ -27,7 +27,7 @@ tags: [chapter]
 
 [JCE-001-008]"Perhaps he will tell us that himself."
 
-[JCE-001-009]"Here he is, Monsieur Axel; I will run and hide myself while you argue with him."
+[JCE-001-009]"Here he is, Monsieur [[axel|Axel]]; I will run and hide myself while you argue with him."
 
 [JCE-001-010]And Martha retreated in safety into her own dominions.
 

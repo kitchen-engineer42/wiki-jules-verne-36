@@ -13,15 +13,15 @@ tags: [chapter]
 
 [AWED-035-001]IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE
 
-[AWED-035-002]The dwellers in Saville Row would have been surprised the next day, if they had been told that Phileas Fogg had returned home. His doors and windows were still closed, no appearance of change was visible.
+[AWED-035-002]The dwellers in Saville Row would have been surprised the next day, if they had been told that [[phileas-fogg|Phileas Fogg]] had returned home. His doors and windows were still closed, no appearance of change was visible.
 
-[AWED-035-003]After leaving the station, Mr. Fogg gave Passepartout instructions to purchase some provisions, and quietly went to his domicile.
+[AWED-035-003]After leaving the station, Mr. Fogg gave [[passepartout|Passepartout]] instructions to purchase some provisions, and quietly went to his domicile.
 
-[AWED-035-004]He bore his misfortune with his habitual tranquillity. Ruined! And by the blundering of the detective! After having steadily traversed that long journey, overcome a hundred obstacles, braved many dangers, and still found time to do some good on his way, to fail near the goal by a sudden event which he could not have foreseen, and against which he was unarmed; it was terrible! But a few pounds were left of the large sum he had carried with him. There only remained of his fortune the twenty thousand pounds deposited at Barings, and this amount he owed to his friends of the Reform Club. So great had been the expense of his tour that, even had he won, it would not have enriched him; and it is probable that he had not sought to enrich himself, being a man who rather laid wagers for honour's sake than for the stake proposed. But this wager totally ruined him.
+[AWED-035-004]He bore his misfortune with his habitual tranquillity. Ruined! And by the blundering of the detective! After having steadily traversed that long journey, overcome a hundred obstacles, braved many dangers, and still found time to do some good on his way, to fail near the goal by a sudden event which he could not have foreseen, and against which he was unarmed; it was terrible! But a few pounds were left of the large sum he had carried with him. There only remained of his fortune the twenty thousand pounds deposited at Barings, and this amount he owed to his friends of the [[reform-club|Reform Club]]. So great had been the expense of his tour that, even had he won, it would not have enriched him; and it is probable that he had not sought to enrich himself, being a man who rather laid wagers for honour's sake than for the stake proposed. But this wager totally ruined him.
 
 [AWED-035-005]Mr. Fogg's course, however, was fully decided upon; he knew what remained for him to do.
 
-[AWED-035-006]A room in the house in Saville Row was set apart for Aouda, who was overwhelmed with grief at her protector's misfortune. From the words which Mr. Fogg dropped, she saw that he was meditating some serious project.
+[AWED-035-006]A room in the house in Saville Row was set apart for [[aouda|Aouda]], who was overwhelmed with grief at her protector's misfortune. From the words which Mr. Fogg dropped, she saw that he was meditating some serious project.
 
 [AWED-035-007]Knowing that Englishmen governed by a fixed idea sometimes resort to the desperate expedient of suicide, Passepartout kept a narrow watch upon his master, though he carefully concealed the appearance of so doing.
 
@@ -31,7 +31,7 @@ tags: [chapter]
 
 [AWED-035-010]Mr. Fogg called him in the morning, and told him to get Aouda's breakfast, and a cup of tea and a chop for himself. He desired Aouda to excuse him from breakfast and dinner, as his time would be absorbed all day in putting his affairs to rights. In the evening he would ask permission to have a few moment's conversation with the young lady.
 
-[AWED-035-011]Passepartout, having received his orders, had nothing to do but obey them. He looked at his imperturbable master, and could scarcely bring his mind to leave him. His heart was full, and his conscience tortured by remorse; for he accused himself more bitterly than ever of being the cause of the irretrievable disaster. Yes! if he had warned Mr. Fogg, and had betrayed Fix's projects to him, his master would certainly not have given the detective passage to Liverpool, and then--
+[AWED-035-011]Passepartout, having received his orders, had nothing to do but obey them. He looked at his imperturbable master, and could scarcely bring his mind to leave him. His heart was full, and his conscience tortured by remorse; for he accused himself more bitterly than ever of being the cause of the irretrievable disaster. Yes! if he had warned Mr. Fogg, and had betrayed [[fix|Fix]]'s projects to him, his master would certainly not have given the detective passage to Liverpool, and then--
 
 [AWED-035-012]Passepartout could hold in no longer.
 

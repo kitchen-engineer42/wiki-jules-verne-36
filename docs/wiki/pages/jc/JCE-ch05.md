@@ -15,7 +15,7 @@ tags: [chapter]
 
 [JCE-005-002]I had only just time to replace the unfortunate document upon the table.
 
-[JCE-005-003]Professor Liedenbrock seemed to be greatly abstracted.
+[JCE-005-003][[professor-lidenbrock|Professor Liedenbrock]] seemed to be greatly abstracted.
 
 [JCE-005-004]The ruling thought gave him no rest. Evidently he had gone deeply into the matter, analytically and with profound scrutiny. He had brought all the resources of his mind to bear upon it during his walk, and he had come back to apply some new combination.
 
@@ -105,7 +105,7 @@ tags: [chapter]
 
 [JCE-005-047]It was conceived in the following terms:
 
-[JCE-005-048]In Sneffels Joculis craterem quem delibat Umbra Scartaris Julii intra calendas descende, Audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm. [1]
+[JCE-005-048]In [[snaefellsjokull|Sneffels]] Joculis craterem quem delibat Umbra Scartaris Julii intra calendas descende, Audax viator, et terrestre centrum attinges. Quod feci, Arne Saknussemm. [1]
 
 [JCE-005-049]Which bad Latin may be translated thus:
 

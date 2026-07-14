@@ -45,7 +45,7 @@ tags: [chapter]
 
 [ACH-015-017]"There," said he to his habitual companion--"there is the very spot where the first English ship, sent into these seas in 1815, was lost, during the third of Parry's voyages to the Pole; the _Fury_ was so damaged by the ice on her second wintering, that her crew were obliged to desert her and return to England on board her companion ship the _Hecla_."
 
-[ACH-015-018]"That shows the advantage of having a second ship," answered Johnson. "It is a precaution that Polar navigators ought not to neglect, but Captain Hatteras wasn't the sort of man to trouble himself with another ship."
+[ACH-015-018]"That shows the advantage of having a second ship," answered Johnson. "It is a precaution that Polar navigators ought not to neglect, but [[captain-hatteras|Captain Hatteras]] wasn't the sort of man to trouble himself with another ship."
 
 [ACH-015-019]"Do you think he is imprudent, Johnson?" asked the doctor.
 

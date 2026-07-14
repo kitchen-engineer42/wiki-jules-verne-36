@@ -93,7 +93,7 @@ tags: [chapter]
 
 [WC-019-041]"When the tempest overtook us the yacht sunk," he explained. "Some of the crew had time to throw themselves into the boats, the rest perished. At the first moment of peril Mr. Jones made a sign for me to go with him into a life-boat, which was suspended in the stern of the yacht and that every one else disdained on account of its small dimensions, but which proved to be safe, as it was impossible to sink it. It is the only one which reached the ice island--all the others were upset before they reached it. We were terribly wounded by the drift ice which the waves threw into our boat, but at length we were able to draw ourselves beyond their reach and wait for the dawn of day. This morning Mr. Jones left me to go and see if he could kill a walrus, or some sea-bird, in order that we might have something to eat. I have not seen him since!"
 
-[WC-019-042]"Is Mr. Jones one of the officers of the 'Albatross'?" asked Erik.
+[WC-019-042]"Is Mr. Jones one of the officers of the '[[albatross|Albatross]]'?" asked Erik.
 
 [WC-019-043]"He is the owner and captain of her!" answered O'Donoghan, in a tone which seemed to express surprise at the question.
 

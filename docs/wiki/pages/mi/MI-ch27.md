@@ -12,7 +12,7 @@ tags: [chapter]
 ---
 # The Mysterious Island — CHAPTER 5
 
-[MI-027-001]Cyrus Harding and his companions slept like innocent marmots in the cave which the jaguar had so politely left at their disposal.
+[MI-027-001][[cyrus-harding|Cyrus Harding]] and his companions slept like innocent marmots in the cave which the jaguar had so politely left at their disposal.
 
 [MI-027-002]At sunrise all were on the shore at the extremity of the promontory, and their gaze was directed towards the horizon, of which two-thirds of the circumference were visible. For the last time the engineer could ascertain that not a sail nor the wreck of a ship was on the sea, and even with the telescope nothing suspicious could be discovered.
 
@@ -20,7 +20,7 @@ tags: [chapter]
 
 [MI-027-004]The southern coast of the island still remained to be explored. Now should they undertake it immediately, and devote this day to it?
 
-[MI-027-005]This was not included in their first plan. In fact, when the boat was abandoned at the sources of the Mercy, it had been agreed that after having surveyed the west coast, they should go back to it, and return to Granite House by the Mercy. Harding then thought that the western coast would have offered refuge, either to a ship in distress, or to a vessel in her regular course; but now, as he saw that this coast presented no good anchorage, he wished to seek on the south what they had not been able to find on the west.
+[MI-027-005]This was not included in their first plan. In fact, when the boat was abandoned at the sources of the Mercy, it had been agreed that after having surveyed the west coast, they should go back to it, and return to [[granite-house|Granite House]] by the Mercy. Harding then thought that the western coast would have offered refuge, either to a ship in distress, or to a vessel in her regular course; but now, as he saw that this coast presented no good anchorage, he wished to seek on the south what they had not been able to find on the west.
 
 [MI-027-006]Gideon Spilett proposed to continue the exploration, that the question of the supposed wreck might be completely settled, and he asked at what distance Claw Cape might be from the extremity of the peninsula.
 
@@ -60,7 +60,7 @@ tags: [chapter]
 
 [MI-027-024]The reporter's proposal, so strongly seconded by the sailor, received general approbation, for each wished to have their doubts set at rest, and by returning by Claw Cape the exploration would be ended. But there was not an hour to lose, for forty miles was a long march, and they could not hope to reach Granite House before night.
 
-[MI-027-025]At six o'clock in the morning the little band set out. As a precaution the guns were loaded with ball, and Top, who led the van, received orders to beat about the edge of the forest.
+[MI-027-025]At six o'clock in the morning the little band set out. As a precaution the guns were loaded with ball, and [[top|Top]], who led the van, received orders to beat about the edge of the forest.
 
 [MI-027-026]From the extremity of the promontory which formed the tail of the peninsula the coast was rounded for a distance of five miles, which was rapidly passed over, without even the most minute investigations bringing to light the least trace of any old or recent landings; no debris, no mark of an encampment, no cinders of a fire, nor even a footprint!
 
@@ -108,7 +108,7 @@ tags: [chapter]
 
 [MI-027-048]The shore was of course examined with the same care from the edge of the water to the cliff, and nothing could be discovered even with the aid of the instrument.
 
-[MI-027-049]"Well," said Gideon Spilett, "it seems we must make up our minds to console ourselves with thinking that no one will come to dispute with us the possession of Lincoln Island!"
+[MI-027-049]"Well," said Gideon Spilett, "it seems we must make up our minds to console ourselves with thinking that no one will come to dispute with us the possession of [[lincoln-island|Lincoln Island]]!"
 
 [MI-027-050]"But the bullet," cried Herbert. "That was not imaginary, I suppose!"
 

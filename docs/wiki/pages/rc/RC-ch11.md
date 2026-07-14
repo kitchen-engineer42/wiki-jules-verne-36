@@ -13,13 +13,13 @@ tags: [chapter]
 
 [RC-011-001]THE WIDE PACIFIC
 
-[RC-011-002]Uncle Prudent and Phil Evans had quite made up their minds to escape. If they had not had to deal with the eight particularly vigorous men who composed the crew of the aeronef they might have tried to succeed by main force. But as they were only two--for Frycollin could only be considered as a quantity of no importance--force was not to be thought of. Hence recourse must be had to strategy as soon as the "Albatross" again took the ground. Such was what Phil Evans endeavored to impress on his irascible colleague, though he was in constant fear of Prudent aggravating matters by some premature outbreak.
+[RC-011-002]Uncle Prudent and Phil Evans had quite made up their minds to escape. If they had not had to deal with the eight particularly vigorous men who composed the crew of the [[albatross|aeronef]] they might have tried to succeed by main force. But as they were only two--for Frycollin could only be considered as a quantity of no importance--force was not to be thought of. Hence recourse must be had to strategy as soon as the "Albatross" again took the ground. Such was what Phil Evans endeavored to impress on his irascible colleague, though he was in constant fear of Prudent aggravating matters by some premature outbreak.
 
 [RC-011-003]In any case the present was not the time to attempt anything of the sort. The aeronef was sweeping along over the North Pacific. On the following morning, that of June 16th, the coast was out of sight. And as the coast curves off from Vancouver Island up to the Aleutians--belonging to that portion of America ceded by Russia to the United States in 1867--it was highly probable that the "Albatross" would cross it at the end of the curve, if her course remained unchanged.
 
 [RC-011-004]How long the night appeared to be to the two friends! How eager they were to get out of their cabins! When they came on deck in the morning the dawn had for some hours been silvering the eastern horizon. They were nearing the June solstice, the longest day of the year in the northern hemisphere, when there is hardly any night along the sixtieth parallel.
 
-[RC-011-005]Either from custom or intention Robur was in no hurry to leave his deck-house, When he came out this morning be contented himself with bowing to his two guests as he passed them in the stern of the aeronef.
+[RC-011-005]Either from custom or intention [[robur|Robur]] was in no hurry to leave his deck-house, When he came out this morning be contented himself with bowing to his two guests as he passed them in the stern of the aeronef.
 
 [RC-011-006]And now Frycollin ventured out of his cabin. His eyes red with sleeplessness, and dazed in their look, he tottered along, like a man whose foot feels it is not on solid ground. His first glance was at the suspensory screws, which were working with gratifying regularity without any signs of haste. That done, the Negro stumbled along to the rail, and grasped it with both hands, so as to make sure of his balance. Evidently he wished to view the country over which the "Albatross" was flying at the height of seven hundred feet or more.
 

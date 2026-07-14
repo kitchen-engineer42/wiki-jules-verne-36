@@ -63,7 +63,7 @@ tags: [chapter]
 
 [SC-045-026]At last they succeeded, and the raft, after a passage of more than half an hour, struck against the steep bank of the opposite shore. The shock was so violent that the logs became disunited, the cords broke, and the water bubbled up between. The travelers had barely time to catch hold of the steep bank. They dragged out Mulrady and the two dripping ladies. Everyone was safe; but the provisions and firearms, except the carbine of the Major, went drifting down with the DEBRIS of the raft.
 
-[SC-045-027]The river was crossed. The little company found themselves almost without provisions, thirty-five miles from Delegete, in the midst of the unknown deserts of the Victoria frontier. Neither settlers nor squatters were to be met with; it was entirely uninhabited, unless by ferocious bushrangers and bandits.
+[SC-045-027]The river was crossed. The little company found themselves almost without provisions, thirty-five miles from Delegete, in the midst of the unknown deserts of [[victoria-balloon|the Victoria]] frontier. Neither settlers nor squatters were to be met with; it was entirely uninhabited, unless by ferocious bushrangers and bandits.
 
 [SC-045-028]They resolved to set off without delay. Mulrady saw clearly that he would be a great drag on them, and he begged to be allowed to remain, and even to remain alone, till assistance could be sent from Delegete.
 

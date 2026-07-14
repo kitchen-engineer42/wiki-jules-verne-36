@@ -41,7 +41,7 @@ tags: [chapter]
 
 [ACH-023-015]"But as I am not the master----" replied Shandon.
 
-[ACH-023-016]"Who says you mayn't be?" answered Pen. "John Hatteras may go as far as he likes, but we aren't obliged to follow him."
+[ACH-023-016]"Who says you mayn't be?" answered Pen. "[[captain-hatteras|John Hatteras]] may go as far as he likes, but we aren't obliged to follow him."
 
 [ACH-023-017]"You all know what became of the crew that did follow him in his first cruise to Baffin's Sea?" said Gripper.
 

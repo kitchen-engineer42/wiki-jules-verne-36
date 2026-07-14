@@ -19,7 +19,7 @@ tags: [chapter]
 
 [RC-022-004]Did they not merit such an honor? Did it not come to them appropriately to rise in person to protest against any apparatus that was heavier than air?
 
-[RC-022-005]During the seven months, however, they had said nothing of their adventures; and even Frycollin had not uttered a whisper of Robur and his wonderful clipper. Probably Uncle Prudent and his friend desired that no question should arise as to the merits of the aeronef, or any other flying machine.
+[RC-022-005]During the seven months, however, they had said nothing of their adventures; and even Frycollin had not uttered a whisper of [[robur|Robur]] and his wonderful clipper. Probably Uncle Prudent and his friend desired that no question should arise as to the merits of the [[albatross|aeronef]], or any other flying machine.
 
 [RC-022-006]Although the "Go-Ahead" might not claim the first place among aerial locomotives, they would have nothing to say about the inventions of other aviators. They believed, and would always believe, that the true atmospheric vehicle was the aerostat, and that to it alone belonged the future.
 

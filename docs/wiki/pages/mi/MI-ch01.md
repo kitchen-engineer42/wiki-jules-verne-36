@@ -66,7 +66,7 @@ tags: [chapter]
 
 [MI-001-027]A loud barking was heard. A dog accompanied the voyagers, and was held pressed close to his master in the meshes of the net.
 
-[MI-001-028]"Top has seen something," cried one of the men. Then immediately a loud voice shouted,--
+[MI-001-028]"[[top|Top]] has seen something," cried one of the men. Then immediately a loud voice shouted,--
 
 [MI-001-029]"Land! land!" The balloon, which the wind still drove towards the southwest, had since daybreak gone a considerable distance, which might be reckoned by hundreds of miles, and a tolerably high land had, in fact, appeared in that direction. But this land was still thirty miles off. It would not take less than an hour to get to it, and then there was the chance of falling to leeward.
 

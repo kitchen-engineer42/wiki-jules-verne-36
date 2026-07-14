@@ -16,7 +16,7 @@ tags: [chapter]
 
 [TTLU-013-002]A MOMENT LATER we were seated on a couch in the lounge, cigars between our lips. The
 
-[TTLU-013-003]captain placed before my eyes a working drawing that gave the ground plan, cross section, and side view of the Nautilus. Then he began his description as follows:
+[TTLU-013-003]captain placed before my eyes a working drawing that gave the ground plan, cross section, and side view of the [[nautilus|Nautilus]]. Then he began his description as follows:
 
 [TTLU-013-004]"Here, Professor Aronnax, are the different dimensions of this boat now transporting you. It's a very long cylinder with conical ends. It noticeably takes the shape of a cigar, a shape already adopted in London for several projects of the same kind. The length of this cylinder from end to end is exactly seventy meters, and its maximum breadth of beam is eight meters. So it isn't quite built on the ten-to-one ratio of your high-speed steamers; but its lines are sufficiently long, and their tapering gradual enough, so that the displaced water easily slips past and poses no obstacle to the ship's movements.
 
@@ -38,7 +38,7 @@ tags: [chapter]
 
 [TTLU-013-013]"Then unless you fill up the whole Nautilus, I don't see how you can force it down into the heart of these liquid masses."
 
-[TTLU-013-014]"Professor," Captain Nemo replied, "static objects mustn't be confused with dynamic ones, or we'll be open to serious error. Comparatively little effort is spent in reaching the ocean's lower regions, because all objects have a tendency to become 'sinkers.' Follow my logic here."
+[TTLU-013-014]"Professor," [[captain-nemo|Captain Nemo]] replied, "static objects mustn't be confused with dynamic ones, or we'll be open to serious error. Comparatively little effort is spent in reaching the ocean's lower regions, because all objects have a tendency to become 'sinkers.' Follow my logic here."
 
 [TTLU-013-015]"I'm all ears, captain."
 

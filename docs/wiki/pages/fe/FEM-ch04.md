@@ -13,7 +13,7 @@ tags: [chapter]
 
 [FEM-004-001]ANSWER FROM THE CAMBRIDGE OBSERVATORY.
 
-[FEM-004-002]In the meantime Barbicane did not lose an instant amidst the enthusiasm of which he was the object. His first care was to call together his colleagues in the board-room of the Gun Club. There, after a debate, they agreed to consult astronomers about the astronomical part of their enterprise. Their answer once known, they would then discuss the mechanical means, and nothing would be neglected to assure the success of their great experiment.
+[FEM-004-002]In the meantime [[barbicane|Barbicane]] did not lose an instant amidst the enthusiasm of which he was the object. His first care was to call together his colleagues in the board-room of the Gun Club. There, after a debate, they agreed to consult astronomers about the astronomical part of their enterprise. Their answer once known, they would then discuss the mechanical means, and nothing would be neglected to assure the success of their great experiment.
 
 [FEM-004-003]A note in precise terms, containing special questions, was drawn up and addressed to the observatory of Cambridge in Massachusetts. This town, where the first University of the United States was founded, is justly celebrated for its astronomical staff. There are assembled the greatest men of science; there is the powerful telescope which enabled Bond to resolve the nebula of Andromeda and Clarke to discover the satellite of Sirius. This celebrated institution was, therefore, worthy in every way of the confidence of the Gun Club.
 
@@ -21,7 +21,7 @@ tags: [chapter]
 
 [FEM-004-005]It ran as follows:--
 
-[FEM-004-006]"_The Director of the Cambridge Observatory to the President of the Gun Club at Baltimore_.
+[FEM-004-006]"_The Director of the Cambridge Observatory to the President of the Gun Club at [[baltimore|Baltimore]]_.
 
 [FEM-004-007]"On the receipt of your favour of the 6th inst., addressed to the Observatory of Cambridge in the name of the members of the Baltimore Gun Club, we immediately called a meeting of our staff, who have deemed it expedient to answer as follows:--
 

@@ -23,7 +23,7 @@ tags: [chapter]
 
 [JCE-027-006]Lost at an immeasurable depth! Thirty leagues of rock seemed to weigh upon my shoulders with a dreadful pressure. I felt crushed.
 
-[JCE-027-007]I tried to carry back my ideas to things on the surface of the earth. I could scarcely succeed. Hamburg, the house in the Königstrasse, my poor Gräuben, all that busy world underneath which I was wandering about, was passing in rapid confusion before my terrified memory. I could revive with vivid reality all the incidents of our voyage, Iceland, M. Fridrikssen, Snæfell. I said to myself that if, in such a position as I was now in, I was fool enough to cling to one glimpse of hope, it would be madness, and that the best thing I could do was to despair.
+[JCE-027-007]I tried to carry back my ideas to things on the surface of the earth. I could scarcely succeed. Hamburg, the house in the Königstrasse, my poor Gräuben, all that busy world underneath which I was wandering about, was passing in rapid confusion before my terrified memory. I could revive with vivid reality all the incidents of our voyage, [[iceland|Iceland]], M. Fridrikssen, [[snaefellsjokull|Snæfell]]. I said to myself that if, in such a position as I was now in, I was fool enough to cling to one glimpse of hope, it would be madness, and that the best thing I could do was to despair.
 
 [JCE-027-008]What human power could restore me to the light of the sun by rending asunder the huge arches of rock which united over my head, buttressing each other with impregnable strength? Who could place my feet on the right path, and bring me back to my company?
 

@@ -98,6 +98,6 @@ tags: [chapter]
 
 [EHLA-039-043]The innocence of the convict of Villa Rica was at length admitted. The rehabilitation of Joam Dacosta was at last officially proclaimed.
 
-[EHLA-039-044]That very day Judge Jarriquez dined with the family on board the giant raft, and when evening came he shook hands with them all. Touching were the adieus, but an engagement was made for them to see him again on their return at Manaos, and later on the fazenda of Iquitos.
+[EHLA-039-044]That very day Judge Jarriquez dined with the family on board [[jangada|the giant raft]], and when evening came he shook hands with them all. Touching were the adieus, but an engagement was made for them to see him again on their return at Manaos, and later on the fazenda of Iquitos.
 
 [EHLA-039-045]On the morning of the morrow, the fifth of September, the signal for departure was given. Joam Dacosta and Yaquita, with their daughter and sons, were on the deck of the enormous raft. The jangada had its moorings slackened off and began to move with the current, and when it disappeared round the bend of the Rio Negro, the hurrahs of the whole population of Manaos, who were assembled on the bank, again and again re-echoed across the stream.

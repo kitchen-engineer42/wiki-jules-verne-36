@@ -15,7 +15,7 @@ tags: [chapter]
 
 [FWB-035-002]What had become of Joe, while his master was thus vainly seeking for him?
 
-[FWB-035-003]When he had dashed headlong into the lake, his first movement on coming to the surface was to raise his eyes and look upward. He saw the Victoria already risen far above the water, still rapidly ascending and growing smaller and smaller. It was soon caught in a rapid current and disappeared to the northward. His master--both his friends were saved!
+[FWB-035-003]When he had dashed headlong into the lake, his first movement on coming to the surface was to raise his eyes and look upward. He saw [[victoria-balloon|the Victoria]] already risen far above the water, still rapidly ascending and growing smaller and smaller. It was soon caught in a rapid current and disappeared to the northward. His master--both his friends were saved!
 
 [FWB-035-004]"How lucky it was," thought he, "that I had that idea to throw myself out into the lake! Mr. Kennedy would soon have jumped at it, and he would not have hesitated to do as I did, for nothing's more natural than for one man to give himself up to save two others. That's mathematics!"
 

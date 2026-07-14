@@ -14,11 +14,11 @@ tags: [chapter]
 
 [TTLU-015-001]An Invitation in Writing
 
-[TTLU-015-002]THE NEXT DAY, November 9, I woke up only after a long, twelve-hour slumber. Conseil, a creature of habit, came to ask "how master's night went," and to offer his services. He had left his Canadian friend sleeping like a man who had never done anything else.
+[TTLU-015-002]THE NEXT DAY, November 9, I woke up only after a long, twelve-hour slumber. [[conseil|Conseil]], a creature of habit, came to ask "how master's night went," and to offer his services. He had left his Canadian friend sleeping like a man who had never done anything else.
 
-[TTLU-015-003]I let the gallant lad babble as he pleased, without giving him much in the way of a reply. I was concerned about Captain Nemo's absence during our session the previous afternoon, and I hoped to see him again today.
+[TTLU-015-003]I let the gallant lad babble as he pleased, without giving him much in the way of a reply. I was concerned about [[captain-nemo|Captain Nemo]]'s absence during our session the previous afternoon, and I hoped to see him again today.
 
-[TTLU-015-004]Soon I had put on my clothes, which were woven from strands of seashell tissue. More than once their composition provoked comments from Conseil. I informed him that they were made from the smooth, silken filaments with which the fan mussel, a type of seashell quite abundant along Mediterranean beaches, attaches itself to rocks. In olden times, fine fabrics, stockings, and gloves were made from such filaments, because they were both very soft and very warm. So the Nautilus's crew could dress themselves at little cost, without needing a thing from cotton growers, sheep, or silkworms on shore.
+[TTLU-015-004]Soon I had put on my clothes, which were woven from strands of seashell tissue. More than once their composition provoked comments from Conseil. I informed him that they were made from the smooth, silken filaments with which the fan mussel, a type of seashell quite abundant along Mediterranean beaches, attaches itself to rocks. In olden times, fine fabrics, stockings, and gloves were made from such filaments, because they were both very soft and very warm. So the [[nautilus|Nautilus]]'s crew could dress themselves at little cost, without needing a thing from cotton growers, sheep, or silkworms on shore.
 
 [TTLU-015-005]As soon as I was dressed, I made my way to the main lounge. It was deserted.
 
@@ -78,7 +78,7 @@ tags: [chapter]
 
 [TTLU-015-033]"And in his forests on Crespo Island!" Conseil added.
 
-[TTLU-015-034]"But does this mean the old boy goes ashore?" Ned Land went on.
+[TTLU-015-034]"But does this mean the old boy goes ashore?" [[ned-land|Ned Land]] went on.
 
 [TTLU-015-035]"That seems to be the gist of it," I said, rereading the letter.
 
@@ -160,7 +160,7 @@ tags: [chapter]
 
 [TTLU-015-074]"Then how do you break free?" I asked.
 
-[TTLU-015-075]"We use the Rouquayrol-Denayrouze device, invented by two of your fellow countrymen but refined by me for my own special uses, thereby enabling you to risk these new physiological conditions without suffering any organic disorders. It consists of a tank built from heavy sheet iron in which I store air under a pressure of fifty atmospheres. This tank is fastened to the back by means of straps, like a soldier's knapsack. Its top part forms a box where the air is regulated by a bellows mechanism and can be released only at its proper tension. In the Rouquayrol device that has been in general use, two india-rubber hoses leave this box and feed to a kind of tent that imprisons the operator's nose and mouth; one hose is for the entrance of air to be inhaled, the other for the exit of air to be exhaled, and the tongue closes off the former or the latter depending on the breather's needs. But in my case, since I face considerable pressures at the bottom of the sea, I needed to enclose my head in a copper sphere, like those found on standard diving suits, and the two hoses for inhalation and exhalation now feed to that sphere."
+[TTLU-015-075]"We use the [[diving-apparatus|Rouquayrol-Denayrouze device]], invented by two of your fellow countrymen but refined by me for my own special uses, thereby enabling you to risk these new physiological conditions without suffering any organic disorders. It consists of a tank built from heavy sheet iron in which I store air under a pressure of fifty atmospheres. This tank is fastened to the back by means of straps, like a soldier's knapsack. Its top part forms a box where the air is regulated by a bellows mechanism and can be released only at its proper tension. In the Rouquayrol device that has been in general use, two india-rubber hoses leave this box and feed to a kind of tent that imprisons the operator's nose and mouth; one hose is for the entrance of air to be inhaled, the other for the exit of air to be exhaled, and the tongue closes off the former or the latter depending on the breather's needs. But in my case, since I face considerable pressures at the bottom of the sea, I needed to enclose my head in a copper sphere, like those found on standard diving suits, and the two hoses for inhalation and exhalation now feed to that sphere."
 
 [TTLU-015-076]"That's perfect, Captain Nemo, but the air you carry must be quickly depleted; and once it contains no more than 15% oxygen, it becomes unfit for breathing."
 

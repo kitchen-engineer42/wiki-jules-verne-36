@@ -13,7 +13,7 @@ tags: [chapter]
 
 [WC-010-001]TUDOR BROWN, ESQUIRE.
 
-[WC-010-002]One morning in May the doctor was in his office, when his servant brought him a visitor's card. This card, which was small as is usual in America, had the name of "Mr. Tudor Brown, on board the 'Albatross'" printed upon it.
+[WC-010-002]One morning in May the doctor was in his office, when his servant brought him a visitor's card. This card, which was small as is usual in America, had the name of "Mr. Tudor Brown, on board the '[[albatross|Albatross]]'" printed upon it.
 
 [WC-010-003]"Mr. Tudor Brown," said the doctor, trying to remember whom he had ever known who bore this name.
 

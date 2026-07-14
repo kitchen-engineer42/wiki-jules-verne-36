@@ -93,4 +93,4 @@ tags: [chapter]
 
 [FWB-011-041]At this moment the ascensional force of the balloon increased prodigiously, and Ferguson, Kennedy, and Joe, waved a last good-by to their friends.
 
-[FWB-011-042]"Let go all!" shouted the doctor, and at the word the Victoria shot rapidly up into the sky, while the four carronades on board the Resolute thundered forth a parting salute in her honor.
+[FWB-011-042]"Let go all!" shouted the doctor, and at the word [[victoria-balloon|the Victoria]] shot rapidly up into the sky, while the four carronades on board the Resolute thundered forth a parting salute in her honor.

@@ -59,11 +59,11 @@ tags: [chapter]
 
 [RM-021-024]Blomsberry and Bronsfield went into the office whilst the crowd crushed against the door.
 
-[RM-021-025]A few minutes later one message was sent in four different directions:--1st, to the Secretary of the Navy, Washington; 2nd, to the Vice-President of the Gun Club, Baltimore; 3rd, to the Honourable J.T. Maston, Long's Peak, Rocky Mountains; 4th, to the Sub-Director of the Cambridge Observatory, Massachusetts.
+[RM-021-025]A few minutes later one message was sent in four different directions:--1st, to the Secretary of the Navy, Washington; 2nd, to the Vice-President of the Gun Club, [[baltimore|Baltimore]]; 3rd, to the Honourable J.T. Maston, Long's Peak, Rocky Mountains; 4th, to the Sub-Director of the Cambridge Observatory, Massachusetts.
 
 [RM-021-026]It ran as follows:--
 
-[RM-021-027]"In north lat. 20° 7', and west long. 41° 37', the projectile of the Columbiad fell into the Pacific, on December 12th, at 1.17 am. Send instructions.--BLOMSBERRY, Commander Susquehanna."
+[RM-021-027]"In north lat. 20° 7', and west long. 41° 37', the projectile of the [[columbiad|Columbiad]] fell into the Pacific, on December 12th, at 1.17 am. Send instructions.--BLOMSBERRY, Commander Susquehanna."
 
 [RM-021-028]Five minutes afterwards the whole town of San Francisco knew the tidings. Before 6 p.m. the different States of the Union had intelligence of the supreme catastrophe. After midnight, through the cable, the whole of Europe knew the result of the great American enterprise.
 
@@ -111,7 +111,7 @@ tags: [chapter]
 
 [RM-021-050]Their existence together would soon have become impossible, but an unexpected event cut short these eternal discussions.
 
-[RM-021-051]During the night between the 14th and 15th of December the two irreconcilable friends were occupied in observing the lunar disc. J.T. Maston was, as usual, saying strong things to the learned Belfast, who was getting angry too. The Secretary of the Gun Club declared for the thousandth time that he had just perceived the projectile, adding even that Michel Ardan's face had appeared at one of the port-lights. He was emphasising his arguments by a series of gestures which his redoubtable hook rendered dangerous.
+[RM-021-051]During the night between the 14th and 15th of December the two irreconcilable friends were occupied in observing the lunar disc. J.T. Maston was, as usual, saying strong things to the learned Belfast, who was getting angry too. The Secretary of the Gun Club declared for the thousandth time that he had just perceived the projectile, adding even that [[michel-ardan|Michel Ardan]]'s face had appeared at one of the port-lights. He was emphasising his arguments by a series of gestures which his redoubtable hook rendered dangerous.
 
 [RM-021-052]At that moment Belfast's servant appeared upon the platform--it was 10 p.m.--and gave him a telegram. It was the message from the Commander of the Susquehanna.
 
