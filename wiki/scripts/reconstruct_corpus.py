@@ -59,12 +59,19 @@ WORKS = [
     ("In the Year 2889", ["IN THE YEAR 2889"]),
 ]
 
-CHAPTER_RE = re.compile(r"^(CHAPTER|LETTER|SECTION|BOOK)\s+([IVXLCDM]+|[0-9]+)\b\.?\s*(.*)$", re.I)
-PART_RE = re.compile(r"^((FIRST|SECOND|THIRD|FOURTH|FIFTH)\s+PART|PART\s+([IVXLCDM]+|[0-9]+))\b\.?\s*(.*)$", re.I)
+CHAPTER_KW_RE = re.compile(r"^(CHAPTER|LETTER|SECTION|BOOK)\b\.?\s*(.*)$", re.I)
+PART_RE = re.compile(r"^((FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH)\s+PART|PART\s+(THE\s+)?([A-Z0-9]+))\b\.?\s*(.*)$", re.I)
 
 ANCHOR_RE = re.compile(r"\[\]\{#[^}]*\}")
 FENCE_RE = re.compile(r"^:::")
 ATTR_ONLY_RE = re.compile(r"^\{[^}]*\}$")
+
+
+def _upper_ratio(t: str) -> float:
+    letters = [c for c in t if c.isalpha()]
+    if not letters:
+        return 0.0
+    return sum(1 for c in letters if c.isupper()) / len(letters)
 
 
 def is_title_line(s: str) -> bool:
@@ -74,11 +81,25 @@ def is_title_line(s: str) -> bool:
         return False
     if t.endswith((".", "?", "!", ",", ";", ":", '"')):
         return False
-    letters = [c for c in t if c.isalpha()]
-    if not letters:
-        return False
-    upper = sum(1 for c in letters if c.isupper())
-    return upper / len(letters) > 0.6  # 多为大写 → 标题
+    return _upper_ratio(t) > 0.6  # 多为大写 → 标题
+
+
+def chapter_head(t: str):
+    """若该行是章节标题（CHAPTER/LETTER/SECTION/BOOK + 大写短行），
+    返回 (head, inline_rest)，否则 None。兼容罗马/阿拉伯/序数词编号。"""
+    m = CHAPTER_KW_RE.match(t)
+    if not m:
+        return None
+    # 短行 + 关键字开头即视为章节标题（兼容 "Chapter I" 标题式大小写）。
+    # 仅用 upper_ratio 排除较长的正文行（如 "Chapter one was the happiest..."）。
+    if len(t) > 75:
+        return None
+    if len(t) > 40 and _upper_ratio(t) < 0.6:
+        return None
+    kw = m.group(1).upper()
+    rest = m.group(2).strip().rstrip(".")
+    # rest 里可能同时含编号与小标题（"XIX. GALLIA'S GOVERNOR"）；整体保留
+    return kw, rest
 
 
 def norm(s: str) -> str:
@@ -108,14 +129,30 @@ def detect(lines):
     for idx, (_, aliases) in enumerate(WORKS):
         for a in aliases:
             alias_map.setdefault(norm(a), idx)
-    found = {}  # work idx -> line no
+    # 收集每部作品的所有候选行（标题在正文中可能多次出现，如三部曲的
+    # 分卷标题也叫某独立作品名）。
+    cands = {}  # work idx -> [line no, ...]
     for i in range(start, len(lines)):
         key = norm(lines[i])
         if not key or len(key) < 5:
             continue
         idx = alias_map.get(key)
-        if idx is not None and idx not in found:
-            found[idx] = i
+        if idx is not None:
+            cands.setdefault(idx, []).append(i)
+    # 按 ToC 顺序单调赋值：每部选取「晚于上一部已赋行」的最早候选，
+    # 从而排除嵌在前一部作品体内的分卷标题（如 Mysterious Island 内的
+    # "THE SECRET OF THE ISLAND" 分卷头）。
+    found = {}
+    last = -1
+    for idx in range(len(WORKS)):
+        cs = cands.get(idx)
+        if not cs:
+            continue
+        pick = next((c for c in cs if c > last), None)
+        if pick is None:
+            pick = cs[0]  # 无单调候选，回退首个（并保持 last 不倒退）
+        found[idx] = pick
+        last = max(last, pick)
     return start, found
 
 
@@ -149,30 +186,34 @@ def emit(lines, start, found, out_path):
             if FENCE_RE.match(t) or ATTR_ONLY_RE.match(t) or t.startswith("<svg") or t.startswith("</svg") or t.startswith("`<image") or t == "\\":
                 i += 1
                 continue
-            mch = CHAPTER_RE.match(t)
-            mpt = PART_RE.match(t)
-            if mch or mpt:
-                if mch:
-                    kw = mch.group(1).upper()
-                    num = mch.group(2).upper()
-                    rest = mch.group(3).strip()
-                    head = f"{kw} {num}"
+            ch = chapter_head(t)
+            # PART 分卷头须为短的大写行（如 "FIRST PART"），排除正文
+            # "Part of the ..."（PART_RE 在 re.I 下会误配 "of"）。
+            mpt = None
+            if not ch and PART_RE.match(t) and len(t) <= 40 and _upper_ratio(t) > 0.6:
+                mpt = PART_RE.match(t)
+            if ch or mpt:
+                if ch:
+                    kw, rest = ch
+                    head = kw if not rest else f"{kw} {rest}".rstrip()
+                    rest_inline = rest
                 else:
                     head = t.rstrip(".")
-                    rest = mpt.group(4).strip() if mpt.lastindex and mpt.group(mpt.lastindex) else ""
-                # 若无内联标题，尝试折入下一非空标题行
-                if not rest:
+                    rest_inline = mpt.group(5).strip() if mpt.lastindex and mpt.group(mpt.lastindex) else ""
+                    head = head[: len(head) - len(rest_inline)].rstrip() if rest_inline else head
+                # 若无内联小标题，尝试折入下一非空标题行
+                if not rest_inline:
                     j = i + 1
                     while j < end and not lines[j].strip():
                         j += 1
                     nxt = lines[j].strip() if j < end else ""
                     if (j < end and is_title_line(lines[j])
-                            and not CHAPTER_RE.match(nxt) and not PART_RE.match(nxt)):
-                        rest = clean_line(nxt)
+                            and not chapter_head(nxt) and not PART_RE.match(nxt)):
+                        rest_inline = clean_line(nxt)
+                        head = f"{head} — {rest_inline}"
                         i = j
-                label = f"{head} — {rest}" if rest else head
                 out.append("")
-                out.append(f"## {label}")
+                out.append(f"## {head}")
                 out.append("")
                 stats["chapters"] += 1
                 i += 1
