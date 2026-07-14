@@ -1,5 +1,52 @@
-.DS_Store
-__pycache__/
+# ============================================================
+# Vernean Voyages Wiki .gitignore
+# 适用于 MEMEX_ROOT 共享架构
+# ============================================================
+
+# Python
 *.pyc
+*.pyo
+*.pyd
+__pycache__/
 .venv/
 venv/
+*.egg-info/
+
+# Node
+node_modules/
+package.json
+package-lock.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 临时文件
+tmp/
+*.tmp
+
+# 运行时锁文件
+*.lock
+logs/butler/*.lock
+.claude/scheduled_tasks.lock
+
+# 运行时日志
+*.log
+logs/butler/*.log
+logs/wiki-server.log
+
+# 私有内容（草稿、本地笔记等）
+private/
+
+# Claude Code 本地覆盖（用户专属，不提交）
+.claude/worktrees/
+.claude/settings.local.json
+
+# ============================================================
+# ⚠️  必须跟踪（MUST-TRACK）：local/ ref/ logs/rfc logs/daily
+#     corpus/（public-domain 模式，全文跟踪）data/sentence_index/
+#     CLAUDE.md LAW.md CHANGELOG.md README.md BIRTH.md 禁止 gitignore
+# ============================================================

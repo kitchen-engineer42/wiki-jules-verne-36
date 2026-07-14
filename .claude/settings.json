@@ -1,0 +1,67 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git commit*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(git checkout --*)",
+      "Bash(git checkout * -- *)",
+      "Bash(git restore*)",
+      "Bash(git add -A*)",
+      "Bash(git add .)",
+      "Bash(git add --all*)",
+      "Bash(*$MEMEX_ROOT* > *)",
+      "Bash(*$MEMEX_ROOT* >> *)",
+      "Bash(*~/memex* > *)",
+      "Bash(*~/memex* >> *)",
+      "Bash(cp * *memex*)",
+      "Bash(mv * *memex*)",
+      "Bash(rm *memex*)",
+      "Bash(mkdir *memex*)",
+      "Bash(touch *memex*)",
+      "Bash(chmod *memex*)",
+      "Bash(git -C *memex* commit*)",
+      "Bash(git -C *memex* push*)",
+      "Bash(git -C *memex* reset*)",
+      "Bash(python* *open* *memex* *'w'*)",
+      "Bash(python* *open* *memex* *'a'*)"
+    ],
+    "allow": [
+      "Bash(git status)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git show*)",
+      "Bash(git add wiki/public*)",
+      "Bash(python3 wiki/scripts/build_registry.py*)",
+      "Bash(bash wiki/scripts/wiki_commit.sh*)",
+      "Bash(bash wiki/scripts/skill_commit.sh*)",
+      "Bash(bash wiki/scripts/publish.sh)",
+      "Bash(python3 wiki/scripts/butler/discover_by_broken_link.py*)",
+      "Bash(python3 wiki/scripts/butler/corpus_search.py*)",
+      "Bash(python3 wiki/scripts/butler/record_action.py*)",
+      "Bash(cat wiki/logs/butler/*)",
+      "Bash(python3 \"$MEMEX_ROOT/wiki/scripts/add_page.py\"*)",
+      "Bash(python3 \"$MEMEX_ROOT/wiki/scripts/edit_page.py\"*)",
+      "Bash(bash \"$MEMEX_ROOT/wiki/wiki.sh\"*)",
+      "Bash(git commit -F /tmp/gitmsg_*)",
+      "Bash(git add ref/rfc/*)",
+      "Bash(git add logs/rfc/*)",
+      "Bash(git add logs/evolve/*)",
+      "Bash(git add .claude/skills/*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|NotebookEdit|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/restrict_to_project.py\""
+          }
+        ]
+      }
+    ]
+  }
+}
