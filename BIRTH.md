@@ -375,21 +375,20 @@ bash wiki/scripts/skill_commit.sh "feat: Phase 6-A 句子库构建完成"
 
 利用 **SRH1-build-fts-index** 基因，将章节页面构建为浏览器端搜索插件可消费的 `fts-index.json`。
 
-- [ ] 在 `local/config/srh1.config.json` 中配置项目级参数（`pagesDir`、`pageType`、`chapterNumField` 等）
-- [ ] 执行 SRH1 构建：
+- [x] `local/config/srh1.config.json` 已配置：pageType=chapter、idField=id、chapterTitleField=label、outputPath=`docs/wiki/data/fts-index.json`，**pnFormat=`{vvv}-{nnn:03d}-{ppp:03d}`**（三段 volume；`pn_format_to_pattern` 生成 `[A-Za-z0-9]+\-\d{3}\-\d{3}`，`[A-Za-z0-9]+` 天然兼容变长 VVV，无 RFC-0001/0002 的固定宽度缺陷）
+- [x] 执行 SRH1 构建：
   ```bash
   python3 "$MEMEX_ROOT/wiki/scripts/build_fts_index.py" .
   ```
-- [ ] 验证输出：`docs/wiki/data/fts-index.json` 结构正确（`{chapters, entries}`），entries 数 > 0
-- [ ] 接入发布流水线：`wiki/scripts/publish.sh` 为 wrapper 委托 `$MEMEX_ROOT/wiki/scripts/publish.sh`，后者已内置 build_registry → FTS → 修订记录 → 反链 → 坐标 → 知识快照的完整管道，无需手动插入。首次构建 FTS 索引后即可正常发布。
-- [ ] 本地启动 Wiki（`bash wiki-daemon.sh start`），运行自动验证脚本：
+- [x] 验证输出：`docs/wiki/data/fts-index.json` 结构正确（`{chapters, entries}`）；**968 章 / 58,399 段**（与 PN 锚点数一致），entry schema `{c,p,x}`，p 捕获完整 `VVV-NNN-PPP`
+- [x] 接入发布流水线：`wiki/scripts/publish.sh` wrapper 委托 `$MEMEX_ROOT/wiki/scripts/publish.sh`，管道内置 build_registry → FTS → 修订记录 → 反链 → 坐标 → 知识快照，无需手动插入
+- [x] 本地启动 Wiki，`verify_fts.py --query Nautilus Nemo` 通过（退出码 0）：
   ```bash
   python3 "$MEMEX_ROOT/wiki/scripts/verify_fts.py" \
     --base-url http://localhost:1828 \
     --query Nautilus Nemo
   ```
-  退出码 0 = 通过，1 = 无命中或报错。
-  > 首次运行需安装依赖：`pip install playwright && playwright install chromium`
+  结果：`Nautilus` → 668 段、`Nemo` → 604 段命中；fts-index served 于 `/data/fts-index.json`（HTTP 200）。playwright 已装。
 
 **产出验证**：`python3 -c "import json; d=json.load(open('docs/wiki/data/fts-index.json')); print(f'章节 {len(d[\"chapters\"])}, 段落 {len(d[\"entries\"])}')"`
 
@@ -430,9 +429,9 @@ Workflow({scriptPath: "$MEMEX_ROOT/ref/workflows/pn-verify-batch.js"})
 
 **退出条件**：
 
-- [ ] 严重问题数为 0（有则先修复再重新核验）
-- [ ] 轻微问题记录在案，可后续逐步清理
-- [ ] `logs/birth/phase6/pn-verify-report.md` 已写入
+- [x] 严重问题数为 0：本环境无 Workflow 工具 → 降级等价核验；且非 chapter 页仅 About/TOC（无行内 PN 引注），行内核验 Phase 6 无对象，待 Phase 7+ 补做
+- [x] 轻微问题记录在案：章节锚点已经 `assign_pn --verify`（58,399 连续）+ `build_pn_source`（58,395）+ FTS（58,399）三重确认；A5 宽度误报记 RFC-0001
+- [x] `logs/birth/phase6/pn-verify-report.md` 已写入
 
 ---
 

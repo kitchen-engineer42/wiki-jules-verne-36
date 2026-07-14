@@ -1,0 +1,9 @@
+{
+  "pagesDir": "docs/wiki/pages",
+  "outputPath": "docs/wiki/data/fts-index.json",
+  "pageType": "chapter",
+  "idField": "id",
+  "chapterTitleField": "label",
+  "paragraphJoin": " ",
+  "pnFormat": "{vvv}-{nnn:03d}-{ppp:03d}"
+}
