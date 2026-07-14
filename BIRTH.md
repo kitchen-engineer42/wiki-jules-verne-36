@@ -526,4 +526,166 @@ Workflow({scriptPath: "$MEMEX_ROOT/ref/workflows/mtd3-parallel-template-design.j
 
 ---
 
-> Phase 8–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 8 — Butler 准备期
+
+> **comply**: pass（anthology butler.json 适配；chapter_map 改用本地脚本从 pages.json 生成，见 8-C 适配说明）
+> **分桶结构检查**（Phase 启动时 + 每个写 pages/ 步骤后执行）：
+> `python3 wiki/scripts/lint_bucket_structure.py --fix`
+
+**前置条件**：Phase 7 完成（类型体系和图式模板就绪），且 5-F `data/pn-source.json` 已构建。
+
+**目标**：在首次 `/butler` 启动之前，建立 butler 运行所需的全部文件骨架，确保 Step 1 读状态时不因缺文件而报错。
+
+> **自动创建（无需手动）**：`logs/butler/`、`round_counter.txt`、`actions.jsonl`、`docs/wiki/pages.lite.json` 均由脚本首次调用时自动生成。
+>
+> **必须手动创建**：`local/config/butler.json`、`logs/butler/queue.md`、`logs/butler/housekeeping_queue.md`、`logs/butler/quality_rules.md`、`local/butler/chapter-map.md`，以及 `local/config.md` 中的 `CORPUS_PATH` 字段。
+
+### 8-A 建立 logs/ 子目录结构
+
+`logs/` 顶层目录在 Phase 0-B 已创建，但各子目录需在此处建立（见 `ref/spec/sys-directory.md §6`）：
+
+- [x] 创建完整 logs 子目录：
+  ```bash
+  mkdir -p logs/butler logs/daily logs/lint logs/build logs/reports/weekly logs/reports/monthly logs/gene-express
+  ```
+
+### 8-B 建立队列文件骨架
+
+所有队列文件均位于 `logs/butler/`（由 `get_logs_butler()` 解析）：
+
+- [x] 创建 `logs/butler/queue.md`：
+
+```markdown
+# 内容任务队列
+
+## P1 — 高优先级
+<!-- 空，butler discover 后自动填入 -->
+
+## P2 — 中优先级
+
+## P3 — 发现型（每11轮触发）
+```
+
+### 8-B2 创建 local/config/butler.json
+
+`build_chapter_map.py` 及 butler 运行时均依赖此文件。在 8-C 之前必须创建。
+
+- [x] 创建 `local/config/` 目录（若不存在）：
+  ```bash
+  mkdir -p local/config
+  ```
+- [x] 创建 `local/config/butler.json`，按本 wiki（anthology）实际填写。本 wiki 语料
+  `doc_final.md` 用 `#`=作品、`##`=章节，无单书 `# Chapter N` 结构，故 `chapter_pattern`
+  匹配 `##` 章节标题：
+  ```json
+  {
+    "corpus_file": "corpus/raw/doc_final.md",
+    "chapter_pattern": "^## ",
+    "preface_pattern": "^# (Preface|Introduction|Foreword)",
+    "preface_nnn": "000",
+    "appendix_pattern": "^# APPENDIX [A-Z]"
+  }
+  ```
+  字段说明：
+  - `corpus_file`：Phase 3-E 生成的语料终稿路径（相对 wiki 根目录）
+  - `chapter_pattern`：正则，匹配正文章节标题行（anthology 为 `^## `）
+  - `preface_pattern`：正则，匹配前言/序章类标题行
+  - `preface_nnn`：前言的 NNN 编号（通常为 `000`）
+  - `appendix_pattern`：正则，匹配附录标题行（无附录可省略）
+
+- [x] 验证 JSON 格式合法：
+  ```bash
+  python3 -m json.tool local/config/butler.json
+  ```
+
+### 8-C 配置章节映射表
+
+在 `local/butler/chapter-map.md` 中建立人类可读的 NNN↔章节对应表，供 butler 运行时参考。
+**必须运行生成脚本**，禁止从其他 wiki 复制 chapter-map.md。
+
+前提条件：`local/config/butler.json` 已配置（见 8-B2）。
+
+- [x] 创建 `local/butler/` 目录（若不存在）：
+  ```bash
+  mkdir -p local/butler
+  ```
+- [x] 运行生成脚本，从本 wiki 语料自动生成 `local/butler/chapter-map.md`：
+  ```bash
+  WIKI_ROOT="$PWD" python3 wiki/scripts/build_chapter_map.py
+  ```
+- [x] 验证输出章节数量与语料一致：
+  ```bash
+  grep -c "^| \`" local/butler/chapter-map.md   # → 968
+  ```
+
+> **anthology 适配**：共享 `$MEMEX_ROOT/wiki/scripts/butler/build_chapter_map.py`
+> 假设单书——从语料正则抽带阿拉伯数字捕获组的章号生成连续 NNN。本 wiki 为 35 部
+> 凡尔纳作品合集，968 章标题为罗马数字/纯文本（`CHAPTER I` 等），无单一阿拉伯章号，
+> 且 NNN 需按作品分段（VVV-NNN），共享脚本实测 0 章。故改用本地
+> `wiki/scripts/build_chapter_map.py`，从权威源 `docs/wiki/pages.json`（type=chapter）
+> 读取、按 `book_seq` 排序，`pn_prefix` 自各章页 frontmatter 回读（pages.json 未透传此字段），
+> 输出 `VVV-NNN | 作品 | 章节标题` 表。与既有 anthology 本地脚本
+> （build_chapter_pages / generate_toc / assign_pn / build_sentence_index）一致。
+
+### 8-D 补全 local/config.md
+
+Phase 0-A 已写入 `WIKI_LANG`，本步骤补全 butler 运行所需的其余字段：
+
+- [x] 确认 `local/config.md` 包含以下字段（按项目实际填写）：
+
+```
+WIKI_LANG=en
+CORPUS_PATH=corpus/raw/doc_final.md
+WIKI_NAME=Vernean Voyages Wiki
+PORT=1828
+```
+
+- [x] 验证 `CORPUS_PATH` 所指文件确实存在（**前置条件**：5-F `data/pn-source.json` 已构建）：
+  ```bash
+  python3 "$MEMEX_ROOT/wiki/scripts/butler/corpus_search.py" "Nautilus" --max 3
+  ```
+
+### 8-E 建立 quality_rules.md
+
+RUL1 基因（标注错误沉淀为规则）和 W5 反思在写入知识时需要此文件存在：
+
+- [x] 创建 `logs/butler/quality_rules.md`（路径同队列文件，见 `ref/spec/meta-skill-standards.md §7.2`）：
+
+```markdown
+# 质量规则库
+
+本文件由 butler 自动追加，记录从实际操作中沉淀的约束规则。
+
+## 格式规范
+
+## 内容规范
+
+## PN 引注规范
+```
+
+### 8-F 验证核心脚本
+
+- [x] 验证 `docs/wiki/pages.json` 存在且为合法 JSON：
+  ```bash
+  python3 -c "import json; json.load(open('docs/wiki/pages.json')); print('OK')"
+  ```
+
+### 8-G 首次试跑
+
+- [x] 启动 butler，确认 Step 1 读状态无报错：
+  ```
+  /butler --instance explorer --focus discover
+  ```
+  预期：输出 `[R1] ...`，无 FileNotFoundError，`logs/butler/actions.jsonl` 自动生成
+
+**完成条件**：
+- [x] `logs/butler/queue.md` 和 `logs/butler/housekeeping_queue.md` 存在
+- [x] `logs/butler/quality_rules.md` 存在
+- [x] `local/butler/chapter-map.md` 存在
+- [x] `local/config.md` 包含 `WIKI_LANG` 和 `CORPUS_PATH` 字段
+- [x] `docs/wiki/pages.json` 合法
+- [x] 首轮 butler 输出 `[R1]` 行且 `actions.jsonl` 有记录
+
+---
+
+> Phase 9–10 待逐一 `/boot init phaseN` 实例化后执行。

@@ -24,3 +24,4 @@ PROJECT_ROOT=/Users/mac/memex/wiki-jules-verne-36
 # 语料
 CORPUS_SOURCE=The Collected Works of Jules Verne (36 Novels and Short Stories) — Jules Verne
 CORPUS_LICENSE=public-domain
+CORPUS_PATH=corpus/raw/doc_final.md

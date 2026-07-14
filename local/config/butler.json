@@ -1,0 +1,7 @@
+{
+  "corpus_file": "corpus/raw/doc_final.md",
+  "chapter_pattern": "^## ",
+  "preface_pattern": "^# (Preface|Introduction|Foreword)",
+  "preface_nnn": "000",
+  "appendix_pattern": "^# APPENDIX [A-Z]"
+}
