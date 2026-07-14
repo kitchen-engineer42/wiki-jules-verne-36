@@ -435,4 +435,95 @@ Workflow({scriptPath: "$MEMEX_ROOT/ref/workflows/pn-verify-batch.js"})
 
 ---
 
-> Phase 7–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 7 — 知识结构摸底与类型体系调整
+
+> **comply**: pass（LAW.md 四 9 类型已定；SCN23 从 968 章语料勘探实体分布）
+> **分桶结构检查**（Phase 启动时 + 每个写 pages/ 步骤后执行）：
+> `python3 wiki/scripts/lint_bucket_structure.py --fix`
+
+**前置条件**：Phase 6 完成（基础数据就绪），**非章节词条建立之前**执行。
+
+**目标**：推导该 wiki 的实体类型体系，调整 `config/types.js` 配置，为后续通过 NEW1 批量建页和分类查询建立类型先验。
+
+### 7-A 实体类型勘探（SCN23）
+
+```
+SCN23-entity-type-survey
+```
+
+- 从现有章节页面分析内容，推导潜在实体类型分布
+- 输出 `logs/butler/type-survey.md`，包含各类型估算数量和典型实例
+- 确定该 wiki 的主要 `type` 值集合（本 wiki 依 LAW.md 四：character / place / technology / event / work / organization 及其权重）
+
+**输出验证**：`logs/butler/type-survey.md` 存在且包含至少 3 种类型及其估算数量。
+
+### 7-B 类型体系配置调整
+
+根据 type-survey.md 的结论：
+
+1. 审查 `wiki/local/config/types.js`，确认当前 `TYPE_LABELS` 覆盖所有主要类型
+2. 对缺失的类型补充 label（英文显示名 + 颜色）
+3. 对占比 < 1% 的边缘类型，决定合并到近似类型还是保留
+4. 更新本地 `BIRTH.md` 中 Phase 7-B 节的类型表
+
+**完成条件**：
+- [x] type-survey.md 已生成：`logs/butler/type-survey.md`，6 类实体 + 权重 + 典型实例 + 估算数（character 40% / place 22% / technology 16% / event 10% / work 9% / organization 3%）
+- [x] types.js 中所有 type 均有对应 label：`docs/wiki/local/config/types.js` 9 键（chapter/character/place/technology/event/work/organization/overview/list）全有 en label，与勘探结论一致，无需增删
+- [x] 类型表已同步到 CLAUDE.md（本地表更新为「Phase 7 定稿」9 类 + 权重）；BIRTH.spec.md 为 memex 共享文件（RFC-only 写）且类型与 LAW.md 四无差异 → 无需上游同步（N/A）
+
+> 此阶段仅在新 wiki 首次启动时执行一次；后续类型扩充通过 FIX8/EVV8 按需处理。
+
+**Phase 7-B 类型表（定稿）**：
+
+| type | 类别 | 权重 |
+|------|------|------|
+| character | 实体 | ~40% |
+| place | 实体 | ~22% |
+| technology | 实体 | ~16% |
+| event | 实体 | ~10% |
+| work | 实体 | ~9% |
+| organization | 实体 | ~3% |
+| chapter | 语料 | —（968 页）|
+| overview / list | 编辑 | — |
+
+### 7-C 类型图式模板设计（MTD3）
+
+类型确定后，为每个主要 type 设计基础组织结构和 metadata schema：
+
+```
+MTD3-page-schema-template（对每个主要 type 执行一次）
+```
+
+**每种 type 需要确定**：
+
+1. **页面结构**：H2 节的顺序与必填节（如 character 页必须有"Overview"、"Role in the Story"）
+2. **frontmatter 字段**：除通用字段（id / type / label / aliases / tags / description）外，该类型的专属字段（如 character 的 affiliation / first_appearance）
+3. **引文规范**：blockquote 使用习惯、PN 密度期望值
+4. **质量阈值**：basic / standard / featured 各档的最低要求
+5. **插图引用规范**（原书有插图时）：若章节中存在与该类型强相关的图表，模板应说明是否在词条页中引用。引用方式为直接嵌入 `:::image` 块，指向 `docs/wiki/images/` 下的图片文件：
+   ```markdown
+   :::image fig="3.2" src="images/fig-3-2.png" caption="图 3.2 …"
+   :::
+   ```
+   原书无插图或该类型词条与图表关联不强时，此项标注"不适用"即可。（本 wiki 语料为 Calibre 纯文字重构稿，无正文插图 → 统一标注"不适用"。）
+
+**输出**：`local/template/<type>-schema.md`（每个主要 type 一份）
+
+**Workflow 加速**：当需要设计的类型 ≥ 3 种时，可并行执行：
+
+```
+Workflow({scriptPath: "$MEMEX_ROOT/ref/workflows/mtd3-parallel-template-design.js"})
+```
+
+该脚本先通过 agent 读取 `types.js` 和 `type-survey.md` 确定待设计类型列表，再用 `parallel` barrier 为每个类型分配独立 agent 并发设计，最后依次写入 `local/template/`。已存在的类型模板不受影响。
+
+**完成条件**：
+- [x] 所有占比 ≥ 5% 的 type 均有对应模板文件：character/place/technology/event/work（≥5%）均建 `local/template/<type>-schema.md`；organization（3%）亦一并设计，共 6 份
+- [x] 模板中的 frontmatter 字段已同步到 wiki 本地 `CLAUDE.md §Frontmatter`（新增「类型专属字段」表，6 类逐一列出）
+- [x] `docs/wiki/local/config/types.js` 的 label 与模板文件 type 值一一对应（character/place/technology/event/work/organization）
+
+> 无 Workflow 工具可用 → 6 个 schema 模板直接顺序设计（非并行），内容等价。
+
+---
+
+> Phase 8–10 待逐一 `/boot init phaseN` 实例化后执行。
