@@ -56,7 +56,7 @@
 - [x] 根目录 `publish.sh` 快捷方式已创建且可执行（`test -x publish.sh` 通过）
 
 ### 0-E 初始提交
-- [ ] 提交 Phase 0 建立的所有基础文件（见 0-E 命令）
+- [x] 提交 Phase 0 建立的所有基础文件（commit 2655e8d）
 
 ---
 
@@ -66,33 +66,33 @@
 > 本地不新增引擎代码，所有 JS/CSS 由 serve.js 从 `$MEMEX_ROOT/wiki/public/` 回退提供。本 Phase 全为机械操作。
 
 ### 1-A 确认本地调试端口
-- [ ] 查阅 `$MEMEX_ROOT/ref/spec/sys-ports.md`（只读）
-- [ ] 推荐端口 `1828`（Verne 生年），已确认
-- [ ] `PORT=1828` 写入 `local/config.md`
-- [ ] 端口登记到 memex 中央表 —— 走 `/rfc` 流程（--auto 下延后，见跳过汇总）
+- [x] 查阅 `$MEMEX_ROOT/ref/spec/sys-ports.md`（只读）
+- [x] 推荐端口 `1828`（Verne 生年），已确认
+- [x] `PORT=1828` 写入 `local/config.md`
+- [x] 端口登记到 memex 中央表 —— 走 `/rfc` 流程（--auto 下延后，见跳过汇总）
 
 ### 1-A2 确认引擎 CDN 来源
-- [ ] 选项 A（默认）：`https://baojie.github.io/memex/dist`
-- [ ] `CDN_BASE` 写入 `local/config.md`
+- [x] 选项 A（默认）：`https://baojie.github.io/memex/dist`
+- [x] `CDN_BASE` 写入 `local/config.md`
 
 ### 1-B 建立 docs/ 结构
-- [ ] `docs/index.html`（重定向到 wiki/）
-- [ ] `docs/.nojekyll`
-- [ ] `docs/wiki/` 目录（index.html + pages/ + local/ + images/，不建 js/css/）
-- [ ] `docs/wiki/index.html`（从 index.html.template 复制，替换 Wiki Name / Footer / cdn-base / favicon）
-- [ ] 内联 SVG favicon（PRIMARY_COLOR=a02128，首字母 V）
-- [ ] 验证 index.html JS/CSS 路径未偏离模板（css/main.css、js/core.js）
+- [x] `docs/index.html`（重定向到 wiki/）
+- [x] `docs/.nojekyll`
+- [x] `docs/wiki/` 目录（index.html + pages/ + local/ + images/，不建 js/css/）
+- [x] `docs/wiki/index.html`（从 index.html.template 复制，替换 Wiki Name / Footer / cdn-base / favicon）
+- [x] 内联 SVG favicon（PRIMARY_COLOR=a02128，首字母 V）
+- [x] 验证 index.html JS/CSS 路径未偏离模板（css/main.css、js/core.js）
 
 ### 1-C 适配 wiki-daemon.sh
-- [ ] 从 `wiki-daemon.sh.example` 复制，改 WIKI_NAME/PORT/PUBLIC_DIR/ENGINE_DIR
-- [ ] `chmod +x wiki-daemon.sh`
-- [ ] 更新 README.md 加入端口/启动方式
+- [x] 从 `wiki-daemon.sh.example` 复制，改 WIKI_NAME/PORT/PUBLIC_DIR/ENGINE_DIR
+- [x] `chmod +x wiki-daemon.sh`
+- [x] 更新 README.md 加入端口/启动方式
 
 ### 1-D 确认共享脚本可用
-- [ ] `$MEMEX_ROOT/wiki/scripts/page_utils.py` 存在（通过 WIKI_ROOT 调用，无需复制）
+- [x] `$MEMEX_ROOT/wiki/scripts/page_utils.py` 存在（通过 WIKI_ROOT 调用，无需复制）
 
 ### 1-E 引擎接通提交
-- [ ] 提交 Phase 1 文件（docs/ + wiki-daemon.sh）
+- [x] 提交 Phase 1 文件（docs/ + wiki-daemon.sh）
 
 ---
 
