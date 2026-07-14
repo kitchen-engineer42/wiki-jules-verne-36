@@ -1,7 +1,21 @@
 {
   "_schema_version": 2,
-  "pages": {},
-  "alias_index": {},
-  "page_count": 0,
-  "generated": "2026-07-14T02:25:55Z"
+  "pages": {
+    "About": {
+      "type": "overview",
+      "label": "About This Wiki",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "path": "ab/About.md"
+    }
+  },
+  "alias_index": {
+    "About": "About",
+    "About This Wiki": "About",
+    "关于": "About"
+  },
+  "page_count": 1,
+  "generated": "2026-07-14T02:34:28Z"
 }

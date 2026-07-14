@@ -1,7 +1,30 @@
 {
   "_schema_version": 2,
-  "pages": {},
-  "alias_index": {},
-  "page_count": 0,
-  "generated": "2026-07-14T02:25:55Z"
+  "pages": {
+    "About": {
+      "type": "overview",
+      "label": "About This Wiki",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "path": "ab/About.md",
+      "description": "A reader's companion to the Collected Works of Jules Verne.",
+      "prose_len": 955,
+      "prose_chars": 861,
+      "h2_count": 3,
+      "pn_count": 0,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "total_refs": 0
+    }
+  },
+  "alias_index": {
+    "About": "About",
+    "About This Wiki": "About",
+    "关于": "About"
+  },
+  "page_count": 1,
+  "generated": "2026-07-14T02:34:28Z"
 }

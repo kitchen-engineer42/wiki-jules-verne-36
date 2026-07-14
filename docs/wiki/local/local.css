@@ -1,1 +1,154 @@
-/* Vernean Voyages Wiki — local style overrides (Phase 2 will theme this) */
+/* ============================================================
+ * 纸质书亮色 (paper-light)
+ * 
+ *
+ * 适用于: 纸质书阅读体验、长文阅读、人文社科
+ * 推荐配对: 
+ * 风格分类: light-paper
+ * 模式: 亮色 (light) / ライト
+ *
+ * ============================================================ */
+/* ---------- 1. CSS 变量体系 / CSS variables / CSS変数 ---------- */
+
+:root {
+  --fg: #2c2418;
+  --fg-muted: #706050;
+  --bg: #faf8f3;
+  --bg-box: #f0ece4;
+  --bg-nav: #e8e2d8;
+  --accent: #1a5276;
+  --accent-dim: #c8dae8;
+  --link: #884400;
+  --link-broken: #b05050;
+  --border: #d0c8b8;
+  --bg-code: #f0ece4;
+  --bg-table: #faf8f3;
+  --bg-stripe: #f4f0ea;
+}
+
+/* ---------- 2. 首页 Hero 区 / Home hero section / ヒーローセクション ---------- */
+.hero-eyebrow { color: #706050; }
+.hero-title {
+  color: #2c2418;
+  text-shadow: 0 0 30px #1a527640;
+}
+.hero-tagline { color: #706050; }
+.hero-count { color: #1a5276; }
+
+.hero-search input {
+  color: #2c2418;
+  background: #f0ece4;
+  border: 1px solid #d0c8b8;
+}
+.hero-search input:focus {
+  border-color: #1a5276;
+  box-shadow: 0 0 0 3px #1a527633;
+}
+.hero-search input::placeholder { color: #706050; }
+.hero-search #search-results {
+  background: #f0ece4;
+  border: 1px solid #d0c8b8;
+}
+.mode-opt { color: #706050; }
+.mode-opt input[type=checkbox] { accent-color: #1a5276; }
+
+/* FTS */
+.fts-chap { color: #706050; }
+.fts-title { color: #1a5276; }
+.fts-pn { color: #706050; }
+.fts-snip { color: #2c2418; }
+.fts-hl { color: #884400; background: #88440033; }
+.fts-all a { color: #1a5276; border-top: 1px solid #d0c8b8; }
+.fts-all a:hover { background: #c8dae8; }
+
+/* ---------- 3. 首页 Knowledge 面板 / Knowledge panel / ナレッジパネル ---------- */
+.k-title-link { color: #1a5276; }
+.k-value { color: #2c2418; }
+.k-row { color: #2c2418; }
+.k-row.muted { color: #706050; }
+.k-panel { background: #f0ece4; border: 1px solid #d0c8b8; }
+
+/* ---------- 4. 首页书卡 / Book cards / ブックカード ---------- */
+.book-card { background: #f0ece4; border: 1px solid #d0c8b8; }
+.bc-icon { color: #1a5276; background: #c8dae8; }
+.bc-title { color: #2c2418; }
+.bc-title:hover { color: #1a5276; }
+.bc-sub { color: #706050; }
+.bc-chap { color: #884400; }
+.bc-chap:hover { color: #1a5276; }
+.bc-chap--pre, .bc-chap--app { color: #706050; }
+
+/* ---------- 5. 文章正文 / Article body / 記事本文 ---------- */
+article h2 { color: #1a5276; border-bottom: 1px solid #d0c8b8; }
+article h3 { color: #2c2418; }
+article code { color: #1a5276; background: #f0ece4; border: 1px solid #d0c8b8; }
+article table { border: 1px solid #d0c8b8; }
+article th { background: #f0ece4; border: 1px solid #d0c8b8; }
+article td { border: 1px solid #d0c8b8; }
+article tr:nth-child(even) td { background: #f4f0ea; }
+article hr { border-top: 1px solid #d0c8b8; }
+.seealso-block { background: #c8dae8; border-left: 4px solid #1a5276; }
+blockquote { border-left: 4px solid #c8dae8; color: #706050; }
+
+/* ---------- 6. Diff 对比 / Diff view / 差分表示 ---------- */
+.diff-added { color: #4ade80; }
+.diff-removed { color: #fb7185; }
+.diff-add { color: #4ade80; background: #1a2818; }
+.diff-add .diff-char { color: #4ade80; background: #285028; }
+.diff-del { color: #fb7185; background: #2a1010; }
+.diff-del .diff-char { color: #fb7185; background: #5a1820; }
+
+/* ---------- 7. 实体卡片 / Entity cards / エンティティカード ---------- */
+.card-header h3 { color: #1a5276; }
+.featured-card { background: #f0ece4; border: 1px solid #d0c8b8; }
+.featured-card:hover { border-color: #1a5276; }
+.featured-card .card-eyebrow { color: #1a5276; background: #c8dae8; }
+.featured-card .card-desc { color: #706050; }
+
+/* ---------- 8. 实体类型强调色 / Entity accent colors / エンティティアクセント ---------- */
+.entity-person       { border-left-color: #1a5276; }
+.entity-concept      { border-left-color: #818cf8; }
+.entity-event        { border-left-color: #34d399; }
+.entity-species      { border-left-color: #a78bfa; }
+.entity-theory       { border-left-color: #fb923c; }
+.entity-chapter      { border-left-color: #2dd4bf; }
+.entity-organization { border-left-color: #c084fc; }
+.entity-place        { border-left-color: #34d399; }
+.entity-overview     { border-left-color: #34d399; }
+
+.tag-person       { color: #1a5276;       border-color: #1a5276; }
+.tag-concept      { color: #818cf8;      border-color: #818cf8; }
+.tag-event        { color: #34d399;        border-color: #34d399; }
+.tag-species      { color: #a78bfa;      border-color: #a78bfa; }
+.tag-theory       { color: #fb923c;       border-color: #fb923c; }
+.tag-chapter      { color: #2dd4bf;      border-color: #2dd4bf; }
+.tag-organization { color: #c084fc; border-color: #c084fc; }
+.tag-place        { color: #34d399;        border-color: #34d399; }
+.tag-overview     { color: #34d399;     border-color: #34d399; }
+
+/* ---------- 9. 质量徽章 / Quality badges / 品質バッジ ---------- */
+.badge-premium   { background: #3a2870; color: #d8c0f8; }
+.badge-featured  { background: #1a4878; color: #a8d8f0; }
+.badge-standard  { background: #1f4828; color: #a8e0b8; }
+.badge-basic     { background: #3a2e08; color: #e8c870; }
+.badge-stub      { background: #3a1818; color: #f8a8a8; }
+
+/* ---------- 10. 近期更改 / Recent changes / 最近の更新 ---------- */
+.rc-size-plus, .rc-plus { color: #4ade80; }
+.rc-size-minus, .rc-minus { color: #fb7185; }
+
+/* ---------- 11. 阅读进度条 / Reading progress / 読書進捗 ---------- */
+.reading-progress { background: linear-gradient(90deg, #1a5276, #2c2418); }
+
+/* ---------- 12. 源代码视图 / Source view / ソース表示 ---------- */
+.src-container-fence { color: #706050; }
+.source-view { color: #2c2418; background: #f0ece4; }
+.src-pre.src-fm { border-top: 1px solid #d0c8b8; }
+
+/* ---------- 13. 滚动条 / Scrollbar / スクロールバー ---------- */
+::-webkit-scrollbar-track { background: #faf8f3; }
+::-webkit-scrollbar-thumb { background: #d0c8b8; }
+::-webkit-scrollbar-thumb:hover { background: #1a5276; }
+
+/* ---------- 14. 选中文本 / Selection / 選択範囲 ---------- */
+::selection { background: #1a527640; color: #2c2418; }

@@ -96,4 +96,46 @@
 
 ---
 
-> Phase 2–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 2：Wiki 配置
+
+> **comply**: pass（en 变体实例化，占位符已填，PCF1–5 通过）
+> **目标**：Phase 2 结束后，空 Wiki 完整可用：页面正常渲染，About 页可访问，控制台无报错。
+
+### 2-A 本地 JS 配置文件初始化
+- [x] `docs/wiki/local/LocalSettings.js`（wgSiteName='Vernean Voyages Wiki'；启用非 core 无配置插件 autolink/pn-citation/footnote/backlinks/sealso/want-button/math/math-array/page-marker/export + optional semantic-block/semantic-query；地图插件保持注释）
+- [x] `docs/wiki/local/config/i18n.config.js`（`defaultLang = 'en'`，required 插件）
+- [x] `docs/wiki/local/config/chapter.config.js`（`TOC_PAGE_ID = 'TOC'`）
+- [x] `docs/wiki/local/config/types.js`（9 类型 en 标签，依 LAW.md：chapter/character/place/technology/event/work/organization/overview/list）
+- [x] `docs/wiki/local/config/infobox.js`（FIELD_LABELS/INFOBOX_SKIP/FIELD_GROUPS，en）
+- [x] `docs/wiki/local/config/hero.js`（EYEBROW/TITLE/TAGLINE/DOC_TITLE，BOOK_DISPLAY='strip'，BOOK_META 占位待 Phase 4/5 补全）
+- [x] `docs/wiki/local/config/home.js`（HOME_SECTIONS：Characters/Places/Technology；SKIP_TYPES）
+- [x] `docs/wiki/local/config/variables.js`（AUTHOR=Jules Verne 等）
+- [x] `docs/wiki/local/config/event-linkify.config.js`（required：LINKIFY_FIELDS，en）
+- [x] required 插件核查：`i18n`、`event-linkify` 均已建配置；optional semantic-block/query 用默认值
+
+### 2-B 使用 NEW1 创建 About 页面
+- [x] `add_page.py About`（type=overview，label='About This Wiki'，含 Source Material / Usage Notes / Copyright），写入 `pages/ab/About.md`，注册表已重建
+
+### 2-C-1 local.css 主题配色
+- [x] 列出 50 套主题，选定 **55 纸质书亮色（paper-light）**，与 Hetzel 深红 favicon 协调
+- [x] 应用主题（`local.css`，原占位备份为 `local.css.bak`）
+- [x] 确认页面配色正常渲染
+
+### 2-C-2 Hero 视觉设计
+- [x] 视觉隐喻：古董航海图上沿正弦航线漂移的深红光点（凡尔纳"非凡旅行"）
+- [x] 实现 `docs/wiki/local/config/hero.config.js`（`buildHeroBackground()` 返回 `<canvas class="hero-cosmos">`，`startHeroAnimation()` 注册清理）
+- [x] 本地验证：Hero 背景与 paper-light 主题协调，无报错
+
+### 2-D 验证
+- [x] `./wiki-daemon.sh start`，访问 `http://localhost:1828`
+- [x] 页面正常渲染（空 Wiki，无报错）
+- [x] About 页正常显示（topnav → About）
+- [x] 关键资产 + 配置文件均 HTTP 200，无非预期 404
+- [x] local.css 加载正常，配色正确
+
+### 2-E Wiki 配置提交
+- [x] 提交 Phase 2 配置文件 + About 页 + 注册表
+
+---
+
+> Phase 3–10 待逐一 `/boot init phaseN` 实例化后执行。
