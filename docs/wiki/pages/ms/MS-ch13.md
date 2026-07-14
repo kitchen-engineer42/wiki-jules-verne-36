@@ -11,192 +11,192 @@ tags: [chapter]
 ---
 # Michael Strogoff — CHAPTER XII PROVOCATION
 
-EKATERENBURG, geographically, is an Asiatic city; for it is situated beyond the Ural Mountains, on the farthest eastern slopes of the chain. Nevertheless, it belongs to the government of Perm; and, consequently, is included in one of the great divisions of European Russia. It is as though a morsel of Siberia lay in Russian jaws.
+[MS-013-001]EKATERENBURG, geographically, is an Asiatic city; for it is situated beyond the Ural Mountains, on the farthest eastern slopes of the chain. Nevertheless, it belongs to the government of Perm; and, consequently, is included in one of the great divisions of European Russia. It is as though a morsel of Siberia lay in Russian jaws.
 
-Neither Michael nor his companions were likely to experience the slightest difficulty in obtaining means of continuing their journey in so large a town as Ekaterenburg. It was founded in 1723, and has since become a place of considerable size, for in it is the chief mint of the empire. There also are the headquarters of the officials employed in the management of the mines. Thus the town is the center of an important district, abounding in manufactories principally for the working and refining of gold and platina.
+[MS-013-002]Neither Michael nor his companions were likely to experience the slightest difficulty in obtaining means of continuing their journey in so large a town as Ekaterenburg. It was founded in 1723, and has since become a place of considerable size, for in it is the chief mint of the empire. There also are the headquarters of the officials employed in the management of the mines. Thus the town is the center of an important district, abounding in manufactories principally for the working and refining of gold and platina.
 
-Just now the population of Ekaterenburg had greatly increased; many Russians and Siberians, menaced by the Tartar invasion, having collected there. Thus, though it had been so troublesome a matter to find horses and vehicles when going to Ekaterenburg, there was no difficulty in leaving it; for under present circumstances few travelers cared to venture on the Siberian roads.
+[MS-013-003]Just now the population of Ekaterenburg had greatly increased; many Russians and Siberians, menaced by the Tartar invasion, having collected there. Thus, though it had been so troublesome a matter to find horses and vehicles when going to Ekaterenburg, there was no difficulty in leaving it; for under present circumstances few travelers cared to venture on the Siberian roads.
 
-So it happened that Blount and Alcide had not the slightest trouble in replacing, by a sound telga, the famous demi-carriage which had managed to take them to Ekaterenburg. As to Michael, he retained his tarantass, which was not much the worse for its journey across the Urals; and he had only to harness three good horses to it to take him swiftly over the road to Irkutsk.
+[MS-013-004]So it happened that Blount and Alcide had not the slightest trouble in replacing, by a sound telga, the famous demi-carriage which had managed to take them to Ekaterenburg. As to Michael, he retained his tarantass, which was not much the worse for its journey across the Urals; and he had only to harness three good horses to it to take him swiftly over the road to Irkutsk.
 
-As far as Tioumen, and even up to Novo-Zaimskoe, this road has slight inclines, which gentle undulations are the first signs of the slopes of the Ural Mountains. But after Novo-Zaimskoe begins the immense steppe.
+[MS-013-005]As far as Tioumen, and even up to Novo-Zaimskoe, this road has slight inclines, which gentle undulations are the first signs of the slopes of the Ural Mountains. But after Novo-Zaimskoe begins the immense steppe.
 
-At Ichim, as we have said, the reporters intended to stop, that is at about four hundred and twenty miles from Ekaterenburg. There they intended to be guided by circumstances as to their route across the invaded country, either together or separately, according as their news-hunting instinct set them on one track or another.
+[MS-013-006]At Ichim, as we have said, the reporters intended to stop, that is at about four hundred and twenty miles from Ekaterenburg. There they intended to be guided by circumstances as to their route across the invaded country, either together or separately, according as their news-hunting instinct set them on one track or another.
 
-This road from Ekaterenburg to Ichim--which passes through Irkutsk--was the only one which Michael could take. But, as he did not run after news, and wished, on the contrary, to avoid the country devastated by the invaders, he determined to stop nowhere.
+[MS-013-007]This road from Ekaterenburg to Ichim--which passes through Irkutsk--was the only one which Michael could take. But, as he did not run after news, and wished, on the contrary, to avoid the country devastated by the invaders, he determined to stop nowhere.
 
-"I am very happy to make part of my journey in your company," said he to his new companions, "but I must tell you that I am most anxious to reach Omsk; for my sister and I are going to rejoin our mother. Who can say whether we shall arrive before the Tartars reach the town! I must therefore stop at the post-houses only long enough to change horses, and must travel day and night."
+[MS-013-008]"I am very happy to make part of my journey in your company," said he to his new companions, "but I must tell you that I am most anxious to reach Omsk; for my sister and I are going to rejoin our mother. Who can say whether we shall arrive before the Tartars reach the town! I must therefore stop at the post-houses only long enough to change horses, and must travel day and night."
 
-"That is exactly what we intend doing," replied Blount.
+[MS-013-009]"That is exactly what we intend doing," replied Blount.
 
-"Good," replied Michael; "but do not lose an instant. Buy or hire a carriage whose--"
+[MS-013-010]"Good," replied Michael; "but do not lose an instant. Buy or hire a carriage whose--"
 
-"Whose hind wheels," added Alcide, "are warranted to arrive at the same time as its front wheels."
+[MS-013-011]"Whose hind wheels," added Alcide, "are warranted to arrive at the same time as its front wheels."
 
-Half an hour afterwards the energetic Frenchman had found a tarantass in which he and his companion at once seated themselves. Michael and Nadia once more entered their own carriage, and at twelve o'clock the two vehicles left the town of Ekaterenburg together.
+[MS-013-012]Half an hour afterwards the energetic Frenchman had found a tarantass in which he and his companion at once seated themselves. Michael and Nadia once more entered their own carriage, and at twelve o'clock the two vehicles left the town of Ekaterenburg together.
 
-Nadia was at last in Siberia, on that long road which led to Irkutsk. What must then have been the thoughts of the young girl? Three strong swift horses were taking her across that land of exile where her parent was condemned to live, for how long she knew not, and so far from his native land. But she scarcely noticed those long steppes over which the tarantass was rolling, and which at one time she had despaired of ever seeing, for her eyes were gazing at the horizon, beyond which she knew her banished father was. She saw nothing of the country across which she was traveling at the rate of fifteen versts an hour; nothing of these regions of Western Siberia, so different from those of the east. Here, indeed, were few cultivated fields; the soil was poor, at least at the surface, but in its bowels lay hid quantities of iron, copper, platina, and gold. How can hands be found to cultivate the land, when it pays better to burrow beneath the earth? The pickaxe is everywhere at work; the spade nowhere.
+[MS-013-013]Nadia was at last in Siberia, on that long road which led to Irkutsk. What must then have been the thoughts of the young girl? Three strong swift horses were taking her across that land of exile where her parent was condemned to live, for how long she knew not, and so far from his native land. But she scarcely noticed those long steppes over which the tarantass was rolling, and which at one time she had despaired of ever seeing, for her eyes were gazing at the horizon, beyond which she knew her banished father was. She saw nothing of the country across which she was traveling at the rate of fifteen versts an hour; nothing of these regions of Western Siberia, so different from those of the east. Here, indeed, were few cultivated fields; the soil was poor, at least at the surface, but in its bowels lay hid quantities of iron, copper, platina, and gold. How can hands be found to cultivate the land, when it pays better to burrow beneath the earth? The pickaxe is everywhere at work; the spade nowhere.
 
-However, Nadia's thoughts sometimes left the provinces of Lake Baikal, and returned to her present situation. Her father's image faded away, and was replaced by that of her generous companion as he first appeared on the Vladimir railroad. She recalled his attentions during that journey, his arrival at the police-station, the hearty simplicity with which he had called her sister, his kindness to her in the descent of the Volga, and then all that he did for her on that terrible night of the storm in the Urals, when he saved her life at the peril of his own.
+[MS-013-014]However, Nadia's thoughts sometimes left the provinces of Lake Baikal, and returned to her present situation. Her father's image faded away, and was replaced by that of her generous companion as he first appeared on the Vladimir railroad. She recalled his attentions during that journey, his arrival at the police-station, the hearty simplicity with which he had called her sister, his kindness to her in the descent of the Volga, and then all that he did for her on that terrible night of the storm in the Urals, when he saved her life at the peril of his own.
 
-Thus Nadia thought of Michael. She thanked God for having given her such a gallant protector, a friend so generous and wise. She knew that she was safe with him, under his protection. No brother could have done more than he. All obstacles seemed cleared away; the performance of her journey was but a matter of time.
+[MS-013-015]Thus Nadia thought of Michael. She thanked God for having given her such a gallant protector, a friend so generous and wise. She knew that she was safe with him, under his protection. No brother could have done more than he. All obstacles seemed cleared away; the performance of her journey was but a matter of time.
 
-Michael remained buried in thought. He also thanked God for having brought about this meeting with Nadia, which at the same time enabled him to do a good action, and afforded him additional means for concealing his true character. He delighted in the young girl's calm intrepidity. Was she not indeed his sister? His feeling towards his beautiful and brave companion was rather respect than affection. He felt that hers was one of those pure and rare hearts which are held by all in high esteem.
+[MS-013-016]Michael remained buried in thought. He also thanked God for having brought about this meeting with Nadia, which at the same time enabled him to do a good action, and afforded him additional means for concealing his true character. He delighted in the young girl's calm intrepidity. Was she not indeed his sister? His feeling towards his beautiful and brave companion was rather respect than affection. He felt that hers was one of those pure and rare hearts which are held by all in high esteem.
 
-However, Michael's dangers were now beginning, since he had reached Siberian ground. If the reporters were not mistaken, if Ivan Ogareff had really passed the frontier, all his actions must be made with extreme caution. Things were now altered; Tartar spies swarmed in the Siberian provinces. His incognito once discovered, his character as courier of the Czar known, there was an end of his journey, and probably of his life. Michael felt now more than ever the weight of his responsibility.
+[MS-013-017]However, Michael's dangers were now beginning, since he had reached Siberian ground. If the reporters were not mistaken, if Ivan Ogareff had really passed the frontier, all his actions must be made with extreme caution. Things were now altered; Tartar spies swarmed in the Siberian provinces. His incognito once discovered, his character as courier of the Czar known, there was an end of his journey, and probably of his life. Michael felt now more than ever the weight of his responsibility.
 
-While such were the thoughts of those occupying the first carriage, what was happening in the second? Nothing out of the way. Alcide spoke in sentences; Blount replied by monosyllables. Each looked at everything in his own light, and made notes of such incidents as occurred on the journey--few and but slightly varied--while they crossed the provinces of Western Siberia.
+[MS-013-018]While such were the thoughts of those occupying the first carriage, what was happening in the second? Nothing out of the way. Alcide spoke in sentences; Blount replied by monosyllables. Each looked at everything in his own light, and made notes of such incidents as occurred on the journey--few and but slightly varied--while they crossed the provinces of Western Siberia.
 
-At each relay the reporters descended from their carriage and found themselves with Michael. Except when meals were to be taken at the post-houses, Nadia did not leave the tarantass. When obliged to breakfast or dine, she sat at table, but was always very reserved, and seldom joined in conversation.
+[MS-013-019]At each relay the reporters descended from their carriage and found themselves with Michael. Except when meals were to be taken at the post-houses, Nadia did not leave the tarantass. When obliged to breakfast or dine, she sat at table, but was always very reserved, and seldom joined in conversation.
 
-Alcide, without going beyond the limits of strict propriety, showed that he was greatly struck by the young girl. He admired the silent energy which she showed in bearing all the fatigues of so difficult a journey.
+[MS-013-020]Alcide, without going beyond the limits of strict propriety, showed that he was greatly struck by the young girl. He admired the silent energy which she showed in bearing all the fatigues of so difficult a journey.
 
-The forced stoppages were anything but agreeable to Michael; so he hastened the departure at each relay, roused the innkeepers, urged on the iemschiks, and expedited the harnessing of the tarantass. Then the hurried meal over--always much too hurried to agree with Blount, who was a methodical eater--they started, and were driven as eagles, for they paid like princes.
+[MS-013-021]The forced stoppages were anything but agreeable to Michael; so he hastened the departure at each relay, roused the innkeepers, urged on the iemschiks, and expedited the harnessing of the tarantass. Then the hurried meal over--always much too hurried to agree with Blount, who was a methodical eater--they started, and were driven as eagles, for they paid like princes.
 
-It need scarcely be said that Blount did not trouble himself about the girl at table. That gentleman was not in the habit of doing two things at once. She was also one of the few subjects of conversation which he did not care to discuss with his companion.
+[MS-013-022]It need scarcely be said that Blount did not trouble himself about the girl at table. That gentleman was not in the habit of doing two things at once. She was also one of the few subjects of conversation which he did not care to discuss with his companion.
 
-Alcide having asked him, on one occasion, how old he thought the girl, "What girl?" he replied, quite seriously.
+[MS-013-023]Alcide having asked him, on one occasion, how old he thought the girl, "What girl?" he replied, quite seriously.
 
-"Why, Nicholas Korpanoff's sister."
+[MS-013-024]"Why, Nicholas Korpanoff's sister."
 
-"Is she his sister?"
+[MS-013-025]"Is she his sister?"
 
-"No; his grandmother!" replied Alcide, angry at his indifference. "What age should you consider her?"
+[MS-013-026]"No; his grandmother!" replied Alcide, angry at his indifference. "What age should you consider her?"
 
-"Had I been present at her birth I might have known."
+[MS-013-027]"Had I been present at her birth I might have known."
 
-Very few of the Siberian peasants were to be seen in the fields. These peasants are remarkable for their pale, grave faces, which a celebrated traveler has compared to those of the Castilians, without the haughtiness of the latter. Here and there some villages already deserted indicated the approach of the Tartar hordes. The inhabitants, having driven off their flocks of sheep, their camels, and their horses, were taking refuge in the plains of the north. Some tribes of the wandering Kirghiz, who remained faithful, had transported their tents beyond the Irtych, to escape the depredations of the invaders.
+[MS-013-028]Very few of the Siberian peasants were to be seen in the fields. These peasants are remarkable for their pale, grave faces, which a celebrated traveler has compared to those of the Castilians, without the haughtiness of the latter. Here and there some villages already deserted indicated the approach of the Tartar hordes. The inhabitants, having driven off their flocks of sheep, their camels, and their horses, were taking refuge in the plains of the north. Some tribes of the wandering Kirghiz, who remained faithful, had transported their tents beyond the Irtych, to escape the depredations of the invaders.
 
-Happily, post traveling was as yet uninterrupted; and telegraphic communication could still be effected between places connected with the wire. At each relay horses were to be had on the usual conditions. At each telegraphic station the clerks transmitted messages delivered to them, delaying for State dispatches alone.
+[MS-013-029]Happily, post traveling was as yet uninterrupted; and telegraphic communication could still be effected between places connected with the wire. At each relay horses were to be had on the usual conditions. At each telegraphic station the clerks transmitted messages delivered to them, delaying for State dispatches alone.
 
-Thus far, then, Michael's journey had been accomplished satisfactorily. The courier of the Czar had in no way been impeded; and, if he could only get on to Krasnoiarsk, which seemed the farthest point attained by Feofar-Khan's Tartars, he knew that he could arrive at Irkutsk, before them. The day after the two carriages had left Ekaterenburg they reached the small town of Toulouguisk at seven o'clock in the morning, having covered two hundred and twenty versts, no event worthy of mention having occurred. The same evening, the 22d of July, they arrived at Tioumen.
+[MS-013-030]Thus far, then, Michael's journey had been accomplished satisfactorily. The courier of the Czar had in no way been impeded; and, if he could only get on to Krasnoiarsk, which seemed the farthest point attained by Feofar-Khan's Tartars, he knew that he could arrive at Irkutsk, before them. The day after the two carriages had left Ekaterenburg they reached the small town of Toulouguisk at seven o'clock in the morning, having covered two hundred and twenty versts, no event worthy of mention having occurred. The same evening, the 22d of July, they arrived at Tioumen.
 
-Tioumen, whose population is usually ten thousand inhabitants, then contained double that number. This, the first industrial town established by the Russians in Siberia, in which may be seen a fine metal-refining factory and a bell foundry, had never before presented such an animated appearance. The correspondents immediately went off after news. That brought by Siberian fugitives from the seat of war was far from reassuring. They said, amongst other things, that Feofar-Khan's army was rapidly approaching the valley of the Ichim, and they confirmed the report that the Tartar chief was soon to be joined by Colonel Ogareff, if he had not been so already. Hence the conclusion was that operations would be pushed in Eastern Siberia with the greatest activity. However, the loyal Cossacks of the government of Tobolsk were advancing by forced marches towards Tomsk, in the hope of cutting off the Tartar columns.
+[MS-013-031]Tioumen, whose population is usually ten thousand inhabitants, then contained double that number. This, the first industrial town established by the Russians in Siberia, in which may be seen a fine metal-refining factory and a bell foundry, had never before presented such an animated appearance. The correspondents immediately went off after news. That brought by Siberian fugitives from the seat of war was far from reassuring. They said, amongst other things, that Feofar-Khan's army was rapidly approaching the valley of the Ichim, and they confirmed the report that the Tartar chief was soon to be joined by Colonel Ogareff, if he had not been so already. Hence the conclusion was that operations would be pushed in Eastern Siberia with the greatest activity. However, the loyal Cossacks of the government of Tobolsk were advancing by forced marches towards Tomsk, in the hope of cutting off the Tartar columns.
 
-At midnight the town of Novo-Saimsk was reached; and the travelers now left behind them the country broken by tree-covered hills, the last remains of the Urals.
+[MS-013-032]At midnight the town of Novo-Saimsk was reached; and the travelers now left behind them the country broken by tree-covered hills, the last remains of the Urals.
 
-Here began the regular Siberian steppe which extends to the neighborhood of Krasnoiarsk. It is a boundless plain, a vast grassy desert; earth and sky here form a circle as distinct as that traced by a sweep of the compasses. The steppe presents nothing to attract notice but the long line of the telegraph posts, their wires vibrating in the breeze like the strings of a harp. The road could be distinguished from the rest of the plain only by the clouds of fine dust which rose under the wheels of the tarantass. Had it not been for this white riband, which stretched away as far as the eye could reach, the travelers might have thought themselves in a desert.
+[MS-013-033]Here began the regular Siberian steppe which extends to the neighborhood of Krasnoiarsk. It is a boundless plain, a vast grassy desert; earth and sky here form a circle as distinct as that traced by a sweep of the compasses. The steppe presents nothing to attract notice but the long line of the telegraph posts, their wires vibrating in the breeze like the strings of a harp. The road could be distinguished from the rest of the plain only by the clouds of fine dust which rose under the wheels of the tarantass. Had it not been for this white riband, which stretched away as far as the eye could reach, the travelers might have thought themselves in a desert.
 
-Michael and his companions again pressed rapidly forward. The horses, urged on by the iemschik, seemed to fly over the ground, for there was not the slightest obstacle to impede them. The tarantass was going straight for Ichim, where the two correspondents intended to stop, if nothing happened to make them alter their plans.
+[MS-013-034]Michael and his companions again pressed rapidly forward. The horses, urged on by the iemschik, seemed to fly over the ground, for there was not the slightest obstacle to impede them. The tarantass was going straight for Ichim, where the two correspondents intended to stop, if nothing happened to make them alter their plans.
 
-A hundred and twenty miles separated Novo-Saimsk from the town of Ichim, and before eight o'clock the next evening the distance could and should be accomplished if no time was lost. In the opinion of the iemschiks, should the travelers not be great lords or high functionaries, they were worthy of being so, if it was only for their generosity in the matter of "na vodkou."
+[MS-013-035]A hundred and twenty miles separated Novo-Saimsk from the town of Ichim, and before eight o'clock the next evening the distance could and should be accomplished if no time was lost. In the opinion of the iemschiks, should the travelers not be great lords or high functionaries, they were worthy of being so, if it was only for their generosity in the matter of "na vodkou."
 
-On the afternoon of the next day, the 23rd of July, the two carriages were not more than thirty versts from Ichim. Suddenly Michael caught sight of a carriage--scarcely visible among the clouds of dust--preceding them along the road. As his horses were evidently less fatigued than those of the other traveler, he would not be long in overtaking it. This was neither a tarantass nor a telga, but a post-berlin, which looked as if it had made a long journey. The postillion was thrashing his horses with all his might, and only kept them at a gallop by dint of abuse and blows. The berlin had certainly not passed through Novo-Saimsk, and could only have struck the Irkutsk road by some less frequented route across the steppe.
+[MS-013-036]On the afternoon of the next day, the 23rd of July, the two carriages were not more than thirty versts from Ichim. Suddenly Michael caught sight of a carriage--scarcely visible among the clouds of dust--preceding them along the road. As his horses were evidently less fatigued than those of the other traveler, he would not be long in overtaking it. This was neither a tarantass nor a telga, but a post-berlin, which looked as if it had made a long journey. The postillion was thrashing his horses with all his might, and only kept them at a gallop by dint of abuse and blows. The berlin had certainly not passed through Novo-Saimsk, and could only have struck the Irkutsk road by some less frequented route across the steppe.
 
-Our travelers' first thought, on seeing this berlin, was to get in front of it, and arrive first at the relay, so as to make sure of fresh horses. They said a word to their iemschiks, who soon brought them up with the berlin.
+[MS-013-037]Our travelers' first thought, on seeing this berlin, was to get in front of it, and arrive first at the relay, so as to make sure of fresh horses. They said a word to their iemschiks, who soon brought them up with the berlin.
 
-Michael Strogoff came up first. As he passed, a head was thrust out of the window of the berlin.
+[MS-013-038]Michael Strogoff came up first. As he passed, a head was thrust out of the window of the berlin.
 
-He had not time to see what it was like, but as he dashed by he distinctly heard this word, uttered in an imperious tone: "Stop!"
+[MS-013-039]He had not time to see what it was like, but as he dashed by he distinctly heard this word, uttered in an imperious tone: "Stop!"
 
-But they did not stop; on the contrary, the berlin was soon distanced by the two tarantasses.
+[MS-013-040]But they did not stop; on the contrary, the berlin was soon distanced by the two tarantasses.
 
-It now became a regular race; for the horses of the berlin--no doubt excited by the sight and pace of the others--recovered their strength and kept up for some minutes. The three carriages were hidden in a cloud of dust. From this cloud issued the cracking of whips mingled with excited shouts and exclamations of anger.
+[MS-013-041]It now became a regular race; for the horses of the berlin--no doubt excited by the sight and pace of the others--recovered their strength and kept up for some minutes. The three carriages were hidden in a cloud of dust. From this cloud issued the cracking of whips mingled with excited shouts and exclamations of anger.
 
-Nevertheless, the advantage remained with Michael and his companions, which might be very important to them if the relay was poorly provided with horses. Two carriages were perhaps more than the postmaster could provide for, at least in a short space of time.
+[MS-013-042]Nevertheless, the advantage remained with Michael and his companions, which might be very important to them if the relay was poorly provided with horses. Two carriages were perhaps more than the postmaster could provide for, at least in a short space of time.
 
-Half an hour after the berlin was left far behind, looking only a speck on the horizon of the steppe.
+[MS-013-043]Half an hour after the berlin was left far behind, looking only a speck on the horizon of the steppe.
 
-It was eight o'clock in the evening when the two carriages reached Ichim. The news was worse and worse with regard to the invasion. The town itself was menaced by the Tartar vanguard; and two days before the authorities had been obliged to retreat to Tobolsk. There was not an officer nor a soldier left in Ichim.
+[MS-013-044]It was eight o'clock in the evening when the two carriages reached Ichim. The news was worse and worse with regard to the invasion. The town itself was menaced by the Tartar vanguard; and two days before the authorities had been obliged to retreat to Tobolsk. There was not an officer nor a soldier left in Ichim.
 
-On arriving at the relay, Michael Strogoff immediately asked for horses. He had been fortunate in distancing the berlin. Only three horses were fit to be harnessed. The others had just come in worn out from a long stage.
+[MS-013-045]On arriving at the relay, Michael Strogoff immediately asked for horses. He had been fortunate in distancing the berlin. Only three horses were fit to be harnessed. The others had just come in worn out from a long stage.
 
-As the two correspondents intended to stop at Ichim, they had not to trouble themselves to find transport, and had their carriage put away. In ten minutes Michael was told that his tarantass was ready to start.
+[MS-013-046]As the two correspondents intended to stop at Ichim, they had not to trouble themselves to find transport, and had their carriage put away. In ten minutes Michael was told that his tarantass was ready to start.
 
-"Good," said he.
+[MS-013-047]"Good," said he.
 
-Then turning to the two reporters: "Well, gentlemen, the time is come for us to separate."
+[MS-013-048]Then turning to the two reporters: "Well, gentlemen, the time is come for us to separate."
 
-"What, Mr. Korpanoff," said Alcide Jolivet, "shall you not stop even for an hour at Ichim?"
+[MS-013-049]"What, Mr. Korpanoff," said Alcide Jolivet, "shall you not stop even for an hour at Ichim?"
 
-"No, sir; and I also wish to leave the post-house before the arrival of the berlin which we distanced."
+[MS-013-050]"No, sir; and I also wish to leave the post-house before the arrival of the berlin which we distanced."
 
-"Are you afraid that the traveler will dispute the horses with you?"
+[MS-013-051]"Are you afraid that the traveler will dispute the horses with you?"
 
-"I particularly wish to avoid any difficulty."
+[MS-013-052]"I particularly wish to avoid any difficulty."
 
-"Then, Mr. Korpanoff," said Jolivet, "it only remains for us to thank you once more for the service you rendered us, and the pleasure we have had in traveling with you."
+[MS-013-053]"Then, Mr. Korpanoff," said Jolivet, "it only remains for us to thank you once more for the service you rendered us, and the pleasure we have had in traveling with you."
 
-"It is possible that we shall meet you again in a few days at Omsk," added Blount.
+[MS-013-054]"It is possible that we shall meet you again in a few days at Omsk," added Blount.
 
-"It is possible," answered Michael, "since I am going straight there."
+[MS-013-055]"It is possible," answered Michael, "since I am going straight there."
 
-"Well, I wish you a safe journey, Mr. Korpanoff," said Alcide, "and Heaven preserve you from telgas."
+[MS-013-056]"Well, I wish you a safe journey, Mr. Korpanoff," said Alcide, "and Heaven preserve you from telgas."
 
-The two reporters held out their hands to Michael with the intention of cordially shaking his, when the sound of a carriage was heard outside. Almost immediately the door was flung open and a man appeared.
+[MS-013-057]The two reporters held out their hands to Michael with the intention of cordially shaking his, when the sound of a carriage was heard outside. Almost immediately the door was flung open and a man appeared.
 
-It was the traveler of the berlin, a military-looking man, apparently about forty years of age, tall, robust in figure, broad-shouldered, with a strongly-set head, and thick mus-taches meeting red whiskers. He wore a plain uniform. A cavalry saber hung at his side, and in his hand he held a short-handled whip.
+[MS-013-058]It was the traveler of the berlin, a military-looking man, apparently about forty years of age, tall, robust in figure, broad-shouldered, with a strongly-set head, and thick mus-taches meeting red whiskers. He wore a plain uniform. A cavalry saber hung at his side, and in his hand he held a short-handled whip.
 
-"Horses," he demanded, with the air of a man accustomed to command.
+[MS-013-059]"Horses," he demanded, with the air of a man accustomed to command.
 
-"I have no more disposable horses," answered the postmaster, bowing.
+[MS-013-060]"I have no more disposable horses," answered the postmaster, bowing.
 
-"I must have some this moment."
+[MS-013-061]"I must have some this moment."
 
-"It is impossible."
+[MS-013-062]"It is impossible."
 
-"What are those horses which have just been harnessed to the tarantass I saw at the door?"
+[MS-013-063]"What are those horses which have just been harnessed to the tarantass I saw at the door?"
 
-"They belong to this traveler," answered the postmaster, pointing to Michael Strogoff.
+[MS-013-064]"They belong to this traveler," answered the postmaster, pointing to Michael Strogoff.
 
-"Take them out!" said the traveler in a tone which admitted of no reply.
+[MS-013-065]"Take them out!" said the traveler in a tone which admitted of no reply.
 
-Michael then advanced.
+[MS-013-066]Michael then advanced.
 
-"These horses are engaged by me," he said.
+[MS-013-067]"These horses are engaged by me," he said.
 
-"What does that matter? I must have them. Come, be quick; I have no time to lose."
+[MS-013-068]"What does that matter? I must have them. Come, be quick; I have no time to lose."
 
-"I have no time to lose either," replied Michael, restraining himself with difficulty.
+[MS-013-069]"I have no time to lose either," replied Michael, restraining himself with difficulty.
 
-Nadia was near him, calm also, but secretly uneasy at a scene which it would have been better to avoid.
+[MS-013-070]Nadia was near him, calm also, but secretly uneasy at a scene which it would have been better to avoid.
 
-"Enough!" said the traveler. Then, going up to the postmaster, "Let the horses be put into my berlin," he exclaimed with a threatening gesture.
+[MS-013-071]"Enough!" said the traveler. Then, going up to the postmaster, "Let the horses be put into my berlin," he exclaimed with a threatening gesture.
 
-The postmaster, much embarrassed, did not know whom to obey, and looked at Michael, who evidently had the right to resist the unjust demands of the traveler.
+[MS-013-072]The postmaster, much embarrassed, did not know whom to obey, and looked at Michael, who evidently had the right to resist the unjust demands of the traveler.
 
-Michael hesitated an instant. He did not wish to make use of his podorojna, which would have drawn attention to him, and he was most unwilling also, by giving up his horses, to delay his journey, and yet he must not engage in a struggle which might compromise his mission.
+[MS-013-073]Michael hesitated an instant. He did not wish to make use of his podorojna, which would have drawn attention to him, and he was most unwilling also, by giving up his horses, to delay his journey, and yet he must not engage in a struggle which might compromise his mission.
 
-The two reporters looked at him ready to support him should he appeal to them.
+[MS-013-074]The two reporters looked at him ready to support him should he appeal to them.
 
-"My horses will remain in my carriage," said Michael, but without raising his tone more than would be suitable for a plain Irkutsk merchant.
+[MS-013-075]"My horses will remain in my carriage," said Michael, but without raising his tone more than would be suitable for a plain Irkutsk merchant.
 
-The traveler advanced towards Michael and laid his hand heavily on his shoulder. "Is it so?" he said roughly. "You will not give up your horses to me?"
+[MS-013-076]The traveler advanced towards Michael and laid his hand heavily on his shoulder. "Is it so?" he said roughly. "You will not give up your horses to me?"
 
-"No," answered Michael.
+[MS-013-077]"No," answered Michael.
 
-"Very well, they shall belong to whichever of us is able to start. Defend yourself; I shall not spare you!"
+[MS-013-078]"Very well, they shall belong to whichever of us is able to start. Defend yourself; I shall not spare you!"
 
-So saying, the traveler drew his saber from its sheath, and Nadia threw herself before Michael.
+[MS-013-079]So saying, the traveler drew his saber from its sheath, and Nadia threw herself before Michael.
 
-Blount and Alcide Jolivet advanced towards him.
+[MS-013-080]Blount and Alcide Jolivet advanced towards him.
 
-"I shall not fight," said Michael quietly, folding his arms across his chest.
+[MS-013-081]"I shall not fight," said Michael quietly, folding his arms across his chest.
 
-"You will not fight?"
+[MS-013-082]"You will not fight?"
 
-"No."
+[MS-013-083]"No."
 
-"Not even after this?" exclaimed the traveler. And before anyone could prevent him, he struck Michael's shoulder with the handle of the whip. At this insult Michael turned deadly pale. His hands moved convulsively as if he would have knocked the brute down. But by a tremendous effort he mastered himself. A duel! it was more than a delay; it was perhaps the failure of his mission. It would be better to lose some hours. Yes; but to swallow this affront!
+[MS-013-084]"Not even after this?" exclaimed the traveler. And before anyone could prevent him, he struck Michael's shoulder with the handle of the whip. At this insult Michael turned deadly pale. His hands moved convulsively as if he would have knocked the brute down. But by a tremendous effort he mastered himself. A duel! it was more than a delay; it was perhaps the failure of his mission. It would be better to lose some hours. Yes; but to swallow this affront!
 
-"Will you fight now, coward?" repeated the traveler, adding coarseness to brutality.
+[MS-013-085]"Will you fight now, coward?" repeated the traveler, adding coarseness to brutality.
 
-"No," answered Michael, without moving, but looking the other straight in the face.
+[MS-013-086]"No," answered Michael, without moving, but looking the other straight in the face.
 
-"The horses this moment," said the man, and left the room.
+[MS-013-087]"The horses this moment," said the man, and left the room.
 
-The postmaster followed him, after shrugging his shoulders and bestowing on Michael a glance of anything but approbation.
+[MS-013-088]The postmaster followed him, after shrugging his shoulders and bestowing on Michael a glance of anything but approbation.
 
-The effect produced on the reporters by this incident was not to Michael's advantage. Their discomfiture was visible. How could this strong young man allow himself to be struck like that and not demand satisfaction for such an insult? They contented themselves with bowing to him and retired, Jolivet remarking to Harry Blount
+[MS-013-089]The effect produced on the reporters by this incident was not to Michael's advantage. Their discomfiture was visible. How could this strong young man allow himself to be struck like that and not demand satisfaction for such an insult? They contented themselves with bowing to him and retired, Jolivet remarking to Harry Blount
 
-"I could not have believed that of a man who is so skillful in finishing up Ural Mountain bears. Is it the case that a man can be courageous at one time and a coward at another? It is quite incomprehensible."
+[MS-013-090]"I could not have believed that of a man who is so skillful in finishing up Ural Mountain bears. Is it the case that a man can be courageous at one time and a coward at another? It is quite incomprehensible."
 
-A moment afterwards the noise of wheels and whip showed that the berlin, drawn by the tarantass' horses, was driving rapidly away from the post-house.
+[MS-013-091]A moment afterwards the noise of wheels and whip showed that the berlin, drawn by the tarantass' horses, was driving rapidly away from the post-house.
 
-Nadia, unmoved, and Michael, still quivering, remained alone in the room. The courier of the Czar, his arms crossed over his chest was seated motionless as a statue. A color, which could not have been the blush of shame, had replaced the paleness on his countenance.
+[MS-013-092]Nadia, unmoved, and Michael, still quivering, remained alone in the room. The courier of the Czar, his arms crossed over his chest was seated motionless as a statue. A color, which could not have been the blush of shame, had replaced the paleness on his countenance.
 
-Nadia did not doubt that powerful reasons alone could have allowed him to suffer so great a humiliation from such a man. Going up to him as he had come to her in the police-station at Nijni-Novgorod:
+[MS-013-093]Nadia did not doubt that powerful reasons alone could have allowed him to suffer so great a humiliation from such a man. Going up to him as he had come to her in the police-station at Nijni-Novgorod:
 
-"Your hand, brother," said she.
+[MS-013-094]"Your hand, brother," said she.
 
-And at the same time her hand, with an almost maternal gesture, wiped away a tear which sprang to her companion's eye.
+[MS-013-095]And at the same time her hand, with an almost maternal gesture, wiped away a tear which sprang to her companion's eye.

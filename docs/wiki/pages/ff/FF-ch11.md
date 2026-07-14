@@ -11,124 +11,124 @@ tags: [chapter]
 ---
 # Facing the Flag — CHAPTER XI
 
-FIVE WEEKS IN BACK CUP.
+[FF-011-001]FIVE WEEKS IN BACK CUP.
 
-The situation is plain. Ker Karraje knows who I am. He knew who I was when he kidnapped Thomas Roch and his attendant.
+[FF-011-002]The situation is plain. Ker Karraje knows who I am. He knew who I was when he kidnapped Thomas Roch and his attendant.
 
-How did this man manage to find out what I was able to keep from the staff of Healthful House? How comes it that he knew that a French engineer was performing the duties of attendant to Thomas Roch? I do not know how he discovered it, but the fact remains that he did.
+[FF-011-003]How did this man manage to find out what I was able to keep from the staff of Healthful House? How comes it that he knew that a French engineer was performing the duties of attendant to Thomas Roch? I do not know how he discovered it, but the fact remains that he did.
 
-Evidently he had means of information which must have been costly, but from which he has derived considerable profit. Besides, men of his kidney do not count the cost when they wish to attain an end they have in view.
+[FF-011-004]Evidently he had means of information which must have been costly, but from which he has derived considerable profit. Besides, men of his kidney do not count the cost when they wish to attain an end they have in view.
 
-Henceforward Ker Karraje, or rather Engineer Serko, will replace me as attendant upon Thomas Roch. Will he succeed better than I did? God grant that he may not, that the civilized world may be spared such a misfortune!
+[FF-011-005]Henceforward Ker Karraje, or rather Engineer Serko, will replace me as attendant upon Thomas Roch. Will he succeed better than I did? God grant that he may not, that the civilized world may be spared such a misfortune!
 
-I did not reply to Ker Karraje's Parthian shot, for I was stricken dumb. I did not, however, collapse, as the alleged Count d'Artigas perhaps expected I would.
+[FF-011-006]I did not reply to Ker Karraje's Parthian shot, for I was stricken dumb. I did not, however, collapse, as the alleged Count d'Artigas perhaps expected I would.
 
-No! I looked him straight in the eyes, which glittered angrily, and crossed my arms defiantly, as he had done. And yet he held my life in his hands! At a sign a bullet would have laid me dead at his feet. Then my body, cast into the lagoon, would have been borne out to sea through the tunnel and there would have been an end of me.
+[FF-011-007]No! I looked him straight in the eyes, which glittered angrily, and crossed my arms defiantly, as he had done. And yet he held my life in his hands! At a sign a bullet would have laid me dead at his feet. Then my body, cast into the lagoon, would have been borne out to sea through the tunnel and there would have been an end of me.
 
-After this scene I am left at liberty, just as before. No measure is taken against me, I can walk among the pillars to the very end of the cavern, which--it is only too clear--possesses no other issue except the tunnel.
+[FF-011-008]After this scene I am left at liberty, just as before. No measure is taken against me, I can walk among the pillars to the very end of the cavern, which--it is only too clear--possesses no other issue except the tunnel.
 
-When I return to my cell, at the extremity of the Beehive, a prey to a thousand thoughts suggested by my situation, I say to myself:
+[FF-011-009]When I return to my cell, at the extremity of the Beehive, a prey to a thousand thoughts suggested by my situation, I say to myself:
 
-"If Ker Karraje knows I am Simon Hart, the engineer, he must at any rate never know that I am aware of the position of Back Cup Island."
+[FF-011-010]"If Ker Karraje knows I am Simon Hart, the engineer, he must at any rate never know that I am aware of the position of Back Cup Island."
 
-As to the plan of confiding Thomas Roch to my care, I do not think he ever seriously entertained it, seeing that my identity had been revealed to him. I regret this, inasmuch as the inventor will indubitably be the object of pressing solicitations, and as Engineer Serko will employ every means in his power to obtain the composition of the explosive and deflagrator, of which he will make such detestable use during future piratical exploits. Yes, it would have been far better if I could have remained Thomas Roch's keeper here, as in Healthful House.
+[FF-011-011]As to the plan of confiding Thomas Roch to my care, I do not think he ever seriously entertained it, seeing that my identity had been revealed to him. I regret this, inasmuch as the inventor will indubitably be the object of pressing solicitations, and as Engineer Serko will employ every means in his power to obtain the composition of the explosive and deflagrator, of which he will make such detestable use during future piratical exploits. Yes, it would have been far better if I could have remained Thomas Roch's keeper here, as in Healthful House.
 
-For fifteen days I see nothing of my late charge. No one, I repeat, has placed any obstacles in the way of my daily peregrinations. I have no need to occupy myself about the material part of my existence. My meals are brought to me regularly, direct from the kitchen of the Count d'Artigas--I cannot accustom myself to calling him by any other name. The food leaves nothing to be desired, thanks to the provisions that the Ebba brings on her return from each voyage.
+[FF-011-012]For fifteen days I see nothing of my late charge. No one, I repeat, has placed any obstacles in the way of my daily peregrinations. I have no need to occupy myself about the material part of my existence. My meals are brought to me regularly, direct from the kitchen of the Count d'Artigas--I cannot accustom myself to calling him by any other name. The food leaves nothing to be desired, thanks to the provisions that the Ebba brings on her return from each voyage.
 
-It is very fortunate, too, that I have been supplied with all the writing materials I require, for during my long hours of idleness I have been able to jot down in my notebook the slightest incidents that have occurred since I was abducted from Healthful House, and to keep a diary day by day. As long as I am permitted to use a pen I shall continue my notes. Mayhap some day, they will help to clear up the mysteries of Back Cup.
+[FF-011-013]It is very fortunate, too, that I have been supplied with all the writing materials I require, for during my long hours of idleness I have been able to jot down in my notebook the slightest incidents that have occurred since I was abducted from Healthful House, and to keep a diary day by day. As long as I am permitted to use a pen I shall continue my notes. Mayhap some day, they will help to clear up the mysteries of Back Cup.
 
-From July 5 to July 25.--A fortnight has passed, and all my attempts to get near Thomas Roch have been frustrated. Orders have evidently been given to keep him away from my influence, inefficacious though the latter has hitherto been. My only hope is that the Count d'Artigas, Engineer Serko, and Captain Spade will waste their time trying to get at the inventor's secrets.
+[FF-011-014]From July 5 to July 25.--A fortnight has passed, and all my attempts to get near Thomas Roch have been frustrated. Orders have evidently been given to keep him away from my influence, inefficacious though the latter has hitherto been. My only hope is that the Count d'Artigas, Engineer Serko, and Captain Spade will waste their time trying to get at the inventor's secrets.
 
-Three or four times to my knowledge, at least, Thomas Roch and Engineer Serko have walked together around the lagoon. As far as I have been able to judge, the former listened with some attention to what the other was saying to him. Serko has conducted him over the whole cavern, shown him the electric power house and the mechanism of the tug. Thomas Roch's mental condition has visibly improved since his departure from Healthful House.
+[FF-011-015]Three or four times to my knowledge, at least, Thomas Roch and Engineer Serko have walked together around the lagoon. As far as I have been able to judge, the former listened with some attention to what the other was saying to him. Serko has conducted him over the whole cavern, shown him the electric power house and the mechanism of the tug. Thomas Roch's mental condition has visibly improved since his departure from Healthful House.
 
-Thomas Roch lives in a private room in Ker Karraje's "mansion." I have no doubt that he is daily sounded in regard to his discoveries, especially by Engineer Serko. Will he be able to resist the temptation if they offer him the exorbitant price that he demands? Has he any idea of the value of money? These wretches may dazzle him with the gold that they have accumulated by years of rapine. In the present state of his mind may he not be induced to disclose the composition of his fulgurator? They would then only have to fetch the necessary substances and Thomas Roch would have plenty of time in Back Cup to devote to his chemical combinations. As to the war-engines themselves nothing would be easier than to have them made in sections in different parts of the American continent. My hair stands on end when I think what they could and would do with them if once they gained possession of them.
+[FF-011-016]Thomas Roch lives in a private room in Ker Karraje's "mansion." I have no doubt that he is daily sounded in regard to his discoveries, especially by Engineer Serko. Will he be able to resist the temptation if they offer him the exorbitant price that he demands? Has he any idea of the value of money? These wretches may dazzle him with the gold that they have accumulated by years of rapine. In the present state of his mind may he not be induced to disclose the composition of his fulgurator? They would then only have to fetch the necessary substances and Thomas Roch would have plenty of time in Back Cup to devote to his chemical combinations. As to the war-engines themselves nothing would be easier than to have them made in sections in different parts of the American continent. My hair stands on end when I think what they could and would do with them if once they gained possession of them.
 
-These intolerable apprehensions no longer leave me a minute's peace; they are wearing me out and my health is suffering in consequence. Although the air in the interior of Back Cup is pure, I become subject to attacks of suffocation, and I feel as though my prison walls were falling upon me and crushing me under their weight. I am, besides, oppressed by the feeling that I am cut off from the world, as effectually as though I were no longer upon our planet,--for I know nothing of what is going on outside.
+[FF-011-017]These intolerable apprehensions no longer leave me a minute's peace; they are wearing me out and my health is suffering in consequence. Although the air in the interior of Back Cup is pure, I become subject to attacks of suffocation, and I feel as though my prison walls were falling upon me and crushing me under their weight. I am, besides, oppressed by the feeling that I am cut off from the world, as effectually as though I were no longer upon our planet,--for I know nothing of what is going on outside.
 
-Ah! if it were only possible to escape through that submarine tunnel, or through the hole in the dome and slide to the base of the mountain!
+[FF-011-018]Ah! if it were only possible to escape through that submarine tunnel, or through the hole in the dome and slide to the base of the mountain!
 
-On the morning of the 25th I at last encounter Thomas Roch. He is alone on the other side of the lagoon, and I wonder, inasmuch as I have not seen them since the previous day, whether Ker Karraje, Engineer Serko, and Captain Spade have not gone off on some expedition.
+[FF-011-019]On the morning of the 25th I at last encounter Thomas Roch. He is alone on the other side of the lagoon, and I wonder, inasmuch as I have not seen them since the previous day, whether Ker Karraje, Engineer Serko, and Captain Spade have not gone off on some expedition.
 
-I walk round towards Thomas Roch, and before he can see me I examine him attentively.
+[FF-011-020]I walk round towards Thomas Roch, and before he can see me I examine him attentively.
 
-His serious, thoughtful physiognomy is no longer that of a madman. He walks slowly, with his eyes bent on the ground, and under his arm a drawing-board upon which is stretched a sheet of paper covered with designs.
+[FF-011-021]His serious, thoughtful physiognomy is no longer that of a madman. He walks slowly, with his eyes bent on the ground, and under his arm a drawing-board upon which is stretched a sheet of paper covered with designs.
 
-Suddenly he raises his head, advances a step and recognizes me.
+[FF-011-022]Suddenly he raises his head, advances a step and recognizes me.
 
-"Ah! Gaydon, it is you, is it?" he cries, "I have then escaped from you! I am free!"
+[FF-011-023]"Ah! Gaydon, it is you, is it?" he cries, "I have then escaped from you! I am free!"
 
-He can, indeed, regard himself as being free--a good deal more at liberty in Back Cup than he was in Healthful House. But maybe my presence evokes unpleasant memories, and will bring on another fit, for he continues with extraordinary animation:
+[FF-011-024]He can, indeed, regard himself as being free--a good deal more at liberty in Back Cup than he was in Healthful House. But maybe my presence evokes unpleasant memories, and will bring on another fit, for he continues with extraordinary animation:
 
-"Yes, I know you, Gaydon.--Do not approach me! Stand off! stand off! You would like to get me back in your clutches, incarcerate me again in your dungeon! Never! I have friends here who will protect me. They are powerful, they are rich. The Count d'Artigas is my backer and Engineer Serko is my partner. We are going to exploit my invention! We are going to make my fulgurator! Hence! Get you gone!"
+[FF-011-025]"Yes, I know you, Gaydon.--Do not approach me! Stand off! stand off! You would like to get me back in your clutches, incarcerate me again in your dungeon! Never! I have friends here who will protect me. They are powerful, they are rich. The Count d'Artigas is my backer and Engineer Serko is my partner. We are going to exploit my invention! We are going to make my fulgurator! Hence! Get you gone!"
 
-Thomas Roch is in a perfect fury. He raises his voice, agitates his arms, and finally pulls from his pockets many rolls of dollar bills and banknotes, and handfuls of English, French, American and German gold coins, which slip through his fingers and roll about the cavern.
+[FF-011-026]Thomas Roch is in a perfect fury. He raises his voice, agitates his arms, and finally pulls from his pockets many rolls of dollar bills and banknotes, and handfuls of English, French, American and German gold coins, which slip through his fingers and roll about the cavern.
 
-How could he get all this money except from Ker Karraje, and as the price of his secret? The noise he makes attracts a number of men to the scene. They watch us for a moment, then seize Thomas Roch and drag him away. As soon as I am out of his sight he ceases-to struggle and becomes calm again.
+[FF-011-027]How could he get all this money except from Ker Karraje, and as the price of his secret? The noise he makes attracts a number of men to the scene. They watch us for a moment, then seize Thomas Roch and drag him away. As soon as I am out of his sight he ceases-to struggle and becomes calm again.
 
-July 27.--Two hours after meeting with Thomas Roch, I went down to the lagoon and walked out to the edge of the stone jetty.
+[FF-011-028]July 27.--Two hours after meeting with Thomas Roch, I went down to the lagoon and walked out to the edge of the stone jetty.
 
-The tug is not moored in its accustomed place, nor can I see it anywhere about the lake. Ker Karraje and Engineer Serko had not gone yesterday, as I supposed, for I saw them in the evening.
+[FF-011-029]The tug is not moored in its accustomed place, nor can I see it anywhere about the lake. Ker Karraje and Engineer Serko had not gone yesterday, as I supposed, for I saw them in the evening.
 
-To-day, however, I have reason to believe that they really have gone away in the tug with Captain Spade and the crew of the Ebba, and that the latter must be sailing away.
+[FF-011-030]To-day, however, I have reason to believe that they really have gone away in the tug with Captain Spade and the crew of the Ebba, and that the latter must be sailing away.
 
-Have they set out on a piracy expedition? Very likely. It is equally likely that Ker Karraje, become once more the Count d'Artigas, travelling for pleasure on board his yacht, intends to put into some port on the American coast to procure the substances necessary to the preparation of Roch's fulgurator.
+[FF-011-031]Have they set out on a piracy expedition? Very likely. It is equally likely that Ker Karraje, become once more the Count d'Artigas, travelling for pleasure on board his yacht, intends to put into some port on the American coast to procure the substances necessary to the preparation of Roch's fulgurator.
 
-Ah! if it had only been possible for me to hide in the tug, to slip into the Ebba's hold, and stow myself away there until the schooner arrived in port! Then perchance I might have escaped and delivered the world from this band of pirates.
+[FF-011-032]Ah! if it had only been possible for me to hide in the tug, to slip into the Ebba's hold, and stow myself away there until the schooner arrived in port! Then perchance I might have escaped and delivered the world from this band of pirates.
 
-It will be seen how tenaciously I cling to the thought of escape--of fleeing--fleeing at any cost from this lair. But flight is impossible, except through the tunnel, by means of a submarine boat. Is it not folly to think of such a thing? Sheer folly, and yet what other way is there of getting out of Back Cup?
+[FF-011-033]It will be seen how tenaciously I cling to the thought of escape--of fleeing--fleeing at any cost from this lair. But flight is impossible, except through the tunnel, by means of a submarine boat. Is it not folly to think of such a thing? Sheer folly, and yet what other way is there of getting out of Back Cup?
 
-While I give myself up to these reflections the water of the lagoon opens a few yards from me and the tug appears. The lid is raised and Gibson, the engineer, and the men issue on to the platform. Other men come up and catch the line that is thrown to them. They haul upon it, and the tug is soon moored in its accustomed place.
+[FF-011-034]While I give myself up to these reflections the water of the lagoon opens a few yards from me and the tug appears. The lid is raised and Gibson, the engineer, and the men issue on to the platform. Other men come up and catch the line that is thrown to them. They haul upon it, and the tug is soon moored in its accustomed place.
 
-This time, therefore, at any rate, the schooner is not being towed, and the tug merely went out to put Ker Karraje and his companions aboard the Ebba.
+[FF-011-035]This time, therefore, at any rate, the schooner is not being towed, and the tug merely went out to put Ker Karraje and his companions aboard the Ebba.
 
-This only confirms my impression that the sole object of their trip is to reach an American port where the Count d'Artigas can procure the materials for making the explosive, and order the machines in some foundry. On the day fixed for their return the tug will go out through the tunnel again to meet the schooner and Ker Karraje will return to Back Cup.
+[FF-011-036]This only confirms my impression that the sole object of their trip is to reach an American port where the Count d'Artigas can procure the materials for making the explosive, and order the machines in some foundry. On the day fixed for their return the tug will go out through the tunnel again to meet the schooner and Ker Karraje will return to Back Cup.
 
-Decidedly, this evildoer is carrying out his designs and has succeeded sooner than I thought would be possible.
+[FF-011-037]Decidedly, this evildoer is carrying out his designs and has succeeded sooner than I thought would be possible.
 
-August 3.--An incident occurred to-day of which the lagoon was the theatre--a very curious incident that must be exceedingly rare.
+[FF-011-038]August 3.--An incident occurred to-day of which the lagoon was the theatre--a very curious incident that must be exceedingly rare.
 
-Towards three o'clock in the afternoon there was a prodigious bubbling in the water, which ceased for a minute or two and then recommenced in the centre of the lagoon.
+[FF-011-039]Towards three o'clock in the afternoon there was a prodigious bubbling in the water, which ceased for a minute or two and then recommenced in the centre of the lagoon.
 
-About fifteen pirates, whose attention had been attracted by this unaccountable phenomenon, hurried down to the bank manifesting signs of astonishment not unmingled with fear--at least I thought so.
+[FF-011-040]About fifteen pirates, whose attention had been attracted by this unaccountable phenomenon, hurried down to the bank manifesting signs of astonishment not unmingled with fear--at least I thought so.
 
-The agitation of the water was not caused by the tug, as the latter was lying alongside the jetty, and the idea that some other submarine boat had found its way through the tunnel was highly improbable.
+[FF-011-041]The agitation of the water was not caused by the tug, as the latter was lying alongside the jetty, and the idea that some other submarine boat had found its way through the tunnel was highly improbable.
 
-Almost at the same instant cries were heard on the opposite bank. The newcomers shouted something in a hoarse voice to the men on the side where I was standing, and these immediately rushed off towards the Beehive.
+[FF-011-042]Almost at the same instant cries were heard on the opposite bank. The newcomers shouted something in a hoarse voice to the men on the side where I was standing, and these immediately rushed off towards the Beehive.
 
-I conjectured that they had caught sight of some sea-monster that had found its way in, and was floundering in the lagoon, and that they had rushed off to fetch arms and harpoons to try and capture it.
+[FF-011-043]I conjectured that they had caught sight of some sea-monster that had found its way in, and was floundering in the lagoon, and that they had rushed off to fetch arms and harpoons to try and capture it.
 
-I was right, for they speedily returned with the latter weapons and rifles loaded with explosive bullets.
+[FF-011-044]I was right, for they speedily returned with the latter weapons and rifles loaded with explosive bullets.
 
-The monster in question was a whale, of the species that is common enough in Bermudan waters, which after swimming through the tunnel was plunging about in the narrow limits of the lake. As it was constrained to take refuge in Back Cup I concluded that it must have been hard pressed by whalers.
+[FF-011-045]The monster in question was a whale, of the species that is common enough in Bermudan waters, which after swimming through the tunnel was plunging about in the narrow limits of the lake. As it was constrained to take refuge in Back Cup I concluded that it must have been hard pressed by whalers.
 
-Some minutes elapsed before the monster rose to the surface. Then the green shiny mass appeared spouting furiously and darting to and fro as though fighting with some formidable enemy.
+[FF-011-046]Some minutes elapsed before the monster rose to the surface. Then the green shiny mass appeared spouting furiously and darting to and fro as though fighting with some formidable enemy.
 
-"If it was driven in here by whalers," I said to myself, "there must be a vessel in proximity to Back Cup--peradventure within a stone's throw of it. Her boats must have entered the western passes to the very foot of the mountain. And to think I am unable to communicate with them! But even if I could, I fail to see how I could go to them through these massive walls."
+[FF-011-047]"If it was driven in here by whalers," I said to myself, "there must be a vessel in proximity to Back Cup--peradventure within a stone's throw of it. Her boats must have entered the western passes to the very foot of the mountain. And to think I am unable to communicate with them! But even if I could, I fail to see how I could go to them through these massive walls."
 
-I soon found, however, that it was not fishers, but sharks that had driven the whale through the tunnel, and which infest these waters in great numbers. I could see them plainly as they darted about, turning upon their backs and displaying their enormous mouths which were bristling with their cruel teeth. There were five or six of the monsters, and they attacked the whale with great viciousness. The latter's only means of defence was its tail, with which it lashed at them with terrific force and rapidity. But the whale had received several wounds and the water was tinged with its life-blood; for plunge and lash as it would, it could not escape the bites of its enemies.
+[FF-011-048]I soon found, however, that it was not fishers, but sharks that had driven the whale through the tunnel, and which infest these waters in great numbers. I could see them plainly as they darted about, turning upon their backs and displaying their enormous mouths which were bristling with their cruel teeth. There were five or six of the monsters, and they attacked the whale with great viciousness. The latter's only means of defence was its tail, with which it lashed at them with terrific force and rapidity. But the whale had received several wounds and the water was tinged with its life-blood; for plunge and lash as it would, it could not escape the bites of its enemies.
 
-However, the voracious sharks were not permitted to vanquish their prey, for man, far more powerful with his instruments of death, was about to take a hand and snatch it from them. Gathered around the lagoon were the companions of Ker Karraje, every whit as ferocious as the sharks themselves, and well deserving the same name, for what else are they?
+[FF-011-049]However, the voracious sharks were not permitted to vanquish their prey, for man, far more powerful with his instruments of death, was about to take a hand and snatch it from them. Gathered around the lagoon were the companions of Ker Karraje, every whit as ferocious as the sharks themselves, and well deserving the same name, for what else are they?
 
-Standing amid a group, at the extremity of the jetty, and armed with a harpoon, was the big Malay who had prevented me from entering Ker Karraje's house. When the whale got within shot, he hurled the harpoon with great force and skill, and it sank into the leviathan's flesh just under the left fin. The whale plunged immediately, followed by the relentless sharks. The rope attached to the weapon ran out for about sixty yards, and then slackened. The men at once began to haul on it, and the monster rose to the surface again near the end of the tunnel, struggling desperately in its death agony, and spurting great columns of water tinged with blood. One blow of its tail struck a shark, and hurled it clean out of water against the rocky side, where it dropped in again, badly, if not fatally injured.
+[FF-011-050]Standing amid a group, at the extremity of the jetty, and armed with a harpoon, was the big Malay who had prevented me from entering Ker Karraje's house. When the whale got within shot, he hurled the harpoon with great force and skill, and it sank into the leviathan's flesh just under the left fin. The whale plunged immediately, followed by the relentless sharks. The rope attached to the weapon ran out for about sixty yards, and then slackened. The men at once began to haul on it, and the monster rose to the surface again near the end of the tunnel, struggling desperately in its death agony, and spurting great columns of water tinged with blood. One blow of its tail struck a shark, and hurled it clean out of water against the rocky side, where it dropped in again, badly, if not fatally injured.
 
-The harpoon was torn from the flesh by the jerk, and the whale went under. It came up again for the last time, and lashed the water so that it washed up from the tunnel end, disclosing the top of the orifice.
+[FF-011-051]The harpoon was torn from the flesh by the jerk, and the whale went under. It came up again for the last time, and lashed the water so that it washed up from the tunnel end, disclosing the top of the orifice.
 
-Then the sharks again rushed on their prey, but were scared off by a hail of the explosive bullets. Two men then jumped into a boat and attached a line to the dead monster. The latter was hauled into the jetty, and the Malays started to cut it up with a dexterity that showed they were no novices at the work.
+[FF-011-052]Then the sharks again rushed on their prey, but were scared off by a hail of the explosive bullets. Two men then jumped into a boat and attached a line to the dead monster. The latter was hauled into the jetty, and the Malays started to cut it up with a dexterity that showed they were no novices at the work.
 
-No more sharks were to be seen, but I concluded that it would be as well to refrain from taking a bath in the lagoon for some days to come.
+[FF-011-053]No more sharks were to be seen, but I concluded that it would be as well to refrain from taking a bath in the lagoon for some days to come.
 
-I now know exactly where the entrance to the tunnel is situated. The orifice on this side is only ten feet below the edge of the western bank. But of what use is this knowledge to me?
+[FF-011-054]I now know exactly where the entrance to the tunnel is situated. The orifice on this side is only ten feet below the edge of the western bank. But of what use is this knowledge to me?
 
-August 7.--Twelve days have elapsed since the Count d'Artigas, Engineer Serko, and Captain Spade put to sea. There is nothing to indicate that their return is expected, though the tug is always kept in readiness for immediate departure by Gibson, the engine-driver. If the Ebba is not afraid to enter the ports of the United States by day, I rather fancy she prefers to enter the rocky channel of Back Cup at nightfall. I also fancy, somehow, that Ker Karraje and his companions will return to-night.
+[FF-011-055]August 7.--Twelve days have elapsed since the Count d'Artigas, Engineer Serko, and Captain Spade put to sea. There is nothing to indicate that their return is expected, though the tug is always kept in readiness for immediate departure by Gibson, the engine-driver. If the Ebba is not afraid to enter the ports of the United States by day, I rather fancy she prefers to enter the rocky channel of Back Cup at nightfall. I also fancy, somehow, that Ker Karraje and his companions will return to-night.
 
-August 10.--At ten o'clock last night, as I anticipated, the tug went under and out, just in time to meet the Ebba and tow her through the channel to her creek, after which she returned with Ker Karraje and the others.
+[FF-011-056]August 10.--At ten o'clock last night, as I anticipated, the tug went under and out, just in time to meet the Ebba and tow her through the channel to her creek, after which she returned with Ker Karraje and the others.
 
-When I look out this morning, I see Thomas Roch and Engineer Serko walking down to the lagoon, and talking. What they are talking about I can easily guess. I go forward and take a good look at my ex-patient. He is asking questions of Engineer Serko With great animation. His eyes gleam, his face is flushed, and he is all eagerness to reach the jetty. Engineer Serko can hardly keep up with him.
+[FF-011-057]When I look out this morning, I see Thomas Roch and Engineer Serko walking down to the lagoon, and talking. What they are talking about I can easily guess. I go forward and take a good look at my ex-patient. He is asking questions of Engineer Serko With great animation. His eyes gleam, his face is flushed, and he is all eagerness to reach the jetty. Engineer Serko can hardly keep up with him.
 
-The crew of the tug are unloading her, and they have just brought ashore ten medium-sized boxes. These boxes bear a peculiar red mark, which Thomas Roch examines closely.
+[FF-011-058]The crew of the tug are unloading her, and they have just brought ashore ten medium-sized boxes. These boxes bear a peculiar red mark, which Thomas Roch examines closely.
 
-Engineer Serko orders the men to transport them to the storehouses on the left bank, and the boxes are forthwith loaded on a boat and rowed over.
+[FF-011-059]Engineer Serko orders the men to transport them to the storehouses on the left bank, and the boxes are forthwith loaded on a boat and rowed over.
 
-In my opinion, these boxes contain the substances by the combination or mixture of which, the fulgurator and deflagrator are to be made. The engines, doubtless, are being made in an American foundry, and when they are ready, the schooner will fetch them and bring them to Back Cup.
+[FF-011-060]In my opinion, these boxes contain the substances by the combination or mixture of which, the fulgurator and deflagrator are to be made. The engines, doubtless, are being made in an American foundry, and when they are ready, the schooner will fetch them and bring them to Back Cup.
 
-For once in a while, anyhow, the Ebba has not returned with any stolen merchandise. She went out and has returned with a clear bill. But with what terrible power Ker Karraje will be armed for both offensive and defensive operations at sea! If Thomas Roch is to be credited, this fulgurator could shatter the terrestrial spheroid at one blow. And who knows but what one day, he will try the experiment?
+[FF-011-061]For once in a while, anyhow, the Ebba has not returned with any stolen merchandise. She went out and has returned with a clear bill. But with what terrible power Ker Karraje will be armed for both offensive and defensive operations at sea! If Thomas Roch is to be credited, this fulgurator could shatter the terrestrial spheroid at one blow. And who knows but what one day, he will try the experiment?

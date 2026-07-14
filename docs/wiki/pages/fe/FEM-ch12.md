@@ -11,76 +11,76 @@ tags: [chapter]
 ---
 # From the Earth to the Moon — CHAPTER XII
 
-"URBI ET ORBI."
+[FEM-012-001]"URBI ET ORBI."
 
-The astronomical, mechanical, and topographical difficulties once removed, there remained the question of money. An enormous sum was necessary for the execution of the project. No private individual, no single state even, could have disposed of the necessary millions.
+[FEM-012-002]The astronomical, mechanical, and topographical difficulties once removed, there remained the question of money. An enormous sum was necessary for the execution of the project. No private individual, no single state even, could have disposed of the necessary millions.
 
-President Barbicane had resolved--although the enterprise was American--to make it a business of universal interest, and to ask every nation for its financial co-operation. It was the bounded right and duty of all the earth to interfere in the business of the satellite. The subscription opened at Baltimore, for this end extended thence to all the world--_urbi et orbi_.
+[FEM-012-003]President Barbicane had resolved--although the enterprise was American--to make it a business of universal interest, and to ask every nation for its financial co-operation. It was the bounded right and duty of all the earth to interfere in the business of the satellite. The subscription opened at Baltimore, for this end extended thence to all the world--_urbi et orbi_.
 
-This subscription was destined to succeed beyond all hope; yet the money was to be given, not lent. The operation was purely disinterested, in the literal meaning of the word, and offered no chance of gain.
+[FEM-012-004]This subscription was destined to succeed beyond all hope; yet the money was to be given, not lent. The operation was purely disinterested, in the literal meaning of the word, and offered no chance of gain.
 
-But the effect of Barbicane's communication had not stopped at the frontiers of the United States; it had crossed the Atlantic and Pacific, had invaded both Asia and Europe, both Africa and Oceania. The observatories of the Union were immediately put into communication with the observatories of foreign countries; some--those of Paris, St. Petersburg, the Cape, Berlin, Altona, Stockholm, Warsaw, Hamburg, Buda, Bologna, Malta, Lisbon, Benares, Madras, and Pekin--sent their compliments to the Gun Club; the others prudently awaited the result.
+[FEM-012-005]But the effect of Barbicane's communication had not stopped at the frontiers of the United States; it had crossed the Atlantic and Pacific, had invaded both Asia and Europe, both Africa and Oceania. The observatories of the Union were immediately put into communication with the observatories of foreign countries; some--those of Paris, St. Petersburg, the Cape, Berlin, Altona, Stockholm, Warsaw, Hamburg, Buda, Bologna, Malta, Lisbon, Benares, Madras, and Pekin--sent their compliments to the Gun Club; the others prudently awaited the result.
 
-As to the Greenwich Observatory, seconded by the twenty-two astronomical establishments of Great Britain, it made short work of it; it boldly denied the possibility of success, and took up Captain Nicholl's theories. Whilst the different scientific societies promised to send deputies to Tampa Town, the Greenwich staff met and contemptuously dismissed the Barbicane proposition. This was pure English jealousy and nothing else.
+[FEM-012-006]As to the Greenwich Observatory, seconded by the twenty-two astronomical establishments of Great Britain, it made short work of it; it boldly denied the possibility of success, and took up Captain Nicholl's theories. Whilst the different scientific societies promised to send deputies to Tampa Town, the Greenwich staff met and contemptuously dismissed the Barbicane proposition. This was pure English jealousy and nothing else.
 
-Generally speaking, the effect upon the world of science was excellent, and from thence it passed to the masses, who, in general, were greatly interested in the question, a fact of great importance, seeing those masses were to be called upon to subscribe a considerable capital.
+[FEM-012-007]Generally speaking, the effect upon the world of science was excellent, and from thence it passed to the masses, who, in general, were greatly interested in the question, a fact of great importance, seeing those masses were to be called upon to subscribe a considerable capital.
 
-On the 8th of October President Barbicane issued a manifesto, full of enthusiasm, in which he made appeal to "all persons on the face of the earth willing to help." This document, translated into every language, had great success.
+[FEM-012-008]On the 8th of October President Barbicane issued a manifesto, full of enthusiasm, in which he made appeal to "all persons on the face of the earth willing to help." This document, translated into every language, had great success.
 
-Subscriptions were opened in the principal towns of the Union with a central office at the Baltimore Bank, 9, Baltimore street; then subscriptions were opened in the different countries of the two continents:--At Vienna, by S.M. de Rothschild; St. Petersburg, Stieglitz and Co.; Paris, Crédit Mobilier; Stockholm, Tottie and Arfuredson; London, N.M. de Rothschild and Son; Turin, Ardouin and Co.; Berlin, Mendelssohn; Geneva, Lombard, Odier, and Co.; Constantinople, Ottoman Bank; Brussels, J. Lambert; Madrid, Daniel Weisweller; Amsterdam, Netherlands Credit Co.; Rome, Torlonia and Co.; Lisbon, Lecesne; Copenhagen, Private Bank; Buenos Ayres, Mana Bank; Rio Janeiro, Mana Bank; Monte Video, Mana Bank; Valparaiso, Thomas La Chambre and Co.; Lima, Thomas La Chambre and Co.; Mexico, Martin Daran and Co.
+[FEM-012-009]Subscriptions were opened in the principal towns of the Union with a central office at the Baltimore Bank, 9, Baltimore street; then subscriptions were opened in the different countries of the two continents:--At Vienna, by S.M. de Rothschild; St. Petersburg, Stieglitz and Co.; Paris, Crédit Mobilier; Stockholm, Tottie and Arfuredson; London, N.M. de Rothschild and Son; Turin, Ardouin and Co.; Berlin, Mendelssohn; Geneva, Lombard, Odier, and Co.; Constantinople, Ottoman Bank; Brussels, J. Lambert; Madrid, Daniel Weisweller; Amsterdam, Netherlands Credit Co.; Rome, Torlonia and Co.; Lisbon, Lecesne; Copenhagen, Private Bank; Buenos Ayres, Mana Bank; Rio Janeiro, Mana Bank; Monte Video, Mana Bank; Valparaiso, Thomas La Chambre and Co.; Lima, Thomas La Chambre and Co.; Mexico, Martin Daran and Co.
 
-Three days after President Barbicane's manifesto 400,000 dollars were received in the different towns of the Union. With such a sum in hand the Gun Club could begin at once.
+[FEM-012-010]Three days after President Barbicane's manifesto 400,000 dollars were received in the different towns of the Union. With such a sum in hand the Gun Club could begin at once.
 
-But a few days later telegrams informed America that foreign subscriptions were pouring in rapidly. Certain countries were distinguished by their generosity; others let go their money less easily. It was a matter of temperament.
+[FEM-012-011]But a few days later telegrams informed America that foreign subscriptions were pouring in rapidly. Certain countries were distinguished by their generosity; others let go their money less easily. It was a matter of temperament.
 
-However, figures are more eloquent than words, and the following is an official statement of the sums paid to the credit of the Gun Club when the subscription was closed:--
+[FEM-012-012]However, figures are more eloquent than words, and the following is an official statement of the sums paid to the credit of the Gun Club when the subscription was closed:--
 
-The contingent of Russia was the enormous sum of 368,733 roubles. This need astonish no one who remembers the scientific taste of the Russians and the impetus which they have given to astronomical studies, thanks to their numerous observatories, the principal of which cost 2,000,000 roubles.
+[FEM-012-013]The contingent of Russia was the enormous sum of 368,733 roubles. This need astonish no one who remembers the scientific taste of the Russians and the impetus which they have given to astronomical studies, thanks to their numerous observatories, the principal of which cost 2,000,000 roubles.
 
-France began by laughing at the pretensions of the Americans. The moon served as an excuse for a thousand stale puns and a score of vaudevilles in which bad taste contested the palm with ignorance. But, as the French formerly paid after singing, they now paid after laughing, and subscribed a sum of 1,258,930 francs. At that price they bought the right to joke a little.
+[FEM-012-014]France began by laughing at the pretensions of the Americans. The moon served as an excuse for a thousand stale puns and a score of vaudevilles in which bad taste contested the palm with ignorance. But, as the French formerly paid after singing, they now paid after laughing, and subscribed a sum of 1,258,930 francs. At that price they bought the right to joke a little.
 
-Austria, in the midst of her financial difficulties, was sufficiently generous. Her part in the public subscription amounted to 216,000 florins, which were welcome.
+[FEM-012-015]Austria, in the midst of her financial difficulties, was sufficiently generous. Her part in the public subscription amounted to 216,000 florins, which were welcome.
 
-Sweden and Norway contributed 52,000 rix-dollars. The figure was small considering the country; but it would certainly have been higher if a subscription had been opened at Christiania as well as at Stockholm. For some reason or other the Norwegians do not like to send their money to Norway.
+[FEM-012-016]Sweden and Norway contributed 52,000 rix-dollars. The figure was small considering the country; but it would certainly have been higher if a subscription had been opened at Christiania as well as at Stockholm. For some reason or other the Norwegians do not like to send their money to Norway.
 
-Prussia, by sending 250,000 thalers, testified her approbation of the enterprise. Her different observatories contributed an important sum, and were amongst the most ardent in encouraging President Barbicane.
+[FEM-012-017]Prussia, by sending 250,000 thalers, testified her approbation of the enterprise. Her different observatories contributed an important sum, and were amongst the most ardent in encouraging President Barbicane.
 
-Turkey behaved generously, but she was personally interested in the business; the moon, in fact, rules the course of her years and her Ramadan fast. She could do no less than give 1,372,640 piastres, and she gave them with an ardour that betrayed, however, a certain pressure from the Government of the Porte.
+[FEM-012-018]Turkey behaved generously, but she was personally interested in the business; the moon, in fact, rules the course of her years and her Ramadan fast. She could do no less than give 1,372,640 piastres, and she gave them with an ardour that betrayed, however, a certain pressure from the Government of the Porte.
 
-Belgium distinguished herself amongst all the second order of States by a gift of 513,000 francs, about one penny and a fraction for each inhabitant.
+[FEM-012-019]Belgium distinguished herself amongst all the second order of States by a gift of 513,000 francs, about one penny and a fraction for each inhabitant.
 
-Holland and her colonies contributed 110,000 florins, only demanding a discount of five per cent., as she paid ready money.
+[FEM-012-020]Holland and her colonies contributed 110,000 florins, only demanding a discount of five per cent., as she paid ready money.
 
-Denmark, rather confined for room, gave, notwithstanding, 9,000 ducats, proving her love for scientific experiments.
+[FEM-012-021]Denmark, rather confined for room, gave, notwithstanding, 9,000 ducats, proving her love for scientific experiments.
 
-The Germanic Confederation subscribed 34,285 florins; more could not be asked from her; besides, she would not have given more.
+[FEM-012-022]The Germanic Confederation subscribed 34,285 florins; more could not be asked from her; besides, she would not have given more.
 
-Although in embarrassed circumstances, Italy found 2,000,000 francs in her children's pockets, but by turning them well inside out. If she had then possessed Venetia she would have given more, but she did not yet possess Venetia.
+[FEM-012-023]Although in embarrassed circumstances, Italy found 2,000,000 francs in her children's pockets, but by turning them well inside out. If she had then possessed Venetia she would have given more, but she did not yet possess Venetia.
 
-The Pontifical States thought they could not send less than 7,040 Roman crowns, and Portugal pushed her devotion to the extent of 3,000 cruzades.
+[FEM-012-024]The Pontifical States thought they could not send less than 7,040 Roman crowns, and Portugal pushed her devotion to the extent of 3,000 cruzades.
 
-Mexico gent the widow's mite, 86 piastres; but empires in course of formation are always in rather embarrassed circumstances.
+[FEM-012-025]Mexico gent the widow's mite, 86 piastres; but empires in course of formation are always in rather embarrassed circumstances.
 
-Switzerland sent the modest sum of 257 francs to the American scheme. It must be frankly stated that Switzerland only looked upon the practical side of the operation; the action of sending a bullet to the moon did not seem of a nature sufficient for the establishing of any communication with the Queen of Night, so Switzerland thought it imprudent to engage capital in an enterprise depending upon such uncertain events. After all, Switzerland was, perhaps, right.
+[FEM-012-026]Switzerland sent the modest sum of 257 francs to the American scheme. It must be frankly stated that Switzerland only looked upon the practical side of the operation; the action of sending a bullet to the moon did not seem of a nature sufficient for the establishing of any communication with the Queen of Night, so Switzerland thought it imprudent to engage capital in an enterprise depending upon such uncertain events. After all, Switzerland was, perhaps, right.
 
-As to Spain, she found it impossible to get together more than 110 reals. She gave as an excuse that she had her railways to finish. The truth is that science is not looked upon very favourably in that country; it is still a little behindhand. And then certain Spaniards, and not the most ignorant either, had no clear conception of the size of the projectile compared with that of the moon; they feared it might disturb the satellite from her orbit, and make her fall on to the surface of the terrestrial globe. In that case it was better to have nothing to do with it, which they carried out, with that small exception.
+[FEM-012-027]As to Spain, she found it impossible to get together more than 110 reals. She gave as an excuse that she had her railways to finish. The truth is that science is not looked upon very favourably in that country; it is still a little behindhand. And then certain Spaniards, and not the most ignorant either, had no clear conception of the size of the projectile compared with that of the moon; they feared it might disturb the satellite from her orbit, and make her fall on to the surface of the terrestrial globe. In that case it was better to have nothing to do with it, which they carried out, with that small exception.
 
-England alone remained. The contemptuous antipathy with which she received Barbicane's proposition is known. The English have but a single mind in their 25,000,000 of bodies which Great Britain contains. They gave it to be understood that the enterprise of the Gun Club was contrary "to the principle of non-intervention," and they did not subscribe a single farthing.
+[FEM-012-028]England alone remained. The contemptuous antipathy with which she received Barbicane's proposition is known. The English have but a single mind in their 25,000,000 of bodies which Great Britain contains. They gave it to be understood that the enterprise of the Gun Club was contrary "to the principle of non-intervention," and they did not subscribe a single farthing.
 
-At this news the Gun Club contented itself with shrugging its shoulders, and returned to its great work. When South America--that is to say, Peru, Chili, Brazil, the provinces of La Plata and Columbia--had poured into their hands their quota of 300,000 dollars, it found itself possessed of a considerable capital of which the following is a statement:--
+[FEM-012-029]At this news the Gun Club contented itself with shrugging its shoulders, and returned to its great work. When South America--that is to say, Peru, Chili, Brazil, the provinces of La Plata and Columbia--had poured into their hands their quota of 300,000 dollars, it found itself possessed of a considerable capital of which the following is a statement:--
 
-United States subscription, 4,000,000 dollars; foreign subscriptions, 1,446,675 dollars; total, 5,446,675 dollars.
+[FEM-012-030]United States subscription, 4,000,000 dollars; foreign subscriptions, 1,446,675 dollars; total, 5,446,675 dollars.
 
-This was the large sum poured by the public into the coffers of the Gun Club.
+[FEM-012-031]This was the large sum poured by the public into the coffers of the Gun Club.
 
-No one need be surprised at its importance. The work of casting, boring, masonry, transport of workmen, and their installation in an almost uninhabited country, the construction of furnaces and workshops, the manufacturing tools, powder, projectile and incidental expenses would, according to the estimates, absorb nearly the whole. Some of the cannon-shots fired during the war cost 1,000 dollars each; that of President Barbicane, unique in the annals of artillery, might well cost 5,000 times more.
+[FEM-012-032]No one need be surprised at its importance. The work of casting, boring, masonry, transport of workmen, and their installation in an almost uninhabited country, the construction of furnaces and workshops, the manufacturing tools, powder, projectile and incidental expenses would, according to the estimates, absorb nearly the whole. Some of the cannon-shots fired during the war cost 1,000 dollars each; that of President Barbicane, unique in the annals of artillery, might well cost 5,000 times more.
 
-On the 20th of October a contract was made with the Goldspring Manufactory, New York, which during the war had furnished Parrott with his best cast-iron guns.
+[FEM-012-033]On the 20th of October a contract was made with the Goldspring Manufactory, New York, which during the war had furnished Parrott with his best cast-iron guns.
 
-It was stipulated between the contracting parties that the Goldspring Manufactory should pledge itself to send to Tampa Town, in South Florida, the necessary materials for the casting of the Columbiad.
+[FEM-012-034]It was stipulated between the contracting parties that the Goldspring Manufactory should pledge itself to send to Tampa Town, in South Florida, the necessary materials for the casting of the Columbiad.
 
-This operation was to be terminated, at the latest, on the 15th of the next October, and the cannon delivered in good condition, under penalty of 100 dollars a day forfeit until the moon should again present herself under the same conditions--that is to say, during eighteen years and eleven days.
+[FEM-012-035]This operation was to be terminated, at the latest, on the 15th of the next October, and the cannon delivered in good condition, under penalty of 100 dollars a day forfeit until the moon should again present herself under the same conditions--that is to say, during eighteen years and eleven days.
 
-The engagement of the workmen, their pay, and the necessary transports all to be made by the Goldspring Company.
+[FEM-012-036]The engagement of the workmen, their pay, and the necessary transports all to be made by the Goldspring Company.
 
-This contract, made in duplicate, was signed by I. Barbicane, president of the Gun Club, and J. Murphison, Manager of the Goldspring Manufactory, who thus signed on the part of the contracting parties.
+[FEM-012-037]This contract, made in duplicate, was signed by I. Barbicane, president of the Gun Club, and J. Murphison, Manager of the Goldspring Manufactory, who thus signed on the part of the contracting parties.

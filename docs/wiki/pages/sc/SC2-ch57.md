@@ -11,34 +11,34 @@ tags: [chapter]
 ---
 # The Survivors of the Chancellor — CHAPTER LVII
 
-JANUARY 27th CONTINUED.--Curtis, no doubt was right The discharge from the mouth of the Amazon is enormously large, but we had probably drifted into the only spot in the Atlantic where we could find fresh water so far from land. Yet land, undoubtedly was there, and the breeze was carrying us onwards slowly but surely to our deliverance.
+[SC2-057-001]JANUARY 27th CONTINUED.--Curtis, no doubt was right The discharge from the mouth of the Amazon is enormously large, but we had probably drifted into the only spot in the Atlantic where we could find fresh water so far from land. Yet land, undoubtedly was there, and the breeze was carrying us onwards slowly but surely to our deliverance.
 
-Miss Herbey's voice was heard pouring out fervent praise to Heaven, and we were all glad to unite our thanksgivings with hers. Then the whole of us (with the exception of Andre and his father, who remained by themselves together at the stern) clustered in a group, and kept our expectant gaze upon the horizon.
+[SC2-057-002]Miss Herbey's voice was heard pouring out fervent praise to Heaven, and we were all glad to unite our thanksgivings with hers. Then the whole of us (with the exception of Andre and his father, who remained by themselves together at the stern) clustered in a group, and kept our expectant gaze upon the horizon.
 
-We had not long to wait. Before an hour had passed Curtis, leaped in ecstasy and raised the joyous shout of "Land ahoy!"
+[SC2-057-003]We had not long to wait. Before an hour had passed Curtis, leaped in ecstasy and raised the joyous shout of "Land ahoy!"
 
-* * * *
+[SC2-057-004]* * * *
 
-My journal has come to a close.
+[SC2-057-005]My journal has come to a close.
 
-I have only to relate, as briefly as possible, the circumstances that finally brought us to our destination.
+[SC2-057-006]I have only to relate, as briefly as possible, the circumstances that finally brought us to our destination.
 
-A few hours after we first sighted land the raft was off Cape Magoari, on the Island of Marajo, and was observed by some fishermen who, with kind-hearted alacrity picked us up, and tended us most carefully. They conveyed us to Para, where we became the objects of unbounded sympathy.
+[SC2-057-007]A few hours after we first sighted land the raft was off Cape Magoari, on the Island of Marajo, and was observed by some fishermen who, with kind-hearted alacrity picked us up, and tended us most carefully. They conveyed us to Para, where we became the objects of unbounded sympathy.
 
-The raft was brought to land in lat. 0deg. 12min. N., so that since we abandoned the "Chancellor" we had drifted at least fifteen degrees to the south-west. Except for the influence of the Gulf Stream we must have been carried far, far to the south, and in that case we should never have reached the mouth of the Amazon, and must inevitably have been lost.
+[SC2-057-008]The raft was brought to land in lat. 0deg. 12min. N., so that since we abandoned the "Chancellor" we had drifted at least fifteen degrees to the south-west. Except for the influence of the Gulf Stream we must have been carried far, far to the south, and in that case we should never have reached the mouth of the Amazon, and must inevitably have been lost.
 
-Of the thirty-two souls--nine passengers, and twenty-three seamen--who left Charleston on board the ship, only five passengers and six seamen remain. Eleven of us alone survive.
+[SC2-057-009]Of the thirty-two souls--nine passengers, and twenty-three seamen--who left Charleston on board the ship, only five passengers and six seamen remain. Eleven of us alone survive.
 
-An official account of our rescue was drawn up by the Brazilian authorities. Those who signed were Miss Herbey, J. R. Kazallon, M. Letourneur, Andre Letourneur, Mr. Falsten, the boatswain, Dowlas, Burke, Flaypole, Sandon, and last, though not least,
+[SC2-057-010]An official account of our rescue was drawn up by the Brazilian authorities. Those who signed were Miss Herbey, J. R. Kazallon, M. Letourneur, Andre Letourneur, Mr. Falsten, the boatswain, Dowlas, Burke, Flaypole, Sandon, and last, though not least,
 
-"Robert Curtis, captain."
+[SC2-057-011]"Robert Curtis, captain."
 
-At Para we soon found facilities for continuing our homeward route. A vessel took us to Cayenne, where we secured a passage on board one of the steamers of the French Transatlantic Aspinwall line, the "Ville de St. Nazaire," which conveyed us to Europe.
+[SC2-057-012]At Para we soon found facilities for continuing our homeward route. A vessel took us to Cayenne, where we secured a passage on board one of the steamers of the French Transatlantic Aspinwall line, the "Ville de St. Nazaire," which conveyed us to Europe.
 
-After all the dangers and privations which we have undergone together, it is scarcely necessary to say that there has arisen between the surviving passengers of the "Chancellor" a bond of friendship too indissoluble, I believe, for either time or circumstance to destroy; Curtis must ever remain the honoured and valued friend of those whose welfare he consulted so faithfully in their misfortunes; his conduct was beyond all praise.
+[SC2-057-013]After all the dangers and privations which we have undergone together, it is scarcely necessary to say that there has arisen between the surviving passengers of the "Chancellor" a bond of friendship too indissoluble, I believe, for either time or circumstance to destroy; Curtis must ever remain the honoured and valued friend of those whose welfare he consulted so faithfully in their misfortunes; his conduct was beyond all praise.
 
-When we were fairly on our homeward way, Miss Herbey by chance intimated to us her intention of retiring from the world and devoting the remainder of her life to the care of the sick and suffering.
+[SC2-057-014]When we were fairly on our homeward way, Miss Herbey by chance intimated to us her intention of retiring from the world and devoting the remainder of her life to the care of the sick and suffering.
 
-"Then why not come and look after my son?" said M. Letourneur, adding, "he is an invalid, and he requires, as he deserves, the best of nursing."
+[SC2-057-015]"Then why not come and look after my son?" said M. Letourneur, adding, "he is an invalid, and he requires, as he deserves, the best of nursing."
 
-Miss Herbey, after some deliberation, consented to become a member of their family, and finds in M. Letourneur a father, and in Andre a brother. A brother, I say; but may we not hope that she may be united by a dearer and a closer tie, and that the noble-hearted girl may experience the happiness that so richly she deserves?
+[SC2-057-016]Miss Herbey, after some deliberation, consented to become a member of their family, and finds in M. Letourneur a father, and in Andre a brother. A brother, I say; but may we not hope that she may be united by a dearer and a closer tie, and that the noble-hearted girl may experience the happiness that so richly she deserves?

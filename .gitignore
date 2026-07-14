@@ -41,6 +41,9 @@ logs/wiki-server.log
 # 私有内容（草稿、本地笔记等）
 private/
 
+# PN 检索源（PRE20 构建产物，从 docs/wiki/pages/ 可重建）
+data/pn-source.json
+
 # Claude Code 本地覆盖（用户专属，不提交）
 .claude/worktrees/
 .claude/settings.local.json

@@ -12,74 +12,74 @@ tags: [chapter]
 ---
 # The Fur Country — CHAPTER I
 
-A FLOATING FORT.
+[FC-024-001]A FLOATING FORT.
 
-And so Fort Hope, founded by Lieutenant Hobson on the borders of the Polar Sea, had drifted! Was the courageous agent of the Company to blame for this? No; any one might have been deceived as he had been. No human prevision could have foreseen such a calamity. He meant to build upon a rock, and he had not even built upon sand. The peninsula of Victoria, which the best maps of English America join to the American continent, had been torn suddenly away from it. This peninsula was in fact nothing but an immense piece of ice, five hundred square miles in extent, converted by successive deposits of sand and earth into apparently solid ground well clothed with vegetation. Connected with the mainland for thousands of centuries, the earthquake of the 8th of January had dragged it away from its moorings, and it was now a floating island, at the mercy of the winds and waves, and had been carried along the Arctic Ocean by powerful currents for the last three months!
+[FC-024-002]And so Fort Hope, founded by Lieutenant Hobson on the borders of the Polar Sea, had drifted! Was the courageous agent of the Company to blame for this? No; any one might have been deceived as he had been. No human prevision could have foreseen such a calamity. He meant to build upon a rock, and he had not even built upon sand. The peninsula of Victoria, which the best maps of English America join to the American continent, had been torn suddenly away from it. This peninsula was in fact nothing but an immense piece of ice, five hundred square miles in extent, converted by successive deposits of sand and earth into apparently solid ground well clothed with vegetation. Connected with the mainland for thousands of centuries, the earthquake of the 8th of January had dragged it away from its moorings, and it was now a floating island, at the mercy of the winds and waves, and had been carried along the Arctic Ocean by powerful currents for the last three months!
 
-Yes, Fort Hope was built upon ice! Hobson at once understood the mysterious change in their latitude. The isthmus---that is to say, the neck of land which connected the peninsula of Victoria with the mainland---had been snapped in two by a subterranean convulsion connected with the eruption of the volcano some months before. As long as the northern winter continued, the frozen sea maintained things as they were; but when the thaw came, when the ice fields, melted beneath the rays of the sun, and the huge icebergs, driven out into the offing, drew back to the farthest limits of the horizon---when the sea at last became open, the whole peninsula drifted away, with its woods, its cliffs, its promontories, its inland lagoon, and its coast-line, under the influence of a current about which nothing was known. For months this drifting had been going on unnoticed by the colonists, who even when hunting did not go far from Fort Hope. Beach-marks, if they had been made, would have been useless; for heavy mists obscured everything at a short distance, the ground remained apparently firm and motionless, and there was, in short, nothing to hint to the Lieutenant and his men that they had become islanders. The position of the new island with regard to the rising and setting of the sun was the same as before. Had the cardinal points changed their position, had the island turned round, the Lieutenant, the astronomer, or Mrs Barnett, would certainly have noticed and understood the change; but in its course the island had thus far followed a parallel of latitude, and its motion, though rapid, had been imperceptible.
+[FC-024-003]Yes, Fort Hope was built upon ice! Hobson at once understood the mysterious change in their latitude. The isthmus---that is to say, the neck of land which connected the peninsula of Victoria with the mainland---had been snapped in two by a subterranean convulsion connected with the eruption of the volcano some months before. As long as the northern winter continued, the frozen sea maintained things as they were; but when the thaw came, when the ice fields, melted beneath the rays of the sun, and the huge icebergs, driven out into the offing, drew back to the farthest limits of the horizon---when the sea at last became open, the whole peninsula drifted away, with its woods, its cliffs, its promontories, its inland lagoon, and its coast-line, under the influence of a current about which nothing was known. For months this drifting had been going on unnoticed by the colonists, who even when hunting did not go far from Fort Hope. Beach-marks, if they had been made, would have been useless; for heavy mists obscured everything at a short distance, the ground remained apparently firm and motionless, and there was, in short, nothing to hint to the Lieutenant and his men that they had become islanders. The position of the new island with regard to the rising and setting of the sun was the same as before. Had the cardinal points changed their position, had the island turned round, the Lieutenant, the astronomer, or Mrs Barnett, would certainly have noticed and understood the change; but in its course the island had thus far followed a parallel of latitude, and its motion, though rapid, had been imperceptible.
 
-Although Hobson had no doubt of the moral and physical courage and determination of his companions, he determined not to acquaint them with the truth. It would be time enough to tell them of their altered position when it had been thoroughly studied. Fortunately the good fellows, soldiers or workmen, took little notice of the astronomical observations, and not being able to see the consequences involved, they did not trouble themselves about the change of latitude just announced.
+[FC-024-004]Although Hobson had no doubt of the moral and physical courage and determination of his companions, he determined not to acquaint them with the truth. It would be time enough to tell them of their altered position when it had been thoroughly studied. Fortunately the good fellows, soldiers or workmen, took little notice of the astronomical observations, and not being able to see the consequences involved, they did not trouble themselves about the change of latitude just announced.
 
-The Lieutenant determined to conceal his anxiety, and seeing no remedy for the misfortune, mastered his emotion by a strong effort, and tried to console Thomas Black, who was lamenting his disappointment and tearing his hair.
+[FC-024-005]The Lieutenant determined to conceal his anxiety, and seeing no remedy for the misfortune, mastered his emotion by a strong effort, and tried to console Thomas Black, who was lamenting his disappointment and tearing his hair.
 
-The astronomer had no doubt about the misfortune of which he was the victim. Not having, like the Lieutenant, noticed the peculiarities of the district, he did not look beyond the one fact in which he was interested: on the day fixed, at the time named, the moon had not completely eclipsed the sun. And what could he conclude but that, to the disgrace of observatories, the almanacs were false, and that the long desired eclipse, his own eclipse, Thomas Black's, which he had come so far and through so many dangers to see, had not been "total" for this particular district under the seventieth parallel! No, no, it was impossible to believe it; he could not face the terrible certainty, and he was overwhelmed with disappointment. He was soon to learn the truth, however.
+[FC-024-006]The astronomer had no doubt about the misfortune of which he was the victim. Not having, like the Lieutenant, noticed the peculiarities of the district, he did not look beyond the one fact in which he was interested: on the day fixed, at the time named, the moon had not completely eclipsed the sun. And what could he conclude but that, to the disgrace of observatories, the almanacs were false, and that the long desired eclipse, his own eclipse, Thomas Black's, which he had come so far and through so many dangers to see, had not been "total" for this particular district under the seventieth parallel! No, no, it was impossible to believe it; he could not face the terrible certainty, and he was overwhelmed with disappointment. He was soon to learn the truth, however.
 
-Meanwhile Hobson let his men imagine that the failure of the eclipse could only interest himself and the astronomer, and they returned to their ordinary occupations; but as they were leaving, Corporal Joliffe stopped suddenly and said, touching his cap---
+[FC-024-007]Meanwhile Hobson let his men imagine that the failure of the eclipse could only interest himself and the astronomer, and they returned to their ordinary occupations; but as they were leaving, Corporal Joliffe stopped suddenly and said, touching his cap---
 
-"May I ask you one question, sir?"
+[FC-024-008]"May I ask you one question, sir?"
 
-"Of course, Corporal; say on," replied the Lieutenant, who wondered what was coming.
+[FC-024-009]"Of course, Corporal; say on," replied the Lieutenant, who wondered what was coming.
 
-But Joliffe hesitated, and his little wife nudged his elbow.
+[FC-024-010]But Joliffe hesitated, and his little wife nudged his elbow.
 
-"Well, Lieutenant," resumed the Corporal, "it's just about the seventieth degree of latitude---if we are not where we thought we were."
+[FC-024-011]"Well, Lieutenant," resumed the Corporal, "it's just about the seventieth degree of latitude---if we are not where we thought we were."
 
-The Lieutenant frowned.
+[FC-024-012]The Lieutenant frowned.
 
-"Well," he replied evasively, "we made a mistake in our reckoning, ... our first observation was wrong; ... but what does that concern you?"
+[FC-024-013]"Well," he replied evasively, "we made a mistake in our reckoning, ... our first observation was wrong; ... but what does that concern you?"
 
-"Please, sir, it's because of the pay," replied Joliffe with a scowl. "You know well enough that the Company promised us double pay."
+[FC-024-014]"Please, sir, it's because of the pay," replied Joliffe with a scowl. "You know well enough that the Company promised us double pay."
 
-Hobson drew a sigh of relief. It will be remembered that the men had been promised higher pay if they succeeded in settling on or above the seventieth degree north latitude, and Joliffe, who always had an eye to the main chance, had looked upon the whole matter from a monetary point of view, and was afraid the bounty would be withheld.
+[FC-024-015]Hobson drew a sigh of relief. It will be remembered that the men had been promised higher pay if they succeeded in settling on or above the seventieth degree north latitude, and Joliffe, who always had an eye to the main chance, had looked upon the whole matter from a monetary point of view, and was afraid the bounty would be withheld.
 
-"You needn't be afraid," said Hobson with a smile; "and you can tell your brave comrades that our mistake, which is really inexplicable, will not in the least prejudice your interests. We are not below, but above the seventieth parallel, and so you will get your double pay."
+[FC-024-016]"You needn't be afraid," said Hobson with a smile; "and you can tell your brave comrades that our mistake, which is really inexplicable, will not in the least prejudice your interests. We are not below, but above the seventieth parallel, and so you will get your double pay."
 
-"Thank you, sir, thank you," replied Joliffe with a beaming face. "It isn't that we think much about money, but that the money sticks to us."
+[FC-024-017]"Thank you, sir, thank you," replied Joliffe with a beaming face. "It isn't that we think much about money, but that the money sticks to us."
 
-And with this sage remark the men drew off, little dreaming what a strange and fearful change had taken place in the position of the country.
+[FC-024-018]And with this sage remark the men drew off, little dreaming what a strange and fearful change had taken place in the position of the country.
 
-Sergeant Long was about to follow the others when Hobson stopped him with the words---
+[FC-024-019]Sergeant Long was about to follow the others when Hobson stopped him with the words---
 
-"Remain here, Sergeant Long."
+[FC-024-020]"Remain here, Sergeant Long."
 
-The subordinate officer turned on his heel and waited for the Lieutenant to address him.
+[FC-024-021]The subordinate officer turned on his heel and waited for the Lieutenant to address him.
 
-All had now left the cape except Mrs Barnett, Madge, Thomas Black, and the two officers.
+[FC-024-022]All had now left the cape except Mrs Barnett, Madge, Thomas Black, and the two officers.
 
-Since the eclipse Mrs Barnett had not uttered a word. She looked inquiringly at Hobson, who tried to avoid meeting her eyes.
+[FC-024-023]Since the eclipse Mrs Barnett had not uttered a word. She looked inquiringly at Hobson, who tried to avoid meeting her eyes.
 
-For some time not another word was spoken. All involuntarily turned towards the south, where the broken isthmus was situated; but from their position they could only see the sea horizon on the north. Had Cape Bathurst been situated a few hundred feet more above the level of the ocean, they would have been able at a glance to ascertain the limits of their island home.
+[FC-024-024]For some time not another word was spoken. All involuntarily turned towards the south, where the broken isthmus was situated; but from their position they could only see the sea horizon on the north. Had Cape Bathurst been situated a few hundred feet more above the level of the ocean, they would have been able at a glance to ascertain the limits of their island home.
 
-All were deeply moved at the sight of Fort Hope and all its occupants borne away from all solid ground, and floating at the mercy of winds and waves.
+[FC-024-025]All were deeply moved at the sight of Fort Hope and all its occupants borne away from all solid ground, and floating at the mercy of winds and waves.
 
-"Then, Lieutenant," said Mrs Barnett at last, "all the strange phenomena you observed are now explained!"
+[FC-024-026]"Then, Lieutenant," said Mrs Barnett at last, "all the strange phenomena you observed are now explained!"
 
-"Yes, madam," he replied, "everything is explained. The peninsula of Victoria, now an island, which we thought firm ground with an immovable foundation, is nothing more than a vast sheet of ice welded for centuries to the American continent. Gradually the wind has strewn it with earth and sand, and scattered over them the seeds from which have sprung the trees and mosses with which it is clothed. Rain-water filled the lagoon, and produced the little river; vegetation transformed the appearance of the ground; but beneath the lake, beneath the soil of earth and sand---in a word, beneath our feet is a foundation of ice, which floats upon the water by reason of its being specifically lighter than it. Yes, it is a sheet of ice which bears us up, and is carrying us away, and this is why we have not found a single flint or stone upon its surface. This is why its shores are perpendicular, this is why we found ice ten feet below the surface when we dug the reindeer pit---this, in short, is why the tide was not noticeable on the peninsula, which rose and sank with the ebb and flow of the waves!"
+[FC-024-027]"Yes, madam," he replied, "everything is explained. The peninsula of Victoria, now an island, which we thought firm ground with an immovable foundation, is nothing more than a vast sheet of ice welded for centuries to the American continent. Gradually the wind has strewn it with earth and sand, and scattered over them the seeds from which have sprung the trees and mosses with which it is clothed. Rain-water filled the lagoon, and produced the little river; vegetation transformed the appearance of the ground; but beneath the lake, beneath the soil of earth and sand---in a word, beneath our feet is a foundation of ice, which floats upon the water by reason of its being specifically lighter than it. Yes, it is a sheet of ice which bears us up, and is carrying us away, and this is why we have not found a single flint or stone upon its surface. This is why its shores are perpendicular, this is why we found ice ten feet below the surface when we dug the reindeer pit---this, in short, is why the tide was not noticeable on the peninsula, which rose and sank with the ebb and flow of the waves!"
 
-"Everything is indeed explained," said Mrs Barnett, "and your presentiments did not deceive you; but can you explain why the tides, which do not affect us at all now, were to a slight extent perceptible on our arrival?"
+[FC-024-028]"Everything is indeed explained," said Mrs Barnett, "and your presentiments did not deceive you; but can you explain why the tides, which do not affect us at all now, were to a slight extent perceptible on our arrival?"
 
-"Simply because, madam, on our arrival the peninsula was still connected by means of its flexible isthmus with the American continent. It offered a certain resistance to the current, and on its northern shores the tide rose two feet beyond low-water mark, instead of the twenty we reasonably expected. But from the moment when the earthquake broke the connecting link, from the moment when the peninsula became an island free from all control, it rose and sank with the ebb and flow of the tide; and, as we noticed together at full moon a few days ago, no sensible difference was produced on our shores."
+[FC-024-029]"Simply because, madam, on our arrival the peninsula was still connected by means of its flexible isthmus with the American continent. It offered a certain resistance to the current, and on its northern shores the tide rose two feet beyond low-water mark, instead of the twenty we reasonably expected. But from the moment when the earthquake broke the connecting link, from the moment when the peninsula became an island free from all control, it rose and sank with the ebb and flow of the tide; and, as we noticed together at full moon a few days ago, no sensible difference was produced on our shores."
 
-In spite of his despair, Thomas Black listened attentively to Hobson's explanations, and could not but see the reasonableness of his deductions, but he was furious at such a rare, unexpected, and, as he said, "ridiculous" phenomenon occurring just so as to make him miss the eclipse, and he said not a word, but maintained a gloomy, even haughty silence.
+[FC-024-030]In spite of his despair, Thomas Black listened attentively to Hobson's explanations, and could not but see the reasonableness of his deductions, but he was furious at such a rare, unexpected, and, as he said, "ridiculous" phenomenon occurring just so as to make him miss the eclipse, and he said not a word, but maintained a gloomy, even haughty silence.
 
-"Poor Mr Black," said Mrs Barnett, "it must be owned that an astronomer was never more hardly used than you since the world began!"
+[FC-024-031]"Poor Mr Black," said Mrs Barnett, "it must be owned that an astronomer was never more hardly used than you since the world began!"
 
-"In any case, however," said Hobson, turning to her, "we have neither of us anything to reproach ourselves with. No one can find fault with us. Nature alone is to blame. The earthquake cut off our communication with the mainland, and converted our peninsula into a floating island, and this explains why the furred and other animals imprisoned like ourselves, have become so numerous round the fort!"
+[FC-024-032]"In any case, however," said Hobson, turning to her, "we have neither of us anything to reproach ourselves with. No one can find fault with us. Nature alone is to blame. The earthquake cut off our communication with the mainland, and converted our peninsula into a floating island, and this explains why the furred and other animals imprisoned like ourselves, have become so numerous round the fort!"
 
-"This, too, is why the rivals you so much dreaded have not visited us, Lieutenant!" exclaimed Madge.
+[FC-024-033]"This, too, is why the rivals you so much dreaded have not visited us, Lieutenant!" exclaimed Madge.
 
-"And this," added the Sergeant, "accounts for the non-arrival of the convoy sent to Cape Bathurst by Captain Craventy."
+[FC-024-034]"And this," added the Sergeant, "accounts for the non-arrival of the convoy sent to Cape Bathurst by Captain Craventy."
 
-"And this is why," said Mrs. Barnett, looking at the Lieutenant, "I must give up all hope of returning to Europe this year at least!"
+[FC-024-035]"And this is why," said Mrs. Barnett, looking at the Lieutenant, "I must give up all hope of returning to Europe this year at least!"
 
-The tone of voice in which the lady made this last remark showed that she resigned herself to her fate more readily than could have been expected. She seemed suddenly to have made up her mind to make the best of the situation, which would no doubt give her an opportunity of making a great many interesting observations. And after all, what good would grumbling have done? Recriminations were worse than useless. They could not have altered their position, or have checked the course of the wandering island, and there was no means of reuniting it to a continent. No; God alone could decide the future of Fort Hope. They must bow to His will.
+[FC-024-036]The tone of voice in which the lady made this last remark showed that she resigned herself to her fate more readily than could have been expected. She seemed suddenly to have made up her mind to make the best of the situation, which would no doubt give her an opportunity of making a great many interesting observations. And after all, what good would grumbling have done? Recriminations were worse than useless. They could not have altered their position, or have checked the course of the wandering island, and there was no means of reuniting it to a continent. No; God alone could decide the future of Fort Hope. They must bow to His will.

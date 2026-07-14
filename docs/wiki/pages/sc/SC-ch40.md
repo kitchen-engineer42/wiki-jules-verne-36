@@ -11,126 +11,126 @@ tags: [chapter]
 ---
 # In Search of the Castaways — CHAPTER XIV WEALTH IN THE WILDERNESS
 
-ON January 6, at 7 A. M., after a tranquil night passed in longitude 146 degrees 15", the travelers continued their journey across the vast district. They directed their course steadily toward the rising sun, and made a straight line across the plain. Twice over they came upon the traces of squatters going toward the north, and their different footprints became confused, and Glenarvan's horse no longer left on the dust the Blackpoint mark, recognizable by its double shamrock.
+[SC-040-001]ON January 6, at 7 A. M., after a tranquil night passed in longitude 146 degrees 15", the travelers continued their journey across the vast district. They directed their course steadily toward the rising sun, and made a straight line across the plain. Twice over they came upon the traces of squatters going toward the north, and their different footprints became confused, and Glenarvan's horse no longer left on the dust the Blackpoint mark, recognizable by its double shamrock.
 
-The plain was furrowed in some places by fantastic winding creeks surrounded by box, and whose waters were rather temporary than permanent. They originated in the slopes of the Buffalo Ranges, a chain of mountains of moderate height, the undulating line of which was visible on the horizon. It was resolved to camp there the same night. Ayrton goaded on his team, and after a journey of thirty-five miles, the bullocks arrived, somewhat fatigued. The tent was pitched beneath the great trees, and as night had drawn on supper was served as quickly as possible, for all the party cared more for sleeping than eating, after such a day's march.
+[SC-040-002]The plain was furrowed in some places by fantastic winding creeks surrounded by box, and whose waters were rather temporary than permanent. They originated in the slopes of the Buffalo Ranges, a chain of mountains of moderate height, the undulating line of which was visible on the horizon. It was resolved to camp there the same night. Ayrton goaded on his team, and after a journey of thirty-five miles, the bullocks arrived, somewhat fatigued. The tent was pitched beneath the great trees, and as night had drawn on supper was served as quickly as possible, for all the party cared more for sleeping than eating, after such a day's march.
 
-Paganel who had the first watch did not lie down, but shouldered his rifle and walked up and down before the camp, to keep himself from going to sleep. In spite of the absence of the moon, the night was almost luminous with the light of the southern constellations. The SAVANT amused himself with reading the great book of the firmament, a book which is always open, and full of interest to those who can read it. The profound silence of sleeping nature was only interrupted by the clanking of the hobbles on the horses' feet.
+[SC-040-003]Paganel who had the first watch did not lie down, but shouldered his rifle and walked up and down before the camp, to keep himself from going to sleep. In spite of the absence of the moon, the night was almost luminous with the light of the southern constellations. The SAVANT amused himself with reading the great book of the firmament, a book which is always open, and full of interest to those who can read it. The profound silence of sleeping nature was only interrupted by the clanking of the hobbles on the horses' feet.
 
-Paganel was engrossed in his astronomical meditations, and thinking more about the celestial than the terrestrial world, when a distant sound aroused him from his reverie. He listened attentively, and to his great amaze, fancied he heard the sounds of a piano. He could not be mistaken, for he distinctly heard chords struck.
+[SC-040-004]Paganel was engrossed in his astronomical meditations, and thinking more about the celestial than the terrestrial world, when a distant sound aroused him from his reverie. He listened attentively, and to his great amaze, fancied he heard the sounds of a piano. He could not be mistaken, for he distinctly heard chords struck.
 
-"A piano in the wilds!" said Paganel to himself. "I can never believe it is that."
+[SC-040-005]"A piano in the wilds!" said Paganel to himself. "I can never believe it is that."
 
-It certainly was very surprising, but Paganel found it easier to believe it was some Australian bird imitating the sounds of a Pleyel or Erard, as others do the sounds of a clock or mill. But at this very moment, the notes of a clear ringing voice rose on the air. The PIANIST was accompanied by singing. Still Paganel was unwilling to be convinced. However, next minute he was forced to admit the fact, for there fell on his ear the sublime strains of Mozart's "Il mio tesoro tanto" from Don Juan.
+[SC-040-006]It certainly was very surprising, but Paganel found it easier to believe it was some Australian bird imitating the sounds of a Pleyel or Erard, as others do the sounds of a clock or mill. But at this very moment, the notes of a clear ringing voice rose on the air. The PIANIST was accompanied by singing. Still Paganel was unwilling to be convinced. However, next minute he was forced to admit the fact, for there fell on his ear the sublime strains of Mozart's "Il mio tesoro tanto" from Don Juan.
 
-"Well, now," said the geographer to himself, "let the Australian birds be as queer as they may, and even granting the paroquets are the most musical in the world, they can't sing Mozart!"
+[SC-040-007]"Well, now," said the geographer to himself, "let the Australian birds be as queer as they may, and even granting the paroquets are the most musical in the world, they can't sing Mozart!"
 
-He listened to the sublime inspiration of the great master to the end. The effect of this soft melody on the still clear night was indescribable. Paganel remained as if spellbound for a time; the voice ceased and all was silence. When Wilson came to relieve the watch, he found the geographer plunged into a deep reverie. Paganel made no remark, however, to the sailor, but reserved his information for Glenarvan in the morning, and went into the tent to bed.
+[SC-040-008]He listened to the sublime inspiration of the great master to the end. The effect of this soft melody on the still clear night was indescribable. Paganel remained as if spellbound for a time; the voice ceased and all was silence. When Wilson came to relieve the watch, he found the geographer plunged into a deep reverie. Paganel made no remark, however, to the sailor, but reserved his information for Glenarvan in the morning, and went into the tent to bed.
 
-Next day, they were all aroused from sleep by the sudden loud barking of dogs, Glenarvan got up forthwith. Two magnificent pointers, admirable specimens of English hunting dogs, were bounding in front of the little wood, into which they had retreated at the approach of the travelers, redoubling their clamor.
+[SC-040-009]Next day, they were all aroused from sleep by the sudden loud barking of dogs, Glenarvan got up forthwith. Two magnificent pointers, admirable specimens of English hunting dogs, were bounding in front of the little wood, into which they had retreated at the approach of the travelers, redoubling their clamor.
 
-"There is some station in this desert, then," said Glenarvan, "and hunters too, for these are regular setters."
+[SC-040-010]"There is some station in this desert, then," said Glenarvan, "and hunters too, for these are regular setters."
 
-Paganel was just about to recount his nocturnal experiences, when two young men appeared, mounted on horses of the most perfect breed, true "hunters."
+[SC-040-011]Paganel was just about to recount his nocturnal experiences, when two young men appeared, mounted on horses of the most perfect breed, true "hunters."
 
-The two gentlemen dressed in elegant hunting costume, stopped at the sight of the little group camping in gipsy fashion. They looked as if they wondered what could bring an armed party there, but when they saw the ladies get out of the wagon, they dismounted instantly, and went toward them hat in hand. Lord Glenarvan came to meet them, and, as a stranger, announced his name and rank.
+[SC-040-012]The two gentlemen dressed in elegant hunting costume, stopped at the sight of the little group camping in gipsy fashion. They looked as if they wondered what could bring an armed party there, but when they saw the ladies get out of the wagon, they dismounted instantly, and went toward them hat in hand. Lord Glenarvan came to meet them, and, as a stranger, announced his name and rank.
 
-The gentlemen bowed, and the elder of them said, "My Lord, will not these ladies and yourself and friends honor us by resting a little beneath our roof?"
+[SC-040-013]The gentlemen bowed, and the elder of them said, "My Lord, will not these ladies and yourself and friends honor us by resting a little beneath our roof?"
 
-"Mr.--," began Glenarvan.
+[SC-040-014]"Mr.--," began Glenarvan.
 
-"Michael and Sandy Patterson are our names, proprietors of Hottam Station. Our house is scarcely a quarter of a mile distant."
+[SC-040-015]"Michael and Sandy Patterson are our names, proprietors of Hottam Station. Our house is scarcely a quarter of a mile distant."
 
-"Gentlemen," replied Glenarvan, "I should not like to abuse such kindly-offered hospitality."
+[SC-040-016]"Gentlemen," replied Glenarvan, "I should not like to abuse such kindly-offered hospitality."
 
-"My Lord," returned Michael Patterson, "by accepting it you will confer a favor on poor exiles, who will be only too happy to do the honors of the wilds."
+[SC-040-017]"My Lord," returned Michael Patterson, "by accepting it you will confer a favor on poor exiles, who will be only too happy to do the honors of the wilds."
 
-Glenarvan bowed in token of acquiescence.
+[SC-040-018]Glenarvan bowed in token of acquiescence.
 
-"Sir," said Paganel, addressing Michael Patterson, "if it is not an impudent question, may I ask whether it was you that sung an air from the divine Mozart last night?"
+[SC-040-019]"Sir," said Paganel, addressing Michael Patterson, "if it is not an impudent question, may I ask whether it was you that sung an air from the divine Mozart last night?"
 
-"It was, sir," replied the stranger, "and my cousin Sandy accompanied me."
+[SC-040-020]"It was, sir," replied the stranger, "and my cousin Sandy accompanied me."
 
-"Well, sir," replied Paganel, holding out his hand to the young man, "receive the sincere compliments of a Frenchman, who is a passionate admirer of this music."
+[SC-040-021]"Well, sir," replied Paganel, holding out his hand to the young man, "receive the sincere compliments of a Frenchman, who is a passionate admirer of this music."
 
-Michael grasped his hand cordially, and then pointing out the road to take, set off, accompanied by the ladies and Lord Glenarvan and his friends, for the station. The horses and the camp were left to the care of Ayrton and the sailors.
+[SC-040-022]Michael grasped his hand cordially, and then pointing out the road to take, set off, accompanied by the ladies and Lord Glenarvan and his friends, for the station. The horses and the camp were left to the care of Ayrton and the sailors.
 
-Hottam Station was truly a magnificent establishment, kept as scrupulously in order as an English park. Immense meadows, enclosed in gray fences, stretched away out of sight. In these, thousands of bullocks and millions of sheep were grazing, tended by numerous shepherds, and still more numerous dogs. The crack of the stock-whip mingled continually with the barking of the "collies" and the bellowing and bleating of the cattle and sheep.
+[SC-040-023]Hottam Station was truly a magnificent establishment, kept as scrupulously in order as an English park. Immense meadows, enclosed in gray fences, stretched away out of sight. In these, thousands of bullocks and millions of sheep were grazing, tended by numerous shepherds, and still more numerous dogs. The crack of the stock-whip mingled continually with the barking of the "collies" and the bellowing and bleating of the cattle and sheep.
 
-Toward the east there was a boundary of myalls and gum-trees, beyond which rose Mount Hottam, its imposing peak towering 7,500 feet high. Long avenues of green trees were visible on all sides. Here and there was a thick clump of "grass trees," tall bushes ten feet high, like the dwarf palm, quite lost in their crown of long narrow leaves. The air was balmy and odorous with the perfume of scented laurels, whose white blossoms, now in full bloom, distilled on the breeze the finest aromatic perfume.
+[SC-040-024]Toward the east there was a boundary of myalls and gum-trees, beyond which rose Mount Hottam, its imposing peak towering 7,500 feet high. Long avenues of green trees were visible on all sides. Here and there was a thick clump of "grass trees," tall bushes ten feet high, like the dwarf palm, quite lost in their crown of long narrow leaves. The air was balmy and odorous with the perfume of scented laurels, whose white blossoms, now in full bloom, distilled on the breeze the finest aromatic perfume.
 
-To these charming groups of native trees were added transplantations from European climates. The peach, pear, and apple trees were there, the fig, the orange, and even the oak, to the rapturous delight of the travelers, who greeted them with loud hurrahs! But astonished as the travelers were to find themselves walking beneath the shadow of the trees of their own native land, they were still more so at the sight of the birds that flew about in the branches-- the "satin bird," with its silky plumage, and the "king-honeysuckers," with their plumage of gold and black velvet.
+[SC-040-025]To these charming groups of native trees were added transplantations from European climates. The peach, pear, and apple trees were there, the fig, the orange, and even the oak, to the rapturous delight of the travelers, who greeted them with loud hurrahs! But astonished as the travelers were to find themselves walking beneath the shadow of the trees of their own native land, they were still more so at the sight of the birds that flew about in the branches-- the "satin bird," with its silky plumage, and the "king-honeysuckers," with their plumage of gold and black velvet.
 
-For the first time, too, they saw here the "Lyre" bird, the tail of which resembles in form the graceful instrument of Orpheus. It flew about among the tree ferns, and when its tail struck the branches, they were almost surprised not to hear the harmonious strains that inspired Amphion to rebuild the walls of Thebes. Paganel had a great desire to play on it.
+[SC-040-026]For the first time, too, they saw here the "Lyre" bird, the tail of which resembles in form the graceful instrument of Orpheus. It flew about among the tree ferns, and when its tail struck the branches, they were almost surprised not to hear the harmonious strains that inspired Amphion to rebuild the walls of Thebes. Paganel had a great desire to play on it.
 
-However, Lord Glenarvan was not satisfied with admiring the fairy-like wonders of this oasis, improvised in the Australian desert. He was listening to the history of the young gentlemen. In England, in the midst of civilized countries, the new comer acquaints his host whence he comes and whither he is going; but here, by a refinement of delicacy, Michael and Sandy Patterson thought it a duty to make themselves known to the strangers who were about to receive their hospitality.
+[SC-040-027]However, Lord Glenarvan was not satisfied with admiring the fairy-like wonders of this oasis, improvised in the Australian desert. He was listening to the history of the young gentlemen. In England, in the midst of civilized countries, the new comer acquaints his host whence he comes and whither he is going; but here, by a refinement of delicacy, Michael and Sandy Patterson thought it a duty to make themselves known to the strangers who were about to receive their hospitality.
 
-Michael and Sandy Patterson were the sons of London bankers. When they were twenty years of age, the head of their family said, "Here are some thousands, young men. Go to a distant colony; and start some useful settlement there. Learn to know life by labor. If you succeed, so much the better. If you fail, it won't matter much. We shall not regret the money which makes you men."
+[SC-040-028]Michael and Sandy Patterson were the sons of London bankers. When they were twenty years of age, the head of their family said, "Here are some thousands, young men. Go to a distant colony; and start some useful settlement there. Learn to know life by labor. If you succeed, so much the better. If you fail, it won't matter much. We shall not regret the money which makes you men."
 
-The two young men obeyed. They chose the colony of Victoria in Australia, as the field for sowing the paternal bank-notes, and had no reason to repent the selection. At the end of three years the establishment was flourishing. In Victoria, New South Wales, and Southern Australia, there are more than three thousand stations, some belonging to squatters who rear cattle, and others to settlers who farm the ground. Till the arrival of the two Pattersons, the largest establishment of this sort was that of Mr. Jamieson, which covered an area of seventy-five miles, with a frontage of about eight miles along the Peron, one of the affluents of the Darling.
+[SC-040-029]The two young men obeyed. They chose the colony of Victoria in Australia, as the field for sowing the paternal bank-notes, and had no reason to repent the selection. At the end of three years the establishment was flourishing. In Victoria, New South Wales, and Southern Australia, there are more than three thousand stations, some belonging to squatters who rear cattle, and others to settlers who farm the ground. Till the arrival of the two Pattersons, the largest establishment of this sort was that of Mr. Jamieson, which covered an area of seventy-five miles, with a frontage of about eight miles along the Peron, one of the affluents of the Darling.
 
-Now Hottam Station bore the palm for business and extent. The young men were both squatters and settlers. They managed their immense property with rare ability and uncommon energy.
+[SC-040-030]Now Hottam Station bore the palm for business and extent. The young men were both squatters and settlers. They managed their immense property with rare ability and uncommon energy.
 
-The station was far removed from the chief towns in the
+[SC-040-031]The station was far removed from the chief towns in the
 
-V. IV Verne midst of the unfrequented districts of the Murray. It occupied a long wide space of five leagues in extent, lying between the Buffalo Ranges and Mount Hottam. At the two angles north of this vast quadrilateral, Mount Aberdeen rose on the left, and the peaks of High Barven on the right. Winding, beautiful streams were not wanting, thanks to the creeks and affluents of the Oven's River, which throws itself at the north into the bed of the Murray. Consequently they were equally successful in cattle breeding and farming. Ten thousand acres of ground, admirably cultivated, produced harvests of native productions and exotics, and several millions of animals fattened in the fertile pastures. The products of Hottam Station fetched the very highest price in the markets of Castlemaine and Melbourne.
+[SC-040-032]V. IV Verne midst of the unfrequented districts of the Murray. It occupied a long wide space of five leagues in extent, lying between the Buffalo Ranges and Mount Hottam. At the two angles north of this vast quadrilateral, Mount Aberdeen rose on the left, and the peaks of High Barven on the right. Winding, beautiful streams were not wanting, thanks to the creeks and affluents of the Oven's River, which throws itself at the north into the bed of the Murray. Consequently they were equally successful in cattle breeding and farming. Ten thousand acres of ground, admirably cultivated, produced harvests of native productions and exotics, and several millions of animals fattened in the fertile pastures. The products of Hottam Station fetched the very highest price in the markets of Castlemaine and Melbourne.
 
-Michael and Sandy Patterson had just concluded these details of their busy life, when their dwelling came in sight, at the extremity of the avenue of the oaks.
+[SC-040-033]Michael and Sandy Patterson had just concluded these details of their busy life, when their dwelling came in sight, at the extremity of the avenue of the oaks.
 
-It was a charming house, built of wood and brick, hidden in groves of emerophilis. Nothing at all, however, belonging to a station was visible--neither sheds, nor stables, nor cart-houses. All these out-buildings, a perfect village, comprising more than twenty huts and houses, were about a quarter of a mile off in the heart of a little valley. Electric communication was established between this village and the master's house, which, far removed from all noise, seemed buried in a forest of exotic trees.
+[SC-040-034]It was a charming house, built of wood and brick, hidden in groves of emerophilis. Nothing at all, however, belonging to a station was visible--neither sheds, nor stables, nor cart-houses. All these out-buildings, a perfect village, comprising more than twenty huts and houses, were about a quarter of a mile off in the heart of a little valley. Electric communication was established between this village and the master's house, which, far removed from all noise, seemed buried in a forest of exotic trees.
 
-At Sandy Patterson's bidding, a sumptuous breakfast was served in less than a quarter of an hour. The wines and viands were of the finest quality; but what pleased the guests most of all in the midst of these refinements of opulence, was the joy of the young squatters in offering them this splendid hospitality.
+[SC-040-035]At Sandy Patterson's bidding, a sumptuous breakfast was served in less than a quarter of an hour. The wines and viands were of the finest quality; but what pleased the guests most of all in the midst of these refinements of opulence, was the joy of the young squatters in offering them this splendid hospitality.
 
-It was not long before they were told the history of the expedition, and had their liveliest interest awakened for its success. They spoke hopefully to the young Grants, and Michael said: "Harry Grant has evidently fallen into the hands of natives, since he has not turned up at any of the settlements on the coast. He knows his position exactly, as the document proves, and the reason he did not reach some English colony is that he must have been taken prisoner by the savages the moment he landed!"
+[SC-040-036]It was not long before they were told the history of the expedition, and had their liveliest interest awakened for its success. They spoke hopefully to the young Grants, and Michael said: "Harry Grant has evidently fallen into the hands of natives, since he has not turned up at any of the settlements on the coast. He knows his position exactly, as the document proves, and the reason he did not reach some English colony is that he must have been taken prisoner by the savages the moment he landed!"
 
-"That is precisely what befell his quartermaster, Ayrton," said John Mangles.
+[SC-040-037]"That is precisely what befell his quartermaster, Ayrton," said John Mangles.
 
-"But you, gentlemen, then, have never heard the catastrophe of the BRITANNIA, mentioned?" inquired Lady Helena.
+[SC-040-038]"But you, gentlemen, then, have never heard the catastrophe of the BRITANNIA, mentioned?" inquired Lady Helena.
 
-"Never, Madam," replied Michael.
+[SC-040-039]"Never, Madam," replied Michael.
 
-"And what treatment, in your opinion, has Captain Grant met with among the natives?"
+[SC-040-040]"And what treatment, in your opinion, has Captain Grant met with among the natives?"
 
-"The Australians are not cruel, Madam," replied the young squatter, "and Miss Grant may be easy on that score. There have been many instances of the gentleness of their nature, and some Europeans have lived a long time among them without having the least cause to complain of their brutality."
+[SC-040-041]"The Australians are not cruel, Madam," replied the young squatter, "and Miss Grant may be easy on that score. There have been many instances of the gentleness of their nature, and some Europeans have lived a long time among them without having the least cause to complain of their brutality."
 
-"King, among others, the sole survivor of the Burke expedition," put in Paganel.
+[SC-040-042]"King, among others, the sole survivor of the Burke expedition," put in Paganel.
 
-"And not only that bold explorer," returned Sandy, "but also an English soldier named Buckley, who deserted at Port Philip in 1803, and who was welcomed by the natives, and lived thirty-three years among them."
+[SC-040-043]"And not only that bold explorer," returned Sandy, "but also an English soldier named Buckley, who deserted at Port Philip in 1803, and who was welcomed by the natives, and lived thirty-three years among them."
 
-"And more recently," added Michael," one of the last numbers of the AUSTRALASIA informs us that a certain Morrilli has just been restored to his countrymen after sixteen years of slavery. His story is exactly similar to the captain's, for it was at the very time of his shipwreck in the PRUVIENNE, in 1846, that he was made prisoner by the natives, and dragged away into the interior of the continent. I therefore think you have reason to hope still."
+[SC-040-044]"And more recently," added Michael," one of the last numbers of the AUSTRALASIA informs us that a certain Morrilli has just been restored to his countrymen after sixteen years of slavery. His story is exactly similar to the captain's, for it was at the very time of his shipwreck in the PRUVIENNE, in 1846, that he was made prisoner by the natives, and dragged away into the interior of the continent. I therefore think you have reason to hope still."
 
-The young squatter's words caused great joy to his auditors. They completely corroborated the opinions of Paganel and Ayrton.
+[SC-040-045]The young squatter's words caused great joy to his auditors. They completely corroborated the opinions of Paganel and Ayrton.
 
-The conversation turned on the convicts after the ladies had left the table. The squatters had heard of the catastrophe at Camden Bridge, but felt no uneasiness about the escaped gang. It was not a station, with more than a hundred men on it, that they would dare to attack. Besides, they would never go into the deserts of the Murray, where they could find no booty, nor near the colonies of New South Wales, where the roads were too well watched. Ayrton had said this too.
+[SC-040-046]The conversation turned on the convicts after the ladies had left the table. The squatters had heard of the catastrophe at Camden Bridge, but felt no uneasiness about the escaped gang. It was not a station, with more than a hundred men on it, that they would dare to attack. Besides, they would never go into the deserts of the Murray, where they could find no booty, nor near the colonies of New South Wales, where the roads were too well watched. Ayrton had said this too.
 
-Glenarvan could not refuse the request of his amiable hosts, to spend the whole day at the station. It was twelve hours' delay, but also twelve hours' rest, and both horses and bullocks would be the better for the comfortable quarters they would find there. This was accordingly agreed upon, and the young squatters sketched out a programme of the day's amusements, which was adopted eagerly.
+[SC-040-047]Glenarvan could not refuse the request of his amiable hosts, to spend the whole day at the station. It was twelve hours' delay, but also twelve hours' rest, and both horses and bullocks would be the better for the comfortable quarters they would find there. This was accordingly agreed upon, and the young squatters sketched out a programme of the day's amusements, which was adopted eagerly.
 
-At noon, seven vigorous hunters were before the door. An elegant brake was intended for the ladies, in which the coachman could exhibit his skill in driving four-in-hand. The cavalcade set off preceded by huntsmen, and armed with first-rate rifles, followed by a pack of pointers barking joyously as they bounded through the bushes. For four hours the hunting party wandered through the paths and avenues of the park, which was as large as a small German state. The Reuiss-Schleitz, or Saxe-Coburg Gotha, would have gone inside it comfortably. Few people were to be met in it certainly, but sheep in abundance. As for game, there was a complete preserve awaiting the hunters. The noisy reports of guns were soon heard on all sides. Little Robert did wonders in company with Major McNabbs. The daring boy, in spite of his sister's injunctions, was always in front, and the first to fire. But John Mangles promised to watch over him, and Mary felt less uneasy.
+[SC-040-048]At noon, seven vigorous hunters were before the door. An elegant brake was intended for the ladies, in which the coachman could exhibit his skill in driving four-in-hand. The cavalcade set off preceded by huntsmen, and armed with first-rate rifles, followed by a pack of pointers barking joyously as they bounded through the bushes. For four hours the hunting party wandered through the paths and avenues of the park, which was as large as a small German state. The Reuiss-Schleitz, or Saxe-Coburg Gotha, would have gone inside it comfortably. Few people were to be met in it certainly, but sheep in abundance. As for game, there was a complete preserve awaiting the hunters. The noisy reports of guns were soon heard on all sides. Little Robert did wonders in company with Major McNabbs. The daring boy, in spite of his sister's injunctions, was always in front, and the first to fire. But John Mangles promised to watch over him, and Mary felt less uneasy.
 
-During this BATTUE they killed certain animals peculiar to the country, the very names of which were unknown to Paganel; among others the "wombat" and the "bandicoot." The wombat is an herbivorous animal, which burrows in the ground like a badger. It is as large as a sheep, and the flesh is excellent.
+[SC-040-049]During this BATTUE they killed certain animals peculiar to the country, the very names of which were unknown to Paganel; among others the "wombat" and the "bandicoot." The wombat is an herbivorous animal, which burrows in the ground like a badger. It is as large as a sheep, and the flesh is excellent.
 
-The bandicoot is a species of marsupial animal which could outwit the European fox, and give him lessons in pillaging poultry yards. It was a repulsive-looking animal, a foot and a half long, but, as Paganel chanced to kill it, of course he thought it charming.
+[SC-040-050]The bandicoot is a species of marsupial animal which could outwit the European fox, and give him lessons in pillaging poultry yards. It was a repulsive-looking animal, a foot and a half long, but, as Paganel chanced to kill it, of course he thought it charming.
 
-"An adorable creature," he called it.
+[SC-040-051]"An adorable creature," he called it.
 
-But the most interesting event of the day, by far, was the kangaroo hunt. About four o'clock, the dogs roused a troop of these curious marsupials. The little ones retreated precipitately into the maternal pouch, and all the troop decamped in file. Nothing could be more astonishing than the enormous bounds of the kangaroo. The hind legs of the animal are twice as long as the front ones, and unbend like a spring. At the head of the flying troop was a male five feet high, a magnificent specimen of the _macropus giganteus_, an "old man," as the bushmen say.
+[SC-040-052]But the most interesting event of the day, by far, was the kangaroo hunt. About four o'clock, the dogs roused a troop of these curious marsupials. The little ones retreated precipitately into the maternal pouch, and all the troop decamped in file. Nothing could be more astonishing than the enormous bounds of the kangaroo. The hind legs of the animal are twice as long as the front ones, and unbend like a spring. At the head of the flying troop was a male five feet high, a magnificent specimen of the _macropus giganteus_, an "old man," as the bushmen say.
 
-For four or five miles the chase was vigorously pursued. The kangaroos showed no signs of weariness, and the dogs, who had reason enough to fear their strong paws and sharp nails, did not care to approach them. But at last, worn out with the race, the troop stopped, and the "old man" leaned against the trunk of a tree, ready to defend himself. One of the pointers, carried away by excitement, went up to him. Next minute the unfortunate beast leaped into the air, and fell down again completely ripped up.
+[SC-040-053]For four or five miles the chase was vigorously pursued. The kangaroos showed no signs of weariness, and the dogs, who had reason enough to fear their strong paws and sharp nails, did not care to approach them. But at last, worn out with the race, the troop stopped, and the "old man" leaned against the trunk of a tree, ready to defend himself. One of the pointers, carried away by excitement, went up to him. Next minute the unfortunate beast leaped into the air, and fell down again completely ripped up.
 
-The whole pack, indeed, would have had little chance with these powerful marsupia. They had to dispatch the fellow with rifles. Nothing but balls could bring down the gigantic animal.
+[SC-040-054]The whole pack, indeed, would have had little chance with these powerful marsupia. They had to dispatch the fellow with rifles. Nothing but balls could bring down the gigantic animal.
 
-Just at this moment, Robert was well nigh the victim of his own imprudence. To make sure of his aim, he had approached too near the kangaroo, and the animal leaped upon him immediately. Robert gave a loud cry and fell. Mary Grant saw it all from the brake, and in an agony of terror, speechless and almost unable even to see, stretched out her arms toward her little brother. No one dared to fire, for fear of wounding the child.
+[SC-040-055]Just at this moment, Robert was well nigh the victim of his own imprudence. To make sure of his aim, he had approached too near the kangaroo, and the animal leaped upon him immediately. Robert gave a loud cry and fell. Mary Grant saw it all from the brake, and in an agony of terror, speechless and almost unable even to see, stretched out her arms toward her little brother. No one dared to fire, for fear of wounding the child.
 
-But John Mangles opened his hunting knife, and at the risk of being ripped up himself, sprang at the animal, and plunged it into his heart. The beast dropped forward, and Robert rose unhurt. Next minute he was in his sister's arms.
+[SC-040-056]But John Mangles opened his hunting knife, and at the risk of being ripped up himself, sprang at the animal, and plunged it into his heart. The beast dropped forward, and Robert rose unhurt. Next minute he was in his sister's arms.
 
-"Thank you, Mr. John, thank you!" she said, holding out her hand to the young captain.
+[SC-040-057]"Thank you, Mr. John, thank you!" she said, holding out her hand to the young captain.
 
-"I had pledged myself for his safety," was all John said, taking her trembling fingers into his own.
+[SC-040-058]"I had pledged myself for his safety," was all John said, taking her trembling fingers into his own.
 
-This occurrence ended the sport. The band of marsupia had disappeared after the death of their leader. The hunting party returned home, bringing their game with them. It was then six o'clock. A magnificent dinner was ready. Among other things, there was one dish that was a great success. It was kangaroo-tail soup, prepared in the native manner.
+[SC-040-059]This occurrence ended the sport. The band of marsupia had disappeared after the death of their leader. The hunting party returned home, bringing their game with them. It was then six o'clock. A magnificent dinner was ready. Among other things, there was one dish that was a great success. It was kangaroo-tail soup, prepared in the native manner.
 
-Next morning very early, they took leave of the young squatters, with hearty thanks and a positive promise from them of a visit to Malcolm Castle when they should return to Europe.
+[SC-040-060]Next morning very early, they took leave of the young squatters, with hearty thanks and a positive promise from them of a visit to Malcolm Castle when they should return to Europe.
 
-Then the wagon began to move away, round the foot of Mount Hottam, and soon the hospitable dwelling disappeared from the sight of the travelers like some brief vision which had come and gone.
+[SC-040-061]Then the wagon began to move away, round the foot of Mount Hottam, and soon the hospitable dwelling disappeared from the sight of the travelers like some brief vision which had come and gone.
 
-For five miles further, the horses were still treading the station lands. It was not till nine o'clock that they had passed the last fence, and entered the almost unknown districts of the province of Victoria.
+[SC-040-062]For five miles further, the horses were still treading the station lands. It was not till nine o'clock that they had passed the last fence, and entered the almost unknown districts of the province of Victoria.

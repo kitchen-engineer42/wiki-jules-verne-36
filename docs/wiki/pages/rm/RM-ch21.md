@@ -11,144 +11,144 @@ tags: [chapter]
 ---
 # Round the Moon — CHAPTER XXI
 
-J.T. MASTON CALLED IN.
+[RM-021-001]J.T. MASTON CALLED IN.
 
-Emotion was great on board the Susquehanna. Officers and sailors forgot the terrible danger they had just been in--the danger of being crushed and sunk. They only thought of the catastrophe which terminated the journey. Thus, therefore, the moat audacious enterprise of ancient and modern times lost the life of the bold adventurers who had attempted it.
+[RM-021-002]Emotion was great on board the Susquehanna. Officers and sailors forgot the terrible danger they had just been in--the danger of being crushed and sunk. They only thought of the catastrophe which terminated the journey. Thus, therefore, the moat audacious enterprise of ancient and modern times lost the life of the bold adventurers who had attempted it.
 
-"It is 'they' come back," the young midshipman had said, and they had all understood. No one doubted that the bolis was the projectile of the Gun Club. Opinions were divided about the fate of the travellers.
+[RM-021-003]"It is 'they' come back," the young midshipman had said, and they had all understood. No one doubted that the bolis was the projectile of the Gun Club. Opinions were divided about the fate of the travellers.
 
-"They are dead!" said one.
+[RM-021-004]"They are dead!" said one.
 
-"They are alive," answered the other. "The water is deep here, and the shock has been deadened."
+[RM-021-005]"They are alive," answered the other. "The water is deep here, and the shock has been deadened."
 
-"But they will have no air, and will die suffocated!"
+[RM-021-006]"But they will have no air, and will die suffocated!"
 
-"Burnt!" answered the other. "Their projectile was only an incandescent mass as it crossed the atmosphere."
+[RM-021-007]"Burnt!" answered the other. "Their projectile was only an incandescent mass as it crossed the atmosphere."
 
-"What does it matter?" was answered unanimously, "living or dead they must be brought up from there."
+[RM-021-008]"What does it matter?" was answered unanimously, "living or dead they must be brought up from there."
 
-Meanwhile Captain Blomsberry had called his officers together, and with their permission he held a council. Something must be done immediately. The most immediate was to haul up the projectile--a difficult operation, but not an impossible one. But the corvette wanted the necessary engines, which would have to be powerful and precise. It was, therefore, resolved to put into the nearest port, and to send word to the Gun Club about the fall of the bullet.
+[RM-021-009]Meanwhile Captain Blomsberry had called his officers together, and with their permission he held a council. Something must be done immediately. The most immediate was to haul up the projectile--a difficult operation, but not an impossible one. But the corvette wanted the necessary engines, which would have to be powerful and precise. It was, therefore, resolved to put into the nearest port, and to send word to the Gun Club about the fall of the bullet.
 
-This determination was taken unanimously. The choice of a port was discussed. The neighbouring coast had no harbour on the 27th degree of latitude. Higher up, above the peninsula of Monterey, was the important town which has given its name to it. But, seated on the confines of a veritable desert, it had no telegraphic communication with the interior, and electricity alone could spread the important news quickly enough.
+[RM-021-010]This determination was taken unanimously. The choice of a port was discussed. The neighbouring coast had no harbour on the 27th degree of latitude. Higher up, above the peninsula of Monterey, was the important town which has given its name to it. But, seated on the confines of a veritable desert, it had no telegraphic communication with the interior, and electricity alone could spread the important news quickly enough.
 
-Some degrees above lay the bay of San Francisco. Through the capital of the Gold Country communication with the centre of the Union would be easy. By putting all steam on, the Susquehanna, in less than two days, could reach the port of San Francisco. She must, therefore, start at once.
+[RM-021-011]Some degrees above lay the bay of San Francisco. Through the capital of the Gold Country communication with the centre of the Union would be easy. By putting all steam on, the Susquehanna, in less than two days, could reach the port of San Francisco. She must, therefore, start at once.
 
-The fires were heaped up, and they could set sail immediately. Two thousand fathoms of sounding still remained in the water. Captain Blomsberry would not lose precious time in hauling it in, and resolved to cut the line.
+[RM-021-012]The fires were heaped up, and they could set sail immediately. Two thousand fathoms of sounding still remained in the water. Captain Blomsberry would not lose precious time in hauling it in, and resolved to cut the line.
 
-"We will fix the end to a buoy," said he, "and the buoy will indicate the exact point where the projectile fell."
+[RM-021-013]"We will fix the end to a buoy," said he, "and the buoy will indicate the exact point where the projectile fell."
 
-"Besides," answered Lieutenant Bronsfield, "we have our exact bearings: north lat. 27° 7', and west long. 41° 37'."
+[RM-021-014]"Besides," answered Lieutenant Bronsfield, "we have our exact bearings: north lat. 27° 7', and west long. 41° 37'."
 
-"Very well, Mr. Bronsfield," answered the captain; "with your permission, have the line cut."
+[RM-021-015]"Very well, Mr. Bronsfield," answered the captain; "with your permission, have the line cut."
 
-A strong buoy, reinforced by a couple of spars, was thrown out on to the surface of the ocean. The end of the line was solidly struck beneath, and only submitted to the ebb and flow of the surges, so that it would not drift much.
+[RM-021-016]A strong buoy, reinforced by a couple of spars, was thrown out on to the surface of the ocean. The end of the line was solidly struck beneath, and only submitted to the ebb and flow of the surges, so that it would not drift much.
 
-At that moment the engineer came to warn the captain that he had put the pressure on, and they could start. The captain thanked him for his excellent communication. Then he gave N.N.E. as the route. The corvette was put about, and made for the bay of San Francisco with all steam on. It was then 3 a.m.
+[RM-021-017]At that moment the engineer came to warn the captain that he had put the pressure on, and they could start. The captain thanked him for his excellent communication. Then he gave N.N.E. as the route. The corvette was put about, and made for the bay of San Francisco with all steam on. It was then 3 a.m.
 
-Two hundred leagues to get over was not much for a quick vessel like the Susquehanna. It got over that distance in thirty-six hours, and on the 14th of December, at 1.27 p.m., she would enter the bay of San Francisco.
+[RM-021-018]Two hundred leagues to get over was not much for a quick vessel like the Susquehanna. It got over that distance in thirty-six hours, and on the 14th of December, at 1.27 p.m., she would enter the bay of San Francisco.
 
-At the sight of this vessel of the national navy arriving with all speed on, her bowsprit gone, and her mainmast propped up, public curiosity was singularly excited. A compact crowd was soon assembled on the quays awaiting the landing.
+[RM-021-019]At the sight of this vessel of the national navy arriving with all speed on, her bowsprit gone, and her mainmast propped up, public curiosity was singularly excited. A compact crowd was soon assembled on the quays awaiting the landing.
 
-After weighing anchor Captain Blomsberry and Lieutenant Bronsfield got down into an eight-oared boat which carried them rapidly to the land.
+[RM-021-020]After weighing anchor Captain Blomsberry and Lieutenant Bronsfield got down into an eight-oared boat which carried them rapidly to the land.
 
-They jumped out on the quay.
+[RM-021-021]They jumped out on the quay.
 
-"The telegraph-office?" they asked, without answering one of the thousand questions that were showered upon them.
+[RM-021-022]"The telegraph-office?" they asked, without answering one of the thousand questions that were showered upon them.
 
-The port inspector guided them himself to the telegraph-office, amidst an immense crowd of curious people.
+[RM-021-023]The port inspector guided them himself to the telegraph-office, amidst an immense crowd of curious people.
 
-Blomsberry and Bronsfield went into the office whilst the crowd crushed against the door.
+[RM-021-024]Blomsberry and Bronsfield went into the office whilst the crowd crushed against the door.
 
-A few minutes later one message was sent in four different directions:--1st, to the Secretary of the Navy, Washington; 2nd, to the Vice-President of the Gun Club, Baltimore; 3rd, to the Honourable J.T. Maston, Long's Peak, Rocky Mountains; 4th, to the Sub-Director of the Cambridge Observatory, Massachusetts.
+[RM-021-025]A few minutes later one message was sent in four different directions:--1st, to the Secretary of the Navy, Washington; 2nd, to the Vice-President of the Gun Club, Baltimore; 3rd, to the Honourable J.T. Maston, Long's Peak, Rocky Mountains; 4th, to the Sub-Director of the Cambridge Observatory, Massachusetts.
 
-It ran as follows:--
+[RM-021-026]It ran as follows:--
 
-"In north lat. 20° 7', and west long. 41° 37', the projectile of the Columbiad fell into the Pacific, on December 12th, at 1.17 am. Send instructions.--BLOMSBERRY, Commander Susquehanna."
+[RM-021-027]"In north lat. 20° 7', and west long. 41° 37', the projectile of the Columbiad fell into the Pacific, on December 12th, at 1.17 am. Send instructions.--BLOMSBERRY, Commander Susquehanna."
 
-Five minutes afterwards the whole town of San Francisco knew the tidings. Before 6 p.m. the different States of the Union had intelligence of the supreme catastrophe. After midnight, through the cable, the whole of Europe knew the result of the great American enterprise.
+[RM-021-028]Five minutes afterwards the whole town of San Francisco knew the tidings. Before 6 p.m. the different States of the Union had intelligence of the supreme catastrophe. After midnight, through the cable, the whole of Europe knew the result of the great American enterprise.
 
-It would be impossible to describe the effect produced throughout the world by the unexpected news.
+[RM-021-029]It would be impossible to describe the effect produced throughout the world by the unexpected news.
 
-On receipt of the telegram the Secretary of the Navy telegraphed to the Susquehanna to keep under fire, and wait in the bay of San Francisco. She was to be ready to set sail day or night.
+[RM-021-030]On receipt of the telegram the Secretary of the Navy telegraphed to the Susquehanna to keep under fire, and wait in the bay of San Francisco. She was to be ready to set sail day or night.
 
-The Observatory of Cambridge had an extraordinary meeting, and, with the serenity which distinguishes scientific bodies, it peacefully discussed the scientific part of the question.
+[RM-021-031]The Observatory of Cambridge had an extraordinary meeting, and, with the serenity which distinguishes scientific bodies, it peacefully discussed the scientific part of the question.
 
-At the Gun Club there was an explosion. All the artillerymen were assembled. The Vice-President, the Honourable Wilcome, was just reading the premature telegram by which Messrs. Maston and Belfast announced that the projectile had just been perceived in the gigantic reflector of Long's Peak. This communication informed them also that the bullet, retained by the attraction of the moon, was playing the part of sub-satellite in the solar world.
+[RM-021-032]At the Gun Club there was an explosion. All the artillerymen were assembled. The Vice-President, the Honourable Wilcome, was just reading the premature telegram by which Messrs. Maston and Belfast announced that the projectile had just been perceived in the gigantic reflector of Long's Peak. This communication informed them also that the bullet, retained by the attraction of the moon, was playing the part of sub-satellite in the solar world.
 
-The truth on this subject is now known.
+[RM-021-033]The truth on this subject is now known.
 
-However, upon the arrival of Blomsberry's message, which so formally contradicted J.T. Maston's telegram, two parties were formed in the bosom of the Gun Club. On the one side were members who admitted the fall of the projectile, and consequently the return of the travellers. On the other were those who, holding by the observations at Long's Peak, concluded that the commander of the Susquehanna was mistaken. According to the latter, the pretended projectile was only a bolis, nothing but a bolis, a shooting star, which in its fall had fractured the corvette. Their argument could not very well be answered, because the velocity with which it was endowed had made its observation very difficult. The commander of the Susquehanna and his officers might certainly have been mistaken in good faith. One argument certainly was in their favour: if the projectile had fallen on the earth it must have touched the terrestrial spheroid upon the 27th degree of north latitude, and, taking into account the time that had elapsed, and the earth's movement of rotation, between the 41st and 42nd degree of west longitude.
+[RM-021-034]However, upon the arrival of Blomsberry's message, which so formally contradicted J.T. Maston's telegram, two parties were formed in the bosom of the Gun Club. On the one side were members who admitted the fall of the projectile, and consequently the return of the travellers. On the other were those who, holding by the observations at Long's Peak, concluded that the commander of the Susquehanna was mistaken. According to the latter, the pretended projectile was only a bolis, nothing but a bolis, a shooting star, which in its fall had fractured the corvette. Their argument could not very well be answered, because the velocity with which it was endowed had made its observation very difficult. The commander of the Susquehanna and his officers might certainly have been mistaken in good faith. One argument certainly was in their favour: if the projectile had fallen on the earth it must have touched the terrestrial spheroid upon the 27th degree of north latitude, and, taking into account the time that had elapsed, and the earth's movement of rotation, between the 41st and 42nd degree of west longitude.
 
-However that might be, it was unanimously decided in the Gun Club that Blomsberry's brother Bilsby and Major Elphinstone should start at once for San Francisco and give their advice about the means of dragging up the projectile from the depths of the ocean.
+[RM-021-035]However that might be, it was unanimously decided in the Gun Club that Blomsberry's brother Bilsby and Major Elphinstone should start at once for San Francisco and give their advice about the means of dragging up the projectile from the depths of the ocean.
 
-These men started without losing an instant, and the railway which was soon to cross the whole of Central America took them to St. Louis, where rapid mail-coaches awaited them.
+[RM-021-036]These men started without losing an instant, and the railway which was soon to cross the whole of Central America took them to St. Louis, where rapid mail-coaches awaited them.
 
-Almost at the same moment that the Secretary of the Navy, the Vice-President of the Gun Club, and the Sub-Director of the Observatory received the telegram from San Francisco, the Honourable J.T. Maston felt the most violent emotion of his whole existence--an emotion not even equalled by that he had experienced when his celebrated cannon was blown up, and which, like it, nearly cost him his life.
+[RM-021-037]Almost at the same moment that the Secretary of the Navy, the Vice-President of the Gun Club, and the Sub-Director of the Observatory received the telegram from San Francisco, the Honourable J.T. Maston felt the most violent emotion of his whole existence--an emotion not even equalled by that he had experienced when his celebrated cannon was blown up, and which, like it, nearly cost him his life.
 
-It will be remembered that the Secretary of the Gun Club had started some minutes after the projectile--and almost as quickly--for the station of Long's Peak in the Rocky Mountains. The learned J. Belfast, Director of the Cambridge Observatory, accompanied him. Arrived at the station the two friends had summarily installed themselves, and no longer left the summit of their enormous telescope.
+[RM-021-038]It will be remembered that the Secretary of the Gun Club had started some minutes after the projectile--and almost as quickly--for the station of Long's Peak in the Rocky Mountains. The learned J. Belfast, Director of the Cambridge Observatory, accompanied him. Arrived at the station the two friends had summarily installed themselves, and no longer left the summit of their enormous telescope.
 
-We know that this gigantic instrument had been set up on the reflecting system, called "front view" by the English. This arrangement only gave one reflection of objects, and consequently made the view much clearer. The result was that J.T. Maston and Belfast, whilst observing, were stationed in the upper part of the instrument instead of in the lower. They reached it by a twisted staircase, a masterpiece of lightness, and below them lay the metal, well terminated by the metallic mirror, 280 feet deep.
+[RM-021-039]We know that this gigantic instrument had been set up on the reflecting system, called "front view" by the English. This arrangement only gave one reflection of objects, and consequently made the view much clearer. The result was that J.T. Maston and Belfast, whilst observing, were stationed in the upper part of the instrument instead of in the lower. They reached it by a twisted staircase, a masterpiece of lightness, and below them lay the metal, well terminated by the metallic mirror, 280 feet deep.
 
-Now it was upon the narrow platform placed round the telescope that the two _savants_ passed their existence, cursing the daylight which hid the moon from their eyes, and the clouds which obstinately veiled her at night.
+[RM-021-040]Now it was upon the narrow platform placed round the telescope that the two _savants_ passed their existence, cursing the daylight which hid the moon from their eyes, and the clouds which obstinately veiled her at night.
 
-Who can depict their delight when, after waiting several days, during the night of December 5th they perceived the vehicle that was carrying their friends through space? To that delight succeeded deep disappointment when, trusting to incomplete observations, they sent out with their first telegram to the world the erroneous affirmation that the projectile had become a satellite of the moon gravitating in an immutable orbit.
+[RM-021-041]Who can depict their delight when, after waiting several days, during the night of December 5th they perceived the vehicle that was carrying their friends through space? To that delight succeeded deep disappointment when, trusting to incomplete observations, they sent out with their first telegram to the world the erroneous affirmation that the projectile had become a satellite of the moon gravitating in an immutable orbit.
 
-After that instant the bullet disappeared behind the invisible disc of the moon. But when it ought to have reappeared on the invisible disc the impatience of J.T. Maston and his no less impatient companion may be imagined. At every minute of the night they thought they should see the projectile again, and they did not see it. Hence between them arose endless discussions and violent disputes, Belfast affirming that the projectile was not visible, J.T. Maston affirming that any one but a blind man could see it.
+[RM-021-042]After that instant the bullet disappeared behind the invisible disc of the moon. But when it ought to have reappeared on the invisible disc the impatience of J.T. Maston and his no less impatient companion may be imagined. At every minute of the night they thought they should see the projectile again, and they did not see it. Hence between them arose endless discussions and violent disputes, Belfast affirming that the projectile was not visible, J.T. Maston affirming that any one but a blind man could see it.
 
-"It is the bullet!" repeated J.T. Maston.
+[RM-021-043]"It is the bullet!" repeated J.T. Maston.
 
-"No!" answered Belfast, "it is an avalanche falling from a lunar mountain!"
+[RM-021-044]"No!" answered Belfast, "it is an avalanche falling from a lunar mountain!"
 
-"Well, then, we shall see it to-morrow."
+[RM-021-045]"Well, then, we shall see it to-morrow."
 
-"No, it will be seen no more. It is carried away into space."
+[RM-021-046]"No, it will be seen no more. It is carried away into space."
 
-"We shall see it, I tell you."
+[RM-021-047]"We shall see it, I tell you."
 
-"No, we shall not."
+[RM-021-048]"No, we shall not."
 
-And while these interjections were being showered like hail, the well-known irritability of the Secretary of the Gun Club constituted a permanent danger to the director, Belfast.
+[RM-021-049]And while these interjections were being showered like hail, the well-known irritability of the Secretary of the Gun Club constituted a permanent danger to the director, Belfast.
 
-Their existence together would soon have become impossible, but an unexpected event cut short these eternal discussions.
+[RM-021-050]Their existence together would soon have become impossible, but an unexpected event cut short these eternal discussions.
 
-During the night between the 14th and 15th of December the two irreconcilable friends were occupied in observing the lunar disc. J.T. Maston was, as usual, saying strong things to the learned Belfast, who was getting angry too. The Secretary of the Gun Club declared for the thousandth time that he had just perceived the projectile, adding even that Michel Ardan's face had appeared at one of the port-lights. He was emphasising his arguments by a series of gestures which his redoubtable hook rendered dangerous.
+[RM-021-051]During the night between the 14th and 15th of December the two irreconcilable friends were occupied in observing the lunar disc. J.T. Maston was, as usual, saying strong things to the learned Belfast, who was getting angry too. The Secretary of the Gun Club declared for the thousandth time that he had just perceived the projectile, adding even that Michel Ardan's face had appeared at one of the port-lights. He was emphasising his arguments by a series of gestures which his redoubtable hook rendered dangerous.
 
-At that moment Belfast's servant appeared upon the platform--it was 10 p.m.--and gave him a telegram. It was the message from the Commander of the Susquehanna.
+[RM-021-052]At that moment Belfast's servant appeared upon the platform--it was 10 p.m.--and gave him a telegram. It was the message from the Commander of the Susquehanna.
 
-Belfast tore the envelope, read the inclosure, and uttered a cry.
+[RM-021-053]Belfast tore the envelope, read the inclosure, and uttered a cry.
 
-"What is it?" said J.T. Maston.
+[RM-021-054]"What is it?" said J.T. Maston.
 
-"It's the bullet!"
+[RM-021-055]"It's the bullet!"
 
-"What of that?"
+[RM-021-056]"What of that?"
 
-"It has fallen upon the earth!"
+[RM-021-057]"It has fallen upon the earth!"
 
-Another cry; this time a howl answered him.
+[RM-021-058]Another cry; this time a howl answered him.
 
-He turned towards J.T. Maston. The unfortunate fellow, leaning imprudently over the metal tube, had disappeared down the immense telescope--a fall of 280 feet! Belfast, distracted, rushed towards the orifice of the reflector.
+[RM-021-059]He turned towards J.T. Maston. The unfortunate fellow, leaning imprudently over the metal tube, had disappeared down the immense telescope--a fall of 280 feet! Belfast, distracted, rushed towards the orifice of the reflector.
 
-He breathed again. J.T. Maston's steel hook had caught in one of the props which maintained the platform of the telescope. He was uttering formidable cries.
+[RM-021-060]He breathed again. J.T. Maston's steel hook had caught in one of the props which maintained the platform of the telescope. He was uttering formidable cries.
 
-Belfast called. Help came, and the imprudent secretary was hoisted up, not without trouble.
+[RM-021-061]Belfast called. Help came, and the imprudent secretary was hoisted up, not without trouble.
 
-He reappeared unhurt at the upper orifice.
+[RM-021-062]He reappeared unhurt at the upper orifice.
 
-"Suppose I had broken the mirror?" said he.
+[RM-021-063]"Suppose I had broken the mirror?" said he.
 
-"You would have paid for it," answered Belfast severely.
+[RM-021-064]"You would have paid for it," answered Belfast severely.
 
-"And where has the infernal bullet fallen?" asked J.T. Maston.
+[RM-021-065]"And where has the infernal bullet fallen?" asked J.T. Maston.
 
-"Into the Pacific."
+[RM-021-066]"Into the Pacific."
 
-"Let us start at once."
+[RM-021-067]"Let us start at once."
 
-A quarter of an hour afterwards the two learned friends were descending the slope of the Rocky Mountains, and two days afterwards they reached San Francisco at the same time as their friends of the Gun Club, having killed five horses on the road.
+[RM-021-068]A quarter of an hour afterwards the two learned friends were descending the slope of the Rocky Mountains, and two days afterwards they reached San Francisco at the same time as their friends of the Gun Club, having killed five horses on the road.
 
-Elphinstone, Blomsberry, and Bilsby rushed up to them upon their arrival.
+[RM-021-069]Elphinstone, Blomsberry, and Bilsby rushed up to them upon their arrival.
 
-"What is to be done?" they exclaimed.
+[RM-021-070]"What is to be done?" they exclaimed.
 
-"The bullet must be fished up," answered J.T. Maston, "and as soon as possible!"
+[RM-021-071]"The bullet must be fished up," answered J.T. Maston, "and as soon as possible!"

@@ -11,264 +11,264 @@ tags: [chapter]
 ---
 # Ticket No. 9672 — CHAPTER VIII
 
-The brother and sister left the inn at sunrise the next morning. The fifteen mile walk from Dal to the celebrated falls of the Rjukan, and back again, was a mere trifle for Joel, but it was necessary to economize Hulda's strength, so Joel hired foreman Lengling's kariol. This, like all kariols, had but one seat, but the worthy man was so large that he had been obliged to have his kariol built to order, and this being the case the vehicle was large enough to enable Hulda and Joel to sit side by side quite comfortably; and if the expected tourist was waiting for them at Rjukanfos as they anticipated, he could take Joel's place and the latter could either return afoot or mounted upon the step behind the kariol.
+[TN-008-001]The brother and sister left the inn at sunrise the next morning. The fifteen mile walk from Dal to the celebrated falls of the Rjukan, and back again, was a mere trifle for Joel, but it was necessary to economize Hulda's strength, so Joel hired foreman Lengling's kariol. This, like all kariols, had but one seat, but the worthy man was so large that he had been obliged to have his kariol built to order, and this being the case the vehicle was large enough to enable Hulda and Joel to sit side by side quite comfortably; and if the expected tourist was waiting for them at Rjukanfos as they anticipated, he could take Joel's place and the latter could either return afoot or mounted upon the step behind the kariol.
 
-The road from Dal to the falls is very rough but indescribably charming. It is really rather a footpath than a road. The bridges across the countless streams that dance merrily along to the Maan are all constructed of unhewn logs, but the Norwegian horse traverses them with a sure step, and though the kariol has no springs, its long and slightly elastic shafts soften the jolting at least to some extent.
+[TN-008-002]The road from Dal to the falls is very rough but indescribably charming. It is really rather a footpath than a road. The bridges across the countless streams that dance merrily along to the Maan are all constructed of unhewn logs, but the Norwegian horse traverses them with a sure step, and though the kariol has no springs, its long and slightly elastic shafts soften the jolting at least to some extent.
 
-The day was charming, and Hulda and Joel drove along at a brisk pace through the flowery fields, bathed on the left by the clear waters of the Maan. Clumps of birches here and there shaded the sunny road, and the dew still glittered on the blades of grass. To the right of the torrent towered the snow-clad summit of the Gousta, which rises to an altitude of six thousand feet.
+[TN-008-003]The day was charming, and Hulda and Joel drove along at a brisk pace through the flowery fields, bathed on the left by the clear waters of the Maan. Clumps of birches here and there shaded the sunny road, and the dew still glittered on the blades of grass. To the right of the torrent towered the snow-clad summit of the Gousta, which rises to an altitude of six thousand feet.
 
-For nearly an hour, the vehicle moved on rapidly, the ascent being comparatively slight; but soon the valley became narrower, the gay rivulets were transformed into foaming torrents, and though the road wound in and out it could not avoid all the inequalities of the ground. Beyond came really dangerous passes, through which Joel guided the vehicle with no little skill; besides, with him Hulda feared nothing. When the road was very rough she clung to his arm, and the freshness of the morning air brought a glow to the pretty face which had been unusually pale for some time.
+[TN-008-004]For nearly an hour, the vehicle moved on rapidly, the ascent being comparatively slight; but soon the valley became narrower, the gay rivulets were transformed into foaming torrents, and though the road wound in and out it could not avoid all the inequalities of the ground. Beyond came really dangerous passes, through which Joel guided the vehicle with no little skill; besides, with him Hulda feared nothing. When the road was very rough she clung to his arm, and the freshness of the morning air brought a glow to the pretty face which had been unusually pale for some time.
 
-But it was necessary for them to ascend to still greater heights, for the valley here contracted into merely a narrow channel for the passage of the river, a channel inclosed on either side by massive walls of rock. Over the neighboring fields were scattered a few dilapidated farm-houses, the remains of _soeters_, which were now abandoned, and a few shepherd's huts almost hidden from view by clumps of birches and oaks. Soon it became impossible for them to see the river, though they could distinctly hear it dashing along in its rocky channel, and the country assumed an indescribably wild and imposing aspect.
+[TN-008-005]But it was necessary for them to ascend to still greater heights, for the valley here contracted into merely a narrow channel for the passage of the river, a channel inclosed on either side by massive walls of rock. Over the neighboring fields were scattered a few dilapidated farm-houses, the remains of _soeters_, which were now abandoned, and a few shepherd's huts almost hidden from view by clumps of birches and oaks. Soon it became impossible for them to see the river, though they could distinctly hear it dashing along in its rocky channel, and the country assumed an indescribably wild and imposing aspect.
 
-A drive of two hours brought them to a rough saw-mill perched upon the edge of a water-fall at least fifteen hundred feet in height. Water-falls of this height are by no means rare in the Vesfjorddal, but the volume of water is usually small. This is not the case with the falls of the Rjukanfos however.
+[TN-008-006]A drive of two hours brought them to a rough saw-mill perched upon the edge of a water-fall at least fifteen hundred feet in height. Water-falls of this height are by no means rare in the Vesfjorddal, but the volume of water is usually small. This is not the case with the falls of the Rjukanfos however.
 
-On reaching the saw-mill, Joel and Hulda both alighted.
+[TN-008-007]On reaching the saw-mill, Joel and Hulda both alighted.
 
-"A half hour's walk will not be too much for you, will it, little sister?" asked Joel.
+[TN-008-008]"A half hour's walk will not be too much for you, will it, little sister?" asked Joel.
 
-"No, brother; I am not tired, and a little exercise will do me good."
+[TN-008-009]"No, brother; I am not tired, and a little exercise will do me good."
 
-"It will be a good deal instead of a little, for you will have some pretty hard climbing to do."
+[TN-008-010]"It will be a good deal instead of a little, for you will have some pretty hard climbing to do."
 
-"I can cling to your arm, Joel."
+[TN-008-011]"I can cling to your arm, Joel."
 
-It was evident that the kariol must be abandoned at this point, for it would be impossible for it to make its way through the rough paths, the narrow passes, and over the big, fantastically shaped rocks that heralded the close proximity of the great falls.
+[TN-008-012]It was evident that the kariol must be abandoned at this point, for it would be impossible for it to make its way through the rough paths, the narrow passes, and over the big, fantastically shaped rocks that heralded the close proximity of the great falls.
 
-Already, they could see in the distance a thick mist, the spray from the seething waters of Rjukan.
+[TN-008-013]Already, they could see in the distance a thick mist, the spray from the seething waters of Rjukan.
 
-Hulda and Joel took a shady path which is well known to guides, and which leads to the end of the valley. A few moments afterward they found themselves upon a moss-covered rock almost in front of the fall. In fact there was no chance of getting any nearer to it on that side.
+[TN-008-014]Hulda and Joel took a shady path which is well known to guides, and which leads to the end of the valley. A few moments afterward they found themselves upon a moss-covered rock almost in front of the fall. In fact there was no chance of getting any nearer to it on that side.
 
-The brother and sister would have had considerable difficulty in making themselves heard if they had wished to speak; but their thoughts were those that could be exchanged without the agency of the lips.
+[TN-008-015]The brother and sister would have had considerable difficulty in making themselves heard if they had wished to speak; but their thoughts were those that could be exchanged without the agency of the lips.
 
-The volume of the Rjukan fall is enormous, its height very considerable, and its roar deafening. The earth makes an abrupt descent of nine hundred feet to the bed of the Maan midway between Lake Mjos and Lake Tinn, nine hundred feet, that is to say six times the height of Niagara, though the width of this last water-fall from the American to the Canadian shore is three miles.
+[TN-008-016]The volume of the Rjukan fall is enormous, its height very considerable, and its roar deafening. The earth makes an abrupt descent of nine hundred feet to the bed of the Maan midway between Lake Mjos and Lake Tinn, nine hundred feet, that is to say six times the height of Niagara, though the width of this last water-fall from the American to the Canadian shore is three miles.
 
-The Rjukan is so grand and unique in its aspect that any description falls far short of the reality, and even a painting can not do justice to it. There are certain wonders of nature that must be seen if one would form any adequate conception of their beauty; and this water-fall, which is one of the most widely celebrated in Europe, belongs to this category.
+[TN-008-017]The Rjukan is so grand and unique in its aspect that any description falls far short of the reality, and even a painting can not do justice to it. There are certain wonders of nature that must be seen if one would form any adequate conception of their beauty; and this water-fall, which is one of the most widely celebrated in Europe, belongs to this category.
 
-These were the very thoughts that were passing through the mind of a tourist who was at that very moment sitting perched upon a rock on the right bank of the Maan, from which spot he could command a nearer and more extended view of the fall.
+[TN-008-018]These were the very thoughts that were passing through the mind of a tourist who was at that very moment sitting perched upon a rock on the right bank of the Maan, from which spot he could command a nearer and more extended view of the fall.
 
-Neither Joel nor his sister had yet noticed him, though he was plainly visible from the rock on which they were seated.
+[TN-008-019]Neither Joel nor his sister had yet noticed him, though he was plainly visible from the rock on which they were seated.
 
-In a few minutes the traveler rose and very imprudently ventured out upon the rocky slope that is rounded like a dome on the side next the Maan. What the adventurous tourist wished to see was evidently the two caverns under the fall, the one to the left, which is ever filled to the top with a mass of seething foam, and the one to the right, which is always enshrouded in a heavy mist. Possibly he was even trying to ascertain if there were not a third cavern midway down the fall to account for the fact that the Rjukan at intervals projects straight outward into space a mass of water and spray, making it appear as if the waters had suddenly been scattered in a fine spray over the surrounding fields by some terrific explosion in the rear of the fall.
+[TN-008-020]In a few minutes the traveler rose and very imprudently ventured out upon the rocky slope that is rounded like a dome on the side next the Maan. What the adventurous tourist wished to see was evidently the two caverns under the fall, the one to the left, which is ever filled to the top with a mass of seething foam, and the one to the right, which is always enshrouded in a heavy mist. Possibly he was even trying to ascertain if there were not a third cavern midway down the fall to account for the fact that the Rjukan at intervals projects straight outward into space a mass of water and spray, making it appear as if the waters had suddenly been scattered in a fine spray over the surrounding fields by some terrific explosion in the rear of the fall.
 
-And now the daring tourist was slowly but persistently making his way over the rough and slippery ledge of rock, destitute alike of shrubbery or grass, know as the Passe de Marie, or the Maristien.
+[TN-008-021]And now the daring tourist was slowly but persistently making his way over the rough and slippery ledge of rock, destitute alike of shrubbery or grass, know as the Passe de Marie, or the Maristien.
 
-It is more than probable, however, that he was ignorant of the legend that has made this pass so widely know. One day Eystein endeavored to reach his betrothed, the beautiful Marie of Vesfjorddal, by this dangerous path. His sweetheart was holding out her arms to him from the other side of the gorge, when suddenly he lost his footing, fell, slipped further and further down the ledge of rock which is as smooth as glass, and disappeared forever in the seething rapids of the Maan.
+[TN-008-022]It is more than probable, however, that he was ignorant of the legend that has made this pass so widely know. One day Eystein endeavored to reach his betrothed, the beautiful Marie of Vesfjorddal, by this dangerous path. His sweetheart was holding out her arms to him from the other side of the gorge, when suddenly he lost his footing, fell, slipped further and further down the ledge of rock which is as smooth as glass, and disappeared forever in the seething rapids of the Maan.
 
-Was this rash traveler about to meet a similar fate?
+[TN-008-023]Was this rash traveler about to meet a similar fate?
 
-It seemed only too probable; and in fact he soon perceived the danger of his position, though not until it was too late. Suddenly his foot slipped, he uttered a cry, and after rolling nearly twenty feet, he finally succeeded in securing a hold upon a projecting rock on the very edge of the abyss.
+[TN-008-024]It seemed only too probable; and in fact he soon perceived the danger of his position, though not until it was too late. Suddenly his foot slipped, he uttered a cry, and after rolling nearly twenty feet, he finally succeeded in securing a hold upon a projecting rock on the very edge of the abyss.
 
-Joel and Hulda, though they had not yet caught sight of him, heard his cry.
+[TN-008-025]Joel and Hulda, though they had not yet caught sight of him, heard his cry.
 
-"What is that?" exclaimed Joel, springing to his feet.
+[TN-008-026]"What is that?" exclaimed Joel, springing to his feet.
 
-"A cry!" replied Hulda.
+[TN-008-027]"A cry!" replied Hulda.
 
-"Yes, a cry of distress."
+[TN-008-028]"Yes, a cry of distress."
 
-"From what direction did it come?"
+[TN-008-029]"From what direction did it come?"
 
-"Let us listen."
+[TN-008-030]"Let us listen."
 
-Both looked first to the right, and then to the left of the fall, but they saw nothing, though they had certainly heard the words "Help! help!" uttered during one of the intervals between each rebound of the Rjukan.
+[TN-008-031]Both looked first to the right, and then to the left of the fall, but they saw nothing, though they had certainly heard the words "Help! help!" uttered during one of the intervals between each rebound of the Rjukan.
 
-The cry was repeated.
+[TN-008-032]The cry was repeated.
 
-"Joel, some one who is in danger is calling for help," cried Hulda. "We must go to his aid."
+[TN-008-033]"Joel, some one who is in danger is calling for help," cried Hulda. "We must go to his aid."
 
-"Yes, sister; and he can not be far off. But in what direction? Where is he? I see no one."
+[TN-008-034]"Yes, sister; and he can not be far off. But in what direction? Where is he? I see no one."
 
-Hulda hastily climbed a little knoll behind the mossy rock upon which she had been sitting.
+[TN-008-035]Hulda hastily climbed a little knoll behind the mossy rock upon which she had been sitting.
 
-"Joel!" she cried, suddenly.
+[TN-008-036]"Joel!" she cried, suddenly.
 
-"Do you see him?"
+[TN-008-037]"Do you see him?"
 
-"There, there!"
+[TN-008-038]"There, there!"
 
-As she spoke she pointed to the imprudent man whose body seemed to be almost overhanging the abyss. If his foothold upon a tiny ledge of rock failed him, or he was seized with dizziness, he was lost.
+[TN-008-039]As she spoke she pointed to the imprudent man whose body seemed to be almost overhanging the abyss. If his foothold upon a tiny ledge of rock failed him, or he was seized with dizziness, he was lost.
 
-"We must save him!" said Hulda.
+[TN-008-040]"We must save him!" said Hulda.
 
-"Yes," replied Joel, "if we can keep our wits about us we shall perhaps be able to reach him."
+[TN-008-041]"Yes," replied Joel, "if we can keep our wits about us we shall perhaps be able to reach him."
 
-Joel gave a loud shout to attract the attention of the traveler, who immediately turned his head toward the spot from which the sound proceeded; then the worthy fellow devoted a few moments to deciding how he could best rescue the stranger from his dangerous position.
+[TN-008-042]Joel gave a loud shout to attract the attention of the traveler, who immediately turned his head toward the spot from which the sound proceeded; then the worthy fellow devoted a few moments to deciding how he could best rescue the stranger from his dangerous position.
 
-"You are not afraid, are you, Hulda?" he asked.
+[TN-008-043]"You are not afraid, are you, Hulda?" he asked.
 
-"No, brother."
+[TN-008-044]"No, brother."
 
-"You know the Maristien well, do you not?"
+[TN-008-045]"You know the Maristien well, do you not?"
 
-"I have crossed it several times."
+[TN-008-046]"I have crossed it several times."
 
-"Then walk along the brow of the cliff, gradually getting as near the traveler as you possibly can; then allow yourself to slide down gently toward him, and take him by the hand, so as to prevent him from falling any further; but do not let him try to lift himself up, because if he should be seized with vertigo he would certainly drag you down with him, and you would both be lost."
+[TN-008-047]"Then walk along the brow of the cliff, gradually getting as near the traveler as you possibly can; then allow yourself to slide down gently toward him, and take him by the hand, so as to prevent him from falling any further; but do not let him try to lift himself up, because if he should be seized with vertigo he would certainly drag you down with him, and you would both be lost."
 
-"And you, Joel?"
+[TN-008-048]"And you, Joel?"
 
-"While you are traversing the brow of the cliff I will creep along the edge of it on the river-side. I shall reach him about as soon as you do, and if you should slip I shall perhaps be able to prevent you both from falling."
+[TN-008-049]"While you are traversing the brow of the cliff I will creep along the edge of it on the river-side. I shall reach him about as soon as you do, and if you should slip I shall perhaps be able to prevent you both from falling."
 
-Then, taking advantage of another interval in the roaring of the torrent, Joel shouted in stentorian tones:
+[TN-008-050]Then, taking advantage of another interval in the roaring of the torrent, Joel shouted in stentorian tones:
 
-"Don't move, sir. Wait; we will try to get to you!"
+[TN-008-051]"Don't move, sir. Wait; we will try to get to you!"
 
-Hulda had already disappeared behind the trees that crowned the ledge, in order to ascend the Maristien from the other side of the declivity, and Joel soon caught a glimpse of the fast-receding form of the brave girl at the turn in the path where the last trees grew.
+[TN-008-052]Hulda had already disappeared behind the trees that crowned the ledge, in order to ascend the Maristien from the other side of the declivity, and Joel soon caught a glimpse of the fast-receding form of the brave girl at the turn in the path where the last trees grew.
 
-He, in turn, at the peril of his life, had begun to creep slowly along the shelving edge of the ledge that surrounds the Rjukan. What wonderful coolness, what steadiness of foot and of hand were required to thus advance in safety along the edge of an abyss whose borders were drenched with the spray of the cataract!
+[TN-008-053]He, in turn, at the peril of his life, had begun to creep slowly along the shelving edge of the ledge that surrounds the Rjukan. What wonderful coolness, what steadiness of foot and of hand were required to thus advance in safety along the edge of an abyss whose borders were drenched with the spray of the cataract!
 
-In a parallel direction, but at least one hundred feet above his head, Hulda was advancing obliquely in order to reach the traveler more easily; but the position of the latter was such that she could not see his face, that being turned toward the cataract.
+[TN-008-054]In a parallel direction, but at least one hundred feet above his head, Hulda was advancing obliquely in order to reach the traveler more easily; but the position of the latter was such that she could not see his face, that being turned toward the cataract.
 
-Joel, on reaching a spot directly below the unfortunate man paused, and after planting his foot firmly in a small crevice in the rock, called out:
+[TN-008-055]Joel, on reaching a spot directly below the unfortunate man paused, and after planting his foot firmly in a small crevice in the rock, called out:
 
-"Hallo, sir!"
+[TN-008-056]"Hallo, sir!"
 
-The traveler turned his head.
+[TN-008-057]The traveler turned his head.
 
-"Don't move, sir; don't move an inch, but hold fast!"
+[TN-008-058]"Don't move, sir; don't move an inch, but hold fast!"
 
-"I'll do that, my friend, never fear," replied the stranger in a tone that reassured Joel. "If I hadn't a good grip, I should have gone to the bottom of the Rjukan a quarter of an hour ago."
+[TN-008-059]"I'll do that, my friend, never fear," replied the stranger in a tone that reassured Joel. "If I hadn't a good grip, I should have gone to the bottom of the Rjukan a quarter of an hour ago."
 
-"My sister is also coming to help you," continued Joel. "She will take hold of your hand, but don't attempt to get upon your feet until I reach you. Don't even move."
+[TN-008-060]"My sister is also coming to help you," continued Joel. "She will take hold of your hand, but don't attempt to get upon your feet until I reach you. Don't even move."
 
-"No more than a rock," replied the traveler.
+[TN-008-061]"No more than a rock," replied the traveler.
 
-Hulda had already begun to descend the ledge, carefully selecting the less slippery parts of the slope with the clear head of a true daughter of the Telemark.
+[TN-008-062]Hulda had already begun to descend the ledge, carefully selecting the less slippery parts of the slope with the clear head of a true daughter of the Telemark.
 
-And she, too, now called out as Joel had done:
+[TN-008-063]And she, too, now called out as Joel had done:
 
-"Holdfast, sir."
+[TN-008-064]"Holdfast, sir."
 
-"Yes; I am holding fast, and I assure you that I shall continue to do so as long as I can."
+[TN-008-065]"Yes; I am holding fast, and I assure you that I shall continue to do so as long as I can."
 
-"And above all don't be afraid!" added Hulda.
+[TN-008-066]"And above all don't be afraid!" added Hulda.
 
-"I am not afraid."
+[TN-008-067]"I am not afraid."
 
-"We'll save you yet!" cried Joel.
+[TN-008-068]"We'll save you yet!" cried Joel.
 
-"I hope so, indeed; for by Saint Olaf I shall never succeed in getting out of this scrape myself."
+[TN-008-069]"I hope so, indeed; for by Saint Olaf I shall never succeed in getting out of this scrape myself."
 
-It was evident that the tourist had lost none of his presence of mind; but his fall had probably disabled him, and all he could do now was to keep himself upon the narrow shelf of rock that separated him from the abyss.
+[TN-008-070]It was evident that the tourist had lost none of his presence of mind; but his fall had probably disabled him, and all he could do now was to keep himself upon the narrow shelf of rock that separated him from the abyss.
 
-Meanwhile Hulda continued her descent, and in a few minutes reached the traveler; then, bracing her foot against a projecting point in the rock, she caught hold of his hand.
+[TN-008-071]Meanwhile Hulda continued her descent, and in a few minutes reached the traveler; then, bracing her foot against a projecting point in the rock, she caught hold of his hand.
 
-The traveler involuntarily attempted to raise himself a little.
+[TN-008-072]The traveler involuntarily attempted to raise himself a little.
 
-"Don't move, sir, don't move," cried Hulda. "You will be sure to drag me down with you, for I am not strong enough to keep you from falling! You must wait until my brother reaches us. When he gets between us and the fall you can then try to get up."
+[TN-008-073]"Don't move, sir, don't move," cried Hulda. "You will be sure to drag me down with you, for I am not strong enough to keep you from falling! You must wait until my brother reaches us. When he gets between us and the fall you can then try to get up."
 
-"That is more easily said than done I fear."
+[TN-008-074]"That is more easily said than done I fear."
 
-"Are you so much hurt, sir? I hope you have broken no bones."
+[TN-008-075]"Are you so much hurt, sir? I hope you have broken no bones."
 
-"No; but one leg is badly cut and scratched."
+[TN-008-076]"No; but one leg is badly cut and scratched."
 
-Joel was about twenty yards from them, the rounded shape of the brow of the cliff having prevented him from joining them at once. He was now obliged to climb this rounded surface. This was, of course, the most difficult and also the most dangerous part of his task.
+[TN-008-077]Joel was about twenty yards from them, the rounded shape of the brow of the cliff having prevented him from joining them at once. He was now obliged to climb this rounded surface. This was, of course, the most difficult and also the most dangerous part of his task.
 
-"Don't make the slightest movement, Hulda!" he cried. "If you should both slip while I am not in a position to break your fall you would both be killed."
+[TN-008-078]"Don't make the slightest movement, Hulda!" he cried. "If you should both slip while I am not in a position to break your fall you would both be killed."
 
-"You need not fear that, Joel!" replied Hulda. "Think only of yourself, and may God help you!"
+[TN-008-079]"You need not fear that, Joel!" replied Hulda. "Think only of yourself, and may God help you!"
 
-Joel began to crawl slowly up the rock, dragging himself along on his belly like a veritable reptile. Two or three times he narrowly escaped sliding down into the abyss below, but finally he succeeded in reaching the traveler's side.
+[TN-008-080]Joel began to crawl slowly up the rock, dragging himself along on his belly like a veritable reptile. Two or three times he narrowly escaped sliding down into the abyss below, but finally he succeeded in reaching the traveler's side.
 
-The latter proved to be an elderly but still vigorous-looking man, with a handsome face, animated with a very genial and kindly expression.
+[TN-008-081]The latter proved to be an elderly but still vigorous-looking man, with a handsome face, animated with a very genial and kindly expression.
 
-"You have been guilty of a very imprudent act, sir," remarked Joel as soon as he recovered his breath.
+[TN-008-082]"You have been guilty of a very imprudent act, sir," remarked Joel as soon as he recovered his breath.
 
-"Imprudent!" repeated the traveler. "Yes, and as absurd as it was imprudent."
+[TN-008-083]"Imprudent!" repeated the traveler. "Yes, and as absurd as it was imprudent."
 
-"You have not only risked your life, but--"
+[TN-008-084]"You have not only risked your life, but--"
 
-"Made you risk yours."
+[TN-008-085]"Made you risk yours."
 
-"Oh! that is my business," replied Joel, lightly. Then he added, in an entirely different tone: "The thing to be done now is to regain the brow of the cliff, but the most difficult part of the task is already accomplished."
+[TN-008-086]"Oh! that is my business," replied Joel, lightly. Then he added, in an entirely different tone: "The thing to be done now is to regain the brow of the cliff, but the most difficult part of the task is already accomplished."
 
-"The most difficult?"
+[TN-008-087]"The most difficult?"
 
-"Yes, sir. That was to reach you. Now we have only to ascend a much more gradual slope.
+[TN-008-088]"Yes, sir. That was to reach you. Now we have only to ascend a much more gradual slope.
 
-"Still, you had better not place much dependence upon me, my boy. I have a leg that isn't of much use to me just now, nor will it be for some time to come I fear."
+[TN-008-089]"Still, you had better not place much dependence upon me, my boy. I have a leg that isn't of much use to me just now, nor will it be for some time to come I fear."
 
-"Try to raise yourself a little."
+[TN-008-090]"Try to raise yourself a little."
 
-"I will gladly do so if you will assist me."
+[TN-008-091]"I will gladly do so if you will assist me."
 
-"Then take hold of my sister's arm. I will steady you and push you from below."
+[TN-008-092]"Then take hold of my sister's arm. I will steady you and push you from below."
 
-"Very well, my friends, I will be guided entirely by you; as you have been so kind as to come to my assistance, I can not do less than yield you implicit obedience."
+[TN-008-093]"Very well, my friends, I will be guided entirely by you; as you have been so kind as to come to my assistance, I can not do less than yield you implicit obedience."
 
-Joel's plan was carried out in the most cautious manner, and though the ascent was not made without considerable difficulty and danger, all three accomplished it more easily and quickly than they had thought possible. Besides, the injury from which the traveler was suffering was neither a sprain nor dislocation, but simply a very bad abrasion of the skin; consequently, he could use his limbs to much better purpose than he had supposed, and ten minutes later he found himself safe on the other side of the Maristien.
+[TN-008-094]Joel's plan was carried out in the most cautious manner, and though the ascent was not made without considerable difficulty and danger, all three accomplished it more easily and quickly than they had thought possible. Besides, the injury from which the traveler was suffering was neither a sprain nor dislocation, but simply a very bad abrasion of the skin; consequently, he could use his limbs to much better purpose than he had supposed, and ten minutes later he found himself safe on the other side of the Maristien.
 
-Once there, he would have been glad to rest awhile under the pines that border the upper _field_ of the Rjukanfos, but Joel persuaded him to make one more effort. This was to reach a hut hidden among the trees, a short distance from the rock, on which the brother and sister had seated themselves on first arriving at the fall. The traveler yielded to their solicitations, and supported on one side by Hulda, and on the other by Joel, he finally succeeded in reaching the door of the humble dwelling.
+[TN-008-095]Once there, he would have been glad to rest awhile under the pines that border the upper _field_ of the Rjukanfos, but Joel persuaded him to make one more effort. This was to reach a hut hidden among the trees, a short distance from the rock, on which the brother and sister had seated themselves on first arriving at the fall. The traveler yielded to their solicitations, and supported on one side by Hulda, and on the other by Joel, he finally succeeded in reaching the door of the humble dwelling.
 
-"Let us go in, sir," said Hulda. "You must want to rest a moment."
+[TN-008-096]"Let us go in, sir," said Hulda. "You must want to rest a moment."
 
-"The moment will probably be prolonged to a quarter of an hour."
+[TN-008-097]"The moment will probably be prolonged to a quarter of an hour."
 
-"Very well, sir; but afterward you must consent to accompany us to Dal."
+[TN-008-098]"Very well, sir; but afterward you must consent to accompany us to Dal."
 
-"To Dal? Why, that is the very place I was going to!"
+[TN-008-099]"To Dal? Why, that is the very place I was going to!"
 
-"Can it be that you are the tourist who was expected from the north?" asked Joel.
+[TN-008-100]"Can it be that you are the tourist who was expected from the north?" asked Joel.
 
-"Precisely."
+[TN-008-101]"Precisely."
 
-"Had I foreseen what was going to happen, I should have gone to the other side of the Rjukanfos to meet you."
+[TN-008-102]"Had I foreseen what was going to happen, I should have gone to the other side of the Rjukanfos to meet you."
 
-"That would have been a good idea, my brave fellow. You would have saved me from a foolhardy act unpardonable at my age."
+[TN-008-103]"That would have been a good idea, my brave fellow. You would have saved me from a foolhardy act unpardonable at my age."
 
-"Or at any age," replied Hulda.
+[TN-008-104]"Or at any age," replied Hulda.
 
-The three entered the hut which was occupied by a family of peasants, a father and two daughters, who received their unexpected guests with great cordiality.
+[TN-008-105]The three entered the hut which was occupied by a family of peasants, a father and two daughters, who received their unexpected guests with great cordiality.
 
-Joel was able to satisfy himself that the traveler had sustained no injury beyond a severe abrasion of the skin a little below the knee; but though the wound would necessitate a week's rest, the limb was neither broken nor dislocated.
+[TN-008-106]Joel was able to satisfy himself that the traveler had sustained no injury beyond a severe abrasion of the skin a little below the knee; but though the wound would necessitate a week's rest, the limb was neither broken nor dislocated.
 
-Some excellent milk, an abundance of strawberries, and a little black bread were offered and accepted. Joel gave incontestable proofs of an excellent appetite, and though Hulda eat almost nothing, the traveler proved a match for her brother.
+[TN-008-107]Some excellent milk, an abundance of strawberries, and a little black bread were offered and accepted. Joel gave incontestable proofs of an excellent appetite, and though Hulda eat almost nothing, the traveler proved a match for her brother.
 
-"My exertions have given me a famous appetite," he remarked; "but I must admit that my attempt to traverse the Maristien was an act of the grossest folly. To play the part of the unfortunate Eystein when one is old enough to be his father--and even his grandfather--is absurd in the highest degree."
+[TN-008-108]"My exertions have given me a famous appetite," he remarked; "but I must admit that my attempt to traverse the Maristien was an act of the grossest folly. To play the part of the unfortunate Eystein when one is old enough to be his father--and even his grandfather--is absurd in the highest degree."
 
-"So you know the legend?" said Hulda.
+[TN-008-109]"So you know the legend?" said Hulda.
 
-"Of course. My nurse used to sing me to sleep with it in the happy days when I still had a nurse. Yes, I know the story, my brave girl, so I am all the more to blame for my imprudence. Now, my friends, Dal seems a long way off to a cripple like myself. How do you propose to get me there?"
+[TN-008-110]"Of course. My nurse used to sing me to sleep with it in the happy days when I still had a nurse. Yes, I know the story, my brave girl, so I am all the more to blame for my imprudence. Now, my friends, Dal seems a long way off to a cripple like myself. How do you propose to get me there?"
 
-"Don't worry about that, sir," replied Joel. "Our kariol is waiting for us at the end of the road, about three hundred yards from here."
+[TN-008-111]"Don't worry about that, sir," replied Joel. "Our kariol is waiting for us at the end of the road, about three hundred yards from here."
 
-"Hum! three hundred yards!"
+[TN-008-112]"Hum! three hundred yards!"
 
-"But downhill all the way," added Hulda.
+[TN-008-113]"But downhill all the way," added Hulda.
 
-"Oh, in that case, I shall do very well if you will kindly lend me an arm."
+[TN-008-114]"Oh, in that case, I shall do very well if you will kindly lend me an arm."
 
-"Why not two, as we have four at your disposal?" responded Joel.
+[TN-008-115]"Why not two, as we have four at your disposal?" responded Joel.
 
-"We will say two then. It won't cost me any more, will it?"
+[TN-008-116]"We will say two then. It won't cost me any more, will it?"
 
-"It will cost you nothing."
+[TN-008-117]"It will cost you nothing."
 
-"Except my thanks; and that reminds me that I have not yet thanked you."
+[TN-008-118]"Except my thanks; and that reminds me that I have not yet thanked you."
 
-"For what, sir?" inquired Joel.
+[TN-008-119]"For what, sir?" inquired Joel.
 
-"Merely for saving my life at the risk of your own."
+[TN-008-120]"Merely for saving my life at the risk of your own."
 
-"Are you quite ready to start?" inquired Hulda, rising to escape any further expression of gratitude.
+[TN-008-121]"Are you quite ready to start?" inquired Hulda, rising to escape any further expression of gratitude.
 
-"Certainly, certainly. I am more than willing to be guided by the wishes of the other members of the party."
+[TN-008-122]"Certainly, certainly. I am more than willing to be guided by the wishes of the other members of the party."
 
-The traveler settled the modest charge made by the occupants of the cottage; then, supported by Joel and Hulda, he began the descent of the winding path leading to the river bank.
+[TN-008-123]The traveler settled the modest charge made by the occupants of the cottage; then, supported by Joel and Hulda, he began the descent of the winding path leading to the river bank.
 
-The descent was not effected without many exclamations of pain; but these exclamations invariably terminated in a hearty laugh, and at last they reached the saw-mill, where Joel immediately proceeded to harness the horse into the kariol.
+[TN-008-124]The descent was not effected without many exclamations of pain; but these exclamations invariably terminated in a hearty laugh, and at last they reached the saw-mill, where Joel immediately proceeded to harness the horse into the kariol.
 
-Five minutes later the traveler was installed in the vehicle, with Hulda beside him.
+[TN-008-125]Five minutes later the traveler was installed in the vehicle, with Hulda beside him.
 
-"But I must have taken your seat," he remarked to Joel.
+[TN-008-126]"But I must have taken your seat," he remarked to Joel.
 
-"A seat I relinquish to you with the utmost willingness."
+[TN-008-127]"A seat I relinquish to you with the utmost willingness."
 
-"But perhaps by a little crowding we might make room for you?"
+[TN-008-128]"But perhaps by a little crowding we might make room for you?"
 
-"No, no, I have my legs, sir--a guide's legs. They are as good as any wheels."
+[TN-008-129]"No, no, I have my legs, sir--a guide's legs. They are as good as any wheels."
 
-Joel placed himself at the horse's head, and the little party started for Dal. The return trip was a gay one, at least on the part of the traveler, who already seemed to consider himself an old friend of the Hansen family. Before they reached their destination they found themselves calling their companion M. Silvius; and that gentleman unceremoniously called them Hulda and Joel, as if their acquaintance had been one of long standing.
+[TN-008-130]Joel placed himself at the horse's head, and the little party started for Dal. The return trip was a gay one, at least on the part of the traveler, who already seemed to consider himself an old friend of the Hansen family. Before they reached their destination they found themselves calling their companion M. Silvius; and that gentleman unceremoniously called them Hulda and Joel, as if their acquaintance had been one of long standing.
 
-About four o'clock the little belfry of Dal became visible through the trees, and a few minutes afterward the horse stopped in front of the inn. The traveler alighted from the kariol, though not without considerable difficulty. Dame Hansen hastened to the door to receive him, and though he did not ask for the best room in the house, it was given to him all the same.
+[TN-008-131]About four o'clock the little belfry of Dal became visible through the trees, and a few minutes afterward the horse stopped in front of the inn. The traveler alighted from the kariol, though not without considerable difficulty. Dame Hansen hastened to the door to receive him, and though he did not ask for the best room in the house, it was given to him all the same.

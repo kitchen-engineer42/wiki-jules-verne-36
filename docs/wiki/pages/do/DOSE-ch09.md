@@ -11,10 +11,10 @@ tags: [chapter]
 ---
 # Doctor Ox's Experiment — CHAPTER IX
 
-IN WHICH DOCTOR OX AND YGÈNE, HIS ASSISTANT, SAY A FEW WORDS.
+[DOSE-009-001]IN WHICH DOCTOR OX AND YGÈNE, HIS ASSISTANT, SAY A FEW WORDS.
 
-"Well, Ygène?"
+[DOSE-009-002]"Well, Ygène?"
 
-"Well, master, all is ready. The laying of the pipes is finished."
+[DOSE-009-003]"Well, master, all is ready. The laying of the pipes is finished."
 
-"At last! Now, then, we are going to operate on a large scale, on the masses!"
+[DOSE-009-004]"At last! Now, then, we are going to operate on a large scale, on the masses!"

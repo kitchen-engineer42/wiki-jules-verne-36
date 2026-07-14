@@ -12,86 +12,86 @@ tags: [chapter]
 ---
 # Eight Hundred Leagues on the Amazon — CHAPTER XV. THE LAST EFFORTS
 
-THE MAGISTRATE, however, was not the only one who passed his time unprofitably. Benito, Manoel, and Minha tried all they could together to extract the secret from the document on which depended their father's life and honor. On his part, Fragoso, aided by Lina, could not remain quiet, but all their ingenuity had failed, and the number still escaped them.
+[EHLA-035-001]THE MAGISTRATE, however, was not the only one who passed his time unprofitably. Benito, Manoel, and Minha tried all they could together to extract the secret from the document on which depended their father's life and honor. On his part, Fragoso, aided by Lina, could not remain quiet, but all their ingenuity had failed, and the number still escaped them.
 
-"Why don't you find it, Fragoso?" asked the young mulatto.
+[EHLA-035-002]"Why don't you find it, Fragoso?" asked the young mulatto.
 
-"I will find it," answered Fragoso.
+[EHLA-035-003]"I will find it," answered Fragoso.
 
-And he did not find it!
+[EHLA-035-004]And he did not find it!
 
-Here we should say that Fragoso had an idea of a project of which he had not even spoken to Lina, but which had taken full possession of his mind. This was to go in search of the gang to which the ex-captain of the woods had belonged, and to find out who was the probable author of this cipher document, which was supposed to be the confession of the culprit of Tijuco. The part of the Amazon where these people were employed, the very place where Fragoso had met Torres a few years before, was not very far from Manaos. He would only have to descend the river for about fifty miles, to the mouth of the Madeira, a tributary coming in on the right, and there he was almost sure to meet the head of these _"capitaes do mato,"_ to which Torres belonged. In two days, or three days at the outside, Fragoso could get into communication with the old comrades of the adventurer.
+[EHLA-035-005]Here we should say that Fragoso had an idea of a project of which he had not even spoken to Lina, but which had taken full possession of his mind. This was to go in search of the gang to which the ex-captain of the woods had belonged, and to find out who was the probable author of this cipher document, which was supposed to be the confession of the culprit of Tijuco. The part of the Amazon where these people were employed, the very place where Fragoso had met Torres a few years before, was not very far from Manaos. He would only have to descend the river for about fifty miles, to the mouth of the Madeira, a tributary coming in on the right, and there he was almost sure to meet the head of these _"capitaes do mato,"_ to which Torres belonged. In two days, or three days at the outside, Fragoso could get into communication with the old comrades of the adventurer.
 
-"Yes! I could do that," he repeated to himself; "but what would be the good of it, supposing I succeeded? If we are sure that one of Torres' companions has recently died, would that prove him to be the author of this crime? Would that show that he gave Torres a document in which he announced himself the author of this crime, and exonerated Joam Dacosta? Would that give us the key of the document? No! Two men only knew the cipher--the culprit and Torres! And these two men are no more!"
+[EHLA-035-006]"Yes! I could do that," he repeated to himself; "but what would be the good of it, supposing I succeeded? If we are sure that one of Torres' companions has recently died, would that prove him to be the author of this crime? Would that show that he gave Torres a document in which he announced himself the author of this crime, and exonerated Joam Dacosta? Would that give us the key of the document? No! Two men only knew the cipher--the culprit and Torres! And these two men are no more!"
 
-So reasoned Fragoso. It was evident that his enterprise would do no good. But the thought of it was too much for him. An irresistible influence impelled him to set out, although he was not even sure of finding the band on the Madeira. In fact, it might be engaged in some other part of the province, and to come up with it might require more time than Fragoso had at his disposal! And what would be the result?
+[EHLA-035-007]So reasoned Fragoso. It was evident that his enterprise would do no good. But the thought of it was too much for him. An irresistible influence impelled him to set out, although he was not even sure of finding the band on the Madeira. In fact, it might be engaged in some other part of the province, and to come up with it might require more time than Fragoso had at his disposal! And what would be the result?
 
-It is none the less true, however, that on the 29th of August, before sunrise, Fragoso, without saying anything to anybody, secretly left the jangada, arrived at Manaos, and embarked in one of the egariteas which daily descend the Amazon.
+[EHLA-035-008]It is none the less true, however, that on the 29th of August, before sunrise, Fragoso, without saying anything to anybody, secretly left the jangada, arrived at Manaos, and embarked in one of the egariteas which daily descend the Amazon.
 
-And great was the astonishment when he was not seen on board, and did not appear during the day. No one, not even Lina, could explain the absence of so devoted a servant at such a crisis.
+[EHLA-035-009]And great was the astonishment when he was not seen on board, and did not appear during the day. No one, not even Lina, could explain the absence of so devoted a servant at such a crisis.
 
-Some of them even asked, and not without reason, if the poor fellow, rendered desperate at having, when he met him on the frontier, personally contributed to bringing Torres on board the raft, had not made away with himself.
+[EHLA-035-010]Some of them even asked, and not without reason, if the poor fellow, rendered desperate at having, when he met him on the frontier, personally contributed to bringing Torres on board the raft, had not made away with himself.
 
-But if Fragoso could so reproach himself, how about Benito? In the first place at Iquitos he had invited Torres to visit the fazenda; in the second place he had brought him on board the jangada, to become a passenger on it; and in the third place, in killing him, he had annihilated the only witness whose evidence could save the condemned man.
+[EHLA-035-011]But if Fragoso could so reproach himself, how about Benito? In the first place at Iquitos he had invited Torres to visit the fazenda; in the second place he had brought him on board the jangada, to become a passenger on it; and in the third place, in killing him, he had annihilated the only witness whose evidence could save the condemned man.
 
-And so Benito considered himself responsible for everything--the arrest of his father, and the terrible events of which it had been the consequence.
+[EHLA-035-012]And so Benito considered himself responsible for everything--the arrest of his father, and the terrible events of which it had been the consequence.
 
-In fact, had Torres been alive, Benito could not tell but that, in some way or another, from pity or for reward, he would have finished by handing over the document. Would not Torres, whom nothing could compromise, have been persuaded to speak, had money been brought to bear upon him? Would not the long-sought-for proof have been furnished to the judge? Yes, undoubtedly! And the only man who could have furnished this evidence had been killed through Benito!
+[EHLA-035-013]In fact, had Torres been alive, Benito could not tell but that, in some way or another, from pity or for reward, he would have finished by handing over the document. Would not Torres, whom nothing could compromise, have been persuaded to speak, had money been brought to bear upon him? Would not the long-sought-for proof have been furnished to the judge? Yes, undoubtedly! And the only man who could have furnished this evidence had been killed through Benito!
 
-Such was what the wretched man continually repeated to his mother, to Manoel, and to himself. Such were the cruel responsibilities which his conscience laid to his charge.
+[EHLA-035-014]Such was what the wretched man continually repeated to his mother, to Manoel, and to himself. Such were the cruel responsibilities which his conscience laid to his charge.
 
-Between her husband, with whom she passed all the time that was allowed her, and her son, a prey to despair which made her tremble for his reason, the brave Yaquita lost none of her moral energy. In her they found the valiant daughter of Magalhaës, the worthy wife of the fazender of Iquitos.
+[EHLA-035-015]Between her husband, with whom she passed all the time that was allowed her, and her son, a prey to despair which made her tremble for his reason, the brave Yaquita lost none of her moral energy. In her they found the valiant daughter of Magalhaës, the worthy wife of the fazender of Iquitos.
 
-The attitude of Joam Dacosta was well adapted to sustain her in this ordeal. That gallant man, that rigid Puritan, that austere worker, whose whole life had been a battle, had not yet shown a moment of weakness.
+[EHLA-035-016]The attitude of Joam Dacosta was well adapted to sustain her in this ordeal. That gallant man, that rigid Puritan, that austere worker, whose whole life had been a battle, had not yet shown a moment of weakness.
 
-The most terrible blow which had struck him without prostrating him had been the death of Judge Ribeiro, in whose mind his innocence did not admit of a doubt. Was it not with the help of his old defender that he had hoped to strive for his rehabilitation? The intervention of Torres he had regarded throughout as being quite secondary for him. And of this document he had no knowledge when he left Iquitos to hand himself over to the justice of his country. He only took with him moral proofs. When a material proof was unexpectedly produced in the course of the affair, before or after his arrest, he was certainly not the man to despise it. But if, on account of regrettable circumstances, the proof disappeared, he would find himself once more in the same position as when he passed the Brazilian frontier--the position of a man who came to say, "Here is my past life; here is my present; here is an entirely honest existence of work and devotion which I bring you. You passed on me at first an erroneous judgment. After twenty-three years of exile I have come to give myself up! Here I am; judge me again!"
+[EHLA-035-017]The most terrible blow which had struck him without prostrating him had been the death of Judge Ribeiro, in whose mind his innocence did not admit of a doubt. Was it not with the help of his old defender that he had hoped to strive for his rehabilitation? The intervention of Torres he had regarded throughout as being quite secondary for him. And of this document he had no knowledge when he left Iquitos to hand himself over to the justice of his country. He only took with him moral proofs. When a material proof was unexpectedly produced in the course of the affair, before or after his arrest, he was certainly not the man to despise it. But if, on account of regrettable circumstances, the proof disappeared, he would find himself once more in the same position as when he passed the Brazilian frontier--the position of a man who came to say, "Here is my past life; here is my present; here is an entirely honest existence of work and devotion which I bring you. You passed on me at first an erroneous judgment. After twenty-three years of exile I have come to give myself up! Here I am; judge me again!"
 
-The death of Torres, the impossibility of reading the document found on him, had thus not produced on Joam Dacosta the impression which it had on his children, his friends, his household, and all who were interested in him.
+[EHLA-035-018]The death of Torres, the impossibility of reading the document found on him, had thus not produced on Joam Dacosta the impression which it had on his children, his friends, his household, and all who were interested in him.
 
-"I have faith in my innocence," he repeated to Yaquita, "as I have faith in God. If my life is still useful to my people, and a miracle is necessary to save me, that miracle will be performed; if not, I shall die! God alone is my judge!"
+[EHLA-035-019]"I have faith in my innocence," he repeated to Yaquita, "as I have faith in God. If my life is still useful to my people, and a miracle is necessary to save me, that miracle will be performed; if not, I shall die! God alone is my judge!"
 
-The excitement increased in Manaos as the time ran on; the affair was discussed with unexampled acerbity. In the midst of this enthralment of public opinion, which evoked so much of the mysterious, the document was the principal object of conversation.
+[EHLA-035-020]The excitement increased in Manaos as the time ran on; the affair was discussed with unexampled acerbity. In the midst of this enthralment of public opinion, which evoked so much of the mysterious, the document was the principal object of conversation.
 
-At the end of this fourth day not a single person doubted but that it contained the vindication of the doomed man. Every one had been given an opportunity of deciphering its incomprehensible contents, for the "Diario d'o Grand Para" had reproduced it in facsimile. Autograph copies were spread about in great numbers at the suggestion of Manoel, who neglect nothing that might lead to the penetration of the mystery--not even chance, that "nickname of Providence," as some one has called it.
+[EHLA-035-021]At the end of this fourth day not a single person doubted but that it contained the vindication of the doomed man. Every one had been given an opportunity of deciphering its incomprehensible contents, for the "Diario d'o Grand Para" had reproduced it in facsimile. Autograph copies were spread about in great numbers at the suggestion of Manoel, who neglect nothing that might lead to the penetration of the mystery--not even chance, that "nickname of Providence," as some one has called it.
 
-In addition, a reward of one hundred contos (or three hundred thousand francs) was promised to any one who could discover the cipher so fruitlessly sought after--and read the document. This was quite a fortune, and so people of all classes forgot to eat, drink, or sleep to attack this unintelligible cryptogram.
+[EHLA-035-022]In addition, a reward of one hundred contos (or three hundred thousand francs) was promised to any one who could discover the cipher so fruitlessly sought after--and read the document. This was quite a fortune, and so people of all classes forgot to eat, drink, or sleep to attack this unintelligible cryptogram.
 
-Up to the present, however, all had been useless, and probably the most ingenious analysts in the world would have spent their time in vain. It had been advertised that any solution should be sent, without delay, to Judge Jarriquez, to his house in God-the-Son Street; but the evening of the 29th of August came and none had arrived, nor was any likely to arrive.
+[EHLA-035-023]Up to the present, however, all had been useless, and probably the most ingenious analysts in the world would have spent their time in vain. It had been advertised that any solution should be sent, without delay, to Judge Jarriquez, to his house in God-the-Son Street; but the evening of the 29th of August came and none had arrived, nor was any likely to arrive.
 
-Of all those who took up the study of the puzzle, Judge Jarriquez was one of the most to be pitied. By a natural association of ideas, he also joined in the general opinion that the document referred to the affair at Tijuco, and that it had been written by the hand of the guilty man, and exonerated Joam Dacosta. And so he put even more ardor into his search for the key. It was not only the art for art's sake which guided him, it was a sentiment of justice, of pity toward a man suffering under an unjust condemnation. If it is the fact that a certain quantity of phosphorus is expended in the work of the brain, it would be difficult to say how many milligrammes the judge had parted with to excite the network of his "sensorium," and after all, to find out nothing, absolutely nothing.
+[EHLA-035-024]Of all those who took up the study of the puzzle, Judge Jarriquez was one of the most to be pitied. By a natural association of ideas, he also joined in the general opinion that the document referred to the affair at Tijuco, and that it had been written by the hand of the guilty man, and exonerated Joam Dacosta. And so he put even more ardor into his search for the key. It was not only the art for art's sake which guided him, it was a sentiment of justice, of pity toward a man suffering under an unjust condemnation. If it is the fact that a certain quantity of phosphorus is expended in the work of the brain, it would be difficult to say how many milligrammes the judge had parted with to excite the network of his "sensorium," and after all, to find out nothing, absolutely nothing.
 
-But Jarriquez had no idea of abandoning the inquiry. If he could only now trust to chance, he would work on for that chance. He tried to evoke it by all means possible and impossible. He had given himself over to fury and anger, and, what was worse, to impotent anger!
+[EHLA-035-025]But Jarriquez had no idea of abandoning the inquiry. If he could only now trust to chance, he would work on for that chance. He tried to evoke it by all means possible and impossible. He had given himself over to fury and anger, and, what was worse, to impotent anger!
 
-During the latter part of this day he had been trying different numbers--numbers selected arbitrarily--and how many of them can scarcely be imagined. Had he had the time, he would not have shrunk from plunging into the millions of combinations of which the ten symbols of numeration are capable. He would have given his whole life to it at the risk of going mad before the year was out. Mad! was he not that already? He had had the idea that the document might be read through the paper, and so he turned it round and exposed it to the light, and tried it in that way.
+[EHLA-035-026]During the latter part of this day he had been trying different numbers--numbers selected arbitrarily--and how many of them can scarcely be imagined. Had he had the time, he would not have shrunk from plunging into the millions of combinations of which the ten symbols of numeration are capable. He would have given his whole life to it at the risk of going mad before the year was out. Mad! was he not that already? He had had the idea that the document might be read through the paper, and so he turned it round and exposed it to the light, and tried it in that way.
 
-Nothing! The numbers already thought of, and which he tried in this new way, gave no result. Perhaps the document read backward, and the last letter was really the first, for the author would have done this had he wished to make the reading more difficult.
+[EHLA-035-027]Nothing! The numbers already thought of, and which he tried in this new way, gave no result. Perhaps the document read backward, and the last letter was really the first, for the author would have done this had he wished to make the reading more difficult.
 
-Nothing! The new combination only furnished a series of letters just as enigmatic.
+[EHLA-035-028]Nothing! The new combination only furnished a series of letters just as enigmatic.
 
-At eight o'clock in the evening Jarriquez, with his face in his hands, knocked up, worn out mentally and physically, had neither strength to move, to speak, to think, or to associate one idea with another.
+[EHLA-035-029]At eight o'clock in the evening Jarriquez, with his face in his hands, knocked up, worn out mentally and physically, had neither strength to move, to speak, to think, or to associate one idea with another.
 
-Suddenly a noise was heard outside. Almost immediately, notwithstanding his formal orders, the door of his study was thrown open. Benito and Manoel were before him, Benito looking dreadfully pale, and Manoel supporting him, for the unfortunate young man had hardly strength to support himself.
+[EHLA-035-030]Suddenly a noise was heard outside. Almost immediately, notwithstanding his formal orders, the door of his study was thrown open. Benito and Manoel were before him, Benito looking dreadfully pale, and Manoel supporting him, for the unfortunate young man had hardly strength to support himself.
 
-The magistrate quickly arose.
+[EHLA-035-031]The magistrate quickly arose.
 
-"What is it, gentlemen? What do you want?" he asked.
+[EHLA-035-032]"What is it, gentlemen? What do you want?" he asked.
 
-"The cipher! the cipher!" exclaimed Benito, mad with grief--"the cipher of the document."
+[EHLA-035-033]"The cipher! the cipher!" exclaimed Benito, mad with grief--"the cipher of the document."
 
-"Do you know it, then?" shouted the judge.
+[EHLA-035-034]"Do you know it, then?" shouted the judge.
 
-"No, sir," said Manoel. "But you?"
+[EHLA-035-035]"No, sir," said Manoel. "But you?"
 
-"Nothing! nothing!"
+[EHLA-035-036]"Nothing! nothing!"
 
-"Nothing?" gasped Benito, and in a paroxysm of despair he took a knife from his belt and would have plunged it into his breast had not the judge and Manoel jumped forward and managed to disarm him.
+[EHLA-035-037]"Nothing?" gasped Benito, and in a paroxysm of despair he took a knife from his belt and would have plunged it into his breast had not the judge and Manoel jumped forward and managed to disarm him.
 
-"Benito," said Jarriquez, in a voice which he tried to keep calm, "if you father cannot escape the expiation of a crime which is not his, you could do something better than kill yourself."
+[EHLA-035-038]"Benito," said Jarriquez, in a voice which he tried to keep calm, "if you father cannot escape the expiation of a crime which is not his, you could do something better than kill yourself."
 
-"What?" said Benito.
+[EHLA-035-039]"What?" said Benito.
 
-"Try and save his life!"
+[EHLA-035-040]"Try and save his life!"
 
-"How?"
+[EHLA-035-041]"How?"
 
-"That is for you to discover," answered the magistrate, "and not for me to say."
+[EHLA-035-042]"That is for you to discover," answered the magistrate, "and not for me to say."

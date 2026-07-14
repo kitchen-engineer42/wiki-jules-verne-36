@@ -11,116 +11,116 @@ tags: [chapter]
 ---
 # Topsy Turvy — CHAPTER XIX
 
-IN WHICH J.T. MASTON REGRETS THAT THE CROWD DID NOT LYNCH HIM WHEN HE WAS IN PRISON.
+[TT-019-001]IN WHICH J.T. MASTON REGRETS THAT THE CROWD DID NOT LYNCH HIM WHEN HE WAS IN PRISON.
 
-The capitals of two worlds, the largest cities as well as the smaller ones, stood waiting terror-stricken. Thanks to the journals which had published the news broadcast over the world, every one knew the precise hour at which the shooting would take place and the local hour which corresponded with that of Kilimanjaro, situated 35 degrees east, allowing for the difference of longitude.
+[TT-019-002]The capitals of two worlds, the largest cities as well as the smaller ones, stood waiting terror-stricken. Thanks to the journals which had published the news broadcast over the world, every one knew the precise hour at which the shooting would take place and the local hour which corresponded with that of Kilimanjaro, situated 35 degrees east, allowing for the difference of longitude.
 
-A few of the principal cities, the sun travelling a degree in four minutes were as follows:
+[TT-019-003]A few of the principal cities, the sun travelling a degree in four minutes were as follows:
 
-At Paris, 9:40 P.M.
+[TT-019-004]At Paris, 9:40 P.M.
 
-At St. Petersburg, 11:31 P.M.
+[TT-019-005]At St. Petersburg, 11:31 P.M.
 
-At London, 9:30 P.M.
+[TT-019-006]At London, 9:30 P.M.
 
-At Rome, 10:20 P.M.
+[TT-019-007]At Rome, 10:20 P.M.
 
-At Madrid, 9:15 P.M.
+[TT-019-008]At Madrid, 9:15 P.M.
 
-AtBerlin, 11:20 P.M.
+[TT-019-009]AtBerlin, 11:20 P.M.
 
-At Constantinople, 11:26 P.M.
+[TT-019-010]At Constantinople, 11:26 P.M.
 
-At Calcutta, 3:04 A.M.
+[TT-019-011]At Calcutta, 3:04 A.M.
 
-At Nanking, 5:05 A.M.
+[TT-019-012]At Nanking, 5:05 A.M.
 
-At Baltimore, it was said, twelve hours after the passage of the sun of the meridian of Kilimanjaro, it was 5:24 P.M. It is impossible to describe the pangs which were produced at this moment. The most powerful of modern pens would be helpless at the task. The people of Baltimore stood fearing that they would be swept off the surface of the earth by the terrible mass of water which would fall on their city. They expected to see the Bay of Chesapeake empty itself upon them. Then, besides, the city, even should the waters not come upon it, would be terribly shaken up by the shock which would be produced. The monuments would be destroyed; its best quarters swallowed up at the bottom of the abysses which would open through the surface of the ground. These fears ran through the different parts of the globe which were not scheduled for submersion by the upheaval of the oceans.
+[TT-019-013]At Baltimore, it was said, twelve hours after the passage of the sun of the meridian of Kilimanjaro, it was 5:24 P.M. It is impossible to describe the pangs which were produced at this moment. The most powerful of modern pens would be helpless at the task. The people of Baltimore stood fearing that they would be swept off the surface of the earth by the terrible mass of water which would fall on their city. They expected to see the Bay of Chesapeake empty itself upon them. Then, besides, the city, even should the waters not come upon it, would be terribly shaken up by the shock which would be produced. The monuments would be destroyed; its best quarters swallowed up at the bottom of the abysses which would open through the surface of the ground. These fears ran through the different parts of the globe which were not scheduled for submersion by the upheaval of the oceans.
 
-Every human being felt the marrow in his bones creep and shake at this fearful moment.
+[TT-019-014]Every human being felt the marrow in his bones creep and shake at this fearful moment.
 
-Yes, all trembled, all save one person, and that one was the engineer Alcide Pierdeux. As he had not had time to make known to the public the discoveries which he had made by means of his last calculations, he drank a bumper of champagne to the health of both worlds in the café of one of the best known hotels. Just as the twenty-fourth minute after 5 o'clock, corresponding with midnight at Kilimanjaro, was reached---
+[TT-019-015]Yes, all trembled, all save one person, and that one was the engineer Alcide Pierdeux. As he had not had time to make known to the public the discoveries which he had made by means of his last calculations, he drank a bumper of champagne to the health of both worlds in the café of one of the best known hotels. Just as the twenty-fourth minute after 5 o'clock, corresponding with midnight at Kilimanjaro, was reached---
 
-At Baltimore, nothing.
+[TT-019-016]At Baltimore, nothing.
 
-At London, Paris, Constantinople, Berlin, nothing, not the least shock.
+[TT-019-017]At London, Paris, Constantinople, Berlin, nothing, not the least shock.
 
-Mr. John Milne, standing in his coal mine at Shamokui with a seismometer which he had arranged there, did not note the least abnormal movement in the earth's shell in this part of the globe. In Baltimore the heavens were cloudy and it was impossible to note in the apparent movement of the stars any derangement which would have indicated the change in the earth's axis.
+[TT-019-018]Mr. John Milne, standing in his coal mine at Shamokui with a seismometer which he had arranged there, did not note the least abnormal movement in the earth's shell in this part of the globe. In Baltimore the heavens were cloudy and it was impossible to note in the apparent movement of the stars any derangement which would have indicated the change in the earth's axis.
 
-What a night J.T. Maston passed in his place of safety which was unknown to all save Mrs. Evangelina Scorbitt! He was beside himself, this visionary engineer. He could not rest in his place of hiding. He seemed to have grown old in one day and looked sharply out to see if the daily course of the sun was modified. This would have been a certain proof of the success of his work. This change could not be seen even on the morning of the 23d of September, because at this date the star invariably rises in the east for all points of the globe. The next day the sun travelled over the horizon the same as it had always done.
+[TT-019-019]What a night J.T. Maston passed in his place of safety which was unknown to all save Mrs. Evangelina Scorbitt! He was beside himself, this visionary engineer. He could not rest in his place of hiding. He seemed to have grown old in one day and looked sharply out to see if the daily course of the sun was modified. This would have been a certain proof of the success of his work. This change could not be seen even on the morning of the 23d of September, because at this date the star invariably rises in the east for all points of the globe. The next day the sun travelled over the horizon the same as it had always done.
 
-The European delegates had assembled on the platform of their hotel. They had by their side instruments of extreme precision which would enable them to note if the sun took a course in the direction of the equator.
+[TT-019-020]The European delegates had assembled on the platform of their hotel. They had by their side instruments of extreme precision which would enable them to note if the sun took a course in the direction of the equator.
 
-Well, nothing changed. A few minutes after the rising of the sun the great disc inclined away towards the Australian hemisphere. Nothing was changed in its apparent course.
+[TT-019-021]Well, nothing changed. A few minutes after the rising of the sun the great disc inclined away towards the Australian hemisphere. Nothing was changed in its apparent course.
 
-Major Donellan and his associates saluted the heavenly torch with enthusiastic hurrahs, and gave it a reception like a favorite star in the theatre. The heavens were in superb condition, the horizon free from the vapors of the night, never did the great sun-god present a more beautiful aspect in such splendid condition before the astonished public. "And precisely at the place marked by the laws of astronomy," said Eric Baldenak.
+[TT-019-022]Major Donellan and his associates saluted the heavenly torch with enthusiastic hurrahs, and gave it a reception like a favorite star in the theatre. The heavens were in superb condition, the horizon free from the vapors of the night, never did the great sun-god present a more beautiful aspect in such splendid condition before the astonished public. "And precisely at the place marked by the laws of astronomy," said Eric Baldenak.
 
-"Yes by our old astronomy," said Boris Karkof, "and these fools pretended to destroy it."
+[TT-019-023]"Yes by our old astronomy," said Boris Karkof, "and these fools pretended to destroy it."
 
-"Well, they will have their expenses to pay and ridicule to endure besides," added Jacques Jansen, by whose voice Holland seemed to speak all alone.
+[TT-019-024]"Well, they will have their expenses to pay and ridicule to endure besides," added Jacques Jansen, by whose voice Holland seemed to speak all alone.
 
-"And the Arctic regions will eternally stay under the ice as they have discovered," said Prof. Jan Harald.
+[TT-019-025]"And the Arctic regions will eternally stay under the ice as they have discovered," said Prof. Jan Harald.
 
-"Hurrah for the sun," said Major Donellan. "Such as it is, it has been and always will be sufficient for our earth."
+[TT-019-026]"Hurrah for the sun," said Major Donellan. "Such as it is, it has been and always will be sufficient for our earth."
 
-"Hurrah, hurrah," repeated in single voice the representatives of old Europe. At this moment Dean Toodrink, who had not said anything so far, made this very cautious remark:
+[TT-019-027]"Hurrah, hurrah," repeated in single voice the representatives of old Europe. At this moment Dean Toodrink, who had not said anything so far, made this very cautious remark:
 
-But perhaps they did not shoot yet.
+[TT-019-028]But perhaps they did not shoot yet.
 
-"Not shoot yet," said the Major. "Heaven grant that they have fired off the cannon twice rather than once."
+[TT-019-029]"Not shoot yet," said the Major. "Heaven grant that they have fired off the cannon twice rather than once."
 
-And that was exactly what J. T. Maston and Mrs. Evangelina Scorbitt were saying.
+[TT-019-030]And that was exactly what J. T. Maston and Mrs. Evangelina Scorbitt were saying.
 
-The wise and the ignorant were united this time by the logic of the situation. Even Alcide Pierdeux repeated it, and added: "Even if they did shoot, what is the difference? The earth will not stop waltzing on its old axis and turning as it used to do."
+[TT-019-031]The wise and the ignorant were united this time by the logic of the situation. Even Alcide Pierdeux repeated it, and added: "Even if they did shoot, what is the difference? The earth will not stop waltzing on its old axis and turning as it used to do."
 
-In fact no one knew what had happened at Kilimanjaro. But at the close of the day an answer came to the question which was engrossing the attention of mankind.
+[TT-019-032]In fact no one knew what had happened at Kilimanjaro. But at the close of the day an answer came to the question which was engrossing the attention of mankind.
 
-A cablegram arrived in the United States, and here is what this dispatch, sent by Richard W. Trust, Consul at Zanzibar, contained:
+[TT-019-033]A cablegram arrived in the United States, and here is what this dispatch, sent by Richard W. Trust, Consul at Zanzibar, contained:
 
-"Zanzibar, Sept. 23, 7:25 A.M." "To John S. Wright, Minister of State:
+[TT-019-034]"Zanzibar, Sept. 23, 7:25 A.M." "To John S. Wright, Minister of State:
 
-"The cannon was fired off yesterday evening at midnight exactly by the device bored in the southern part of Kilimanjaro. Passage of the projectile was accompanied with a powerful whirr and terrible detonation. Whole provinces destroyed by the concussion of the air. Ocean agitated as far as the Mozambique channel. A large number of vessels disabled and thrown on the coast. Towns and villages destroyed. Everything else is well. RICHARD W. TRUST."
+[TT-019-035]"The cannon was fired off yesterday evening at midnight exactly by the device bored in the southern part of Kilimanjaro. Passage of the projectile was accompanied with a powerful whirr and terrible detonation. Whole provinces destroyed by the concussion of the air. Ocean agitated as far as the Mozambique channel. A large number of vessels disabled and thrown on the coast. Towns and villages destroyed. Everything else is well. RICHARD W. TRUST."
 
-Yes, everything else went on well. Nothing had been changed in the state of worldly affairs save the terrible disasters produced in Wamasai, which was partly deluged by the artificial waterspout, and the shipwrecks which were produced by the current of air. The same thing precisely happened when the Columbiad threw its projectile to the moon. The shock to the ground of Florida, was it not felt through a radius of 100 miles? Yes, certainly, but this time the effect should have been a hundred times stronger.
+[TT-019-036]Yes, everything else went on well. Nothing had been changed in the state of worldly affairs save the terrible disasters produced in Wamasai, which was partly deluged by the artificial waterspout, and the shipwrecks which were produced by the current of air. The same thing precisely happened when the Columbiad threw its projectile to the moon. The shock to the ground of Florida, was it not felt through a radius of 100 miles? Yes, certainly, but this time the effect should have been a hundred times stronger.
 
-Whatever had happened the dispatch gave two pieces of information to the interested people of the old and new worlds.
+[TT-019-037]Whatever had happened the dispatch gave two pieces of information to the interested people of the old and new worlds.
 
-First---That the enormous cannon had been erected in the flank of Kilimanjaro.
+[TT-019-038]First---That the enormous cannon had been erected in the flank of Kilimanjaro.
 
-Second---That the gun had been fired at the fixed hour. And now, the whole world uttered an exclamation of intense satisfaction, followed by a great burst of laughter.
+[TT-019-039]Second---That the gun had been fired at the fixed hour. And now, the whole world uttered an exclamation of intense satisfaction, followed by a great burst of laughter.
 
-The trial which Barbicane & Co. had made had entirely failed. The calculations of J.T. Maston were good only for the waste basket. The N.P.P.A. could only announce its failure. But, perhaps, it might be that the secretary of the Gun Club had made a mistake in his calculations.
+[TT-019-040]The trial which Barbicane & Co. had made had entirely failed. The calculations of J.T. Maston were good only for the waste basket. The N.P.P.A. could only announce its failure. But, perhaps, it might be that the secretary of the Gun Club had made a mistake in his calculations.
 
-"Rather would I believe that I have been mistaken in the affection which I feel for him," said Mrs. Evangelina Scorbitt.
+[TT-019-041]"Rather would I believe that I have been mistaken in the affection which I feel for him," said Mrs. Evangelina Scorbitt.
 
-But beyond all, the most discontented human being was J.T. Maston. When he saw that nothing had been changed in the movement of the earth, that the conditions remained precisely the same as they were since the creation, he hoped that some accident had prevented the success of Barbicane & Co., and that his associates had met with some disaster.
+[TT-019-042]But beyond all, the most discontented human being was J.T. Maston. When he saw that nothing had been changed in the movement of the earth, that the conditions remained precisely the same as they were since the creation, he hoped that some accident had prevented the success of Barbicane & Co., and that his associates had met with some disaster.
 
-But there was the cablegram from Zanzibar which stated without a doubt that the operation had taken place.
+[TT-019-043]But there was the cablegram from Zanzibar which stated without a doubt that the operation had taken place.
 
-Failed! ! And what of the formulas and calculations on which he had spent so much time? Is it possible that a cylinder 600 metres long, 27 metres wide, throwing a projectile of 180.000 kilograms, with the deflagration of 200 tons of melimelonite, with an initial velocity of 2,800 kilometres, would not be sufficient to move the earthly axis? It did not seem probable.
+[TT-019-044]Failed! ! And what of the formulas and calculations on which he had spent so much time? Is it possible that a cylinder 600 metres long, 27 metres wide, throwing a projectile of 180.000 kilograms, with the deflagration of 200 tons of melimelonite, with an initial velocity of 2,800 kilometres, would not be sufficient to move the earthly axis? It did not seem probable.
 
-But why?
+[TT-019-045]But why?
 
-So J.T. Maston, in a state of violent excitement, declared that he would quit his retreat. Mrs. Evangelina Scorbitt tried in vain to prevent it. Not that she feared for his life, as all danger of that sort had passed. But the insults which he would have to bear, the jokes which would be cracked about him, the remarks which would be made in regard to his work---she wanted to spare him from these. And then, moreover, what would his associates of the Gun Club say? Did they not have to thank this man for the want of success of their operation and for making them ridiculous? Was he not the man who had figured out the whole affair and on whose shoulders rested all the responsibility?
+[TT-019-046]So J.T. Maston, in a state of violent excitement, declared that he would quit his retreat. Mrs. Evangelina Scorbitt tried in vain to prevent it. Not that she feared for his life, as all danger of that sort had passed. But the insults which he would have to bear, the jokes which would be cracked about him, the remarks which would be made in regard to his work---she wanted to spare him from these. And then, moreover, what would his associates of the Gun Club say? Did they not have to thank this man for the want of success of their operation and for making them ridiculous? Was he not the man who had figured out the whole affair and on whose shoulders rested all the responsibility?
 
-J.T. Maston would not listen to any one. He resisted the begging and tears of Mrs. Evangelina Scorbitt. He went out of the house where he had kept himself hiding. He was recognized, and those who had trembled for fear of the consequences of his work now took revenge by joking and laughing at him, and this in many thousand different ways. He was forced to listen to jeering remarks, even from the street gamins. "Ah," they shouted, "here he is who wanted to change the axis of the earth, who wanted to discover coal mines around the North Pole, who even wanted to remove it." In short, the Secretary of the Gun Club was compelled to return to the mansion of Mrs. Evangelina Scorbitt, who used all her wealth of tenderness to console him. It was in vain, however. J.T. Maston could not be consoled, as his cannon had produced upon the earth's sphere no more effect than a simple popgun would have done. A fortnight went by in this way, and the world resumed its daily routine and did not even think any longer of the projects of the N.P.P.A.
+[TT-019-047]J.T. Maston would not listen to any one. He resisted the begging and tears of Mrs. Evangelina Scorbitt. He went out of the house where he had kept himself hiding. He was recognized, and those who had trembled for fear of the consequences of his work now took revenge by joking and laughing at him, and this in many thousand different ways. He was forced to listen to jeering remarks, even from the street gamins. "Ah," they shouted, "here he is who wanted to change the axis of the earth, who wanted to discover coal mines around the North Pole, who even wanted to remove it." In short, the Secretary of the Gun Club was compelled to return to the mansion of Mrs. Evangelina Scorbitt, who used all her wealth of tenderness to console him. It was in vain, however. J.T. Maston could not be consoled, as his cannon had produced upon the earth's sphere no more effect than a simple popgun would have done. A fortnight went by in this way, and the world resumed its daily routine and did not even think any longer of the projects of the N.P.P.A.
 
-A fortnight and no news yet from President Barbicane and Capt. Nicholl. Had they perished by the discharge in the land of Wamasai? Had they sacrificed their lives in the most mysterious operation of modern times? No.
+[TT-019-048]A fortnight and no news yet from President Barbicane and Capt. Nicholl. Had they perished by the discharge in the land of Wamasai? Had they sacrificed their lives in the most mysterious operation of modern times? No.
 
-After the detonation both were overthrown along with the Sultan arid his court, and a thousand natives in one grand tumble, but they all got up after a little time strong and hearty.
+[TT-019-049]After the detonation both were overthrown along with the Sultan arid his court, and a thousand natives in one grand tumble, but they all got up after a little time strong and hearty.
 
-"Did you succeed?" asked Bali-Bali, rubbing his shoulder.
+[TT-019-050]"Did you succeed?" asked Bali-Bali, rubbing his shoulder.
 
-"Do you doubt it?"
+[TT-019-051]"Do you doubt it?"
 
-"Me doubt it?"
+[TT-019-052]"Me doubt it?"
 
-"But when will you know?"
+[TT-019-053]"But when will you know?"
 
-"In a few days," said Barbicane.
+[TT-019-054]"In a few days," said Barbicane.
 
-Did he appreciate that the operation had failed? Perhaps. But he never would have acknowledged it before the Sultan at Wamasai.
+[TT-019-055]Did he appreciate that the operation had failed? Perhaps. But he never would have acknowledged it before the Sultan at Wamasai.
 
-Forty-eight hours later the two partners had taken leave of Wamasai, not, however, before having paid an enormous sum for the damage done to the country. As this amount of money went into the private purse of the Sultan, and as his subjects did not receive one cent of it, he had no reason to complain of the operation.
+[TT-019-056]Forty-eight hours later the two partners had taken leave of Wamasai, not, however, before having paid an enormous sum for the damage done to the country. As this amount of money went into the private purse of the Sultan, and as his subjects did not receive one cent of it, he had no reason to complain of the operation.
 
-Then the two associates, followed by their ten helpers, reached Zanzibar, where they found a vessel to take them to Suez. From there under false names the steamer Morris brought them to Marseilles; then they took the train to Paris, where they arrived without having had any collision or accident, and taking the railroad to Havre they arrived in time to go to America by the Bourgogne of the Transatlantic line. In twenty-two days they made the trip from Wamasai to New York, and on the 15th day of October the two knocked at the door of the mansion of New Park, at three minutes past noon. An instant afterwards they found themselves in the presence of Mrs. Evangelina Scorbitt and J. T. Maston.
+[TT-019-057]Then the two associates, followed by their ten helpers, reached Zanzibar, where they found a vessel to take them to Suez. From there under false names the steamer Morris brought them to Marseilles; then they took the train to Paris, where they arrived without having had any collision or accident, and taking the railroad to Havre they arrived in time to go to America by the Bourgogne of the Transatlantic line. In twenty-two days they made the trip from Wamasai to New York, and on the 15th day of October the two knocked at the door of the mansion of New Park, at three minutes past noon. An instant afterwards they found themselves in the presence of Mrs. Evangelina Scorbitt and J. T. Maston.

@@ -11,72 +11,72 @@ tags: [chapter]
 ---
 # From the Earth to the Moon — CHAPTER XXII
 
-THE NEW CITIZEN OF THE UNITED STATES.
+[FEM-022-001]THE NEW CITIZEN OF THE UNITED STATES.
 
-That day all America heard about the duel and its singular termination. The part played by the chivalrous European, his unexpected proposition which solved the difficulty, the simultaneous acceptation of the two rivals, that conquest of the lunar continent to which France and the United States were going to march in concert--everything tended to increase Michel Ardan's popularity. It is well known how enthusiastic the Yankees will get about an individual. In a country where grave magistrates harness themselves to a dancer's carriage and draw it in triumph, it may be judged how the bold Frenchman was treated. If they did not take out his horses it was probably because he had none, but all other marks of enthusiasm were showered upon him. There was no citizen who did not join him heart and mind:--_Ex pluribus unam_, according to the motto of the United States.
+[FEM-022-002]That day all America heard about the duel and its singular termination. The part played by the chivalrous European, his unexpected proposition which solved the difficulty, the simultaneous acceptation of the two rivals, that conquest of the lunar continent to which France and the United States were going to march in concert--everything tended to increase Michel Ardan's popularity. It is well known how enthusiastic the Yankees will get about an individual. In a country where grave magistrates harness themselves to a dancer's carriage and draw it in triumph, it may be judged how the bold Frenchman was treated. If they did not take out his horses it was probably because he had none, but all other marks of enthusiasm were showered upon him. There was no citizen who did not join him heart and mind:--_Ex pluribus unam_, according to the motto of the United States.
 
-From that day Michel Ardan had not a minute's rest. Deputations from all parts of the Union worried him incessantly. He was forced to receive them whether he would or no. The hands he shook could not be counted; he was soon completely worn out, his voice became hoarse in consequence of his innumerable speeches, and only escaped from his lips in unintelligible sounds, and he nearly caught a gastro-enterite after the toasts he proposed to the Union. This success would have intoxicated another man from the first, but he managed to stay in a _spirituelle_ and charming demi-inebriety.
+[FEM-022-003]From that day Michel Ardan had not a minute's rest. Deputations from all parts of the Union worried him incessantly. He was forced to receive them whether he would or no. The hands he shook could not be counted; he was soon completely worn out, his voice became hoarse in consequence of his innumerable speeches, and only escaped from his lips in unintelligible sounds, and he nearly caught a gastro-enterite after the toasts he proposed to the Union. This success would have intoxicated another man from the first, but he managed to stay in a _spirituelle_ and charming demi-inebriety.
 
-Amongst the deputations of every sort that assailed him, that of the "Lunatics" did not forget what they owed to the future conqueror of the moon. One day some of these poor creatures, numerous enough in America, went to him and asked to return with him to their native country. Some of them pretended to speak "Selenite," and wished to teach it to Michel Ardan, who willingly lent himself to their innocent mania, and promised to take their messages to their friends in the moon.
+[FEM-022-004]Amongst the deputations of every sort that assailed him, that of the "Lunatics" did not forget what they owed to the future conqueror of the moon. One day some of these poor creatures, numerous enough in America, went to him and asked to return with him to their native country. Some of them pretended to speak "Selenite," and wished to teach it to Michel Ardan, who willingly lent himself to their innocent mania, and promised to take their messages to their friends in the moon.
 
-"Singular folly!" said he to Barbicane, after having dismissed them; "and a folly that often takes possession of men of great intelligence. One of our most illustrious _savants_, Arago, told me that many very wise and reserved people in their conceptions became much excited and gave way to incredible singularities every time the moon occupied them. Do you believe in the influence of the moon upon maladies?"
+[FEM-022-005]"Singular folly!" said he to Barbicane, after having dismissed them; "and a folly that often takes possession of men of great intelligence. One of our most illustrious _savants_, Arago, told me that many very wise and reserved people in their conceptions became much excited and gave way to incredible singularities every time the moon occupied them. Do you believe in the influence of the moon upon maladies?"
 
-"Very little," answered the president of the Gun Club.
+[FEM-022-006]"Very little," answered the president of the Gun Club.
 
-"I do not either, and yet history has preserved some facts that, to say the least, are astonishing. Thus in 1693, during an epidemic, people perished in the greatest numbers on the 21st of January, during an eclipse. The celebrated Bacon fainted during the moon eclipses, and only came to himself after its entire emersion. King Charles VI. relapsed six times into madness during the year 1399, either at the new or full moon. Physicians have ranked epilepsy amongst the maladies that follow the phases of the moon. Nervous maladies have often appeared to be influenced by it. Mead speaks of a child who had convulsions when the moon was in opposition. Gall remarked that insane persons underwent an accession of their disorder twice in every month, at the epochs of the new and full moon. Lastly, a thousand observations of this sort made upon malignant fevers and somnambulism tend to prove that the Queen of Night has a mysterious influence upon terrestrial maladies."
+[FEM-022-007]"I do not either, and yet history has preserved some facts that, to say the least, are astonishing. Thus in 1693, during an epidemic, people perished in the greatest numbers on the 21st of January, during an eclipse. The celebrated Bacon fainted during the moon eclipses, and only came to himself after its entire emersion. King Charles VI. relapsed six times into madness during the year 1399, either at the new or full moon. Physicians have ranked epilepsy amongst the maladies that follow the phases of the moon. Nervous maladies have often appeared to be influenced by it. Mead speaks of a child who had convulsions when the moon was in opposition. Gall remarked that insane persons underwent an accession of their disorder twice in every month, at the epochs of the new and full moon. Lastly, a thousand observations of this sort made upon malignant fevers and somnambulism tend to prove that the Queen of Night has a mysterious influence upon terrestrial maladies."
 
-"But how? why?" asked Barbicane.
+[FEM-022-008]"But how? why?" asked Barbicane.
 
-"Why?" answered Ardan. "Why, the only thing I can tell you is what Arago repeated nineteen centuries after Plutarch. Perhaps it is because it is not true."
+[FEM-022-009]"Why?" answered Ardan. "Why, the only thing I can tell you is what Arago repeated nineteen centuries after Plutarch. Perhaps it is because it is not true."
 
-In the height of his triumph Michel Ardan could not escape any of the annoyances incidental to a celebrated man. Managers of entertainments wished to exhibit him. Barnum offered him a million dollars to show him as a curious animal in the different towns of the United States.
+[FEM-022-010]In the height of his triumph Michel Ardan could not escape any of the annoyances incidental to a celebrated man. Managers of entertainments wished to exhibit him. Barnum offered him a million dollars to show him as a curious animal in the different towns of the United States.
 
-Still, though he refused to satisfy public curiosity in that way, his portraits went all over the world, and occupied the place of honour in albums; proofs were made of all sizes from life size to medallions. Every one could possess the hero in all positions--head, bust, standing, full-face, profile, three-quarters, back. Fifteen hundred thousand copies were taken, and it would have been a fine occasion to get money by relics, but he did not profit by it. If he had sold his hairs for a dollar apiece there would have remained enough to make his fortune!
+[FEM-022-011]Still, though he refused to satisfy public curiosity in that way, his portraits went all over the world, and occupied the place of honour in albums; proofs were made of all sizes from life size to medallions. Every one could possess the hero in all positions--head, bust, standing, full-face, profile, three-quarters, back. Fifteen hundred thousand copies were taken, and it would have been a fine occasion to get money by relics, but he did not profit by it. If he had sold his hairs for a dollar apiece there would have remained enough to make his fortune!
 
-To tell the truth, this popularity did not displease him. On the contrary, he put himself at the disposition of the public, and corresponded with the entire universe. They repeated his witticisms, especially those he did not perpetrate.
+[FEM-022-012]To tell the truth, this popularity did not displease him. On the contrary, he put himself at the disposition of the public, and corresponded with the entire universe. They repeated his witticisms, especially those he did not perpetrate.
 
-Not only had he all the men for him, but the women too. What an infinite number of good marriages he might have made if he had taken a fancy to "settle!" Old maids especially dreamt before his portraits day and night.
+[FEM-022-013]Not only had he all the men for him, but the women too. What an infinite number of good marriages he might have made if he had taken a fancy to "settle!" Old maids especially dreamt before his portraits day and night.
 
-It is certain that he would have found female companions by hundreds, even if he had imposed the condition of following him up into the air. Women are intrepid when they are not afraid of everything. But he had no intention of transplanting a race of Franco-Americans upon the lunar continent, so he refused.
+[FEM-022-014]It is certain that he would have found female companions by hundreds, even if he had imposed the condition of following him up into the air. Women are intrepid when they are not afraid of everything. But he had no intention of transplanting a race of Franco-Americans upon the lunar continent, so he refused.
 
-"I do not mean," said he, "to play the part of Adam with a daughter of Eve up there. I might meet with serpents!"
+[FEM-022-015]"I do not mean," said he, "to play the part of Adam with a daughter of Eve up there. I might meet with serpents!"
 
-As soon as he could withdraw from the joys of triumph, too often repeated, he went with his friends to pay a visit to the Columbiad. He owed it that. Besides, he was getting very learned in ballistics since he had lived with Barbicane, J.T. Maston, and _tutti quanti_. His greatest pleasure consisted in repeating to these brave artillerymen that they were only amiable and learned murderers. He was always joking about it. The day he visited the Columbiad he greatly admired it, and went down to the bore of the gigantic mortar that was soon to hurl him towards the Queen of Night.
+[FEM-022-016]As soon as he could withdraw from the joys of triumph, too often repeated, he went with his friends to pay a visit to the Columbiad. He owed it that. Besides, he was getting very learned in ballistics since he had lived with Barbicane, J.T. Maston, and _tutti quanti_. His greatest pleasure consisted in repeating to these brave artillerymen that they were only amiable and learned murderers. He was always joking about it. The day he visited the Columbiad he greatly admired it, and went down to the bore of the gigantic mortar that was soon to hurl him towards the Queen of Night.
 
-"At least," said he, "that cannon will not hurt anybody, which is already very astonishing on the part of a cannon. But as to your engines that destroy, burn, smash, and kill, don't talk to me about them!"
+[FEM-022-017]"At least," said he, "that cannon will not hurt anybody, which is already very astonishing on the part of a cannon. But as to your engines that destroy, burn, smash, and kill, don't talk to me about them!"
 
-It is necessary to report here a proposition made by J.T. Maston. When the secretary of the Gun Club heard Barbicane and Nicholl accept Michel Ardan's proposition he resolved to join them, and make a party of four. One day he asked to go. Barbicane, grieved at having to refuse, made him understand that the projectile could not carry so many passengers. J.T. Maston, in despair, went to Michel Ardan, who advised him to be resigned, adding one or two arguments _ad hominem_.
+[FEM-022-018]It is necessary to report here a proposition made by J.T. Maston. When the secretary of the Gun Club heard Barbicane and Nicholl accept Michel Ardan's proposition he resolved to join them, and make a party of four. One day he asked to go. Barbicane, grieved at having to refuse, made him understand that the projectile could not carry so many passengers. J.T. Maston, in despair, went to Michel Ardan, who advised him to be resigned, adding one or two arguments _ad hominem_.
 
-"You see, old fellow," he said to him, "you must not be offended, but really, between ourselves, you are too incomplete to present yourself in the moon."
+[FEM-022-019]"You see, old fellow," he said to him, "you must not be offended, but really, between ourselves, you are too incomplete to present yourself in the moon."
 
-"Incomplete!" cried the valiant cripple.
+[FEM-022-020]"Incomplete!" cried the valiant cripple.
 
-"Yes, my brave friend. Suppose we should meet with inhabitants up there. Do you want to give them a sorry idea of what goes on here, teach them what war is, show them that we employ the best part of our time in devouring each other and breaking arms and limbs, and that upon a globe that could feed a hundred thousand millions of inhabitants, and where there are hardly twelve hundred millions? Why, my worthy friend, you would have us shown to the door!"
+[FEM-022-021]"Yes, my brave friend. Suppose we should meet with inhabitants up there. Do you want to give them a sorry idea of what goes on here, teach them what war is, show them that we employ the best part of our time in devouring each other and breaking arms and limbs, and that upon a globe that could feed a hundred thousand millions of inhabitants, and where there are hardly twelve hundred millions? Why, my worthy friend, you would have us shown to the door!"
 
-"But if you arrive smashed to pieces," replied J.T. Maston, "you will be as incomplete as I."
+[FEM-022-022]"But if you arrive smashed to pieces," replied J.T. Maston, "you will be as incomplete as I."
 
-"Certainly," answered Michel Ardan, "but we shall not arrive in pieces."
+[FEM-022-023]"Certainly," answered Michel Ardan, "but we shall not arrive in pieces."
 
-In fact, a preparatory experiment, tried on the 18th of October, had been attended with the best results, and given rise to the most legitimate hopes. Barbicane, wishing to know the effect of the shock at the moment of the projectile's departure, sent for a 32-inch mortar from Pensacola Arsenal. It was installed upon the quay of Hillisboro Harbour, in order that the bomb might fall into the sea, and the shock of its fall be deadened. He only wished to experiment upon the shock of its departure, not that of its arrival.
+[FEM-022-024]In fact, a preparatory experiment, tried on the 18th of October, had been attended with the best results, and given rise to the most legitimate hopes. Barbicane, wishing to know the effect of the shock at the moment of the projectile's departure, sent for a 32-inch mortar from Pensacola Arsenal. It was installed upon the quay of Hillisboro Harbour, in order that the bomb might fall into the sea, and the shock of its fall be deadened. He only wished to experiment upon the shock of its departure, not that of its arrival.
 
-A hollow projectile was prepared with the greatest care for this curious experiment. A thick wadding put upon a network of springs made of the best steel lined it inside. It was quite a wadded nest.
+[FEM-022-025]A hollow projectile was prepared with the greatest care for this curious experiment. A thick wadding put upon a network of springs made of the best steel lined it inside. It was quite a wadded nest.
 
-"What a pity one can't go in it!" said J.T. Maston, regretting that his size did not allow him to make the venture.
+[FEM-022-026]"What a pity one can't go in it!" said J.T. Maston, regretting that his size did not allow him to make the venture.
 
-Into this charming bomb, which was closed by means of a lid, screwed down, they put first a large cat, then a squirrel belonging to the perpetual secretary of the Gun Club, which J.T. Maston was very fond of. But they wished to know how this little animal, not likely to be giddy, would support this experimental journey.
+[FEM-022-027]Into this charming bomb, which was closed by means of a lid, screwed down, they put first a large cat, then a squirrel belonging to the perpetual secretary of the Gun Club, which J.T. Maston was very fond of. But they wished to know how this little animal, not likely to be giddy, would support this experimental journey.
 
-The mortar was loaded with 160 lbs. of powder and the bomb. It was then fired.
+[FEM-022-028]The mortar was loaded with 160 lbs. of powder and the bomb. It was then fired.
 
-The projectile immediately rose with rapidity, described a majestic parabola, attained a height of about a thousand feet, and then with a graceful curve fell into the waves.
+[FEM-022-029]The projectile immediately rose with rapidity, described a majestic parabola, attained a height of about a thousand feet, and then with a graceful curve fell into the waves.
 
-Without losing an instant, a vessel was sent to the spot where it fell; skilful divers sank under water and fastened cable-chains to the handles of the bomb, which was rapidly hoisted on board. Five minutes had not elapsed between the time the animals were shut up and the unscrewing of their prison lid.
+[FEM-022-030]Without losing an instant, a vessel was sent to the spot where it fell; skilful divers sank under water and fastened cable-chains to the handles of the bomb, which was rapidly hoisted on board. Five minutes had not elapsed between the time the animals were shut up and the unscrewing of their prison lid.
 
-Ardan, Barbicane, Maston, and Nicholl were upon the vessel, and they assisted at the operation with a sentiment of interest easy to understand. The bomb was hardly opened before the cat sprang out, rather bruised but quite lively, and not looking as if it had just returned from an aërial expedition. But nothing, was seen of the squirrel. The truth was then discovered. The cat had eaten its travelling companion.
+[FEM-022-031]Ardan, Barbicane, Maston, and Nicholl were upon the vessel, and they assisted at the operation with a sentiment of interest easy to understand. The bomb was hardly opened before the cat sprang out, rather bruised but quite lively, and not looking as if it had just returned from an aërial expedition. But nothing, was seen of the squirrel. The truth was then discovered. The cat had eaten its travelling companion.
 
-J.T. Maston was very grieved at the loss of his poor squirrel, and proposed to inscribe it in the martyrology of science.
+[FEM-022-032]J.T. Maston was very grieved at the loss of his poor squirrel, and proposed to inscribe it in the martyrology of science.
 
-However that may be, after this experiment all hesitation and fear were at an end; besides, Barbicane's plans were destined further to perfect the projectile, and destroy almost entirely the effect of the shock. There was nothing more to do but to start.
+[FEM-022-033]However that may be, after this experiment all hesitation and fear were at an end; besides, Barbicane's plans were destined further to perfect the projectile, and destroy almost entirely the effect of the shock. There was nothing more to do but to start.
 
-Two days later Michel Ardan received a message from the President of the Union, an honour which he much appreciated.
+[FEM-022-034]Two days later Michel Ardan received a message from the President of the Union, an honour which he much appreciated.
 
-After the example of his chivalrous countryman, La Fayette, the government had bestowed upon him the title of "Citizen of the United States of America."
+[FEM-022-035]After the example of his chivalrous countryman, La Fayette, the government had bestowed upon him the title of "Citizen of the United States of America."

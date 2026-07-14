@@ -11,266 +11,266 @@ tags: [chapter]
 ---
 # Facing the Flag — CHAPTER XIV
 
-BATTLE BETWEEN THE "SWORD" AND THE TUG.
+[FF-014-001]BATTLE BETWEEN THE "SWORD" AND THE TUG.
 
-Through all this sleepless night I have followed the keg in fancy. How many times I seem to see it swept against the rocks in the tunnel into a creek, or some excavation. I am in a cold perspiration from head to foot. Then I imagine that it has been carried out to sea. Heavens! if the returning tide should sweep it back to the entrance and then through the tunnel into the lagoon! I must be on the lookout for it.
+[FF-014-002]Through all this sleepless night I have followed the keg in fancy. How many times I seem to see it swept against the rocks in the tunnel into a creek, or some excavation. I am in a cold perspiration from head to foot. Then I imagine that it has been carried out to sea. Heavens! if the returning tide should sweep it back to the entrance and then through the tunnel into the lagoon! I must be on the lookout for it.
 
-I rise before the sun and saunter down to the lagoon. Not a single object is floating on its calm surface.
+[FF-014-003]I rise before the sun and saunter down to the lagoon. Not a single object is floating on its calm surface.
 
-The work on the tunnel through the side of the cavern goes on, and at four o'clock in the afternoon on September 23, Engineer Serko blows away the last rock obstructing the issue, and communication with the outer world is established. It is only a very narrow hole, and one has to stoop to go through it. The exterior orifice is lost among the crannies of the rocky coast, and it would be easy to obstruct it, if such a measure became necessary.
+[FF-014-004]The work on the tunnel through the side of the cavern goes on, and at four o'clock in the afternoon on September 23, Engineer Serko blows away the last rock obstructing the issue, and communication with the outer world is established. It is only a very narrow hole, and one has to stoop to go through it. The exterior orifice is lost among the crannies of the rocky coast, and it would be easy to obstruct it, if such a measure became necessary.
 
-It goes without saying that the passage will be strictly guarded. No one without special authorization will be able either to go out or come in, therefore there is little hope of escape in that direction.
+[FF-014-005]It goes without saying that the passage will be strictly guarded. No one without special authorization will be able either to go out or come in, therefore there is little hope of escape in that direction.
 
-September 25.--This morning the tug rose from the depth of the lagoon to the surface, and has now run alongside the jetty. The Count d'Artigas and Captain Spade disembark, and the crew set to work to land the provisions--boxes of canned meat, preserves, barrels of wine and spirits, and other things brought by the Ebba, among which are several packages destined for Thomas Roch. The men also land the various sections of Roch's engines which are discoid in shape.
+[FF-014-006]September 25.--This morning the tug rose from the depth of the lagoon to the surface, and has now run alongside the jetty. The Count d'Artigas and Captain Spade disembark, and the crew set to work to land the provisions--boxes of canned meat, preserves, barrels of wine and spirits, and other things brought by the Ebba, among which are several packages destined for Thomas Roch. The men also land the various sections of Roch's engines which are discoid in shape.
 
-The inventor watches their operations, and his eyes glisten with eagerness. He seizes one of the sections, examines it, and nods approval. I notice that his joy no longer finds expression in incoherent utterances, that he is completely transformed from what he was while a patient at Healthful House. So much is this the case that I begin to ask myself whether his madness which was asserted to be incurable, has not been radically cured.
+[FF-014-007]The inventor watches their operations, and his eyes glisten with eagerness. He seizes one of the sections, examines it, and nods approval. I notice that his joy no longer finds expression in incoherent utterances, that he is completely transformed from what he was while a patient at Healthful House. So much is this the case that I begin to ask myself whether his madness which was asserted to be incurable, has not been radically cured.
 
-At last Thomas Roch embarks in the boat used for crossing the lake and is rowed over to his laboratory. Engineer Serko accompanies him. In an hour's time the tug's cargo has all been taken out and transported to the storehouses.
+[FF-014-008]At last Thomas Roch embarks in the boat used for crossing the lake and is rowed over to his laboratory. Engineer Serko accompanies him. In an hour's time the tug's cargo has all been taken out and transported to the storehouses.
 
-Ker Karraje exchanges a word or two with Engineer Serko and then enters his mansion. Later, in the afternoon, I see them walking up and down in front of the Beehive and talking earnestly together.
+[FF-014-009]Ker Karraje exchanges a word or two with Engineer Serko and then enters his mansion. Later, in the afternoon, I see them walking up and down in front of the Beehive and talking earnestly together.
 
-Then they enter the new tunnel, followed by Captain Spade. If I could but follow them! If I could but breathe for awhile the bracing air of the Atlantic, of which the interior of Back Cup only receives attenuated puffs, so to speak.
+[FF-014-010]Then they enter the new tunnel, followed by Captain Spade. If I could but follow them! If I could but breathe for awhile the bracing air of the Atlantic, of which the interior of Back Cup only receives attenuated puffs, so to speak.
 
-From September 26 to October 10.--Fifteen days have elapsed. Under the directions of Engineer Serko and Thomas Roch the sections of the engines have been fitted together. Then the construction of their supports is begun. These supports are simple trestles, fitted with transverse troughs or grooves of various degrees of inclination, and which could be easily installed on the deck of the Ebba, or even on the platform of the tug, which can be kept on a level with the surface.
+[FF-014-011]From September 26 to October 10.--Fifteen days have elapsed. Under the directions of Engineer Serko and Thomas Roch the sections of the engines have been fitted together. Then the construction of their supports is begun. These supports are simple trestles, fitted with transverse troughs or grooves of various degrees of inclination, and which could be easily installed on the deck of the Ebba, or even on the platform of the tug, which can be kept on a level with the surface.
 
-Thus Ker Karraje, will be ruler of the seas, with his yacht. No warship, however big, however powerful, will be able to cross the zone of danger, whereas the Ebba will be out of range of its guns. If only my notice were found! If only the existence of this lair of Back Cup were known! Means would soon be found, if not of destroying the place, at least of starving the band into submission!
+[FF-014-012]Thus Ker Karraje, will be ruler of the seas, with his yacht. No warship, however big, however powerful, will be able to cross the zone of danger, whereas the Ebba will be out of range of its guns. If only my notice were found! If only the existence of this lair of Back Cup were known! Means would soon be found, if not of destroying the place, at least of starving the band into submission!
 
-October 20.--To my extreme surprise I find this morning that the tug has gone away again. I recall that yesterday the elements of the piles were renewed, but I thought it was only to keep them in order. In view of the fact that the outside can now be reached through the new tunnel, and that Thomas Roch has everything he requires, I can only conclude that the tug has gone off on another marauding expedition.
+[FF-014-013]October 20.--To my extreme surprise I find this morning that the tug has gone away again. I recall that yesterday the elements of the piles were renewed, but I thought it was only to keep them in order. In view of the fact that the outside can now be reached through the new tunnel, and that Thomas Roch has everything he requires, I can only conclude that the tug has gone off on another marauding expedition.
 
-Yet this is the season of the equinoctial gales, and the Bermudan waters are swept by frequent tempests. This is evident from the violent gusts that drive back the smoke through the crater and the heavy rain that accompanies it, as well as by the water in the lagoon, which swells and washes over the brown rocks on its shores.
+[FF-014-014]Yet this is the season of the equinoctial gales, and the Bermudan waters are swept by frequent tempests. This is evident from the violent gusts that drive back the smoke through the crater and the heavy rain that accompanies it, as well as by the water in the lagoon, which swells and washes over the brown rocks on its shores.
 
-But it is by no means sure that the Ebba has quitted her cove. However staunch she may be, she is, it seems to me, of too light a build to face such tempests as now rage, even with the help of the tug.
+[FF-014-015]But it is by no means sure that the Ebba has quitted her cove. However staunch she may be, she is, it seems to me, of too light a build to face such tempests as now rage, even with the help of the tug.
 
-On the other hand, although the tug has nothing to fear from the heavy seas, as it would be in calm water a few yards below the surface, it is hardly likely that it has gone on a trip unless to accompany the schooner.
+[FF-014-016]On the other hand, although the tug has nothing to fear from the heavy seas, as it would be in calm water a few yards below the surface, it is hardly likely that it has gone on a trip unless to accompany the schooner.
 
-I do not know to what its departure can be attributed, but its absence is likely to be prolonged, for it has not yet returned.
+[FF-014-017]I do not know to what its departure can be attributed, but its absence is likely to be prolonged, for it has not yet returned.
 
-Engineer Serko has remained behind, but Ker Karraje, Captain Spade, and the crew of the schooner, I find, have left.
+[FF-014-018]Engineer Serko has remained behind, but Ker Karraje, Captain Spade, and the crew of the schooner, I find, have left.
 
-Life in the cavern goes on with its usual dispiriting monotony. I pass hour after hour in my cell, meditating, hoping, despairing, following in fancy the voyage of my little barrel, tossed about at the mercy of the currents and whose chances of being picked up, I fear, are becoming fainter each day, and killing time by writing my diary, which will probably not survive me.
+[FF-014-019]Life in the cavern goes on with its usual dispiriting monotony. I pass hour after hour in my cell, meditating, hoping, despairing, following in fancy the voyage of my little barrel, tossed about at the mercy of the currents and whose chances of being picked up, I fear, are becoming fainter each day, and killing time by writing my diary, which will probably not survive me.
 
-Thomas Roch is constantly occupied in his laboratory manufacturing his deflagrator. I still entertain the conviction that nothing will ever induce him to give up the secret of the liquid's composition; but I am perfectly aware that he will not hesitate to place his invention at Ker Karraje's service.
+[FF-014-020]Thomas Roch is constantly occupied in his laboratory manufacturing his deflagrator. I still entertain the conviction that nothing will ever induce him to give up the secret of the liquid's composition; but I am perfectly aware that he will not hesitate to place his invention at Ker Karraje's service.
 
-I often meet Engineer Serko when my strolls take me in the direction of the Beehive. He always shows himself disposed to chat with me, though, it is true, he does so in a tone of impertinent frivolity. We converse upon all sorts of subjects, but rarely of my position. Recrimination thereanent is useless and only subjects me to renewed bantering.
+[FF-014-021]I often meet Engineer Serko when my strolls take me in the direction of the Beehive. He always shows himself disposed to chat with me, though, it is true, he does so in a tone of impertinent frivolity. We converse upon all sorts of subjects, but rarely of my position. Recrimination thereanent is useless and only subjects me to renewed bantering.
 
-October 22.--To-day I asked Engineer Serko whether the Ebba had put to sea again with the tug.
+[FF-014-022]October 22.--To-day I asked Engineer Serko whether the Ebba had put to sea again with the tug.
 
-"Yes, Mr. Simon Hart," he replied, "and though the clouds gather and loud the tempest roars, be in no uneasiness in regard to our dear Ebba."
+[FF-014-023]"Yes, Mr. Simon Hart," he replied, "and though the clouds gather and loud the tempest roars, be in no uneasiness in regard to our dear Ebba."
 
-"Will she be gone long?"
+[FF-014-024]"Will she be gone long?"
 
-"We expect her back within forty-eight hours. It is the last voyage Count d'Artigas proposes to make before the winter gales render navigation in these parts impracticable."
+[FF-014-025]"We expect her back within forty-eight hours. It is the last voyage Count d'Artigas proposes to make before the winter gales render navigation in these parts impracticable."
 
-"Is her voyage one of business or pleasure?"
+[FF-014-026]"Is her voyage one of business or pleasure?"
 
-"Of business, Mr. Hart, of business," answered Engineer Serko with a smile. "Our engines are now completed, and when the fine weather returns we shall resume offensive operations."
+[FF-014-027]"Of business, Mr. Hart, of business," answered Engineer Serko with a smile. "Our engines are now completed, and when the fine weather returns we shall resume offensive operations."
 
-"Against unfortunate merchantmen."
+[FF-014-028]"Against unfortunate merchantmen."
 
-"As unfortunate as they are richly laden."
+[FF-014-029]"As unfortunate as they are richly laden."
 
-"Acts of piracy, whose impunity will, I trust, not always be assured," I cried..
+[FF-014-030]"Acts of piracy, whose impunity will, I trust, not always be assured," I cried..
 
-"Calm yourself, dear colleague, be calm! Be calm! No one, you know, can ever discover our retreat, and none can ever disclose the secret! Besides, with these engines, which are so easily handled and are of such terrible power, it would be easy for us to blow to pieces any ship that attempted to get within a certain radius of the island."
+[FF-014-031]"Calm yourself, dear colleague, be calm! Be calm! No one, you know, can ever discover our retreat, and none can ever disclose the secret! Besides, with these engines, which are so easily handled and are of such terrible power, it would be easy for us to blow to pieces any ship that attempted to get within a certain radius of the island."
 
-"Providing," I said, "that Thomas Roch has sold you the composition of his deflagrator as he has sold you that of his fulgurator."
+[FF-014-032]"Providing," I said, "that Thomas Roch has sold you the composition of his deflagrator as he has sold you that of his fulgurator."
 
-"That he has done, Mr. Hart, and it behooves me to set your mind at rest upon that point."
+[FF-014-033]"That he has done, Mr. Hart, and it behooves me to set your mind at rest upon that point."
 
-From this categorical response I ought to have concluded that the misfortune had been consummated, but a certain hesitation in the intonation of his voice warned me that implicit reliance was not to be placed upon Engineer Serko's assertions.
+[FF-014-034]From this categorical response I ought to have concluded that the misfortune had been consummated, but a certain hesitation in the intonation of his voice warned me that implicit reliance was not to be placed upon Engineer Serko's assertions.
 
-October 25.--What a frightful adventure I have just been mixed up in, and what a wonder I did not lose my life! It is only by a miracle that I am able to resume these notes, which have been interrupted for forty-eight hours. With a little luck, I should have been delivered! I should now be in one of the Bermudan ports--St. George or Hamilton. The mysteries of Back Cup would have been cleared up. The description of the schooner would have been wired all over the world, and she would not dare to put into any port. The provisioning of Back Cup would be impossible, and Ker Karraje's bandits would be condemned to starve to death!
+[FF-014-035]October 25.--What a frightful adventure I have just been mixed up in, and what a wonder I did not lose my life! It is only by a miracle that I am able to resume these notes, which have been interrupted for forty-eight hours. With a little luck, I should have been delivered! I should now be in one of the Bermudan ports--St. George or Hamilton. The mysteries of Back Cup would have been cleared up. The description of the schooner would have been wired all over the world, and she would not dare to put into any port. The provisioning of Back Cup would be impossible, and Ker Karraje's bandits would be condemned to starve to death!
 
-This is what occurred:
+[FF-014-036]This is what occurred:
 
-At eight o'clock in the evening on October 23, I quitted my cell in an indefinable state of nervousness, and with a presentiment that a serious event was imminent. In vain I had tried to seek calmness in sleep. It was impossible to do so, and I rose and went out.
+[FF-014-037]At eight o'clock in the evening on October 23, I quitted my cell in an indefinable state of nervousness, and with a presentiment that a serious event was imminent. In vain I had tried to seek calmness in sleep. It was impossible to do so, and I rose and went out.
 
-Outside Back Cup the weather must have been very rough. Violent gusts of wind swept in through the crater and agitated the water of the lagoon.
+[FF-014-038]Outside Back Cup the weather must have been very rough. Violent gusts of wind swept in through the crater and agitated the water of the lagoon.
 
-I walked along the shore on the Beehive side. No one was about. It was rather cold, and the air was damp. The pirates were all snugly ensconced in their cells, with the exception of one man, who stood guard over the new passage, notwithstanding that the outer entrance had been blocked. From where he was this man could not see the lagoon, moreover there were only two lamps alight, one on each side of the lake, and the forest of pillars was wrapt in the profoundest obscurity.
+[FF-014-039]I walked along the shore on the Beehive side. No one was about. It was rather cold, and the air was damp. The pirates were all snugly ensconced in their cells, with the exception of one man, who stood guard over the new passage, notwithstanding that the outer entrance had been blocked. From where he was this man could not see the lagoon, moreover there were only two lamps alight, one on each side of the lake, and the forest of pillars was wrapt in the profoundest obscurity.
 
-I was walking about in the shadow, when some one passed me.
+[FF-014-040]I was walking about in the shadow, when some one passed me.
 
-I saw that he was Thomas Roch.
+[FF-014-041]I saw that he was Thomas Roch.
 
-He was walking slowly, absorbed by his thoughts, his brain at work, as usual.
+[FF-014-042]He was walking slowly, absorbed by his thoughts, his brain at work, as usual.
 
-Was this not a favorable opportunity to talk to him, to enlighten him about what he was probably ignorant, namely, the character of the people into whose hands he had fallen?
+[FF-014-043]Was this not a favorable opportunity to talk to him, to enlighten him about what he was probably ignorant, namely, the character of the people into whose hands he had fallen?
 
-"He cannot," I argued, "know that the Count d'Artigas is none other than Ker Karraje, the pirate. He cannot be aware that he has given up a part of his invention to such a bandit. I must open his eyes to the fact that he will never be able to enjoy his millions, that he is a prisoner in Back Cup, and will never be allowed to leave it, any more than I shall. Yes, I will make an appeal to his sentiments of humanity, and point out to him what frightful misfortunes he will be responsible for if he does not keep the secret of his deflagrator."
+[FF-014-044]"He cannot," I argued, "know that the Count d'Artigas is none other than Ker Karraje, the pirate. He cannot be aware that he has given up a part of his invention to such a bandit. I must open his eyes to the fact that he will never be able to enjoy his millions, that he is a prisoner in Back Cup, and will never be allowed to leave it, any more than I shall. Yes, I will make an appeal to his sentiments of humanity, and point out to him what frightful misfortunes he will be responsible for if he does not keep the secret of his deflagrator."
 
-All this I had said to myself, and was preparing to carry out my resolution, when I suddenly felt myself seized from behind.
+[FF-014-045]All this I had said to myself, and was preparing to carry out my resolution, when I suddenly felt myself seized from behind.
 
-Two men held me by the arms, and another appeared in front of me.
+[FF-014-046]Two men held me by the arms, and another appeared in front of me.
 
-Before I had time to cry out the man exclaimed in English:
+[FF-014-047]Before I had time to cry out the man exclaimed in English:
 
-"Hush! not a word! Are you not Simon Hart?"
+[FF-014-048]"Hush! not a word! Are you not Simon Hart?"
 
-"Yes, how did you know?"
+[FF-014-049]"Yes, how did you know?"
 
-"I saw you come out of your cell."
+[FF-014-050]"I saw you come out of your cell."
 
-"Who are you, then?"
+[FF-014-051]"Who are you, then?"
 
-"Lieutenant Davon, of the British Navy, of H.M.S. Standard, which is stationed at the Bermudas."
+[FF-014-052]"Lieutenant Davon, of the British Navy, of H.M.S. Standard, which is stationed at the Bermudas."
 
-Emotion choked me so that it was impossible for me to utter a word.
+[FF-014-053]Emotion choked me so that it was impossible for me to utter a word.
 
-"We have come to rescue you from Ker Karraje, and also propose to carry off Thomas Roch," he added.
+[FF-014-054]"We have come to rescue you from Ker Karraje, and also propose to carry off Thomas Roch," he added.
 
-"Thomas Roch?" I stammered.
+[FF-014-055]"Thomas Roch?" I stammered.
 
-"Yes, the document signed by you was found on the beach at St. George----"
+[FF-014-056]"Yes, the document signed by you was found on the beach at St. George----"
 
-"In a keg, Lieutenant Davon, which I committed to the waters of the lagoon."
+[FF-014-057]"In a keg, Lieutenant Davon, which I committed to the waters of the lagoon."
 
-"And which contained," went on the officer, "the notice by which we were apprised that the island of Back Cup served as a refuge for Ker Karraje and his band--Ker Karraje, this false Count d'Artigas, the author of the double abduction from Healthful House."
+[FF-014-058]"And which contained," went on the officer, "the notice by which we were apprised that the island of Back Cup served as a refuge for Ker Karraje and his band--Ker Karraje, this false Count d'Artigas, the author of the double abduction from Healthful House."
 
-"Ah! Lieutenant Davon----"
+[FF-014-059]"Ah! Lieutenant Davon----"
 
-"Now we have not a moment to spare, we must profit by the obscurity."
+[FF-014-060]"Now we have not a moment to spare, we must profit by the obscurity."
 
-"One word, Lieutenant Davon, how did you penetrate to the interior of Back Cup?"
+[FF-014-061]"One word, Lieutenant Davon, how did you penetrate to the interior of Back Cup?"
 
-"By means of the submarine boat Sword, with which we have been making experiments at St. George for six months past."
+[FF-014-062]"By means of the submarine boat Sword, with which we have been making experiments at St. George for six months past."
 
-"A submarine boat!"
+[FF-014-063]"A submarine boat!"
 
-"Yes, it awaits us at the foot of the rocks. And now, Mr. Hart, where is Ker Karraje's tug?"
+[FF-014-064]"Yes, it awaits us at the foot of the rocks. And now, Mr. Hart, where is Ker Karraje's tug?"
 
-"It has been away for three weeks."
+[FF-014-065]"It has been away for three weeks."
 
-"Ker Karraje is not here, then?"
+[FF-014-066]"Ker Karraje is not here, then?"
 
-"No, but we expect him back every day--every hour, I might say."
+[FF-014-067]"No, but we expect him back every day--every hour, I might say."
 
-"It matters little," replied Lieutenant Davon. "It is not after Ker Karraje, but Thomas Roch, we have come--and you also, Mr. Hart. The Sword will not leave the lagoon till you are both on board. If she does not turn up at St. George again, they will know that I have failed--and they will try again."
+[FF-014-068]"It matters little," replied Lieutenant Davon. "It is not after Ker Karraje, but Thomas Roch, we have come--and you also, Mr. Hart. The Sword will not leave the lagoon till you are both on board. If she does not turn up at St. George again, they will know that I have failed--and they will try again."
 
-"Where is the Sword, Lieutenant?"
+[FF-014-069]"Where is the Sword, Lieutenant?"
 
-"On this side, in the shadow of the bank, where it cannot be seen. Thanks to your directions, I and my crew were able to locate the tunnel. We came through all right, and ten minutes ago rose to the surface of the lake. Two men landed with me. I saw you issue from the cell marked on your plan. Do you know where Thomas Roch is?"
+[FF-014-070]"On this side, in the shadow of the bank, where it cannot be seen. Thanks to your directions, I and my crew were able to locate the tunnel. We came through all right, and ten minutes ago rose to the surface of the lake. Two men landed with me. I saw you issue from the cell marked on your plan. Do you know where Thomas Roch is?"
 
-"A few paces off. He has just passed me, on his way to his laboratory."
+[FF-014-071]"A few paces off. He has just passed me, on his way to his laboratory."
 
-"God be praised, Mr. Hart!"
+[FF-014-072]"God be praised, Mr. Hart!"
 
-"Amen, Lieutenant Davon."
+[FF-014-073]"Amen, Lieutenant Davon."
 
-The lieutenant, the two men and I took the path around the lagoon. We had not gone far when we perceived Thomas Roch in front of us. To throw ourselves upon him, gag him before he could utter a cry, bind him before he could offer any resistance, and bear him off to the place where the Sword was moored was the work of a minute.
+[FF-014-074]The lieutenant, the two men and I took the path around the lagoon. We had not gone far when we perceived Thomas Roch in front of us. To throw ourselves upon him, gag him before he could utter a cry, bind him before he could offer any resistance, and bear him off to the place where the Sword was moored was the work of a minute.
 
-The Sword was a submersible boat of only twelve tons, and consequently much inferior to the tug, both in respect of dimensions and power. Her screw was worked by a couple of dynamos fitted with accumulators that had been charged twelve hours previously in the port of St. George. However, the Sword would suffice to take us out of this prison, to restore us to liberty--that liberty of which I had given up all hope. Thomas Roch was at last to be rescued from the clutches of Ker Karraje and Engineer Serko. The rascals would not be able to utilize his invention, and nothing could prevent the warships from landing a storming party on the island, who would force the tunnel in the wall and secure the pirates!
+[FF-014-075]The Sword was a submersible boat of only twelve tons, and consequently much inferior to the tug, both in respect of dimensions and power. Her screw was worked by a couple of dynamos fitted with accumulators that had been charged twelve hours previously in the port of St. George. However, the Sword would suffice to take us out of this prison, to restore us to liberty--that liberty of which I had given up all hope. Thomas Roch was at last to be rescued from the clutches of Ker Karraje and Engineer Serko. The rascals would not be able to utilize his invention, and nothing could prevent the warships from landing a storming party on the island, who would force the tunnel in the wall and secure the pirates!
 
-We saw no one while the two men were conveying Thomas Roch to the Sword, and all got on board without incident. The lid was shut and secured, the water compartments filled, and the Sword sank out of sight. We were saved!
+[FF-014-076]We saw no one while the two men were conveying Thomas Roch to the Sword, and all got on board without incident. The lid was shut and secured, the water compartments filled, and the Sword sank out of sight. We were saved!
 
-The Sword was divided into three water-tight compartments. The after one contained the accumulators and machinery. The middle one, occupied by the pilot, was surmounted by a periscope fitted with lenticular portholes, through which an electric search-lamp lighted the way through the water. Forward, in the other compartment, Thomas Roch and I were shut in.
+[FF-014-077]The Sword was divided into three water-tight compartments. The after one contained the accumulators and machinery. The middle one, occupied by the pilot, was surmounted by a periscope fitted with lenticular portholes, through which an electric search-lamp lighted the way through the water. Forward, in the other compartment, Thomas Roch and I were shut in.
 
-My companion, though the gag which was choking him had been removed, was still bound, and, I thought, knew what was going on.
+[FF-014-078]My companion, though the gag which was choking him had been removed, was still bound, and, I thought, knew what was going on.
 
-But we were in a hurry to be off, and hoped to reach St. George that very night if no obstacle was encountered.
+[FF-014-079]But we were in a hurry to be off, and hoped to reach St. George that very night if no obstacle was encountered.
 
-I pushed open the door of the compartment and rejoined Lieutenant Davon, who was standing by the man at the wheel. In the after compartment three other men, including the engineer, awaited the lieutenant's orders to set the machinery in motion.
+[FF-014-080]I pushed open the door of the compartment and rejoined Lieutenant Davon, who was standing by the man at the wheel. In the after compartment three other men, including the engineer, awaited the lieutenant's orders to set the machinery in motion.
 
-"Lieutenant Davon," I said, "I do not think there is any particular reason why I should stay in there with Roch. If I can help you to get through the tunnel, pray command me."
+[FF-014-081]"Lieutenant Davon," I said, "I do not think there is any particular reason why I should stay in there with Roch. If I can help you to get through the tunnel, pray command me."
 
-"Yes, I shall be glad to have you by me, Mr. Hart."
+[FF-014-082]"Yes, I shall be glad to have you by me, Mr. Hart."
 
-It was then exactly thirty-seven minutes past eight.
+[FF-014-083]It was then exactly thirty-seven minutes past eight.
 
-The search-lamp threw a vague light through the water ahead of the Sword. From where we were, we had to cross the lagoon through its entire length to get to the tunnel. It would be pretty difficult to fetch it, we knew, but, if necessary, we could hug the sides of the lake until we located it. Once outside the tunnel the Sword would rise to the surface and make for St. George at full speed.
+[FF-014-084]The search-lamp threw a vague light through the water ahead of the Sword. From where we were, we had to cross the lagoon through its entire length to get to the tunnel. It would be pretty difficult to fetch it, we knew, but, if necessary, we could hug the sides of the lake until we located it. Once outside the tunnel the Sword would rise to the surface and make for St. George at full speed.
 
-"At what depth are we now?" I asked the lieutenant.
+[FF-014-085]"At what depth are we now?" I asked the lieutenant.
 
-"About a fathom."
+[FF-014-086]"About a fathom."
 
-"It is not necessary to go any lower," I said. "From what I was able to observe during the equinoctial tides, I should think that we are in the axis of the tunnel."
+[FF-014-087]"It is not necessary to go any lower," I said. "From what I was able to observe during the equinoctial tides, I should think that we are in the axis of the tunnel."
 
-"All right," he replied.
+[FF-014-088]"All right," he replied.
 
-Yes, it was all right, and I felt that Providence was speaking by the mouth of the officer. Certainly Providence could not have chosen a better agent to work its will.
+[FF-014-089]Yes, it was all right, and I felt that Providence was speaking by the mouth of the officer. Certainly Providence could not have chosen a better agent to work its will.
 
-In the light of the lamp I examined him. He was about thirty years of age, cool, phlegmatic, with resolute physiognomy--the English officer in all his native impassibility--no more disturbed than if he had been on board the Standard, operating with extraordinary sang-froid, I might even say, with the precision of a machine.
+[FF-014-090]In the light of the lamp I examined him. He was about thirty years of age, cool, phlegmatic, with resolute physiognomy--the English officer in all his native impassibility--no more disturbed than if he had been on board the Standard, operating with extraordinary sang-froid, I might even say, with the precision of a machine.
 
-"On coming through the tunnel I estimated its length at about fifty yards," he remarked.
+[FF-014-091]"On coming through the tunnel I estimated its length at about fifty yards," he remarked.
 
-"Yes, Lieutenant, about fifty yards from one extremity to the other."
+[FF-014-092]"Yes, Lieutenant, about fifty yards from one extremity to the other."
 
-This calculation must have been pretty exact, since the new tunnel cut on a level with the coast is thirty-five feet in length.
+[FF-014-093]This calculation must have been pretty exact, since the new tunnel cut on a level with the coast is thirty-five feet in length.
 
-The order was given to go ahead, and the Sword moved forward very slowly for fear of colliding against the rocky side.
+[FF-014-094]The order was given to go ahead, and the Sword moved forward very slowly for fear of colliding against the rocky side.
 
-Sometimes we came near enough to it to distinguish a black mass ahead of it, but a turn of the wheel put us in the right direction again. Navigating a submarine boat in the open sea is difficult enough. How much more so in the confines of a lagoon!
+[FF-014-095]Sometimes we came near enough to it to distinguish a black mass ahead of it, but a turn of the wheel put us in the right direction again. Navigating a submarine boat in the open sea is difficult enough. How much more so in the confines of a lagoon!
 
-After five minutes' manoeuvring, the Sword, which was kept at about a fathom below the surface, had not succeeded in sighting the orifice.
+[FF-014-096]After five minutes' manoeuvring, the Sword, which was kept at about a fathom below the surface, had not succeeded in sighting the orifice.
 
-"Perhaps it would be better to return to the surface, Lieutenant," I said. "We should then be able to see where we are."
+[FF-014-097]"Perhaps it would be better to return to the surface, Lieutenant," I said. "We should then be able to see where we are."
 
-"I think you are right, Mr. Hart, if you can point out just about where the tunnel is located."
+[FF-014-098]"I think you are right, Mr. Hart, if you can point out just about where the tunnel is located."
 
-"I think I can."
+[FF-014-099]"I think I can."
 
-"Very well, then."
+[FF-014-100]"Very well, then."
 
-As a precaution the light was turned off. The engineer set the pumps in motion, and, lightened of its water ballast, the boat slowly rose in the darkness to the surface.
+[FF-014-101]As a precaution the light was turned off. The engineer set the pumps in motion, and, lightened of its water ballast, the boat slowly rose in the darkness to the surface.
 
-I remained at my post so that I could peer through the lookouts.
+[FF-014-102]I remained at my post so that I could peer through the lookouts.
 
-At last the ascensional movement of the Sword stopped, and the periscope emerged about a foot.
+[FF-014-103]At last the ascensional movement of the Sword stopped, and the periscope emerged about a foot.
 
-On one side of me, lighted by the lamp by the shore, I could see the Beehive.
+[FF-014-104]On one side of me, lighted by the lamp by the shore, I could see the Beehive.
 
-"What is your opinion?" demanded the lieutenant.
+[FF-014-105]"What is your opinion?" demanded the lieutenant.
 
-"We are too far north. The orifice is in the west side of the cavern."
+[FF-014-106]"We are too far north. The orifice is in the west side of the cavern."
 
-"Is anybody about?"
+[FF-014-107]"Is anybody about?"
 
-"Not a soul."
+[FF-014-108]"Not a soul."
 
-"Capital, Mr. Hart. Then we will keep on a level with the surface, and when we are in front of the tunnel, and you give the signal, we will sink."
+[FF-014-109]"Capital, Mr. Hart. Then we will keep on a level with the surface, and when we are in front of the tunnel, and you give the signal, we will sink."
 
-It was the best thing to be done. We moved off again and the pilot kept her head towards the tunnel.
+[FF-014-110]It was the best thing to be done. We moved off again and the pilot kept her head towards the tunnel.
 
-When we were about twelve yards off I gave the signal to stop. As soon as the current was turned off the Sword stopped, opened her water tanks and slowly sank again.
+[FF-014-111]When we were about twelve yards off I gave the signal to stop. As soon as the current was turned off the Sword stopped, opened her water tanks and slowly sank again.
 
-Then the light in the lookout was turned on again, and there in front of us was a black circle that did not reflect the lamp's rays.
+[FF-014-112]Then the light in the lookout was turned on again, and there in front of us was a black circle that did not reflect the lamp's rays.
 
-"There it is, there is the tunnel!" I cried.
+[FF-014-113]"There it is, there is the tunnel!" I cried.
 
-Was it not the door by which I was going to escape from my prison? Was not liberty awaiting me on the other side?
+[FF-014-114]Was it not the door by which I was going to escape from my prison? Was not liberty awaiting me on the other side?
 
-Gently the Sword moved towards the orifice.
+[FF-014-115]Gently the Sword moved towards the orifice.
 
-Oh! the horrible mischance! How have I survived it? How is it that my heart is not broken?
+[FF-014-116]Oh! the horrible mischance! How have I survived it? How is it that my heart is not broken?
 
-A dim light appeared in the depth of the tunnel, about twenty-five yards in front of us. The advancing light could be none other than that, projected through the lookout of Ker Karraje's submarine boat.
+[FF-014-117]A dim light appeared in the depth of the tunnel, about twenty-five yards in front of us. The advancing light could be none other than that, projected through the lookout of Ker Karraje's submarine boat.
 
-"The tug! The tug!" I exclaimed. "Lieutenant, here is the tug returning to Back Cup!"
+[FF-014-118]"The tug! The tug!" I exclaimed. "Lieutenant, here is the tug returning to Back Cup!"
 
-"Full speed astern," ordered the officer, and the Sword drew back just as she was about to enter the tunnel.
+[FF-014-119]"Full speed astern," ordered the officer, and the Sword drew back just as she was about to enter the tunnel.
 
-One chance remained. The lieutenant had swiftly turned off the light, and it was just possible that we had not been seen by the people in the tug. Perhaps, in the dark waters of the lagoon, we should escape notice, and when the oncoming boat had risen and moored to the jetty, we should be able to slip out unperceived.
+[FF-014-120]One chance remained. The lieutenant had swiftly turned off the light, and it was just possible that we had not been seen by the people in the tug. Perhaps, in the dark waters of the lagoon, we should escape notice, and when the oncoming boat had risen and moored to the jetty, we should be able to slip out unperceived.
 
-We had backed close in to the south side and the Sword was about to stop, but alas, for our hopes! Captain Spade had seen that another submarine boat was about to issue through the tunnel, and he was making preparations to chase us. How could a frail craft like the Sword defend itself against the attacks of Ker Karraje's powerful machine?
+[FF-014-121]We had backed close in to the south side and the Sword was about to stop, but alas, for our hopes! Captain Spade had seen that another submarine boat was about to issue through the tunnel, and he was making preparations to chase us. How could a frail craft like the Sword defend itself against the attacks of Ker Karraje's powerful machine?
 
-Lieutenant Davon turned to me and said: "Go back to the compartment where Thomas Roch is and shut yourself in. I will close the after-door. There is just a chance that if the tug rams us the water-tight compartments will keep us up."
+[FF-014-122]Lieutenant Davon turned to me and said: "Go back to the compartment where Thomas Roch is and shut yourself in. I will close the after-door. There is just a chance that if the tug rams us the water-tight compartments will keep us up."
 
-After shaking hands with the lieutenant, who was as cool as though we were in no danger, I went forward and rejoined Thomas Roch. I closed the door and awaited the issue in profound darkness.
+[FF-014-123]After shaking hands with the lieutenant, who was as cool as though we were in no danger, I went forward and rejoined Thomas Roch. I closed the door and awaited the issue in profound darkness.
 
-Then I could feel the desperate efforts made by the Sword to escape from or ram her enemy. I could feel her rushing, gyrating and plunging. Now she would twist to avoid a collision. Now she would rise to the surface, then sink to the bottom of the lagoon. Can any one conceive such a struggle as that in which, like two marine monsters, these machines were engaged in beneath the troubled waters of this inland lake?
+[FF-014-124]Then I could feel the desperate efforts made by the Sword to escape from or ram her enemy. I could feel her rushing, gyrating and plunging. Now she would twist to avoid a collision. Now she would rise to the surface, then sink to the bottom of the lagoon. Can any one conceive such a struggle as that in which, like two marine monsters, these machines were engaged in beneath the troubled waters of this inland lake?
 
-A few minutes elapsed, and I began to think that the Sword had eluded the tug and was rushing through the tunnel.
+[FF-014-125]A few minutes elapsed, and I began to think that the Sword had eluded the tug and was rushing through the tunnel.
 
-Suddenly there was a collision. The shock was not, it seemed to me, very violent, but I could be under no illusion: the Sword had been struck on her starboard quarter. Perhaps her plates had resisted, and if not, the water would only invade one of her compartments, I thought.
+[FF-014-126]Suddenly there was a collision. The shock was not, it seemed to me, very violent, but I could be under no illusion: the Sword had been struck on her starboard quarter. Perhaps her plates had resisted, and if not, the water would only invade one of her compartments, I thought.
 
-Almost immediately after, however, there was another shock that pushed the Sword with extreme violence. She was raised by the ram of the tug which sawed and ripped its way into her side. Then I could feel her heel over and sink straight down, stern foremost.
+[FF-014-127]Almost immediately after, however, there was another shock that pushed the Sword with extreme violence. She was raised by the ram of the tug which sawed and ripped its way into her side. Then I could feel her heel over and sink straight down, stern foremost.
 
-Thomas Roch and I were tumbled over violently by. this movement. There was another bump, another ripping sound, and the Sword lay still.
+[FF-014-128]Thomas Roch and I were tumbled over violently by. this movement. There was another bump, another ripping sound, and the Sword lay still.
 
-Just what happened after that I am unable to say, for I lost consciousness.
+[FF-014-129]Just what happened after that I am unable to say, for I lost consciousness.
 
-I have since learned that all this occurred many hours ago.
+[FF-014-130]I have since learned that all this occurred many hours ago.
 
-I however distinctly remember that my last thought was:
+[FF-014-131]I however distinctly remember that my last thought was:
 
-"If I am to die, at any rate Thomas Roch and his secret perish with me--and the pirates of Back Cup will not escape punishment for their crimes."
+[FF-014-132]"If I am to die, at any rate Thomas Roch and his secret perish with me--and the pirates of Back Cup will not escape punishment for their crimes."

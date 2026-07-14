@@ -11,48 +11,48 @@ tags: [chapter]
 ---
 # The Survivors of the Chancellor — CHAPTER XXXIV
 
-DECEMBER 21st.--No further disturbance has taken place amongst the men. For a few hours the fish appeared again, and we caught a great many of them, and stored them away in an empty barrel. This addition to our stock of provisions makes us hope that food, at least, will not fail us.
+[SC2-034-001]DECEMBER 21st.--No further disturbance has taken place amongst the men. For a few hours the fish appeared again, and we caught a great many of them, and stored them away in an empty barrel. This addition to our stock of provisions makes us hope that food, at least, will not fail us.
 
-Usually the nights in the tropics are cool, but to-day, as evening drew on, the wonted freshness did not return, but the air remained stifling and oppressive, whilst heavy masses of vapour hung over the water.
+[SC2-034-002]Usually the nights in the tropics are cool, but to-day, as evening drew on, the wonted freshness did not return, but the air remained stifling and oppressive, whilst heavy masses of vapour hung over the water.
 
-There was no moonlight; there would be a new moon at half-past one in the morning, but the night was singularly dark, except for dazzling flashes of summer lightning that from time to time illumined the horizon far and wide. There was, however, no answering roll of thunder, and the silence of the atmosphere seemed almost awful, For a couple of hours, in the vain hope of catching a breath of air, Miss Herbey, Andre Letourneur, and I, sat watching the imposing struggle of the electric vapours. The clouds appeared like embattled turrets crested with flame, and the very sailors, coarse-minded men as they were, seemed struck with the grandeur of the spectacle, and regarded attentively, though with an anxious eye, the preliminary tokens of a coming storm. Until midnight we kept our seats upon the stern of the raft, whilst the lightning ever and again shed around us a livid glare similar to that produced by adding salt to lighted alcohol.
+[SC2-034-003]There was no moonlight; there would be a new moon at half-past one in the morning, but the night was singularly dark, except for dazzling flashes of summer lightning that from time to time illumined the horizon far and wide. There was, however, no answering roll of thunder, and the silence of the atmosphere seemed almost awful, For a couple of hours, in the vain hope of catching a breath of air, Miss Herbey, Andre Letourneur, and I, sat watching the imposing struggle of the electric vapours. The clouds appeared like embattled turrets crested with flame, and the very sailors, coarse-minded men as they were, seemed struck with the grandeur of the spectacle, and regarded attentively, though with an anxious eye, the preliminary tokens of a coming storm. Until midnight we kept our seats upon the stern of the raft, whilst the lightning ever and again shed around us a livid glare similar to that produced by adding salt to lighted alcohol.
 
-"Are you afraid of a storm, Miss Herbey?" said Andre to the girl.
+[SC2-034-004]"Are you afraid of a storm, Miss Herbey?" said Andre to the girl.
 
-"No, Mr. Andre, my feelings are always rather those of awe than of fear," she replied. "I consider a storm one of the sublimest phenomena that we can behold--don't you think so too?"
+[SC2-034-005]"No, Mr. Andre, my feelings are always rather those of awe than of fear," she replied. "I consider a storm one of the sublimest phenomena that we can behold--don't you think so too?"
 
-"Yes, and especially when the thunder is pealing," he said; "that majestic rolling, far different to the sharp crash of artillery, rises and falls like the long-drawn notes of the grandest music, and I can safely say that the tones of the most accomplished ARTISTE have never moved me like that incomparable voice of nature."
+[SC2-034-006]"Yes, and especially when the thunder is pealing," he said; "that majestic rolling, far different to the sharp crash of artillery, rises and falls like the long-drawn notes of the grandest music, and I can safely say that the tones of the most accomplished ARTISTE have never moved me like that incomparable voice of nature."
 
-"Rather a deep bass, though," I said, laughing.
+[SC2-034-007]"Rather a deep bass, though," I said, laughing.
 
-"That may be," he answered; "but I wish we might hear it now, for this silent lightning is somewhat unexpressive."
+[SC2-034-008]"That may be," he answered; "but I wish we might hear it now, for this silent lightning is somewhat unexpressive."
 
-"Never mind that, Andre" I said; "enjoy a storm when it comes, if you like, but pray don't wish for it."
+[SC2-034-009]"Never mind that, Andre" I said; "enjoy a storm when it comes, if you like, but pray don't wish for it."
 
-"And why not?" said he; "a storm will bring us wind, you know."
+[SC2-034-010]"And why not?" said he; "a storm will bring us wind, you know."
 
-"And water, too," added Miss Herbey, "the water of which we are so seriously in need."
+[SC2-034-011]"And water, too," added Miss Herbey, "the water of which we are so seriously in need."
 
-The young people evidently wished to regard the storm from their own point of view, and although I could have opposed plenty of common sense to their poetical sentiments, I said no more, but let them talk on as they pleased for fully an hour.
+[SC2-034-012]The young people evidently wished to regard the storm from their own point of view, and although I could have opposed plenty of common sense to their poetical sentiments, I said no more, but let them talk on as they pleased for fully an hour.
 
-Meantime the sky was becoming quite overclouded, and after the zodiacal constellations had disappeared in the mists that hung round the horizon, one by one the stars above our heads were veiled in dark rolling masses of vapour, from which every instant there issued forth sheets of electricity that formed a vivid background to the dark grey fragments of cloud that floated beneath.
+[SC2-034-013]Meantime the sky was becoming quite overclouded, and after the zodiacal constellations had disappeared in the mists that hung round the horizon, one by one the stars above our heads were veiled in dark rolling masses of vapour, from which every instant there issued forth sheets of electricity that formed a vivid background to the dark grey fragments of cloud that floated beneath.
 
-As the reservoir of electricity was confined to the higher strata of the atmosphere, the lightning was still unaccompanied by thunder; but the dryness of the air made it a weak conductor. Evidently the fluid could only escape by terrible shocks, and the storm must ere long burst forth with fearful violence.
+[SC2-034-014]As the reservoir of electricity was confined to the higher strata of the atmosphere, the lightning was still unaccompanied by thunder; but the dryness of the air made it a weak conductor. Evidently the fluid could only escape by terrible shocks, and the storm must ere long burst forth with fearful violence.
 
-This was the opinion of Curtis and the boatswain. The boatswain is only weather-wise from his experience as a sailor; but Curtis, in addition to his experience, has some scientific knowledge, and he pointed out to me an appearance in the sky known to meteorologists as a "cloud-ring," and scarcely ever seen beyond the regions of the torrid zone, which are impregnated by damp vapours brought from all quarters of the ocean by the action of the trade-winds.
+[SC2-034-015]This was the opinion of Curtis and the boatswain. The boatswain is only weather-wise from his experience as a sailor; but Curtis, in addition to his experience, has some scientific knowledge, and he pointed out to me an appearance in the sky known to meteorologists as a "cloud-ring," and scarcely ever seen beyond the regions of the torrid zone, which are impregnated by damp vapours brought from all quarters of the ocean by the action of the trade-winds.
 
-"Yes, Mr. Kazallon," said Curtis, "our raft has been driven into the region of storms, of which it has been justly remarked that any one endowed with very sensitive organs can at any moment distinguish the growlings of thunder."
+[SC2-034-016]"Yes, Mr. Kazallon," said Curtis, "our raft has been driven into the region of storms, of which it has been justly remarked that any one endowed with very sensitive organs can at any moment distinguish the growlings of thunder."
 
-"Hark!" I said, as I strained my ears to listen, "I think I can hear it now."
+[SC2-034-017]"Hark!" I said, as I strained my ears to listen, "I think I can hear it now."
 
-"You can," he answered; "yet what you hear is but the first warning of the storm which, in a couple of hours, will burst upon us with all its fury. But never mind, we must be ready for it."
+[SC2-034-018]"You can," he answered; "yet what you hear is but the first warning of the storm which, in a couple of hours, will burst upon us with all its fury. But never mind, we must be ready for it."
 
-Sleep, even if we wished it, would have been impossible in that stifling temperature. The lightning increased in brilliancy, and appeared from all quarters of the horizon, each flash covering large arcs, varying from 100deg. to 150deg., leaving the atmosphere pervaded by one incessant phosphorescent glow.
+[SC2-034-019]Sleep, even if we wished it, would have been impossible in that stifling temperature. The lightning increased in brilliancy, and appeared from all quarters of the horizon, each flash covering large arcs, varying from 100deg. to 150deg., leaving the atmosphere pervaded by one incessant phosphorescent glow.
 
-The thunder became at length more and more distinct, the reports, if I may use the expression, being "round," rather than rolling. It seemed almost as though the sky were padded with heavy clouds of which the elasticity muffled the sound of the electric bursts.
+[SC2-034-020]The thunder became at length more and more distinct, the reports, if I may use the expression, being "round," rather than rolling. It seemed almost as though the sky were padded with heavy clouds of which the elasticity muffled the sound of the electric bursts.
 
-Hitherto, the sea had been calm, almost stagnant as a pond. Now, however, long undulations took place, which the sailors recognized, all too well, as being the rebound produced by a distant tempest. A ship, in such a case, would have been instantly brought ahull, but no manoeuvring could be applied to our raft, which could only drift before the blast.
+[SC2-034-021]Hitherto, the sea had been calm, almost stagnant as a pond. Now, however, long undulations took place, which the sailors recognized, all too well, as being the rebound produced by a distant tempest. A ship, in such a case, would have been instantly brought ahull, but no manoeuvring could be applied to our raft, which could only drift before the blast.
 
-At one o'clock in the morning one vivid flash, followed, after the interval of a few seconds, by a loud report of thunder, announced that the storm was rapidly approaching. Suddenly the horizon was enveloped in a vapourous fog, and seemed to contract until it was close around us. At the same instant the voice of one of the sailors was heard shouting,--
+[SC2-034-022]At one o'clock in the morning one vivid flash, followed, after the interval of a few seconds, by a loud report of thunder, announced that the storm was rapidly approaching. Suddenly the horizon was enveloped in a vapourous fog, and seemed to contract until it was close around us. At the same instant the voice of one of the sailors was heard shouting,--
 
-"A squall! a squall!"
+[SC2-034-023]"A squall! a squall!"

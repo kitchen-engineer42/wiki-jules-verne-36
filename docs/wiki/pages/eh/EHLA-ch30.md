@@ -12,106 +12,106 @@ tags: [chapter]
 ---
 # Eight Hundred Leagues on the Amazon — CHAPTER X. A CANNON SHOT
 
-BENITO THEN HAD disappeared beneath the vast sheet which still covered the corpse of the adventurer. Ah! If he had had the power to divert the waters of the river, to turn them into vapor, or to drain them off--if he could have made the Frias basin dry down stream, from the bar up to the influx of the Rio Negro, the case hidden in Torres' clothes would already have been in his hand! His father's innocence would have been recognized! Joam Dacosta, restored to liberty, would have again started on the descent of the river, and what terrible trials would have been avoided!
+[EHLA-030-001]BENITO THEN HAD disappeared beneath the vast sheet which still covered the corpse of the adventurer. Ah! If he had had the power to divert the waters of the river, to turn them into vapor, or to drain them off--if he could have made the Frias basin dry down stream, from the bar up to the influx of the Rio Negro, the case hidden in Torres' clothes would already have been in his hand! His father's innocence would have been recognized! Joam Dacosta, restored to liberty, would have again started on the descent of the river, and what terrible trials would have been avoided!
 
-Benito had reached the bottom. His heavy shoes made the gravel on the bed crunch beneath him. He was in some ten or fifteen feet of water, at the base of the cliff, which was here very steep, and at the very spot where Torres had disappeared.
+[EHLA-030-002]Benito had reached the bottom. His heavy shoes made the gravel on the bed crunch beneath him. He was in some ten or fifteen feet of water, at the base of the cliff, which was here very steep, and at the very spot where Torres had disappeared.
 
-Near him was a tangled mass of reeds and twigs and aquatic plants, all laced together, which assuredly during the researches of the previous day no pole could have penetrated. It was consequently possible that the body was entangled among the submarine shrubs, and still in the place where it had originally fallen.
+[EHLA-030-003]Near him was a tangled mass of reeds and twigs and aquatic plants, all laced together, which assuredly during the researches of the previous day no pole could have penetrated. It was consequently possible that the body was entangled among the submarine shrubs, and still in the place where it had originally fallen.
 
-Hereabouts, thanks to the eddy produced by the prolongation of one of the spurs running out into the stream, the current was absolutely _nil_. Benito guided his movements by those of the raft, which the long poles of the Indians kept just over his head.
+[EHLA-030-004]Hereabouts, thanks to the eddy produced by the prolongation of one of the spurs running out into the stream, the current was absolutely _nil_. Benito guided his movements by those of the raft, which the long poles of the Indians kept just over his head.
 
-The light penetrated deep through the clear waters, and the magnificent sun, shining in a cloudless sky, shot its rays down into them unchecked. Under ordinary conditions, at a depth of some twenty feet in water, the view becomes exceedingly blurred, but here the waters seemed to be impregnated with a luminous fluid, and Benito was able to descend still lower without the darkness concealing the river bed.
+[EHLA-030-005]The light penetrated deep through the clear waters, and the magnificent sun, shining in a cloudless sky, shot its rays down into them unchecked. Under ordinary conditions, at a depth of some twenty feet in water, the view becomes exceedingly blurred, but here the waters seemed to be impregnated with a luminous fluid, and Benito was able to descend still lower without the darkness concealing the river bed.
 
-The young man slowly made his way along the bank. With his iron-shod spear he probed the plants and rubbish accumulated along its foot. Flocks of fish, if we can use such an expression, escaped on all sides from the dense thickets like flocks of birds. It seemed as though the thousand pieces of a broken mirror glimmered through the waters. At the same time scores of crustaceans scampered over the sand, like huge ants hurrying from their hills.
+[EHLA-030-006]The young man slowly made his way along the bank. With his iron-shod spear he probed the plants and rubbish accumulated along its foot. Flocks of fish, if we can use such an expression, escaped on all sides from the dense thickets like flocks of birds. It seemed as though the thousand pieces of a broken mirror glimmered through the waters. At the same time scores of crustaceans scampered over the sand, like huge ants hurrying from their hills.
 
-Notwithstanding that Benito did not leave a single point of the river unexplored, he never caught sight of the object of his search. He noticed, however, that the slope of the river bed was very abrupt, and he concluded that Torres had rolled beyond the eddy toward the center of the stream. If so, he would probably still recover the body, for the current could hardly touch it at the depth, which was already great, and seemed sensibly to increase. Benito then resolved to pursue his investigations on the side where he had begun to probe the vegetation. This was why he continued to advance in that direction, and the raft had to follow him during a quarter of an hour, as had been previously arranged.
+[EHLA-030-007]Notwithstanding that Benito did not leave a single point of the river unexplored, he never caught sight of the object of his search. He noticed, however, that the slope of the river bed was very abrupt, and he concluded that Torres had rolled beyond the eddy toward the center of the stream. If so, he would probably still recover the body, for the current could hardly touch it at the depth, which was already great, and seemed sensibly to increase. Benito then resolved to pursue his investigations on the side where he had begun to probe the vegetation. This was why he continued to advance in that direction, and the raft had to follow him during a quarter of an hour, as had been previously arranged.
 
-The quarter of an hour had elapsed, and Benito had found nothing. He felt the need of ascending to the surface, so as to once more experience those physiological conditions in which he could recoup his strength. In certain spots, where the depth of the river necessitated it, he had had to descend about thirty feet. He had thus to support a pressure almost equal to an atmosphere, with the result of the physical fatigue and mental agitation which attack those who are not used to this kind of work. Benito then pulled the communication cord, and the men on the raft commenced to haul him in, but they worked slowly, taking a minute to draw him up two or three feet so as not to produce in his internal organs the dreadful effects of decompression.
+[EHLA-030-008]The quarter of an hour had elapsed, and Benito had found nothing. He felt the need of ascending to the surface, so as to once more experience those physiological conditions in which he could recoup his strength. In certain spots, where the depth of the river necessitated it, he had had to descend about thirty feet. He had thus to support a pressure almost equal to an atmosphere, with the result of the physical fatigue and mental agitation which attack those who are not used to this kind of work. Benito then pulled the communication cord, and the men on the raft commenced to haul him in, but they worked slowly, taking a minute to draw him up two or three feet so as not to produce in his internal organs the dreadful effects of decompression.
 
-As soon as the young man had set foot on the raft the metallic sphere of the diving-dress was raised, and he took a long breath and sat down to rest.
+[EHLA-030-009]As soon as the young man had set foot on the raft the metallic sphere of the diving-dress was raised, and he took a long breath and sat down to rest.
 
-The pirogues immediately rowed alongside. Manoel, Fragoso, and Araujo came close to him, waiting for him to speak.
+[EHLA-030-010]The pirogues immediately rowed alongside. Manoel, Fragoso, and Araujo came close to him, waiting for him to speak.
 
-"Well?" asked Manoel.
+[EHLA-030-011]"Well?" asked Manoel.
 
-"Still nothing! Nothing!"
+[EHLA-030-012]"Still nothing! Nothing!"
 
-"Have you not seen a trace?"
+[EHLA-030-013]"Have you not seen a trace?"
 
-"Not one!"
+[EHLA-030-014]"Not one!"
 
-"Shall I go down now?"
+[EHLA-030-015]"Shall I go down now?"
 
-"No, Manoel," answered Benito; "I have begun; I know where to go. Let me do it!"
+[EHLA-030-016]"No, Manoel," answered Benito; "I have begun; I know where to go. Let me do it!"
 
-Benito then explained to the pilot that his intention was to visit the lower part of the bank up to the Bar of Frias, for there the slope had perhaps stopped the corpse, if, floating between the two streams, it had in the least degree been affected by the current. But first he wanted to skirt the bank and carefully explore a sort of hole formed in the slope of the bed, to the bottom of which the poles had evidently not been able to penetrate. Araujo approved of this plan, and made the necessary preparations.
+[EHLA-030-017]Benito then explained to the pilot that his intention was to visit the lower part of the bank up to the Bar of Frias, for there the slope had perhaps stopped the corpse, if, floating between the two streams, it had in the least degree been affected by the current. But first he wanted to skirt the bank and carefully explore a sort of hole formed in the slope of the bed, to the bottom of which the poles had evidently not been able to penetrate. Araujo approved of this plan, and made the necessary preparations.
 
-Manoel gave Benito a little advice. "As you want to pursue your search on that side," he said, "the raft will have to go over there obliquely; but mind what you are doing, Benito. That is much deeper than where you have been yet; it may be fifty or sixty feet, and you will have to support a pressure of quite two atmospheres. Only venture with extreme caution, or you may lose your presence of mind, or no longer know where you are or what to do. If your head feels as if in a vice, and your ears tingle, do not hesitate to give us the signal, and we will at once haul you up. You can then begin again if you like, as you will have got accustomed to move about in the deeper parts of the river."
+[EHLA-030-018]Manoel gave Benito a little advice. "As you want to pursue your search on that side," he said, "the raft will have to go over there obliquely; but mind what you are doing, Benito. That is much deeper than where you have been yet; it may be fifty or sixty feet, and you will have to support a pressure of quite two atmospheres. Only venture with extreme caution, or you may lose your presence of mind, or no longer know where you are or what to do. If your head feels as if in a vice, and your ears tingle, do not hesitate to give us the signal, and we will at once haul you up. You can then begin again if you like, as you will have got accustomed to move about in the deeper parts of the river."
 
-Benito promised to attend to these hints, of which he recognized the importance. He was particularly struck with the fact that his presence of mind might abandon him at the very moment he wanted it most.
+[EHLA-030-019]Benito promised to attend to these hints, of which he recognized the importance. He was particularly struck with the fact that his presence of mind might abandon him at the very moment he wanted it most.
 
-Benito shook hands with Manoel; the sphere of the diving-dress was again screwed to his neck, the pump began to work, and the diver once more disappeared beneath the stream.
+[EHLA-030-020]Benito shook hands with Manoel; the sphere of the diving-dress was again screwed to his neck, the pump began to work, and the diver once more disappeared beneath the stream.
 
-The raft was then taken about forty feet along the left bank, but as it moved toward the center of the river the current increased in strength, the ubas were moored, and the rowers kept it from drifting, so as only to allow it to advance with extreme slowness.
+[EHLA-030-021]The raft was then taken about forty feet along the left bank, but as it moved toward the center of the river the current increased in strength, the ubas were moored, and the rowers kept it from drifting, so as only to allow it to advance with extreme slowness.
 
-Benito descended very gently, and again found himself on the firm sand. When his heels touched the ground it could be seen, by the length of the haulage cord, that he was at a depth of some sixty-five or seventy feet. He was therefore in a considerable hole, excavated far below the ordinary level.
+[EHLA-030-022]Benito descended very gently, and again found himself on the firm sand. When his heels touched the ground it could be seen, by the length of the haulage cord, that he was at a depth of some sixty-five or seventy feet. He was therefore in a considerable hole, excavated far below the ordinary level.
 
-The liquid medium was more obscure, but the limpidity of these transparent waters still allowed the light to penetrate sufficiently for Benito to distinguish the objects scattered on the bed of the river, and to approach them with some safety. Besides, the sand, sprinkled with mica flakes, seemed to form a sort of reflector, and the very grains could be counted glittering like luminous dust.
+[EHLA-030-023]The liquid medium was more obscure, but the limpidity of these transparent waters still allowed the light to penetrate sufficiently for Benito to distinguish the objects scattered on the bed of the river, and to approach them with some safety. Besides, the sand, sprinkled with mica flakes, seemed to form a sort of reflector, and the very grains could be counted glittering like luminous dust.
 
-Benito moved on, examining and sounding the smallest cavities with his spear. He continued to advance very slowly; the communication cord was paid out, and as the pipes which served for the inlet and outlet of the air were never tightened, the pump was worked under the proper conditions.
+[EHLA-030-024]Benito moved on, examining and sounding the smallest cavities with his spear. He continued to advance very slowly; the communication cord was paid out, and as the pipes which served for the inlet and outlet of the air were never tightened, the pump was worked under the proper conditions.
 
-Benito turned off so as to reach the middle of the bed of the Amazon, where there was the greatest depression. Sometimes profound obscurity thickened around him, and then he could see nothing, so feeble was the light; but this was a purely passing phenomenon, and due to the raft, which, floating above his head, intercepted the solar rays and made the night replace the day. An instant afterward the huge shadow would be dissipated, and the reflection of the sands appear again in full force.
+[EHLA-030-025]Benito turned off so as to reach the middle of the bed of the Amazon, where there was the greatest depression. Sometimes profound obscurity thickened around him, and then he could see nothing, so feeble was the light; but this was a purely passing phenomenon, and due to the raft, which, floating above his head, intercepted the solar rays and made the night replace the day. An instant afterward the huge shadow would be dissipated, and the reflection of the sands appear again in full force.
 
-All the time Benito was going deeper. He felt the increase of the pressure with which his body was wrapped by the liquid mass. His respiration became less easy; the retractibility of his organs no longer worked with as much ease as in the midst of an atmosphere more conveniently adapted for them. And so he found himself under the action of physiological effects to which he was unaccustomed. The rumbling grew louder in his ears, but as his thought was always lucid, as he felt that the action of his brain was quite clear--even a little more so than usual--he delayed giving the signal for return, and continued to go down deeper still.
+[EHLA-030-026]All the time Benito was going deeper. He felt the increase of the pressure with which his body was wrapped by the liquid mass. His respiration became less easy; the retractibility of his organs no longer worked with as much ease as in the midst of an atmosphere more conveniently adapted for them. And so he found himself under the action of physiological effects to which he was unaccustomed. The rumbling grew louder in his ears, but as his thought was always lucid, as he felt that the action of his brain was quite clear--even a little more so than usual--he delayed giving the signal for return, and continued to go down deeper still.
 
-Suddenly, in the subdued light which surrounded him, his attention was attracted by a confused mass. It seemed to take the form of a corpse, entangled beneath a clump of aquatic plants. Intense excitement seized him. He stepped toward the mass; with his spear he felt it. It was the carcass of a huge cayman, already reduced to a skeleton, and which the current of the Rio Negro had swept into the bed of the Amazon. Benito recoiled, and, in spite of the assertions of the pilot, the thought recurred to him that some living cayman might even then be met with in the deeps near the Bar of Frias!
+[EHLA-030-027]Suddenly, in the subdued light which surrounded him, his attention was attracted by a confused mass. It seemed to take the form of a corpse, entangled beneath a clump of aquatic plants. Intense excitement seized him. He stepped toward the mass; with his spear he felt it. It was the carcass of a huge cayman, already reduced to a skeleton, and which the current of the Rio Negro had swept into the bed of the Amazon. Benito recoiled, and, in spite of the assertions of the pilot, the thought recurred to him that some living cayman might even then be met with in the deeps near the Bar of Frias!
 
-But he repelled the idea, and continued his progress, so as to reach the bottom of the depression.
+[EHLA-030-028]But he repelled the idea, and continued his progress, so as to reach the bottom of the depression.
 
-And now he had arrived at a depth of from eighty to a hundred feet, and consequently was experiencing a pressure of three atmospheres. If, then, this cavity was also drawn blank, he would have to suspend his researches.
+[EHLA-030-029]And now he had arrived at a depth of from eighty to a hundred feet, and consequently was experiencing a pressure of three atmospheres. If, then, this cavity was also drawn blank, he would have to suspend his researches.
 
-Experience has shown that the extreme limit for such submarine explorations lies between a hundred and twenty and a hundred and thirty feet, and that below this there is great danger, the human organism not only being hindered from performing his functions under such a pressure, but the apparatus failing to keep up a sufficient supply of air with the desirable regularity.
+[EHLA-030-030]Experience has shown that the extreme limit for such submarine explorations lies between a hundred and twenty and a hundred and thirty feet, and that below this there is great danger, the human organism not only being hindered from performing his functions under such a pressure, but the apparatus failing to keep up a sufficient supply of air with the desirable regularity.
 
-But Benito was resolved to go as far as his mental powers and physical energies would let him. By some strange presentiment he was drawn toward this abyss; it seemed to him as though the corpse was very likely to have rolled to the bottom of the hole, and that Torres, if he had any heavy things about him, such as a belt containing either money or arms, would have sunk to the very lowest point. Of a sudden, in a deep hollow, he saw a body through the gloom! Yes! A corpse, still clothed, stretched out like a man asleep, with his arms folded under his head!
+[EHLA-030-031]But Benito was resolved to go as far as his mental powers and physical energies would let him. By some strange presentiment he was drawn toward this abyss; it seemed to him as though the corpse was very likely to have rolled to the bottom of the hole, and that Torres, if he had any heavy things about him, such as a belt containing either money or arms, would have sunk to the very lowest point. Of a sudden, in a deep hollow, he saw a body through the gloom! Yes! A corpse, still clothed, stretched out like a man asleep, with his arms folded under his head!
 
-Was that Torres? In the obscurity, then very dense, he found it difficult to see; but it was a human body that lay there, less than ten paces off, and perfectly motionless!
+[EHLA-030-032]Was that Torres? In the obscurity, then very dense, he found it difficult to see; but it was a human body that lay there, less than ten paces off, and perfectly motionless!
 
-A sharp pang shot through Benito. His heart, for an instant, ceased to beat. He thought he was going to lose consciousness. By a supreme effort he recovered himself. He stepped toward the corpse.
+[EHLA-030-033]A sharp pang shot through Benito. His heart, for an instant, ceased to beat. He thought he was going to lose consciousness. By a supreme effort he recovered himself. He stepped toward the corpse.
 
-Suddenly a shock as violent as unexpected made his whole frame vibrate! A long whip seemed to twine round his body, and in spite of the thick diving-dress he felt himself lashed again and again.
+[EHLA-030-034]Suddenly a shock as violent as unexpected made his whole frame vibrate! A long whip seemed to twine round his body, and in spite of the thick diving-dress he felt himself lashed again and again.
 
-"A gymnotus!" he said.
+[EHLA-030-035]"A gymnotus!" he said.
 
-It was the only word that passed his lips.
+[EHLA-030-036]It was the only word that passed his lips.
 
-In fact, it was a _"puraque,"_ the name given by the Brazilians to the gymnotus, or electric snake, which had just attacked him.
+[EHLA-030-037]In fact, it was a _"puraque,"_ the name given by the Brazilians to the gymnotus, or electric snake, which had just attacked him.
 
-It is well known that the gymnotus is a kind of eel, with a blackish, slimy skin, furnished along the back and tail with an apparatus composed of plates joined by vertical lamellæ, and acted on by nerves of considerable power. This apparatus is endowed with singular electrical properties, and is apt to produce very formidable results. Some of these gymnotuses are about the length of a common snake, others are about ten feet long, while others, which, however, are rare, even reach fifteen or twenty feet, and are from eight to ten inches in diameter.
+[EHLA-030-038]It is well known that the gymnotus is a kind of eel, with a blackish, slimy skin, furnished along the back and tail with an apparatus composed of plates joined by vertical lamellæ, and acted on by nerves of considerable power. This apparatus is endowed with singular electrical properties, and is apt to produce very formidable results. Some of these gymnotuses are about the length of a common snake, others are about ten feet long, while others, which, however, are rare, even reach fifteen or twenty feet, and are from eight to ten inches in diameter.
 
-Gymnotuses are plentiful enough both in the Amazon and its tributaries; and it was one of these living coils, about ten feet long, which, after uncurving itself like a bow, again attacked the diver.
+[EHLA-030-039]Gymnotuses are plentiful enough both in the Amazon and its tributaries; and it was one of these living coils, about ten feet long, which, after uncurving itself like a bow, again attacked the diver.
 
-Benito knew what he had to fear from this formidable animal. His clothes were powerless to protect him. The discharges of the gymnotus, at first somewhat weak, become more and more violent, and there would come a time when, exhausted by the shocks, he would be rendered powerless.
+[EHLA-030-040]Benito knew what he had to fear from this formidable animal. His clothes were powerless to protect him. The discharges of the gymnotus, at first somewhat weak, become more and more violent, and there would come a time when, exhausted by the shocks, he would be rendered powerless.
 
-Benito, unable to resist the blows, half-dropped upon the sand. His limbs were becoming paralyzed little by little under the electric influences of the gymnotus, which lightly touched his body as it wrapped him in its folds. His arms even he could not lift, and soon his spear escaped him, and his hand had not strength enough left to pull the cord and give the signal.
+[EHLA-030-041]Benito, unable to resist the blows, half-dropped upon the sand. His limbs were becoming paralyzed little by little under the electric influences of the gymnotus, which lightly touched his body as it wrapped him in its folds. His arms even he could not lift, and soon his spear escaped him, and his hand had not strength enough left to pull the cord and give the signal.
 
-Benito felt that he was lost. Neither Manoel nor his companions could suspect the horrible combat which was going on beneath them between the formidable puraque and the unhappy diver, who only fought to suffer, without any power of defending himself.
+[EHLA-030-042]Benito felt that he was lost. Neither Manoel nor his companions could suspect the horrible combat which was going on beneath them between the formidable puraque and the unhappy diver, who only fought to suffer, without any power of defending himself.
 
-And that at the moment when a body--the body of Torres without a doubt!--had just met his view.
+[EHLA-030-043]And that at the moment when a body--the body of Torres without a doubt!--had just met his view.
 
-By a supreme instinct of self-preservation Benito uttered a cry. His voice was lost in the metallic sphere from which not a sound could escape!
+[EHLA-030-044]By a supreme instinct of self-preservation Benito uttered a cry. His voice was lost in the metallic sphere from which not a sound could escape!
 
-And now the puraque redoubled its attacks; it gave forth shock after shock, which made Benito writhe on the sand like the sections of a divided worm, and his muscles were wrenched again and again beneath the living lash.
+[EHLA-030-045]And now the puraque redoubled its attacks; it gave forth shock after shock, which made Benito writhe on the sand like the sections of a divided worm, and his muscles were wrenched again and again beneath the living lash.
 
-Benito thought that all was over; his eyes grew dim, his limbs began to stiffen.
+[EHLA-030-046]Benito thought that all was over; his eyes grew dim, his limbs began to stiffen.
 
-But before he quite lost his power of sight and reason he became the witness of a phenomenon, unexpected, inexplicable, and marvelous in the extreme.
+[EHLA-030-047]But before he quite lost his power of sight and reason he became the witness of a phenomenon, unexpected, inexplicable, and marvelous in the extreme.
 
-A deadened roar resounded through the liquid depths. It was like a thunder-clap, the reverberations of which rolled along the river bed, then violently agitated by the electrical discharges of the gymnotus. Benito felt himself bathed as it were in the dreadful booming which found an echo in the very deepest of the river depths.
+[EHLA-030-048]A deadened roar resounded through the liquid depths. It was like a thunder-clap, the reverberations of which rolled along the river bed, then violently agitated by the electrical discharges of the gymnotus. Benito felt himself bathed as it were in the dreadful booming which found an echo in the very deepest of the river depths.
 
-And then a last cry escaped him, for fearful was the vision which appeared before his eyes!
+[EHLA-030-049]And then a last cry escaped him, for fearful was the vision which appeared before his eyes!
 
-The corpse of the drowned man which had been stretched on the sand arose! The undulations of the water lifted up the arms, and they swayed about as if with some peculiar animation. Convulsive throbs made the movement of the corpse still more alarming.
+[EHLA-030-050]The corpse of the drowned man which had been stretched on the sand arose! The undulations of the water lifted up the arms, and they swayed about as if with some peculiar animation. Convulsive throbs made the movement of the corpse still more alarming.
 
-It was indeed the body of Torres. One of the suns rays shot down to it through the liquid mass, and Benito recognized the bloated, ashy features of the scoundrel who fell by his own hand, and whose last breath had left him beneath the waters.
+[EHLA-030-051]It was indeed the body of Torres. One of the suns rays shot down to it through the liquid mass, and Benito recognized the bloated, ashy features of the scoundrel who fell by his own hand, and whose last breath had left him beneath the waters.
 
-And while Benito could not make a single movement with his paralyzed limbs, while his heavy shoes kept him down as if he had been nailed to the sand, the corpse straightened itself up, the head swayed to and fro, and disentangling itself from the hole in which it had been kept by a mass of aquatic weeds, it slowly ascended to the surface of the Amazon.
+[EHLA-030-052]And while Benito could not make a single movement with his paralyzed limbs, while his heavy shoes kept him down as if he had been nailed to the sand, the corpse straightened itself up, the head swayed to and fro, and disentangling itself from the hole in which it had been kept by a mass of aquatic weeds, it slowly ascended to the surface of the Amazon.

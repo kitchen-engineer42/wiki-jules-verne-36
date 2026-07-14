@@ -11,166 +11,166 @@ tags: [chapter]
 ---
 # In Search of the Castaways — CHAPTER XVIII FOUR DAYS OF ANGUISH
 
-THE rest of the day passed on without any further incident. All the preparations for Mulrady's journey were completed, and the brave sailor rejoiced in being able to give his Lordship this proof of devotion.
+[SC-044-001]THE rest of the day passed on without any further incident. All the preparations for Mulrady's journey were completed, and the brave sailor rejoiced in being able to give his Lordship this proof of devotion.
 
-Paganel had recovered his usual _sang-froid_ and manners. His look, indeed, betrayed his preoccupation, but he seemed resolved to keep it secret. No doubt he had strong reasons for this course of action, for the Major heard him repeating, like a man struggling with himself: "No, no, they would not believe it; and, besides, what good would it be? It is too late!"
+[SC-044-002]Paganel had recovered his usual _sang-froid_ and manners. His look, indeed, betrayed his preoccupation, but he seemed resolved to keep it secret. No doubt he had strong reasons for this course of action, for the Major heard him repeating, like a man struggling with himself: "No, no, they would not believe it; and, besides, what good would it be? It is too late!"
 
-Having taken this resolution, he busied himself with giving Mulrady the necessary directions for getting to Melbourne, and showed him his way on the map. All the TRACKS, that is to say, paths through the prairie, came out on the road to Lucknow. This road, after running right down to the coast took a sudden bend in the direction of Melbourne. This was the route that must be followed steadily, for it would not do to attempt a short cut across an almost unknown country. Nothing, consequently, could be more simple. Mulrady could not lose his way.
+[SC-044-003]Having taken this resolution, he busied himself with giving Mulrady the necessary directions for getting to Melbourne, and showed him his way on the map. All the TRACKS, that is to say, paths through the prairie, came out on the road to Lucknow. This road, after running right down to the coast took a sudden bend in the direction of Melbourne. This was the route that must be followed steadily, for it would not do to attempt a short cut across an almost unknown country. Nothing, consequently, could be more simple. Mulrady could not lose his way.
 
-As to dangers, there were none after he had gone a few miles beyond the encampment, out of the reach of Ben Joyce and his gang. Once past their hiding place, Mulrady was certain of soon being able to outdistance the convicts, and execute his important mission successfully.
+[SC-044-004]As to dangers, there were none after he had gone a few miles beyond the encampment, out of the reach of Ben Joyce and his gang. Once past their hiding place, Mulrady was certain of soon being able to outdistance the convicts, and execute his important mission successfully.
 
-At six o'clock they all dined together. The rain was falling in torrents. The tent was not protection enough, and the whole party had to take refuge in the wagon. This was a sure refuge. The clay kept it firmly imbedded in the soil, like a fortress resting on sure foundations. The arsenal was composed of seven carbines and seven revolvers, and could stand a pretty long siege, for they had plenty of ammunition and provisions. But before six days were over, the DUNCAN would anchor in Twofold Bay, and twenty-four hours after her crew would reach the other shore of the Snowy River; and should the passage still remain impracticable, the convicts at any rate would be forced to retire before the increased strength. But all depended on Mulrady's success in his perilous enterprise.
+[SC-044-005]At six o'clock they all dined together. The rain was falling in torrents. The tent was not protection enough, and the whole party had to take refuge in the wagon. This was a sure refuge. The clay kept it firmly imbedded in the soil, like a fortress resting on sure foundations. The arsenal was composed of seven carbines and seven revolvers, and could stand a pretty long siege, for they had plenty of ammunition and provisions. But before six days were over, the DUNCAN would anchor in Twofold Bay, and twenty-four hours after her crew would reach the other shore of the Snowy River; and should the passage still remain impracticable, the convicts at any rate would be forced to retire before the increased strength. But all depended on Mulrady's success in his perilous enterprise.
 
-At eight o'clock it got very dark; now was the time to start. The horse prepared for Mulrady was brought out. His feet, by way of extra precaution, were wrapped round with cloths, so that they could not make the least noise on the ground. The animal seemed tired, and yet the safety of all depended on his strength and surefootedness. The Major advised Mulrady to let him go gently as soon as he got past the convicts. Better delay half-a-day than not arrive safely.
+[SC-044-006]At eight o'clock it got very dark; now was the time to start. The horse prepared for Mulrady was brought out. His feet, by way of extra precaution, were wrapped round with cloths, so that they could not make the least noise on the ground. The animal seemed tired, and yet the safety of all depended on his strength and surefootedness. The Major advised Mulrady to let him go gently as soon as he got past the convicts. Better delay half-a-day than not arrive safely.
 
-John Mangles gave his sailor a revolver, which he had loaded with the utmost care. This is a formidable weapon in the hand of a man who does not tremble, for six shots fired in a few seconds would easily clear a road infested with criminals. Mulrady seated himself in the saddle ready to start.
+[SC-044-007]John Mangles gave his sailor a revolver, which he had loaded with the utmost care. This is a formidable weapon in the hand of a man who does not tremble, for six shots fired in a few seconds would easily clear a road infested with criminals. Mulrady seated himself in the saddle ready to start.
 
-"Here is the letter you are to give to Tom Austin," said Glenarvan. "Don't let him lose an hour. He is to sail for Twofold Bay at once; and if he does not find us there, if we have not managed to cross the Snowy, let him come on to us without delay. Now go, my brave sailor, and God be with you."
+[SC-044-008]"Here is the letter you are to give to Tom Austin," said Glenarvan. "Don't let him lose an hour. He is to sail for Twofold Bay at once; and if he does not find us there, if we have not managed to cross the Snowy, let him come on to us without delay. Now go, my brave sailor, and God be with you."
 
-He shook hands with him, and bade him good-by; and so did Lady Helena and Mary Grant. A more timorous man than the sailor would have shrunk back a little from setting out on such a dark, raining night on an errand so full of danger, across vast unknown wilds. But his farewells were calmly spoken, and he speedily disappeared down a path which skirted the wood.
+[SC-044-009]He shook hands with him, and bade him good-by; and so did Lady Helena and Mary Grant. A more timorous man than the sailor would have shrunk back a little from setting out on such a dark, raining night on an errand so full of danger, across vast unknown wilds. But his farewells were calmly spoken, and he speedily disappeared down a path which skirted the wood.
 
-At the same moment the gusts of wind redoubled their violence. The high branches of the eucalyptus clattered together noisily, and bough after bough fell on the wet ground. More than one great tree, with no living sap, but still standing hitherto, fell with a crash during this storm. The wind howled amid the cracking wood, and mingled its moans with the ominous roaring of the rain. The heavy clouds, driving along toward the east, hung on the ground like rays of vapor, and deep, cheerless gloom intensified the horrors of the night.
+[SC-044-010]At the same moment the gusts of wind redoubled their violence. The high branches of the eucalyptus clattered together noisily, and bough after bough fell on the wet ground. More than one great tree, with no living sap, but still standing hitherto, fell with a crash during this storm. The wind howled amid the cracking wood, and mingled its moans with the ominous roaring of the rain. The heavy clouds, driving along toward the east, hung on the ground like rays of vapor, and deep, cheerless gloom intensified the horrors of the night.
 
-The travelers went back into the wagon immediately Mulrady had gone. Lady Helena, Mary Grant, Glenarvan and Paganel occupied the first compartment, which had been hermetically closed. The second was occupied by Olbinett, Wilson and Robert. The Major and John Mangles were on duty outside. This precaution was necessary, for an attack on the part of the convicts would be easy enough, and therefore probable enough.
+[SC-044-011]The travelers went back into the wagon immediately Mulrady had gone. Lady Helena, Mary Grant, Glenarvan and Paganel occupied the first compartment, which had been hermetically closed. The second was occupied by Olbinett, Wilson and Robert. The Major and John Mangles were on duty outside. This precaution was necessary, for an attack on the part of the convicts would be easy enough, and therefore probable enough.
 
-The two faithful guardians kept close watch, bearing philosophically the rain and wind that beat on their faces. They tried to pierce through the darkness so favorable to ambushes, for nothing could be heard but the noise of the tempest, the sough of the wind, the rattling branches, falling trees, and roaring of the unchained waters.
+[SC-044-012]The two faithful guardians kept close watch, bearing philosophically the rain and wind that beat on their faces. They tried to pierce through the darkness so favorable to ambushes, for nothing could be heard but the noise of the tempest, the sough of the wind, the rattling branches, falling trees, and roaring of the unchained waters.
 
-At times the wind would cease for a few moments, as if to take breath. Nothing was audible but the moan of the Snowy River, as it flowed between the motionless reeds and the dark curtain of gum trees. The silence seemed deeper in these momentary lulls, and the Major and John Mangles listened attentively.
+[SC-044-013]At times the wind would cease for a few moments, as if to take breath. Nothing was audible but the moan of the Snowy River, as it flowed between the motionless reeds and the dark curtain of gum trees. The silence seemed deeper in these momentary lulls, and the Major and John Mangles listened attentively.
 
-During one of these calms a sharp whistle reached them. John Mangles went hurriedly up to the Major. "You heard that?" he asked.
+[SC-044-014]During one of these calms a sharp whistle reached them. John Mangles went hurriedly up to the Major. "You heard that?" he asked.
 
-"Yes," said McNabbs. "Is it man or beast?"
+[SC-044-015]"Yes," said McNabbs. "Is it man or beast?"
 
-"A man," replied John Mangles.
+[SC-044-016]"A man," replied John Mangles.
 
-And then both listened. The mysterious whistle was repeated, and answered by a kind of report, but almost indistinguishable, for the storm was raging with renewed violence. McNabbs and John Mangles could not hear themselves speak. They went for comfort under the shelter of the wagon.
+[SC-044-017]And then both listened. The mysterious whistle was repeated, and answered by a kind of report, but almost indistinguishable, for the storm was raging with renewed violence. McNabbs and John Mangles could not hear themselves speak. They went for comfort under the shelter of the wagon.
 
-At this moment the leather curtains were raised and Glenarvan rejoined his two companions. He too had heard this ill-boding whistle, and the report which echoed under the tilt. "Which way was it?" asked he.
+[SC-044-018]At this moment the leather curtains were raised and Glenarvan rejoined his two companions. He too had heard this ill-boding whistle, and the report which echoed under the tilt. "Which way was it?" asked he.
 
-"There," said John, pointing to the dark track in the direction taken by Mulrady.
+[SC-044-019]"There," said John, pointing to the dark track in the direction taken by Mulrady.
 
-"How far?"
+[SC-044-020]"How far?"
 
-"The wind brought it; I should think, three or four miles, at least."
+[SC-044-021]"The wind brought it; I should think, three or four miles, at least."
 
-"Come," said Glenarvan, putting his gun on his shoulder.
+[SC-044-022]"Come," said Glenarvan, putting his gun on his shoulder.
 
-"No," said the Major. "It is a decoy to get us away from the wagon."
+[SC-044-023]"No," said the Major. "It is a decoy to get us away from the wagon."
 
-"But if Mulrady has even now fallen beneath the blows of these rascals?" exclaimed Glenarvan, seizing McNabbs by the hand.
+[SC-044-024]"But if Mulrady has even now fallen beneath the blows of these rascals?" exclaimed Glenarvan, seizing McNabbs by the hand.
 
-"We shall know by to-morrow," said the Major, coolly, determined to prevent Glenarvan from taking a step which was equally rash and futile.
+[SC-044-025]"We shall know by to-morrow," said the Major, coolly, determined to prevent Glenarvan from taking a step which was equally rash and futile.
 
-"You cannot leave the camp, my Lord," said John. "I will go alone."
+[SC-044-026]"You cannot leave the camp, my Lord," said John. "I will go alone."
 
-"You will do nothing of the kind!" cried McNabbs, energetically. "Do you want to have us killed one by one to diminish our force, and put us at the mercy of these wretches? If Mulrady has fallen a victim to them, it is a misfortune that must not be repeated. Mulrady was sent, chosen by chance. If the lot had fallen to me, I should have gone as he did; but I should neither have asked nor expected assistance."
+[SC-044-027]"You will do nothing of the kind!" cried McNabbs, energetically. "Do you want to have us killed one by one to diminish our force, and put us at the mercy of these wretches? If Mulrady has fallen a victim to them, it is a misfortune that must not be repeated. Mulrady was sent, chosen by chance. If the lot had fallen to me, I should have gone as he did; but I should neither have asked nor expected assistance."
 
-In restraining Glenarvan and John Mangles, the Major was right in every aspect of the case. To attempt to follow the sailor, to run in the darkness of night among the convicts in their leafy ambush was madness, and more than that--it was useless. Glenarvan's party was not so numerous that it could afford to sacrifice another member of it.
+[SC-044-028]In restraining Glenarvan and John Mangles, the Major was right in every aspect of the case. To attempt to follow the sailor, to run in the darkness of night among the convicts in their leafy ambush was madness, and more than that--it was useless. Glenarvan's party was not so numerous that it could afford to sacrifice another member of it.
 
-Still Glenarvan seemed as if he could not yield; his hand was always on his carbine. He wandered about the wagon, and bent a listening ear to the faintest sound. The thought that one of his men was perhaps mortally wounded, abandoned to his fate, calling in vain on those for whose sake he had gone forth, was a torture to him. McNabbs was not sure that he should be able to restrain him, or if Glenarvan, carried away by his feelings, would not run into the arms of Ben Joyce.
+[SC-044-029]Still Glenarvan seemed as if he could not yield; his hand was always on his carbine. He wandered about the wagon, and bent a listening ear to the faintest sound. The thought that one of his men was perhaps mortally wounded, abandoned to his fate, calling in vain on those for whose sake he had gone forth, was a torture to him. McNabbs was not sure that he should be able to restrain him, or if Glenarvan, carried away by his feelings, would not run into the arms of Ben Joyce.
 
-"Edward," said he, "be calm. Listen to me as a friend. Think of Lady Helena, of Mary Grant, of all who are left. And, besides, where would you go? Where would you find Mulrady? He must have been attacked two miles off. In what direction? Which track would you follow?"
+[SC-044-030]"Edward," said he, "be calm. Listen to me as a friend. Think of Lady Helena, of Mary Grant, of all who are left. And, besides, where would you go? Where would you find Mulrady? He must have been attacked two miles off. In what direction? Which track would you follow?"
 
-At that very moment, as if to answer the Major, a cry of distress was heard.
+[SC-044-031]At that very moment, as if to answer the Major, a cry of distress was heard.
 
-"Listen!" said Glenarvan.
+[SC-044-032]"Listen!" said Glenarvan.
 
-This cry came from the same quarter as the report, but less than a quarter of a mile off.
+[SC-044-033]This cry came from the same quarter as the report, but less than a quarter of a mile off.
 
-Glenarvan, repulsing McNabbs, was already on the track, when at three hundred paces from the wagon they heard the exclamation: "Help! help!"
+[SC-044-034]Glenarvan, repulsing McNabbs, was already on the track, when at three hundred paces from the wagon they heard the exclamation: "Help! help!"
 
-The voice was plaintive and despairing. John Mangles and the Major sprang toward the spot. A few seconds after they perceived among the scrub a human form dragging itself along the ground and uttering mournful groans. It was Mulrady, wounded, apparently dying; and when his companions raised him they felt their hands bathed in blood.
+[SC-044-035]The voice was plaintive and despairing. John Mangles and the Major sprang toward the spot. A few seconds after they perceived among the scrub a human form dragging itself along the ground and uttering mournful groans. It was Mulrady, wounded, apparently dying; and when his companions raised him they felt their hands bathed in blood.
 
-The rain came down with redoubled violence, and the wind raged among the branches of the dead trees. In the pelting storm, Glenarvan, the Major and John Mangles transported the body of Mulrady.
+[SC-044-036]The rain came down with redoubled violence, and the wind raged among the branches of the dead trees. In the pelting storm, Glenarvan, the Major and John Mangles transported the body of Mulrady.
 
-On their arrival everyone got up. Paganel, Robert, Wilson and Olbinett left the wagon, and Lady Helena gave up her compartment to poor Mulrady. The Major removed the poor fellow's flannel shirt, which was dripping with blood and rain. He soon found the wound; it was a stab in the right side.
+[SC-044-037]On their arrival everyone got up. Paganel, Robert, Wilson and Olbinett left the wagon, and Lady Helena gave up her compartment to poor Mulrady. The Major removed the poor fellow's flannel shirt, which was dripping with blood and rain. He soon found the wound; it was a stab in the right side.
 
-McNabbs dressed it with great skill. He could not tell whether the weapon had touched any vital part. An intermittent jet of scarlet blood flowed from it; the patient's paleness and weakness showed that he was seriously injured. The Major washed the wound first with fresh water and then closed the orifice; after this he put on a thick pad of lint, and then folds of scraped linen held firmly in place with a bandage. He succeeded in stopping the hemorrhage. Mulrady was laid on his side, with his head and chest well raised, and Lady Helena succeeded in making him swallow a few drops of water.
+[SC-044-038]McNabbs dressed it with great skill. He could not tell whether the weapon had touched any vital part. An intermittent jet of scarlet blood flowed from it; the patient's paleness and weakness showed that he was seriously injured. The Major washed the wound first with fresh water and then closed the orifice; after this he put on a thick pad of lint, and then folds of scraped linen held firmly in place with a bandage. He succeeded in stopping the hemorrhage. Mulrady was laid on his side, with his head and chest well raised, and Lady Helena succeeded in making him swallow a few drops of water.
 
-After about a quarter of an hour, the wounded man, who till then had lain motionless, made a slight movement. His eyes unclosed, his lips muttered incoherent words, and the Major, bending toward him, heard him repeating: "My Lord--the letter--Ben Joyce."
+[SC-044-039]After about a quarter of an hour, the wounded man, who till then had lain motionless, made a slight movement. His eyes unclosed, his lips muttered incoherent words, and the Major, bending toward him, heard him repeating: "My Lord--the letter--Ben Joyce."
 
-The Major repeated these words, and looked at his companions. What did Mulrady mean? Ben Joyce had been the attacking party, of course; but why? Surely for the express purpose of intercepting him, and preventing his arrival at the DUNCAN. This letter--
+[SC-044-040]The Major repeated these words, and looked at his companions. What did Mulrady mean? Ben Joyce had been the attacking party, of course; but why? Surely for the express purpose of intercepting him, and preventing his arrival at the DUNCAN. This letter--
 
-Glenarvan searched Mulrady's pockets. The letter addressed to Tom Austin was gone!
+[SC-044-041]Glenarvan searched Mulrady's pockets. The letter addressed to Tom Austin was gone!
 
-The night wore away amid anxiety and distress; every moment, they feared, would be poor Mulrady's last. He suffered from acute fever. The Sisters of Charity, Lady Helena and Mary Grant, never left him. Never was patient so well tended, nor by such sympathetic hands.
+[SC-044-042]The night wore away amid anxiety and distress; every moment, they feared, would be poor Mulrady's last. He suffered from acute fever. The Sisters of Charity, Lady Helena and Mary Grant, never left him. Never was patient so well tended, nor by such sympathetic hands.
 
-Day came, and the rain had ceased. Great clouds filled the sky still; the ground was strewn with broken branches; the marly soil, soaked by the torrents of rain, had yielded still more; the approaches to the wagon became difficult, but it could not sink any deeper.
+[SC-044-043]Day came, and the rain had ceased. Great clouds filled the sky still; the ground was strewn with broken branches; the marly soil, soaked by the torrents of rain, had yielded still more; the approaches to the wagon became difficult, but it could not sink any deeper.
 
-John Mangles, Paganel, and Glenarvan went, as soon as it was light enough, to reconnoiter in the neighborhood of the encampment. They revisited the track, which was still stained with blood. They saw no vestige of Ben Joyce, nor of his band. They penetrated as far as the scene of the attack. Here two corpses lay on the ground, struck down by Mulrady's bullets. One was the blacksmith of Blackpoint. His face, already changed by death, was a dreadful spectacle. Glenarvan searched no further. Prudence forbade him to wander from the camp. He returned to the wagon, deeply absorbed by the critical position of affairs.
+[SC-044-044]John Mangles, Paganel, and Glenarvan went, as soon as it was light enough, to reconnoiter in the neighborhood of the encampment. They revisited the track, which was still stained with blood. They saw no vestige of Ben Joyce, nor of his band. They penetrated as far as the scene of the attack. Here two corpses lay on the ground, struck down by Mulrady's bullets. One was the blacksmith of Blackpoint. His face, already changed by death, was a dreadful spectacle. Glenarvan searched no further. Prudence forbade him to wander from the camp. He returned to the wagon, deeply absorbed by the critical position of affairs.
 
-"We must not think of sending another messenger to Melbourne," said he.
+[SC-044-045]"We must not think of sending another messenger to Melbourne," said he.
 
-"But we must," said John Mangles; "and I must try to pass where my sailor could not succeed."
+[SC-044-046]"But we must," said John Mangles; "and I must try to pass where my sailor could not succeed."
 
-"No, John! it is out of the question. You have not even a horse for the journey, which is full two hundred miles!"
+[SC-044-047]"No, John! it is out of the question. You have not even a horse for the journey, which is full two hundred miles!"
 
-This was true, for Mulrady's horse, the only one that remained, had not returned. Had he fallen during the attack on his rider, or was he straying in the bush, or had the convicts carried him off?
+[SC-044-048]This was true, for Mulrady's horse, the only one that remained, had not returned. Had he fallen during the attack on his rider, or was he straying in the bush, or had the convicts carried him off?
 
-"Come what will," replied Glenarvan, "we will not separate again. Let us wait a week, or a fortnight, till the Snowy falls to its normal level. We can then reach Twofold Bay by short stages, and from there we can send on to the DUNCAN, by a safer channel, the order to meet us."
+[SC-044-049]"Come what will," replied Glenarvan, "we will not separate again. Let us wait a week, or a fortnight, till the Snowy falls to its normal level. We can then reach Twofold Bay by short stages, and from there we can send on to the DUNCAN, by a safer channel, the order to meet us."
 
-"That seems the only plan," said Paganel.
+[SC-044-050]"That seems the only plan," said Paganel.
 
-"Therefore, my friends," rejoined Glenarvan, "no more parting. It is too great a risk for one man to venture alone into a robber-haunted waste. And now, may God save our poor sailor, and protect the rest of us!"
+[SC-044-051]"Therefore, my friends," rejoined Glenarvan, "no more parting. It is too great a risk for one man to venture alone into a robber-haunted waste. And now, may God save our poor sailor, and protect the rest of us!"
 
-Glenarvan was right in both points; first in prohibiting all isolated attempts, and second, in deciding to wait till the passage of the Snowy River was practicable. He was scarcely thirty miles from Delegete, the first frontier village of New South Wales, where he would easily find the means of transport to Twofold Bay, and from there he could telegraph to Melbourne his orders about the DUNCAN.
+[SC-044-052]Glenarvan was right in both points; first in prohibiting all isolated attempts, and second, in deciding to wait till the passage of the Snowy River was practicable. He was scarcely thirty miles from Delegete, the first frontier village of New South Wales, where he would easily find the means of transport to Twofold Bay, and from there he could telegraph to Melbourne his orders about the DUNCAN.
 
-These measures were wise, but how late! If Glenarvan had not sent Mulrady to Lucknow what misfortunes would have been averted, not to speak of the assassination of the sailor!
+[SC-044-053]These measures were wise, but how late! If Glenarvan had not sent Mulrady to Lucknow what misfortunes would have been averted, not to speak of the assassination of the sailor!
 
-When he reached the camp he found his companions in better spirits. They seemed more hopeful than before. "He is better! he is better!" cried Robert, running out to meet Lord Glenarvan.
+[SC-044-054]When he reached the camp he found his companions in better spirits. They seemed more hopeful than before. "He is better! he is better!" cried Robert, running out to meet Lord Glenarvan.
 
-"Mulrady?--"
+[SC-044-055]"Mulrady?--"
 
-"Yes, Edward," answered Lady Helena. "A reaction has set in. The Major is more confident. Our sailor will live."
+[SC-044-056]"Yes, Edward," answered Lady Helena. "A reaction has set in. The Major is more confident. Our sailor will live."
 
-"Where is McNabbs?" asked Glenarvan.
+[SC-044-057]"Where is McNabbs?" asked Glenarvan.
 
-"With him. Mulrady wanted to speak to him, and they must not be disturbed."
+[SC-044-058]"With him. Mulrady wanted to speak to him, and they must not be disturbed."
 
-He then learned that about an hour since, the wounded man had awakened from his lethargy, and the fever had abated. But the first thing he did on recovering his memory and speech was to ask for Lord Glenarvan, or, failing him, the Major. McNabbs seeing him so weak, would have forbidden any conversation; but Mulrady insisted with such energy that the Major had to give in. The interview had already lasted some minutes when Glenarvan returned. There was nothing for it but to await the return of McNabbs.
+[SC-044-059]He then learned that about an hour since, the wounded man had awakened from his lethargy, and the fever had abated. But the first thing he did on recovering his memory and speech was to ask for Lord Glenarvan, or, failing him, the Major. McNabbs seeing him so weak, would have forbidden any conversation; but Mulrady insisted with such energy that the Major had to give in. The interview had already lasted some minutes when Glenarvan returned. There was nothing for it but to await the return of McNabbs.
 
-Presently the leather curtains of the wagon moved, and the Major appeared. He rejoined his friends at the foot of a gum-tree, where the tent was placed. His face, usually so stolid, showed that something disturbed him. When his eyes fell on Lady Helena and the young girl, his glance was full of sorrow.
+[SC-044-060]Presently the leather curtains of the wagon moved, and the Major appeared. He rejoined his friends at the foot of a gum-tree, where the tent was placed. His face, usually so stolid, showed that something disturbed him. When his eyes fell on Lady Helena and the young girl, his glance was full of sorrow.
 
-Glenarvan questioned him, and extracted the following information: When he left the camp Mulrady followed one of the paths indicated by Paganel. He made as good speed as the darkness of the night would allow. He reckoned that he had gone about two miles when several men--five, he thought--sprang to his horse's head. The animal reared; Mulrady seized his revolver and fired. He thought he saw two of his assailants fall. By the flash he recognized Ben Joyce. But that was all. He had not time to fire all the barrels. He felt a violent blow on his side and was thrown to the ground.
+[SC-044-061]Glenarvan questioned him, and extracted the following information: When he left the camp Mulrady followed one of the paths indicated by Paganel. He made as good speed as the darkness of the night would allow. He reckoned that he had gone about two miles when several men--five, he thought--sprang to his horse's head. The animal reared; Mulrady seized his revolver and fired. He thought he saw two of his assailants fall. By the flash he recognized Ben Joyce. But that was all. He had not time to fire all the barrels. He felt a violent blow on his side and was thrown to the ground.
 
-Still he did not lose consciousness. The murderers thought he was dead. He felt them search his pockets, and then heard one of them say: "I have the letter."
+[SC-044-062]Still he did not lose consciousness. The murderers thought he was dead. He felt them search his pockets, and then heard one of them say: "I have the letter."
 
-"Give it to me," returned Ben Joyce, "and now the DUNCAN is ours."
+[SC-044-063]"Give it to me," returned Ben Joyce, "and now the DUNCAN is ours."
 
-At this point of the story, Glenarvan could not help uttering a cry.
+[SC-044-064]At this point of the story, Glenarvan could not help uttering a cry.
 
-McNabbs continued: "'Now you fellows,' added Ben Joyce, 'catch the horse. In two days I shall be on board the DUNCAN, and in six I shall reach Twofold Bay. This is to be the rendezvous. My Lord and his party will be still stuck in the marshes of the Snowy River. Cross the river at the bridge of Kemple Pier, proceed to the coast, and wait for me. I will easily manage to get you on board. Once at sea in a craft like the DUNCAN, we shall be masters of the Indian Ocean.' 'Hurrah for Ben Joyce!' cried the convicts. Mulrady's horse was brought, and Ben Joyce disappeared, galloping on the Lucknow Road, while the band took the road southeast of the Snowy River. Mulrady, though severely wounded, had the strength to drag himself to within three hundred paces from the camp, whence we found him almost dead. There," said McNabbs, "is the history of Mulrady; and now you can understand why the brave fellow was so determined to speak."
+[SC-044-065]McNabbs continued: "'Now you fellows,' added Ben Joyce, 'catch the horse. In two days I shall be on board the DUNCAN, and in six I shall reach Twofold Bay. This is to be the rendezvous. My Lord and his party will be still stuck in the marshes of the Snowy River. Cross the river at the bridge of Kemple Pier, proceed to the coast, and wait for me. I will easily manage to get you on board. Once at sea in a craft like the DUNCAN, we shall be masters of the Indian Ocean.' 'Hurrah for Ben Joyce!' cried the convicts. Mulrady's horse was brought, and Ben Joyce disappeared, galloping on the Lucknow Road, while the band took the road southeast of the Snowy River. Mulrady, though severely wounded, had the strength to drag himself to within three hundred paces from the camp, whence we found him almost dead. There," said McNabbs, "is the history of Mulrady; and now you can understand why the brave fellow was so determined to speak."
 
-This revelation terrified Glenarvan and the rest of the party.
+[SC-044-066]This revelation terrified Glenarvan and the rest of the party.
 
-"Pirates! pirates!" cried Glenarvan. "My crew massacred! my DUNCAN in the hands of these bandits!"
+[SC-044-067]"Pirates! pirates!" cried Glenarvan. "My crew massacred! my DUNCAN in the hands of these bandits!"
 
-"Yes, for Ben Joyce will surprise the ship," said the Major, "and then--"
+[SC-044-068]"Yes, for Ben Joyce will surprise the ship," said the Major, "and then--"
 
-"Well, we must get to the coast first," said Paganel.
+[SC-044-069]"Well, we must get to the coast first," said Paganel.
 
-"But how are we to cross the Snowy River?" said Wilson.
+[SC-044-070]"But how are we to cross the Snowy River?" said Wilson.
 
-"As they will," replied Glenarvan. "They are to cross at Kemple Pier Bridge, and so will we."
+[SC-044-071]"As they will," replied Glenarvan. "They are to cross at Kemple Pier Bridge, and so will we."
 
-"But about Mulrady?" asked Lady Helena.
+[SC-044-072]"But about Mulrady?" asked Lady Helena.
 
-"We will carry him; we will have relays. Can I leave my crew to the mercy of Ben Joyce and his gang?"
+[SC-044-073]"We will carry him; we will have relays. Can I leave my crew to the mercy of Ben Joyce and his gang?"
 
-To cross the Snowy River at Kemple Pier was practicable, but dangerous. The convicts might entrench themselves at that point, and defend it. They were at least thirty against seven! But there are moments when people do not deliberate, or when they have no choice but to go on.
+[SC-044-074]To cross the Snowy River at Kemple Pier was practicable, but dangerous. The convicts might entrench themselves at that point, and defend it. They were at least thirty against seven! But there are moments when people do not deliberate, or when they have no choice but to go on.
 
-"My Lord," said John Mangles, "before we throw away our chance, before venturing to this bridge, we ought to reconnoiter, and I will undertake it."
+[SC-044-075]"My Lord," said John Mangles, "before we throw away our chance, before venturing to this bridge, we ought to reconnoiter, and I will undertake it."
 
-"I will go with you, John," said Paganel.
+[SC-044-076]"I will go with you, John," said Paganel.
 
-This proposal was agreed to, and John Mangles and Paganel prepared to start immediately. They were to follow the course of the Snowy River, follow its banks till they reached the place indicated by Ben Joyce, and especially they were to keep out of sight of the convicts, who were probably scouring the bush.
+[SC-044-077]This proposal was agreed to, and John Mangles and Paganel prepared to start immediately. They were to follow the course of the Snowy River, follow its banks till they reached the place indicated by Ben Joyce, and especially they were to keep out of sight of the convicts, who were probably scouring the bush.
 
-So the two brave comrades started, well provisioned and well armed, and were soon out of sight as they threaded their way among the tall reeds by the river. The rest anxiously awaited their return all day. Evening came, and still the scouts did not return. They began to be seriously alarmed. At last, toward eleven o'clock, Wilson announced their arrival. Paganel and John Mangles were worn out with the fatigues of a ten-mile walk.
+[SC-044-078]So the two brave comrades started, well provisioned and well armed, and were soon out of sight as they threaded their way among the tall reeds by the river. The rest anxiously awaited their return all day. Evening came, and still the scouts did not return. They began to be seriously alarmed. At last, toward eleven o'clock, Wilson announced their arrival. Paganel and John Mangles were worn out with the fatigues of a ten-mile walk.
 
-"Well, what about the bridge? Did you find it?" asked Glenarvan, with impetuous eagerness.
+[SC-044-079]"Well, what about the bridge? Did you find it?" asked Glenarvan, with impetuous eagerness.
 
-"Yes, a bridge of supple-jacks," said John Mangles. "The convicts passed over, but--"
+[SC-044-080]"Yes, a bridge of supple-jacks," said John Mangles. "The convicts passed over, but--"
 
-"But what?" said Glenarvan, who foreboded some new misfortune.
+[SC-044-081]"But what?" said Glenarvan, who foreboded some new misfortune.
 
-"They burned it after they passed!" said Paganel.
+[SC-044-082]"They burned it after they passed!" said Paganel.

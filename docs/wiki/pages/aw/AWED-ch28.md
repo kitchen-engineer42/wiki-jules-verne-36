@@ -11,154 +11,154 @@ tags: [chapter]
 ---
 # Around the World in Eighty Days — CHAPTER XXVIII
 
-IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON
+[AWED-028-001]IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON
 
-The train, on leaving Great Salt Lake at Ogden, passed northward for an hour as far as Weber River, having completed nearly nine hundred miles from San Francisco. From this point it took an easterly direction towards the jagged Wahsatch Mountains. It was in the section included between this range and the Rocky Mountains that the American engineers found the most formidable difficulties in laying the road, and that the government granted a subsidy of forty-eight thousand dollars per mile, instead of sixteen thousand allowed for the work done on the plains. But the engineers, instead of violating nature, avoided its difficulties by winding around, instead of penetrating the rocks. One tunnel only, fourteen thousand feet in length, was pierced in order to arrive at the great basin.
+[AWED-028-002]The train, on leaving Great Salt Lake at Ogden, passed northward for an hour as far as Weber River, having completed nearly nine hundred miles from San Francisco. From this point it took an easterly direction towards the jagged Wahsatch Mountains. It was in the section included between this range and the Rocky Mountains that the American engineers found the most formidable difficulties in laying the road, and that the government granted a subsidy of forty-eight thousand dollars per mile, instead of sixteen thousand allowed for the work done on the plains. But the engineers, instead of violating nature, avoided its difficulties by winding around, instead of penetrating the rocks. One tunnel only, fourteen thousand feet in length, was pierced in order to arrive at the great basin.
 
-The track up to this time had reached its highest elevation at the Great Salt Lake. From this point it described a long curve, descending towards Bitter Creek Valley, to rise again to the dividing ridge of the waters between the Atlantic and the Pacific. There were many creeks in this mountainous region, and it was necessary to cross Muddy Creek, Green Creek, and others, upon culverts.
+[AWED-028-003]The track up to this time had reached its highest elevation at the Great Salt Lake. From this point it described a long curve, descending towards Bitter Creek Valley, to rise again to the dividing ridge of the waters between the Atlantic and the Pacific. There were many creeks in this mountainous region, and it was necessary to cross Muddy Creek, Green Creek, and others, upon culverts.
 
-Passepartout grew more and more impatient as they went on, while Fix longed to get out of this difficult region, and was more anxious than Phileas Fogg himself to be beyond the danger of delays and accidents, and set foot on English soil.
+[AWED-028-004]Passepartout grew more and more impatient as they went on, while Fix longed to get out of this difficult region, and was more anxious than Phileas Fogg himself to be beyond the danger of delays and accidents, and set foot on English soil.
 
-At ten o'clock at night the train stopped at Fort Bridger station, and twenty minutes later entered Wyoming Territory, following the valley of Bitter Creek throughout. The next day, 7th December, they stopped for a quarter of an hour at Green River station. Snow had fallen abundantly during the night, but, being mixed with rain, it had half melted, and did not interrupt their progress. The bad weather, however, annoyed Passepartout; for the accumulation of snow, by blocking the wheels of the cars, would certainly have been fatal to Mr. Fogg's tour.
+[AWED-028-005]At ten o'clock at night the train stopped at Fort Bridger station, and twenty minutes later entered Wyoming Territory, following the valley of Bitter Creek throughout. The next day, 7th December, they stopped for a quarter of an hour at Green River station. Snow had fallen abundantly during the night, but, being mixed with rain, it had half melted, and did not interrupt their progress. The bad weather, however, annoyed Passepartout; for the accumulation of snow, by blocking the wheels of the cars, would certainly have been fatal to Mr. Fogg's tour.
 
-"What an idea!" he said to himself. "Why did my master make this journey in winter? Couldn't he have waited for the good season to increase his chances?"
+[AWED-028-006]"What an idea!" he said to himself. "Why did my master make this journey in winter? Couldn't he have waited for the good season to increase his chances?"
 
-While the worthy Frenchman was absorbed in the state of the sky and the depression of the temperature, Aouda was experiencing fears from a totally different cause.
+[AWED-028-007]While the worthy Frenchman was absorbed in the state of the sky and the depression of the temperature, Aouda was experiencing fears from a totally different cause.
 
-Several passengers had got off at Green River, and were walking up and down the platforms; and among these Aouda recognised Colonel Stamp Proctor, the same who had so grossly insulted Phileas Fogg at the San Francisco meeting. Not wishing to be recognised, the young woman drew back from the window, feeling much alarm at her discovery. She was attached to the man who, however coldly, gave her daily evidences of the most absolute devotion. She did not comprehend, perhaps, the depth of the sentiment with which her protector inspired her, which she called gratitude, but which, though she was unconscious of it, was really more than that. Her heart sank within her when she recognised the man whom Mr. Fogg desired, sooner or later, to call to account for his conduct. Chance alone, it was clear, had brought Colonel Proctor on this train; but there he was, and it was necessary, at all hazards, that Phileas Fogg should not perceive his adversary.
+[AWED-028-008]Several passengers had got off at Green River, and were walking up and down the platforms; and among these Aouda recognised Colonel Stamp Proctor, the same who had so grossly insulted Phileas Fogg at the San Francisco meeting. Not wishing to be recognised, the young woman drew back from the window, feeling much alarm at her discovery. She was attached to the man who, however coldly, gave her daily evidences of the most absolute devotion. She did not comprehend, perhaps, the depth of the sentiment with which her protector inspired her, which she called gratitude, but which, though she was unconscious of it, was really more than that. Her heart sank within her when she recognised the man whom Mr. Fogg desired, sooner or later, to call to account for his conduct. Chance alone, it was clear, had brought Colonel Proctor on this train; but there he was, and it was necessary, at all hazards, that Phileas Fogg should not perceive his adversary.
 
-Aouda seized a moment when Mr. Fogg was asleep to tell Fix and Passepartout whom she had seen.
+[AWED-028-009]Aouda seized a moment when Mr. Fogg was asleep to tell Fix and Passepartout whom she had seen.
 
-"That Proctor on this train!" cried Fix. "Well, reassure yourself, madam; before he settles with Mr. Fogg; he has got to deal with me! It seems to me that I was the more insulted of the two."
+[AWED-028-010]"That Proctor on this train!" cried Fix. "Well, reassure yourself, madam; before he settles with Mr. Fogg; he has got to deal with me! It seems to me that I was the more insulted of the two."
 
-"And, besides," added Passepartout, "I'll take charge of him, colonel as he is."
+[AWED-028-011]"And, besides," added Passepartout, "I'll take charge of him, colonel as he is."
 
-"Mr. Fix," resumed Aouda, "Mr. Fogg will allow no one to avenge him. He said that he would come back to America to find this man. Should he perceive Colonel Proctor, we could not prevent a collision which might have terrible results. He must not see him."
+[AWED-028-012]"Mr. Fix," resumed Aouda, "Mr. Fogg will allow no one to avenge him. He said that he would come back to America to find this man. Should he perceive Colonel Proctor, we could not prevent a collision which might have terrible results. He must not see him."
 
-"You are right, madam," replied Fix; "a meeting between them might ruin all. Whether he were victorious or beaten, Mr. Fogg would be delayed, and--"
+[AWED-028-013]"You are right, madam," replied Fix; "a meeting between them might ruin all. Whether he were victorious or beaten, Mr. Fogg would be delayed, and--"
 
-"And," added Passepartout, "that would play the game of the gentlemen of the Reform Club. In four days we shall be in New York. Well, if my master does not leave this car during those four days, we may hope that chance will not bring him face to face with this confounded American. We must, if possible, prevent his stirring out of it."
+[AWED-028-014]"And," added Passepartout, "that would play the game of the gentlemen of the Reform Club. In four days we shall be in New York. Well, if my master does not leave this car during those four days, we may hope that chance will not bring him face to face with this confounded American. We must, if possible, prevent his stirring out of it."
 
-The conversation dropped. Mr. Fogg had just woke up, and was looking out of the window. Soon after Passepartout, without being heard by his master or Aouda, whispered to the detective, "Would you really fight for him?"
+[AWED-028-015]The conversation dropped. Mr. Fogg had just woke up, and was looking out of the window. Soon after Passepartout, without being heard by his master or Aouda, whispered to the detective, "Would you really fight for him?"
 
-"I would do anything," replied Fix, in a tone which betrayed determined will, "to get him back living to Europe!"
+[AWED-028-016]"I would do anything," replied Fix, in a tone which betrayed determined will, "to get him back living to Europe!"
 
-Passepartout felt something like a shudder shoot through his frame, but his confidence in his master remained unbroken.
+[AWED-028-017]Passepartout felt something like a shudder shoot through his frame, but his confidence in his master remained unbroken.
 
-Was there any means of detaining Mr. Fogg in the car, to avoid a meeting between him and the colonel? It ought not to be a difficult task, since that gentleman was naturally sedentary and little curious. The detective, at least, seemed to have found a way; for, after a few moments, he said to Mr. Fogg, "These are long and slow hours, sir, that we are passing on the railway."
+[AWED-028-018]Was there any means of detaining Mr. Fogg in the car, to avoid a meeting between him and the colonel? It ought not to be a difficult task, since that gentleman was naturally sedentary and little curious. The detective, at least, seemed to have found a way; for, after a few moments, he said to Mr. Fogg, "These are long and slow hours, sir, that we are passing on the railway."
 
-"Yes," replied Mr. Fogg; "but they pass."
+[AWED-028-019]"Yes," replied Mr. Fogg; "but they pass."
 
-"You were in the habit of playing whist," resumed Fix, "on the steamers."
+[AWED-028-020]"You were in the habit of playing whist," resumed Fix, "on the steamers."
 
-"Yes; but it would be difficult to do so here. I have neither cards nor partners."
+[AWED-028-021]"Yes; but it would be difficult to do so here. I have neither cards nor partners."
 
-"Oh, but we can easily buy some cards, for they are sold on all the American trains. And as for partners, if madam plays--"
+[AWED-028-022]"Oh, but we can easily buy some cards, for they are sold on all the American trains. And as for partners, if madam plays--"
 
-"Certainly, sir," Aouda quickly replied; "I understand whist. It is part of an English education."
+[AWED-028-023]"Certainly, sir," Aouda quickly replied; "I understand whist. It is part of an English education."
 
-"I myself have some pretensions to playing a good game. Well, here are three of us, and a dummy--"
+[AWED-028-024]"I myself have some pretensions to playing a good game. Well, here are three of us, and a dummy--"
 
-"As you please, sir," replied Phileas Fogg, heartily glad to resume his favourite pastime even on the railway.
+[AWED-028-025]"As you please, sir," replied Phileas Fogg, heartily glad to resume his favourite pastime even on the railway.
 
-Passepartout was dispatched in search of the steward, and soon returned with two packs of cards, some pins, counters, and a shelf covered with cloth.
+[AWED-028-026]Passepartout was dispatched in search of the steward, and soon returned with two packs of cards, some pins, counters, and a shelf covered with cloth.
 
-The game commenced. Aouda understood whist sufficiently well, and even received some compliments on her playing from Mr. Fogg. As for the detective, he was simply an adept, and worthy of being matched against his present opponent.
+[AWED-028-027]The game commenced. Aouda understood whist sufficiently well, and even received some compliments on her playing from Mr. Fogg. As for the detective, he was simply an adept, and worthy of being matched against his present opponent.
 
-"Now," thought Passepartout, "we've got him. He won't budge."
+[AWED-028-028]"Now," thought Passepartout, "we've got him. He won't budge."
 
-At eleven in the morning the train had reached the dividing ridge of the waters at Bridger Pass, seven thousand five hundred and twenty-four feet above the level of the sea, one of the highest points attained by the track in crossing the Rocky Mountains. After going about two hundred miles, the travellers at last found themselves on one of those vast plains which extend to the Atlantic, and which nature has made so propitious for laying the iron road.
+[AWED-028-029]At eleven in the morning the train had reached the dividing ridge of the waters at Bridger Pass, seven thousand five hundred and twenty-four feet above the level of the sea, one of the highest points attained by the track in crossing the Rocky Mountains. After going about two hundred miles, the travellers at last found themselves on one of those vast plains which extend to the Atlantic, and which nature has made so propitious for laying the iron road.
 
-On the declivity of the Atlantic basin the first streams, branches of the North Platte River, already appeared. The whole northern and eastern horizon was bounded by the immense semi-circular curtain which is formed by the southern portion of the Rocky Mountains, the highest being Laramie Peak. Between this and the railway extended vast plains, plentifully irrigated. On the right rose the lower spurs of the mountainous mass which extends southward to the sources of the Arkansas River, one of the great tributaries of the Missouri.
+[AWED-028-030]On the declivity of the Atlantic basin the first streams, branches of the North Platte River, already appeared. The whole northern and eastern horizon was bounded by the immense semi-circular curtain which is formed by the southern portion of the Rocky Mountains, the highest being Laramie Peak. Between this and the railway extended vast plains, plentifully irrigated. On the right rose the lower spurs of the mountainous mass which extends southward to the sources of the Arkansas River, one of the great tributaries of the Missouri.
 
-At half-past twelve the travellers caught sight for an instant of Fort Halleck, which commands that section; and in a few more hours the Rocky Mountains were crossed. There was reason to hope, then, that no accident would mark the journey through this difficult country. The snow had ceased falling, and the air became crisp and cold. Large birds, frightened by the locomotive, rose and flew off in the distance. No wild beast appeared on the plain. It was a desert in its vast nakedness.
+[AWED-028-031]At half-past twelve the travellers caught sight for an instant of Fort Halleck, which commands that section; and in a few more hours the Rocky Mountains were crossed. There was reason to hope, then, that no accident would mark the journey through this difficult country. The snow had ceased falling, and the air became crisp and cold. Large birds, frightened by the locomotive, rose and flew off in the distance. No wild beast appeared on the plain. It was a desert in its vast nakedness.
 
-After a comfortable breakfast, served in the car, Mr. Fogg and his partners had just resumed whist, when a violent whistling was heard, and the train stopped. Passepartout put his head out of the door, but saw nothing to cause the delay; no station was in view.
+[AWED-028-032]After a comfortable breakfast, served in the car, Mr. Fogg and his partners had just resumed whist, when a violent whistling was heard, and the train stopped. Passepartout put his head out of the door, but saw nothing to cause the delay; no station was in view.
 
-Aouda and Fix feared that Mr. Fogg might take it into his head to get out; but that gentleman contented himself with saying to his servant, "See what is the matter."
+[AWED-028-033]Aouda and Fix feared that Mr. Fogg might take it into his head to get out; but that gentleman contented himself with saying to his servant, "See what is the matter."
 
-Passepartout rushed out of the car. Thirty or forty passengers had already descended, amongst them Colonel Stamp Proctor.
+[AWED-028-034]Passepartout rushed out of the car. Thirty or forty passengers had already descended, amongst them Colonel Stamp Proctor.
 
-The train had stopped before a red signal which blocked the way. The engineer and conductor were talking excitedly with a signal-man, whom the station-master at Medicine Bow, the next stopping place, had sent on before. The passengers drew around and took part in the discussion, in which Colonel Proctor, with his insolent manner, was conspicuous.
+[AWED-028-035]The train had stopped before a red signal which blocked the way. The engineer and conductor were talking excitedly with a signal-man, whom the station-master at Medicine Bow, the next stopping place, had sent on before. The passengers drew around and took part in the discussion, in which Colonel Proctor, with his insolent manner, was conspicuous.
 
-Passepartout, joining the group, heard the signal-man say, "No! you can't pass. The bridge at Medicine Bow is shaky, and would not bear the weight of the train."
+[AWED-028-036]Passepartout, joining the group, heard the signal-man say, "No! you can't pass. The bridge at Medicine Bow is shaky, and would not bear the weight of the train."
 
-This was a suspension-bridge thrown over some rapids, about a mile from the place where they now were. According to the signal-man, it was in a ruinous condition, several of the iron wires being broken; and it was impossible to risk the passage. He did not in any way exaggerate the condition of the bridge. It may be taken for granted that, rash as the Americans usually are, when they are prudent there is good reason for it.
+[AWED-028-037]This was a suspension-bridge thrown over some rapids, about a mile from the place where they now were. According to the signal-man, it was in a ruinous condition, several of the iron wires being broken; and it was impossible to risk the passage. He did not in any way exaggerate the condition of the bridge. It may be taken for granted that, rash as the Americans usually are, when they are prudent there is good reason for it.
 
-Passepartout, not daring to apprise his master of what he heard, listened with set teeth, immovable as a statue.
+[AWED-028-038]Passepartout, not daring to apprise his master of what he heard, listened with set teeth, immovable as a statue.
 
-"Hum!" cried Colonel Proctor; "but we are not going to stay here, I imagine, and take root in the snow?"
+[AWED-028-039]"Hum!" cried Colonel Proctor; "but we are not going to stay here, I imagine, and take root in the snow?"
 
-"Colonel," replied the conductor, "we have telegraphed to Omaha for a train, but it is not likely that it will reach Medicine Bow is less than six hours."
+[AWED-028-040]"Colonel," replied the conductor, "we have telegraphed to Omaha for a train, but it is not likely that it will reach Medicine Bow is less than six hours."
 
-"Six hours!" cried Passepartout.
+[AWED-028-041]"Six hours!" cried Passepartout.
 
-"Certainly," returned the conductor, "besides, it will take us as long as that to reach Medicine Bow on foot."
+[AWED-028-042]"Certainly," returned the conductor, "besides, it will take us as long as that to reach Medicine Bow on foot."
 
-"But it is only a mile from here," said one of the passengers.
+[AWED-028-043]"But it is only a mile from here," said one of the passengers.
 
-"Yes, but it's on the other side of the river."
+[AWED-028-044]"Yes, but it's on the other side of the river."
 
-"And can't we cross that in a boat?" asked the colonel.
+[AWED-028-045]"And can't we cross that in a boat?" asked the colonel.
 
-"That's impossible. The creek is swelled by the rains. It is a rapid, and we shall have to make a circuit of ten miles to the north to find a ford."
+[AWED-028-046]"That's impossible. The creek is swelled by the rains. It is a rapid, and we shall have to make a circuit of ten miles to the north to find a ford."
 
-The colonel launched a volley of oaths, denouncing the railway company and the conductor; and Passepartout, who was furious, was not disinclined to make common cause with him. Here was an obstacle, indeed, which all his master's banknotes could not remove.
+[AWED-028-047]The colonel launched a volley of oaths, denouncing the railway company and the conductor; and Passepartout, who was furious, was not disinclined to make common cause with him. Here was an obstacle, indeed, which all his master's banknotes could not remove.
 
-There was a general disappointment among the passengers, who, without reckoning the delay, saw themselves compelled to trudge fifteen miles over a plain covered with snow. They grumbled and protested, and would certainly have thus attracted Phileas Fogg's attention if he had not been completely absorbed in his game.
+[AWED-028-048]There was a general disappointment among the passengers, who, without reckoning the delay, saw themselves compelled to trudge fifteen miles over a plain covered with snow. They grumbled and protested, and would certainly have thus attracted Phileas Fogg's attention if he had not been completely absorbed in his game.
 
-Passepartout found that he could not avoid telling his master what had occurred, and, with hanging head, he was turning towards the car, when the engineer, a true Yankee, named Forster called out, "Gentlemen, perhaps there is a way, after all, to get over."
+[AWED-028-049]Passepartout found that he could not avoid telling his master what had occurred, and, with hanging head, he was turning towards the car, when the engineer, a true Yankee, named Forster called out, "Gentlemen, perhaps there is a way, after all, to get over."
 
-"On the bridge?" asked a passenger.
+[AWED-028-050]"On the bridge?" asked a passenger.
 
-"On the bridge."
+[AWED-028-051]"On the bridge."
 
-"With our train?"
+[AWED-028-052]"With our train?"
 
-"With our train."
+[AWED-028-053]"With our train."
 
-Passepartout stopped short, and eagerly listened to the engineer.
+[AWED-028-054]Passepartout stopped short, and eagerly listened to the engineer.
 
-"But the bridge is unsafe," urged the conductor.
+[AWED-028-055]"But the bridge is unsafe," urged the conductor.
 
-"No matter," replied Forster; "I think that by putting on the very highest speed we might have a chance of getting over."
+[AWED-028-056]"No matter," replied Forster; "I think that by putting on the very highest speed we might have a chance of getting over."
 
-"The devil!" muttered Passepartout.
+[AWED-028-057]"The devil!" muttered Passepartout.
 
-But a number of the passengers were at once attracted by the engineer's proposal, and Colonel Proctor was especially delighted, and found the plan a very feasible one. He told stories about engineers leaping their trains over rivers without bridges, by putting on full steam; and many of those present avowed themselves of the engineer's mind.
+[AWED-028-058]But a number of the passengers were at once attracted by the engineer's proposal, and Colonel Proctor was especially delighted, and found the plan a very feasible one. He told stories about engineers leaping their trains over rivers without bridges, by putting on full steam; and many of those present avowed themselves of the engineer's mind.
 
-"We have fifty chances out of a hundred of getting over," said one.
+[AWED-028-059]"We have fifty chances out of a hundred of getting over," said one.
 
-"Eighty! ninety!"
+[AWED-028-060]"Eighty! ninety!"
 
-Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek, thought the experiment proposed a little too American. "Besides," thought he, "there's a still more simple way, and it does not even occur to any of these people! Sir," said he aloud to one of the passengers, "the engineer's plan seems to me a little dangerous, but--"
+[AWED-028-061]Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek, thought the experiment proposed a little too American. "Besides," thought he, "there's a still more simple way, and it does not even occur to any of these people! Sir," said he aloud to one of the passengers, "the engineer's plan seems to me a little dangerous, but--"
 
-"Eighty chances!" replied the passenger, turning his back on him.
+[AWED-028-062]"Eighty chances!" replied the passenger, turning his back on him.
 
-"I know it," said Passepartout, turning to another passenger, "but a simple idea--"
+[AWED-028-063]"I know it," said Passepartout, turning to another passenger, "but a simple idea--"
 
-"Ideas are no use," returned the American, shrugging his shoulders, "as the engineer assures us that we can pass."
+[AWED-028-064]"Ideas are no use," returned the American, shrugging his shoulders, "as the engineer assures us that we can pass."
 
-"Doubtless," urged Passepartout, "we can pass, but perhaps it would be more prudent--"
+[AWED-028-065]"Doubtless," urged Passepartout, "we can pass, but perhaps it would be more prudent--"
 
-"What! Prudent!" cried Colonel Proctor, whom this word seemed to excite prodigiously. "At full speed, don't you see, at full speed!"
+[AWED-028-066]"What! Prudent!" cried Colonel Proctor, whom this word seemed to excite prodigiously. "At full speed, don't you see, at full speed!"
 
-"I know--I see," repeated Passepartout; "but it would be, if not more prudent, since that word displeases you, at least more natural--"
+[AWED-028-067]"I know--I see," repeated Passepartout; "but it would be, if not more prudent, since that word displeases you, at least more natural--"
 
-"Who! What! What's the matter with this fellow?" cried several.
+[AWED-028-068]"Who! What! What's the matter with this fellow?" cried several.
 
-The poor fellow did not know to whom to address himself.
+[AWED-028-069]The poor fellow did not know to whom to address himself.
 
-"Are you afraid?" asked Colonel Proctor.
+[AWED-028-070]"Are you afraid?" asked Colonel Proctor.
 
-"I afraid? Very well; I will show these people that a Frenchman can be as American as they!"
+[AWED-028-071]"I afraid? Very well; I will show these people that a Frenchman can be as American as they!"
 
-"All aboard!" cried the conductor.
+[AWED-028-072]"All aboard!" cried the conductor.
 
-"Yes, all aboard!" repeated Passepartout, and immediately. "But they can't prevent me from thinking that it would be more natural for us to cross the bridge on foot, and let the train come after!"
+[AWED-028-073]"Yes, all aboard!" repeated Passepartout, and immediately. "But they can't prevent me from thinking that it would be more natural for us to cross the bridge on foot, and let the train come after!"
 
-But no one heard this sage reflection, nor would anyone have acknowledged its justice. The passengers resumed their places in the cars. Passepartout took his seat without telling what had passed. The whist-players were quite absorbed in their game.
+[AWED-028-074]But no one heard this sage reflection, nor would anyone have acknowledged its justice. The passengers resumed their places in the cars. Passepartout took his seat without telling what had passed. The whist-players were quite absorbed in their game.
 
-The locomotive whistled vigorously; the engineer, reversing the steam, backed the train for nearly a mile--retiring, like a jumper, in order to take a longer leap. Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful; a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second. They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.
+[AWED-028-075]The locomotive whistled vigorously; the engineer, reversing the steam, backed the train for nearly a mile--retiring, like a jumper, in order to take a longer leap. Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful; a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second. They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.
 
-And they passed over! It was like a flash. No one saw the bridge. The train leaped, so to speak, from one bank to the other, and the engineer could not stop it until it had gone five miles beyond the station. But scarcely had the train passed the river, when the bridge, completely ruined, fell with a crash into the rapids of Medicine Bow.
+[AWED-028-076]And they passed over! It was like a flash. No one saw the bridge. The train leaped, so to speak, from one bank to the other, and the engineer could not stop it until it had gone five miles beyond the station. But scarcely had the train passed the river, when the bridge, completely ruined, fell with a crash into the rapids of Medicine Bow.

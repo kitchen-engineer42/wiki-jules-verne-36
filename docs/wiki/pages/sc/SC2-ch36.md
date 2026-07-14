@@ -11,22 +11,22 @@ tags: [chapter]
 ---
 # The Survivors of the Chancellor — CHAPTER XXXVI
 
-DECEMBER 22nd.--Daylight came at length, and the sun broke through and dispersed the clouds that the storm had left behind. The struggle of the elements, while it lasted, had been terrific, but the swoon into which I was thrown by my fall, prevented me from observing the final incidents of the visitation. All that I know is, that shortly after we had shipped the heavy sea that I have mentioned, a shower of rain had the effect of calming the severity of the hurricane, and tended to diminish the electric tension of the atmosphere.
+[SC2-036-001]DECEMBER 22nd.--Daylight came at length, and the sun broke through and dispersed the clouds that the storm had left behind. The struggle of the elements, while it lasted, had been terrific, but the swoon into which I was thrown by my fall, prevented me from observing the final incidents of the visitation. All that I know is, that shortly after we had shipped the heavy sea that I have mentioned, a shower of rain had the effect of calming the severity of the hurricane, and tended to diminish the electric tension of the atmosphere.
 
-Thanks to the kind care of M. Letourneur and Miss Herbey, I recovered consciousness, but I believe that it is to Robert Curtis that I owe my real deliverance, for he it was that prevented me from being carried away by a second heavy wave.
+[SC2-036-002]Thanks to the kind care of M. Letourneur and Miss Herbey, I recovered consciousness, but I believe that it is to Robert Curtis that I owe my real deliverance, for he it was that prevented me from being carried away by a second heavy wave.
 
-The tempest, fierce as it was, did not last more than a few hours; but even in that short space of time what an irreparable loss we have sustained, and what a load of misery seems stored up for us in the future!
+[SC2-036-003]The tempest, fierce as it was, did not last more than a few hours; but even in that short space of time what an irreparable loss we have sustained, and what a load of misery seems stored up for us in the future!
 
-Of the two sailors who perished in the storm, one was Austin, a fine active young man of about eight-and-twenty; the other was old O'Ready, the survivor of so many ship wrecks. Our party is thus reduced to sixteen souls, leaving a total barely exceeding half the number of those who embarked on board the "Chancellor" at Charleston.
+[SC2-036-004]Of the two sailors who perished in the storm, one was Austin, a fine active young man of about eight-and-twenty; the other was old O'Ready, the survivor of so many ship wrecks. Our party is thus reduced to sixteen souls, leaving a total barely exceeding half the number of those who embarked on board the "Chancellor" at Charleston.
 
-Curtis's first care had been to take a strict account of the remnant of our provisions. Of all the torrents of rain that fell in the night we were unhappily unable to catch a single drop; but water will not fail us yet, for about fourteen gallons still remain in the bottom of the broken barrel, whilst the second barrel has not yet been touched. But of food we have next to nothing. The cases containing the dried meat, and the fish that we had preserved, have both been washed away, and all that now remains to us is about sixty pounds of biscuit. Sixty pounds of biscuit between sixteen persons! Eight days, with half a pound a day apiece, will consume it all.
+[SC2-036-005]Curtis's first care had been to take a strict account of the remnant of our provisions. Of all the torrents of rain that fell in the night we were unhappily unable to catch a single drop; but water will not fail us yet, for about fourteen gallons still remain in the bottom of the broken barrel, whilst the second barrel has not yet been touched. But of food we have next to nothing. The cases containing the dried meat, and the fish that we had preserved, have both been washed away, and all that now remains to us is about sixty pounds of biscuit. Sixty pounds of biscuit between sixteen persons! Eight days, with half a pound a day apiece, will consume it all.
 
-The day has passed away in silence. A general depression has fallen upon all: the spectre of famine has appeared amongst us, and each has remained wrapped in his own gloomy meditations, though each has doubtless but one idea dominant in his mind.
+[SC2-036-006]The day has passed away in silence. A general depression has fallen upon all: the spectre of famine has appeared amongst us, and each has remained wrapped in his own gloomy meditations, though each has doubtless but one idea dominant in his mind.
 
-Once, as I passed near the group of sailors lying on the fore part of the raft, I heard Flaypole say with a sneer,--
+[SC2-036-007]Once, as I passed near the group of sailors lying on the fore part of the raft, I heard Flaypole say with a sneer,--
 
-"Those who are going to die had better make haste about it."
+[SC2-036-008]"Those who are going to die had better make haste about it."
 
-"Yes," said Owen, "leave their share of food to others."
+[SC2-036-009]"Yes," said Owen, "leave their share of food to others."
 
-At the regular hour each person received his half-pound of biscuit. Some, I noticed, swallowed it ravenously, others reserved it for another time. Falsten divided his ration into several portions, corresponding, I believe, to the number of meals to which he was ordinarily accustomed. What prudence he shows! If any one survives this misery, I think it will be he.
+[SC2-036-010]At the regular hour each person received his half-pound of biscuit. Some, I noticed, swallowed it ravenously, others reserved it for another time. Falsten divided his ration into several portions, corresponding, I believe, to the number of meals to which he was ordinarily accustomed. What prudence he shows! If any one survives this misery, I think it will be he.

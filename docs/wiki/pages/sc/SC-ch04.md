@@ -11,92 +11,92 @@ tags: [chapter]
 ---
 # In Search of the Castaways — CHAPTER IV LADY GLENARVAN'S PROPOSAL
 
-LADY HELENA thought it best to say nothing to the children about the fears Lord Glenarvan had expressed in his letters respecting the decisions of the Lords of the Admiralty with regard to the document. Nor did she mention the probable captivity of Captain Grant among the Indians of South America. Why sadden the poor children, and damp their newly cherished hopes? It would not in the least alter the actual state of the case; so not a word was said, and after answering all Miss Grant's questions, Lady Helena began to interrogate in her turn, asking her about her past life and her present circumstances.
+[SC-004-001]LADY HELENA thought it best to say nothing to the children about the fears Lord Glenarvan had expressed in his letters respecting the decisions of the Lords of the Admiralty with regard to the document. Nor did she mention the probable captivity of Captain Grant among the Indians of South America. Why sadden the poor children, and damp their newly cherished hopes? It would not in the least alter the actual state of the case; so not a word was said, and after answering all Miss Grant's questions, Lady Helena began to interrogate in her turn, asking her about her past life and her present circumstances.
 
-It was a touching, simple story she heard in reply, and one which increased her sympathy for the young girl.
+[SC-004-002]It was a touching, simple story she heard in reply, and one which increased her sympathy for the young girl.
 
-Mary and Robert were the captain's only children. Harry Grant lost his wife when Robert was born, and during his long voyages he left his little ones in charge of his cousin, a good old lady. Captain Grant was a fearless sailor. He not only thoroughly understood navigation, but commerce also--a two-fold qualification eminently useful to skippers in the merchant service. He lived in Dundee, in Perthshire, Scotland. His father, a minister of St. Katrine's Church, had given him a thorough education, as he believed that could never hurt anybody.
+[SC-004-003]Mary and Robert were the captain's only children. Harry Grant lost his wife when Robert was born, and during his long voyages he left his little ones in charge of his cousin, a good old lady. Captain Grant was a fearless sailor. He not only thoroughly understood navigation, but commerce also--a two-fold qualification eminently useful to skippers in the merchant service. He lived in Dundee, in Perthshire, Scotland. His father, a minister of St. Katrine's Church, had given him a thorough education, as he believed that could never hurt anybody.
 
-Harry's voyages were prosperous from the first, and a few years after Robert was born, he found himself possessed of a considerable fortune.
+[SC-004-004]Harry's voyages were prosperous from the first, and a few years after Robert was born, he found himself possessed of a considerable fortune.
 
-It was then that he projected the grand scheme which made him popular in Scotland. Like Glenarvan, and a few noble families in the Lowlands, he had no heart for the union with England. In his eyes the interests of his country were not identified with those of the Anglo-Saxons, and to give scope for personal development, he resolved to found an immense Scotch colony on one of the ocean continents. Possibly he might have thought that some day they would achieve their independence, as the United States did--an example doubtless to be followed eventually by Australia and India. But whatever might be his secret motives, such was his dream of colonization. But, as is easily understood, the Government opposed his plans, and put difficulties enough in his way to have killed an ordinary man. But Harry would not be beaten. He appealed to the patriotism of his countrymen, placed his fortune at the service of the cause, built a ship, and manned it with a picked crew, and leaving his children to the care of his old cousin set off to explore the great islands of the Pacific. This was in 1861, and for twelve months, or up to May, 1862, letters were regularly received from him, but no tidings whatever had come since his departure from Callao, in June, and the name of the BRITANNIA never appeared in the Shipping List.
+[SC-004-005]It was then that he projected the grand scheme which made him popular in Scotland. Like Glenarvan, and a few noble families in the Lowlands, he had no heart for the union with England. In his eyes the interests of his country were not identified with those of the Anglo-Saxons, and to give scope for personal development, he resolved to found an immense Scotch colony on one of the ocean continents. Possibly he might have thought that some day they would achieve their independence, as the United States did--an example doubtless to be followed eventually by Australia and India. But whatever might be his secret motives, such was his dream of colonization. But, as is easily understood, the Government opposed his plans, and put difficulties enough in his way to have killed an ordinary man. But Harry would not be beaten. He appealed to the patriotism of his countrymen, placed his fortune at the service of the cause, built a ship, and manned it with a picked crew, and leaving his children to the care of his old cousin set off to explore the great islands of the Pacific. This was in 1861, and for twelve months, or up to May, 1862, letters were regularly received from him, but no tidings whatever had come since his departure from Callao, in June, and the name of the BRITANNIA never appeared in the Shipping List.
 
-Just at this juncture the old cousin died, and Harry Grant's two children were left alone in the world.
+[SC-004-006]Just at this juncture the old cousin died, and Harry Grant's two children were left alone in the world.
 
-Mary Grant was then only fourteen, but she resolved to face her situation bravely, and to devote herself entirely to her little brother, who was still a mere child. By dint of close economy, combined with tact and prudence, she managed to support and educate him, working day and night, denying herself everything, that she might give him all he needed, watching over him and caring for him like a mother.
+[SC-004-007]Mary Grant was then only fourteen, but she resolved to face her situation bravely, and to devote herself entirely to her little brother, who was still a mere child. By dint of close economy, combined with tact and prudence, she managed to support and educate him, working day and night, denying herself everything, that she might give him all he needed, watching over him and caring for him like a mother.
 
-The two children were living in this touching manner in Dundee, struggling patiently and courageously with their poverty. Mary thought only of her brother, and indulged in dreams of a prosperous future for him. She had long given up all hope of the BRITANNIA, and was fully persuaded that her father was dead. What, then, was her emotion when she accidentally saw the notice in the TIMES!
+[SC-004-008]The two children were living in this touching manner in Dundee, struggling patiently and courageously with their poverty. Mary thought only of her brother, and indulged in dreams of a prosperous future for him. She had long given up all hope of the BRITANNIA, and was fully persuaded that her father was dead. What, then, was her emotion when she accidentally saw the notice in the TIMES!
 
-She never hesitated for an instant as to the course she should adopt, but determined to go to Dumbartonshire immediately, to learn the best and worst. Even if she were to be told that her father's lifeless body had been found on a distant shore, or in the bottom of some abandoned ship, it would be a relief from incessant doubt and torturing suspense.
+[SC-004-009]She never hesitated for an instant as to the course she should adopt, but determined to go to Dumbartonshire immediately, to learn the best and worst. Even if she were to be told that her father's lifeless body had been found on a distant shore, or in the bottom of some abandoned ship, it would be a relief from incessant doubt and torturing suspense.
 
-She told her brother about the advertisement, and the two children started off together that same day for Perth, where they took the train, and arrived in the evening at Malcolm Castle.
+[SC-004-010]She told her brother about the advertisement, and the two children started off together that same day for Perth, where they took the train, and arrived in the evening at Malcolm Castle.
 
-Such was Mary Grant's sorrowful story, and she recounted it in so simple and unaffected a manner, that it was evident she never thought her conduct had been that of a heroine through those long trying years. But Lady Helena thought it for her, and more than once she put her arms round both the children, and could not restrain her tears.
+[SC-004-011]Such was Mary Grant's sorrowful story, and she recounted it in so simple and unaffected a manner, that it was evident she never thought her conduct had been that of a heroine through those long trying years. But Lady Helena thought it for her, and more than once she put her arms round both the children, and could not restrain her tears.
 
-As for Robert, he seemed to have heard these particulars for the first time. All the while his sister was speaking, he gazed at her with wide-open eyes, only knowing now how much she had done and suffered for him; and, as she ended, he flung himself on her neck, and exclaimed, "Oh, mamma! My dear little mamma!"
+[SC-004-012]As for Robert, he seemed to have heard these particulars for the first time. All the while his sister was speaking, he gazed at her with wide-open eyes, only knowing now how much she had done and suffered for him; and, as she ended, he flung himself on her neck, and exclaimed, "Oh, mamma! My dear little mamma!"
 
-It was quite dark by this time, and Lady Helena made the children go to bed, for she knew they must be tired after their journey. They were soon both sound asleep, dreaming of happy days.
+[SC-004-013]It was quite dark by this time, and Lady Helena made the children go to bed, for she knew they must be tired after their journey. They were soon both sound asleep, dreaming of happy days.
 
-After they had retired. Lady Helena sent for Major McNabbs, and told him the incidents of the evening.
+[SC-004-014]After they had retired. Lady Helena sent for Major McNabbs, and told him the incidents of the evening.
 
-"That Mary Grant must be a brave girl," said the Major.
+[SC-004-015]"That Mary Grant must be a brave girl," said the Major.
 
-"I only hope my husband will succeed, for the poor children's sake," said his cousin. "It would be terrible for them if he did not."
+[SC-004-016]"I only hope my husband will succeed, for the poor children's sake," said his cousin. "It would be terrible for them if he did not."
 
-"He will be sure to succeed, or the Lords of the Admiralty must have hearts harder than Portland stone."
+[SC-004-017]"He will be sure to succeed, or the Lords of the Admiralty must have hearts harder than Portland stone."
 
-But, notwithstanding McNabbs's assurance, Lady Helena passed the night in great anxiety, and could not close her eyes.
+[SC-004-018]But, notwithstanding McNabbs's assurance, Lady Helena passed the night in great anxiety, and could not close her eyes.
 
-Mary Grant and her brother were up very early next morning, and were walking about in the courtyard when they heard the sound of a carriage approaching. It was Lord Glenarvan; and, almost immediately, Lady Helena and the Major came out to meet him.
+[SC-004-019]Mary Grant and her brother were up very early next morning, and were walking about in the courtyard when they heard the sound of a carriage approaching. It was Lord Glenarvan; and, almost immediately, Lady Helena and the Major came out to meet him.
 
-Lady Helena flew toward her husband the moment he alighted; but he embraced her silently, and looked gloomy and disappointed-- indeed, even furious.
+[SC-004-020]Lady Helena flew toward her husband the moment he alighted; but he embraced her silently, and looked gloomy and disappointed-- indeed, even furious.
 
-"Well, Edward?" she said; "tell me."
+[SC-004-021]"Well, Edward?" she said; "tell me."
 
-"Well, Helena, dear; those people have no heart!"
+[SC-004-022]"Well, Helena, dear; those people have no heart!"
 
-"They have refused?"
+[SC-004-023]"They have refused?"
 
-"Yes. They have refused me a ship! They talked of the millions that had been wasted in search for Franklin, and declared the document was obscure and unintelligible. And, then, they said it was two years now since they were cast away, and there was little chance of finding them. Besides, they would have it that the Indians, who made them prisoners, would have dragged them into the interior, and it was impossible, they said, to hunt all through Patagonia for three men--three Scotchmen; that the search would be vain and perilous, and cost more lives than it saved. In short, they assigned all the reasons that people invent who have made up their minds to refuse. The truth is, they remembered Captain Grant's projects, and that is the secret of the whole affair. So the poor fellow is lost for ever."
+[SC-004-024]"Yes. They have refused me a ship! They talked of the millions that had been wasted in search for Franklin, and declared the document was obscure and unintelligible. And, then, they said it was two years now since they were cast away, and there was little chance of finding them. Besides, they would have it that the Indians, who made them prisoners, would have dragged them into the interior, and it was impossible, they said, to hunt all through Patagonia for three men--three Scotchmen; that the search would be vain and perilous, and cost more lives than it saved. In short, they assigned all the reasons that people invent who have made up their minds to refuse. The truth is, they remembered Captain Grant's projects, and that is the secret of the whole affair. So the poor fellow is lost for ever."
 
-"My father! my poor father!" cried Mary Grant, throwing herself on her knees before Lord Glenarvan, who exclaimed in amazement:
+[SC-004-025]"My father! my poor father!" cried Mary Grant, throwing herself on her knees before Lord Glenarvan, who exclaimed in amazement:
 
-"Your father? What? Is this Miss--"
+[SC-004-026]"Your father? What? Is this Miss--"
 
-"Yes, Edward," said Lady Helena; "this is Miss Mary Grant and her brother, the two children condemned to orphanage by the cruel Admiralty!"
+[SC-004-027]"Yes, Edward," said Lady Helena; "this is Miss Mary Grant and her brother, the two children condemned to orphanage by the cruel Admiralty!"
 
-"Oh! Miss Grant," said Lord Glenarvan, raising the young girl, "if I had known of your presence--"
+[SC-004-028]"Oh! Miss Grant," said Lord Glenarvan, raising the young girl, "if I had known of your presence--"
 
-He said no more, and there was a painful silence in the courtyard, broken only by sobs. No one spoke, but the very attitude of both servants and masters spoke their indignation at the conduct of the English Government.
+[SC-004-029]He said no more, and there was a painful silence in the courtyard, broken only by sobs. No one spoke, but the very attitude of both servants and masters spoke their indignation at the conduct of the English Government.
 
-At last the Major said, addressing Lord Glenarvan: "Then you have no hope whatever?"
+[SC-004-030]At last the Major said, addressing Lord Glenarvan: "Then you have no hope whatever?"
 
-"None," was the reply.
+[SC-004-031]"None," was the reply.
 
-"Very well, then," exclaimed little Robert, "I'll go and speak to those people myself, and we'll see if they--" He did not complete his sentence, for his sister stopped him; but his clenched fists showed his intentions were the reverse of pacific.
+[SC-004-032]"Very well, then," exclaimed little Robert, "I'll go and speak to those people myself, and we'll see if they--" He did not complete his sentence, for his sister stopped him; but his clenched fists showed his intentions were the reverse of pacific.
 
-"No, Robert," said Mary Grant, "we will thank this noble lord and lady for what they have done for us, and never cease to think of them with gratitude; and then we'll both go together."
+[SC-004-033]"No, Robert," said Mary Grant, "we will thank this noble lord and lady for what they have done for us, and never cease to think of them with gratitude; and then we'll both go together."
 
-"Mary!" said Lady Helena, in a tone of surprise.
+[SC-004-034]"Mary!" said Lady Helena, in a tone of surprise.
 
-"Go where?" asked Lord Glenarvan.
+[SC-004-035]"Go where?" asked Lord Glenarvan.
 
-"I am going to throw myself at the Queen's feet, and we shall see if she will turn a deaf ear to the prayers of two children, who implore their father's life."
+[SC-004-036]"I am going to throw myself at the Queen's feet, and we shall see if she will turn a deaf ear to the prayers of two children, who implore their father's life."
 
-Lord Glenarvan shook his head; not that he doubted the kind heart of her Majesty, but he knew Mary would never gain access to her. Suppliants but too rarely reach the steps of a throne; it seems as if royal palaces had the same inscription on their doors that the English have on their ships: _Passengers are requested not to speak to the man at the wheel_.
+[SC-004-037]Lord Glenarvan shook his head; not that he doubted the kind heart of her Majesty, but he knew Mary would never gain access to her. Suppliants but too rarely reach the steps of a throne; it seems as if royal palaces had the same inscription on their doors that the English have on their ships: _Passengers are requested not to speak to the man at the wheel_.
 
-Lady Glenarvan understood what was passing in her husband's mind, and she felt the young girl's attempt would be useless, and only plunge the poor children in deeper despair. Suddenly, a grand, generous purpose fired her soul, and she called out: "Mary Grant! wait, my child, and listen to what I'm going to say."
+[SC-004-038]Lady Glenarvan understood what was passing in her husband's mind, and she felt the young girl's attempt would be useless, and only plunge the poor children in deeper despair. Suddenly, a grand, generous purpose fired her soul, and she called out: "Mary Grant! wait, my child, and listen to what I'm going to say."
 
-Mary had just taken her brother by the hand, and turned to go away; but she stepped back at Lady Helena's bidding.
+[SC-004-039]Mary had just taken her brother by the hand, and turned to go away; but she stepped back at Lady Helena's bidding.
 
-The young wife went up to her husband, and said, with tears in her eyes, though her voice was firm, and her face beamed with animation: "Edward, when Captain Grant wrote that letter and threw it into the sea, he committed it to the care of God. God has sent it to us--to us! Undoubtedly God intends us to undertake the rescue of these poor men."
+[SC-004-040]The young wife went up to her husband, and said, with tears in her eyes, though her voice was firm, and her face beamed with animation: "Edward, when Captain Grant wrote that letter and threw it into the sea, he committed it to the care of God. God has sent it to us--to us! Undoubtedly God intends us to undertake the rescue of these poor men."
 
-"What do you mean, Helena?"
+[SC-004-041]"What do you mean, Helena?"
 
-"I mean this, that we ought to think ourselves fortunate if we can begin our married life with a good action. Well, you know, Edward, that to please me you planned a pleasure trip; but what could give us such genuine pleasure, or be so useful, as to save those unfortunate fellows, cast off by their country?"
+[SC-004-042]"I mean this, that we ought to think ourselves fortunate if we can begin our married life with a good action. Well, you know, Edward, that to please me you planned a pleasure trip; but what could give us such genuine pleasure, or be so useful, as to save those unfortunate fellows, cast off by their country?"
 
-"Helena!" exclaimed Lord Glenarvan.
+[SC-004-043]"Helena!" exclaimed Lord Glenarvan.
 
-"Yes, Edward, you understand me. The DUNCAN is a good strong ship, she can venture in the Southern Seas, or go round the world if necessary. Let us go, Edward; let us start off and search for Captain Grant!"
+[SC-004-044]"Yes, Edward, you understand me. The DUNCAN is a good strong ship, she can venture in the Southern Seas, or go round the world if necessary. Let us go, Edward; let us start off and search for Captain Grant!"
 
-Lord Glenarvan made no reply to this bold proposition, but smiled, and, holding out his arms, drew his wife into a close, fond embrace. Mary and Robert seized her hands, and covered them with kisses; and the servants who thronged the courtyard, and had been witnesses of this touching scene, shouted with one voice, "Hurrah for the Lady of Luss. Three cheers for Lord and Lady Glenarvan!"
+[SC-004-045]Lord Glenarvan made no reply to this bold proposition, but smiled, and, holding out his arms, drew his wife into a close, fond embrace. Mary and Robert seized her hands, and covered them with kisses; and the servants who thronged the courtyard, and had been witnesses of this touching scene, shouted with one voice, "Hurrah for the Lady of Luss. Three cheers for Lord and Lady Glenarvan!"

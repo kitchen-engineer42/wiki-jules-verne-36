@@ -11,22 +11,22 @@ tags: [chapter]
 ---
 # The Underground City — CHAPTER XIX. THE LEGEND OF OLD SILFAX
 
-Six months after these events, the marriage, so strangely interrupted, was finally celebrated in St. Giles's chapel, and the young couple, who still wore mourning garments, returned to the cottage. James Starr and Simon Ford, henceforth free from the anxieties which had so long distressed them, joyously presided over the entertainment which followed the ceremony, and prolonged it to the following day.
+[UC-019-001]Six months after these events, the marriage, so strangely interrupted, was finally celebrated in St. Giles's chapel, and the young couple, who still wore mourning garments, returned to the cottage. James Starr and Simon Ford, henceforth free from the anxieties which had so long distressed them, joyously presided over the entertainment which followed the ceremony, and prolonged it to the following day.
 
-On this memorable occasion, Jack Ryan, in his favorite character of piper, and in all the glory of full dress, blew up his chanter, and astonished the company by the unheard of achievement of playing, singing, and dancing all at once.
+[UC-019-002]On this memorable occasion, Jack Ryan, in his favorite character of piper, and in all the glory of full dress, blew up his chanter, and astonished the company by the unheard of achievement of playing, singing, and dancing all at once.
 
-It is needless to say that Harry and Nell were happy. These loving hearts, after the trials they had gone through found in their union the happiness they deserved.
+[UC-019-003]It is needless to say that Harry and Nell were happy. These loving hearts, after the trials they had gone through found in their union the happiness they deserved.
 
-As to Simon Ford, the ex-overman of New Aberfoyle, he began to talk of celebrating his golden wedding, after fifty years of marriage with good old Madge, who liked the idea immensely herself.
+[UC-019-004]As to Simon Ford, the ex-overman of New Aberfoyle, he began to talk of celebrating his golden wedding, after fifty years of marriage with good old Madge, who liked the idea immensely herself.
 
-"And after that, why not golden wedding number two?"
+[UC-019-005]"And after that, why not golden wedding number two?"
 
-"You would like a couple of fifties, would you, Mr. Simon?" said Jack Ryan.
+[UC-019-006]"You would like a couple of fifties, would you, Mr. Simon?" said Jack Ryan.
 
-"All right, my boy," replied the overman quietly, "I see nothing against it in this fine climate of ours, and living far from the luxury and intemperance of the outer world."
+[UC-019-007]"All right, my boy," replied the overman quietly, "I see nothing against it in this fine climate of ours, and living far from the luxury and intemperance of the outer world."
 
-Will the dwellers in Coal Town ever be called to witness this second ceremony? Time will show. Certainly the strange bird of old Silfax seemed destined to attain a wonderful longevity. The Harfang continued to haunt the gloomy recesses of the cave. After the old man's death, Nell had attempted to keep the owl, but in a very few days he flew away. He evidently disliked human society as much as his master had done, and, besides that, he appeared to have a particular spite against Harry. The jealous bird seemed to remember and hate him for having carried off Nell from the deep abyss, notwithstanding all he could do to prevent him. Still, at long intervals, Nell would see the creature hovering above Loch Malcolm.
+[UC-019-008]Will the dwellers in Coal Town ever be called to witness this second ceremony? Time will show. Certainly the strange bird of old Silfax seemed destined to attain a wonderful longevity. The Harfang continued to haunt the gloomy recesses of the cave. After the old man's death, Nell had attempted to keep the owl, but in a very few days he flew away. He evidently disliked human society as much as his master had done, and, besides that, he appeared to have a particular spite against Harry. The jealous bird seemed to remember and hate him for having carried off Nell from the deep abyss, notwithstanding all he could do to prevent him. Still, at long intervals, Nell would see the creature hovering above Loch Malcolm.
 
-Could he possibly be watching for his friend of yore? Did he strive to pierce, with keen eye, the depths which had engulfed his master?
+[UC-019-009]Could he possibly be watching for his friend of yore? Did he strive to pierce, with keen eye, the depths which had engulfed his master?
 
-The history of the Harfang became legendary, and furnished Jack Ryan with many a tale and song. Thanks to him, the story of old Silfax and his bird will long be preserved, and handed down to future generations of the Scottish peasantry.
+[UC-019-010]The history of the Harfang became legendary, and furnished Jack Ryan with many a tale and song. Thanks to him, the story of old Silfax and his bird will long be preserved, and handed down to future generations of the Scottish peasantry.

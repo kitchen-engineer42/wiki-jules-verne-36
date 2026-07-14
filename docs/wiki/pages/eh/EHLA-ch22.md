@@ -12,152 +12,152 @@ tags: [chapter]
 ---
 # Eight Hundred Leagues on the Amazon — CHAPTER II. THE FIRST MOMENTS
 
-SCARCELY HAD the pirogue which bore off Joam Garral, or rather Joam Dacosta--for it is more convenient that he should resume his real name--disappeared, than Benito stepped up to Manoel.
+[EHLA-022-001]SCARCELY HAD the pirogue which bore off Joam Garral, or rather Joam Dacosta--for it is more convenient that he should resume his real name--disappeared, than Benito stepped up to Manoel.
 
-"What is it you know?" he asked.
+[EHLA-022-002]"What is it you know?" he asked.
 
-"I know that your father is innocent! Yes, innocent!" replied Manoel, "and that he was sentenced to death twenty-three years ago for a crime which he never committed!"
+[EHLA-022-003]"I know that your father is innocent! Yes, innocent!" replied Manoel, "and that he was sentenced to death twenty-three years ago for a crime which he never committed!"
 
-"He has told you all about it, Manoel?"
+[EHLA-022-004]"He has told you all about it, Manoel?"
 
-"All about it," replied the young man. "The noble fazender did not wish that any part of his past life should be hidden from him who, when he marries his daughter, is to be his second son."
+[EHLA-022-005]"All about it," replied the young man. "The noble fazender did not wish that any part of his past life should be hidden from him who, when he marries his daughter, is to be his second son."
 
-"And the proof of his innocence my father can one day produce?"
+[EHLA-022-006]"And the proof of his innocence my father can one day produce?"
 
-"That proof, Benito, lies wholly in the twenty-three years of an honorable and honored life, lies entirely in the bearing of Joam Dacosta, who comes forward to say to justice, 'Here am I! I do not care for this false existence any more. I do not care to hide under a name which is not my true one! You have condemned an innocent man! Confess your errors and set matters right.'"
+[EHLA-022-007]"That proof, Benito, lies wholly in the twenty-three years of an honorable and honored life, lies entirely in the bearing of Joam Dacosta, who comes forward to say to justice, 'Here am I! I do not care for this false existence any more. I do not care to hide under a name which is not my true one! You have condemned an innocent man! Confess your errors and set matters right.'"
 
-"And when my father spoke like that, you did not hesitate for a moment to believe him?"
+[EHLA-022-008]"And when my father spoke like that, you did not hesitate for a moment to believe him?"
 
-"Not for an instant," replied Manoel.
+[EHLA-022-009]"Not for an instant," replied Manoel.
 
-The hands of the two young fellows closed in a long and cordial grasp.
+[EHLA-022-010]The hands of the two young fellows closed in a long and cordial grasp.
 
-Then Benito went up to Padre Passanha.
+[EHLA-022-011]Then Benito went up to Padre Passanha.
 
-"Padre," he said, "take my mother and sister away to their rooms. Do not leave them all day. No one here doubts my father's innocence--not one, you know that! To-morrow my mother and I will seek out the chief of the police. They will not refuse us permission to visit the prison. No! that would be too cruel. We will see my father again, and decide what steps shall be taken to procure his vindication."
+[EHLA-022-012]"Padre," he said, "take my mother and sister away to their rooms. Do not leave them all day. No one here doubts my father's innocence--not one, you know that! To-morrow my mother and I will seek out the chief of the police. They will not refuse us permission to visit the prison. No! that would be too cruel. We will see my father again, and decide what steps shall be taken to procure his vindication."
 
-Yaquita was almost helpless, but the brave woman, though nearly crushed by this sudden blow, arose. With Yaquita Dacosta it was as with Yaquita Garral. She had not a doubt as to the innocence of her husband. The idea even never occurred to her that Joam Dacosta had been to blame in marrying her under a name which was not his own. She only thought of the life of happiness she had led with the noble man who had been injured so unjustly. Yes! On the morrow she would go to the gate of the prison, and never leave it until it was opened!
+[EHLA-022-013]Yaquita was almost helpless, but the brave woman, though nearly crushed by this sudden blow, arose. With Yaquita Dacosta it was as with Yaquita Garral. She had not a doubt as to the innocence of her husband. The idea even never occurred to her that Joam Dacosta had been to blame in marrying her under a name which was not his own. She only thought of the life of happiness she had led with the noble man who had been injured so unjustly. Yes! On the morrow she would go to the gate of the prison, and never leave it until it was opened!
 
-Padre Passanha took her and her daughter, who could not restrain her tears, and the three entered the house.
+[EHLA-022-014]Padre Passanha took her and her daughter, who could not restrain her tears, and the three entered the house.
 
-The two young fellows found themselves alone.
+[EHLA-022-015]The two young fellows found themselves alone.
 
-"And now," said Benito, "I ought to know all that my father has told you."
+[EHLA-022-016]"And now," said Benito, "I ought to know all that my father has told you."
 
-"I have nothing to hide from you."
+[EHLA-022-017]"I have nothing to hide from you."
 
-"Why did Torres come on board the jangada?"
+[EHLA-022-018]"Why did Torres come on board the jangada?"
 
-"To see to Joam Dacosta the secret of his past life."
+[EHLA-022-019]"To see to Joam Dacosta the secret of his past life."
 
-"And so, when we first met Torres in the forest of Iquitos, his plan had already been formed to enter into communication with my father?"
+[EHLA-022-020]"And so, when we first met Torres in the forest of Iquitos, his plan had already been formed to enter into communication with my father?"
 
-"There cannot be a doubt of it," replied Manoel. "The scoundrel was on his way to the fazenda with the idea of consummating a vile scheme of extortion which he had been preparing for a long time."
+[EHLA-022-021]"There cannot be a doubt of it," replied Manoel. "The scoundrel was on his way to the fazenda with the idea of consummating a vile scheme of extortion which he had been preparing for a long time."
 
-"And when he learned from us that my father and his whole family were about to pass the frontier, he suddenly changed his line of conduct?"
+[EHLA-022-022]"And when he learned from us that my father and his whole family were about to pass the frontier, he suddenly changed his line of conduct?"
 
-"Yes. Because Joam Dacosta once in Brazilian territory became more at his mercy than while within the frontiers of Peru. That is why we found Torres at Tabatinga, where he was waiting in expectation of our arrival."
+[EHLA-022-023]"Yes. Because Joam Dacosta once in Brazilian territory became more at his mercy than while within the frontiers of Peru. That is why we found Torres at Tabatinga, where he was waiting in expectation of our arrival."
 
-"And it was I who offered him a passage on the raft!" exclaimed Benito, with a gesture of despair.
+[EHLA-022-024]"And it was I who offered him a passage on the raft!" exclaimed Benito, with a gesture of despair.
 
-"Brother," said Manoel, "you need not reproach yourself. Torres would have joined us sooner or later. He was not the man to abandon such a trail. Had we lost him at Tabatinga, we should have found him at Manaos."
+[EHLA-022-025]"Brother," said Manoel, "you need not reproach yourself. Torres would have joined us sooner or later. He was not the man to abandon such a trail. Had we lost him at Tabatinga, we should have found him at Manaos."
 
-"Yes, Manoel, you are right. But we are not concerned with the past now. We must think of the present. An end to useless recriminations! Let us see!" And while speaking, Benito, passing his hand across his forehead, endeavored to grasp the details of the strange affair.
+[EHLA-022-026]"Yes, Manoel, you are right. But we are not concerned with the past now. We must think of the present. An end to useless recriminations! Let us see!" And while speaking, Benito, passing his hand across his forehead, endeavored to grasp the details of the strange affair.
 
-"How," he asked, "did Torres ascertain that my father had been sentenced twenty-three years back for this abominable crime at Tijuco?"
+[EHLA-022-027]"How," he asked, "did Torres ascertain that my father had been sentenced twenty-three years back for this abominable crime at Tijuco?"
 
-"I do not know," answered Manoel, "and everything leads me to think that your father did not know that."
+[EHLA-022-028]"I do not know," answered Manoel, "and everything leads me to think that your father did not know that."
 
-"But Torres knew that Garral was the name under which Joam Dacosta was living?"
+[EHLA-022-029]"But Torres knew that Garral was the name under which Joam Dacosta was living?"
 
-"Evidently."
+[EHLA-022-030]"Evidently."
 
-"And he knew that it was in Peru, at Iquitos, that for so many years my father had taken refuge?"
+[EHLA-022-031]"And he knew that it was in Peru, at Iquitos, that for so many years my father had taken refuge?"
 
-"He knew it," said Manoel, "but how he came to know it I do not understand."
+[EHLA-022-032]"He knew it," said Manoel, "but how he came to know it I do not understand."
 
-"One more question," continued Benito. "What was the proposition that Torres made to my father during the short interview which preceded his expulsion?"
+[EHLA-022-033]"One more question," continued Benito. "What was the proposition that Torres made to my father during the short interview which preceded his expulsion?"
 
-"He threatened to denounce Joam Garral as being Joam Dacosta, if he declined to purchase his silence."
+[EHLA-022-034]"He threatened to denounce Joam Garral as being Joam Dacosta, if he declined to purchase his silence."
 
-"And at what price?"
+[EHLA-022-035]"And at what price?"
 
-"At the price of his daughter's hand!" answered Manoel unhesitatingly, but pale with anger.
+[EHLA-022-036]"At the price of his daughter's hand!" answered Manoel unhesitatingly, but pale with anger.
 
-"The scoundrel dared to do that!" exclaimed Benito.
+[EHLA-022-037]"The scoundrel dared to do that!" exclaimed Benito.
 
-"To this infamous request, Benito, you saw the reply that your father gave."
+[EHLA-022-038]"To this infamous request, Benito, you saw the reply that your father gave."
 
-"Yes, Manoel, yes! The indignant reply of an honest man. He kicked Torres off the raft. But it is not enough to have kicked him out. No! That will not do for me. It was on Torres' information that they came here and arrested my father; is not that so?"
+[EHLA-022-039]"Yes, Manoel, yes! The indignant reply of an honest man. He kicked Torres off the raft. But it is not enough to have kicked him out. No! That will not do for me. It was on Torres' information that they came here and arrested my father; is not that so?"
 
-"Yes, on his denunciation."
+[EHLA-022-040]"Yes, on his denunciation."
 
-"Very well," continued Benito, shaking his fist toward the left bank of the river, "I must find out Torres. I must know how he became master of the secret. He must tell me if he knows the real author of this crime. He shall speak out. And if he does not speak out, I know what I shall have to do."
+[EHLA-022-041]"Very well," continued Benito, shaking his fist toward the left bank of the river, "I must find out Torres. I must know how he became master of the secret. He must tell me if he knows the real author of this crime. He shall speak out. And if he does not speak out, I know what I shall have to do."
 
-"What you will have to do is for me to do as well!" added Manoel, more coolly, but not less resolutely.
+[EHLA-022-042]"What you will have to do is for me to do as well!" added Manoel, more coolly, but not less resolutely.
 
-"No! Manoel, no, to me alone!"
+[EHLA-022-043]"No! Manoel, no, to me alone!"
 
-"We are brothers, Benito," replied Manoel. "The right of demanding an explanation belongs to us both."
+[EHLA-022-044]"We are brothers, Benito," replied Manoel. "The right of demanding an explanation belongs to us both."
 
-Benito made no reply. Evidently on that subject his decision was irrevocable.
+[EHLA-022-045]Benito made no reply. Evidently on that subject his decision was irrevocable.
 
-At this moment the pilot Araujo, who had been observing the state of the river, came up to them.
+[EHLA-022-046]At this moment the pilot Araujo, who had been observing the state of the river, came up to them.
 
-"Have you decided," he asked, "if the raft is to remain at her moorings at the Isle of Muras, or to go on to the port of Manaos?"
+[EHLA-022-047]"Have you decided," he asked, "if the raft is to remain at her moorings at the Isle of Muras, or to go on to the port of Manaos?"
 
-The question had to be decided before nightfall, and the sooner it was settled the better.
+[EHLA-022-048]The question had to be decided before nightfall, and the sooner it was settled the better.
 
-In fact, the news of the arrest of Joam Dacosta ought already to have spread through the town. That it was of a nature to excite the interest of the population of Manaos could scarcely be doubted. But would it provoke more than curiosity against the condemned man, who was the principal author of the crime of Tijuco, which had formerly created such a sensation? Ought they not to fear that some popular movement might be directed against the prisoner? In the face of this hypothesis was it not better to leave the jangada moored near the Isle of Muras on the right bank of the river at a few miles from Manaos?
+[EHLA-022-049]In fact, the news of the arrest of Joam Dacosta ought already to have spread through the town. That it was of a nature to excite the interest of the population of Manaos could scarcely be doubted. But would it provoke more than curiosity against the condemned man, who was the principal author of the crime of Tijuco, which had formerly created such a sensation? Ought they not to fear that some popular movement might be directed against the prisoner? In the face of this hypothesis was it not better to leave the jangada moored near the Isle of Muras on the right bank of the river at a few miles from Manaos?
 
-The pros and cons of the question were well weighed.
+[EHLA-022-050]The pros and cons of the question were well weighed.
 
-"No!" at length exclaimed Benito; "to remain here would look as though we were abandoning my father and doubting his innocence--as though we were afraid to make common cause with him. We must go to Manaos, and without delay."
+[EHLA-022-051]"No!" at length exclaimed Benito; "to remain here would look as though we were abandoning my father and doubting his innocence--as though we were afraid to make common cause with him. We must go to Manaos, and without delay."
 
-"You are right," replied Manoel. "Let us go."
+[EHLA-022-052]"You are right," replied Manoel. "Let us go."
 
-Araujo, with an approving nod, began his preparations for leaving the island. The maneuver necessitated a good deal of care. They had to work the raft slantingly across the current of the Amazon, here doubled in force by that of the Rio Negro, and to make for the _embouchure_ of the tributary about a dozen miles down on the left bank.
+[EHLA-022-053]Araujo, with an approving nod, began his preparations for leaving the island. The maneuver necessitated a good deal of care. They had to work the raft slantingly across the current of the Amazon, here doubled in force by that of the Rio Negro, and to make for the _embouchure_ of the tributary about a dozen miles down on the left bank.
 
-The ropes were cast off from the island. The jangada, again started on the river, began to drift off diagonally. Araujo, cleverly profiting by the bendings of the current, which were due to the projections of the banks, and assisted by the long poles of his crew, succeeded in working the immense raft in the desired direction.
+[EHLA-022-054]The ropes were cast off from the island. The jangada, again started on the river, began to drift off diagonally. Araujo, cleverly profiting by the bendings of the current, which were due to the projections of the banks, and assisted by the long poles of his crew, succeeded in working the immense raft in the desired direction.
 
-In two hours the jangada was on the other side of the Amazon, a little above the mouth of the Rio Negro, and fairly in the current which was to take it to the lower bank of the vast bay which opened on the left side of the stream.
+[EHLA-022-055]In two hours the jangada was on the other side of the Amazon, a little above the mouth of the Rio Negro, and fairly in the current which was to take it to the lower bank of the vast bay which opened on the left side of the stream.
 
-At five o'clock in the evening it was strongly moored alongside this bank, not in the port of Manaos itself, which it could not enter without stemming a rather powerful current, but a short mile below it.
+[EHLA-022-056]At five o'clock in the evening it was strongly moored alongside this bank, not in the port of Manaos itself, which it could not enter without stemming a rather powerful current, but a short mile below it.
 
-The raft was then in the black waters of the Rio Negro, near rather a high bluff covered with cecropias with buds of reddish-brown, and palisaded with stiff-stalked reeds called _"froxas,"_ of which the Indians make some of their weapons.
+[EHLA-022-057]The raft was then in the black waters of the Rio Negro, near rather a high bluff covered with cecropias with buds of reddish-brown, and palisaded with stiff-stalked reeds called _"froxas,"_ of which the Indians make some of their weapons.
 
-A few citizens were strolling about the bank. A feeling of curiosity had doubtless attracted them to the anchorage of the raft. The news of the arrest of Joam Dacosta had soon spread about, but the curiosity of the Manaens did not outrun their discretion, and they were very quiet.
+[EHLA-022-058]A few citizens were strolling about the bank. A feeling of curiosity had doubtless attracted them to the anchorage of the raft. The news of the arrest of Joam Dacosta had soon spread about, but the curiosity of the Manaens did not outrun their discretion, and they were very quiet.
 
-Benito's intention had been to land that evening, but Manoel dissuaded him.
+[EHLA-022-059]Benito's intention had been to land that evening, but Manoel dissuaded him.
 
-"Wait till to-morrow," he said; "night is approaching, and there is no necessity for us to leave the raft."
+[EHLA-022-060]"Wait till to-morrow," he said; "night is approaching, and there is no necessity for us to leave the raft."
 
-"So be it! To-morrow!" answered Benito.
+[EHLA-022-061]"So be it! To-morrow!" answered Benito.
 
-And here Yaquita, followed by her daughter and Padre Passanha, came out of the house. Minha was still weeping, but her mother's face was tearless, and she had that look of calm resolution which showed that the wife was now ready for all things, either to do her duty or to insist on her rights.
+[EHLA-022-062]And here Yaquita, followed by her daughter and Padre Passanha, came out of the house. Minha was still weeping, but her mother's face was tearless, and she had that look of calm resolution which showed that the wife was now ready for all things, either to do her duty or to insist on her rights.
 
-Yaquita slowly advanced toward Manoel.
+[EHLA-022-063]Yaquita slowly advanced toward Manoel.
 
-"Manoel," she said, "listen to what I have to say, for my conscience commands me to speak as I am about to do."
+[EHLA-022-064]"Manoel," she said, "listen to what I have to say, for my conscience commands me to speak as I am about to do."
 
-"I am listening," replied Manoel.
+[EHLA-022-065]"I am listening," replied Manoel.
 
-Yaquita, looking him straight in the face, continued: "Yesterday, after the interview you had with Joam Dacosta, my husband, you came to me and called me--mother! You took Minha's hand, and called her--your wife! You then knew everything, and the past life of Joam Dacosta had been disclosed to you."
+[EHLA-022-066]Yaquita, looking him straight in the face, continued: "Yesterday, after the interview you had with Joam Dacosta, my husband, you came to me and called me--mother! You took Minha's hand, and called her--your wife! You then knew everything, and the past life of Joam Dacosta had been disclosed to you."
 
-"Yes," answered Manoel, "and heaven forbid I should have had any hesitation in doing so!"
+[EHLA-022-067]"Yes," answered Manoel, "and heaven forbid I should have had any hesitation in doing so!"
 
-"Perhaps so," replied Yaquita; "but then Joam Dacosta had not been arrested. The position is not now the same. However innocent he may be, my husband is in the hands of justice; his past life has been publicly proclaimed. Minha is a convict's daughter."
+[EHLA-022-068]"Perhaps so," replied Yaquita; "but then Joam Dacosta had not been arrested. The position is not now the same. However innocent he may be, my husband is in the hands of justice; his past life has been publicly proclaimed. Minha is a convict's daughter."
 
-"Minha Dacosta or Minha Garral, what matters it to me?" exclaimed Manoel, who could keep silent no longer.
+[EHLA-022-069]"Minha Dacosta or Minha Garral, what matters it to me?" exclaimed Manoel, who could keep silent no longer.
 
-"Manoel!" murmured Minha.
+[EHLA-022-070]"Manoel!" murmured Minha.
 
-And she would certainly have fallen had not Lina's arm supported her.
+[EHLA-022-071]And she would certainly have fallen had not Lina's arm supported her.
 
-"Mother, if you do not wish to kill her," said Manoel, "call me your son!"
+[EHLA-022-072]"Mother, if you do not wish to kill her," said Manoel, "call me your son!"
 
-"My son! my child!"
+[EHLA-022-073]"My son! my child!"
 
-It was all Yaquita could say, and the tears, which she restrained with difficulty, filled her eyes.
+[EHLA-022-074]It was all Yaquita could say, and the tears, which she restrained with difficulty, filled her eyes.
 
-And then they all re-entered the house. But during the long night not an hour's sleep fell to the lot of the unfortunate family who were being so cruelly tried.
+[EHLA-022-075]And then they all re-entered the house. But during the long night not an hour's sleep fell to the lot of the unfortunate family who were being so cruelly tried.

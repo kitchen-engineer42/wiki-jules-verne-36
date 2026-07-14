@@ -11,86 +11,86 @@ tags: [chapter]
 ---
 # Michael Strogoff — CHAPTER XV CONCLUSION
 
-MICHAEL STROGOFF was not, had never been, blind. A purely human phenomenon, at the same time moral and physical, had neutralized the action of the incandescent blade which Feofar's executioner had passed before his eyes.
+[MS-034-001]MICHAEL STROGOFF was not, had never been, blind. A purely human phenomenon, at the same time moral and physical, had neutralized the action of the incandescent blade which Feofar's executioner had passed before his eyes.
 
-It may be remembered, that at the moment of the execution, Marfa Strogoff was present, stretching out her hands towards her son. Michael gazed at her as a son would gaze at his mother, when it is for the last time. The tears, which his pride in vain endeavored to subdue, welling up from his heart, gathered under his eyelids, and volatiliz-ing on the cornea, had saved his sight. The vapor formed by his tears interposing between the glowing saber and his eyeballs, had been sufficient to annihilate the action of the heat. A similar effect is produced, when a workman smelter, after dipping his hand in vapor, can with impunity hold it over a stream of melted iron.
+[MS-034-002]It may be remembered, that at the moment of the execution, Marfa Strogoff was present, stretching out her hands towards her son. Michael gazed at her as a son would gaze at his mother, when it is for the last time. The tears, which his pride in vain endeavored to subdue, welling up from his heart, gathered under his eyelids, and volatiliz-ing on the cornea, had saved his sight. The vapor formed by his tears interposing between the glowing saber and his eyeballs, had been sufficient to annihilate the action of the heat. A similar effect is produced, when a workman smelter, after dipping his hand in vapor, can with impunity hold it over a stream of melted iron.
 
-Michael had immediately understood the danger in which he would be placed should he make known his secret to anyone. He at once saw, on the other hand, that he might make use of his supposed blindness for the accomplishment of his designs. Because it was believed that he was blind, he would be allowed to go free. He must therefore be blind, blind to all, even to Nadia, blind everywhere, and not a gesture at any moment must let the truth be suspected. His resolution was taken. He must risk his life even to afford to all he might meet the proof of his want of sight. We know how perfectly he acted the part he had determined on.
+[MS-034-003]Michael had immediately understood the danger in which he would be placed should he make known his secret to anyone. He at once saw, on the other hand, that he might make use of his supposed blindness for the accomplishment of his designs. Because it was believed that he was blind, he would be allowed to go free. He must therefore be blind, blind to all, even to Nadia, blind everywhere, and not a gesture at any moment must let the truth be suspected. His resolution was taken. He must risk his life even to afford to all he might meet the proof of his want of sight. We know how perfectly he acted the part he had determined on.
 
-His mother alone knew the truth, and he had whispered it to her in Tomsk itself, when bending over her in the dark he covered her with kisses.
+[MS-034-004]His mother alone knew the truth, and he had whispered it to her in Tomsk itself, when bending over her in the dark he covered her with kisses.
 
-When Ogareff had in his cruel irony held the Imperial letter before the eyes which he believed were destroyed, Michael had been able to read, and had read the letter which disclosed the odious plans of the traitor. This was the reason of the wonderful resolution he exhibited during the second part of his journey. This was the reason of his unalterable longing to reach Irkutsk, so as to perform his mission by word of mouth. He knew that the town would be betrayed! He knew that the life of the Grand Duke was threatened! The safety of the Czar's brother and of Siberia was in his hands.
+[MS-034-005]When Ogareff had in his cruel irony held the Imperial letter before the eyes which he believed were destroyed, Michael had been able to read, and had read the letter which disclosed the odious plans of the traitor. This was the reason of the wonderful resolution he exhibited during the second part of his journey. This was the reason of his unalterable longing to reach Irkutsk, so as to perform his mission by word of mouth. He knew that the town would be betrayed! He knew that the life of the Grand Duke was threatened! The safety of the Czar's brother and of Siberia was in his hands.
 
-This story was told in a few words to the Grand Duke, and Michael repeated also--and with what emotion!--the part Nadia had taken in these events.
+[MS-034-006]This story was told in a few words to the Grand Duke, and Michael repeated also--and with what emotion!--the part Nadia had taken in these events.
 
-"Who is this girl?" asked the Grand Duke.
+[MS-034-007]"Who is this girl?" asked the Grand Duke.
 
-"The daughter of the exile, Wassili Fedor," replied Michael.
+[MS-034-008]"The daughter of the exile, Wassili Fedor," replied Michael.
 
-"The daughter of Captain Fedor," said the Grand Duke, "has ceased to be the daughter of an exile. There are no longer exiles in Irkutsk."
+[MS-034-009]"The daughter of Captain Fedor," said the Grand Duke, "has ceased to be the daughter of an exile. There are no longer exiles in Irkutsk."
 
-Nadia, less strong in joy than she had been in grief, fell on her knees before the Grand Duke, who raised her with one hand, while he extended the other to Michael.
+[MS-034-010]Nadia, less strong in joy than she had been in grief, fell on her knees before the Grand Duke, who raised her with one hand, while he extended the other to Michael.
 
-An hour after, Nadia was in her father's arms. Michael Strogoff, Nadia, and Wassili Fedor were united. This was the height of happiness to them all.
+[MS-034-011]An hour after, Nadia was in her father's arms. Michael Strogoff, Nadia, and Wassili Fedor were united. This was the height of happiness to them all.
 
-The Tartars had been repulsed in their double attack on the town. Wassili Fedor, with his little band, had driven back the first assailants who presented themselves at the Bolchaia Gate, expecting to find it open and which, by an instinctive feeling, often arising from sound judgment, he had determined to remain at and defend.
+[MS-034-012]The Tartars had been repulsed in their double attack on the town. Wassili Fedor, with his little band, had driven back the first assailants who presented themselves at the Bolchaia Gate, expecting to find it open and which, by an instinctive feeling, often arising from sound judgment, he had determined to remain at and defend.
 
-At the same time as the Tartars were driven back the besieged had mastered the fire. The liquid naphtha having rapidly burnt to the surface of the water, the flames did not go beyond the houses on the shore, and left the other quarters of the town uninjured. Before daybreak the troops of Feofar-Khan had retreated into their camp, leaving a large number of dead on and below the ramparts.
+[MS-034-013]At the same time as the Tartars were driven back the besieged had mastered the fire. The liquid naphtha having rapidly burnt to the surface of the water, the flames did not go beyond the houses on the shore, and left the other quarters of the town uninjured. Before daybreak the troops of Feofar-Khan had retreated into their camp, leaving a large number of dead on and below the ramparts.
 
-Among the dead was the gypsy Sangarre, who had vainly endeavored to join Ivan Ogareff.
+[MS-034-014]Among the dead was the gypsy Sangarre, who had vainly endeavored to join Ivan Ogareff.
 
-For two days the besiegers attempted no fresh assault. They were discouraged by the death of Ogareff. This man was the mainspring of the invasion, and he alone, by his plots long since contrived, had had sufficient influence over the khans and their hordes to bring them to the conquest of Asiatic Russia.
+[MS-034-015]For two days the besiegers attempted no fresh assault. They were discouraged by the death of Ogareff. This man was the mainspring of the invasion, and he alone, by his plots long since contrived, had had sufficient influence over the khans and their hordes to bring them to the conquest of Asiatic Russia.
 
-However, the defenders of Irkutsk kept on their guard, and the investment still continued; but on the 7th of October, at daybreak, cannon boomed out from the heights around Irkutsk. It was the succoring army under the command of General Kisselef, and it was thus that he made known his welcome arrival to the Grand Duke.
+[MS-034-016]However, the defenders of Irkutsk kept on their guard, and the investment still continued; but on the 7th of October, at daybreak, cannon boomed out from the heights around Irkutsk. It was the succoring army under the command of General Kisselef, and it was thus that he made known his welcome arrival to the Grand Duke.
 
-The Tartars did not wait to be attacked. Not daring to run the risk of a battle under the walls of Irkutsk, they immediately broke up the Angara camp. Irkutsk was at last relieved.
+[MS-034-017]The Tartars did not wait to be attacked. Not daring to run the risk of a battle under the walls of Irkutsk, they immediately broke up the Angara camp. Irkutsk was at last relieved.
 
-With the first Russian soldiers, two of Michael's friends entered the city. They were the inseparable Blount and Jolivet. On gaining the right bank of the Angara by means of the icy barrier, they had escaped, as had the other fugitives, before the flames had reached their raft. This had been noted by Alcide Jolivet in his book in this way: "Ran a narrow chance of being finished up like a lemon in a bowl of punch!"
+[MS-034-018]With the first Russian soldiers, two of Michael's friends entered the city. They were the inseparable Blount and Jolivet. On gaining the right bank of the Angara by means of the icy barrier, they had escaped, as had the other fugitives, before the flames had reached their raft. This had been noted by Alcide Jolivet in his book in this way: "Ran a narrow chance of being finished up like a lemon in a bowl of punch!"
 
-Their joy was great on finding Nadia and Michael safe and sound; above all, when they learnt that their brave companion was not blind. Harry Blount inscribed this observation: "Red-hot iron is insufficient in some cases to destroy the sensibility of the optic nerve."
+[MS-034-019]Their joy was great on finding Nadia and Michael safe and sound; above all, when they learnt that their brave companion was not blind. Harry Blount inscribed this observation: "Red-hot iron is insufficient in some cases to destroy the sensibility of the optic nerve."
 
-Then the two correspondents, settled for a time in Irkutsk, busied themselves in putting the notes and impressions of their journey in order. Thence were sent to London and Paris two interesting articles relative to the Tartar invasion, and which--a rare thing--did not contradict each other even on the least important points.
+[MS-034-020]Then the two correspondents, settled for a time in Irkutsk, busied themselves in putting the notes and impressions of their journey in order. Thence were sent to London and Paris two interesting articles relative to the Tartar invasion, and which--a rare thing--did not contradict each other even on the least important points.
 
-The remainder of the campaign was unfortunate to the Emir and his allies. This invasion, futile as all which attack the Russian Colossus must be, was very fatal to them. They soon found themselves cut off by the Czar's troops, who retook in succession all the conquered towns. Besides this, the winter was terrible, and, decimated by the cold, only a small part of these hordes returned to the steppes of Tartary.
+[MS-034-021]The remainder of the campaign was unfortunate to the Emir and his allies. This invasion, futile as all which attack the Russian Colossus must be, was very fatal to them. They soon found themselves cut off by the Czar's troops, who retook in succession all the conquered towns. Besides this, the winter was terrible, and, decimated by the cold, only a small part of these hordes returned to the steppes of Tartary.
 
-The Irkutsk road, by way of the Ural Mountains, was now open. The Grand Duke was anxious to return to Moscow, but he delayed his journey to be present at a touching ceremony, which took place a few days after the entry of the Russian troops.
+[MS-034-022]The Irkutsk road, by way of the Ural Mountains, was now open. The Grand Duke was anxious to return to Moscow, but he delayed his journey to be present at a touching ceremony, which took place a few days after the entry of the Russian troops.
 
-Michael Strogoff sought Nadia, and in her father's presence said to her, "Nadia, my sister still, when you left Riga to come to Irkutsk, did you leave it with any other regret than that for your mother?"
+[MS-034-023]Michael Strogoff sought Nadia, and in her father's presence said to her, "Nadia, my sister still, when you left Riga to come to Irkutsk, did you leave it with any other regret than that for your mother?"
 
-"No," replied Nadia, "none of any sort whatever."
+[MS-034-024]"No," replied Nadia, "none of any sort whatever."
 
-"Then, nothing of your heart remains there?"
+[MS-034-025]"Then, nothing of your heart remains there?"
 
-"Nothing, brother."
+[MS-034-026]"Nothing, brother."
 
-"Then, Nadia," said Michael, "I think that God, in allowing us to meet, and to go through so many severe trials together, must have meant us to be united forever."
+[MS-034-027]"Then, Nadia," said Michael, "I think that God, in allowing us to meet, and to go through so many severe trials together, must have meant us to be united forever."
 
-"Ah!" said Nadia, falling into Michael's arms. Then turning towards Wassili Fedor, "My father," said she, blushing.
+[MS-034-028]"Ah!" said Nadia, falling into Michael's arms. Then turning towards Wassili Fedor, "My father," said she, blushing.
 
-"Nadia," said Captain Fedor, "it will be my joy to call you both my children!"
+[MS-034-029]"Nadia," said Captain Fedor, "it will be my joy to call you both my children!"
 
-The marriage ceremony took place in Irkutsk cathedral.
+[MS-034-030]The marriage ceremony took place in Irkutsk cathedral.
 
-Jolivet and Blount very naturally assisted at this marriage, of which they wished to give an account to their readers.
+[MS-034-031]Jolivet and Blount very naturally assisted at this marriage, of which they wished to give an account to their readers.
 
-"And doesn't it make you wish to imitate them?" asked Alcide of his friend.
+[MS-034-032]"And doesn't it make you wish to imitate them?" asked Alcide of his friend.
 
-"Pooh!" said Blount. "Now if I had a cousin like you--"
+[MS-034-033]"Pooh!" said Blount. "Now if I had a cousin like you--"
 
-"My cousin isn't to be married!" answered Alcide, laughing.
+[MS-034-034]"My cousin isn't to be married!" answered Alcide, laughing.
 
-"So much the better," returned Blount, "for they speak of difficulties arising between London and Pekin. Have you no wish to go and see what is going on there?"
+[MS-034-035]"So much the better," returned Blount, "for they speak of difficulties arising between London and Pekin. Have you no wish to go and see what is going on there?"
 
-"By Jove, my dear Blount!" exclaimed Alcide Jolivet, "I was just going to make the same proposal to you."
+[MS-034-036]"By Jove, my dear Blount!" exclaimed Alcide Jolivet, "I was just going to make the same proposal to you."
 
-And that was how the two inseparables set off for China.
+[MS-034-037]And that was how the two inseparables set off for China.
 
-A few days after the ceremony, Michael and Nadia Strogoff, accompanied by Wassili Fedor, took the route to Europe. The road so full of suffering when going, was a road of joy in returning. They traveled swiftly, in one of those sleighs which glide like an express train across the frozen steppes of Siberia.
+[MS-034-038]A few days after the ceremony, Michael and Nadia Strogoff, accompanied by Wassili Fedor, took the route to Europe. The road so full of suffering when going, was a road of joy in returning. They traveled swiftly, in one of those sleighs which glide like an express train across the frozen steppes of Siberia.
 
-However, when they reached the banks of the Dinka, just before Birskoe, they stopped for a while. Michael found the place where he had buried poor Nicholas. A cross was erected there, and Nadia prayed a last time on the grave of the humble and heroic friend, whom neither of them would ever forget.
+[MS-034-039]However, when they reached the banks of the Dinka, just before Birskoe, they stopped for a while. Michael found the place where he had buried poor Nicholas. A cross was erected there, and Nadia prayed a last time on the grave of the humble and heroic friend, whom neither of them would ever forget.
 
-At Omsk, old Marfa awaited them in the little house of the Strogoffs. She clasped passionately in her arms the girl whom in her heart she had already a hundred times called "daughter." The brave old Siberian, on that day, had the right to recognize her son and say she was proud of him.
+[MS-034-040]At Omsk, old Marfa awaited them in the little house of the Strogoffs. She clasped passionately in her arms the girl whom in her heart she had already a hundred times called "daughter." The brave old Siberian, on that day, had the right to recognize her son and say she was proud of him.
 
-After a few days passed at Omsk, Michael and Nadia entered Europe, and, Wassili Fedor settling down in St. Petersburg, neither his son nor his daughter had any occasion to leave him, except to go and see their old mother.
+[MS-034-041]After a few days passed at Omsk, Michael and Nadia entered Europe, and, Wassili Fedor settling down in St. Petersburg, neither his son nor his daughter had any occasion to leave him, except to go and see their old mother.
 
-The young courier was received by the Czar, who attached him specially to his own person, and gave him the Cross of St. George. In the course of time, Michael Strogoff reached a high station in the Empire. But it is not the history of his success, but the history of his trials, which deserves to be related.
+[MS-034-042]The young courier was received by the Czar, who attached him specially to his own person, and gave him the Cross of St. George. In the course of time, Michael Strogoff reached a high station in the Empire. But it is not the history of his success, but the history of his trials, which deserves to be related.

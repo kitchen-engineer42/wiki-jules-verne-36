@@ -11,86 +11,86 @@ tags: [chapter]
 ---
 # Around the World in Eighty Days — CHAPTER XXXVII
 
-IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS
+[AWED-037-001]IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS
 
-Yes; Phileas Fogg in person.
+[AWED-037-002]Yes; Phileas Fogg in person.
 
-The reader will remember that at five minutes past eight in the evening--about five and twenty hours after the arrival of the travellers in London--Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.
+[AWED-037-003]The reader will remember that at five minutes past eight in the evening--about five and twenty hours after the arrival of the travellers in London--Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.
 
-Passepartout went on his errand enchanted. He soon reached the clergyman's house, but found him not at home. Passepartout waited a good twenty minutes, and when he left the reverend gentleman, it was thirty-five minutes past eight. But in what a state he was! With his hair in disorder, and without his hat, he ran along the street as never man was seen to run before, overturning passers-by, rushing over the sidewalk like a waterspout.
+[AWED-037-004]Passepartout went on his errand enchanted. He soon reached the clergyman's house, but found him not at home. Passepartout waited a good twenty minutes, and when he left the reverend gentleman, it was thirty-five minutes past eight. But in what a state he was! With his hair in disorder, and without his hat, he ran along the street as never man was seen to run before, overturning passers-by, rushing over the sidewalk like a waterspout.
 
-In three minutes he was in Saville Row again, and staggered back into Mr. Fogg's room.
+[AWED-037-005]In three minutes he was in Saville Row again, and staggered back into Mr. Fogg's room.
 
-He could not speak.
+[AWED-037-006]He could not speak.
 
-"What is the matter?" asked Mr. Fogg.
+[AWED-037-007]"What is the matter?" asked Mr. Fogg.
 
-"My master!" gasped Passepartout--"marriage--impossible--"
+[AWED-037-008]"My master!" gasped Passepartout--"marriage--impossible--"
 
-"Impossible?"
+[AWED-037-009]"Impossible?"
 
-"Impossible--for to-morrow."
+[AWED-037-010]"Impossible--for to-morrow."
 
-"Why so?"
+[AWED-037-011]"Why so?"
 
-"Because to-morrow--is Sunday!"
+[AWED-037-012]"Because to-morrow--is Sunday!"
 
-"Monday," replied Mr. Fogg.
+[AWED-037-013]"Monday," replied Mr. Fogg.
 
-"No--to-day is Saturday."
+[AWED-037-014]"No--to-day is Saturday."
 
-"Saturday? Impossible!"
+[AWED-037-015]"Saturday? Impossible!"
 
-"Yes, yes, yes, yes!" cried Passepartout. "You have made a mistake of one day! We arrived twenty-four hours ahead of time; but there are only ten minutes left!"
+[AWED-037-016]"Yes, yes, yes, yes!" cried Passepartout. "You have made a mistake of one day! We arrived twenty-four hours ahead of time; but there are only ten minutes left!"
 
-Passepartout had seized his master by the collar, and was dragging him along with irresistible force.
+[AWED-037-017]Passepartout had seized his master by the collar, and was dragging him along with irresistible force.
 
-Phileas Fogg, thus kidnapped, without having time to think, left his house, jumped into a cab, promised a hundred pounds to the cabman, and, having run over two dogs and overturned five carriages, reached the Reform Club.
+[AWED-037-018]Phileas Fogg, thus kidnapped, without having time to think, left his house, jumped into a cab, promised a hundred pounds to the cabman, and, having run over two dogs and overturned five carriages, reached the Reform Club.
 
-The clock indicated a quarter before nine when he appeared in the great saloon.
+[AWED-037-019]The clock indicated a quarter before nine when he appeared in the great saloon.
 
-Phileas Fogg had accomplished the journey round the world in eighty days!
+[AWED-037-020]Phileas Fogg had accomplished the journey round the world in eighty days!
 
-Phileas Fogg had won his wager of twenty thousand pounds!
+[AWED-037-021]Phileas Fogg had won his wager of twenty thousand pounds!
 
-How was it that a man so exact and fastidious could have made this error of a day? How came he to think that he had arrived in London on Saturday, the twenty-first day of December, when it was really Friday, the twentieth, the seventy-ninth day only from his departure?
+[AWED-037-022]How was it that a man so exact and fastidious could have made this error of a day? How came he to think that he had arrived in London on Saturday, the twenty-first day of December, when it was really Friday, the twentieth, the seventy-ninth day only from his departure?
 
-The cause of the error is very simple.
+[AWED-037-023]The cause of the error is very simple.
 
-Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward; he would, on the contrary, have lost a day had he gone in the opposite direction, that is, westward.
+[AWED-037-024]Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward; he would, on the contrary, have lost a day had he gone in the opposite direction, that is, westward.
 
-In journeying eastward he had gone towards the sun, and the days therefore diminished for him as many times four minutes as he crossed degrees in this direction. There are three hundred and sixty degrees on the circumference of the earth; and these three hundred and sixty degrees, multiplied by four minutes, gives precisely twenty-four hours--that is, the day unconsciously gained. In other words, while Phileas Fogg, going eastward, saw the sun pass the meridian eighty times, his friends in London only saw it pass the meridian seventy-nine times. This is why they awaited him at the Reform Club on Saturday, and not Sunday, as Mr. Fogg thought.
+[AWED-037-025]In journeying eastward he had gone towards the sun, and the days therefore diminished for him as many times four minutes as he crossed degrees in this direction. There are three hundred and sixty degrees on the circumference of the earth; and these three hundred and sixty degrees, multiplied by four minutes, gives precisely twenty-four hours--that is, the day unconsciously gained. In other words, while Phileas Fogg, going eastward, saw the sun pass the meridian eighty times, his friends in London only saw it pass the meridian seventy-nine times. This is why they awaited him at the Reform Club on Saturday, and not Sunday, as Mr. Fogg thought.
 
-And Passepartout's famous family watch, which had always kept London time, would have betrayed this fact, if it had marked the days as well as the hours and the minutes!
+[AWED-037-026]And Passepartout's famous family watch, which had always kept London time, would have betrayed this fact, if it had marked the days as well as the hours and the minutes!
 
-Phileas Fogg, then, had won the twenty thousand pounds; but, as he had spent nearly nineteen thousand on the way, the pecuniary gain was small. His object was, however, to be victorious, and not to win money. He divided the one thousand pounds that remained between Passepartout and the unfortunate Fix, against whom he cherished no grudge. He deducted, however, from Passepartout's share the cost of the gas which had burned in his room for nineteen hundred and twenty hours, for the sake of regularity.
+[AWED-037-027]Phileas Fogg, then, had won the twenty thousand pounds; but, as he had spent nearly nineteen thousand on the way, the pecuniary gain was small. His object was, however, to be victorious, and not to win money. He divided the one thousand pounds that remained between Passepartout and the unfortunate Fix, against whom he cherished no grudge. He deducted, however, from Passepartout's share the cost of the gas which had burned in his room for nineteen hundred and twenty hours, for the sake of regularity.
 
-That evening, Mr. Fogg, as tranquil and phlegmatic as ever, said to Aouda: "Is our marriage still agreeable to you?"
+[AWED-037-028]That evening, Mr. Fogg, as tranquil and phlegmatic as ever, said to Aouda: "Is our marriage still agreeable to you?"
 
-"Mr. Fogg," replied she, "it is for me to ask that question. You were ruined, but now you are rich again."
+[AWED-037-029]"Mr. Fogg," replied she, "it is for me to ask that question. You were ruined, but now you are rich again."
 
-"Pardon me, madam; my fortune belongs to you. If you had not suggested our marriage, my servant would not have gone to the Reverend Samuel Wilson's, I should not have been apprised of my error, and--"
+[AWED-037-030]"Pardon me, madam; my fortune belongs to you. If you had not suggested our marriage, my servant would not have gone to the Reverend Samuel Wilson's, I should not have been apprised of my error, and--"
 
-"Dear Mr. Fogg!" said the young woman.
+[AWED-037-031]"Dear Mr. Fogg!" said the young woman.
 
-"Dear Aouda!" replied Phileas Fogg.
+[AWED-037-032]"Dear Aouda!" replied Phileas Fogg.
 
-It need not be said that the marriage took place forty-eight hours after, and that Passepartout, glowing and dazzling, gave the bride away. Had he not saved her, and was he not entitled to this honour?
+[AWED-037-033]It need not be said that the marriage took place forty-eight hours after, and that Passepartout, glowing and dazzling, gave the bride away. Had he not saved her, and was he not entitled to this honour?
 
-The next day, as soon as it was light, Passepartout rapped vigorously at his master's door. Mr. Fogg opened it, and asked, "What's the matter, Passepartout?"
+[AWED-037-034]The next day, as soon as it was light, Passepartout rapped vigorously at his master's door. Mr. Fogg opened it, and asked, "What's the matter, Passepartout?"
 
-"What is it, sir? Why, I've just this instant found out--"
+[AWED-037-035]"What is it, sir? Why, I've just this instant found out--"
 
-"What?"
+[AWED-037-036]"What?"
 
-"That we might have made the tour of the world in only seventy-eight days."
+[AWED-037-037]"That we might have made the tour of the world in only seventy-eight days."
 
-"No doubt," returned Mr. Fogg, "by not crossing India. But if I had not crossed India, I should not have saved Aouda; she would not have been my wife, and--"
+[AWED-037-038]"No doubt," returned Mr. Fogg, "by not crossing India. But if I had not crossed India, I should not have saved Aouda; she would not have been my wife, and--"
 
-Mr. Fogg quietly shut the door.
+[AWED-037-039]Mr. Fogg quietly shut the door.
 
-Phileas Fogg had won his wager, and had made his journey around the world in eighty days. To do this he had employed every means of conveyance--steamers, railways, carriages, yachts, trading-vessels, sledges, elephants. The eccentric gentleman had throughout displayed all his marvellous qualities of coolness and exactitude. But what then? What had he really gained by all this trouble? What had he brought back from this long and weary journey?
+[AWED-037-040]Phileas Fogg had won his wager, and had made his journey around the world in eighty days. To do this he had employed every means of conveyance--steamers, railways, carriages, yachts, trading-vessels, sledges, elephants. The eccentric gentleman had throughout displayed all his marvellous qualities of coolness and exactitude. But what then? What had he really gained by all this trouble? What had he brought back from this long and weary journey?
 
-Nothing, say you? Perhaps so; nothing but a charming woman, who, strange as it may appear, made him the happiest of men!
+[AWED-037-041]Nothing, say you? Perhaps so; nothing but a charming woman, who, strange as it may appear, made him the happiest of men!
 
-Truly, would you not for less than that make the tour around the world?
+[AWED-037-042]Truly, would you not for less than that make the tour around the world?

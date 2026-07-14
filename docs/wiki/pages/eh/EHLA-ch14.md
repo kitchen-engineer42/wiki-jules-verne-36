@@ -12,88 +12,88 @@ tags: [chapter]
 ---
 # Eight Hundred Leagues on the Amazon — CHAPTER XIV. STILL DESCENDING
 
-AT DAYBREAK on the morrow, the 27th of June, the cables were cast off, and the raft continued its journey down the river.
+[EHLA-014-001]AT DAYBREAK on the morrow, the 27th of June, the cables were cast off, and the raft continued its journey down the river.
 
-An extra passenger was on board. Whence came this Torres? No one exactly knew. Where was he going to? "To Manaos," he said. Torres was careful to let no suspicion of his past life escape him, nor of the profession that he had followed till within the last two months, and no one would have thought that the jangada had given refuge to an old captain of the woods. Joam Garral did not wish to mar the service he was rendering by questions of too pressing a nature.
+[EHLA-014-002]An extra passenger was on board. Whence came this Torres? No one exactly knew. Where was he going to? "To Manaos," he said. Torres was careful to let no suspicion of his past life escape him, nor of the profession that he had followed till within the last two months, and no one would have thought that the jangada had given refuge to an old captain of the woods. Joam Garral did not wish to mar the service he was rendering by questions of too pressing a nature.
 
-In taking him on board the fazender had obeyed a sentiment of humanity. In the midst of these vast Amazonian deserts, more especially at the time when the steamers had not begun to furrow the waters, it was very difficult to find means of safe and rapid transit. Boats did not ply regularly, and in most cases the traveler was obliged to walk across the forests. This is what Torres had done, and what he would continue to have done, and it was for him unexpected good luck to have got a passage on the raft.
+[EHLA-014-003]In taking him on board the fazender had obeyed a sentiment of humanity. In the midst of these vast Amazonian deserts, more especially at the time when the steamers had not begun to furrow the waters, it was very difficult to find means of safe and rapid transit. Boats did not ply regularly, and in most cases the traveler was obliged to walk across the forests. This is what Torres had done, and what he would continue to have done, and it was for him unexpected good luck to have got a passage on the raft.
 
-From the moment that Benito had explained under what conditions he had met Torres the introduction was complete, and he was able to consider himself as a passenger on an Atlantic steamer, who is free to take part in the general life if he cares, or free to keep himself a little apart if of an unsociable disposition.
+[EHLA-014-004]From the moment that Benito had explained under what conditions he had met Torres the introduction was complete, and he was able to consider himself as a passenger on an Atlantic steamer, who is free to take part in the general life if he cares, or free to keep himself a little apart if of an unsociable disposition.
 
-It was noticed, at least during the first few days, that Torres did not try to become intimate with the Garral family. He maintained a good deal of reserve, answering if addressed, but never provoking a reply.
+[EHLA-014-005]It was noticed, at least during the first few days, that Torres did not try to become intimate with the Garral family. He maintained a good deal of reserve, answering if addressed, but never provoking a reply.
 
-If he appeared more open with any one, it was with Fragoso. Did he not owe to this gay companion the idea of taking passage on board the raft? Many times he asked him about the position of the Garrals at Iquitos, the sentiments of the daughter for Manoel Valdez, and always discreetly. Generally, when he was not walking alone in the bow of the jangada, he kept to his cabin.
+[EHLA-014-006]If he appeared more open with any one, it was with Fragoso. Did he not owe to this gay companion the idea of taking passage on board the raft? Many times he asked him about the position of the Garrals at Iquitos, the sentiments of the daughter for Manoel Valdez, and always discreetly. Generally, when he was not walking alone in the bow of the jangada, he kept to his cabin.
 
-He breakfasted and dined with Joam Garral and his family, but he took little part in their conversation, and retired when the repast was finished.
+[EHLA-014-007]He breakfasted and dined with Joam Garral and his family, but he took little part in their conversation, and retired when the repast was finished.
 
-During the morning the raft passed by the picturesque group of islands situated in the vast estuary of the Javary. This important affluent of the Amazon comes from the southwest, and from source to mouth has not a single island, nor a single rapid, to check its course. The mouth is about three thousand feet in width, and the river comes in some miles above the site formerly occupied by the town of the same name, whose possession was disputed for so long by Spaniards and Portuguese.
+[EHLA-014-008]During the morning the raft passed by the picturesque group of islands situated in the vast estuary of the Javary. This important affluent of the Amazon comes from the southwest, and from source to mouth has not a single island, nor a single rapid, to check its course. The mouth is about three thousand feet in width, and the river comes in some miles above the site formerly occupied by the town of the same name, whose possession was disputed for so long by Spaniards and Portuguese.
 
-Up to the morning of the 30th of June there had been nothing particular to distinguish the voyage. Occasionally they met a few vessels gliding along by the banks attached one to another in such a way that a single Indian could manage the whole--_"navigar de bubina,"_ as this kind of navigation is called by the people of the country, that is to say, "confidence navigation."
+[EHLA-014-009]Up to the morning of the 30th of June there had been nothing particular to distinguish the voyage. Occasionally they met a few vessels gliding along by the banks attached one to another in such a way that a single Indian could manage the whole--_"navigar de bubina,"_ as this kind of navigation is called by the people of the country, that is to say, "confidence navigation."
 
-They had passed the island of Araria, the Archipelago of the Calderon islands, the island of Capiatu, and many others whose names have not yet come to the knowledge of geographers.
+[EHLA-014-010]They had passed the island of Araria, the Archipelago of the Calderon islands, the island of Capiatu, and many others whose names have not yet come to the knowledge of geographers.
 
-On the 30th of June the pilot signaled on the right the little village of Jurupari-Tapera, where they halted for two or three hours.
+[EHLA-014-011]On the 30th of June the pilot signaled on the right the little village of Jurupari-Tapera, where they halted for two or three hours.
 
-Manoel and Benito had gone shooting in the neighborhood, and brought back some feathered game, which was well received in the larder. At the same time they had got an animal of whom a naturalist would have made more than did the cook.
+[EHLA-014-012]Manoel and Benito had gone shooting in the neighborhood, and brought back some feathered game, which was well received in the larder. At the same time they had got an animal of whom a naturalist would have made more than did the cook.
 
-It was a creature of a dark color, something like a large Newfoundland dog.
+[EHLA-014-013]It was a creature of a dark color, something like a large Newfoundland dog.
 
-"A great ant-eater!" exclaimed Benito, as he threw it on the deck of the jangada.
+[EHLA-014-014]"A great ant-eater!" exclaimed Benito, as he threw it on the deck of the jangada.
 
-"And a magnificent specimen which would not disgrace the collection of a museum!" added Manoel.
+[EHLA-014-015]"And a magnificent specimen which would not disgrace the collection of a museum!" added Manoel.
 
-"Did you take much trouble to catch the curious animal?" asked Minha.
+[EHLA-014-016]"Did you take much trouble to catch the curious animal?" asked Minha.
 
-"Yes, little sister," replied Benito, "and you were not there to ask for mercy! These dogs die hard, and no less than three bullets were necessary to bring this fellow down."
+[EHLA-014-017]"Yes, little sister," replied Benito, "and you were not there to ask for mercy! These dogs die hard, and no less than three bullets were necessary to bring this fellow down."
 
-The ant-eater looked superb, with his long tail and grizzly hair; with his pointed snout, which is plunged into the ant-hills whose insects form its principal food; and his long, thin paws, armed with sharp nails, five inches long, and which can shut up like the fingers of one's hand. But what a hand was this hand of the ant-eater! When it has got hold of anything you have to cut it off to make it let go! It is of this hand that the traveler, Emile Carrey, has so justly observed: "The tiger himself would perish in its grasp."
+[EHLA-014-018]The ant-eater looked superb, with his long tail and grizzly hair; with his pointed snout, which is plunged into the ant-hills whose insects form its principal food; and his long, thin paws, armed with sharp nails, five inches long, and which can shut up like the fingers of one's hand. But what a hand was this hand of the ant-eater! When it has got hold of anything you have to cut it off to make it let go! It is of this hand that the traveler, Emile Carrey, has so justly observed: "The tiger himself would perish in its grasp."
 
-On the 2d of July, in the morning, the jangada arrived at the foot of San Pablo d'Olivença, after having floated through the midst of numerous islands which in all seasons are clad with verdure and shaded with magnificent trees, and the chief of which bear the names of Jurupari, Rita, Maracanatena, and Cururu Sapo. Many times they passed by the mouths of iguarapes, or little affluents, with black waters.
+[EHLA-014-019]On the 2d of July, in the morning, the jangada arrived at the foot of San Pablo d'Olivença, after having floated through the midst of numerous islands which in all seasons are clad with verdure and shaded with magnificent trees, and the chief of which bear the names of Jurupari, Rita, Maracanatena, and Cururu Sapo. Many times they passed by the mouths of iguarapes, or little affluents, with black waters.
 
-The coloration of these waters is a very curious phenomenon. It is peculiar to a certain number of these tributaries of the Amazon, which differ greatly in importance.
+[EHLA-014-020]The coloration of these waters is a very curious phenomenon. It is peculiar to a certain number of these tributaries of the Amazon, which differ greatly in importance.
 
-Manoel remarked how thick the cloudiness was, for it could be clearly seen on the surface of the whitish waters of the river.
+[EHLA-014-021]Manoel remarked how thick the cloudiness was, for it could be clearly seen on the surface of the whitish waters of the river.
 
-"They have tried to explain this coloring in many ways," said he, "but I do not think the most learned have yet arrived at a satisfactory explanation."
+[EHLA-014-022]"They have tried to explain this coloring in many ways," said he, "but I do not think the most learned have yet arrived at a satisfactory explanation."
 
-"The waters are really black with a magnificent reflection of gold," replied Minha, showing a light, reddish-brown cloth, which was floating level with the jangada.
+[EHLA-014-023]"The waters are really black with a magnificent reflection of gold," replied Minha, showing a light, reddish-brown cloth, which was floating level with the jangada.
 
-"Yes," said Manoel, "and Humboldt has already observed the curious reflection that you have; but on looking at it attentively you will see that it is rather the color of sepia which pervades the whole."
+[EHLA-014-024]"Yes," said Manoel, "and Humboldt has already observed the curious reflection that you have; but on looking at it attentively you will see that it is rather the color of sepia which pervades the whole."
 
-"Good!" exclaimed Benito. "Another phenomenon on which the _savants_ are not agreed."
+[EHLA-014-025]"Good!" exclaimed Benito. "Another phenomenon on which the _savants_ are not agreed."
 
-"Perhaps," said Fragoso, "they might ask the opinions of the caymans, dolphins, and manatees, for they certainly prefer the black waters to the others to enjoy themselves in."
+[EHLA-014-026]"Perhaps," said Fragoso, "they might ask the opinions of the caymans, dolphins, and manatees, for they certainly prefer the black waters to the others to enjoy themselves in."
 
-"They are particularly attractive to those animals," replied Manoel, "but why it is rather embarrassing to say. For instance, is the coloration due to the hydrocarbons which the waters hold in solution, or is it because they flow through districts of peat, coal, and anthracite; or should we not rather attribute it to the enormous quantity of minute plants which they bear along? There is nothing certain in the matter. Under any circumstances, they are excellent to drink, of a freshness quite enviable for the climate, and without after-taste, and perfectly harmless. Take a little of the water, Minha, and drink it; you will find it all right."
+[EHLA-014-027]"They are particularly attractive to those animals," replied Manoel, "but why it is rather embarrassing to say. For instance, is the coloration due to the hydrocarbons which the waters hold in solution, or is it because they flow through districts of peat, coal, and anthracite; or should we not rather attribute it to the enormous quantity of minute plants which they bear along? There is nothing certain in the matter. Under any circumstances, they are excellent to drink, of a freshness quite enviable for the climate, and without after-taste, and perfectly harmless. Take a little of the water, Minha, and drink it; you will find it all right."
 
-The water is in truth limpid and fresh, and would advantageously replace many of the table-waters used in Europe. They drew several frasques for kitchen use.
+[EHLA-014-028]The water is in truth limpid and fresh, and would advantageously replace many of the table-waters used in Europe. They drew several frasques for kitchen use.
 
-It has been said that in the morning of the 2d of July the jangada had arrived at San Pablo d'Olivença, where they turn out in thousands those long strings of beads which are made from the scales of the _"coco de piassaba."_ This trade is here extensively followed. It may, perhaps, seem singular that the ancient lords of the country, Tupinambas and Tupiniquis, should find their principal occupation in making objects for the Catholic religion. But, after all, why not? These Indians are no longer the Indians of days gone by. Instead of being clothed in the national fashion, with a frontlet of macaw feathers, bow, and blow-tube, have they not adopted the American costume of white cotton trousers, and a cotton poncho woven by their wives, who have become thorough adepts in its manufacture?
+[EHLA-014-029]It has been said that in the morning of the 2d of July the jangada had arrived at San Pablo d'Olivença, where they turn out in thousands those long strings of beads which are made from the scales of the _"coco de piassaba."_ This trade is here extensively followed. It may, perhaps, seem singular that the ancient lords of the country, Tupinambas and Tupiniquis, should find their principal occupation in making objects for the Catholic religion. But, after all, why not? These Indians are no longer the Indians of days gone by. Instead of being clothed in the national fashion, with a frontlet of macaw feathers, bow, and blow-tube, have they not adopted the American costume of white cotton trousers, and a cotton poncho woven by their wives, who have become thorough adepts in its manufacture?
 
-San Pablo d'Olivença, a town of some importance, has not less than two thousand inhabitants, derived from all the neighboring tribes. At present the capital of the Upper Amazon, it began as a simple Mission, founded by the Portuguese Carmelites about 1692, and afterward acquired by the Jesuit missionaries.
+[EHLA-014-030]San Pablo d'Olivença, a town of some importance, has not less than two thousand inhabitants, derived from all the neighboring tribes. At present the capital of the Upper Amazon, it began as a simple Mission, founded by the Portuguese Carmelites about 1692, and afterward acquired by the Jesuit missionaries.
 
-From the beginning it has been the country of the Omaguas, whose name means "flat-heads," and is derived from the barbarous custom of the native mothers of squeezing the heads of their newborn children between two plates, so as to give them an oblong skull, which was then the fashion. Like everything else, that has changed; heads have re-taken their natural form, and there is not the slightest trace of the ancient deformity in the skulls of the chaplet-makers.
+[EHLA-014-031]From the beginning it has been the country of the Omaguas, whose name means "flat-heads," and is derived from the barbarous custom of the native mothers of squeezing the heads of their newborn children between two plates, so as to give them an oblong skull, which was then the fashion. Like everything else, that has changed; heads have re-taken their natural form, and there is not the slightest trace of the ancient deformity in the skulls of the chaplet-makers.
 
-Every one, with the exception of Joam Garral, went ashore. Torres also remained on board, and showed no desire to visit San Pablo d'Olivença, which he did not, however, seem to be acquainted with.
+[EHLA-014-032]Every one, with the exception of Joam Garral, went ashore. Torres also remained on board, and showed no desire to visit San Pablo d'Olivença, which he did not, however, seem to be acquainted with.
 
-Assuredly if the adventurer was taciturn he was not inquisitive.
+[EHLA-014-033]Assuredly if the adventurer was taciturn he was not inquisitive.
 
-Benito had no difficulty in doing a little bartering, and adding slightly to the cargo of the jangada. He and the family received an excellent reception from the principal authorities of the town, the commandant of the place, and the chief of the custom-house, whose functions did not in the least prevent them from engaging in trade. They even intrusted the young merchant with a few products of the country for him to dispose of on their account at Manaos and Belem.
+[EHLA-014-034]Benito had no difficulty in doing a little bartering, and adding slightly to the cargo of the jangada. He and the family received an excellent reception from the principal authorities of the town, the commandant of the place, and the chief of the custom-house, whose functions did not in the least prevent them from engaging in trade. They even intrusted the young merchant with a few products of the country for him to dispose of on their account at Manaos and Belem.
 
-The town is composed of some sixty houses, arranged on the plain which hereabouts crowns the river-bank. Some of the huts are covered with tiles--a very rare thing in these countries; but, on the other hand, the humble church, dedicated to St. Peter and St. Paul, has only a roof of straw, rather more appropriate for a stable of Bethlehem than for an edifice consecrated to religion in one of the most Catholic countries of the world.
+[EHLA-014-035]The town is composed of some sixty houses, arranged on the plain which hereabouts crowns the river-bank. Some of the huts are covered with tiles--a very rare thing in these countries; but, on the other hand, the humble church, dedicated to St. Peter and St. Paul, has only a roof of straw, rather more appropriate for a stable of Bethlehem than for an edifice consecrated to religion in one of the most Catholic countries of the world.
 
-The commandant, his lieutenant, and the head of the police accepted an invitation to dine with the family, and they were received by Joam Garral with the respect due to their rank.
+[EHLA-014-036]The commandant, his lieutenant, and the head of the police accepted an invitation to dine with the family, and they were received by Joam Garral with the respect due to their rank.
 
-During dinner Torres showed himself more talkative than usual. He spoke about some of his excursions into the interior of Brazil like a man who knew the country. But in speaking of these travels Torres did not neglect to ask the commandant if he knew Manaos, if his colleague would be there at this time, and if the judge, the first magistrate of the province, was accustomed to absent himself at this period of the hot season. It seemed that in putting this series of questions Torres looked at Joam Garral. It was marked enough for even Benito to notice it, not without surprise, and he observed that his father gave particular attention to the questions so curiously propounded by Torres.
+[EHLA-014-037]During dinner Torres showed himself more talkative than usual. He spoke about some of his excursions into the interior of Brazil like a man who knew the country. But in speaking of these travels Torres did not neglect to ask the commandant if he knew Manaos, if his colleague would be there at this time, and if the judge, the first magistrate of the province, was accustomed to absent himself at this period of the hot season. It seemed that in putting this series of questions Torres looked at Joam Garral. It was marked enough for even Benito to notice it, not without surprise, and he observed that his father gave particular attention to the questions so curiously propounded by Torres.
 
-The commandant of San Pablo d'Olivença assured the adventurer that the authorities were not now absent from Manaos, and he even asked Joam Garral to convey to them his compliments. In all probability the raft would arrive before the town in seven weeks, or a little later, say about the 20th or the 25th of August.
+[EHLA-014-038]The commandant of San Pablo d'Olivença assured the adventurer that the authorities were not now absent from Manaos, and he even asked Joam Garral to convey to them his compliments. In all probability the raft would arrive before the town in seven weeks, or a little later, say about the 20th or the 25th of August.
 
-The guests of the fazender took leave of the Garral family toward the evening, and the following morning, that of the 3d of July, the jangada recommenced its descent of the river.
+[EHLA-014-039]The guests of the fazender took leave of the Garral family toward the evening, and the following morning, that of the 3d of July, the jangada recommenced its descent of the river.
 
-At noon they passed on the left the mouth of the Yacurupa. This tributary, properly speaking, is a true canal, for it discharges its waters into the Iça, which is itself an affluent of the Amazon.
+[EHLA-014-040]At noon they passed on the left the mouth of the Yacurupa. This tributary, properly speaking, is a true canal, for it discharges its waters into the Iça, which is itself an affluent of the Amazon.
 
-A peculiar phenomenon, for the river displaces itself to feed its own tributaries!
+[EHLA-014-041]A peculiar phenomenon, for the river displaces itself to feed its own tributaries!
 
-Toward three o'clock in the afternoon the giant raft passed the mouth of the Jandiatuba, which brings its magnificent black waters from the southwest, and discharges them into the main artery by a mouth of four hundred meters in extent, after having watered the territories of the Culino Indians.
+[EHLA-014-042]Toward three o'clock in the afternoon the giant raft passed the mouth of the Jandiatuba, which brings its magnificent black waters from the southwest, and discharges them into the main artery by a mouth of four hundred meters in extent, after having watered the territories of the Culino Indians.
 
-A number of islands were breasted--Pimaicaira, Caturia, Chico, Motachina; some inhabited, others deserted, but all covered with superb vegetation, which forms an unbroken garland of green from one end of the Amazon to the other.
+[EHLA-014-043]A number of islands were breasted--Pimaicaira, Caturia, Chico, Motachina; some inhabited, others deserted, but all covered with superb vegetation, which forms an unbroken garland of green from one end of the Amazon to the other.

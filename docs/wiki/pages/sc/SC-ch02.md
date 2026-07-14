@@ -11,172 +11,172 @@ tags: [chapter]
 ---
 # In Search of the Castaways — CHAPTER II THE THREE DOCUMENTS
 
-ALL that could be discovered, however, on these pieces of paper was a few words here and there, the remainder of the lines being almost completely obliterated by the action of the water. Lord Glenarvan examined them attentively for a few minutes, turning them over on all sides, holding them up to the light, and trying to decipher the least scrap of writing, while the others looked on with anxious eyes. At last he said: "There are three distinct documents here, apparently copies of the same document in three different languages. Here is one in English, one in French, and one in German."
+[SC-002-001]ALL that could be discovered, however, on these pieces of paper was a few words here and there, the remainder of the lines being almost completely obliterated by the action of the water. Lord Glenarvan examined them attentively for a few minutes, turning them over on all sides, holding them up to the light, and trying to decipher the least scrap of writing, while the others looked on with anxious eyes. At last he said: "There are three distinct documents here, apparently copies of the same document in three different languages. Here is one in English, one in French, and one in German."
 
-"But can you make any sense out of them?" asked Lady Helena.
+[SC-002-002]"But can you make any sense out of them?" asked Lady Helena.
 
-"That's hard to say, my dear Helena, the words are quite incomplete."
+[SC-002-003]"That's hard to say, my dear Helena, the words are quite incomplete."
 
-"Perhaps the one may supplement the other," suggested Major McNabbs.
+[SC-002-004]"Perhaps the one may supplement the other," suggested Major McNabbs.
 
-"Very likely they will," said the captain. "It is impossible that the very same words should have been effaced in each document, and by putting the scraps together we might gather some intelligible meaning out of them."
+[SC-002-005]"Very likely they will," said the captain. "It is impossible that the very same words should have been effaced in each document, and by putting the scraps together we might gather some intelligible meaning out of them."
 
-"That's what we will do," rejoined Lord Glenarvan; "but let us proceed methodically. Here is the English document first."
+[SC-002-006]"That's what we will do," rejoined Lord Glenarvan; "but let us proceed methodically. Here is the English document first."
 
-All that remained of it was the following:
+[SC-002-007]All that remained of it was the following:
 
-62 _Bri gow sink stra aland skipp Gr that monit of long and ssistance lost_
+[SC-002-008]62 _Bri gow sink stra aland skipp Gr that monit of long and ssistance lost_
 
-"There's not much to be made out of that," said the Major, looking disappointed.
+[SC-002-009]"There's not much to be made out of that," said the Major, looking disappointed.
 
-"No, but it is good English anyhow," returned the captain.
+[SC-002-010]"No, but it is good English anyhow," returned the captain.
 
-"There's no doubt of it," said Glenarvan. "The words SINK, ALAND, LOST are entire; SKIPP is evidently part of the word SKIPPER, and that's what they call ship captains often in England. There seems a Mr. Gr. mentioned, and that most likely is the captain of the shipwrecked vessel."
+[SC-002-011]"There's no doubt of it," said Glenarvan. "The words SINK, ALAND, LOST are entire; SKIPP is evidently part of the word SKIPPER, and that's what they call ship captains often in England. There seems a Mr. Gr. mentioned, and that most likely is the captain of the shipwrecked vessel."
 
-"Well, come, we have made out a good deal already," said Lady Helena.
+[SC-002-012]"Well, come, we have made out a good deal already," said Lady Helena.
 
-"Yes, but unfortunately there are whole lines wanting," said the Major, "and we have neither the name of the ship nor the place where she was shipwrecked."
+[SC-002-013]"Yes, but unfortunately there are whole lines wanting," said the Major, "and we have neither the name of the ship nor the place where she was shipwrecked."
 
-"We'll get that by and by," said Edward.
+[SC-002-014]"We'll get that by and by," said Edward.
 
-"Oh, yes; there is no doubt of it," replied the Major, who always echoed his neighbor's opinion. "But how?"
+[SC-002-015]"Oh, yes; there is no doubt of it," replied the Major, who always echoed his neighbor's opinion. "But how?"
 
-"By comparing one document with the other."
+[SC-002-016]"By comparing one document with the other."
 
-"Let us try them," said his wife.
+[SC-002-017]"Let us try them," said his wife.
 
-The second piece of paper was even more destroyed than the first; only a few scattered words remained here and there.
+[SC-002-018]The second piece of paper was even more destroyed than the first; only a few scattered words remained here and there.
 
-It ran as follows:
+[SC-002-019]It ran as follows:
 
-7 Juni Glas zwei atrosen graus bringt ihnen
+[SC-002-020]7 Juni Glas zwei atrosen graus bringt ihnen
 
-"This is written in German," said John Mangles the moment he looked at it.
+[SC-002-021]"This is written in German," said John Mangles the moment he looked at it.
 
-"And you understand that language, don't you?" asked Lord Glenarvan.
+[SC-002-022]"And you understand that language, don't you?" asked Lord Glenarvan.
 
-"Perfectly."
+[SC-002-023]"Perfectly."
 
-"Come, then, tell us the meaning of these words."
+[SC-002-024]"Come, then, tell us the meaning of these words."
 
-The captain examined the document carefully, and said:
+[SC-002-025]The captain examined the document carefully, and said:
 
-"Well, here's the date of the occurrence first: 7 Juni means June 7; and if we put that before the figures 62 we have in the other document, it gives us the exact date, 7th of June, 1862."
+[SC-002-026]"Well, here's the date of the occurrence first: 7 Juni means June 7; and if we put that before the figures 62 we have in the other document, it gives us the exact date, 7th of June, 1862."
 
-"Capital!" exclaimed Lady Helena. "Go on, John!"
+[SC-002-027]"Capital!" exclaimed Lady Helena. "Go on, John!"
 
-"On the same line," resumed the young captain, "there is the syllable GLAS and if we add that to the GOW we found in the English paper, we get the whole word GLASGOW at once. The documents evidently refer to some ship that sailed out of the port of Glasgow." "That is my opinion, too," said the Major.
+[SC-002-028]"On the same line," resumed the young captain, "there is the syllable GLAS and if we add that to the GOW we found in the English paper, we get the whole word GLASGOW at once. The documents evidently refer to some ship that sailed out of the port of Glasgow." "That is my opinion, too," said the Major.
 
-"The second line is completely effaced," continued the Captain; "but here are two important words on the third. There is ZWEI, which means TWO, and ATROSEN or MATROSEN, the German for SAILORS."
+[SC-002-029]"The second line is completely effaced," continued the Captain; "but here are two important words on the third. There is ZWEI, which means TWO, and ATROSEN or MATROSEN, the German for SAILORS."
 
-"Then I suppose it is about a captain and two sailors," said Lady Helena.
+[SC-002-030]"Then I suppose it is about a captain and two sailors," said Lady Helena.
 
-"It seems so," replied Lord Glenarvan.
+[SC-002-031]"It seems so," replied Lord Glenarvan.
 
-"I must confess, your Lordship, that the next word puzzles me. I can make nothing of it. Perhaps the third document may throw some light on it. The last two words are plain enough. BRINGT IHNEN means BRING THEM; and, if you recollect, in the English paper we had SSISTANCE, so by putting the parts together, it reads thus, I think: 'BRING THEM ASSISTANCE.'"
+[SC-002-032]"I must confess, your Lordship, that the next word puzzles me. I can make nothing of it. Perhaps the third document may throw some light on it. The last two words are plain enough. BRINGT IHNEN means BRING THEM; and, if you recollect, in the English paper we had SSISTANCE, so by putting the parts together, it reads thus, I think: 'BRING THEM ASSISTANCE.'"
 
-"Yes, that must be it," replied Lord Glenarvan. "But where are the poor fellows? We have not the slightest indication of the place, meantime, nor of where the catastrophe happened."
+[SC-002-033]"Yes, that must be it," replied Lord Glenarvan. "But where are the poor fellows? We have not the slightest indication of the place, meantime, nor of where the catastrophe happened."
 
-"Perhaps the French copy will be more explicit," suggested Lady Helena.
+[SC-002-034]"Perhaps the French copy will be more explicit," suggested Lady Helena.
 
-"Here it is, then," said Lord Glenarvan, "and that is in a language we all know."
+[SC-002-035]"Here it is, then," said Lord Glenarvan, "and that is in a language we all know."
 
-The words it contained were these:
+[SC-002-036]The words it contained were these:
 
-troi ats tannia gonie austral abor contin pr cruel indi jete ongit et 37 degrees 11" LAT
+[SC-002-037]troi ats tannia gonie austral abor contin pr cruel indi jete ongit et 37 degrees 11" LAT
 
-"There are figures!" exclaimed Lady Helena. "Look!"
+[SC-002-038]"There are figures!" exclaimed Lady Helena. "Look!"
 
-"Let us go steadily to work," said Lord Glenarvan, "and begin at the beginning. I think we can make out from the incomplete words in the first line that a three-mast vessel is in question, and there is little doubt about the name; we get that from the fragments of the other papers; it is the BRITANNIA. As to the next two words, GONIE and AUSTRAL, it is only AUSTRAL that has any meaning to us."
+[SC-002-039]"Let us go steadily to work," said Lord Glenarvan, "and begin at the beginning. I think we can make out from the incomplete words in the first line that a three-mast vessel is in question, and there is little doubt about the name; we get that from the fragments of the other papers; it is the BRITANNIA. As to the next two words, GONIE and AUSTRAL, it is only AUSTRAL that has any meaning to us."
 
-"But that is a valuable scrap of information," said John Mangles. "The shipwreck occurred in the southern hemisphere."
+[SC-002-040]"But that is a valuable scrap of information," said John Mangles. "The shipwreck occurred in the southern hemisphere."
 
-"That's a wide world," said the Major.
+[SC-002-041]"That's a wide world," said the Major.
 
-"Well, we'll go on," resumed Glenarvan. "Here is the word ABOR; that is clearly the root of the verb ABORDER. The poor men have landed somewhere; but where? CONTIN--does that mean continent? CRUEL!"
+[SC-002-042]"Well, we'll go on," resumed Glenarvan. "Here is the word ABOR; that is clearly the root of the verb ABORDER. The poor men have landed somewhere; but where? CONTIN--does that mean continent? CRUEL!"
 
-"CRUEL!" interrupted John Mangles. "I see now what GRAUS is part of in the second document. It is GRAUSAM, the word in German for CRUEL!"
+[SC-002-043]"CRUEL!" interrupted John Mangles. "I see now what GRAUS is part of in the second document. It is GRAUSAM, the word in German for CRUEL!"
 
-"Let's go on," said Lord Glenarvan, becoming quite excited over his task, as the incomplete words began to fill up and develop their meaning. "INDI,--is it India where they have been shipwrecked? And what can this word ONGIT be part of? Ah! I see--it is LONGITUDE; and here is the latitude, 37 degrees 11". That is the precise indication at last, then!"
+[SC-002-044]"Let's go on," said Lord Glenarvan, becoming quite excited over his task, as the incomplete words began to fill up and develop their meaning. "INDI,--is it India where they have been shipwrecked? And what can this word ONGIT be part of? Ah! I see--it is LONGITUDE; and here is the latitude, 37 degrees 11". That is the precise indication at last, then!"
 
-"But we haven't the longitude," objected McNabbs.
+[SC-002-045]"But we haven't the longitude," objected McNabbs.
 
-"But we can't get everything, my dear Major; and it is something at all events, to have the exact latitude. The French document is decidedly the most complete of the three; but it is plain enough that each is the literal translation of the other, for they all contain exactly the same number of lines. What we have to do now is to put together all the words we have found, and translate them into one language, and try to ascertain their most probable and logical sense."
+[SC-002-046]"But we can't get everything, my dear Major; and it is something at all events, to have the exact latitude. The French document is decidedly the most complete of the three; but it is plain enough that each is the literal translation of the other, for they all contain exactly the same number of lines. What we have to do now is to put together all the words we have found, and translate them into one language, and try to ascertain their most probable and logical sense."
 
-"Well, what language shall we choose?" asked the Major.
+[SC-002-047]"Well, what language shall we choose?" asked the Major.
 
-"I think we had better keep to the French, since that was the most complete document of the three."
+[SC-002-048]"I think we had better keep to the French, since that was the most complete document of the three."
 
-"Your Lordship is right," said John Mangles, "and besides, we're all familiar with the language."
+[SC-002-049]"Your Lordship is right," said John Mangles, "and besides, we're all familiar with the language."
 
-"Very well, then, I'll set to work."
+[SC-002-050]"Very well, then, I'll set to work."
 
-In a few minutes he had written as follows:
+[SC-002-051]In a few minutes he had written as follows:
 
-7 Juin 1862 trois-mats Britannia Glasgow sombre gonie austral a terre deux matelots capitaine Gr abor contin pr cruel indi jete ce document de longitude et 37 degrees 11" de latitude Portez-leur secours perdus.
+[SC-002-052]7 Juin 1862 trois-mats Britannia Glasgow sombre gonie austral a terre deux matelots capitaine Gr abor contin pr cruel indi jete ce document de longitude et 37 degrees 11" de latitude Portez-leur secours perdus.
 
-[7th of June, 1862 three-mast BRITANNIA Glasgow] foundered gonie southern on the coast two sailors Gr Captain landed contin pr cruel indi thrown this document in longitude and 37 degrees 11" latitude Bring them assistance lost
+[SC-002-053][7th of June, 1862 three-mast BRITANNIA Glasgow] foundered gonie southern on the coast two sailors Gr Captain landed contin pr cruel indi thrown this document in longitude and 37 degrees 11" latitude Bring them assistance lost
 
-Just at that moment one of the sailors came to inform the captain that they were about entering the Firth of Clyde, and to ask what were his orders.
+[SC-002-054]Just at that moment one of the sailors came to inform the captain that they were about entering the Firth of Clyde, and to ask what were his orders.
 
-"What are your Lordship's intentions?" said John Mangles, addressing Lord Glenarvan.
+[SC-002-055]"What are your Lordship's intentions?" said John Mangles, addressing Lord Glenarvan.
 
-"To get to Dunbarton as quickly as possible, John; and Lady Helena will return to Malcolm Castle, while I go on to London and lay this document before the Admiralty."
+[SC-002-056]"To get to Dunbarton as quickly as possible, John; and Lady Helena will return to Malcolm Castle, while I go on to London and lay this document before the Admiralty."
 
-The sailor received orders accordingly, and went out to deliver them to the mate.
+[SC-002-057]The sailor received orders accordingly, and went out to deliver them to the mate.
 
-"Now, friends," said Lord Glenarvan, "let us go on with our investigations, for we are on the track of a great catastrophe, and the lives of several human beings depend on our sagacity. We must give our whole minds to the solution of this enigma."
+[SC-002-058]"Now, friends," said Lord Glenarvan, "let us go on with our investigations, for we are on the track of a great catastrophe, and the lives of several human beings depend on our sagacity. We must give our whole minds to the solution of this enigma."
 
-"First of all, there are three very distinct things to be considered in this document--the things we know, the things we may conjecture, the things we do not know."
+[SC-002-059]"First of all, there are three very distinct things to be considered in this document--the things we know, the things we may conjecture, the things we do not know."
 
-"What are those we know? We know that on the 7th of June a three-mast vessel, the BRITANNIA of Glasgow, foundered; that two sailors and the captain threw this document into the sea in 37 degrees 11" latitude, and they entreat help."
+[SC-002-060]"What are those we know? We know that on the 7th of June a three-mast vessel, the BRITANNIA of Glasgow, foundered; that two sailors and the captain threw this document into the sea in 37 degrees 11" latitude, and they entreat help."
 
-"Exactly so," said the Major.
+[SC-002-061]"Exactly so," said the Major.
 
-"What are those now we may conjecture?" continued Glenarvan. "That the shipwreck occurred in the southern seas; and here I would draw your attention at once to the incomplete word GONIE. Doesn't the name of the country strike you even in the mere mention of it?"
+[SC-002-062]"What are those now we may conjecture?" continued Glenarvan. "That the shipwreck occurred in the southern seas; and here I would draw your attention at once to the incomplete word GONIE. Doesn't the name of the country strike you even in the mere mention of it?"
 
-"Patagonia!" exclaimed Lady Helena.
+[SC-002-063]"Patagonia!" exclaimed Lady Helena.
 
-"Undoubtedly."
+[SC-002-064]"Undoubtedly."
 
-"But is Patagonia crossed by the 37th parallel?" asked the Major.
+[SC-002-065]"But is Patagonia crossed by the 37th parallel?" asked the Major.
 
-"That is easily ascertained," said the captain, opening a map of South America. "Yes, it is; Patagonia just touches the 37th parallel. It cuts through Araucania, goes along over the Pampas to the north, and loses itself in the Atlantic."
+[SC-002-066]"That is easily ascertained," said the captain, opening a map of South America. "Yes, it is; Patagonia just touches the 37th parallel. It cuts through Araucania, goes along over the Pampas to the north, and loses itself in the Atlantic."
 
-"Well, let us proceed then with our conjectures. The two sailors and the captain LAND--land where? CONTIN--on a continent; on a continent, mark you, not an island. What becomes of them? There are two letters here providentially which give a clew to their fate--PR, that must mean prisoners, and CRUEL INDIAN is evidently the meaning of the next two words. These unfortunate men are captives in the hands of cruel Indians. Don't you see it? Don't the words seem to come of themselves, and fill up the blanks? Isn't the document quite clear now? Isn't the sense self-evident?"
+[SC-002-067]"Well, let us proceed then with our conjectures. The two sailors and the captain LAND--land where? CONTIN--on a continent; on a continent, mark you, not an island. What becomes of them? There are two letters here providentially which give a clew to their fate--PR, that must mean prisoners, and CRUEL INDIAN is evidently the meaning of the next two words. These unfortunate men are captives in the hands of cruel Indians. Don't you see it? Don't the words seem to come of themselves, and fill up the blanks? Isn't the document quite clear now? Isn't the sense self-evident?"
 
-Glenarvan spoke in a tone of absolute conviction, and his enthusiastic confidence appeared contagious, for the others all exclaimed, too, "Yes, it is evident, quite evident!"
+[SC-002-068]Glenarvan spoke in a tone of absolute conviction, and his enthusiastic confidence appeared contagious, for the others all exclaimed, too, "Yes, it is evident, quite evident!"
 
-After an instant, Lord Edward said again, "To my own mind the hypothesis is so plausible, that I have no doubt whatever the event occurred on the coast of Patagonia, but still I will have inquiries made in Glasgow, as to the destination of the BRITANNIA, and we shall know if it is possible she could have been wrecked on those shores."
+[SC-002-069]After an instant, Lord Edward said again, "To my own mind the hypothesis is so plausible, that I have no doubt whatever the event occurred on the coast of Patagonia, but still I will have inquiries made in Glasgow, as to the destination of the BRITANNIA, and we shall know if it is possible she could have been wrecked on those shores."
 
-"Oh, there's no need to send so far to find out that," said John Mangles. "I have the _Mercantile and Shipping Gazette_ here, and we'll see the name on the list, and all about it."
+[SC-002-070]"Oh, there's no need to send so far to find out that," said John Mangles. "I have the _Mercantile and Shipping Gazette_ here, and we'll see the name on the list, and all about it."
 
-"Do look at once, then," said Lord Glenarvan.
+[SC-002-071]"Do look at once, then," said Lord Glenarvan.
 
-The file of papers for the year 1862 was soon brought, and John began to turn over the leaves rapidly, running down each page with his eye in search of the name required. But his quest was not long, for in a few minutes he called out: "I've got it! 'May 30, 1862, Peru-Callao, with cargo for Glasgow, the BRITANNIA, Captain Grant.'"
+[SC-002-072]The file of papers for the year 1862 was soon brought, and John began to turn over the leaves rapidly, running down each page with his eye in search of the name required. But his quest was not long, for in a few minutes he called out: "I've got it! 'May 30, 1862, Peru-Callao, with cargo for Glasgow, the BRITANNIA, Captain Grant.'"
 
-"Grant!" exclaimed Lord Glenarvan. "That is the adventurous Scotchman that attempted to found a new Scotland on the shores of the Pacific."
+[SC-002-073]"Grant!" exclaimed Lord Glenarvan. "That is the adventurous Scotchman that attempted to found a new Scotland on the shores of the Pacific."
 
-"Yes," rejoined John Mangles, "it is the very man. He sailed from Glasgow in the BRITANNIA in 1861, and has not been heard of since."
+[SC-002-074]"Yes," rejoined John Mangles, "it is the very man. He sailed from Glasgow in the BRITANNIA in 1861, and has not been heard of since."
 
-"There isn't a doubt of it, not a shadow of doubt," repeated Lord Glenarvan. "It is just that same Captain Grant. The BRITANNIA left Callao on the 30th of May, and on the 7th of June, a week afterward, she is lost on the coast of Patagonia. The few broken disjointed words we find in these documents tell us the whole story. You see, friends, our conjectures hit the mark very well; we know all now except one thing, and that is the longitude."
+[SC-002-075]"There isn't a doubt of it, not a shadow of doubt," repeated Lord Glenarvan. "It is just that same Captain Grant. The BRITANNIA left Callao on the 30th of May, and on the 7th of June, a week afterward, she is lost on the coast of Patagonia. The few broken disjointed words we find in these documents tell us the whole story. You see, friends, our conjectures hit the mark very well; we know all now except one thing, and that is the longitude."
 
-"That is not needed now, we know the country. With the latitude alone, I would engage to go right to the place where the wreck happened."
+[SC-002-076]"That is not needed now, we know the country. With the latitude alone, I would engage to go right to the place where the wreck happened."
 
-"Then have we really all the particulars now?" asked Lady Helena.
+[SC-002-077]"Then have we really all the particulars now?" asked Lady Helena.
 
-"All, dear Helena; I can fill up every one of these blanks the sea has made in the document as easily as if Captain Grant were dictating to me."
+[SC-002-078]"All, dear Helena; I can fill up every one of these blanks the sea has made in the document as easily as if Captain Grant were dictating to me."
 
-And he took up the pen, and dashed off the following lines immediately: "On the 7th of June, 1862, the three-mast vessel, BRITANNIA, of Glasgow, has sunk on the coast of Patagonia, in the southern hemisphere. Making for the shore, two sailors and Captain Grant are about to land on the continent, where they will be taken prisoners by cruel Indians. They have thrown this document into the sea, in longitude and latitude 37 degrees 11". Bring them assistance, or they are lost."
+[SC-002-079]And he took up the pen, and dashed off the following lines immediately: "On the 7th of June, 1862, the three-mast vessel, BRITANNIA, of Glasgow, has sunk on the coast of Patagonia, in the southern hemisphere. Making for the shore, two sailors and Captain Grant are about to land on the continent, where they will be taken prisoners by cruel Indians. They have thrown this document into the sea, in longitude and latitude 37 degrees 11". Bring them assistance, or they are lost."
 
-"Capital! capital! dear Edward," said Lady Helena. "If those poor creatures ever see their native land again, it is you they will have to thank for it."
+[SC-002-080]"Capital! capital! dear Edward," said Lady Helena. "If those poor creatures ever see their native land again, it is you they will have to thank for it."
 
-"And they will see it again," returned Lord Glenarvan; "the statement is too explicit, and clear, and certain for England to hesitate about going to the aid of her three sons cast away on a desert coast. What she has done for Franklin and so many others, she will do to-day for these poor shipwrecked fellows of the BRITANNIA."
+[SC-002-081]"And they will see it again," returned Lord Glenarvan; "the statement is too explicit, and clear, and certain for England to hesitate about going to the aid of her three sons cast away on a desert coast. What she has done for Franklin and so many others, she will do to-day for these poor shipwrecked fellows of the BRITANNIA."
 
-"Most likely the unfortunate men have families who mourn their loss. Perhaps this ill-fated Captain Grant had a wife and children," suggested Lady Helena.
+[SC-002-082]"Most likely the unfortunate men have families who mourn their loss. Perhaps this ill-fated Captain Grant had a wife and children," suggested Lady Helena.
 
-"Very true, my dear, and I'll not forget to let them know that there is still hope. But now, friends, we had better go up on deck, as the boat must be getting near the harbor."
+[SC-002-083]"Very true, my dear, and I'll not forget to let them know that there is still hope. But now, friends, we had better go up on deck, as the boat must be getting near the harbor."
 
-A carriage and post-horses waited there, in readiness to convey Lady Helena and Major McNabbs to Malcolm Castle, and Lord Glenarvan bade adieu to his young wife, and jumped into the express train for Glasgow.
+[SC-002-084]A carriage and post-horses waited there, in readiness to convey Lady Helena and Major McNabbs to Malcolm Castle, and Lord Glenarvan bade adieu to his young wife, and jumped into the express train for Glasgow.
 
-But before starting he confided an important missive to a swifter agent than himself, and a few minutes afterward it flashed along the electric wire to London, to appear next day in the _Times and Morning Chronicle_ in the following words: "For information respecting the fate of the three-mast vessel BRITANNIA, of Glasgow, Captain Grant, apply to Lord Glenarvan, Malcolm Castle, Luss, Dumbartonshire, Scotland."
+[SC-002-085]But before starting he confided an important missive to a swifter agent than himself, and a few minutes afterward it flashed along the electric wire to London, to appear next day in the _Times and Morning Chronicle_ in the following words: "For information respecting the fate of the three-mast vessel BRITANNIA, of Glasgow, Captain Grant, apply to Lord Glenarvan, Malcolm Castle, Luss, Dumbartonshire, Scotland."

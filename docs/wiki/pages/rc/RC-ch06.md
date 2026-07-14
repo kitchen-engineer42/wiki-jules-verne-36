@@ -11,230 +11,230 @@ tags: [chapter]
 ---
 # Robur the Conqueror — CHAPTER VI
 
-THE PRESIDENT AND SECRETARY SUSPEND HOSTILITIES
+[RC-006-001]THE PRESIDENT AND SECRETARY SUSPEND HOSTILITIES
 
-A bandage over the eyes, a gag in the mouth, a cord round the wrists, a cord round the ankles, unable to see, to speak, or to move, Uncle Prudent, Phil Evans, and Frycollin were anything but pleased with their position. Knowing not who had seized them, nor in what they had been thrown like parcels in a goods wagon, nor where they were, nor what was reserved for them--it was enough to exasperate even the most patient of the ovine race, and we know that the members of the Weldon Institute were not precisely sheep as far as patience went. With his violence of character we can easily imagine how Uncle Prudent felt. One thing was evident, that Phil Evans and he would find it difficult to attend the club next evening.
+[RC-006-002]A bandage over the eyes, a gag in the mouth, a cord round the wrists, a cord round the ankles, unable to see, to speak, or to move, Uncle Prudent, Phil Evans, and Frycollin were anything but pleased with their position. Knowing not who had seized them, nor in what they had been thrown like parcels in a goods wagon, nor where they were, nor what was reserved for them--it was enough to exasperate even the most patient of the ovine race, and we know that the members of the Weldon Institute were not precisely sheep as far as patience went. With his violence of character we can easily imagine how Uncle Prudent felt. One thing was evident, that Phil Evans and he would find it difficult to attend the club next evening.
 
-As to Frycollin, with his eyes shut and his mouth closed, it was impossible for him to think of anything. He was more dead than alive.
+[RC-006-003]As to Frycollin, with his eyes shut and his mouth closed, it was impossible for him to think of anything. He was more dead than alive.
 
-For an hour the position of the prisoners remained unchanged. No one came to visit them, or to give them that liberty of movement and speech of which they lay in such need. They were reduced to stifled sighs, to grunts emitted over and under their gags, to everything that betrayed anger kept dumb and fury imprisoned, or rather bound down. Then after many fruitless efforts they remained for some time as though lifeless. Then as the sense of sight was denied them they tried by their sense of hearing to obtain some indication of the nature of this disquieting state of things. But in vain did they seek for any other sound than an interminable and inexplicable f-r-r-r which seemed to envelop them in a quivering atmosphere.
+[RC-006-004]For an hour the position of the prisoners remained unchanged. No one came to visit them, or to give them that liberty of movement and speech of which they lay in such need. They were reduced to stifled sighs, to grunts emitted over and under their gags, to everything that betrayed anger kept dumb and fury imprisoned, or rather bound down. Then after many fruitless efforts they remained for some time as though lifeless. Then as the sense of sight was denied them they tried by their sense of hearing to obtain some indication of the nature of this disquieting state of things. But in vain did they seek for any other sound than an interminable and inexplicable f-r-r-r which seemed to envelop them in a quivering atmosphere.
 
-At last something happened. Phil Evans, regaining his coolness, managed to slacken the cord which bound his wrists. Little by little the knot slipped, his fingers slipped over each other, and his hands regained their usual freedom.
+[RC-006-005]At last something happened. Phil Evans, regaining his coolness, managed to slacken the cord which bound his wrists. Little by little the knot slipped, his fingers slipped over each other, and his hands regained their usual freedom.
 
-A vigorous rubbing restored the circulation. A moment after he had slipped off the bandage which bound his eyes, taken the gag out of his mouth, and cut the cords round his ankles with his knife. An American who has not a bowie-knife in his pocket is no longer an American.
+[RC-006-006]A vigorous rubbing restored the circulation. A moment after he had slipped off the bandage which bound his eyes, taken the gag out of his mouth, and cut the cords round his ankles with his knife. An American who has not a bowie-knife in his pocket is no longer an American.
 
-But if Phil Evans had regained the power of moving and speaking, that was all. His eyes were useless to him--at present at any rate. The prison was quite dark, though about six feet above him a feeble gleam of light came in through a kind of loophole.
+[RC-006-007]But if Phil Evans had regained the power of moving and speaking, that was all. His eyes were useless to him--at present at any rate. The prison was quite dark, though about six feet above him a feeble gleam of light came in through a kind of loophole.
 
-As may be imagined, Phil Evans did not hesitate to at once set free his rival. A few cuts with the bowie settled the knots which bound him foot and hand.
+[RC-006-008]As may be imagined, Phil Evans did not hesitate to at once set free his rival. A few cuts with the bowie settled the knots which bound him foot and hand.
 
-Immediately Uncle Prudent rose to his knees and snatched away his bandage and gag.
+[RC-006-009]Immediately Uncle Prudent rose to his knees and snatched away his bandage and gag.
 
-"Thanks," said he, in stifled voice.
+[RC-006-010]"Thanks," said he, in stifled voice.
 
-"Phil Evans?"
+[RC-006-011]"Phil Evans?"
 
-"Uncle Prudent?"
+[RC-006-012]"Uncle Prudent?"
 
-"Here we are no longer the president and secretary of the Weldon Institute. We are adversaries no more."
+[RC-006-013]"Here we are no longer the president and secretary of the Weldon Institute. We are adversaries no more."
 
-"You are right," answered Evans. "We are now only two men agreed to avenge ourselves on a third whose attempt deserves severe reprisals. And this third is--"
+[RC-006-014]"You are right," answered Evans. "We are now only two men agreed to avenge ourselves on a third whose attempt deserves severe reprisals. And this third is--"
 
-"Robur!"
+[RC-006-015]"Robur!"
 
-"It is Robur!"
+[RC-006-016]"It is Robur!"
 
-On this point both were absolutely in accord. On this subject there was no fear of dispute.
+[RC-006-017]On this point both were absolutely in accord. On this subject there was no fear of dispute.
 
-"And your servant?" said Phil Evans, pointing to Frycollin, who was puffing like a grampus. "We must set him free."
+[RC-006-018]"And your servant?" said Phil Evans, pointing to Frycollin, who was puffing like a grampus. "We must set him free."
 
-"Not yet," said Uncle Prudent. "He would overwhelm us with his jeremiads, and we have something else to do than abuse each other."
+[RC-006-019]"Not yet," said Uncle Prudent. "He would overwhelm us with his jeremiads, and we have something else to do than abuse each other."
 
-"What is that, Uncle Prudent?"
+[RC-006-020]"What is that, Uncle Prudent?"
 
-"To save ourselves if possible."
+[RC-006-021]"To save ourselves if possible."
 
-"You are right, even if it is impossible."
+[RC-006-022]"You are right, even if it is impossible."
 
-"And even if it is impossible."
+[RC-006-023]"And even if it is impossible."
 
-There could be no doubt that this kidnapping was due to Robur, for an ordinary thief would have relieved them of their watches, jewelry, and purses, and thrown their bodies into the Schuyllkill with a good gash in their throats instead of throwing them to the bottom of--Of what? That was a serious question, which would have to be answered before attempting an escape with any chance of success.
+[RC-006-024]There could be no doubt that this kidnapping was due to Robur, for an ordinary thief would have relieved them of their watches, jewelry, and purses, and thrown their bodies into the Schuyllkill with a good gash in their throats instead of throwing them to the bottom of--Of what? That was a serious question, which would have to be answered before attempting an escape with any chance of success.
 
-"Phil Evans," began Uncle Prudent, "if, when we came away from our meeting, instead of indulging in amenities to which we need not recur, we had kept our eyes more open, this would not have happened. Had we remained in the streets of Philadelphia there would have been none of this. Evidently Robur foresaw what would happen at the club, and had placed some of his bandits on guard at the door. When we left Walnut Street these fellows must have watched us and followed us, and when we imprudently ventured into Fairmount Park they went in for their little game."
+[RC-006-025]"Phil Evans," began Uncle Prudent, "if, when we came away from our meeting, instead of indulging in amenities to which we need not recur, we had kept our eyes more open, this would not have happened. Had we remained in the streets of Philadelphia there would have been none of this. Evidently Robur foresaw what would happen at the club, and had placed some of his bandits on guard at the door. When we left Walnut Street these fellows must have watched us and followed us, and when we imprudently ventured into Fairmount Park they went in for their little game."
 
-"Agreed," said Evans. "We were wrong not to go straight home."
+[RC-006-026]"Agreed," said Evans. "We were wrong not to go straight home."
 
-"It is always wrong not to be right," said Prudent.
+[RC-006-027]"It is always wrong not to be right," said Prudent.
 
-Here a long-drawn sigh escaped from the darkest corner of the prison. "What is that?" asked Evans.
+[RC-006-028]Here a long-drawn sigh escaped from the darkest corner of the prison. "What is that?" asked Evans.
 
-"Nothing! Frycollin is dreaming."
+[RC-006-029]"Nothing! Frycollin is dreaming."
 
-"Between the moment we were seized a few steps out into the clearing and the moment we were thrown in here only two minutes elapsed. It is thus evident that those people did not take us out of Fairmount Park."
+[RC-006-030]"Between the moment we were seized a few steps out into the clearing and the moment we were thrown in here only two minutes elapsed. It is thus evident that those people did not take us out of Fairmount Park."
 
-"And if they had done so we should have felt we were being moved."
+[RC-006-031]"And if they had done so we should have felt we were being moved."
 
-"Undoubtedly; and consequently we must be in some vehicle, perhaps some of those long prairie wagons, or some show-caravan--"
+[RC-006-032]"Undoubtedly; and consequently we must be in some vehicle, perhaps some of those long prairie wagons, or some show-caravan--"
 
-"Evidently! For if we were in a boat moored on the Schuyllkill we should have noticed the movement due to the current--"
+[RC-006-033]"Evidently! For if we were in a boat moored on the Schuyllkill we should have noticed the movement due to the current--"
 
-"That is so; and as we are still in the clearing, I think that now is the time to get away, and we can return later to settle with this Robur--"
+[RC-006-034]"That is so; and as we are still in the clearing, I think that now is the time to get away, and we can return later to settle with this Robur--"
 
-"And make him pay for this attempt on the liberty of two citizens of the United States."
+[RC-006-035]"And make him pay for this attempt on the liberty of two citizens of the United States."
 
-"And he shall pay pretty dearly!"
+[RC-006-036]"And he shall pay pretty dearly!"
 
-"But who is this man? Where does he come from? Is he English, or German, or French--"
+[RC-006-037]"But who is this man? Where does he come from? Is he English, or German, or French--"
 
-"He is a scoundrel, that is enough!" said Uncle Prudent. "Now to work." And then the two men, with their hands stretched out and their fingers wide apart, began to feel round the walls to find a joint or crack.
+[RC-006-038]"He is a scoundrel, that is enough!" said Uncle Prudent. "Now to work." And then the two men, with their hands stretched out and their fingers wide apart, began to feel round the walls to find a joint or crack.
 
-Nothing. Nothing; not even at the door. It was closely shut and it was impossible to shoot back the lock. All that could be done was to make a hole, and escape through the hole. It remained to be seen if the knives could cut into the walls.
+[RC-006-039]Nothing. Nothing; not even at the door. It was closely shut and it was impossible to shoot back the lock. All that could be done was to make a hole, and escape through the hole. It remained to be seen if the knives could cut into the walls.
 
-"But whence comes this never-ending rustling?" asked Evans, who was much impressed at the continuous f-r-r-r.
+[RC-006-040]"But whence comes this never-ending rustling?" asked Evans, who was much impressed at the continuous f-r-r-r.
 
-"The wind, doubtless," said Uncle Prudent.
+[RC-006-041]"The wind, doubtless," said Uncle Prudent.
 
-"The wind! But I thought the night was quite calm."
+[RC-006-042]"The wind! But I thought the night was quite calm."
 
-"So it was. But if it isn't the wind, what can it be?"
+[RC-006-043]"So it was. But if it isn't the wind, what can it be?"
 
-Phil Evans got out the best blade of his knife and set to work on the wall near the door. Perhaps he might make a hole which would enable him to open it from the outside should it be only bolted or should the key have been left in the lock. He worked away for some minutes. The only result was to nip up his knife, to snip off its point, and transform what was left of the blade into a saw.
+[RC-006-044]Phil Evans got out the best blade of his knife and set to work on the wall near the door. Perhaps he might make a hole which would enable him to open it from the outside should it be only bolted or should the key have been left in the lock. He worked away for some minutes. The only result was to nip up his knife, to snip off its point, and transform what was left of the blade into a saw.
 
-"Doesn't it cut?" asked Uncle Prudent.
+[RC-006-045]"Doesn't it cut?" asked Uncle Prudent.
 
-"No."
+[RC-006-046]"No."
 
-"Is the wall made of sheet iron?"
+[RC-006-047]"Is the wall made of sheet iron?"
 
-"No; it gives no metallic sound when you hit it."
+[RC-006-048]"No; it gives no metallic sound when you hit it."
 
-"Is it of ironwood?"
+[RC-006-049]"Is it of ironwood?"
 
-"No; it isn't iron and it isn't wood."
+[RC-006-050]"No; it isn't iron and it isn't wood."
 
-"What is it then?"
+[RC-006-051]"What is it then?"
 
-"Impossible to say. But, anyhow, steel doesn't touch it." Uncle Prudent, in a sudden outburst of fury, began to rave and stamp on the sonorous planks, while his hands sought to strangle an imaginary Robur.
+[RC-006-052]"Impossible to say. But, anyhow, steel doesn't touch it." Uncle Prudent, in a sudden outburst of fury, began to rave and stamp on the sonorous planks, while his hands sought to strangle an imaginary Robur.
 
-"Be calm, Prudent, be calm! You have a try."
+[RC-006-053]"Be calm, Prudent, be calm! You have a try."
 
-Uncle Prudent had a try, but the bowie-knife could do nothing against a wall which its best blades could not even scratch. The wall seemed to be made of crystal.
+[RC-006-054]Uncle Prudent had a try, but the bowie-knife could do nothing against a wall which its best blades could not even scratch. The wall seemed to be made of crystal.
 
-So it became evident that all flight was impracticable except through the door, and for a time they must resign themselves to their fate--not a very pleasant thing for the Yankee temperament, and very much to the disgust of these eminently practical men. But this conclusion was not arrived at without many objurgations and loud-sounding phrases hurled at this Robur--who, from what had been seen of him at the Weldon Institute, was not the sort of man to trouble himself much about them.
+[RC-006-055]So it became evident that all flight was impracticable except through the door, and for a time they must resign themselves to their fate--not a very pleasant thing for the Yankee temperament, and very much to the disgust of these eminently practical men. But this conclusion was not arrived at without many objurgations and loud-sounding phrases hurled at this Robur--who, from what had been seen of him at the Weldon Institute, was not the sort of man to trouble himself much about them.
 
-Suddenly Frycollin began to give unequivocal signs of being unwell. He began to writhe in a most lamentable fashion, either with cramp in his stomach or in his limbs; and Uncle Prudent, thinking it his duty to put an end to these gymnastics, cut the cords that bound him.
+[RC-006-056]Suddenly Frycollin began to give unequivocal signs of being unwell. He began to writhe in a most lamentable fashion, either with cramp in his stomach or in his limbs; and Uncle Prudent, thinking it his duty to put an end to these gymnastics, cut the cords that bound him.
 
-He had cause to be sorry for it. Immediately there was poured forth an interminable litany, in which the terrors of fear were mingled with the tortures of hunger. Frycollin was no worse in his brain than in his stomach, and it would have been difficult to decide to which organ the chief cause of the trouble should be assigned.
+[RC-006-057]He had cause to be sorry for it. Immediately there was poured forth an interminable litany, in which the terrors of fear were mingled with the tortures of hunger. Frycollin was no worse in his brain than in his stomach, and it would have been difficult to decide to which organ the chief cause of the trouble should be assigned.
 
-"Frycollin!" said Uncle Prudent.
+[RC-006-058]"Frycollin!" said Uncle Prudent.
 
-"Master Uncle! Master Uncle!" answered the Negro between two of his lugubrious howls.
+[RC-006-059]"Master Uncle! Master Uncle!" answered the Negro between two of his lugubrious howls.
 
-"It is possible that we are doomed to die of hunger in this prison, but we have made up our minds not to succumb until we have availed ourselves of every means of alimentation to prolong our lives."
+[RC-006-060]"It is possible that we are doomed to die of hunger in this prison, but we have made up our minds not to succumb until we have availed ourselves of every means of alimentation to prolong our lives."
 
-"To eat me?" exclaimed Frycollin.
+[RC-006-061]"To eat me?" exclaimed Frycollin.
 
-"As is always done with a Negro under such circumstances! So you had better not make yourself too obvious--"
+[RC-006-062]"As is always done with a Negro under such circumstances! So you had better not make yourself too obvious--"
 
-"Or you'll have your bones picked!" said Evans.
+[RC-006-063]"Or you'll have your bones picked!" said Evans.
 
-And as Frycollin saw he might be used to prolong two existences more precious than his own, he contented himself thenceforth with groaning in quiet.
+[RC-006-064]And as Frycollin saw he might be used to prolong two existences more precious than his own, he contented himself thenceforth with groaning in quiet.
 
-The time went on and all attempts to force the door or get through the wall proved fruitless. What the wall was made of was impossible to say. It was not metal; it was not wood; it was not stone, And all the cell seemed to be made of the same stuff. When they stamped on the floor it gave a peculiar sound that Uncle Prudent found it difficult to describe; the floor seemed to sound hollow, as if it was not resting directly on the ground of the clearing. And the inexplicable f-r-r-r-r seemed to sweep along below it. All of which was rather alarming.
+[RC-006-065]The time went on and all attempts to force the door or get through the wall proved fruitless. What the wall was made of was impossible to say. It was not metal; it was not wood; it was not stone, And all the cell seemed to be made of the same stuff. When they stamped on the floor it gave a peculiar sound that Uncle Prudent found it difficult to describe; the floor seemed to sound hollow, as if it was not resting directly on the ground of the clearing. And the inexplicable f-r-r-r-r seemed to sweep along below it. All of which was rather alarming.
 
-"Uncle Prudent," said Phil Evans.
+[RC-006-066]"Uncle Prudent," said Phil Evans.
 
-"Well?"
+[RC-006-067]"Well?"
 
-"Do you think our prison has been moved at all?"
+[RC-006-068]"Do you think our prison has been moved at all?"
 
-"Not that I know of."
+[RC-006-069]"Not that I know of."
 
-"Because when we were first caught I distinctly remember the fresh fragrance of the grass and the resinous odor of the park trees. While now, when I take in a good sniff of the air, it seems as though all that had gone."
+[RC-006-070]"Because when we were first caught I distinctly remember the fresh fragrance of the grass and the resinous odor of the park trees. While now, when I take in a good sniff of the air, it seems as though all that had gone."
 
-"So it has."
+[RC-006-071]"So it has."
 
-"Why?"
+[RC-006-072]"Why?"
 
-"We cannot say why unless we admit that the prison has moved; and I say again that if the prison had moved, either as a vehicle on the road or a boat on the stream, we should have felt it."
+[RC-006-073]"We cannot say why unless we admit that the prison has moved; and I say again that if the prison had moved, either as a vehicle on the road or a boat on the stream, we should have felt it."
 
-Here Frycollin gave vent to a long groan, which might have been taken for his last had he not followed it up with several more.
+[RC-006-074]Here Frycollin gave vent to a long groan, which might have been taken for his last had he not followed it up with several more.
 
-"I expect Robur will soon have us brought before him," said Phil Evans.
+[RC-006-075]"I expect Robur will soon have us brought before him," said Phil Evans.
 
-"I hope so," said Uncle Prudent. "And I shall tell him--"
+[RC-006-076]"I hope so," said Uncle Prudent. "And I shall tell him--"
 
-"What?"
+[RC-006-077]"What?"
 
-"That he began by being rude and ended in being unbearable."
+[RC-006-078]"That he began by being rude and ended in being unbearable."
 
-Here Phil Evans noticed that day was beginning to break. A gleam, still faint, filtered through the narrow window opposite the door. It ought thus to be about four o'clock in the morning for it is at that hour in the month of June in this latitude that the horizon of Philadelphia is tinged by the first rays of the dawn.
+[RC-006-079]Here Phil Evans noticed that day was beginning to break. A gleam, still faint, filtered through the narrow window opposite the door. It ought thus to be about four o'clock in the morning for it is at that hour in the month of June in this latitude that the horizon of Philadelphia is tinged by the first rays of the dawn.
 
-But when Uncle Prudent sounded his repeater--which was a masterpiece from his colleague's factory--the tiny gong only gave a quarter to three, and the watch had not stopped.
+[RC-006-080]But when Uncle Prudent sounded his repeater--which was a masterpiece from his colleague's factory--the tiny gong only gave a quarter to three, and the watch had not stopped.
 
-"That is strange!" said Phil Evans. "At a quarter to three it ought still to be night."
+[RC-006-081]"That is strange!" said Phil Evans. "At a quarter to three it ought still to be night."
 
-"Perhaps my watch has got slow," answered Uncle Prudent.
+[RC-006-082]"Perhaps my watch has got slow," answered Uncle Prudent.
 
-"A watch of the Wheelton Watch Company!" exclaimed Phil Evans.
+[RC-006-083]"A watch of the Wheelton Watch Company!" exclaimed Phil Evans.
 
-Whatever might be the reason, there was no doubt that the day was breaking. Gradually the window became white in the deep darkness of the cell. However, if the dawn appeared sooner than the fortieth parallel permitted, it did not advance with the rapidity peculiar to lower latitudes. This was another observation--of Uncle Prudent's--a new inexplicable phenomenon.
+[RC-006-084]Whatever might be the reason, there was no doubt that the day was breaking. Gradually the window became white in the deep darkness of the cell. However, if the dawn appeared sooner than the fortieth parallel permitted, it did not advance with the rapidity peculiar to lower latitudes. This was another observation--of Uncle Prudent's--a new inexplicable phenomenon.
 
-"Couldn't we get up to the window and see where we are?"
+[RC-006-085]"Couldn't we get up to the window and see where we are?"
 
-"We might," said Uncle Prudent. "Frycollin, get up!"
+[RC-006-086]"We might," said Uncle Prudent. "Frycollin, get up!"
 
-The Negro arose.
+[RC-006-087]The Negro arose.
 
-"Put your back against the wall," continued Prudent, "and you, Evans, get on his shoulders while I buttress him up."
+[RC-006-088]"Put your back against the wall," continued Prudent, "and you, Evans, get on his shoulders while I buttress him up."
 
-"Right!" said Evans.
+[RC-006-089]"Right!" said Evans.
 
-An instant afterwards his knees were on Frycollin's shoulders, and his eyes were level with the window. The window was not of lenticular glass like those on shipboard, but was a simple flat pane. It was small, and Phil Evans found his range of view was much limited.
+[RC-006-090]An instant afterwards his knees were on Frycollin's shoulders, and his eyes were level with the window. The window was not of lenticular glass like those on shipboard, but was a simple flat pane. It was small, and Phil Evans found his range of view was much limited.
 
-"Break the glass," said Prudent, "and perhaps you will be able to see better."
+[RC-006-091]"Break the glass," said Prudent, "and perhaps you will be able to see better."
 
-Phil Evans gave it a sharp knock with the handle of his bowie-knife. It gave back a silvery sound, but it did not break.
+[RC-006-092]Phil Evans gave it a sharp knock with the handle of his bowie-knife. It gave back a silvery sound, but it did not break.
 
-Another and more violent blow. The same result.
+[RC-006-093]Another and more violent blow. The same result.
 
-"It is unbreakable glass!" said Evans.
+[RC-006-094]"It is unbreakable glass!" said Evans.
 
-It appeared as though the pane was made of glass toughened on the Siemens system--as after several blows it remained intact.
+[RC-006-095]It appeared as though the pane was made of glass toughened on the Siemens system--as after several blows it remained intact.
 
-The light had now increased, and Phil Evans could see for some distance within the radius allowed by the frame.
+[RC-006-096]The light had now increased, and Phil Evans could see for some distance within the radius allowed by the frame.
 
-"What do you see?" asked Uncle Prudent.
+[RC-006-097]"What do you see?" asked Uncle Prudent.
 
-"Nothing."
+[RC-006-098]"Nothing."
 
-"What? Not any trees?"
+[RC-006-099]"What? Not any trees?"
 
-"No."
+[RC-006-100]"No."
 
-"Not even the top branches?"
+[RC-006-101]"Not even the top branches?"
 
-"No."
+[RC-006-102]"No."
 
-"Then we are not in the clearing?"
+[RC-006-103]"Then we are not in the clearing?"
 
-"Neither in the clearing nor in the park."
+[RC-006-104]"Neither in the clearing nor in the park."
 
-"Don't you see any roofs of houses or monuments?" said Prudent, whose disappointment and anger were increasing rapidly.
+[RC-006-105]"Don't you see any roofs of houses or monuments?" said Prudent, whose disappointment and anger were increasing rapidly.
 
-"No."
+[RC-006-106]"No."
 
-"What! Not a flagstaff, nor a church tower, nor a chimney?"
+[RC-006-107]"What! Not a flagstaff, nor a church tower, nor a chimney?"
 
-"Nothing but space."
+[RC-006-108]"Nothing but space."
 
-As he uttered the words the door opened. A man appeared on the threshold. It was Robur.
+[RC-006-109]As he uttered the words the door opened. A man appeared on the threshold. It was Robur.
 
-"Honorable balloonists" he said, in a serious voice, "you are now free to go and come as you like."
+[RC-006-110]"Honorable balloonists" he said, in a serious voice, "you are now free to go and come as you like."
 
-"Free!" exclaimed Uncle Prudent.
+[RC-006-111]"Free!" exclaimed Uncle Prudent.
 
-"Yes--within the limits of the "Albatross!"
+[RC-006-112]"Yes--within the limits of the "Albatross!"
 
-Uncle Prudent and Phil Evans rushed out of their prison. And what did they see?
+[RC-006-113]Uncle Prudent and Phil Evans rushed out of their prison. And what did they see?
 
-Four thousand feet below them the face of a country they sought in vain to recognize.
+[RC-006-114]Four thousand feet below them the face of a country they sought in vain to recognize.

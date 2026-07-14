@@ -248,8 +248,89 @@ TOC 页面标准：`en` → `TOC.md`，type=overview。
 - [x] **CHK12**（chapter-integrity）：`python3 "$MEMEX_ROOT/wiki/scripts/chapter_integrity.py"` → C01–C08 全部通过 ✓。C06 为警告（anthology label=`Work — head`，与语料裸 H2 结构性不匹配，非 error）。
 - [x] **CHK13**（deploy-verify）：`./wiki-daemon.sh restart` 后 `python3 "$MEMEX_ROOT/wiki/scripts/verify_deploy.py"` → D01–D07 全部 PASS，整体结论 PASS
 - [x] 回填修订历史：hybrid 的 git 阶段因页面未提交返回 0（main 早退，未进 mtime 阶段），改用 `--mode mtime` 直接扫描工作树 → 共 970 个页面，970 条初始修订记录
-- [ ] commit `docs/wiki/pages/`、`pages.json`、`pages.lite.json`、`local/config/home.js`、`hero.js`、`chapter_map.json` 及修订历史
+- [x] commit（be19cfd，2511 files）：pages/ + history/ + line_index/ + pages.json/.lite + home.js + hero.js + chapter_map.json + recent.*.jsonl + 脚本
 
 ---
 
-> Phase 5–10 待逐一 `/boot init phaseN` 实例化后执行。
+## Phase 5：PN 段落编号
+
+> **comply**: pass（三段 volume 方案 VVV-NNN-PPP；pn_prefix 已由 Phase 4 写入）
+> **前置条件**：Phase 4 章节导入完成。
+> **目标**：968 章节页每个正文段落分配 `[VVV-NNN-PPP]`，建立可引用的 PN 体系。
+
+<!-- MUST-COPY: NNN 格式表 + 结构类型表 + "铁则" -->
+### 5-A 确定章节 NNN 编号
+
+> ⚠️ **NNN 必须严格对应原书页面次序**。次序一经确定不得变更。
+
+pn-citation 插件正则接受的 NNN 格式：
+
+| 格式 | 范围 | 适用场景 |
+|------|------|---------|
+| `\d{3}` | `001`–`999` | 正文章节 |
+| `P0[1-9]` | `P01`–`P09` | 书前置章节 |
+
+> ⚠️ 禁止 `PRE`/`APP`/`REF`/`IDX` 等字母缩写 NNN。
+
+> **铁则：所有已导入页面统统分配 NNN，不得跳过。**
+
+| 结构类型 | NNN 模式 |
+|---------|---------|
+| 多书/多卷系列 | `B-CC`（书号-章号）复合 NNN |
+
+本 wiki 为 **35 部作品合集**，采用三段 volume 方案：`VVV-NNN-PPP`，
+pn_prefix = `VVV-NNN`（作品码-作品内章号），全集唯一。
+
+- [x] `LAW.md` NNN 方案与插件格式一致（VVV=`[A-Za-z0-9]{1,4}`，NNN=`\d{3}`，无非法缩写）
+- [x] `LAW.md` 三引用 `ref/spec/data-pn.md`，记录三段 volume 方案、各段位数、`PN_SCHEME=volume`
+- [x] `ref/chapter-order.md` 完整列出 35 作品 / 968 章及 VVV 码
+- [x] （--auto）次序表已在 Phase 3/4 与语料 ToC 核对一致，跳过人工等待
+
+### 5-B 更新章节 frontmatter
+
+所有 `type: chapter` 页 frontmatter 含 `pn_prefix`（值为 `VVV-NNN` 字符串）。
+
+- [x] pn_prefix 已由 `build_chapter_pages.py`（Phase 4）写入全部 968 页（如 `"TTLU-001"`）
+- [x] 脚本定位页面读 `pages.json` 的 `path` 字段（assign_pn.py 遵此铁律）
+- [x] `data/chapter_map.json` 为 `nnn→page_id` 映射（key=`VVV-NNN`，value=slug，968 条）
+- [x] 格式验证：所有 value 为 str，✓
+- [x] `docs/wiki/data/chapter_map.json` 已就位（Phase 4 生成）
+
+### 5-C 按次序逐章赋号
+
+#### 5-C-0 Wiki 专属 PN 规则
+- [x] pn_prefix 已写入所有章节
+- [x] 无额外跳过元素（重构散文稿，无 sidebar/epub 脚注定义/特殊块）
+- [x] LAW.md 三确认 **三段 volume**：`pn_format = "{pn_prefix}-{ppp:03d}"`
+- [x] 本地脚本 `wiki/scripts/assign_pn.py`（改编 PRE7，volume 方案，幂等）
+
+#### 5-C-1 试验章（pilot）
+- [x] `TTLU-ch01` 单章赋号：32 段 → `[TTLU-001-001]`..`[TTLU-001-032]`，连续无跳号
+
+#### 5-C-2 评估
+- [x] （--auto 自动评估）编号连续、段首锚定、无标题误赋、渲染无副作用 — 通过
+
+#### 5-C-3 发现问题 → RFC
+- [x] 无系统性问题，不阻塞
+
+#### 5-C-4 全量赋号
+- [x] 全量执行 `assign_pn.py`，逐章 `[VVV-NNN-PPP]`：改写 967 章 + 跳过 1（pilot 已赋），968 章共 58,399 个 PN
+- [x] 跨章连续性验证（`--verify`）：968 章 / 58,399 PN，✓ 连续无跳号
+- [x] `lint_bucket_structure.py --fix`：pages/ 与 history/ 根目录无直接 .md，分桶合规
+
+### 5-D PN 后超长段落拆分（可选，--auto 默认跳过）
+- [x] 跳过 PRE2
+
+### 5-E 验证与提交
+- [x] `pn_structure_verify.py --scheme volume`：报 A5「段首遗漏 PN」45,397 处，经查为**验证器正则宽度缺陷**（`_FIRST=VOL` 严格 3 字符，拒 `AM`/`MI`/`TTLU` 等变长 VVV）。数据经 `assign_pn.py --verify` 与 `build_pn_source.py`（58,395 条）双重确认连续完整 → A5 判为**误报，不阻塞**（RFC-vernean-voyages-0001，spec 5-C-3 授权）
+- [x] Wikilink / frontmatter 完整性：`build_registry.py` 重建通过，970 页 type/label/pn_prefix 齐备，无 unknown
+- [x] 提交全书 PN（见 5-F 合并提交）
+
+### 5-F PN 检索源构建
+- [x] 执行 PRE20 / `build_pn_source.py` 生成 `data/pn-source.json`：58,395 条 PN 条目
+- [x] `data/pn-source.json` 加入 `.gitignore`（构建产物，可从 pages/ 重建）
+- [x] 提交（Phase 5 合并提交：pages/ PN 锚点 + pages.json/.lite + assign_pn.py + ref/rfc/ + .gitignore + BIRTH.md）
+
+---
+
+> Phase 6–10 待逐一 `/boot init phaseN` 实例化后执行。

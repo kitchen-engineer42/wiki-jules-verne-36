@@ -11,136 +11,136 @@ tags: [chapter]
 ---
 # Ticket No. 9672 — CHAPTER XV
 
-Sylvius Hogg reached Dal on the evening of the following day. He did not say a word about his journey, and no one knew that he had been to Bergen. As long as the search was productive of no results he wished the Hansen family to remain in ignorance of it. Every letter or telegram, whether from Bergen or Christiania, was to be addressed to him, at the inn, where he intended to await further developments. Did he still hope? Yes, though it must be admitted that he had some misgivings.
+[TN-015-001]Sylvius Hogg reached Dal on the evening of the following day. He did not say a word about his journey, and no one knew that he had been to Bergen. As long as the search was productive of no results he wished the Hansen family to remain in ignorance of it. Every letter or telegram, whether from Bergen or Christiania, was to be addressed to him, at the inn, where he intended to await further developments. Did he still hope? Yes, though it must be admitted that he had some misgivings.
 
-As soon as he returned the professor became satisfied that some important event had occurred in his absence. The altered manner of Joel and Hulda showed conclusively that an explanation must have taken place between their mother and themselves. Had some new misfortunes befallen the Hansen household?
+[TN-015-002]As soon as he returned the professor became satisfied that some important event had occurred in his absence. The altered manner of Joel and Hulda showed conclusively that an explanation must have taken place between their mother and themselves. Had some new misfortunes befallen the Hansen household?
 
-All this of course troubled Sylvius Hogg greatly. He felt such a paternal affection for the brother and sister that he could not have been more fond of them if they had been his own children. How much he had missed them during his short absence.
+[TN-015-003]All this of course troubled Sylvius Hogg greatly. He felt such a paternal affection for the brother and sister that he could not have been more fond of them if they had been his own children. How much he had missed them during his short absence.
 
-"They will tell me all by and by," he said to himself. "They will have to tell me all. Am I not a member of the family?"
+[TN-015-004]"They will tell me all by and by," he said to himself. "They will have to tell me all. Am I not a member of the family?"
 
-Yes; Sylvius Hogg felt now that he had an undoubted right to be consulted in regard to everything connected with the private life of his young friends, and to know why Joel and Hulda seemed even more unhappy than at the time of his departure. The mystery was soon solved.
+[TN-015-005]Yes; Sylvius Hogg felt now that he had an undoubted right to be consulted in regard to everything connected with the private life of his young friends, and to know why Joel and Hulda seemed even more unhappy than at the time of his departure. The mystery was soon solved.
 
-In fact both the young people were anxious to confide in the excellent man whom they loved with a truly filial devotion, but they were waiting for him to question them. During his absence they had felt lonely and forsaken--the more so from the fact that Sylvius Hogg had not seen fit to tell them where he was going. Never had the hours seemed so long. It never once occurred to them that the journey was in any way connected with a search for the "Viking," and that Sylvius Hogg had concealed the fact from them in order to spare them additional disappointment in case of failure.
+[TN-015-006]In fact both the young people were anxious to confide in the excellent man whom they loved with a truly filial devotion, but they were waiting for him to question them. During his absence they had felt lonely and forsaken--the more so from the fact that Sylvius Hogg had not seen fit to tell them where he was going. Never had the hours seemed so long. It never once occurred to them that the journey was in any way connected with a search for the "Viking," and that Sylvius Hogg had concealed the fact from them in order to spare them additional disappointment in case of failure.
 
-And now how much more necessary his presence seemed to have become to them! How glad they were to see him, to listen to his words of counsel and hear his kind and encouraging voice. But would they ever dare to tell him what had passed between them and the Drammen usurer, and how Dame Hansen had marred the prospects of her children? What would Sylvius Hogg say when he learned that the ticket was no longer in Hulda's possession, and when he heard that Dame Hansen had used it to free herself from her inexorable creditor?
+[TN-015-007]And now how much more necessary his presence seemed to have become to them! How glad they were to see him, to listen to his words of counsel and hear his kind and encouraging voice. But would they ever dare to tell him what had passed between them and the Drammen usurer, and how Dame Hansen had marred the prospects of her children? What would Sylvius Hogg say when he learned that the ticket was no longer in Hulda's possession, and when he heard that Dame Hansen had used it to free herself from her inexorable creditor?
 
-He was sure to learn these facts, however. Whether it was Sylvius Hogg or Hulda that first broached the subject, it would be hard to say, nor does it matter much. This much is certain, however, the professor soon became thoroughly acquainted with the situation of affairs. He was told of the danger that had threatened Dame Hansen and her children, and how the usurer would have driven them from their old home in a fortnight if the debt had not been paid by the surrender of the ticket.
+[TN-015-008]He was sure to learn these facts, however. Whether it was Sylvius Hogg or Hulda that first broached the subject, it would be hard to say, nor does it matter much. This much is certain, however, the professor soon became thoroughly acquainted with the situation of affairs. He was told of the danger that had threatened Dame Hansen and her children, and how the usurer would have driven them from their old home in a fortnight if the debt had not been paid by the surrender of the ticket.
 
-Sylvius Hogg listened attentively to this sad story.
+[TN-015-009]Sylvius Hogg listened attentively to this sad story.
 
-"You should not have given up the ticket," he cried, vehemently; "no, you should not have done it."
+[TN-015-010]"You should not have given up the ticket," he cried, vehemently; "no, you should not have done it."
 
-"How could I help it, Monsieur Sylvius?" replied the poor girl, greatly troubled.
+[TN-015-011]"How could I help it, Monsieur Sylvius?" replied the poor girl, greatly troubled.
 
-"You could not, of course, and yet--Ah, if I had only been here!"
+[TN-015-012]"You could not, of course, and yet--Ah, if I had only been here!"
 
-And what would Professor Sylvius Hogg have done had he been there? He did not say, however, but continued:
+[TN-015-013]And what would Professor Sylvius Hogg have done had he been there? He did not say, however, but continued:
 
-"Yes, my dear Hulda; yes, Joel, you did the best you could, under the circumstances. But what enrages me almost beyond endurance is the fact that this Sandgoist will profit greatly, no doubt, by this absurd superstition on the part of the public. If poor Ole's ticket should really prove to be the lucky one this unprincipled scoundrel will reap all the benefit. And yet, to suppose that this number, 9672, will necessarily prove the lucky one, is simply ridiculous and absurd. Still, I would not have given up the ticket, I think. After once refusing to surrender it to Sandgoist Hulda would have done better to turn a deaf ear to her mother's entreaties."
+[TN-015-014]"Yes, my dear Hulda; yes, Joel, you did the best you could, under the circumstances. But what enrages me almost beyond endurance is the fact that this Sandgoist will profit greatly, no doubt, by this absurd superstition on the part of the public. If poor Ole's ticket should really prove to be the lucky one this unprincipled scoundrel will reap all the benefit. And yet, to suppose that this number, 9672, will necessarily prove the lucky one, is simply ridiculous and absurd. Still, I would not have given up the ticket, I think. After once refusing to surrender it to Sandgoist Hulda would have done better to turn a deaf ear to her mother's entreaties."
 
-The brother and sister could find nothing to say in reply. In giving the ticket to Dame Hansen, Hulda had been prompted by a filial sentiment that was certainly to be commended rather than censured. The sacrifice she had made was not one of more or less probable chance, but of Ole Kamp's last wishes and of her last memento of her lover.
+[TN-015-015]The brother and sister could find nothing to say in reply. In giving the ticket to Dame Hansen, Hulda had been prompted by a filial sentiment that was certainly to be commended rather than censured. The sacrifice she had made was not one of more or less probable chance, but of Ole Kamp's last wishes and of her last memento of her lover.
 
-But it was too late to think of this now. Sandgoist had the ticket. It belonged to him, and he would sell it to the highest bidder. A heartless usurer would thus coin money out of the touching farewell of the shipwrecked mariner. Sylvius Hogg could not bear the thought. It was intolerable to him.
+[TN-015-016]But it was too late to think of this now. Sandgoist had the ticket. It belonged to him, and he would sell it to the highest bidder. A heartless usurer would thus coin money out of the touching farewell of the shipwrecked mariner. Sylvius Hogg could not bear the thought. It was intolerable to him.
 
-He resolved to have a talk with Dame Hansen on the subject that very day. This conversation could effect no change in the state of affairs, but it had become almost necessary.
+[TN-015-017]He resolved to have a talk with Dame Hansen on the subject that very day. This conversation could effect no change in the state of affairs, but it had become almost necessary.
 
-"So you think I did wrong, Monsieur Hogg?" she asked, after allowing the professor to say all he had to say on the subject.
+[TN-015-018]"So you think I did wrong, Monsieur Hogg?" she asked, after allowing the professor to say all he had to say on the subject.
 
-"Certainly, Dame Hansen."
+[TN-015-019]"Certainly, Dame Hansen."
 
-"If you blame me for having engaged in rash speculations, and for endangering the fortune of my children, you are perfectly right; but if you blame me for having resorted to the means I did to free myself, you are wrong. What have you to say in reply?"
+[TN-015-020]"If you blame me for having engaged in rash speculations, and for endangering the fortune of my children, you are perfectly right; but if you blame me for having resorted to the means I did to free myself, you are wrong. What have you to say in reply?"
 
-"Nothing."
+[TN-015-021]"Nothing."
 
-"But seriously, do you think that I ought to have refused the offer of Sandgoist, who really offered fifteen thousand marks for a ticket that is probably worth nothing; I ask you again, do you think I ought to have refused it?"
+[TN-015-022]"But seriously, do you think that I ought to have refused the offer of Sandgoist, who really offered fifteen thousand marks for a ticket that is probably worth nothing; I ask you again, do you think I ought to have refused it?"
 
-"Yes and no, Dame Hansen."
+[TN-015-023]"Yes and no, Dame Hansen."
 
-"It can not be both yes and no, professor; it is no. Under different circumstances, and if the future had appeared less threatening--though that was my own fault, I admit--I should have upheld Hulda in her refusal to part with the ticket she had received from Ole Kamp. But when there was a certainty of being driven in a few days from the house in which my husband died, and in which my children first saw the light, I could not understand such a refusal, and you yourself, Monsieur Hogg, had you been in my place, would certainly have acted as I did."
+[TN-015-024]"It can not be both yes and no, professor; it is no. Under different circumstances, and if the future had appeared less threatening--though that was my own fault, I admit--I should have upheld Hulda in her refusal to part with the ticket she had received from Ole Kamp. But when there was a certainty of being driven in a few days from the house in which my husband died, and in which my children first saw the light, I could not understand such a refusal, and you yourself, Monsieur Hogg, had you been in my place, would certainly have acted as I did."
 
-"No, Dame Hansen, no!"
+[TN-015-025]"No, Dame Hansen, no!"
 
-"What would you have done, then?"
+[TN-015-026]"What would you have done, then?"
 
-"I would have done anything rather than sacrifice a ticket my daughter had received under such circumstances."
+[TN-015-027]"I would have done anything rather than sacrifice a ticket my daughter had received under such circumstances."
 
-"Do these circumstances, in your opinion, enhance the value of the ticket?"
+[TN-015-028]"Do these circumstances, in your opinion, enhance the value of the ticket?"
 
-"No one can say."
+[TN-015-029]"No one can say."
 
-"On the contrary, every one does know. This ticket is simply one that has nine hundred and ninety-nine thousand nine hundred and ninety-nine chances of losing against one of winning. Do you consider it any more valuable because it was found in a bottle that was picked up at sea?"
+[TN-015-030]"On the contrary, every one does know. This ticket is simply one that has nine hundred and ninety-nine thousand nine hundred and ninety-nine chances of losing against one of winning. Do you consider it any more valuable because it was found in a bottle that was picked up at sea?"
 
-Sylvius Hogg hardly knew what to say in reply to this straightforward question, so he reverted to the sentimental side of the question by remarking:
+[TN-015-031]Sylvius Hogg hardly knew what to say in reply to this straightforward question, so he reverted to the sentimental side of the question by remarking:
 
-"The situation now seems to be briefly as follows: Ole Kamp, as the ship went down, bequeathed to Hulda the sole earthly possession left him, with the request that she should present it on the day of the drawing, provided, of course, that the ticket reached her; and now this ticket is no longer in Hulda's possession."
+[TN-015-032]"The situation now seems to be briefly as follows: Ole Kamp, as the ship went down, bequeathed to Hulda the sole earthly possession left him, with the request that she should present it on the day of the drawing, provided, of course, that the ticket reached her; and now this ticket is no longer in Hulda's possession."
 
-"If Ole Kamp had been here, he would not have hesitated to surrender his ticket to Sandgoist," replied Dame Hansen.
+[TN-015-033]"If Ole Kamp had been here, he would not have hesitated to surrender his ticket to Sandgoist," replied Dame Hansen.
 
-"That is quite possible," replied Sylvius Hogg; "but certainly no other person had a right to do it, and what will you say to him if he has not perished and if he should return to-morrow, or this very day?"
+[TN-015-034]"That is quite possible," replied Sylvius Hogg; "but certainly no other person had a right to do it, and what will you say to him if he has not perished and if he should return to-morrow, or this very day?"
 
-"Ole will never return," replied Dame Hansen, gloomily. "Ole is dead, Monsieur Hogg, dead, beyond a doubt."
+[TN-015-035]"Ole will never return," replied Dame Hansen, gloomily. "Ole is dead, Monsieur Hogg, dead, beyond a doubt."
 
-"You can not be sure of that, Dame Hansen," exclaimed the professor. "In fact, you know nothing at all about it. Careful search is being made for some survivor of the shipwreck. It may prove successful; yes, even before the time appointed for the drawing of this lottery. You have no right to say that Ole Kamp is dead, so long as we have no proof that he perished in the catastrophe. The reason I speak with less apparent assurance before your children is that I do not want to arouse hopes that may end in bitter disappointment. But to you, Dame Hansen, I can say what I really think, and I can not, I will not believe that Ole Kamp is dead! No, I will not believe it!"
+[TN-015-036]"You can not be sure of that, Dame Hansen," exclaimed the professor. "In fact, you know nothing at all about it. Careful search is being made for some survivor of the shipwreck. It may prove successful; yes, even before the time appointed for the drawing of this lottery. You have no right to say that Ole Kamp is dead, so long as we have no proof that he perished in the catastrophe. The reason I speak with less apparent assurance before your children is that I do not want to arouse hopes that may end in bitter disappointment. But to you, Dame Hansen, I can say what I really think, and I can not, I will not believe that Ole Kamp is dead! No, I will not believe it!"
 
-Finding herself thus worsted, Dame Hansen ceased to argue the question, and this Norwegian, being rather superstitious in her secret heart, hung her head as if Ole Kamp was indeed about to appear before her.
+[TN-015-037]Finding herself thus worsted, Dame Hansen ceased to argue the question, and this Norwegian, being rather superstitious in her secret heart, hung her head as if Ole Kamp was indeed about to appear before her.
 
-"At all events, before parting with the ticket," continued Sylvius Hogg, "there was one very simple thing that you neglected to do."
+[TN-015-038]"At all events, before parting with the ticket," continued Sylvius Hogg, "there was one very simple thing that you neglected to do."
 
-"What?"
+[TN-015-039]"What?"
 
-"You should first have applied to your personal friends or the friends of your family. They would not have refused to assist you, either by purchasing the mortgage of Sandgoist, or by loaning you the money to pay it."
+[TN-015-040]"You should first have applied to your personal friends or the friends of your family. They would not have refused to assist you, either by purchasing the mortgage of Sandgoist, or by loaning you the money to pay it."
 
-"I have no friends of whom I could ask such a favor."
+[TN-015-041]"I have no friends of whom I could ask such a favor."
 
-"Yes, you have, Dame Hansen. I know at least one person who would have done it without the slightest hesitation."
+[TN-015-042]"Yes, you have, Dame Hansen. I know at least one person who would have done it without the slightest hesitation."
 
-"And who is that, if you please?"
+[TN-015-043]"And who is that, if you please?"
 
-"Sylvius Hogg, member of the Storthing."
+[TN-015-044]"Sylvius Hogg, member of the Storthing."
 
-Dame Hansen, too deeply moved to reply in words, bowed her thanks to the professor.
+[TN-015-045]Dame Hansen, too deeply moved to reply in words, bowed her thanks to the professor.
 
-"But what's done can't be undone, unfortunately," added Sylvius Hogg, "and I should be greatly obliged to you, Dame Hansen, if you would refrain from saying anything to your children about this conversation."
+[TN-015-046]"But what's done can't be undone, unfortunately," added Sylvius Hogg, "and I should be greatly obliged to you, Dame Hansen, if you would refrain from saying anything to your children about this conversation."
 
-And the two separated.
+[TN-015-047]And the two separated.
 
-The professor had resumed his former habits, and his daily walks as well. In company with Joel and Hulda, he spent several hours every day in visiting the points of interest in and about Dal--not going too far, however, for fear of wearying the young girl. Much of his time, too, was devoted to his extensive correspondence. He wrote letter after letter to Bergen and Christiania, stimulating the zeal all who were engaged in the good work of searching for the "Viking." To find Ole seemed to be his sole aim in life now.
+[TN-015-048]The professor had resumed his former habits, and his daily walks as well. In company with Joel and Hulda, he spent several hours every day in visiting the points of interest in and about Dal--not going too far, however, for fear of wearying the young girl. Much of his time, too, was devoted to his extensive correspondence. He wrote letter after letter to Bergen and Christiania, stimulating the zeal all who were engaged in the good work of searching for the "Viking." To find Ole seemed to be his sole aim in life now.
 
-He even felt it his duty to again absent himself for twenty-four hours, doubtless for an object in some way connected with the affair in which Dame Hansen's family was so deeply interested; but, as before, he maintained absolute silence in regard to what he was doing or having done in this matter.
+[TN-015-049]He even felt it his duty to again absent himself for twenty-four hours, doubtless for an object in some way connected with the affair in which Dame Hansen's family was so deeply interested; but, as before, he maintained absolute silence in regard to what he was doing or having done in this matter.
 
-In the meantime Hulda regained strength but slowly. The poor girl lived only upon the recollection of Ole; and her hope of seeing him again grew fainter from day to day. It is true, she had near her the two beings she loved best in the world; and one of them never ceased to encourage her; but would that suffice? Was it not necessary to divert her mind at any cost? But how was her mind to be diverted from the gloomy thoughts that bound her, as it were, to the shipwrecked "Viking?"
+[TN-015-050]In the meantime Hulda regained strength but slowly. The poor girl lived only upon the recollection of Ole; and her hope of seeing him again grew fainter from day to day. It is true, she had near her the two beings she loved best in the world; and one of them never ceased to encourage her; but would that suffice? Was it not necessary to divert her mind at any cost? But how was her mind to be diverted from the gloomy thoughts that bound her, as it were, to the shipwrecked "Viking?"
 
-The 12th of July came. The drawing of the Christiania Schools Lottery was to take place in four days.
+[TN-015-051]The 12th of July came. The drawing of the Christiania Schools Lottery was to take place in four days.
 
-It is needless to say that Sandgoist's purchase had come to the knowledge of the public. The papers announced that the famous ticket bearing the number 9672 was now in the possession of M. Sandgoist, of Drammen, and that this ticket would be sold to the highest bidder; so, if M. Sandgoist was now the owner of the aforesaid ticket, he must have purchased it for a round sum of Hulda Hansen.
+[TN-015-052]It is needless to say that Sandgoist's purchase had come to the knowledge of the public. The papers announced that the famous ticket bearing the number 9672 was now in the possession of M. Sandgoist, of Drammen, and that this ticket would be sold to the highest bidder; so, if M. Sandgoist was now the owner of the aforesaid ticket, he must have purchased it for a round sum of Hulda Hansen.
 
-Of course this announcement lowered the young girl very decidedly in public estimation. What! Hulda Hansen had consented to sell the ticket belonging to her lost lover? She had turned this last memento of him into money?
+[TN-015-053]Of course this announcement lowered the young girl very decidedly in public estimation. What! Hulda Hansen had consented to sell the ticket belonging to her lost lover? She had turned this last memento of him into money?
 
-But a timely paragraph that appeared in the "Morgen-Blad" gave the readers a true account of what had taken place. It described the real nature of Sandgoist's interference, and how the ticket had come into his hands. And now it was upon the Drammen usurer that public odium fell; upon the heartless creditor who had not hesitated to take advantage of the misfortunes of the Hansen family, and as if by common consent the offers which had been made while Hulda held the ticket were not renewed. The ticket seemed to have lost its supernatural value since it had been defiled by Sandgoist's touch, so that worthy had made but a bad bargain, after all, and the famous ticket, No. 9672, appeared likely to be left on his hands.
+[TN-015-054]But a timely paragraph that appeared in the "Morgen-Blad" gave the readers a true account of what had taken place. It described the real nature of Sandgoist's interference, and how the ticket had come into his hands. And now it was upon the Drammen usurer that public odium fell; upon the heartless creditor who had not hesitated to take advantage of the misfortunes of the Hansen family, and as if by common consent the offers which had been made while Hulda held the ticket were not renewed. The ticket seemed to have lost its supernatural value since it had been defiled by Sandgoist's touch, so that worthy had made but a bad bargain, after all, and the famous ticket, No. 9672, appeared likely to be left on his hands.
 
-It is needless to say that neither Hulda nor Joel was aware of what had been said, and this was fortunate, for it would have been very painful to them to become publicly mixed up in an affair which had assumed such a purely speculative character since it came into the hands of the usurer.
+[TN-015-055]It is needless to say that neither Hulda nor Joel was aware of what had been said, and this was fortunate, for it would have been very painful to them to become publicly mixed up in an affair which had assumed such a purely speculative character since it came into the hands of the usurer.
 
-Late on the afternoon of the 12th of July, a letter arrived, addressed to Professor Sylvius Hogg.
+[TN-015-056]Late on the afternoon of the 12th of July, a letter arrived, addressed to Professor Sylvius Hogg.
 
-This missive, which came from the Naval Department, contained another which had been mailed at Christiansand, a small town situated at the mouth of the Gulf of Christiania. It could hardly have contained any news, however, for Sylvius Hogg put it in his pocket and said nothing to Joel or his sister about its contents.
+[TN-015-057]This missive, which came from the Naval Department, contained another which had been mailed at Christiansand, a small town situated at the mouth of the Gulf of Christiania. It could hardly have contained any news, however, for Sylvius Hogg put it in his pocket and said nothing to Joel or his sister about its contents.
 
-But when he bade them good-night on retiring to his chamber, he remarked:
+[TN-015-058]But when he bade them good-night on retiring to his chamber, he remarked:
 
-"The drawing of the lottery is to take place in three days as you are, of course, aware, my children. You intend to be present, do you not?"
+[TN-015-059]"The drawing of the lottery is to take place in three days as you are, of course, aware, my children. You intend to be present, do you not?"
 
-"What is the use, Monsieur Sylvius?" responded Hulda.
+[TN-015-060]"What is the use, Monsieur Sylvius?" responded Hulda.
 
-"But Ole wished his betrothed to witness it. In fact, he particularly requested it in the last lines he ever wrote, and I think his wishes should be obeyed."
+[TN-015-061]"But Ole wished his betrothed to witness it. In fact, he particularly requested it in the last lines he ever wrote, and I think his wishes should be obeyed."
 
-"But the ticket is no longer in Hulda's possession," remarked Joel, "and we do not even know into whose hands it has passed."
+[TN-015-062]"But the ticket is no longer in Hulda's possession," remarked Joel, "and we do not even know into whose hands it has passed."
 
-"Nevertheless, I think you both ought to accompany me to Christiania to attend the drawing," replied the professor.
+[TN-015-063]"Nevertheless, I think you both ought to accompany me to Christiania to attend the drawing," replied the professor.
 
-"Do you really desire it, Monsieur Sylvius?" asked the young girl.
+[TN-015-064]"Do you really desire it, Monsieur Sylvius?" asked the young girl.
 
-"It is not I, my dear Hulda, but Ole who desires it, and Ole's wishes must be respected."
+[TN-015-065]"It is not I, my dear Hulda, but Ole who desires it, and Ole's wishes must be respected."
 
-"Monsieur Sylvius is right, sister," replied Joel. "Yes; you must go. When do you intend to start, Monsieur Sylvius?"
+[TN-015-066]"Monsieur Sylvius is right, sister," replied Joel. "Yes; you must go. When do you intend to start, Monsieur Sylvius?"
 
-"To-morrow, at day-break, and may Saint Olaf protect us!"
+[TN-015-067]"To-morrow, at day-break, and may Saint Olaf protect us!"
