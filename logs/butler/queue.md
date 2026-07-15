@@ -6,6 +6,8 @@
 <!-- R22 NEW1 已建：go-ahead（rev rkCSRw，RC）。 -->
 <!-- R23 SCN28 broadened 复扫（武器/气体/装置类，非仅船只）新增 3 候选——修正 R21 窄扫盲区：-->
 <!-- R24 NEW1 已建：fulgurator（rev Hx8lvo，FF/weapon）/ the-sword（rev 5Zb9lc，FF/vehicle）/ oxyhydric-gas（rev LZIpnV，DOSE/concept）。technology P1 清空。 -->
+<!-- R25 SCN28 全集复扫确认穷尽：new_candidates=0，streak 0→1。Standard Island/Steam House/Begum 巨炮均不在 36 部合集。 -->
+<!-- GROW-JUDGMENT-R25 borderline：FF「the tug」（海盗潜水拖船，distinctPN=8，电力螺旋桨+periscope）为真机器但无专名，依「须命名实体」惯例弃；若 place/event 轮出现其母船 schooner Ebba 关联可复议。 -->
 <!-- 普通船只（Duncan/Pilgrim/Chancellor/Abraham Lincoln/Mongolia/Rangoon/Carnatic/Henrietta/Tankadere/Susquehanna/Scotia/Halbrane/General Grant 等）判为叙事载具/场景，非发明，不建 technology（同 Pilot 惯例：仅特制/中心机器入 technology）；borderline 者留待 place/2.1-Z 裁定。 -->
 
 <!-- ═══ organization 归档（R21 CLOSE 关闭，final_count=15，保留建页轨迹）═══ -->
