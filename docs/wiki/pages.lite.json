@@ -561,6 +561,14 @@
       "aliases": [],
       "path": "am/AMB.md"
     },
+    "amsterdam-island": {
+      "type": "place",
+      "label": "Amsterdam Island",
+      "aliases": [
+        "Amsterdam Isles"
+      ],
+      "path": "am/amsterdam-island.md"
+    },
     "an-antarctic-mystery": {
       "type": "work",
       "label": "An Antarctic Mystery",
@@ -1114,6 +1122,12 @@
       "label": "Cape Esquimaux",
       "aliases": [],
       "path": "ca/cape-esquimaux.md"
+    },
+    "cape-farewell": {
+      "type": "place",
+      "label": "Cape Farewell",
+      "aliases": [],
+      "path": "ca/cape-farewell.md"
     },
     "cape-michael": {
       "type": "place",
@@ -2445,6 +2459,12 @@
       "aliases": [],
       "path": "fo/fort-hope.md"
     },
+    "fort-kearney": {
+      "type": "place",
+      "label": "Fort Kearney",
+      "aliases": [],
+      "path": "fo/fort-kearney.md"
+    },
     "fort-providence": {
       "type": "place",
       "label": "Fort Providence",
@@ -3349,6 +3369,12 @@
       "label": "Lake Kirdall",
       "aliases": [],
       "path": "la/lake-kirdall.md"
+    },
+    "lake-taupo": {
+      "type": "place",
+      "label": "Lake Taupo",
+      "aliases": [],
+      "path": "la/lake-taupo.md"
     },
     "lake-tchad": {
       "type": "place",
@@ -4632,6 +4658,12 @@
       "label": "Port Barnett",
       "aliases": [],
       "path": "po/port-barnett.md"
+    },
+    "port-egmont": {
+      "type": "place",
+      "label": "Port Egmont",
+      "aliases": [],
+      "path": "po/port-egmont.md"
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -7190,6 +7222,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amsterdam-island": "amsterdam-island",
+    "Amsterdam Island": "amsterdam-island",
+    "Amsterdam Isles": "amsterdam-island",
     "an-antarctic-mystery": "an-antarctic-mystery",
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
@@ -7305,6 +7340,8 @@
     "Cape Bathurst": "cape-bathurst",
     "cape-esquimaux": "cape-esquimaux",
     "Cape Esquimaux": "cape-esquimaux",
+    "cape-farewell": "cape-farewell",
+    "Cape Farewell": "cape-farewell",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
@@ -7568,6 +7605,8 @@
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
+    "fort-kearney": "fort-kearney",
+    "Fort Kearney": "fort-kearney",
     "fort-providence": "fort-providence",
     "Fort Providence": "fort-providence",
     "fort-reliance": "fort-reliance",
@@ -7772,6 +7811,8 @@
     "Lake Grant": "lake-grant",
     "lake-kirdall": "lake-kirdall",
     "Lake Kirdall": "lake-kirdall",
+    "lake-taupo": "lake-taupo",
+    "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
@@ -8039,6 +8080,8 @@
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
     "Port Barnett": "port-barnett",
+    "port-egmont": "port-egmont",
+    "Port Egmont": "port-egmont",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -8544,6 +8587,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1140,
-  "generated": "2026-07-15T11:56:01Z"
+  "page_count": 1145,
+  "generated": "2026-07-15T12:01:50Z"
 }

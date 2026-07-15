@@ -103,7 +103,7 @@
 - [place] Lancaster Strait — ACH；ACH:7；兰开斯特海峡（real）
 - [place] Bellot Strait — ACH；ACH:7；贝洛海峡（real）
 - [place] Barrow Strait — ACH；ACH:6；巴罗海峡（real）
-- [place] Cape Farewell — ACH；ACH:8；告别角（real）
+<!-- ✔ [place] Cape Farewell — 已建 cape-farewell（rev 6NbpIv，ACH real，严扫 6 岬名；排除同名 schooner Farewell）R45 -->
 - [place] Victoria Bay — ACH；ACH:6；维多利亚湾（fictional，Fort Providence 簇）
 - [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
 <!-- MW 大湖簇补：-->
@@ -114,12 +114,12 @@
 <!-- MS / AWED / SC / AM 各作：-->
 <!-- ✔ [place] Ural Mountains — 已建 ural-mountains（rev geZqUb，MS real，实测 21/变体 39；alias The Urals）R42 -->
 <!-- ✔ [place] Salt Lake — 已建 great-salt-lake（rev 5hL12o，AWED real，实测 10；label Great Salt Lake / alias Salt Lake，Fogg 横美盐湖）R44 -->
-- [place] Fort Kearney — AWED；AWED:9；卡尼堡（real）
-- [place] Amsterdam Island — SC(In Search of the Castaways)；SC:9；阿姆斯特丹岛（real）
-- [place] Lake Taupo — SC；SC:8；陶波湖（real，新西兰）
+<!-- ✔ [place] Fort Kearney — 已建 fort-kearney（rev 65u0la，AWED real，实测 11；Fogg 遭 Sioux 袭驿站）R45 -->
+<!-- ✔ [place] Amsterdam Island — 已建 amsterdam-island（rev HzFcAz，SC real，实测 13；37 度线孤岛，alias Amsterdam Isles）R45 -->
+<!-- ✔ [place] Lake Taupo — 已建 lake-taupo（rev KhAtUQ，SC real，实测 11；Maori 囚地，新西兰）R45 -->
 - [place] Cape Corrientes — SC；SC:5；科连特斯角（real）
 <!-- ✔ [place] Halbrane Land — 已建 halbrane-land（rev J67Wnu，AM fictional，实测 14）R42 -->
-- [place] Port Egmont — AM；AM:9；埃格蒙特港（real，福克兰）
+<!-- ✔ [place] Port Egmont — 已建 port-egmont（rev MmS5Gb，AM real，实测 9；Halbrane 福克兰补给港）R45 -->
 - [place] Lake Tanganyika — DSCF；DSCF:6；坦噶尼喀湖（real，非洲）
 <!-- MI Lincoln Island 簇补（fictional）：-->
 <!-- ✔ [place] Creek Glycerine — 已建 creek-glycerine（rev Xb3DpT）R43，见上 -->

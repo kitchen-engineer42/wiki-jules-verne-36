@@ -1844,6 +1844,30 @@
       "book": "Ascent of Mont Blanc",
       "total_refs": 1
     },
+    "amsterdam-island": {
+      "type": "place",
+      "label": "Amsterdam Island",
+      "aliases": [
+        "Amsterdam Isles"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "indian-ocean"
+      ],
+      "path": "am/amsterdam-island.md",
+      "description": "The real Indian Ocean island, a solitary cone on the 37th parallel, weighed and rejected as a refuge by the searchers in In Search of the Castaways.",
+      "prose_len": 1578,
+      "prose_chars": 1469,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "an-antarctic-mystery": {
       "type": "work",
       "label": "An Antarctic Mystery",
@@ -3691,6 +3715,28 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "cape-farewell": {
+      "type": "place",
+      "label": "Cape Farewell",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ca/cape-farewell.md",
+      "description": "The real southern cape of Greenland, the Forward's first great landmark on its secret course toward the Pole.",
+      "prose_len": 1535,
+      "prose_chars": 1431,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "cape-michael": {
       "type": "place",
       "label": "Cape Michael",
@@ -3782,7 +3828,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "An Antarctic Mystery",
-      "total_refs": 2
+      "total_refs": 3
     },
     "claw-cape": {
       "type": "place",
@@ -8107,6 +8153,28 @@
       "book": "The Fur Country",
       "total_refs": 4
     },
+    "fort-kearney": {
+      "type": "place",
+      "label": "Fort Kearney",
+      "aliases": [],
+      "tags": [
+        "place",
+        "fort",
+        "north-america"
+      ],
+      "path": "fo/fort-kearney.md",
+      "description": "The real Nebraska railroad garrison where Fogg's train halts after a Sioux attack, and from which he sets out to rescue Passepartout.",
+      "prose_len": 1528,
+      "prose_chars": 1426,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "fort-providence": {
       "type": "place",
       "label": "Fort Providence",
@@ -9905,7 +9973,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "hong-kong": {
       "type": "place",
@@ -11094,6 +11162,28 @@
       "book": "The Master of the World",
       "total_refs": 0
     },
+    "lake-taupo": {
+      "type": "place",
+      "label": "Lake Taupo",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lake",
+        "oceania"
+      ],
+      "path": "la/lake-taupo.md",
+      "description": "The real New Zealand lake in whose mountain-ringed heights the Maori hold Glenarvan's party captive in In Search of the Castaways.",
+      "prose_len": 1753,
+      "prose_chars": 1650,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "lake-tchad": {
       "type": "place",
       "label": "Lake Tchad",
@@ -11330,7 +11420,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "MI-ch01": {
       "type": "chapter",
@@ -15021,7 +15111,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Around the World in Eighty Days",
-      "total_refs": 1
+      "total_refs": 2
     },
     "pamlico-sound": {
       "type": "place",
@@ -15342,6 +15432,28 @@
       "quality_score": 70,
       "book": "The Fur Country",
       "total_refs": 3
+    },
+    "port-egmont": {
+      "type": "place",
+      "label": "Port Egmont",
+      "aliases": [],
+      "tags": [
+        "place",
+        "port",
+        "south-atlantic"
+      ],
+      "path": "po/port-egmont.md",
+      "description": "The real Falklands harbour where the schooner Halbrane provisions and enlists the enigmatic Hunt before sailing for the Antarctic in An Antarctic Mystery.",
+      "prose_len": 1781,
+      "prose_chars": 1677,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -19949,7 +20061,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 6
+      "total_refs": 7
     },
     "the-fur-country": {
       "type": "work",
@@ -23545,6 +23657,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amsterdam-island": "amsterdam-island",
+    "Amsterdam Island": "amsterdam-island",
+    "Amsterdam Isles": "amsterdam-island",
     "an-antarctic-mystery": "an-antarctic-mystery",
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
@@ -23660,6 +23775,8 @@
     "Cape Bathurst": "cape-bathurst",
     "cape-esquimaux": "cape-esquimaux",
     "Cape Esquimaux": "cape-esquimaux",
+    "cape-farewell": "cape-farewell",
+    "Cape Farewell": "cape-farewell",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
@@ -23923,6 +24040,8 @@
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
+    "fort-kearney": "fort-kearney",
+    "Fort Kearney": "fort-kearney",
     "fort-providence": "fort-providence",
     "Fort Providence": "fort-providence",
     "fort-reliance": "fort-reliance",
@@ -24127,6 +24246,8 @@
     "Lake Grant": "lake-grant",
     "lake-kirdall": "lake-kirdall",
     "Lake Kirdall": "lake-kirdall",
+    "lake-taupo": "lake-taupo",
+    "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
@@ -24394,6 +24515,8 @@
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
     "Port Barnett": "port-barnett",
+    "port-egmont": "port-egmont",
+    "Port Egmont": "port-egmont",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -24899,6 +25022,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1140,
-  "generated": "2026-07-15T11:56:01Z"
+  "page_count": 1145,
+  "generated": "2026-07-15T12:01:50Z"
 }
