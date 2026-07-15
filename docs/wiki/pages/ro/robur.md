@@ -19,9 +19,9 @@ Robur is the enigmatic engineer whose command of heavier-than-air flight makes h
 
 ## Role in the Story
 
-In *Robur the Conqueror* he seizes the members of the [[Weldon Institute]] aboard his airship, the *Albatross*, whose crew of eight men all told he commands (RC-007-032), to prove his doctrine of flight.
+In *[[robur-the-conqueror|Robur the Conqueror]]* he seizes the members of the [[Weldon Institute]] aboard his airship, the *[[albatross|Albatross]]*, whose crew of eight men all told he commands (RC-007-032), to prove his doctrine of flight.
 
-He reappears in *Master of the World* as the builder of a still greater machine; when at last unmasked, the recognition is total — "Robur, the Conqueror! This then was..." (MW-016-002) — and his reckless ambition drives him to destruction.
+He reappears in *[[the-master-of-the-world|Master of the World]]* as the builder of a still greater machine; when at last unmasked, the recognition is total — "Robur, the Conqueror! This then was..." (MW-016-002) — and his reckless ambition drives him to destruction.
 
 ## Character & Traits
 
@@ -36,5 +36,5 @@ His pride is absolute, crystallized in the name he claims for himself (MW-015-05
 
 ## Appearances
 
-- [[Robur the Conqueror]] — as the master of the airship *Albatross*.
+- [[Robur the Conqueror]] — as the master of the airship *[[albatross|Albatross]]*.
 - [[Master of the World]] — as the outlaw builder of a greater machine.

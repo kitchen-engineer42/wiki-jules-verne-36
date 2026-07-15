@@ -17,11 +17,11 @@ quality: featured
 
 ## Overview
 
-Captain Nemo is the commander of the submarine *Nautilus* and the central figure of *Twenty Thousand Leagues Under the Seas*. Withholding his true name, he presents himself to his captives only by a chosen pseudonym: "to you, I'm simply Captain Nemo" (TTLU-010-057). He has deliberately severed all ties with the society of men (TTLU-010-021), and declares that he has placed himself beyond human laws, answering to no authority and remaining wholly independent (TTLU-010-022).
+Captain Nemo is the commander of the submarine *[[nautilus|Nautilus]]* and the central figure of *[[twenty-thousand-leagues|Twenty Thousand Leagues Under the Sea]]s*. Withholding his true name, he presents himself to his captives only by a chosen pseudonym: "to you, I'm simply Captain Nemo" (TTLU-010-057). He has deliberately severed all ties with the society of men (TTLU-010-021), and declares that he has placed himself beyond human laws, answering to no authority and remaining wholly independent (TTLU-010-022).
 
 ## Role in the Story
 
-Nemo captures Professor Aronnax and his companions after their vessel strikes the *Nautilus*, then makes them permanent guests aboard his submarine. His motto, "Mobilis in Mobili" — mobile within the mobile element — is inscribed throughout the vessel and expresses his life of restless motion through the sea (TTLU-008-001). Years later, and across works, an aged Nemo reappears in the volcanic grotto beneath Lincoln Island; recognizing his visitors, he addresses them by name — "Captain Nemo, you asked for us" (MI-057-137) — and fixes them with his penetrating gaze in his final hours (MI-058-005).
+Nemo captures Professor Aronnax and his companions after their vessel strikes the *[[nautilus|Nautilus]]*, then makes them permanent guests aboard his submarine. His motto, "Mobilis in Mobili" — mobile within the mobile element — is inscribed throughout the vessel and expresses his life of restless motion through the sea (TTLU-008-001). Years later, and across works, an aged Nemo reappears in the volcanic grotto beneath [[lincoln-island|Lincoln Island]]; recognizing his visitors, he addresses them by name — "Captain Nemo, you asked for us" (MI-057-137) — and fixes them with his penetrating gaze in his final hours (MI-058-005).
 
 ## Character & Traits
 

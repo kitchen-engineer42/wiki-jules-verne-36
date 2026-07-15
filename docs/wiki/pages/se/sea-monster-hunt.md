@@ -16,7 +16,7 @@ quality: featured
 
 ## Overview
 
-The Sea Monster Hunt is the pursuit that opens *Twenty Thousand Leagues Under the Seas*. After ships are struck by an unknown object, public opinion splits into two camps: those favouring a monster of colossal strength, and those favouring an underwater boat of tremendous motor power (TTLU-002-006).
+The Sea Monster Hunt is the pursuit that opens *[[twenty-thousand-leagues|Twenty Thousand Leagues Under the Sea]]s*. After ships are struck by an unknown object, public opinion splits into two camps: those favouring a monster of colossal strength, and those favouring an underwater boat of tremendous motor power (TTLU-002-006).
 
 ## What Happens
 
@@ -26,7 +26,7 @@ He and his companions embark: "We're leaving on the Abraham Lincoln" (TTLU-003-0
 
 ## Significance
 
-The hunt is the doorway to the entire adventure: the chase ends when the "monster" rams the frigate and Aronnax, Conseil, and Ned Land are cast into the sea, only to be taken aboard the Nautilus. That the enterprise was framed as hunting an animal that could sink a frigate as easily as a walnut shell (TTLU-003-013) proves truer than intended, and the early debate over a monster of colossal strength or an underwater boat (TTLU-002-006) is resolved when the vessel is revealed as Captain Nemo's submarine.
+The hunt is the doorway to the entire adventure: the chase ends when the "monster" rams the frigate and Aronnax, [[conseil|Conseil]], and [[ned-land|Ned Land]] are cast into the sea, only to be taken aboard the [[nautilus|Nautilus]]. That the enterprise was framed as hunting an animal that could sink a frigate as easily as a walnut shell (TTLU-003-013) proves truer than intended, and the early debate over a monster of colossal strength or an underwater boat (TTLU-002-006) is resolved when the vessel is revealed as [[captain-nemo|Captain Nemo]]'s submarine.
 
 ## Participants & Setting
 

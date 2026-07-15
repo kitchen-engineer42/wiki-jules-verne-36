@@ -17,15 +17,15 @@ quality: featured
 
 ## Overview
 
-Ned Land is the master harpooner who becomes, with Professor Aronnax and Conseil, a captive aboard the *Nautilus*. Renowned as the King of Harpooners (TTLU-004-007), he is a Canadian who had no equal in his dangerous trade (TTLU-004-008), and his restless craving for freedom drives much of the story's tension beneath the sea.
+Ned Land is the master harpooner who becomes, with Professor Aronnax and [[conseil|Conseil]], a captive aboard the *[[nautilus|Nautilus]]*. Renowned as the King of Harpooners (TTLU-004-007), he is a Canadian who had no equal in his dangerous trade (TTLU-004-008), and his restless craving for freedom drives much of the story's tension beneath the sea.
 
 ## Role in the Story
 
-Recruited for the expedition against the supposed sea monster, Ned instead finds himself a prisoner of the very "monster" — Captain Nemo's submarine. About forty years old (TTLU-004-009), he chafes against confinement from the first, and it is he who ceaselessly plots escape, refusing to accept the sea as a prison however wondrous Nemo's world may be.
+Recruited for the expedition against the supposed sea monster, Ned instead finds himself a prisoner of the very "monster" — [[captain-nemo|Captain Nemo]]'s submarine. [[About]] forty years old (TTLU-004-009), he chafes against confinement from the first, and it is he who ceaselessly plots escape, refusing to accept the sea as a prison however wondrous [[captain-nemo|Nemo]]'s world may be.
 
 ## Character & Traits
 
-Ned is all appetite and action, the earthbound counterweight to Nemo's philosophical withdrawal. Blunt and unsociable, he nonetheless took a liking to the narrator (TTLU-004-011), and his loyalty to his companions runs beneath his gruffness. His prowess as the King of Harpooners (TTLU-004-007) marks him as a man of the surface world — of hunt, air, and open horizon — who can never be reconciled to life below.
+Ned is all appetite and action, the earthbound counterweight to [[captain-nemo|Nemo]]'s philosophical withdrawal. Blunt and unsociable, he nonetheless took a liking to the narrator (TTLU-004-011), and his loyalty to his companions runs beneath his gruffness. His prowess as the King of Harpooners (TTLU-004-007) marks him as a man of the surface world — of hunt, air, and open horizon — who can never be reconciled to life below.
 
 ## Relationships
 

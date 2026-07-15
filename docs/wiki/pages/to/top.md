@@ -15,7 +15,7 @@ quality: featured
 
 ## Overview
 
-Top is the dog of Cyrus Harding and one of the loyal companions of the Lincoln Island castaways. Introduced as a favorite of the engineer who leaps into the balloon car with the party (MI-002-046), Top is a constant presence through the colony's ordeals, and his animal instincts more than once alert the men to unseen dangers.
+Top is the dog of [[cyrus-harding|Cyrus Harding]] and one of the loyal companions of the [[lincoln-island|Lincoln Island]] castaways. Introduced as a favorite of the engineer who leaps into the balloon car with the party (MI-002-046), Top is a constant presence through the colony's ordeals, and his animal instincts more than once alert the men to unseen dangers.
 
 ## Role in the Story
 

@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Giant Telescope is a colossal reflecting telescope commissioned by the [[Gun Club]] to track the flight of the [[Lunar Projectile]] after it was fired from the [[Columbiad]] toward the Moon. Erected atop Long's Peak in the Rocky Mountains, it was, in the world of *From the Earth to the Moon*, the most powerful astronomical instrument ever built. (FEM-024-022)(FEM-024-024)
+The Giant Telescope is a colossal reflecting telescope commissioned by the [[Gun Club]] to track the flight of the [[Lunar Projectile]] after it was fired from the [[Columbiad]] toward the Moon. Erected atop Long's Peak in the Rocky Mountains, it was, in the world of *[[from-the-earth-to-the-moon|From the Earth to the Moon]]*, the most powerful astronomical instrument ever built. (FEM-024-022)(FEM-024-024)
 
 ## Design & Operation
 

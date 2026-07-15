@@ -15,11 +15,11 @@ quality: featured
 
 ## Overview
 
-Impey Barbicane is the president of the Baltimore Gun Club and the mastermind of the lunar cannon-shot in *From the Earth to the Moon*. Introduced as a man of forty, calm, cold, austere (FEM-002-009), he conceives and drives the audacious project to fire a projectile at the Moon, and his iron resolve carries it from proposal to launch.
+Impey Barbicane is the president of the [[gun-club|Baltimore Gun Club]] and the mastermind of the lunar cannon-shot in *[[from-the-earth-to-the-moon|From the Earth to the Moon]]*. Introduced as a man of forty, calm, cold, austere (FEM-002-009), he conceives and drives the audacious project to fire a projectile at the Moon, and his iron resolve carries it from proposal to launch.
 
 ## Role in the Story
 
-The enterprise begins with the important communication of President Barbicane (FEM-002-002) to the assembled Gun Club, and from that moment he bends immense resources toward the shot. Losing no time (FEM-007-003), he organizes the casting of the Columbiad and the founding of Stone's Hill, and when Michel Ardan proposes to ride the projectile, Barbicane accepts a place aboard, becoming a passenger on the voyage he engineered.
+The enterprise begins with the important communication of President Barbicane (FEM-002-002) to the assembled [[gun-club|Gun Club]], and from that moment he bends immense resources toward the shot. Losing no time (FEM-007-003), he organizes the casting of the [[columbiad|Columbiad]] and the founding of Stone's Hill, and when [[michel-ardan|Michel Ardan]] proposes to ride the projectile, Barbicane accepts a place aboard, becoming a passenger on the voyage he engineered.
 
 ## Character & Traits
 
@@ -32,5 +32,5 @@ Barbicane is willpower personified. Calm, cold, and austere (FEM-002-009), he me
 
 ## Appearances
 
-- [[From the Earth to the Moon]] — as president of the Gun Club and architect of the shot.
+- [[From the Earth to the Moon]] — as president of the [[gun-club|Gun Club]] and architect of the shot.
 - [[Round the Moon]] — as a passenger during the voyage.

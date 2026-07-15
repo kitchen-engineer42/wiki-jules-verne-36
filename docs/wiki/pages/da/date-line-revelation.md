@@ -16,13 +16,13 @@ quality: featured
 
 ## Overview
 
-The Gained Day is the revelation that overturns the apparent defeat at the end of *Around the World in Eighty Days*. Believing himself a day late, Fogg learns the truth when Passepartout bursts in: "You have made a mistake of one day!" (AWED-037-016). The journey has secretly run a day faster than its traveller's reckoning.
+The Gained Day is the revelation that overturns the apparent defeat at the end of *[[around-the-world-in-eighty-days|Around the World in Eighty Days]]*. Believing himself a day late, Fogg learns the truth when [[passepartout|Passepartout]] bursts in: "You have made a mistake of one day!" (AWED-037-016). The journey has secretly run a day faster than its traveller's reckoning.
 
 ## What Happens
 
-Fogg has returned to London certain he arrived too late and has lost the wager. In fact Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward (AWED-037-024), toward the rising sun.
+Fogg has returned to London certain he arrived too late and has lost the wager. In fact [[phileas-fogg|Phileas Fogg]] had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward (AWED-037-024), toward the rising sun.
 
-The arithmetic is exact: crossing three hundred and sixty degrees, each worth four minutes, gives precisely twenty-four hours — the day unconsciously gained (AWED-037-025). Passepartout races to the Reform Club to halt his master, and Fogg arrives in time to win.
+The arithmetic is exact: crossing three hundred and sixty degrees, each worth four minutes, gives precisely twenty-four hours — the day unconsciously gained (AWED-037-025). [[passepartout|Passepartout]] races to the [[reform-club|Reform Club]] to halt his master, and Fogg arrives in time to win.
 
 ## Significance
 

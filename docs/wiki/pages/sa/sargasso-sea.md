@@ -14,15 +14,15 @@ quality: featured
 
 ## Overview
 
-The Sargasso Sea is the vast, still region of the North Atlantic that the Nautilus traverses in *Twenty Thousand Leagues Under the Seas*. The narrator describes it as "an actual lake in the open Atlantic" (TTLU-035-004), a body of calm water set apart within the surrounding ocean by the great currents that ring it.
+The Sargasso Sea is the vast, still region of the North Atlantic that the [[nautilus|Nautilus]] traverses in *[[twenty-thousand-leagues|Twenty Thousand Leagues Under the Sea]]s*. The narrator describes it as "an actual lake in the open Atlantic" (TTLU-035-004), a body of calm water set apart within the surrounding ocean by the great currents that ring it.
 
 Verne treats it as a real oceanographic feature rather than an invented one. The name itself is explained as coming from the Spanish word for the gulf-weed that mats its surface (TTLU-035-007), and the sea is placed at the heart of the Atlantic's rotating current system.
 
 ## In the Narrative
 
-The Nautilus spends a full day crossing the Sargasso Sea. The submarine passes "the whole day of February 22 in the Sargasso Sea, where fish that dote on" the marine plants find their pasture (TTLU-035-011), a leisurely transit that lets Aronnax catalogue the region's strange calm.
+The [[nautilus|Nautilus]] spends a full day crossing the Sargasso Sea. The submarine passes "the whole day of February 22 in the Sargasso Sea, where fish that dote on" the marine plants find their pasture (TTLU-035-011), a leisurely transit that lets Aronnax catalogue the region's strange calm.
 
-The weed poses a practical hazard to navigation. To avoid fouling the vessel, Captain Nemo takes care not to entangle the propeller in the matted growth, steering the Nautilus through a region where earlier ships "had great difficulty navigating" (TTLU-035-005).
+The weed poses a practical hazard to navigation. To avoid fouling the vessel, [[captain-nemo|Captain Nemo]] takes care not to entangle the propeller in the matted growth, steering the [[nautilus|Nautilus]] through a region where earlier ships "had great difficulty navigating" (TTLU-035-005).
 
 ## Geography & Features
 

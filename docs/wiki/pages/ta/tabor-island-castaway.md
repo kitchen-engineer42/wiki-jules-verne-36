@@ -14,13 +14,13 @@ quality: featured
 
 ## Overview
 
-The Tabor Island Castaway is the discovery, in *The Mysterious Island*, of a human being whom long solitude has stripped of reason. Investigating a deserted hut, the colonists come upon Herbert thrown on the ground and in the grasp of a savage being, apparently a gigantic ape (MI-036-047).
+The Tabor Island Castaway is the discovery, in *[[the-mysterious-island|The Mysterious Island]]*, of a human being whom long solitude has stripped of reason. Investigating a deserted hut, the colonists come upon Herbert thrown on the ground and in the grasp of a savage being, apparently a gigantic ape (MI-036-047).
 
 ## What Happens
 
 The party rushes to the boy's aid, and the truth of the attacker becomes plain: "Indeed it was not an ape; it was a human being, a man" (MI-036-053). They overpower and bind the wretched creature, who fights and utters no articulate speech, and carry him back to their boat.
 
-Returning to Lincoln Island, they report to Cyrus Harding how the only dwelling on the island had long been abandoned, and how at last a castaway had been captured, who appeared no longer to belong to the human species (MI-037-019).
+Returning to [[lincoln-island|Lincoln Island]], they report to [[cyrus-harding|Cyrus Harding]] how the only dwelling on the island had long been abandoned, and how at last a castaway had been captured, who appeared no longer to belong to the human species (MI-037-019).
 
 ## Significance
 

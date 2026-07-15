@@ -20,25 +20,25 @@ What is first taken for a monstrous [[Sea Monster Hunt|narwhal]] proves to be th
 
 An expedition sets out to hunt the creature that has been damaging ships; before long "Something was out there, that much was certain" (TTLU-002-003).
 
-Aronnax, his servant [[Conseil]], and the Canadian harpooner [[Ned Land]] are thrown overboard and find themselves aboard the Nautilus. The moment of contact comes when "Ned Land was not mistaken, and we all spotted the object his hand was indicating" ([[TTLU-ch06|TTLU-006-005]]).
+Aronnax, his servant [[Conseil]], and the Canadian harpooner [[Ned Land]] are thrown overboard and find themselves aboard the [[nautilus|Nautilus]]. The moment of contact comes when "[[ned-land|Ned Land]] was not mistaken, and we all spotted the object his hand was indicating" ([[TTLU-ch06|TTLU-006-005]]).
 
-Held as Nemo's guests-prisoners, the three travel the world's oceans — coral graveyards, the [[Sargasso Sea]], the Antarctic ice, and a submerged forest — witnessing the [[The Giant Squid Attack|attack of giant squid]] along the way.
+Held as [[captain-nemo|Nemo]]'s guests-prisoners, the three travel the world's oceans — coral graveyards, the [[Sargasso Sea]], the Antarctic ice, and a submerged forest — witnessing the [[The Giant Squid Attack|attack of giant squid]] along the way.
 
-The voyage ends in the whirlpool off Norway: "WE COME TO the conclusion of this voyage under the seas" (TTLU-047-002), as the trio escape while Nemo and the Nautilus vanish into the Maelstrom. Full chapter texts run from [[TTLU-ch01]] to [[TTLU-ch47]].
+The voyage ends in the whirlpool off Norway: "WE COME TO the conclusion of this voyage under the seas" (TTLU-047-002), as the trio escape while [[captain-nemo|Nemo]] and the [[nautilus|Nautilus]] vanish into the Maelstrom. Full chapter texts run from [[TTLU-ch01]] to [[TTLU-ch47]].
 
 ## Main Characters
 
-- [[Captain Nemo]] — commander of the Nautilus
+- [[Captain Nemo]] — commander of the [[nautilus|Nautilus]]
 - [[Conseil]] — Aronnax's devoted servant and classifier
 - [[Ned Land]] — Canadian master harpooner
 
 ## Key Places & Technology
 
-- [[Nautilus]] — Nemo's electric submarine
+- [[Nautilus]] — [[captain-nemo|Nemo]]'s electric submarine
 - [[Nemo's Electricity]] — the power source driving the vessel
 - [[Rouquayrol Diving Apparatus]] — the divers' self-contained breathing gear
 - [[Sargasso Sea]] — one of the voyage's notable waters
 
 ## Themes
 
-The novel weaves together exploration of the unknown ocean, the promise and menace of technology embodied in the Nautilus, and Nemo's self-imposed exile from a surface world he has renounced. Verne's fascination with classification and natural science runs throughout, voiced through Aronnax's cataloguing of everything the sea reveals.
+The novel weaves together exploration of the unknown ocean, the promise and menace of technology embodied in the [[nautilus|Nautilus]], and [[captain-nemo|Nemo]]'s self-imposed exile from a surface world he has renounced. Verne's fascination with classification and natural science runs throughout, voiced through Aronnax's cataloguing of everything the sea reveals.

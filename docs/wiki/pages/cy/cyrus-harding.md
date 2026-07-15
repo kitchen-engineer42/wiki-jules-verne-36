@@ -15,11 +15,11 @@ quality: featured
 
 ## Overview
 
-Cyrus Harding is the engineer whose knowledge sustains the castaways of *The Mysterious Island*. A native of Massachusetts (MI-002-004), he is introduced as a first-class engineer, and the narrative repeatedly frames him as so clever and daring an engineer that no difficulty seems insurmountable (MI-002-029).
+Cyrus Harding is the engineer whose knowledge sustains the castaways of *[[the-mysterious-island|The Mysterious Island]]*. A native of Massachusetts (MI-002-004), he is introduced as a first-class engineer, and the narrative repeatedly frames him as so clever and daring an engineer that no difficulty seems insurmountable (MI-002-029).
 
 ## Role in the Story
 
-When the balloon carrying the fugitives is lost at sea, Harding is the man who was to be their guide, their leading spirit (MI-002-050), and the settlement on Lincoln Island rises entirely from his ingenuity. He calculates and builds without instruments: during a descent he had roughly calculated its obliqueness to reckon distances (MI-018-056), and he resolved to make his observation from Prospect Heights to fix the island's position (MI-013-063).
+When the balloon carrying the fugitives is lost at sea, Harding is the man who was to be their guide, their leading spirit (MI-002-050), and the settlement on [[lincoln-island|Lincoln Island]] rises entirely from his ingenuity. He calculates and builds without instruments: during a descent he had roughly calculated its obliqueness to reckon distances (MI-018-056), and he resolved to make his observation from Prospect Heights to fix the island's position (MI-013-063).
 
 ## Character & Traits
 
@@ -33,4 +33,4 @@ Harding's defining trait is applied science. Where others see raw wilderness, he
 
 ## Appearances
 
-- [[The Mysterious Island]] — as the leader of the Lincoln Island colony.
+- [[The Mysterious Island]] — as the leader of the [[lincoln-island|Lincoln Island]] colony.

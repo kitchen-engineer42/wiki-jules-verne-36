@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The ship's compass is, with the log, the instrument on which the boy-captain Dick Sand depends to steer the *Pilgrim*. Verne notes that "the log and the compass were the only instruments which Dick Sand could use, so as to estimate approximately the way made by the 'Pilgrim'" (DSCF-010-065).
+The ship's compass is, with the log, the instrument on which the boy-captain [[dick-sand-a-captain-at-fifteen|Dick Sand]] depends to steer the *Pilgrim*. Verne notes that "the log and the compass were the only instruments which [[dick-sand-a-captain-at-fifteen|Dick Sand]] could use, so as to estimate approximately the way made by the 'Pilgrim'" (DSCF-010-065).
 
 Its reliability becomes the hinge of the plot: a hidden act of sabotage against the compass carries the whole ship to the wrong continent.
 
@@ -26,7 +26,7 @@ The second was "an inverted one, fixed to the bars of the cabin," letting the ca
 
 ## Role in the Story
 
-Dick Sand's redundancy is quietly destroyed. First the spare fails: "The inverted compass, which was fastened by a copper ferule to the woodwork of the cabin, broke off and fell on the floor," leaving him "reduced to trust solely to the compass in the binnacle" (DSCF-010-070, DSCF-010-072).
+[[dick-sand-a-captain-at-fifteen|Dick Sand]]'s redundancy is quietly destroyed. First the spare fails: "The inverted compass, which was fastened by a copper ferule to the woodwork of the cabin, broke off and fell on the floor," leaving him "reduced to trust solely to the compass in the binnacle" (DSCF-010-070, DSCF-010-072).
 
 Then the cook Negoro strikes. In the dark he "placed under the binnacle a pretty heavy object which he held in hand," then "retired without having been seen" (DSCF-010-089, DSCF-010-090). It was "a piece of iron, whose influence had just altered the indications of the compass. The magnetic needle had been deviated... it marked the northeast... a deviation of four points" (DSCF-010-092).
 

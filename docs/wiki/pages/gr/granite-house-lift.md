@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Granite House Lift is a water-powered hoist built by [[Cyrus Harding]] to carry the colonists of Lincoln Island up to their dwelling, cut high in a granite cliff face. It replaces the long rope ladder that had been their only access, and is one of the many comforts the engineer contrives from the island's natural resources in *The Mysterious Island*. (MI-031-019)(MI-031-021)
+The Granite House Lift is a water-powered hoist built by [[Cyrus Harding]] to carry the colonists of [[lincoln-island|Lincoln Island]] up to their dwelling, cut high in a granite cliff face. It replaces the long rope ladder that had been their only access, and is one of the many comforts the engineer contrives from the island's natural resources in *[[the-mysterious-island|The Mysterious Island]]*. (MI-031-019)(MI-031-021)
 
 ## Design & Operation
 
@@ -28,7 +28,7 @@ The rising and falling basket serves as the car, drawn up as the water turns the
 
 ## Role in the Story
 
-The lift first operated on the 17th of March, and gave the colony universal satisfaction, sparing them the toilsome climb of the ladder. (MI-031-021) Thereafter it becomes a fixture of daily life at Granite House, a mark of how far the castaways have raised themselves above bare survival. (MI-033-079)(MI-034-033)
+The lift first operated on the 17th of March, and gave the colony universal satisfaction, sparing them the toilsome climb of the ladder. (MI-031-021) Thereafter it becomes a fixture of daily life at [[granite-house|Granite House]], a mark of how far the castaways have raised themselves above bare survival. (MI-033-079)(MI-034-033)
 
 ## Science & Speculation
 

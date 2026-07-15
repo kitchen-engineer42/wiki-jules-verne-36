@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The Columbiad Launch is the climactic firing of the giant cannon in *From the Earth to the Moon*, the moment the Gun Club's projectile is sent hurtling toward the Moon. Murchison the engineer was entrusted with setting fire to the monster by means of an electric spark (FEM-026-022), and the whole enterprise of the novel converges on this single instant of ignition.
+The Columbiad Launch is the climactic firing of the giant cannon in *[[from-the-earth-to-the-moon|From the Earth to the Moon]]*, the moment the [[gun-club|Gun Club]]'s projectile is sent hurtling toward the Moon. Murchison the engineer was entrusted with setting fire to the monster by means of an electric spark (FEM-026-022), and the whole enterprise of the novel converges on this single instant of ignition.
 
 ## What Happens
 
@@ -24,7 +24,7 @@ The launch was recorded to the exact instant: the projectile started on the 1st 
 
 ## Significance
 
-The launch is the hinge of the entire novel: every earlier chapter exists to make this firing possible. That the travellers had started on the 1st of December at ten hours, forty-six minutes, and forty seconds (FEM-027-014) reflects Barbicane's insistence that the venture be governed by calculation rather than chance.
+The launch is the hinge of the entire novel: every earlier chapter exists to make this firing possible. That the travellers had started on the 1st of December at ten hours, forty-six minutes, and forty seconds (FEM-027-014) reflects [[barbicane|Barbicane]]'s insistence that the venture be governed by calculation rather than chance.
 
 The detonation, whose immense column of fire was perceived a hundred miles out to sea (FEM-027-002), marks the sheer scale of the achievement.
 

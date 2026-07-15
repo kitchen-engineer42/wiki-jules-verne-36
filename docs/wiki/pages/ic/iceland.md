@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-Iceland is the real northern island where the expedition of *Journey to the Center of the Earth* begins its true descent. Professor Lidenbrock travels there armed with letters of introduction to "the Governor of Iceland" (JCE-008-006), for the runic parchment that sets the whole adventure in motion is written in old Icelandic and points to an Icelandic volcano as the gateway underground.
+Iceland is the real northern island where the expedition of *[[journey-to-the-center-of-the-earth|Journey to the Center of the Earth]]* begins its true descent. [[professor-lidenbrock|Professor Lidenbrock]] travels there armed with letters of introduction to "the Governor of Iceland" (JCE-008-006), for the runic parchment that sets the whole adventure in motion is written in old Icelandic and points to an Icelandic volcano as the gateway underground.
 
 The island is the threshold between the ordinary world and the subterranean one. For Lidenbrock its interest lies not in its surface but below: as he declares, "it is not what is upon this island, but what is underneath, that interests me" (JCE-009-039).
 

@@ -15,11 +15,11 @@ quality: featured
 
 ## Overview
 
-Michel Ardan is the flamboyant Frenchman who transforms the Gun Club's lunar cannon-shot into a manned voyage. When his telegraphed proposition became known, it was already all over the States of the Union (FEM-018-003), and within days his name was going about Tampa Town (FEM-018-008) as the man who would ride a cannonball to the Moon.
+Michel Ardan is the flamboyant Frenchman who transforms the [[gun-club|Gun Club]]'s lunar cannon-shot into a manned voyage. When his telegraphed proposition became known, it was already all over the States of the Union (FEM-018-003), and within days his name was going about [[tampa-town|Tampa Town]] (FEM-018-008) as the man who would ride a cannonball to the Moon.
 
 ## Role in the Story
 
-Ardan's arrival converts an artillery experiment into a crewed expedition: he proposes to occupy the projectile himself and carries Barbicane and Nicholl along with him.
+Ardan's arrival converts an artillery experiment into a crewed expedition: he proposes to occupy the projectile himself and carries [[barbicane|Barbicane]] and Nicholl along with him.
 
 When he mounted the platform to address the crowd, his eyes extended over a forest of black hats (FEM-019-005). His reckless enthusiasm supplied the human daring the enterprise had lacked, capturing the public imagination on the eve of the launch.
 

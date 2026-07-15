@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The Forward is the brig built for [[Captain Hatteras]]'s secret expedition toward the North Pole in *The Adventures of Captain Hatteras*. A newspaper notice announces that "the brig _Forward_, Captain K. Z----, Richard Shandon mate, will start from New Prince's Docks for an unknown destination" (ACH-001-002).
+The Forward is the brig built for [[Captain Hatteras]]'s secret expedition toward the North Pole in *[[the-adventures-of-captain-hatteras|The Adventures of Captain Hatteras]]*. A newspaper notice announces that "the brig _Forward_, Captain K. Z----, Richard Shandon mate, will start from New Prince's Docks for an unknown destination" (ACH-001-002).
 
 Though she "might easily have been confounded with the other brigs in the port," connoisseurs spot her peculiarities: "a vessel of a hundred and seventy tons, charged with a screw and steam-engine of a hundred and twenty horse-power" (ACH-001-004).
 

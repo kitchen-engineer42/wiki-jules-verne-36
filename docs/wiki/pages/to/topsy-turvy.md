@@ -12,13 +12,13 @@ quality: standard
 ---
 ## Overview
 
-*Topsy-Turvy* is Jules Verne's satirical sequel to his Gun Club stories, in which the artillerists of Baltimore set out to remake the planet itself. It is prompted when "the Government of the United States conceived the idea of putting the as yet undiscovered countries around the North Pole up at auction sale" (TT-001-025).
+*Topsy-Turvy* is Jules Verne's satirical sequel to his [[gun-club|Gun Club]] stories, in which the artillerists of [[baltimore|Baltimore]] set out to remake the planet itself. It is prompted when "the Government of the United States conceived the idea of putting the as yet undiscovered countries around the North Pole up at auction sale" (TT-001-025).
 
-To buy and exploit the region, a company is founded at Baltimore "under the name of the North Polar Practical Association" (TT-001-039).
+To buy and exploit the region, a company is founded at [[baltimore|Baltimore]] "under the name of the North Polar Practical Association" (TT-001-039).
 
 ## Plot Summary
 
-Behind the venture stands "Impey Barbicane, President of the Gun Club, of Baltimore," heading the new firm of Barbicane & Co. with Captain Nicholl (TT-004-002, TT-004-011). Their aim is the coal thought to lie buried beneath the ice, for the world faces an eventual "coal famine" as forests of a vanished age "must certainly have changed... into coal mines" (TT-005-002, TT-005-003).
+Behind the venture stands "[[barbicane|Impey Barbicane]], President of the [[gun-club|Gun Club]], of [[baltimore|Baltimore]]," heading the new firm of [[barbicane|Barbicane]] & Co. with Captain Nicholl (TT-004-002, TT-004-011). Their aim is the coal thought to lie buried beneath the ice, for the world faces an eventual "coal famine" as forests of a vanished age "must certainly have changed... into coal mines" (TT-005-002, TT-005-003).
 
 The scheme is audacious: to shift the Earth's axis so as to melt the polar ice and lay the coal bare. The calculations fall to the club's mathematician, the hook-handed J.T. Maston, forever bent over his figures and forever interrupted by the telephone of his admirer, Mrs. Evangelina Scorbitt (TT-006-003, TT-006-006).
 
@@ -26,15 +26,15 @@ A colossal cannon is bored into the cliff of Kilimanjaro and fired, but the Eart
 
 ## Main Characters
 
-- Impey Barbicane — President of the Gun Club, head of the North Polar scheme
+- [[barbicane|Impey Barbicane]] — President of the [[gun-club|Gun Club]], head of the North Polar scheme
 - J.T. Maston — the hook-handed calculator whose figures underpin the plan
-- Captain Nicholl — Barbicane's partner in the North Polar Practical Association
+- Captain Nicholl — [[barbicane|Barbicane]]'s partner in the North Polar Practical Association
 - Mrs. Evangelina Scorbitt — Maston's wealthy admirer and backer of the venture
 
 ## Key Places & Technology
 
 - The Kilimanjaro cannon — the monstrous gun bored into the cliff to shift the axis
-- The North Pole — the ice-buried Arctic region bought for its supposed coal
+- [[north-pole|The North Pole]] — the ice-buried Arctic region bought for its supposed coal
 
 ## Themes
 

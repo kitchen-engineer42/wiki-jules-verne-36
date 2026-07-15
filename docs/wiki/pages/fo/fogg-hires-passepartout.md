@@ -16,13 +16,13 @@ quality: featured
 
 ## Overview
 
-The hiring of Passepartout is the quiet domestic scene that gives Phileas Fogg his companion for the journey. On the morning of the wager, a Frenchman presents himself at Savile Row as "Jean Passepartout, a surname which has clung to me because I have a natural aptness for going out of one business into another" (AWED-001-018).
+The hiring of [[passepartout|Passepartout]] is the quiet domestic scene that gives [[phileas-fogg|Phileas Fogg]] his companion for the journey. On the morning of the wager, a Frenchman presents himself at Savile Row as "[[passepartout|Jean Passepartout]], a surname which has clung to me because I have a natural aptness for going out of one business into another" (AWED-001-018).
 
 ## What Happens
 
-Fogg questions the applicant briefly and accepts him on the spot: "Passepartout suits me," he responds. "You are well recommended to me; I hear a good report of you" (AWED-001-019). The new servant, who had sought a tranquil life with the most exact gentleman in England, believes he has found his ideal post.
+Fogg questions the applicant briefly and accepts him on the spot: "[[passepartout|Passepartout]] suits me," he responds. "You are well recommended to me; I hear a good report of you" (AWED-001-019). The new servant, who had sought a tranquil life with the most exact gentleman in England, believes he has found his ideal post.
 
-The exactitude of the household is established at once. Asked the time, Passepartout produces an enormous silver watch (AWED-001-022) that proves to run slow. That same day Fogg goes out to the Reform Club, and Passepartout remains alone in the house, his new master having gone (AWED-001-027) — hours before the wager will overturn the tranquil life he expected.
+The exactitude of the household is established at once. Asked the time, [[passepartout|Passepartout]] produces an enormous silver watch (AWED-001-022) that proves to run slow. That same day Fogg goes out to the [[reform-club|Reform Club]], and [[passepartout|Passepartout]] remains alone in the house, his new master having gone (AWED-001-027) — hours before the wager will overturn the tranquil life he expected.
 
 ## Significance
 

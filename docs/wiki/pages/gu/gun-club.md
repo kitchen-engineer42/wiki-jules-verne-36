@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Gun Club is a society of Baltimore artillerists founded during the American Civil War, devoted wholly to the science of gunnery and the design of ever more "gigantic cannon, much less useful than sewing-machines, but quite as astonishing" (FEM-001-004). Its membership swelled with astonishing speed:
+The Gun Club is a society of [[baltimore|Baltimore]] artillerists founded during the American Civil War, devoted wholly to the science of gunnery and the design of ever more "gigantic cannon, much less useful than sewing-machines, but quite as astonishing" (FEM-001-004). Its membership swelled with astonishing speed:
 
 > One month after its formation it numbered eighteen hundred and thirty-three effective members. (FEM-001-006)
 

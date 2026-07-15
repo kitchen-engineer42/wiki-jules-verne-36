@@ -19,13 +19,13 @@ Housed in "the well-known club in Walnut Street, Philadelphia, Pennsylvania" (RC
 
 ## Role in the Story
 
-The Institute sets the plot of *Robur the Conqueror* in motion. Its members, sworn believers in lighter-than-air flight, are building a great dirigible balloon — "Immediately the Weldon Institute set to work" (RC-003-009) — when the mysterious engineer Robur bursts into their hall to proclaim the future of the aeroplane instead.
+The Institute sets the plot of *[[robur-the-conqueror|Robur the Conqueror]]* in motion. Its members, sworn believers in lighter-than-air flight, are building a great dirigible balloon — "Immediately the Weldon Institute set to work" (RC-003-009) — when the mysterious engineer [[robur|Robur]] bursts into their hall to proclaim the future of the aeroplane instead.
 
-Enraged, the club's leaders become his "bitterest foes," and Robur abducts the president and secretary aboard the Albatross to prove his case by flying them around the world. The clash of the Institute's balloon against Robur's flying machine is the novel's central engine.
+Enraged, the club's leaders become his "bitterest foes," and [[robur|Robur]] abducts the president and secretary aboard the [[albatross|Albatross]] to prove his case by flying them around the world. The clash of the Institute's balloon against [[robur|Robur]]'s flying machine is the novel's central engine.
 
 ## Members
 
-- Uncle Prudent — president of the Institute (RC-002-018), rich, audacious, and Robur's chief antagonist
+- Uncle Prudent — president of the Institute (RC-002-018), rich, audacious, and [[robur|Robur]]'s chief antagonist
 - Phil Evans — the secretary and manager of the Wheelton Watch Company (RC-002-021), whose rivalry with Prudent split the club's votes evenly (RC-002-022)
 - Jem Chip — the treasurer of the Institute (RC-002-023)
 - William T. Forbes — a member and glucose-factory manager
@@ -36,4 +36,4 @@ The club's life is devoted to the theory and practice of ballooning, from heated
 
 Its meetings are famously turbulent — a saloon full of balloonists "struggling, pushing, gesticulating, shouting, arguing, disputing" (RC-002-017) — and even its own presidency was once settled by a contest of planting a needle nearest the centre of a line.
 
-Above all, the Institute's defining activity becomes its stubborn defence of the balloon against Robur's demonstration that the age of the flying machine has arrived.
+Above all, the Institute's defining activity becomes its stubborn defence of the balloon against [[robur|Robur]]'s demonstration that the age of the flying machine has arrived.

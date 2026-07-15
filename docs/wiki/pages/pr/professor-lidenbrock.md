@@ -15,11 +15,11 @@ quality: featured
 
 ## Overview
 
-Professor Lidenbrock is the driving force of *Journey to the Center of the Earth*, an impetuous German savant whose obsession sets the expedition in motion. He is curator of the museum of mineralogy (JCE-001-025), and the narrative opens as he rushes into his house in a state of great agitation (JCE-001-002), the impatient energy that characterizes him from the first page.
+Professor Lidenbrock is the driving force of *[[journey-to-the-center-of-the-earth|Journey to the Center of the Earth]]*, an impetuous German savant whose obsession sets the expedition in motion. He is curator of the museum of mineralogy (JCE-001-025), and the narrative opens as he rushes into his house in a state of great agitation (JCE-001-002), the impatient energy that characterizes him from the first page.
 
 ## Role in the Story
 
-It is Lidenbrock who deciphers the runic cryptogram pointing to a passage into the earth and who compels his nephew Axel to accompany him down through the crater of Snæfellsjökull.
+It is Lidenbrock who deciphers the runic cryptogram pointing to a passage into the earth and who compels his nephew [[axel|Axel]] to accompany him down through the crater of [[snaefellsjokull|Snæfellsjökull]].
 
 His authority rests on relentless logic: he insists that scientific arguments alone could have any weight with him (JCE-006-002), overriding every objection with reasoning rather than sentiment. It is this conviction that carries the party into the volcano and onward to the subterranean sea.
 
@@ -31,7 +31,7 @@ He was acknowledged to be quite a polyglot (JCE-002-036), a savant of wide accom
 
 ## Relationships
 
-- Uncle and expedition leader to his nephew Axel, who narrates the descent.
+- Uncle and expedition leader to his nephew [[axel|Axel]], who narrates the descent.
 - Leads the expedition through [[Snæfellsjökull]] into the subterranean world.
 - Crosses the [[Liedenbrock Sea]], the underground ocean that bears its name.
 

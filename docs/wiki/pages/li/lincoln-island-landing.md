@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The Lincoln Island Landing opens *The Mysterious Island*, casting five fugitives from a besieged city onto an unknown shore. Their balloon is caught in a terrible storm from the northeast (MI-001-003), and the tempest hurls them across the ocean toward the land that will become their home.
+The Lincoln Island Landing opens *[[the-mysterious-island|The Mysterious Island]]*, casting five fugitives from a besieged city onto an unknown shore. Their balloon is caught in a terrible storm from the northeast (MI-001-003), and the tempest hurls them across the ocean toward the land that will become their home.
 
 ## What Happens
 

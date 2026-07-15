@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-In *The Adventures of Captain Hatteras* the North Pole is not an empty point on the ice but a volcanic island rising from an open polar sea. To reach it is the single obsession of Captain Hatteras: "to attain the Pole was the aim of his life" (ACH-012-056), and the whole expedition is bent toward that goal.
+In *[[the-adventures-of-captain-hatteras|The Adventures of Captain Hatteras]]* the North Pole is not an empty point on the ice but a volcanic island rising from an open polar sea. To reach it is the single obsession of [[captain-hatteras|Captain Hatteras]]: "to attain the Pole was the aim of his life" (ACH-012-056), and the whole expedition is bent toward that goal.
 
 When the travelers finally arrive, they find "a volcano, fixed like a lighthouse on the North Pole of the world" (ACH-055-010). The exact geographic pole turns out to be occupied by an active mountain — christened Queen's Island — burning at the top of the earth.
 

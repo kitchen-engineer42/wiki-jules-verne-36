@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Jangada is the colossal timber raft on which [[Joam Garral]] and his household voyage eight hundred leagues down the Amazon. More a floating village than a boat, it gives Verne's novel its original French title, *La Jangada*, and serves as the mobile stage on which the whole story unfolds. (EHLA-006-005)(EHLA-006-015)
+The Jangada is the colossal timber raft on which [[Joam Garral]] and his household voyage eight hundred leagues down the Amazon. More a floating village than a boat, it gives Verne's novel its original French title, *[[eight-hundred-leagues-on-the-amazon|La Jangada]]*, and serves as the mobile stage on which the whole story unfolds. (EHLA-006-005)(EHLA-006-015)
 
 ## Design & Operation
 
@@ -40,4 +40,4 @@ The Jangada is the setting as much as the vehicle: the Garral family lives aboar
 
 ## Science & Speculation
 
-Here Verne exaggerates rather than invents. The jangada is a genuine Brazilian raft, and floating timber down the Amazon to market was real practice; Verne simply inflates the type to island scale for narrative grandeur. As with the Granite House Lift, the interest is less in novel physics than in the spectacle of ordinary technology pushed to an extraordinary magnitude, a floating community sustained by the river itself.
+Here Verne exaggerates rather than invents. The jangada is a genuine Brazilian raft, and floating timber down the Amazon to market was real practice; Verne simply inflates the type to island scale for narrative grandeur. As with the [[granite-house-lift|Granite House Lift]], the interest is less in novel physics than in the spectacle of ordinary technology pushed to an extraordinary magnitude, a floating community sustained by the river itself.

@@ -16,13 +16,13 @@ quality: featured
 
 ## Overview
 
-The Giant Squid Attack is one of the most celebrated episodes of *Twenty Thousand Leagues Under the Seas*, in which the crew of the Nautilus battle monstrous cuttlefish hand to hand. The waters the vessel enters are described as real devilfish caverns (TTLU-042-015), and from them emerge creatures of nightmarish size.
+The Giant Squid Attack is one of the most celebrated episodes of *[[twenty-thousand-leagues|Twenty Thousand Leagues Under the Sea]]s*, in which the crew of the [[nautilus|Nautilus]] battle monstrous cuttlefish hand to hand. The waters the vessel enters are described as real devilfish caverns (TTLU-042-015), and from them emerge creatures of nightmarish size.
 
 ## What Happens
 
-The monster that seizes the Nautilus is no ordinary animal. Its tentacles were as long as twenty-seven feet (TTLU-042-050), and its body was crowned by eight tentacles that quivered in the water like a nest of snakes (TTLU-042-060). Each arm bore some two hundred and fifty suckers (TTLU-042-070), and its mouth was a real parrot's beak but of fearsome size (TTLU-042-064).
+The monster that seizes the [[nautilus|Nautilus]] is no ordinary animal. Its tentacles were as long as twenty-seven feet (TTLU-042-050), and its body was crowned by eight tentacles that quivered in the water like a nest of snakes (TTLU-042-060). Each arm bore some two hundred and fifty suckers (TTLU-042-070), and its mouth was a real parrot's beak but of fearsome size (TTLU-042-064).
 
-When one of these creatures blocks the propeller, Captain Nemo leads the crew onto the platform with axes to cut it free, and in the struggle the beasts drag a sailor away before the Nautilus can escape.
+When one of these creatures blocks the propeller, [[captain-nemo|Captain Nemo]] leads the crew onto the platform with axes to cut it free, and in the struggle the beasts drag a sailor away before the [[nautilus|Nautilus]] can escape.
 
 ## Significance
 

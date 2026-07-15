@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Reform Club is the London gentlemen's club on Pall Mall where Phileas Fogg spends his ordered days and where, in *Around the World in Eighty Days*, he wagers his fortune that he can circle the globe in eighty days. He is among its most noticeable members. (AWED-001-002)
+The Reform Club is the London gentlemen's club on Pall Mall where [[phileas-fogg|Phileas Fogg]] spends his ordered days and where, in *[[around-the-world-in-eighty-days|Around the World in Eighty Days]]*, he wagers his fortune that he can circle the globe in eighty days. He is among its most noticeable members. (AWED-001-002)
 
 ## In the Narrative
 

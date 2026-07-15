@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-Mount Franklin is the great volcano that dominates the interior of Lincoln Island in *The Mysterious Island*. When the castaways survey and name the features of their new home, the central peak on which they stand is christened Mount Franklin (MI-011-061), and the surrounding bays and heights are named in the same session of map-making (MI-011-062).
+Mount Franklin is the great volcano that dominates the interior of [[lincoln-island|Lincoln Island]] in *[[the-mysterious-island|The Mysterious Island]]*. When the castaways survey and name the features of their new home, the central peak on which they stand is christened Mount Franklin (MI-011-061), and the surrounding bays and heights are named in the same session of map-making (MI-011-062).
 
 The mountain is the island's defining landmark and its highest vantage point. From its summit the settlers first grasp the full shape of their domain (MI-013-052), and it remains the reference point against which every other place on the island is located.
 
@@ -20,7 +20,7 @@ The mountain is the island's defining landmark and its highest vantage point. Fr
 
 Mount Franklin structures the settlers' movement across the island. After their survey they have "only to descend Mount Franklin to return to the Chimneys" (MI-011-078), their first shelter, so the peak becomes the hub from which routes radiate.
 
-The mountain later reveals its dangerous nature. It is an active volcano: as the story advances "the volcano arose in the north" (MI-026-002), and its eventual eruption drives the climactic destruction of the island. What begins as a surveying landmark ends as the agent of Lincoln Island's doom.
+The mountain later reveals its dangerous nature. It is an active volcano: as the story advances "the volcano arose in the north" (MI-026-002), and its eventual eruption drives the climactic destruction of the island. What begins as a surveying landmark ends as the agent of [[lincoln-island|Lincoln Island]]'s doom.
 
 ## Geography & Features
 

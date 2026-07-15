@@ -14,13 +14,13 @@ quality: featured
 
 ## Overview
 
-The Rouquayrol diving apparatus is the self-contained diving equipment that lets the [[Nautilus]]'s crew walk freely across the seafloor. Captain Nemo explains: "We use the Rouquayrol-Denayrouze device, invented by two of your fellow countrymen but refined by me for my own special uses" (TTLU-015-075).
+The Rouquayrol diving apparatus is the self-contained diving equipment that lets the [[Nautilus]]'s crew walk freely across the seafloor. [[captain-nemo|Captain Nemo]] explains: "We use the Rouquayrol-Denayrouze device, invented by two of your fellow countrymen but refined by me for my own special uses" (TTLU-015-075).
 
-Unlike a surface-fed suit, it frees the diver from any tether. Nemo scorns the older method, in which the workman "is attached to a pump that sends him air through an india-rubber hose; it's an actual chain that fetters him to the shore" (TTLU-015-073).
+Unlike a surface-fed suit, it frees the diver from any tether. [[captain-nemo|Nemo]] scorns the older method, in which the workman "is attached to a pump that sends him air through an india-rubber hose; it's an actual chain that fetters him to the shore" (TTLU-015-073).
 
 ## Design & Operation
 
-The apparatus carries its own air: "It consists of a tank built from heavy sheet iron in which I store air under a pressure of fifty atmospheres" (TTLU-015-075). Charged by the Nautilus's pumps, "the tank on my diving equipment can supply breathable air for nine or ten hours" (TTLU-015-077).
+The apparatus carries its own air: "It consists of a tank built from heavy sheet iron in which I store air under a pressure of fifty atmospheres" (TTLU-015-075). Charged by the [[nautilus|Nautilus]]'s pumps, "the tank on my diving equipment can supply breathable air for nine or ten hours" (TTLU-015-077).
 
 The suit seals at the head: "the suit ended in a collar of threaded copper onto which the metal helmet was screwed. Three holes, protected by heavy glass, allowed us to see" (TTLU-016-019). The air tank rides on the back while the [[Ruhmkorff Apparatus]] lamp "is fastened to the belt" (TTLU-015-079).
 
@@ -32,4 +32,4 @@ The equipment underpins the novel's famous undersea excursions, from forest hunt
 
 ## Science & Speculation
 
-Verne again builds on a real invention: the Rouquayrol-Denayrouze regulator was an existing 1860s device, which Nemo merely "refined... for my own special uses" (TTLU-015-075). Its limitation is honestly stated — the stored air lasts only "nine or ten hours" (TTLU-015-077) — so the diving range is bounded by chemistry rather than magic.
+Verne again builds on a real invention: the Rouquayrol-Denayrouze regulator was an existing 1860s device, which [[captain-nemo|Nemo]] merely "refined... for my own special uses" (TTLU-015-075). Its limitation is honestly stated — the stored air lasts only "nine or ten hours" (TTLU-015-077) — so the diving range is bounded by chemistry rather than magic.

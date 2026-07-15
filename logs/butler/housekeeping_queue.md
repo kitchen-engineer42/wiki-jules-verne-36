@@ -41,4 +41,17 @@
 
 ## P2 — 中优先级
 
+### HK-robur-alias-conflict — `Robur the Conqueror` label/alias 撞名
+
+**现象（GROW R9 BLK3，2026-07-15 发现）**：`build_registry.py` 报
+`alias conflict: 'Robur the Conqueror' → robur-the-conqueror vs robur`。work 页
+`robur-the-conqueror`（作品）与 character 页 `robur`（人物）共享 label/alias `Robur the Conqueror`，
+`alias_index` 后写覆盖前写（LAW §10 label 唯一性）。Pilot 期既有数据，非 wikify 引入。
+
+**影响**：`[[Robur the Conqueror]]` 解析歧义，可能误链到人物页或作品页。
+
+**修复方向**：消歧——work 页 label 保留 `Robur the Conqueror`（作品全名），character 页
+`robur` 的 label/alias 收窄为 `Robur`，去掉与作品同名的 alias。属本地页面数据，经 edit_page.py 可修，
+非 memex 组件、无需 RFC。待 character 类型轮或 2.1-Z PHQ 消歧检查时处理。
+
 ## P3 — 低优先级

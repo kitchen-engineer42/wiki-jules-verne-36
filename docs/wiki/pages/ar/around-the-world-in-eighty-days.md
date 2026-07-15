@@ -12,13 +12,13 @@ quality: standard
 ---
 ## Overview
 
-*Around the World in Eighty Days* is Jules Verne's most famous adventure, following the imperturbable English gentleman [[Phileas Fogg]] and his French valet [[Passepartout]] on a race around the globe. Fogg is introduced as "one of the most noticeable members of the Reform Club" (AWED-001-002), a man of absolute routine.
+*Around the World in Eighty Days* is Jules Verne's most famous adventure, following the imperturbable English gentleman [[Phileas Fogg]] and his French valet [[Passepartout]] on a race around the globe. Fogg is introduced as "one of the most noticeable members of the [[reform-club|Reform Club]]" (AWED-001-002), a man of absolute routine.
 
 The plot springs from [[The Eighty-Day Wager]], struck at the [[Reform Club]] whist-table, that Fogg cannot circle the world in eighty days.
 
 ## Plot Summary
 
-Fogg engages Passepartout as his servant on the very morning the wager is made — "Jean Passepartout, a surname which has clung to me" (AWED-001-018). That same night the two set off eastward across Europe, Suez, India, and the Pacific.
+Fogg engages [[passepartout|Passepartout]] as his servant on the very morning the wager is made — "[[passepartout|Jean Passepartout]], a surname which has clung to me" (AWED-001-018). That same night the two set off eastward across Europe, Suez, India, and the Pacific.
 
 Pursued by the detective [[Detective Fix]], who believes Fogg a bank robber, the pair rescue [[Aouda]] in India and press on against every delay. The journey turns on [[The Gained Day]] — the day gained by travelling east — which lets Fogg win the wager at the last moment.
 

@@ -17,7 +17,7 @@ quality: featured
 
 ## Overview
 
-Passepartout is the French manservant who enters Phileas Fogg's employ on the very day the wager is struck. He introduces himself as "Jean Passepartout, a surname which has clung to me" (AWED-001-018), and when Fogg accepts him with the words that Passepartout "suits me" (AWED-001-019), his fate is bound to the eighty-day voyage.
+Passepartout is the French manservant who enters [[phileas-fogg|Phileas Fogg]]'s employ on the very day the wager is struck. He introduces himself as "Jean Passepartout, a surname which has clung to me" (AWED-001-018), and when Fogg accepts him with the words that Passepartout "suits me" (AWED-001-019), his fate is bound to the eighty-day voyage.
 
 ## Role in the Story
 

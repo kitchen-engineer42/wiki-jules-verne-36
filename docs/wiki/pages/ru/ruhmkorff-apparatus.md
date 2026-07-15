@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The Ruhmkorff apparatus is the portable electric lamp the explorers carry on their descent in *A Journey to the Centre of the Earth*. Among the party's equipment are "two of Ruhmkorff's apparatus, which, by means of an electric current, supplied a safe and handy portable light" (JCE-011-029).
+The Ruhmkorff apparatus is the portable electric lamp the explorers carry on their descent in *[[journey-to-the-center-of-the-earth|A Journey to the Centre of the Earth]]*. Among the party's equipment are "two of Ruhmkorff's apparatus, which, by means of an electric current, supplied a safe and handy portable light" (JCE-011-029).
 
 Named for the real induction-coil maker Heinrich Ruhmkorff, the device lets [[Professor Lidenbrock]] and his companions illuminate passages where an open flame would be deadly.
 

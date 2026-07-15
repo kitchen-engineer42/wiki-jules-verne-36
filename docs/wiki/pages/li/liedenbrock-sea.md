@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Liedenbrock Sea is the immense underground ocean that the explorers reach deep beneath the Earth's crust in *Journey to the Center of the Earth*. Professor Lidenbrock claims the discovery for himself, declaring that it should bear his name: he "insisted on giving it his own name" — the Liedenbrock Sea (JCE-030-004). It is a genuine body of water complete with waves, tides, and a distant coastline, and it forms the central geographic feature of the expedition's descent.
+The Liedenbrock Sea is the immense underground ocean that the explorers reach deep beneath the Earth's crust in *[[journey-to-the-center-of-the-earth|Journey to the Center of the Earth]]*. [[professor-lidenbrock|Professor Lidenbrock]] claims the discovery for himself, declaring that it should bear his name: he "insisted on giving it his own name" — the Liedenbrock Sea (JCE-030-004). It is a genuine body of water complete with waves, tides, and a distant coastline, and it forms the central geographic feature of the expedition's descent.
 
 The travelers first behold it as a boundless expanse. The waves of the Liedenbrock Sea break upon its shore (JCE-031-056), and the party roams "on the shores of this subterranean sea" (JCE-030-040) before venturing across it on a raft.
 
@@ -30,4 +30,4 @@ It is also a bounded body, not an endless flood. The reasoning holds that this "
 
 ## Connections
 
-The Liedenbrock Sea lies at the deep end of the route that begins at [[Snæfellsjökull]], the Icelandic volcano through whose crater the expedition descends. It is named for and explored by [[Professor Lidenbrock]], whose insistence on the name (JCE-030-004) fixes it on the map of the underworld in *[[Journey to the Center of the Earth]]*.
+The Liedenbrock Sea lies at the deep end of the route that begins at [[Snæfellsjökull]], the [[iceland|Iceland]]ic volcano through whose crater the expedition descends. It is named for and explored by [[Professor Lidenbrock]], whose insistence on the name (JCE-030-004) fixes it on the map of the underworld in *[[Journey to the Center of the Earth]]*.

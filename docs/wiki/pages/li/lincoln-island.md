@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-Lincoln Island is the fictional volcanic island in the South Pacific on which five escapees from the American Civil War, carried off by a balloon, are cast away in *The Mysterious Island*. It becomes the stage for the whole novel, its every bay and mountain named by the settlers who make it their home. They christen it after the assassinated president:
+Lincoln Island is the fictional volcanic island in the South Pacific on which five escapees from the American Civil War, carried off by a balloon, are cast away in *[[the-mysterious-island|The Mysterious Island]]*. It becomes the stage for the whole novel, its every bay and mountain named by the settlers who make it their home. They christen it after the assassinated president:
 
 > Let us call it Lincoln Island! (MI-011-083)
 
@@ -22,7 +22,7 @@ The colonists' first great task is to learn where they are. By observation the e
 
 ## Geography & Features
 
-The island's dominant landmark is the volcano the settlers name Mount Franklin, from whose summit the whole territory can be surveyed. (MI-011-061) Around it they name the coastline — Union Bay, Washington Bay — mapping the island as they explore it. (MI-011-062) The mountain also structures daily movement: the settlers descend Mount Franklin to reach their first shelter, the Chimneys, on the shore below. (MI-011-078)
+The island's dominant landmark is the volcano the settlers name [[mount-franklin|Mount Franklin]], from whose summit the whole territory can be surveyed. (MI-011-061) Around it they name the coastline — Union Bay, Washington Bay — mapping the island as they explore it. (MI-011-062) The mountain also structures daily movement: the settlers descend [[mount-franklin|Mount Franklin]] to reach their first shelter, the Chimneys, on the shore below. (MI-011-078)
 
 ## Connections
 

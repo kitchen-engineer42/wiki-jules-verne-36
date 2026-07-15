@@ -12,9 +12,9 @@ quality: featured
 ---
 ## Overview
 
-The Moon is the celestial destination that drives the two-volume lunar saga: the Gun Club fires a manned projectile at it in *From the Earth to the Moon* and observes it at close range in *Round the Moon*. The whole scheme turns on the geometry of the shot — the projectile must be "hurled so as to reach the moon at a particular point" (FEM-004-011), timed to the satellite's orbit.
+The Moon is the celestial destination that drives the two-volume lunar saga: the [[gun-club|Gun Club]] fires a manned projectile at it in *[[from-the-earth-to-the-moon|From the Earth to the Moon]]* and observes it at close range in *[[round-the-moon|Round the Moon]]*. The whole scheme turns on the geometry of the shot — the projectile must be "hurled so as to reach the moon at a particular point" (FEM-004-011), timed to the satellite's orbit.
 
-Once the travelers reach its vicinity, the Moon ceases to be an abstract target and becomes a landscape studied in detail. *Round the Moon* devotes long passages to its surface, treating the lunar disc as a world with its own geography.
+Once the travelers reach its vicinity, the Moon ceases to be an abstract target and becomes a landscape studied in detail. *[[round-the-moon|Round the Moon]]* devotes long passages to its surface, treating the lunar disc as a world with its own geography.
 
 ## In the Narrative
 

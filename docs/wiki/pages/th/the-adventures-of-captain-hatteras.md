@@ -12,7 +12,7 @@ quality: standard
 ---
 ## Overview
 
-*The Adventures of Captain Hatteras* is Jules Verne's Arctic epic, chronicling a British expedition driven by one man's monomaniacal quest for the [[The North Pole|North Pole]]. It opens with the mysterious sailing of a brig — "the brig *Forward*, Captain K. Z——, Richard Shandon mate, will start from New Prince's Docks for an unknown destination" (ACH-001-002).
+*The Adventures of Captain Hatteras* is Jules Verne's Arctic epic, chronicling a British expedition driven by one man's monomaniacal quest for the [[The North Pole|North Pole]]. It opens with the mysterious sailing of a brig — "the brig *[[the-forward|Forward]]*, Captain K. Z——, Richard Shandon mate, will start from New Prince's Docks for an unknown destination" (ACH-001-002).
 
 The unnamed captain proves to be [[Captain Hatteras]], whose sole obsession is the Pole.
 

@@ -14,7 +14,7 @@ quality: featured
 
 *The Mysterious Island* is Jules Verne's great robinsonade, in which five prisoners of the American Civil War escape by balloon and are marooned on an uncharted Pacific island they name [[Lincoln Island]]. Led by the engineer [[Cyrus Harding]], the castaways rebuild civilization from raw nature, aided at intervals by an unseen benefactor who is finally revealed as [[Captain Nemo]].
 
-The novel serves as a sequel that ties together the worlds of *[[Twenty Thousand Leagues Under the Sea]]* and *In Search of the Castaways*.
+The novel serves as a sequel that ties together the worlds of *[[Twenty Thousand Leagues Under the Sea]]* and *[[in-search-of-the-castaways|In Search of the Castaways]]*.
 
 ## Plot Summary
 

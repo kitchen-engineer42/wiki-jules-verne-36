@@ -32,7 +32,7 @@ Over five weeks the three drift westward across Africa, surviving storms, hostil
 
 ## Key Places & Technology
 
-- The *Victoria* — Ferguson's balloon, able to rise and fall without spending gas or ballast
+- The *Victoria* — [[victoria-balloon|Ferguson's balloon]], able to rise and fall without spending gas or ballast
 - Zanzibar — the island starting-point of the trans-African voyage
 
 ## Themes

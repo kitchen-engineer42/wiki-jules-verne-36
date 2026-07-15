@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-The Great Eyrie is the mysterious mountain that opens *Master of the World*, a crag in the Blue Ridge whose summit hides an unseen secret. The narrative introduces "the crest called the Great Eyrie" with its "huge rounded form" dominating the surrounding country (MW-001-004), a landmark whose very name and nature puzzle the people below.
+The Great Eyrie is the mysterious mountain that opens *[[the-master-of-the-world|Master of the World]]*, a crag in the Blue Ridge whose summit hides an unseen secret. The narrative introduces "the crest called the Great Eyrie" with its "huge rounded form" dominating the surrounding country (MW-001-004), a landmark whose very name and nature puzzle the people below.
 
 From the start the mountain is framed as an enigma. The narrator asks why the name Great Eyrie "was originally given this mountain by the people of the surrounding region" (MW-001-005), and the question of what the peak conceals propels the whole investigation.
 

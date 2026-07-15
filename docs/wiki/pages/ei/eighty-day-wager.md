@@ -16,17 +16,17 @@ quality: featured
 
 ## Overview
 
-The Eighty-Day Wager is the bet that sets *Around the World in Eighty Days* in motion. During an evening of whist at the Reform Club, a dispute over whether the globe can be circled in a fixed time prompts Phileas Fogg to stake his fortune on the claim, "In eighty days" (AWED-003-027).
+The Eighty-Day Wager is the bet that sets *[[around-the-world-in-eighty-days|Around the World in Eighty Days]]* in motion. During an evening of whist at the [[reform-club|Reform Club]], a dispute over whether the globe can be circled in a fixed time prompts [[phileas-fogg|Phileas Fogg]] to stake his fortune on the claim, "In eighty days" (AWED-003-027).
 
 ## What Happens
 
 The argument arises from a newspaper report that the world can now be circled in eighty days. When his fellow members scoff, Fogg insists — "Yes, in eighty days!" (AWED-003-030) — and offers to prove it with his own person, declaring that he "will jump — mathematically" (AWED-003-057).
 
-The terms are set on the spot: he must return to the Reform Club by Saturday, the 21st of December (AWED-003-063), staking twenty thousand pounds against his companions, and he departs that very night.
+The terms are set on the spot: he must return to the [[reform-club|Reform Club]] by Saturday, the 21st of December (AWED-003-063), staking twenty thousand pounds against his companions, and he departs that very night.
 
 ## Significance
 
-The wager turns Fogg, whose days pass at hours mathematically fixed (AWED-001-010), into a traveller racing the clock, and every subsequent episode — the crossing of India, the rescue of Aouda, the pursuit by Detective Fix — flows from this single bet. Its precise deadline — Saturday, the 21st of December (AWED-003-063) — governs the entire narrative, turning geography into a contest against time.
+The wager turns Fogg, whose days pass at hours mathematically fixed (AWED-001-010), into a traveller racing the clock, and every subsequent episode — the crossing of India, the rescue of [[aouda|Aouda]], the pursuit by [[fix|Detective Fix]] — flows from this single bet. Its precise deadline — Saturday, the 21st of December (AWED-003-063) — governs the entire narrative, turning geography into a contest against time.
 
 ## Participants & Setting
 

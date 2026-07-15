@@ -14,13 +14,13 @@ quality: featured
 
 ## Overview
 
-The Columbiad is the colossal cannon devised by the Baltimore [[Gun Club]] to hurl a projectile from the Earth to the Moon. The name was borrowed from an existing class of American heavy ordnance.
+The Columbiad is the colossal cannon devised by the [[baltimore|Baltimore]] [[Gun Club]] to hurl a projectile from the Earth to the Moon. The name was borrowed from an existing class of American heavy ordnance.
 
 The club's president notes that the longest cannon of the day, "our enormous Columbiads, have not been more than twenty-five feet long" (FEM-008-012). To reach the required velocity the members resolve instead "to quadruple that length, and to construct a cannon 900 feet long" (FEM-008-027) — a weapon so large it need never be moved after casting (FEM-008-010).
 
 ## Design & Operation
 
-Barbicane fixes the bore at nine feet in diameter and the barrel at 900 feet, sinking the gun vertically into the earth so the ground itself bears the recoil. The interior mould is "a cylinder 900 feet high and nine in diameter, to exactly fill up the space reserved for the bore of the Columbiad," leaving walls "six feet thick" of solid metal (FEM-015-008).
+[[barbicane|Barbicane]] fixes the bore at nine feet in diameter and the barrel at 900 feet, sinking the gun vertically into the earth so the ground itself bears the recoil. The interior mould is "a cylinder 900 feet high and nine in diameter, to exactly fill up the space reserved for the bore of the Columbiad," leaving walls "six feet thick" of solid metal (FEM-015-008).
 
 Ordinary practice made a barrel "twenty or twenty-five times the diameter of the projectile" and "235 to 240 times its weight" (FEM-008-023), figures the Columbiad vastly exceeds. Feeding the gun demands cast-iron on an industrial scale: "there were 136 millions of pounds of cast-iron" to be delivered to the casting site (FEM-015-006).
 

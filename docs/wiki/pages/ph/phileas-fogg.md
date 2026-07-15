@@ -17,11 +17,11 @@ quality: featured
 
 ## Overview
 
-Phileas Fogg is the enigmatic English gentleman at the heart of *Around the World in Eighty Days*. In 1872 he lived quietly at his house in Savile Row (AWED-001-002) and was a member of the Reform Club (AWED-001-004). His life was ruled by routine so exact that everything was done at hours mathematically fixed (AWED-001-010).
+Phileas Fogg is the enigmatic English gentleman at the heart of *[[around-the-world-in-eighty-days|Around the World in Eighty Days]]*. In 1872 he lived quietly at his house in Savile Row (AWED-001-002) and was a member of the [[reform-club|Reform Club]] (AWED-001-004). His life was ruled by routine so exact that everything was done at hours mathematically fixed (AWED-001-010).
 
 ## Role in the Story
 
-When his fellow club members dispute whether the globe can be circled in eighty days, Fogg asserts flatly, "In eighty days" (AWED-003-027), and stakes his fortune on the claim, promising, "I will jump — mathematically" (AWED-003-057). The wager binds him to return to the Reform Club by a precise deadline — Saturday, the 21st of December (AWED-003-063) — and the entire journey becomes a race against that fixed hour.
+When his fellow club members dispute whether the globe can be circled in eighty days, Fogg asserts flatly, "In eighty days" (AWED-003-027), and stakes his fortune on the claim, promising, "I will jump — mathematically" (AWED-003-057). The wager binds him to return to the [[reform-club|Reform Club]] by a precise deadline — Saturday, the 21st of December (AWED-003-063) — and the entire journey becomes a race against that fixed hour.
 
 ## Character & Traits
 

@@ -5,22 +5,28 @@
   "phase2_iteration": 1,
   "phase2_closed": false,
   "showcase_done": true,
-  "current_type": "work",
+  "current_type": "organization",
   "type_queue": [
-    "organization",
     "technology",
     "place",
     "event",
     "character"
   ],
-  "closed_types": [],
+  "closed_types": [
+    {
+      "type": "work",
+      "closed_at_round": 9,
+      "final_count": 33,
+      "evv6_score": null
+    }
+  ],
   "counters": {
-    "current_round": 9,
-    "type_round": 7,
-    "rounds_since_last_evv5": 7,
-    "rounds_since_last_discover": 7,
+    "current_round": 10,
+    "type_round": 0,
+    "rounds_since_last_evv5": 0,
+    "rounds_since_last_discover": 8,
     "discover_streak_low": 0,
-    "rounds_since_last_corpus_discover": 7,
+    "rounds_since_last_corpus_discover": 8,
     "corpus_discover_streak_low": 0
   },
   "thresholds": {
@@ -37,5 +43,5 @@
     "corpus_exhausted": false
   },
   "pending_new_types": [],
-  "last_updated_round": 9
+  "last_updated_round": 10
 }

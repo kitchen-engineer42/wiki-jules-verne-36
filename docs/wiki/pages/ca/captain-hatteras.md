@@ -15,7 +15,7 @@ quality: featured
 
 ## Overview
 
-Captain Hatteras is the monomaniacal explorer of *The Adventures of Captain Hatteras*, a man consumed by a single ambition. He conceals his identity until, aboard the mutinous *Forward*, he reveals himself with the declaration, "I am Captain Hatteras!" (ACH-012-041). From that moment the expedition belongs wholly to him and to the goal that governs his life: to attain the Pole was the aim of his life (ACH-012-056).
+Captain Hatteras is the monomaniacal explorer of *[[the-adventures-of-captain-hatteras|The Adventures of Captain Hatteras]]*, a man consumed by a single ambition. He conceals his identity until, aboard the mutinous *[[the-forward|Forward]]*, he reveals himself with the declaration, "I am Captain Hatteras!" (ACH-012-041). From that moment the expedition belongs wholly to him and to the goal that governs his life: to attain the Pole was the aim of his life (ACH-012-056).
 
 ## Role in the Story
 

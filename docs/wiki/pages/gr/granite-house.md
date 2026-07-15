@@ -12,9 +12,9 @@ quality: featured
 ---
 ## Overview
 
-Granite House is the great cliff-cavern that the castaways convert into their permanent home in *The Mysterious Island*. When the settlers christen their new dwelling, Cyrus Harding gives it the name outright: "'Granite House,' replied Harding" (MI-018-071), fixing the identity of the hollow they have discovered high in the coastal escarpment.
+Granite House is the great cliff-cavern that the castaways convert into their permanent home in *[[the-mysterious-island|The Mysterious Island]]*. When the settlers christen their new dwelling, [[cyrus-harding|Cyrus Harding]] gives it the name outright: "'Granite House,' replied Harding" (MI-018-071), fixing the identity of the hollow they have discovered high in the coastal escarpment.
 
-Unlike the settlers' first rough shelter, Granite House is a natural fortress won from the living rock, and it becomes the secure center of all their subsequent industry on Lincoln Island.
+Unlike the settlers' first rough shelter, Granite House is a natural fortress won from the living rock, and it becomes the secure center of all their subsequent industry on [[lincoln-island|Lincoln Island]].
 
 ## In the Narrative
 

@@ -15,7 +15,7 @@ quality: featured
 
 ## Overview
 
-Axel is the narrator of *Journey to the Center of the Earth* and the nephew of Professor Lidenbrock. The story opens through his eyes on the 24th of May, 1863, when his uncle rushed into the house in great agitation (JCE-001-002), and it is Axel's voice — anxious, reluctant, scientifically cautious — that carries the reader down into the earth.
+Axel is the narrator of *[[journey-to-the-center-of-the-earth|Journey to the Center of the Earth]]* and the nephew of [[professor-lidenbrock|Professor Lidenbrock]]. The story opens through his eyes on the 24th of May, 1863, when his uncle rushed into the house in great agitation (JCE-001-002), and it is Axel's voice — anxious, reluctant, scientifically cautious — that carries the reader down into the earth.
 
 ## Role in the Story
 

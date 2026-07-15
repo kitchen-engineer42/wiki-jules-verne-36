@@ -17,15 +17,15 @@ quality: featured
 
 ## Overview
 
-Aouda is the young Parsee woman whom Phileas Fogg rescues from death during his passage through India, and who becomes his companion for the remainder of the voyage. The narrative gives her history plainly — her name was Aouda, and, left an orphan, she was married against her will (AWED-013-011) — establishing her as both victim and, ultimately, Fogg's equal in feeling.
+Aouda is the young Parsee woman whom [[phileas-fogg|Phileas Fogg]] rescues from death during his passage through India, and who becomes his companion for the remainder of the voyage. The narrative gives her history plainly — her name was Aouda, and, left an orphan, she was married against her will (AWED-013-011) — establishing her as both victim and, ultimately, Fogg's equal in feeling.
 
 ## Role in the Story
 
-Condemned to be sacrificed on her husband's funeral pyre, Aouda is saved by Fogg and Passepartout in a daring rescue, after which the terrors of the Pillaji forest gradually yield to safety in her mind (AWED-014-008). She travels the rest of the journey with the party, and her presence introduces into Fogg's clockwork existence the one variable he had never calculated — human attachment.
+Condemned to be sacrificed on her husband's funeral pyre, Aouda is saved by Fogg and [[passepartout|Passepartout]] in a daring rescue, after which the terrors of the Pillaji forest gradually yield to safety in her mind (AWED-014-008). She travels the rest of the journey with the party, and her presence introduces into Fogg's clockwork existence the one variable he had never calculated — human attachment.
 
 ## Character & Traits
 
-Aouda is dignified, gentle, and quietly courageous. Even her rescuers remark that she is a charming woman (AWED-014-011), yet her appeal lies less in beauty than in composure under suffering. Married against her will and orphaned young (AWED-013-011), she meets misfortune without bitterness, and it is her steady warmth that slowly draws genuine emotion from the reserved Phileas Fogg.
+Aouda is dignified, gentle, and quietly courageous. Even her rescuers remark that she is a charming woman (AWED-014-011), yet her appeal lies less in beauty than in composure under suffering. Married against her will and orphaned young (AWED-013-011), she meets misfortune without bitterness, and it is her steady warmth that slowly draws genuine emotion from the reserved [[phileas-fogg|Phileas Fogg]].
 
 ## Relationships
 

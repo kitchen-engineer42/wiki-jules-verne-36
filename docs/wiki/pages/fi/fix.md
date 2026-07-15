@@ -17,7 +17,7 @@ quality: featured
 
 ## Overview
 
-Fix is the police detective who mistakes Phileas Fogg for the robber of the Bank of England and shadows him across the world. Carrying the card "Fix, Detective" (AWED-005-014), he is one of the detectives dispatched to intercept the suspected thief (AWED-006-004), and his single-minded pursuit supplies the novel's chief obstacle.
+Fix is the police detective who mistakes [[phileas-fogg|Phileas Fogg]] for the robber of the Bank of England and shadows him across the world. Carrying the card "Fix, Detective" (AWED-005-014), he is one of the detectives dispatched to intercept the suspected thief (AWED-006-004), and his single-minded pursuit supplies the novel's chief obstacle.
 
 ## Role in the Story
 

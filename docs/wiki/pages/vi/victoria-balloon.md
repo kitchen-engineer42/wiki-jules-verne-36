@@ -14,7 +14,7 @@ quality: featured
 
 ## Overview
 
-The Victoria is the hydrogen balloon in which Dr. Samuel Ferguson crosses Africa in *Five Weeks in a Balloon*. Verne calls it "that marvellous vehicle which was to convey him through the air," the "constant object of his solicitude" (FWB-007-002).
+The Victoria is the hydrogen balloon in which Dr. Samuel Ferguson crosses Africa in *[[five-weeks-in-a-balloon|Five Weeks in a Balloon]]*. Verne calls it "that marvellous vehicle which was to convey him through the air," the "constant object of his solicitude" (FWB-007-002).
 
 Its crew name her affectionately. When disaster threatens, Joe vows they will save "the Victoria" even if they must "throw overboard our clothes" (FWB-041-025).
 
@@ -36,4 +36,4 @@ By the journey's end Joe mourns her like a comrade: "I had got fond of her as th
 
 The Victoria's real innovation is Ferguson's heat-management scheme, which spares the usual waste of gas and ballast: he takes "only two hundred pounds of ballast for 'unforeseen emergencies'... since otherwise he did not expect to use any, thanks to the peculiarity of his apparatus" (FWB-007-027).
 
-Verne grounds the craft in real aerostatics — accurate lift calculations, hydrogen's known buoyancy, gutta-percha-coated silk — extrapolating only the controllable-dilatation apparatus. Unlike the [[Albatross]]'s heavier-than-air screws, the Victoria embodies the lighter-than-air school that Robur would scorn.
+Verne grounds the craft in real aerostatics — accurate lift calculations, hydrogen's known buoyancy, gutta-percha-coated silk — extrapolating only the controllable-dilatation apparatus. Unlike the [[Albatross]]'s heavier-than-air screws, the Victoria embodies the lighter-than-air school that [[robur|Robur]] would scorn.

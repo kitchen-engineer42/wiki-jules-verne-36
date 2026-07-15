@@ -17,11 +17,11 @@ quality: featured
 
 ## Overview
 
-Conseil is the manservant of Professor Aronnax and one of the three captives who share his life aboard the *Nautilus*. Described as a devoted manservant (TTLU-003-007), he has for the past ten years gone with Aronnax wherever science led (TTLU-003-009), and his imperturbable loyalty makes him the calm centre of the undersea adventure.
+Conseil is the manservant of Professor Aronnax and one of the three captives who share his life aboard the *[[nautilus|Nautilus]]*. Described as a devoted manservant (TTLU-003-007), he has for the past ten years gone with Aronnax wherever science led (TTLU-003-009), and his imperturbable loyalty makes him the calm centre of the undersea adventure.
 
 ## Role in the Story
 
-When Aronnax is thrown into the sea in pursuit of the supposed monster, Conseil follows without hesitation, and the two are taken aboard Nemo's submarine together with Ned Land.
+When Aronnax is thrown into the sea in pursuit of the supposed monster, Conseil follows without hesitation, and the two are taken aboard [[captain-nemo|Nemo]]'s submarine together with [[ned-land|Ned Land]].
 
 His loyalty is most vivid in the water, where he made one final effort, and bracing his hands on Aronnax's shoulders, kept his exhausted master afloat (TTLU-007-046). Throughout their captivity Conseil serves as steady assistant and confidant, cataloguing the marvels of the deep even in moments of peril.
 
@@ -29,7 +29,7 @@ His loyalty is most vivid in the water, where he made one final effort, and brac
 
 Conseil's defining trait is a passion for orderly classification. He had one flaw — he was a fanatic for classification (TTLU-003-011), forever sorting the living world into phylum, class, and species, yet never able to name a creature on sight.
 
-This gentle mania, joined to his ten years of devoted service (TTLU-003-009), makes him at once comic and deeply reliable, the perfect foil to Ned Land's restless appetite.
+This gentle mania, joined to his ten years of devoted service (TTLU-003-009), makes him at once comic and deeply reliable, the perfect foil to [[ned-land|Ned Land]]'s restless appetite.
 
 ## Relationships
 

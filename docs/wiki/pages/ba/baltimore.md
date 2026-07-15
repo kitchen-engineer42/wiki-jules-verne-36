@@ -12,13 +12,13 @@ quality: featured
 ---
 ## Overview
 
-Baltimore, Maryland, is the American city that serves as the home of the Gun Club in *From the Earth to the Moon*. The novel opens by locating the club precisely: "During the Federal war in the United States a new and very influential club was established in the city of Baltimore, Maryland" (FEM-001-002). From this base the artillerymen conceive and organize their scheme to fire a projectile at the Moon.
+Baltimore, Maryland, is the American city that serves as the home of the [[gun-club|Gun Club]] in *[[from-the-earth-to-the-moon|From the Earth to the Moon]]*. The novel opens by locating the club precisely: "During the Federal war in the United States a new and very influential club was established in the city of Baltimore, Maryland" (FEM-001-002). From this base the artillerymen conceive and organize their scheme to fire a projectile at the Moon.
 
 The city is the administrative and social center of the story's opening. The members of the club reside there (FEM-002-002), and the club's public proclamations carry the Baltimore dateline: "Baltimore, October 3rd" (FEM-001-051).
 
 ## In the Narrative
 
-Baltimore is where the lunar enterprise is born and debated. When Barbicane announces his project, the whole city is swept into excitement: on that memorable evening "Baltimore alone was agitated" (FEM-003-009), the meeting halls overflowing with citizens eager to hear the plan.
+Baltimore is where the lunar enterprise is born and debated. When [[barbicane|Barbicane]] announces his project, the whole city is swept into excitement: on that memorable evening "Baltimore alone was agitated" (FEM-003-009), the meeting halls overflowing with citizens eager to hear the plan.
 
 The city's role is that of a staging ground for public enthusiasm before the action moves south to the launch site in Florida. Its position as a transport hub matters: the railways of the region "converge at Baltimore" (FEM-003-008), funneling a heterogeneous crowd into the city for the club's great assembly.
 

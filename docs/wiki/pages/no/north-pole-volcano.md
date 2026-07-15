@@ -16,7 +16,7 @@ quality: featured
 
 ## Overview
 
-The Volcano at the Pole is the climax of *The Adventures of Captain Hatteras*, in which the goal of the whole expedition proves to be no barren point of ice but a mountain of fire. As the party closes the final degrees — by the Doctor's calculations now only nine degrees distant from the Pole (ACH-052-058) — Hatteras is drawn onward like the magnetic needle itself.
+The Volcano at the Pole is the climax of *[[the-adventures-of-captain-hatteras|The Adventures of Captain Hatteras]]*, in which the goal of the whole expedition proves to be no barren point of ice but a mountain of fire. As the party closes the final degrees — by the Doctor's calculations now only nine degrees distant from the Pole (ACH-052-058) — Hatteras is drawn onward like the magnetic needle itself.
 
 ## What Happens
 

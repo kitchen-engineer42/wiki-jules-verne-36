@@ -12,7 +12,7 @@ quality: featured
 ---
 ## Overview
 
-Nitroglycerine is the liquid explosive that the engineer [[Cyrus Harding]] manufactures from first principles on Lincoln Island in *The Mysterious Island*. Lacking gunpowder, Harding turns to chemistry to obtain a blasting agent capable of splitting the granite of Granite House, choosing nitroglycerine over the [[Gun-Cotton]] he could also have prepared. (MI-017-055)(MI-017-058)
+Nitroglycerine is the liquid explosive that the engineer [[Cyrus Harding]] manufactures from first principles on [[lincoln-island|Lincoln Island]] in *[[the-mysterious-island|The Mysterious Island]]*. Lacking gunpowder, Harding turns to chemistry to obtain a blasting agent capable of splitting the granite of [[granite-house|Granite House]], choosing nitroglycerine over the [[Gun-Cotton]] he could also have prepared. (MI-017-055)(MI-017-058)
 
 ## Design & Operation
 
