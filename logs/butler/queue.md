@@ -8,7 +8,8 @@
 <!-- R24 NEW1 已建：fulgurator（rev Hx8lvo，FF/weapon）/ the-sword（rev 5Zb9lc，FF/vehicle）/ oxyhydric-gas（rev LZIpnV，DOSE/concept）。technology P1 清空。 -->
 <!-- R25 SCN28 全集复扫确认穷尽：new_candidates=0，streak 0→1。Standard Island/Steam House/Begum 巨炮均不在 36 部合集。 -->
 <!-- GROW-JUDGMENT-R25 borderline：FF「the tug」（海盗潜水拖船，distinctPN=8，电力螺旋桨+periscope）为真机器但无专名，依「须命名实体」惯例弃；若 place/event 轮出现其母船 schooner Ebba 关联可复议。 -->
-<!-- 普通船只（Duncan/Pilgrim/Chancellor/Abraham Lincoln/Mongolia/Rangoon/Carnatic/Henrietta/Tankadere/Susquehanna/Scotia/Halbrane/General Grant 等）判为叙事载具/场景，非发明，不建 technology（同 Pilot 惯例：仅特制/中心机器入 technology）；borderline 者留待 place/2.1-Z 裁定。 -->
+<!-- 普通船只（Duncan/Pilgrim/Chancellor/Abraham Lincoln/Mongolia/Rangoon/Carnatic/Henrietta/Tankadere/Susquehanna/Scotia/Halbrane/General Grant/Ebba 等）判为叙事载具/场景，非发明，不建 technology（同 Pilot 惯例：仅特制/中心机器入 technology）；borderline 者留待 place/2.1-Z 裁定。 -->
+<!-- R26 SCN28 换角度复扫 +0（streak 1→2）：aeronef=Albatross 别名、Ruhmkorff=既有页；Ebba（FF 海盗母船）入普通船只清单。 -->
 
 <!-- ═══ organization 归档（R21 CLOSE 关闭，final_count=15，保留建页轨迹）═══ -->
 <!-- organization 候选（R9 SCN28 corpus discover，distinctPN≥3，未建，排除 gun-club/weldon-institute）-->
