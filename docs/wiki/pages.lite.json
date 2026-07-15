@@ -1094,6 +1094,12 @@
       ],
       "path": "ca/captain-nemo.md"
     },
+    "christmas-harbour": {
+      "type": "place",
+      "label": "Christmas Harbour",
+      "aliases": [],
+      "path": "ch/christmas-harbour.md"
+    },
     "columbiad-launch": {
       "type": "event",
       "label": "The Columbiad Launch",
@@ -3210,6 +3216,12 @@
       "aliases": [],
       "path": "la/lake-grant.md"
     },
+    "lake-kirdall": {
+      "type": "place",
+      "label": "Lake Kirdall",
+      "aliases": [],
+      "path": "la/lake-kirdall.md"
+    },
     "lake-tchad": {
       "type": "place",
       "label": "Lake Tchad",
@@ -3247,6 +3259,12 @@
       "label": "Lincoln Island",
       "aliases": [],
       "path": "li/lincoln-island.md"
+    },
+    "loch-katrine": {
+      "type": "place",
+      "label": "Loch Katrine",
+      "aliases": [],
+      "path": "lo/loch-katrine.md"
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -4462,6 +4480,12 @@
       "label": "Port Balloon",
       "aliases": [],
       "path": "po/port-balloon.md"
+    },
+    "port-barnett": {
+      "type": "place",
+      "label": "Port Barnett",
+      "aliases": [],
+      "path": "po/port-barnett.md"
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -7083,6 +7107,8 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "christmas-harbour": "christmas-harbour",
+    "Christmas Harbour": "christmas-harbour",
     "columbiad-launch": "columbiad-launch",
     "The Columbiad Launch": "columbiad-launch",
     "Launch of the Projectile": "columbiad-launch",
@@ -7508,6 +7534,8 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "lake-grant": "lake-grant",
     "Lake Grant": "lake-grant",
+    "lake-kirdall": "lake-kirdall",
+    "Lake Kirdall": "lake-kirdall",
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
@@ -7522,6 +7550,8 @@
     "Balloon Castaways' Landing": "lincoln-island-landing",
     "lincoln-island": "lincoln-island",
     "Lincoln Island": "lincoln-island",
+    "loch-katrine": "loch-katrine",
+    "Loch Katrine": "loch-katrine",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -7765,6 +7795,8 @@
     "PL-ch09": "PL-ch09",
     "port-balloon": "port-balloon",
     "Port Balloon": "port-balloon",
+    "port-barnett": "port-barnett",
+    "Port Barnett": "port-barnett",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -8254,6 +8286,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1106,
-  "generated": "2026-07-15T10:55:43Z"
+  "page_count": 1110,
+  "generated": "2026-07-15T11:03:06Z"
 }

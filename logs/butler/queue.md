@@ -38,13 +38,23 @@
 <!-- ✔ [place] Twofold Bay — 已建 twofold-bay（rev 7AghAy，SC 澳洲 real，实测 36）R34 -->
 <!-- ✔ [place] Snowy River — 已建 snowy-river（rev 55qbz5，SC 澳洲 real，实测 20）R34 -->
 <!-- ✔ [place] Lake Tchad — 已建 lake-tchad（rev FuoXFI，FWB 非洲 real，实测 32）R34 -->
-<!-- R35 待建（深扫末批 4）：Lake Kirdall(MW) / Loch Katrine(SC/UC) / Christmas Harbour(AM) / Port Barnett(FC)。 -->
+<!-- R35 NEW1 已建 4 页（深扫末批，P1 place 清空）：lake-kirdall/loch-katrine/christmas-harbour/port-barnett。 -->
+<!-- ✔ [place] Lake Kirdall — 已建 lake-kirdall（rev PFOGz1，MW，fictional，实测 distinctPN=10）R35 -->
+<!-- ✔ [place] Loch Katrine — 已建 loch-katrine（rev vNteHt，UC，real，实测 14；New Aberfoyle 之上真湖，溃陷排空）R35 -->
+<!-- ✔ [place] Christmas Harbour — 已建 christmas-harbour（rev 6jWfE4，AM，real，实测 13；凯尔盖朗 Halbrane 泊地）R35 -->
+<!-- ✔ [place] Port Barnett — 已建 port-barnett（rev aPNNFm，FC，fictional，实测 12；Cape Bathurst 港，随岛漂散）R35 -->
+<!-- R36 起 place 队列见底 → zombie-guard/SCN28 触发；连续低产 streak≥3 → CLOSE place 转 event。 -->
 <!-- 其它真实/虚构地理（各源作）-->
 <!-- ✔ Twofold Bay / Lake Tchad / Snowy River 已建 R34（见上簇注）-->
-- [place] Lake Kirdall — MW(The Master of the World)；scan distinctPN≈15；Robur 邻近湖（fictional）
-- [place] Loch Katrine — SC/UC；scan distinctPN≈14；苏格兰卡特琳湖（real）
-- [place] Christmas Harbour — AM(An Antarctic Mystery)；scan distinctPN≈13；凯尔盖朗岛港（real）
-- [place] Port Barnett — FC(The Fur Country)；scan distinctPN≈12；Cape Bathurst 要塞港（接既有 FC 链）
+<!-- ✔ Lake Kirdall / Loch Katrine / Christmas Harbour / Port Barnett 已建 R35（深扫末批，见上）-->
+<!-- （place 深扫候选已全数消费；下批 place 候选待 SCN28-corpus 到期重扫或 CLOSE 后转 event）-->
+<!-- ✔ [place] Loch Katrine — 已建 loch-katrine（rev vNteHt）R35，见上 -->
+<!-- ✔ [place] Christmas Harbour — 已建 christmas-harbour（rev 6jWfE4）R35，见上 -->
+<!-- ✔ [place] Port Barnett — 已建 port-barnett（rev aPNNFm）R35，见上 -->
+<!-- ✔ [place] Lake Kirdall — 已建 lake-kirdall（rev PFOGz1）R35，见上 -->
+<!-- 以下 P2 为跨类型红链候选（character 等），待各自类型轮消费，非 place -->
+<!-- Loch Katrine 源作勘误：queue 原注 SC/UC，实测主源 UC（The Underground City），SC 仅 1 处并列（SC-006-027），故 book=UC -->
+
 
 <!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
 <!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
