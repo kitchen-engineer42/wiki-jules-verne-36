@@ -1181,6 +1181,32 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "adventures-of-a-special-correspondent": {
+      "type": "work",
+      "label": "The Adventures of a Special Correspondent",
+      "aliases": [
+        "Claudius Bombarnac",
+        "The Special Correspondent"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "voyage",
+        "railway",
+        "journalism"
+      ],
+      "path": "ad/adventures-of-a-special-correspondent.md",
+      "description": "A Jules Verne novel following a reporter aboard the Grand Transasiatic railway from the Caspian to Peking, among them a stowaway hidden in a packing case.",
+      "prose_len": 2241,
+      "prose_chars": 2134,
+      "h2_count": 5,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
+    },
     "albatross": {
       "type": "technology",
       "label": "Albatross",
@@ -1746,6 +1772,32 @@
       "book_seq": 283,
       "book": "Ascent of Mont Blanc",
       "total_refs": 1
+    },
+    "an-antarctic-mystery": {
+      "type": "work",
+      "label": "An Antarctic Mystery",
+      "aliases": [
+        "The Sphinx of the Ice Fields",
+        "Le Sphinx des glaces"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "voyage",
+        "antarctic",
+        "exploration"
+      ],
+      "path": "an/an-antarctic-mystery.md",
+      "description": "A Jules Verne novel, sequel to Poe's Arthur Gordon Pym, in which the schooner Halbrane sails into the Antarctic to seek the survivors of a lost ship.",
+      "prose_len": 2245,
+      "prose_chars": 2138,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
     },
     "aouda": {
       "type": "character",
@@ -3525,6 +3577,32 @@
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
       "total_refs": 1
+    },
+    "dick-sand-a-captain-at-fifteen": {
+      "type": "work",
+      "label": "Dick Sand: A Captain at Fifteen",
+      "aliases": [
+        "A Captain at Fifteen",
+        "Dick Sand"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "sea",
+        "slavery",
+        "voyage"
+      ],
+      "path": "di/dick-sand-a-captain-at-fifteen.md",
+      "description": "A Jules Verne novel in which a fifteen-year-old novice must command a schooner after its crew is lost, only to be steered by treachery onto the African coast.",
+      "prose_len": 2325,
+      "prose_chars": 2218,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "total_refs": 0
     },
     "diving-apparatus": {
       "type": "technology",
@@ -5451,6 +5529,31 @@
       "book_seq": 387,
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 1
+    },
+    "eight-hundred-leagues-on-the-amazon": {
+      "type": "work",
+      "label": "Eight Hundred Leagues on the Amazon",
+      "aliases": [
+        "The Giant Raft",
+        "La Jangada"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "mystery",
+        "voyage"
+      ],
+      "path": "ei/eight-hundred-leagues-on-the-amazon.md",
+      "description": "A Jules Verne novel in which a family floats down the Amazon by giant raft while a coded confession holds the key to the father's innocence.",
+      "prose_len": 2251,
+      "prose_chars": 2144,
+      "h2_count": 5,
+      "pn_count": 1,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
     },
     "eighty-day-wager": {
       "type": "event",
@@ -11347,6 +11450,32 @@
       "book_seq": 191,
       "book": "The Mysterious Island",
       "total_refs": 2
+    },
+    "michael-strogoff": {
+      "type": "work",
+      "label": "Michael Strogoff",
+      "aliases": [
+        "Michael Strogoff: The Courier of the Czar",
+        "Michel Strogoff"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "voyage",
+        "russia",
+        "war"
+      ],
+      "path": "mi/michael-strogoff.md",
+      "description": "A Jules Verne novel in which a courier of the Czar races across Tartar-invaded Siberia to carry a vital letter from Moscow to Irkutsk.",
+      "prose_len": 2281,
+      "prose_chars": 2174,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
     },
     "michel-ardan": {
       "type": "character",
@@ -21254,6 +21383,10 @@
     "ACH-ch56": "ACH-ch56",
     "ACH-ch57": "ACH-ch57",
     "ACH-ch58": "ACH-ch58",
+    "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
+    "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
+    "Claudius Bombarnac": "adventures-of-a-special-correspondent",
+    "The Special Correspondent": "adventures-of-a-special-correspondent",
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
@@ -21284,6 +21417,10 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "an-antarctic-mystery": "an-antarctic-mystery",
+    "An Antarctic Mystery": "an-antarctic-mystery",
+    "The Sphinx of the Ice Fields": "an-antarctic-mystery",
+    "Le Sphinx des glaces": "an-antarctic-mystery",
     "aouda": "aouda",
     "Aouda": "aouda",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
@@ -21391,6 +21528,10 @@
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
+    "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
+    "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
+    "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
+    "Dick Sand": "dick-sand-a-captain-at-fifteen",
     "diving-apparatus": "diving-apparatus",
     "Rouquayrol Diving Apparatus": "diving-apparatus",
     "Rouquayrol-Denayrouze device": "diving-apparatus",
@@ -21489,6 +21630,10 @@
     "EHLA-ch38": "EHLA-ch38",
     "EHLA-ch39": "EHLA-ch39",
     "EHLA-ch40": "EHLA-ch40",
+    "eight-hundred-leagues-on-the-amazon": "eight-hundred-leagues-on-the-amazon",
+    "Eight Hundred Leagues on the Amazon": "eight-hundred-leagues-on-the-amazon",
+    "The Giant Raft": "eight-hundred-leagues-on-the-amazon",
+    "La Jangada": "eight-hundred-leagues-on-the-amazon",
     "eighty-day-wager": "eighty-day-wager",
     "The Eighty-Day Wager": "eighty-day-wager",
     "FC-ch01": "FC-ch01",
@@ -21825,6 +21970,10 @@
     "MI-ch60": "MI-ch60",
     "MI-ch61": "MI-ch61",
     "MI-ch62": "MI-ch62",
+    "michael-strogoff": "michael-strogoff",
+    "Michael Strogoff": "michael-strogoff",
+    "Michael Strogoff: The Courier of the Czar": "michael-strogoff",
+    "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
     "mount-franklin": "mount-franklin",
@@ -22381,6 +22530,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1045,
-  "generated": "2026-07-15T02:40:20Z"
+  "page_count": 1050,
+  "generated": "2026-07-15T02:59:08Z"
 }

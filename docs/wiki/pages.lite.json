@@ -358,6 +358,15 @@
       "aliases": [],
       "path": "ac/ACH-ch58.md"
     },
+    "adventures-of-a-special-correspondent": {
+      "type": "work",
+      "label": "The Adventures of a Special Correspondent",
+      "aliases": [
+        "Claudius Bombarnac",
+        "The Special Correspondent"
+      ],
+      "path": "ad/adventures-of-a-special-correspondent.md"
+    },
     "albatross": {
       "type": "technology",
       "label": "Albatross",
@@ -527,6 +536,15 @@
       "label": "Ascent of Mont Blanc",
       "aliases": [],
       "path": "am/AMB.md"
+    },
+    "an-antarctic-mystery": {
+      "type": "work",
+      "label": "An Antarctic Mystery",
+      "aliases": [
+        "The Sphinx of the Ice Fields",
+        "Le Sphinx des glaces"
+      ],
+      "path": "an/an-antarctic-mystery.md"
     },
     "aouda": {
       "type": "character",
@@ -1063,6 +1081,15 @@
         "The Date-Line Revelation"
       ],
       "path": "da/date-line-revelation.md"
+    },
+    "dick-sand-a-captain-at-fifteen": {
+      "type": "work",
+      "label": "Dick Sand: A Captain at Fifteen",
+      "aliases": [
+        "A Captain at Fifteen",
+        "Dick Sand"
+      ],
+      "path": "di/dick-sand-a-captain-at-fifteen.md"
     },
     "diving-apparatus": {
       "type": "technology",
@@ -1641,6 +1668,15 @@
       "label": "Eight Hundred Leagues on the Amazon — CHAPTER XX. THE LOWER AMAZON",
       "aliases": [],
       "path": "eh/EHLA-ch40.md"
+    },
+    "eight-hundred-leagues-on-the-amazon": {
+      "type": "work",
+      "label": "Eight Hundred Leagues on the Amazon",
+      "aliases": [
+        "The Giant Raft",
+        "La Jangada"
+      ],
+      "path": "ei/eight-hundred-leagues-on-the-amazon.md"
     },
     "eighty-day-wager": {
       "type": "event",
@@ -3420,6 +3456,15 @@
       "label": "The Mysterious Island — CHAPTER 20",
       "aliases": [],
       "path": "mi/MI-ch62.md"
+    },
+    "michael-strogoff": {
+      "type": "work",
+      "label": "Michael Strogoff",
+      "aliases": [
+        "Michael Strogoff: The Courier of the Czar",
+        "Michel Strogoff"
+      ],
+      "path": "mi/michael-strogoff.md"
     },
     "michel-ardan": {
       "type": "character",
@@ -6452,6 +6497,10 @@
     "ACH-ch56": "ACH-ch56",
     "ACH-ch57": "ACH-ch57",
     "ACH-ch58": "ACH-ch58",
+    "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
+    "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
+    "Claudius Bombarnac": "adventures-of-a-special-correspondent",
+    "The Special Correspondent": "adventures-of-a-special-correspondent",
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
@@ -6482,6 +6531,10 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "an-antarctic-mystery": "an-antarctic-mystery",
+    "An Antarctic Mystery": "an-antarctic-mystery",
+    "The Sphinx of the Ice Fields": "an-antarctic-mystery",
+    "Le Sphinx des glaces": "an-antarctic-mystery",
     "aouda": "aouda",
     "Aouda": "aouda",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
@@ -6589,6 +6642,10 @@
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
+    "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
+    "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
+    "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
+    "Dick Sand": "dick-sand-a-captain-at-fifteen",
     "diving-apparatus": "diving-apparatus",
     "Rouquayrol Diving Apparatus": "diving-apparatus",
     "Rouquayrol-Denayrouze device": "diving-apparatus",
@@ -6687,6 +6744,10 @@
     "EHLA-ch38": "EHLA-ch38",
     "EHLA-ch39": "EHLA-ch39",
     "EHLA-ch40": "EHLA-ch40",
+    "eight-hundred-leagues-on-the-amazon": "eight-hundred-leagues-on-the-amazon",
+    "Eight Hundred Leagues on the Amazon": "eight-hundred-leagues-on-the-amazon",
+    "The Giant Raft": "eight-hundred-leagues-on-the-amazon",
+    "La Jangada": "eight-hundred-leagues-on-the-amazon",
     "eighty-day-wager": "eighty-day-wager",
     "The Eighty-Day Wager": "eighty-day-wager",
     "FC-ch01": "FC-ch01",
@@ -7023,6 +7084,10 @@
     "MI-ch60": "MI-ch60",
     "MI-ch61": "MI-ch61",
     "MI-ch62": "MI-ch62",
+    "michael-strogoff": "michael-strogoff",
+    "Michael Strogoff": "michael-strogoff",
+    "Michael Strogoff: The Courier of the Czar": "michael-strogoff",
+    "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
     "mount-franklin": "mount-franklin",
@@ -7579,6 +7644,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1045,
-  "generated": "2026-07-15T02:40:20Z"
+  "page_count": 1050,
+  "generated": "2026-07-15T02:59:08Z"
 }
