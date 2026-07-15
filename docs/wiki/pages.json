@@ -3469,6 +3469,30 @@
       "book": "From the Earth to the Moon",
       "total_refs": 0
     },
+    "canadian-general-transportation-company": {
+      "type": "organization",
+      "label": "Canadian General Transportation Company",
+      "aliases": [
+        "Canadian Transportation Company"
+      ],
+      "tags": [
+        "organization",
+        "shipping",
+        "commerce"
+      ],
+      "path": "ca/canadian-general-transportation-company.md",
+      "description": "The defunct Canadian shipping firm that owned the lost steamer Cynthia, at the heart of Erik's search for his origins.",
+      "prose_len": 1799,
+      "prose_chars": 1740,
+      "h2_count": 3,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -9299,7 +9323,7 @@
       "quality": "featured",
       "quality_score": 91,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "iceland": {
       "type": "place",
@@ -13144,6 +13168,30 @@
       "quality_score": 71,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 5
+    },
+    "north-west-company": {
+      "type": "organization",
+      "label": "North-West Company",
+      "aliases": [
+        "North-west Company"
+      ],
+      "tags": [
+        "organization",
+        "fur-trade",
+        "commerce"
+      ],
+      "path": "no/north-west-company.md",
+      "description": "The Montreal fur-trading company that rivalled the Hudson's Bay Company until it was absorbed in 1821.",
+      "prose_len": 1695,
+      "prose_chars": 1638,
+      "h2_count": 3,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "OC-ch01": {
       "type": "chapter",
@@ -18467,7 +18515,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -18890,7 +18938,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "ticket-no-9672": {
       "type": "work",
@@ -22195,6 +22243,9 @@
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
+    "canadian-general-transportation-company": "canadian-general-transportation-company",
+    "Canadian General Transportation Company": "canadian-general-transportation-company",
+    "Canadian Transportation Company": "canadian-general-transportation-company",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -22781,6 +22832,9 @@
     "north-pole": "north-pole",
     "The North Pole": "north-pole",
     "Queen's Island": "north-pole",
+    "north-west-company": "north-west-company",
+    "North-West Company": "north-west-company",
+    "North-west Company": "north-west-company",
     "OC-ch01": "OC-ch01",
     "OC-ch02": "OC-ch02",
     "OC-ch03": "OC-ch03",
@@ -23312,6 +23366,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1076,
-  "generated": "2026-07-15T08:55:58Z"
+  "page_count": 1078,
+  "generated": "2026-07-15T09:11:17Z"
 }

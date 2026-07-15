@@ -1051,6 +1051,14 @@
       ],
       "path": "ca/cambridge-observatory.md"
     },
+    "canadian-general-transportation-company": {
+      "type": "organization",
+      "label": "Canadian General Transportation Company",
+      "aliases": [
+        "Canadian Transportation Company"
+      ],
+      "path": "ca/canadian-general-transportation-company.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -3983,6 +3991,14 @@
       ],
       "path": "no/north-pole.md"
     },
+    "north-west-company": {
+      "type": "organization",
+      "label": "North-West Company",
+      "aliases": [
+        "North-west Company"
+      ],
+      "path": "no/north-west-company.md"
+    },
     "OC-ch01": {
       "type": "chapter",
       "label": "Off on a Comet — BOOK I",
@@ -6869,6 +6885,9 @@
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
+    "canadian-general-transportation-company": "canadian-general-transportation-company",
+    "Canadian General Transportation Company": "canadian-general-transportation-company",
+    "Canadian Transportation Company": "canadian-general-transportation-company",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -7455,6 +7474,9 @@
     "north-pole": "north-pole",
     "The North Pole": "north-pole",
     "Queen's Island": "north-pole",
+    "north-west-company": "north-west-company",
+    "North-West Company": "north-west-company",
+    "North-west Company": "north-west-company",
     "OC-ch01": "OC-ch01",
     "OC-ch02": "OC-ch02",
     "OC-ch03": "OC-ch03",
@@ -7986,6 +8008,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1076,
-  "generated": "2026-07-15T08:55:58Z"
+  "page_count": 1078,
+  "generated": "2026-07-15T09:11:17Z"
 }
