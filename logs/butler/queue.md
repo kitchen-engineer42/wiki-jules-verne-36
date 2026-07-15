@@ -140,6 +140,30 @@
 <!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
 <!-- borderline 真实地理已有 Pilot 页：iceland/baltimore/tampa-town 均既有，不重建。 -->
 
+<!-- ═══ R48 SCN28 表层复扫补种（queue<10 触发；全 36 部 (Cape|Lake|Mount|Fort|Port|Loch|Gulf)+Name 及 Name+(Island|Bay|River|Sea|Strait|...) 全标记扫描）═══ -->
+<!-- 高产 discover：过滤 86 既有 place + 9 在队候选 + 变体/人名/假匹配后，仍得 ~40 新候选（≫3）——证 place 表层未穷尽。 -->
+<!-- distinctPN 多为跨源聚合估值（agg），建前必按主源逐页段级严扫校准（承 R43–R47 铁律；聚合易虚高，同名易混淆）。 -->
+<!-- 已排除：Ned Land（人名，POST「Land」假匹配）/ Rock Creek（严扫=0，恒为 black-rock-creek）/ Behring's Straits·Baffin's Sea·Cape Mandible·Lancaster Sound·Isle Tabor·Verde Islands（既有页变体）/ Port Gr·Lake City·Greek Islands（截断/generic 假匹配）。 -->
+- [place] Hudson's Bay — ACH/FC/OC/TT；水体严扫 12（排除 Company）；哈得孙湾（real，≠Hudson's Bay Company org）
+- [place] Baffin's Bay — ACH/FC/TN/WC；含 Sea 变体 47；巴芬湾（real，alias Baffin's Sea）
+- [place] Walruses' Bay — FC；22；海象湾（fictional，Cape Bathurst 簇）
+- [place] Caspian Sea — ASC/FWB/MS/RC/TT/TTLU；agg 14；里海（real，跨作）
+- [place] Davis's Straits — ACH；14；戴维斯海峡（real，alias Davis Strait）
+- [place] Sandwich Islands — AM/GM/MI/SC/SI；agg 10；夏威夷旧称（real，跨作）
+- [place] Norfolk Island — MI/SC/SI；agg 10；诺福克岛（real）
+- [place] Cape Tchelynskin — WC；10；切柳斯金角（real，欧亚极北）
+- [place] Cape Verde — AM/FWB/SC/TTLU；agg 9；佛得角（real，alias Verde Islands）
+- [place] Faroe Islands — JCE/TN/TTLU/WC；agg 8；法罗群岛（real）
+- [place] Fort Sumter — BR/SC2；8；萨姆特堡（real，南北战争）
+- [place] Morris Island — BR；10；莫里斯岛（real，Charleston 港，接 Fort Sumter）
+- [place] Lake Ontario — MW/PL/RC；agg 7；安大略湖（real，大湖链末湖）
+- [place] Black Sea — ASC/MS/RC/RM/SC/TT；agg 7；黑海（real，跨作）
+- [place] Dream Bay — GM；7；梦湾（fictional，Godfrey 荒岛，接 spencer-island/flag-point）
+- [place] Altamont Harbour — ACH；6；阿尔塔蒙特港（fictional，New America，接 victoria-bay）
+- [place] Falkland Islands — AM/MI/TTLU；agg 6；福克兰群岛（real，接 port-egmont）
+- [place] Lake Ukereoue — FWB；6；乌克雷韦湖/维多利亚湖旧称（real，非洲）
+<!-- 长尾 5–6 agg 候选暂 hold（Detroit River/Navy Island/Goat Island/Niagara Falls[MW 尼亚加拉簇]、Platte River/North Sea/Chatham Islands/Sullivan Island/Washburn Bay/Lake Barnett/Lake Tinn/Fort Independence/Coronation Gulf/Balearic Isles/Bahama Channel/Caribbean Sea/Cape Bon/Mount Mendif/Blueridge Mountains/Cape Saknussemm/Shannon Island/Mounts Doerfel/Indian Peninsula/Long Island/Antarctic Sea），下轮 discover 或本批消费后再评估。 -->
+
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
