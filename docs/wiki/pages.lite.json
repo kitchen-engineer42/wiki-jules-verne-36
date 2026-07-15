@@ -391,6 +391,14 @@
       ],
       "path": "al/albatross.md"
     },
+    "aleutian-islands": {
+      "type": "place",
+      "label": "Aleutian Islands",
+      "aliases": [
+        "Aleutian Isles"
+      ],
+      "path": "al/aleutian-islands.md"
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -2929,6 +2937,14 @@
       "aliases": [],
       "path": "gr/great-eyrie.md"
     },
+    "great-salt-lake": {
+      "type": "place",
+      "label": "Great Salt Lake",
+      "aliases": [
+        "Salt Lake"
+      ],
+      "path": "gr/great-salt-lake.md"
+    },
     "great-slave-lake": {
       "type": "place",
       "label": "Great Slave Lake",
@@ -3308,6 +3324,14 @@
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
     },
+    "lake-baikal": {
+      "type": "place",
+      "label": "Lake Baikal",
+      "aliases": [
+        "The Baikal"
+      ],
+      "path": "la/lake-baikal.md"
+    },
     "lake-erie": {
       "type": "place",
       "label": "Lake Erie",
@@ -3395,6 +3419,12 @@
         "The Clockmaker Who Lost His Soul"
       ],
       "path": "ma/master-zacharius.md"
+    },
+    "melville-bay": {
+      "type": "place",
+      "label": "Melville Bay",
+      "aliases": [],
+      "path": "me/melville-bay.md"
     },
     "MI-ch01": {
       "type": "chapter",
@@ -7041,6 +7071,12 @@
       "aliases": [],
       "path": "we/weldon-institute.md"
     },
+    "wellington-channel": {
+      "type": "place",
+      "label": "Wellington Channel",
+      "aliases": [],
+      "path": "we/wellington-channel.md"
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -7124,6 +7160,9 @@
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
+    "aleutian-islands": "aleutian-islands",
+    "Aleutian Islands": "aleutian-islands",
+    "Aleutian Isles": "aleutian-islands",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -7633,6 +7672,9 @@
     "Granite House": "granite-house",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "great-salt-lake": "great-salt-lake",
+    "Great Salt Lake": "great-salt-lake",
+    "Salt Lake": "great-salt-lake",
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
@@ -7721,6 +7763,9 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "lake-baikal": "lake-baikal",
+    "Lake Baikal": "lake-baikal",
+    "The Baikal": "lake-baikal",
     "lake-erie": "lake-erie",
     "Lake Erie": "lake-erie",
     "lake-grant": "lake-grant",
@@ -7754,6 +7799,8 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "melville-bay": "melville-bay",
+    "Melville Bay": "melville-bay",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -8493,8 +8540,10 @@
     "WC-ch22": "WC-ch22",
     "weldon-institute": "weldon-institute",
     "Weldon Institute": "weldon-institute",
+    "wellington-channel": "wellington-channel",
+    "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1135,
-  "generated": "2026-07-15T11:50:11Z"
+  "page_count": 1140,
+  "generated": "2026-07-15T11:56:01Z"
 }

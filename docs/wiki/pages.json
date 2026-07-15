@@ -1280,6 +1280,30 @@
       "book": "Robur the Conqueror",
       "total_refs": 32
     },
+    "aleutian-islands": {
+      "type": "place",
+      "label": "Aleutian Islands",
+      "aliases": [
+        "Aleutian Isles"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "north-pacific"
+      ],
+      "path": "al/aleutian-islands.md",
+      "description": "The real island chain the drifting colonists of The Fur Country hope to reach as their last landfall before the open Pacific.",
+      "prose_len": 1697,
+      "prose_chars": 1588,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -3307,7 +3331,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 2
     },
     "behring-sea": {
       "type": "place",
@@ -3329,7 +3353,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "behring-strait": {
       "type": "place",
@@ -9718,6 +9742,30 @@
       "book": "Master of the World",
       "total_refs": 8
     },
+    "great-salt-lake": {
+      "type": "place",
+      "label": "Great Salt Lake",
+      "aliases": [
+        "Salt Lake"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "north-america"
+      ],
+      "path": "gr/great-salt-lake.md",
+      "description": "The real Utah salt lake and Mormon country the Pacific Railroad skirts as Phileas Fogg crosses America.",
+      "prose_len": 1620,
+      "prose_chars": 1512,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "great-slave-lake": {
       "type": "place",
       "label": "Great Slave Lake",
@@ -10956,6 +11004,30 @@
       "quality_score": 38,
       "total_refs": 10
     },
+    "lake-baikal": {
+      "type": "place",
+      "label": "Lake Baikal",
+      "aliases": [
+        "The Baikal"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "asia"
+      ],
+      "path": "la/lake-baikal.md",
+      "description": "The great Siberian lake Michael Strogoff must skirt on his race to Irkutsk, stormy and freezing as winter closes in.",
+      "prose_len": 1703,
+      "prose_chars": 1599,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "lake-erie": {
       "type": "place",
       "label": "Lake Erie",
@@ -11236,6 +11308,28 @@
       "pn_count": 13,
       "wikilink_count": 0,
       "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "melville-bay": {
+      "type": "place",
+      "label": "Melville Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "arctic"
+      ],
+      "path": "me/melville-bay.md",
+      "description": "The real Arctic bay off Baffin's Sea toward which Hatteras first orders the Forward, the gateway to the far northern channels.",
+      "prose_len": 1830,
+      "prose_chars": 1725,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
     "MI-ch01": {
@@ -12502,7 +12596,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 1
+      "total_refs": 2
     },
     "michel-ardan": {
       "type": "character",
@@ -14927,7 +15021,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "pamlico-sound": {
       "type": "place",
@@ -19855,7 +19949,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 4
+      "total_refs": 6
     },
     "the-fur-country": {
       "type": "work",
@@ -22518,7 +22612,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 6
+      "total_refs": 7
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -23302,6 +23396,28 @@
       "book": "Robur the Conqueror",
       "total_refs": 4
     },
+    "wellington-channel": {
+      "type": "place",
+      "label": "Wellington Channel",
+      "aliases": [],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "we/wellington-channel.md",
+      "description": "The real Arctic channel between North Devon and Cornwallis Island, one of the routes by which Hatteras seeks the open polar sea.",
+      "prose_len": 1791,
+      "prose_chars": 1680,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -23399,6 +23515,9 @@
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
+    "aleutian-islands": "aleutian-islands",
+    "Aleutian Islands": "aleutian-islands",
+    "Aleutian Isles": "aleutian-islands",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -23908,6 +24027,9 @@
     "Granite House": "granite-house",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "great-salt-lake": "great-salt-lake",
+    "Great Salt Lake": "great-salt-lake",
+    "Salt Lake": "great-salt-lake",
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
@@ -23996,6 +24118,9 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "lake-baikal": "lake-baikal",
+    "Lake Baikal": "lake-baikal",
+    "The Baikal": "lake-baikal",
     "lake-erie": "lake-erie",
     "Lake Erie": "lake-erie",
     "lake-grant": "lake-grant",
@@ -24029,6 +24154,8 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "melville-bay": "melville-bay",
+    "Melville Bay": "melville-bay",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -24768,8 +24895,10 @@
     "WC-ch22": "WC-ch22",
     "weldon-institute": "weldon-institute",
     "Weldon Institute": "weldon-institute",
+    "wellington-channel": "wellington-channel",
+    "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1135,
-  "generated": "2026-07-15T11:50:11Z"
+  "page_count": 1140,
+  "generated": "2026-07-15T11:56:01Z"
 }

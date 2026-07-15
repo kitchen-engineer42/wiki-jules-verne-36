@@ -81,7 +81,7 @@
 <!-- ✔ [place] Torres Strait — 已建 torres-strait（rev qxYQqX，TTLU real，实测 16）R40 -->
 <!-- 其它真实地理（各源作，建前实测校准）：-->
 <!-- ✔ [place] Lake Erie — 已建 lake-erie（rev XonrDi，MW real，实测 27）R40 -->
-- [place] Lake Baikal — MS(Michael Strogoff)；MS:12；贝加尔湖（real）
+<!-- ✔ [place] Lake Baikal — 已建 lake-baikal（rev 1ZLYip，MS real，实测 18 含变体；Strogoff 越境大湖，alias The Baikal）R44 -->
 - [place] Cape Bernouilli — SC(In Search of the Castaways)；SC:10；澳洲 37 度线起点岬（real，接 twofold-bay 链）
 - [place] Cape Horn — TTLU/SC；主源 TTLU:9；合恩角（real，跨作）
 - [place] Rocky Mountains — RM 等；主源 RM:9；落基山脉（real，跨作）
@@ -96,10 +96,10 @@
 <!-- ✔ [place] Flag Point — 已建 flag-point（rev Ua1a7j，GM fictional，实测 14；勘误恢复，Godfrey 竖旗之岬）R43 -->
 <!-- ✔ [place] Fort Confidence — 已建 fort-confidence（rev bfRrf3，FC real，实测 16）R42 -->
 <!-- ✔ [place] Slave Lake — 已建为 great-slave-lake（rev P5rbdm，alias Slave Lake）R43，见上 -->
-- [place] Aleutian Islands — FC；FC:12；阿留申群岛（real）
+<!-- ✔ [place] Aleutian Islands — 已建 aleutian-islands（rev Dm9iGl，FC real，实测 17；漂流末程盼达岛链，alias Aleutian Isles）R44 -->
 <!-- ACH 北极簇补：-->
-- [place] Melville Bay — ACH；ACH:12；梅尔维尔湾（real）
-- [place] Wellington Channel — ACH；ACH:10；惠灵顿海峡（real）
+<!-- ✔ [place] Melville Bay — 已建 melville-bay（rev DgSjCF，ACH real，实测 12；Forward 首程目标湾）R44 -->
+<!-- ✔ [place] Wellington Channel — 已建 wellington-channel（rev 9pMXcs，ACH real，实测 10；极海通道）R44 -->
 - [place] Lancaster Strait — ACH；ACH:7；兰开斯特海峡（real）
 - [place] Bellot Strait — ACH；ACH:7；贝洛海峡（real）
 - [place] Barrow Strait — ACH；ACH:6；巴罗海峡（real）
@@ -113,7 +113,7 @@
 - [place] Lake Michigan — MW；MW:6；密歇根湖（real）
 <!-- MS / AWED / SC / AM 各作：-->
 <!-- ✔ [place] Ural Mountains — 已建 ural-mountains（rev geZqUb，MS real，实测 21/变体 39；alias The Urals）R42 -->
-- [place] Salt Lake — AWED(Around the World)；AWED:10；大盐湖（real）
+<!-- ✔ [place] Salt Lake — 已建 great-salt-lake（rev 5hL12o，AWED real，实测 10；label Great Salt Lake / alias Salt Lake，Fogg 横美盐湖）R44 -->
 - [place] Fort Kearney — AWED；AWED:9；卡尼堡（real）
 - [place] Amsterdam Island — SC(In Search of the Castaways)；SC:9；阿姆斯特丹岛（real）
 - [place] Lake Taupo — SC；SC:8；陶波湖（real，新西兰）
