@@ -3331,6 +3331,28 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "black-rock-creek": {
+      "type": "place",
+      "label": "Black Rock Creek",
+      "aliases": [],
+      "tags": [
+        "place",
+        "creek",
+        "north-america"
+      ],
+      "path": "bl/black-rock-creek.md",
+      "description": "The wild creek on the shore of Lake Erie that serves as a hiding place for Robur's machine the Terror in The Master of the World.",
+      "prose_len": 1731,
+      "prose_chars": 1621,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -3599,7 +3621,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 7
+      "total_refs": 8
     },
     "cape-esquimaux": {
       "type": "place",
@@ -3714,7 +3736,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "claw-cape": {
       "type": "place",
@@ -7951,6 +7973,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "fort-confidence": {
+      "type": "place",
+      "label": "Fort Confidence",
+      "aliases": [],
+      "tags": [
+        "place",
+        "fort",
+        "arctic"
+      ],
+      "path": "fo/fort-confidence.md",
+      "description": "The real Hudson's Bay Company post on Great Bear Lake where Lieutenant Hobson revictuals and gathers intelligence in The Fur Country.",
+      "prose_len": 1813,
+      "prose_chars": 1705,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "fort-hope": {
       "type": "place",
       "label": "Fort Hope",
@@ -7971,7 +8015,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "fort-providence": {
       "type": "place",
@@ -9606,7 +9650,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 7
+      "total_refs": 8
     },
     "gulf-stream": {
       "type": "place",
@@ -9702,6 +9746,28 @@
       "quality_score": 77,
       "book": "From the Earth to the Moon",
       "total_refs": 13
+    },
+    "halbrane-land": {
+      "type": "place",
+      "label": "Halbrane Land",
+      "aliases": [],
+      "tags": [
+        "place",
+        "antarctic",
+        "island"
+      ],
+      "path": "ha/halbrane-land.md",
+      "description": "The fictional Antarctic land named by the shipwrecked crew of An Antarctic Mystery for their lost schooner, the Halbrane.",
+      "prose_len": 1792,
+      "prose_chars": 1686,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
     },
     "hong-kong": {
       "type": "place",
@@ -10820,7 +10886,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lake-grant": {
       "type": "place",
@@ -12346,7 +12412,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "michel-ardan": {
       "type": "character",
@@ -14751,6 +14817,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "pamlico-sound": {
+      "type": "place",
+      "label": "Pamlico Sound",
+      "aliases": [],
+      "tags": [
+        "place",
+        "sound",
+        "north-america"
+      ],
+      "path": "pa/pamlico-sound.md",
+      "description": "The real North Carolina sound where the schooner Ebba lies anchored in Facing the Flag, and across which the kidnappers spirit their captive away.",
+      "prose_len": 1694,
+      "prose_chars": 1588,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "passepartout": {
       "type": "character",
       "label": "Passepartout",
@@ -16150,7 +16238,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Robur the Conqueror",
-      "total_refs": 32
+      "total_refs": 33
     },
     "round-the-moon": {
       "type": "work",
@@ -19830,7 +19918,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 4
+      "total_refs": 5
     },
     "the-underground-city": {
       "type": "work",
@@ -20420,7 +20508,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "TT-ch01": {
       "type": "chapter",
@@ -22229,6 +22317,30 @@
       "book": "The Mysterious Island",
       "total_refs": 1
     },
+    "ural-mountains": {
+      "type": "place",
+      "label": "Ural Mountains",
+      "aliases": [
+        "The Urals"
+      ],
+      "tags": [
+        "place",
+        "mountains",
+        "russia"
+      ],
+      "path": "ur/ural-mountains.md",
+      "description": "The real mountain range dividing Europe from Asia, crossed by the courier Michael Strogoff on his journey into Siberia in Michael Strogoff.",
+      "prose_len": 1842,
+      "prose_chars": 1735,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -23293,6 +23405,8 @@
     "Beechey Island": "beechey-island",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
+    "black-rock-creek": "black-rock-creek",
+    "Black Rock Creek": "black-rock-creek",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -23568,6 +23682,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "fort-confidence": "fort-confidence",
+    "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
     "fort-providence": "fort-providence",
@@ -23686,6 +23802,8 @@
     "Gun-Cotton": "gun-cotton",
     "pyroxyle": "gun-cotton",
     "gun cotton": "gun-cotton",
+    "halbrane-land": "halbrane-land",
+    "Halbrane Land": "halbrane-land",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
     "hudsons-bay-company": "hudsons-bay-company",
@@ -24002,6 +24120,8 @@
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
     "Central Pacific": "pacific-railroad",
+    "pamlico-sound": "pamlico-sound",
+    "Pamlico Sound": "pamlico-sound",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -24475,6 +24595,9 @@
     "UC-ch19": "UC-ch19",
     "union-bay": "union-bay",
     "Union Bay": "union-bay",
+    "ural-mountains": "ural-mountains",
+    "Ural Mountains": "ural-mountains",
+    "The Urals": "ural-mountains",
     "VB": "VB",
     "victoria-balloon": "victoria-balloon",
     "Victoria (balloon)": "victoria-balloon",
@@ -24524,6 +24647,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1125,
-  "generated": "2026-07-15T11:30:40Z"
+  "page_count": 1130,
+  "generated": "2026-07-15T11:41:37Z"
 }

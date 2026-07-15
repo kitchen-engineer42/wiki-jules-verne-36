@@ -90,7 +90,7 @@
 <!-- ═══ R41 SCN28 表层复扫补种（30 候选，主源 distinctPN 严扫，建前逐页复核）═══ -->
 <!-- FC 漂流簇补：-->
 - [place] Behring Sea — FC；FC:13；白令海（real，distinct from Behring Strait）
-- [place] Fort Confidence — FC；FC:16；大熊湖畔北极堡（real）
+<!-- ✔ [place] Fort Confidence — 已建 fort-confidence（rev bfRrf3，FC real，实测 16）R42 -->
 - [place] Slave Lake — FC；FC:12；大奴湖（real，Hobson 陆路）
 - [place] Aleutian Islands — FC；FC:12；阿留申群岛（real）
 <!-- ACH 北极簇补：-->
@@ -104,17 +104,17 @@
 - [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
 <!-- MW 大湖簇补：-->
 - [place] Niagara River — MW；MW:12；尼亚加拉河（real，接 lake-erie/great-eyrie）
-- [place] Black Rock Creek — MW；MW:17；黑岩溪（real，Great Eyrie 近旁）
+<!-- ✔ [place] Black Rock Creek — 已建 black-rock-creek（rev h7arGO，MW fictional，实测 17）R42 -->
 - [place] Lake Superior — MW；MW:6；苏必利尔湖（real）
 - [place] Lake Michigan — MW；MW:6；密歇根湖（real）
 <!-- MS / AWED / SC / AM 各作：-->
-- [place] Ural Mountains — MS(Michael Strogoff)；MS:21；乌拉尔山（real，Strogoff 越境）
+<!-- ✔ [place] Ural Mountains — 已建 ural-mountains（rev geZqUb，MS real，实测 21/变体 39；alias The Urals）R42 -->
 - [place] Salt Lake — AWED(Around the World)；AWED:10；大盐湖（real）
 - [place] Fort Kearney — AWED；AWED:9；卡尼堡（real）
 - [place] Amsterdam Island — SC(In Search of the Castaways)；SC:9；阿姆斯特丹岛（real）
 - [place] Lake Taupo — SC；SC:8；陶波湖（real，新西兰）
 - [place] Cape Corrientes — SC；SC:5；科连特斯角（real）
-- [place] Halbrane Land — AM(Antarctic Mystery)；AM:14；哈尔布雷恩地（fictional，schooner 命名）
+<!-- ✔ [place] Halbrane Land — 已建 halbrane-land（rev J67Wnu，AM fictional，实测 14）R42 -->
 - [place] Port Egmont — AM；AM:9；埃格蒙特港（real，福克兰）
 - [place] Lake Tanganyika — DSCF；DSCF:6；坦噶尼喀湖（real，非洲）
 <!-- MI Lincoln Island 簇补（fictional）：-->
@@ -122,7 +122,7 @@
 - [place] Mandible Cape — MI；MI:9；下颚角（fictional，Lincoln Island）
 - [place] Washington Bay — MI；MI:7；华盛顿湾（fictional，Lincoln Island）
 <!-- FF / GM：-->
-- [place] Pamlico Sound — FF；FF:21；帕姆利科湾（real，Ebba 停泊）
+<!-- ✔ [place] Pamlico Sound — 已建 pamlico-sound（rev a0wpxD，FF real，实测 21）R42 -->
 - [place] Flag Point — GM(Godfrey Morgan)；GM:14；旗岬（fictional，Godfrey 竖旗之岬）——⚠ R34/R36/R38 曾以「GM 仅 4」误弃，R41 严扫实测 GM 14 distinctPN，勘误恢复入队
 <!-- 其它真实/虚构地理（各源作）-->
 <!-- ✔ Twofold Bay / Lake Tchad / Snowy River 已建 R34（见上簇注）-->
