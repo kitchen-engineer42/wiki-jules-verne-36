@@ -25,12 +25,13 @@
 <!-- ⚠ Fort Providence — R30 降级（薄候选，语料仅 3 处并列命名），不单建 place，留 list 提及。 -->
 <!-- ═══ R32 SCN28-corpus 深扫补种（+15 place 候选，distinctPN 为扫描估值，建页前实测校准）═══ -->
 <!-- Lincoln Island 微地理簇（The Mysterious Island MI/SI，fictional）：承既有 lincoln-island/granite-house/mount-franklin/prospect-heights/the-chimneys 链 -->
-- [place] Port Balloon — MI(The Mysterious Island)；scan distinctPN≈43；Lincoln Island 南岸良港
-- [place] Lake Grant — MI；scan distinctPN≈28；Lincoln Island 中央湖
+<!-- R33 NEW1 已建 5 页 Lincoln Island 簇：port-balloon/lake-grant/union-bay/falls-river/serpentine-peninsula。 -->
+<!-- ✔ [place] Port Balloon — 已建 port-balloon（rev NqwATs，实测 distinctPN=43）R33 -->
+<!-- ✔ [place] Lake Grant — 已建 lake-grant（rev fHqTYE，实测 28）R33 -->
+<!-- ✔ [place] Falls River — 已建 falls-river（rev mwE3dH，实测 25）R33 -->
+<!-- ✔ [place] Serpentine Peninsula — 已建 serpentine-peninsula（rev 4T1MJy，实测 25）R33 -->
+<!-- ✔ [place] Union Bay — 已建 union-bay（rev a2ht3d，实测 23）R33 -->
 - [place] Flotsam Point — MI；scan distinctPN≈26；Lincoln Island 岬角
-- [place] Falls River — MI；scan distinctPN≈25；Lincoln Island 河流
-- [place] Serpentine Peninsula — MI；scan distinctPN≈24；Lincoln Island 蛇形半岛
-- [place] Union Bay — MI；scan distinctPN≈22；Lincoln Island 东岸海湾
 - [place] Shark Gulf — MI；scan distinctPN≈18；Lincoln Island 鲨鱼湾
 - [place] Flag Point — MI；scan distinctPN≈14；Lincoln Island 旗岬
 <!-- 其它真实/虚构地理（各源作）-->

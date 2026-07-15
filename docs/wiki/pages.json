@@ -5842,6 +5842,28 @@
       "quality_score": 79,
       "total_refs": 0
     },
+    "falls-river": {
+      "type": "place",
+      "label": "Falls River",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "lincoln-island"
+      ],
+      "path": "fa/falls-river.md",
+      "description": "A stream on the southern coast of Lincoln Island, running through the wooded Serpentine Peninsula in The Mysterious Island.",
+      "prose_len": 1927,
+      "prose_chars": 1823,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Mysterious Island",
+      "total_refs": 1
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -9342,7 +9364,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 70
+      "total_refs": 72
     },
     "great-eyrie": {
       "type": "place",
@@ -10536,6 +10558,28 @@
       "quality_score": 38,
       "total_refs": 10
     },
+    "lake-grant": {
+      "type": "place",
+      "label": "Lake Grant",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lake",
+        "lincoln-island"
+      ],
+      "path": "la/lake-grant.md",
+      "description": "The tree-framed freshwater lake on the plateau of Lincoln Island, a central landmark of the colonists' domain in The Mysterious Island.",
+      "prose_len": 2266,
+      "prose_chars": 2160,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Mysterious Island",
+      "total_refs": 1
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -10629,7 +10673,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 75
+      "total_refs": 80
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -12014,7 +12058,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 43
+      "total_refs": 44
     },
     "MS-ch01": {
       "type": "chapter",
@@ -14629,6 +14673,28 @@
       "book": "The Pearl of Lima",
       "total_refs": 1
     },
+    "port-balloon": {
+      "type": "place",
+      "label": "Port Balloon",
+      "aliases": [],
+      "tags": [
+        "place",
+        "harbour",
+        "lincoln-island"
+      ],
+      "path": "po/port-balloon.md",
+      "description": "A sheltered creek on the southern coast of Lincoln Island that the colonists adopt as their natural harbour in The Mysterious Island.",
+      "prose_len": 2260,
+      "prose_chars": 2153,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "professor-lidenbrock": {
       "type": "character",
       "label": "Professor Lidenbrock",
@@ -14675,7 +14741,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 3
     },
     "quiquendone": {
       "type": "place",
@@ -18318,6 +18384,28 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 0
     },
+    "serpentine-peninsula": {
+      "type": "place",
+      "label": "Serpentine Peninsula",
+      "aliases": [],
+      "tags": [
+        "place",
+        "peninsula",
+        "lincoln-island"
+      ],
+      "path": "se/serpentine-peninsula.md",
+      "description": "The wooded south-western peninsula of Lincoln Island, ending in the Reptile End promontory, in The Mysterious Island.",
+      "prose_len": 2088,
+      "prose_chars": 1973,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "ships-compass": {
       "type": "technology",
       "label": "Ship's Compass",
@@ -19197,7 +19285,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 12
+      "total_refs": 17
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -21587,6 +21675,28 @@
       "book": "The Underground City",
       "total_refs": 1
     },
+    "union-bay": {
+      "type": "place",
+      "label": "Union Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "lincoln-island"
+      ],
+      "path": "un/union-bay.md",
+      "description": "The wide bay on the eastern coast of Lincoln Island, fronting Granite House and Prospect Heights in The Mysterious Island.",
+      "prose_len": 1934,
+      "prose_chars": 1831,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -22808,6 +22918,8 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "falls-river": "falls-river",
+    "Falls River": "falls-river",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -23091,6 +23203,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "lake-grant": "lake-grant",
+    "Lake Grant": "lake-grant",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -23343,6 +23457,8 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "port-balloon": "port-balloon",
+    "Port Balloon": "port-balloon",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -23549,6 +23665,8 @@
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "serpentine-peninsula": "serpentine-peninsula",
+    "Serpentine Peninsula": "serpentine-peninsula",
     "ships-compass": "ships-compass",
     "Ship's Compass": "ships-compass",
     "binnacle compass": "ships-compass",
@@ -23773,6 +23891,8 @@
     "UC-ch17": "UC-ch17",
     "UC-ch18": "UC-ch18",
     "UC-ch19": "UC-ch19",
+    "union-bay": "union-bay",
+    "Union Bay": "union-bay",
     "VB": "VB",
     "victoria-balloon": "victoria-balloon",
     "Victoria (balloon)": "victoria-balloon",
@@ -23822,6 +23942,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1096,
-  "generated": "2026-07-15T10:38:48Z"
+  "page_count": 1101,
+  "generated": "2026-07-15T10:50:19Z"
 }

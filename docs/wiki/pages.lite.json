@@ -1771,6 +1771,12 @@
       ],
       "path": "fa/facing-the-flag.md"
     },
+    "falls-river": {
+      "type": "place",
+      "label": "Falls River",
+      "aliases": [],
+      "path": "fa/falls-river.md"
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -3192,6 +3198,12 @@
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
     },
+    "lake-grant": {
+      "type": "place",
+      "label": "Lake Grant",
+      "aliases": [],
+      "path": "la/lake-grant.md"
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -4431,6 +4443,12 @@
       "aliases": [],
       "path": "pl/PL-ch09.md"
     },
+    "port-balloon": {
+      "type": "place",
+      "label": "Port Balloon",
+      "aliases": [],
+      "path": "po/port-balloon.md"
+    },
     "professor-lidenbrock": {
       "type": "character",
       "label": "Professor Lidenbrock",
@@ -5543,6 +5561,12 @@
       ],
       "path": "se/sea-monster-hunt.md"
     },
+    "serpentine-peninsula": {
+      "type": "place",
+      "label": "Serpentine Peninsula",
+      "aliases": [],
+      "path": "se/serpentine-peninsula.md"
+    },
     "ships-compass": {
       "type": "technology",
       "label": "Ship's Compass",
@@ -6544,6 +6568,12 @@
       "aliases": [],
       "path": "uc/UC-ch19.md"
     },
+    "union-bay": {
+      "type": "place",
+      "label": "Union Bay",
+      "aliases": [],
+      "path": "un/union-bay.md"
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -7157,6 +7187,8 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "falls-river": "falls-river",
+    "Falls River": "falls-river",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -7440,6 +7472,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "lake-grant": "lake-grant",
+    "Lake Grant": "lake-grant",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -7692,6 +7726,8 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "port-balloon": "port-balloon",
+    "Port Balloon": "port-balloon",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -7898,6 +7934,8 @@
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "serpentine-peninsula": "serpentine-peninsula",
+    "Serpentine Peninsula": "serpentine-peninsula",
     "ships-compass": "ships-compass",
     "Ship's Compass": "ships-compass",
     "binnacle compass": "ships-compass",
@@ -8122,6 +8160,8 @@
     "UC-ch17": "UC-ch17",
     "UC-ch18": "UC-ch18",
     "UC-ch19": "UC-ch19",
+    "union-bay": "union-bay",
+    "Union Bay": "union-bay",
     "VB": "VB",
     "victoria-balloon": "victoria-balloon",
     "Victoria (balloon)": "victoria-balloon",
@@ -8171,6 +8211,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1096,
-  "generated": "2026-07-15T10:38:48Z"
+  "page_count": 1101,
+  "generated": "2026-07-15T10:50:19Z"
 }
