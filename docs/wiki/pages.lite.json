@@ -2734,6 +2734,15 @@
       ],
       "path": "go/godfrey-morgan.md"
     },
+    "grand-transasiatic-railway-company": {
+      "type": "organization",
+      "label": "Grand Transasiatic Railway Company",
+      "aliases": [
+        "Grand Transasiatic",
+        "Grand Transasiatic Company"
+      ],
+      "path": "gr/grand-transasiatic-railway-company.md"
+    },
     "granite-house-lift": {
       "type": "technology",
       "label": "Granite House Lift",
@@ -2785,6 +2794,14 @@
       "label": "Hong Kong",
       "aliases": [],
       "path": "ho/hong-kong.md"
+    },
+    "hudsons-bay-company": {
+      "type": "organization",
+      "label": "Hudson's Bay Company",
+      "aliases": [
+        "the Company"
+      ],
+      "path": "hu/hudsons-bay-company.md"
     },
     "iceland": {
       "type": "place",
@@ -3927,6 +3944,15 @@
       ],
       "path": "ni/nitroglycerine.md"
     },
+    "north-polar-practical-association": {
+      "type": "organization",
+      "label": "North Polar Practical Association",
+      "aliases": [
+        "North Polar Association",
+        "Barbicane & Co."
+      ],
+      "path": "no/north-polar-practical-association.md"
+    },
     "north-pole-volcano": {
       "type": "event",
       "label": "The Volcano at the Pole",
@@ -4229,6 +4255,15 @@
         "Jean Passepartout"
       ],
       "path": "pa/passepartout.md"
+    },
+    "peninsular-and-oriental-company": {
+      "type": "organization",
+      "label": "Peninsular and Oriental Company",
+      "aliases": [
+        "Peninsular Company",
+        "P. and O."
+      ],
+      "path": "pe/peninsular-and-oriental-company.md"
     },
     "phileas-fogg": {
       "type": "character",
@@ -4606,6 +4641,14 @@
         "Around the Moon"
       ],
       "path": "ro/round-the-moon.md"
+    },
+    "royal-geographical-society": {
+      "type": "organization",
+      "label": "Royal Geographical Society",
+      "aliases": [
+        "Royal Geographical Society of London"
+      ],
+      "path": "ro/royal-geographical-society.md"
     },
     "ruhmkorff-apparatus": {
       "type": "technology",
@@ -7107,6 +7150,10 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
+    "Grand Transasiatic Railway Company": "grand-transasiatic-railway-company",
+    "Grand Transasiatic": "grand-transasiatic-railway-company",
+    "Grand Transasiatic Company": "grand-transasiatic-railway-company",
     "granite-house-lift": "granite-house-lift",
     "Granite House Lift": "granite-house-lift",
     "Granite House elevator": "granite-house-lift",
@@ -7127,6 +7174,9 @@
     "gun cotton": "gun-cotton",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
+    "hudsons-bay-company": "hudsons-bay-company",
+    "Hudson's Bay Company": "hudsons-bay-company",
+    "the Company": "hudsons-bay-company",
     "iceland": "iceland",
     "Iceland": "iceland",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
@@ -7354,6 +7404,10 @@
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
     "glonoin": "nitroglycerine",
+    "north-polar-practical-association": "north-polar-practical-association",
+    "North Polar Practical Association": "north-polar-practical-association",
+    "North Polar Association": "north-polar-practical-association",
+    "Barbicane & Co.": "north-polar-practical-association",
     "north-pole-volcano": "north-pole-volcano",
     "The Volcano at the Pole": "north-pole-volcano",
     "Reaching the North Pole": "north-pole-volcano",
@@ -7412,6 +7466,10 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "peninsular-and-oriental-company": "peninsular-and-oriental-company",
+    "Peninsular and Oriental Company": "peninsular-and-oriental-company",
+    "Peninsular Company": "peninsular-and-oriental-company",
+    "P. and O.": "peninsular-and-oriental-company",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -7485,6 +7543,9 @@
     "Round the Moon": "round-the-moon",
     "Autour de la Lune": "round-the-moon",
     "Around the Moon": "round-the-moon",
+    "royal-geographical-society": "royal-geographical-society",
+    "Royal Geographical Society": "royal-geographical-society",
+    "Royal Geographical Society of London": "royal-geographical-society",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -7876,6 +7937,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1066,
-  "generated": "2026-07-15T04:07:32Z"
+  "page_count": 1071,
+  "generated": "2026-07-15T08:26:53Z"
 }

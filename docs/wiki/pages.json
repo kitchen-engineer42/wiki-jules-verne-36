@@ -1232,7 +1232,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "albatross": {
       "type": "technology",
@@ -3243,7 +3243,7 @@
       "quality_score": 66,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 78
+      "total_refs": 79
     },
     "BR-ch01": {
       "type": "chapter",
@@ -7591,7 +7591,7 @@
       "quality_score": 66,
       "affiliation": "Scotland Yard",
       "book": "Around the World in Eighty Days",
-      "total_refs": 33
+      "total_refs": 34
     },
     "fogg-hires-passepartout": {
       "type": "event",
@@ -9036,6 +9036,33 @@
       "quality_score": 42,
       "total_refs": 0
     },
+    "grand-transasiatic-railway-company": {
+      "type": "organization",
+      "label": "Grand Transasiatic Railway Company",
+      "aliases": [
+        "Grand Transasiatic",
+        "Grand Transasiatic Company"
+      ],
+      "tags": [
+        "organization",
+        "company",
+        "railway",
+        "central-asia",
+        "claudius-bombarnac"
+      ],
+      "path": "gr/grand-transasiatic-railway-company.md",
+      "description": "The newly opened railway company running the through line from the Caspian to Peking, along which the whole action of Claudius Bombarnac unfolds.",
+      "prose_len": 3736,
+      "prose_chars": 3608,
+      "h2_count": 4,
+      "pn_count": 23,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 87,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "granite-house-lift": {
       "type": "technology",
       "label": "Granite House Lift",
@@ -9152,7 +9179,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 14
+      "total_refs": 15
     },
     "gun-cotton": {
       "type": "technology",
@@ -9201,6 +9228,32 @@
       "quality_score": 72,
       "book": "Around the World in Eighty Days",
       "total_refs": 16
+    },
+    "hudsons-bay-company": {
+      "type": "organization",
+      "label": "Hudson's Bay Company",
+      "aliases": [
+        "the Company"
+      ],
+      "tags": [
+        "organization",
+        "company",
+        "fur-trade",
+        "arctic",
+        "the-fur-country"
+      ],
+      "path": "hu/hudsons-bay-company.md",
+      "description": "The chartered British fur-trading company whose expedition to found a factory beyond the Arctic Circle drives the plot of The Fur Country.",
+      "prose_len": 4194,
+      "prose_chars": 4076,
+      "h2_count": 4,
+      "pn_count": 28,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 91,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "iceland": {
       "type": "place",
@@ -12971,6 +13024,33 @@
       "book": "The Mysterious Island",
       "total_refs": 8
     },
+    "north-polar-practical-association": {
+      "type": "organization",
+      "label": "North Polar Practical Association",
+      "aliases": [
+        "North Polar Association",
+        "Barbicane & Co."
+      ],
+      "tags": [
+        "organization",
+        "company",
+        "gun-club",
+        "north-pole",
+        "topsy-turvy"
+      ],
+      "path": "no/north-polar-practical-association.md",
+      "description": "The Baltimore company, a front for the Gun Club, that buys the North Pole at auction in order to exploit the coal buried beneath the polar ice.",
+      "prose_len": 3652,
+      "prose_chars": 3527,
+      "h2_count": 4,
+      "pn_count": 22,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 86,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "north-pole-volcano": {
       "type": "event",
       "label": "The Volcano at the Pole",
@@ -13968,6 +14048,33 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 40
     },
+    "peninsular-and-oriental-company": {
+      "type": "organization",
+      "label": "Peninsular and Oriental Company",
+      "aliases": [
+        "Peninsular Company",
+        "P. and O."
+      ],
+      "tags": [
+        "organization",
+        "company",
+        "steamship",
+        "navigation",
+        "around-the-world"
+      ],
+      "path": "pe/peninsular-and-oriental-company.md",
+      "description": "The British steamship company whose liners Mongolia and Rangoon carry Phileas Fogg across the eastern legs of his journey in Around the World in Eighty Days.",
+      "prose_len": 3421,
+      "prose_chars": 3296,
+      "h2_count": 4,
+      "pn_count": 18,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 84,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "phileas-fogg": {
       "type": "character",
       "label": "Phileas Fogg",
@@ -13989,7 +14096,7 @@
       "quality_score": 68,
       "affiliation": "Reform Club",
       "book": "Around the World in Eighty Days",
-      "total_refs": 45
+      "total_refs": 46
     },
     "PL-ch01": {
       "type": "chapter",
@@ -15211,6 +15318,32 @@
       "quality": "standard",
       "quality_score": 43,
       "total_refs": 5
+    },
+    "royal-geographical-society": {
+      "type": "organization",
+      "label": "Royal Geographical Society",
+      "aliases": [
+        "Royal Geographical Society of London"
+      ],
+      "tags": [
+        "organization",
+        "society",
+        "exploration",
+        "geography",
+        "ballooning"
+      ],
+      "path": "ro/royal-geographical-society.md",
+      "description": "The London learned society that funds and honours the exploratory expeditions of Verne's adventurers, from Ferguson's balloon voyage to Hatteras's polar journey.",
+      "prose_len": 4078,
+      "prose_chars": 3956,
+      "h2_count": 4,
+      "pn_count": 23,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 90,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     },
     "ruhmkorff-apparatus": {
       "type": "technology",
@@ -22263,6 +22396,10 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
+    "Grand Transasiatic Railway Company": "grand-transasiatic-railway-company",
+    "Grand Transasiatic": "grand-transasiatic-railway-company",
+    "Grand Transasiatic Company": "grand-transasiatic-railway-company",
     "granite-house-lift": "granite-house-lift",
     "Granite House Lift": "granite-house-lift",
     "Granite House elevator": "granite-house-lift",
@@ -22283,6 +22420,9 @@
     "gun cotton": "gun-cotton",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
+    "hudsons-bay-company": "hudsons-bay-company",
+    "Hudson's Bay Company": "hudsons-bay-company",
+    "the Company": "hudsons-bay-company",
     "iceland": "iceland",
     "Iceland": "iceland",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
@@ -22510,6 +22650,10 @@
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
     "glonoin": "nitroglycerine",
+    "north-polar-practical-association": "north-polar-practical-association",
+    "North Polar Practical Association": "north-polar-practical-association",
+    "North Polar Association": "north-polar-practical-association",
+    "Barbicane & Co.": "north-polar-practical-association",
     "north-pole-volcano": "north-pole-volcano",
     "The Volcano at the Pole": "north-pole-volcano",
     "Reaching the North Pole": "north-pole-volcano",
@@ -22568,6 +22712,10 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "peninsular-and-oriental-company": "peninsular-and-oriental-company",
+    "Peninsular and Oriental Company": "peninsular-and-oriental-company",
+    "Peninsular Company": "peninsular-and-oriental-company",
+    "P. and O.": "peninsular-and-oriental-company",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -22641,6 +22789,9 @@
     "Round the Moon": "round-the-moon",
     "Autour de la Lune": "round-the-moon",
     "Around the Moon": "round-the-moon",
+    "royal-geographical-society": "royal-geographical-society",
+    "Royal Geographical Society": "royal-geographical-society",
+    "Royal Geographical Society of London": "royal-geographical-society",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -23032,6 +23183,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1066,
-  "generated": "2026-07-15T08:01:40Z"
+  "page_count": 1071,
+  "generated": "2026-07-15T08:26:53Z"
 }
