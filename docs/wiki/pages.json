@@ -21,6 +21,26 @@
       "quality_score": 29,
       "total_refs": 1
     },
+    "aberfoyle": {
+      "type": "place",
+      "label": "Aberfoyle",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mine",
+        "scotland"
+      ],
+      "path": "ab/aberfoyle.md",
+      "description": "The exhausted Scottish coal-mining district whose old pits open the story of The Underground City.",
+      "prose_len": 1995,
+      "prose_chars": 1894,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "book": "The Underground City",
+      "total_refs": 1
+    },
     "ACH-ch01": {
       "type": "chapter",
       "label": "The Adventures of Captain Hatteras — CHAPTER I",
@@ -3198,6 +3218,28 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 35
     },
+    "back-cup": {
+      "type": "place",
+      "label": "Back Cup",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "pirates"
+      ],
+      "path": "ba/back-cup.md",
+      "description": "A hollow volcanic islet in the Bermudas that serves as the secret lair of the pirate Ker Karraje in Facing the Flag.",
+      "prose_len": 2540,
+      "prose_chars": 2435,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "baltimore": {
       "type": "place",
       "label": "Baltimore",
@@ -3513,7 +3555,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "captain-hatteras": {
       "type": "character",
@@ -7709,6 +7751,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "fort-reliance": {
+      "type": "place",
+      "label": "Fort Reliance",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "exploration"
+      ],
+      "path": "fo/fort-reliance.md",
+      "description": "The Hudson's Bay Company fort on Great Slave Lake from which Lieutenant Hobson's expedition sets out in The Fur Country.",
+      "prose_len": 2208,
+      "prose_chars": 2102,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "from-the-earth-to-the-moon": {
       "type": "work",
       "label": "From the Earth to the Moon",
@@ -7755,7 +7819,7 @@
       "quality": "featured",
       "quality_score": 88,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "FWB-ch01": {
       "type": "chapter",
@@ -13164,6 +13228,28 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 1
     },
+    "new-aberfoyle": {
+      "type": "place",
+      "label": "New Aberfoyle",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mine",
+        "underground"
+      ],
+      "path": "ne/new-aberfoyle.md",
+      "description": "The vast subterranean coalfield beneath old Aberfoyle, containing the underground settlement of Coal Town on Loch Malcolm.",
+      "prose_len": 2157,
+      "prose_chars": 2052,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Underground City",
+      "total_refs": 1
+    },
     "nitroglycerine": {
       "type": "technology",
       "label": "Nitroglycerine",
@@ -14238,7 +14324,7 @@
       "quality": "featured",
       "quality_score": 78,
       "book": "Doctor Ox's Experiment",
-      "total_refs": 0
+      "total_refs": 1
     },
     "passepartout": {
       "type": "character",
@@ -14541,6 +14627,28 @@
       "quality_score": 71,
       "book": "The Mysterious Island",
       "total_refs": 1
+    },
+    "quiquendone": {
+      "type": "place",
+      "label": "Quiquendone",
+      "aliases": [],
+      "tags": [
+        "place",
+        "town",
+        "flanders"
+      ],
+      "path": "qu/quiquendone.md",
+      "description": "A tiny, phlegmatic Flemish town, absent from every map, where Doctor Ox conducts his gas experiment.",
+      "prose_len": 2240,
+      "prose_chars": 2136,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Doctor Ox's Experiment",
+      "total_refs": 0
     },
     "RC-ch01": {
       "type": "chapter",
@@ -21473,7 +21581,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -22282,6 +22390,8 @@
     "About": "About",
     "About This Wiki": "About",
     "关于": "About",
+    "aberfoyle": "aberfoyle",
+    "Aberfoyle": "aberfoyle",
     "ACH-ch01": "ACH-ch01",
     "ACH-ch02": "ACH-ch02",
     "ACH-ch03": "ACH-ch03",
@@ -22458,6 +22568,8 @@
     "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
+    "back-cup": "back-cup",
+    "Back Cup": "back-cup",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
     "barbicane": "barbicane",
@@ -22724,6 +22836,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "fort-reliance": "fort-reliance",
+    "Fort Reliance": "fort-reliance",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "fulgurator": "fulgurator",
@@ -23063,6 +23177,8 @@
     "Nemo's Electricity": "nemo-electricity",
     "Nautilus electricity": "nemo-electricity",
     "Nemo's sodium battery": "nemo-electricity",
+    "new-aberfoyle": "new-aberfoyle",
+    "New Aberfoyle": "new-aberfoyle",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -23156,6 +23272,8 @@
     "Liedenbrock": "professor-lidenbrock",
     "prospect-heights": "prospect-heights",
     "Prospect Heights": "prospect-heights",
+    "quiquendone": "quiquendone",
+    "Quiquendone": "quiquendone",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -23624,6 +23742,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1088,
-  "generated": "2026-07-15T10:16:36Z"
+  "page_count": 1093,
+  "generated": "2026-07-15T10:28:00Z"
 }

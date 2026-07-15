@@ -10,6 +10,12 @@
       ],
       "path": "ab/About.md"
     },
+    "aberfoyle": {
+      "type": "place",
+      "label": "Aberfoyle",
+      "aliases": [],
+      "path": "ab/aberfoyle.md"
+    },
     "ACH-ch01": {
       "type": "chapter",
       "label": "The Adventures of Captain Hatteras — CHAPTER I",
@@ -967,6 +973,12 @@
       "label": "Axel",
       "aliases": [],
       "path": "ax/axel.md"
+    },
+    "back-cup": {
+      "type": "place",
+      "label": "Back Cup",
+      "aliases": [],
+      "path": "ba/back-cup.md"
     },
     "baltimore": {
       "type": "place",
@@ -2332,6 +2344,12 @@
         "Master and Man"
       ],
       "path": "fo/fogg-hires-passepartout.md"
+    },
+    "fort-reliance": {
+      "type": "place",
+      "label": "Fort Reliance",
+      "aliases": [],
+      "path": "fo/fort-reliance.md"
     },
     "from-the-earth-to-the-moon": {
       "type": "work",
@@ -3986,6 +4004,12 @@
       ],
       "path": "ne/nemo-electricity.md"
     },
+    "new-aberfoyle": {
+      "type": "place",
+      "label": "New Aberfoyle",
+      "aliases": [],
+      "path": "ne/new-aberfoyle.md"
+    },
     "nitroglycerine": {
       "type": "technology",
       "label": "Nitroglycerine",
@@ -4405,6 +4429,12 @@
       "label": "Prospect Heights",
       "aliases": [],
       "path": "pr/prospect-heights.md"
+    },
+    "quiquendone": {
+      "type": "place",
+      "label": "Quiquendone",
+      "aliases": [],
+      "path": "qu/quiquendone.md"
     },
     "RC-ch01": {
       "type": "chapter",
@@ -6757,6 +6787,8 @@
     "About": "About",
     "About This Wiki": "About",
     "关于": "About",
+    "aberfoyle": "aberfoyle",
+    "Aberfoyle": "aberfoyle",
     "ACH-ch01": "ACH-ch01",
     "ACH-ch02": "ACH-ch02",
     "ACH-ch03": "ACH-ch03",
@@ -6933,6 +6965,8 @@
     "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
+    "back-cup": "back-cup",
+    "Back Cup": "back-cup",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
     "barbicane": "barbicane",
@@ -7199,6 +7233,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "fort-reliance": "fort-reliance",
+    "Fort Reliance": "fort-reliance",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "fulgurator": "fulgurator",
@@ -7538,6 +7574,8 @@
     "Nemo's Electricity": "nemo-electricity",
     "Nautilus electricity": "nemo-electricity",
     "Nemo's sodium battery": "nemo-electricity",
+    "new-aberfoyle": "new-aberfoyle",
+    "New Aberfoyle": "new-aberfoyle",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -7631,6 +7669,8 @@
     "Liedenbrock": "professor-lidenbrock",
     "prospect-heights": "prospect-heights",
     "Prospect Heights": "prospect-heights",
+    "quiquendone": "quiquendone",
+    "Quiquendone": "quiquendone",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -8099,6 +8139,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1088,
-  "generated": "2026-07-15T10:16:15Z"
+  "page_count": 1093,
+  "generated": "2026-07-15T10:28:00Z"
 }

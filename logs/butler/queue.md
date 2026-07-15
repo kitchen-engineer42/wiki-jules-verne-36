@@ -11,12 +11,13 @@
 <!-- ✔ [place] Cape Bathurst — 已建 cape-bathurst（rev xKv5Vc，real）-->
 <!-- ✔ [place] Tabor Island — 已建 tabor-island（rev stqg4C）-->
 <!-- ✔ [place] Victoria Island — 已建 victoria-island（rev Id9H0K；Cape Bathurst 断裂漂流成此岛）-->
-- [place] Fort Reliance — FC(The Fur Country)；distinctPN≈20；Hudson's Bay 出发要塞
-- [place] Aberfoyle — UC(The Underground City)；distinctPN≈18；苏格兰 Aberfoyle 煤矿区
-- [place] Quiquendone — DOSE(Doctor Ox's Experiment)；distinctPN≈15；虚构佛兰德小镇，Doctor Ox 实验场
-- [place] Fort Providence — FC(The Fur Country)；distinctPN≈14；Fur Country 远征沿途要塞
-- [place] New Aberfoyle — UC(The Underground City)；distinctPN≈12；地下城 Coal City 所在的新煤田
-- [place] Back Cup — FF(Facing the Flag)；distinctPN≈11；Ker Karraje 海盗巢穴火山岛（内含 the tug/Ebba lagoon）
+<!-- R30 NEW1 已建 5 页：aberfoyle/new-aberfoyle/fort-reliance/back-cup/quiquendone（UC 簇 2 + FC 1 + FF 1 + DOSE 1）。 -->
+<!-- ✔ [place] Fort Reliance — 已建 fort-reliance（rev gH2ols，real）-->
+<!-- ✔ [place] Aberfoyle — 已建 aberfoyle（rev SK7z10，real）-->
+<!-- ✔ [place] Quiquendone — 已建 quiquendone（rev xuFXo6）-->
+<!-- ✔ [place] New Aberfoyle — 已建 new-aberfoyle（rev lemUhm；地下村落实名 Coal Town，非 Coal City；地下湖 Loch Malcolm）-->
+<!-- ✔ [place] Back Cup — 已建 back-cup（rev CgRXkQ；实测 111 命中/11 distinctPN，替 Fort Providence 入本批）-->
+<!-- ⚠ [place] Fort Providence — 降级：语料仅 3 处直接命名（多为并列地名），不足 standard ≥5 引注；不单建 place，留 list 页提及。 -->
 - [place] Crespo Island — 20KL(Twenty Thousand Leagues)；distinctPN≈7；Nautilus 海底森林猎场（虚构海岛）
 <!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
 <!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
