@@ -3,16 +3,23 @@
 ## P1 — 高优先级
 
 <!-- ═══ place 候选（R28 CLOSE+SCN28 technology 关闭后为 place 首轮 discover 补种）═══ -->
-<!-- 既有 place（Pilot 建）：reform-club 等；R28 SCN28 首扫命名重要地点（distinctPN≥3，优先虚构/中心场景）：-->
-- [place] Lincoln Island — MI(The Mysterious Island)；distinctPN≈60；虚构火山岛，全书殖民地舞台
-- [place] Granite House — MI(The Mysterious Island)；distinctPN≈65；殖民者凿于花岗岩崖壁的居所/要塞（区别于既有 technology 页 granite-house-lift 升降机）
+<!-- 既有 15 页 place（Pilot 建，Phase 9-C @86943ff）：baltimore/granite-house/great-eyrie/hong-kong/iceland/liedenbrock-sea/lincoln-island/mount-franklin/north-pole/reform-club/sargasso-sea/snaefellsjokull/stromboli/tampa-town/the-moon -->
+<!-- R28 SCN28 首扫命名重要地点（distinctPN≥3，已排除上列 15 既有 Pilot 页——含误列的 Lincoln Island/Granite House/Sneffels=snaefellsjokull，均既有，不重建）：-->
+- [place] the Chimneys — MI(The Mysterious Island)；distinctPN≈56；殖民者初到的岩缝临时居所
+- [place] Prospect Heights — MI(The Mysterious Island)；distinctPN≈45；Granite House 所在高地平台
+- [place] Cape Bathurst — FC(The Fur Country)；distinctPN≈35；Hudson's Bay 远征建 Fort Esperance 之角
 - [place] Tabor Island — MI(The Mysterious Island)；distinctPN≈29；Ayrton 流放之岛（原 Duncan 搜寻目标）
+- [place] Victoria Island — FC(The Fur Country)；distinctPN≈20；载 Fort Esperance 漂流的巨型冰岛（全书核心）
+- [place] Fort Reliance — FC(The Fur Country)；distinctPN≈20；Hudson's Bay 出发要塞
+- [place] Aberfoyle — UC(The Underground City)；distinctPN≈18；苏格兰 Aberfoyle 煤矿区
 - [place] Quiquendone — DOSE(Doctor Ox's Experiment)；distinctPN≈15；虚构佛兰德小镇，Doctor Ox 实验场
-- [place] Back Cup — FF(Facing the Flag)；distinctPN≈11；Ker Karraje 海盗巢穴火山岛（内含 the tug/Ebba 停泊 lagoon）
-- [place] Sneffels — JCE(Journey to the Centre of the Earth)；distinctPN≈4；地心之旅入口火山口（Snæfellsjökull）
+- [place] Fort Providence — FC(The Fur Country)；distinctPN≈14；Fur Country 远征沿途要塞
+- [place] New Aberfoyle — UC(The Underground City)；distinctPN≈12；地下城 Coal City 所在的新煤田
+- [place] Back Cup — FF(Facing the Flag)；distinctPN≈11；Ker Karraje 海盗巢穴火山岛（内含 the tug/Ebba lagoon）
+- [place] Crespo Island — 20KL(Twenty Thousand Leagues)；distinctPN≈7；Nautilus 海底森林猎场（虚构海岛）
 <!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
-<!-- borderline 真实地理（distinctPN 高但非虚构核心）：Iceland(51)/Baltimore(30，Gun Club HQ)/Tampa Town(14) 待评估是否入 place（真实地名 vs 虚构/中心场景门槛）。 -->
-<!-- reform-club 已存在为 place 页（Pilot 建），不重建；place/org 归类历史争议见 housekeeping。 -->
+<!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
+<!-- borderline 真实地理已有 Pilot 页：iceland/baltimore/tampa-town 均既有，不重建。 -->
 
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
