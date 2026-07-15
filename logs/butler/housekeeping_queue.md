@@ -68,6 +68,26 @@
 
 **处置**：记录待评审。当前 GROW 轮内以人工核对 + 顶替候选缓解（R11 已 P&O 顶替 Reform Club）。
 
+### HK-corpus-discover-orgname-blindspot — corpus/红链 discover 漏判无 wikilink 的组织专名
+
+**现象（GROW R15，2026-07-15 发现）**：organization 关闭倒计时中，R15 改用 **org-suffix 语料复扫**
+（`… Company|Society|Club|Institution|Association|…` 专名模式）验证穷尽，补捞出 **2 个此前全程漏判**
+的候选：**Canadian General Transportation Company**（WC，distinctPN≈5）、**North-West Company**
+（FC，distinctPN=4）。二者 R10 corpus discover 与 R12/R14 红链扫描均未捕获。
+
+**根因**：(1) 红链扫描（SCN28）只看 wikilink target，这 2 个组织**语料中从未被 `[[...]]` 链接**，故不可见；
+(2) R10 corpus discover 的专名过滤显然也未命中此二者（疑似 distinctPN 阈值或后缀模式覆盖不全）。
+结果 organization 差点在仍有 2 个达门候选未建时被 streak 机制关闭。
+
+**影响**：类型「穷尽」判定不可靠——仅靠红链 + 单次 corpus discover 会漏掉无链的实体，导致 discover_streak_low
+虚高、类型过早关闭、grounded 候选被永久遗弃（关闭后该 type 移出 type_queue，不再回访）。
+
+**修复方向**：类型关闭前（streak 逼近 type_close_streak 时）强制跑一次 **suffix/pattern-based corpus 复扫**
+（不依赖 wikilink），与 alias_index 比对后确认无达门未建候选，方可关闭。属 discover 逻辑（GROW skill）。
+
+**处置**：本轮以人工 org-suffix 复扫缓解，2 候选入 queue P1 待 R16 建。记录待评审。
+另见 R15 日志 **GROW-JUDGMENT-R15**：为不遗弃此 2 候选，R15 判断性保持 discover_streak_low=2（机械值应为 3）。
+
 ### HK-wanted-pages-space-filter — `build_wanted_pages.py` 误滤含空格的 wikilink target
 
 **现象（GROW R12，2026-07-15 发现）**：`build_wanted_pages.py:73` 将任何含空格的 wikilink target

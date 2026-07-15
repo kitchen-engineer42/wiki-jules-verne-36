@@ -5,7 +5,9 @@
 <!-- R11 NEW1 已建：hudsons-bay-company / royal-geographical-society / north-polar-practical-association / grand-transasiatic-railway-company / peninsular-and-oriental-company -->
 <!-- R13 NEW1 已建：cambridge-observatory / st-louis-fur-company / royal-society / royal-institution / east-india-company -->
 <!-- Reform Club 发现漏判：已存在为 place 页（reform-club，Pilot 期建），未重建；place/org 归类待定，见 housekeeping -->
-<!-- organization P1 队列已清空：queue(organization)=0，语料候选穷尽。R14 预检 zombie-guard 强制 SCN28。 -->
+<!-- R15 SCN28 org-suffix 语料复扫新增（R10 corpus + R12/R14 红链均漏，因未被 wikilink）：-->
+- [organization] Canadian General Transportation Company — WC(The Waif of the Cynthia)；distinctPN≈5；Cynthia 号船东公司，ex-director Joshua Churchill
+- [organization] North-West Company — FC(The Fur Country)；distinctPN≈4；1784 蒙特利尔皮货公司，1821 被 Hudson's Bay 吸收
 
 ## P2 — 中优先级
 <!-- R12 SCN28 红链发现（label-aware 未解析 wikilink 扫描）。跨类型候选，待各自类型轮消费。 -->
