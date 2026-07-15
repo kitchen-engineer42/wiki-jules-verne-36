@@ -1304,6 +1304,28 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "altamont-harbour": {
+      "type": "place",
+      "label": "Altamont Harbour",
+      "aliases": [],
+      "tags": [
+        "place",
+        "harbour",
+        "arctic"
+      ],
+      "path": "al/altamont-harbour.md",
+      "description": "The port on the New America coast named for Altamont, the northern base from which Hatteras's party sails toward the Pole.",
+      "prose_len": 1377,
+      "prose_chars": 1271,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -1892,7 +1914,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "aouda": {
       "type": "character",
@@ -4641,6 +4663,28 @@
       "quality_score": 78,
       "total_refs": 0
     },
+    "dream-bay": {
+      "type": "place",
+      "label": "Dream Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "castaway"
+      ],
+      "path": "dr/dream-bay.md",
+      "description": "The large bight on Godfrey Morgan's castaway island, named by Godfrey himself, where the mysterious chest washes ashore.",
+      "prose_len": 1500,
+      "prose_chars": 1398,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "DSCF-ch01": {
       "type": "chapter",
       "label": "Dick Sand: A Captain at Fifteen — CHAPTER I",
@@ -6294,6 +6338,31 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
+      "total_refs": 0
+    },
+    "falkland-islands": {
+      "type": "place",
+      "label": "Falkland Islands",
+      "aliases": [
+        "Falkland Isles",
+        "The Falklands"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "south-atlantic"
+      ],
+      "path": "fa/falkland-islands.md",
+      "description": "The South-Atlantic archipelago that serves as the Halbrane's last civilized port before her Antarctic voyage in An Antarctic Mystery.",
+      "prose_len": 1720,
+      "prose_chars": 1610,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "An Antarctic Mystery",
       "total_refs": 0
     },
     "falls-river": {
@@ -8271,7 +8340,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Godfrey Morgan",
-      "total_refs": 0
+      "total_refs": 1
     },
     "flotsam-point": {
       "type": "place",
@@ -8449,7 +8518,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Blockade Runners",
-      "total_refs": 1
+      "total_refs": 2
     },
     "from-the-earth-to-the-moon": {
       "type": "work",
@@ -9920,7 +9989,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "gourbi-island": {
       "type": "place",
@@ -11348,7 +11417,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 3
+      "total_refs": 4
     },
     "lake-grant": {
       "type": "place",
@@ -13092,7 +13161,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Blockade Runners",
-      "total_refs": 1
+      "total_refs": 2
     },
     "mount-franklin": {
       "type": "place",
@@ -14278,6 +14347,28 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 60
     },
+    "navy-island": {
+      "type": "place",
+      "label": "Navy Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "niagara"
+      ],
+      "path": "na/navy-island.md",
+      "description": "The island in the Niagara River above the falls, past which the Terror sweeps in The Master of the World.",
+      "prose_len": 1428,
+      "prose_chars": 1326,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "ned-land": {
       "type": "character",
       "label": "Ned Land",
@@ -14394,7 +14485,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nitroglycerine": {
       "type": "technology",
@@ -15837,7 +15928,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -20136,7 +20227,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Godfrey Morgan",
-      "total_refs": 1
+      "total_refs": 2
     },
     "st-louis-fur-company": {
       "type": "organization",
@@ -20229,6 +20320,28 @@
       "quality_score": 72,
       "book": "Journey to the Center of the Earth",
       "total_refs": 2
+    },
+    "sullivan-island": {
+      "type": "place",
+      "label": "Sullivan Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "american-civil-war"
+      ],
+      "path": "su/sullivan-island.md",
+      "description": "The Confederate-held island on the north side of Charleston Harbor, whose channel the Dolphin uses to slip the blockade in The Blockade Runners.",
+      "prose_len": 1786,
+      "prose_chars": 1678,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Blockade Runners",
+      "total_refs": 0
     },
     "survivors-of-the-chancellor": {
       "type": "work",
@@ -20344,7 +20457,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 7
+      "total_refs": 8
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -20397,7 +20510,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 2
+      "total_refs": 3
     },
     "the-chimneys": {
       "type": "place",
@@ -20495,7 +20608,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 6
+      "total_refs": 7
     },
     "the-moon": {
       "type": "place",
@@ -23110,7 +23223,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "victoria-island": {
       "type": "place",
@@ -24080,6 +24193,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "altamont-harbour": "altamont-harbour",
+    "Altamont Harbour": "altamont-harbour",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -24311,6 +24426,8 @@
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
     "Dr. Ox's Experiment": "doctor-oxs-experiment",
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
+    "dream-bay": "dream-bay",
+    "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
     "DSCF-ch02": "DSCF-ch02",
     "DSCF-ch03": "DSCF-ch03",
@@ -24401,6 +24518,10 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "falkland-islands": "falkland-islands",
+    "Falkland Islands": "falkland-islands",
+    "Falkland Isles": "falkland-islands",
+    "The Falklands": "falkland-islands",
     "falls-river": "falls-river",
     "Falls River": "falls-river",
     "faroe-islands": "faroe-islands",
@@ -24900,6 +25021,8 @@
     "MZ-ch05": "MZ-ch05",
     "nautilus": "nautilus",
     "Nautilus": "nautilus",
+    "navy-island": "navy-island",
+    "Navy Island": "navy-island",
     "ned-land": "ned-land",
     "Ned Land": "ned-land",
     "nemo-death": "nemo-death",
@@ -25270,6 +25393,8 @@
     "Return by Volcano": "stromboli-eruption-return",
     "stromboli": "stromboli",
     "Stromboli": "stromboli",
+    "sullivan-island": "sullivan-island",
+    "Sullivan Island": "sullivan-island",
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
@@ -25522,6 +25647,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1165,
-  "generated": "2026-07-15T12:50:29Z"
+  "page_count": 1170,
+  "generated": "2026-07-15T12:59:49Z"
 }

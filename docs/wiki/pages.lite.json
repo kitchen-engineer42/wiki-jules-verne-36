@@ -399,6 +399,12 @@
       ],
       "path": "al/aleutian-islands.md"
     },
+    "altamont-harbour": {
+      "type": "place",
+      "label": "Altamont Harbour",
+      "aliases": [],
+      "path": "al/altamont-harbour.md"
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -1409,6 +1415,12 @@
       ],
       "path": "do/doctor-oxs-experiment.md"
     },
+    "dream-bay": {
+      "type": "place",
+      "label": "Dream Bay",
+      "aliases": [],
+      "path": "dr/dream-bay.md"
+    },
     "DSCF-ch01": {
       "type": "chapter",
       "label": "Dick Sand: A Captain at Fifteen — CHAPTER I",
@@ -1906,6 +1918,15 @@
         "For the Flag"
       ],
       "path": "fa/facing-the-flag.md"
+    },
+    "falkland-islands": {
+      "type": "place",
+      "label": "Falkland Islands",
+      "aliases": [
+        "Falkland Isles",
+        "The Falklands"
+      ],
+      "path": "fa/falkland-islands.md"
     },
     "falls-river": {
       "type": "place",
@@ -4315,6 +4336,12 @@
       "aliases": [],
       "path": "na/nautilus.md"
     },
+    "navy-island": {
+      "type": "place",
+      "label": "Navy Island",
+      "aliases": [],
+      "path": "na/navy-island.md"
+    },
     "ned-land": {
       "type": "character",
       "label": "Ned Land",
@@ -6110,6 +6137,12 @@
       "aliases": [],
       "path": "st/stromboli.md"
     },
+    "sullivan-island": {
+      "type": "place",
+      "label": "Sullivan Island",
+      "aliases": [],
+      "path": "su/sullivan-island.md"
+    },
     "survivors-of-the-chancellor": {
       "type": "work",
       "label": "The Survivors of the Chancellor",
@@ -7335,6 +7368,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "altamont-harbour": "altamont-harbour",
+    "Altamont Harbour": "altamont-harbour",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -7566,6 +7601,8 @@
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
     "Dr. Ox's Experiment": "doctor-oxs-experiment",
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
+    "dream-bay": "dream-bay",
+    "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
     "DSCF-ch02": "DSCF-ch02",
     "DSCF-ch03": "DSCF-ch03",
@@ -7656,6 +7693,10 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "falkland-islands": "falkland-islands",
+    "Falkland Islands": "falkland-islands",
+    "Falkland Isles": "falkland-islands",
+    "The Falklands": "falkland-islands",
     "falls-river": "falls-river",
     "Falls River": "falls-river",
     "faroe-islands": "faroe-islands",
@@ -8155,6 +8196,8 @@
     "MZ-ch05": "MZ-ch05",
     "nautilus": "nautilus",
     "Nautilus": "nautilus",
+    "navy-island": "navy-island",
+    "Navy Island": "navy-island",
     "ned-land": "ned-land",
     "Ned Land": "ned-land",
     "nemo-death": "nemo-death",
@@ -8525,6 +8568,8 @@
     "Return by Volcano": "stromboli-eruption-return",
     "stromboli": "stromboli",
     "Stromboli": "stromboli",
+    "sullivan-island": "sullivan-island",
+    "Sullivan Island": "sullivan-island",
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
@@ -8777,6 +8822,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1165,
-  "generated": "2026-07-15T12:50:29Z"
+  "page_count": 1170,
+  "generated": "2026-07-15T12:59:49Z"
 }

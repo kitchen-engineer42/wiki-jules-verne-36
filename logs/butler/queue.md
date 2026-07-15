@@ -159,9 +159,11 @@
 <!-- Fort Sumter / Morris Island 已 R51 建页，见上 ✔ 注（本处原重复候选行，R51 清理） -->
 - [place] Lake Ontario — MW/PL/RC；agg 7；安大略湖（real，大湖链末湖）
 - [place] Black Sea — ASC/MS/RC/RM/SC/TT；agg 7；黑海（real，跨作）
-- [place] Dream Bay — GM；7；梦湾（fictional，Godfrey 荒岛，接 spencer-island/flag-point）
-- [place] Altamont Harbour — ACH；6；阿尔塔蒙特港（fictional，New America，接 victoria-bay）
-- [place] Falkland Islands — AM/MI/TTLU；agg 6；福克兰群岛（real，接 port-egmont）
+<!-- ✔ [place] Dream Bay — 已建 dream-bay（rev Tm3Zut，GM fictional，段级 7；Godfrey 荒岛所命名之湾，接 spencer-island/flag-point）R52 -->
+<!-- ✔ [place] Altamont Harbour — 已建 altamont-harbour（rev 2Mh5fX，ACH fictional，段级 6；New America 港，接 victoria-bay）R52 -->
+<!-- ✔ [place] Falkland Islands — 已建 falkland-islands（rev RctcCf，AM real，主源 AM:51；Halbrane 南极航前末港，接 port-egmont）R52 -->
+<!-- ✔ [place] Sullivan Island — 已建 sullivan-island（rev xUEngl，BR real，段级 7；Charleston 港北岛/Fort Moultrie，长尾 hold 升格，补全 Charleston 簇）R52 -->
+<!-- ✔ [place] Navy Island — 已建 navy-island（rev woSiRJ，MW real，段级 6；Niagara 河岛，Terror 掠过，长尾 hold 升格）R52 -->
 <!-- ✔ [place] Lake Ukereoue — 已建 lake-ukereoue（rev MJxCPm，FWB real，段级 7；尼罗河源大湖=维多利亚湖旧称，Speke 探险）R51 -->
 <!-- 长尾 5–6 agg 候选暂 hold（Detroit River/Navy Island/Goat Island/Niagara Falls[MW 尼亚加拉簇]、Platte River/North Sea/Chatham Islands/Sullivan Island/Washburn Bay/Lake Barnett/Lake Tinn/Fort Independence/Coronation Gulf/Balearic Isles/Bahama Channel/Caribbean Sea/Cape Bon/Mount Mendif/Blueridge Mountains/Cape Saknussemm/Shannon Island/Mounts Doerfel/Indian Peninsula/Long Island/Antarctic Sea），下轮 discover 或本批消费后再评估。 -->
 
