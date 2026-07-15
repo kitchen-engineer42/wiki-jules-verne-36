@@ -1181,6 +1181,33 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "a-drama-in-the-air": {
+      "type": "work",
+      "label": "A Drama in the Air",
+      "aliases": [
+        "Un drame dans les airs",
+        "A Voyage in a Balloon",
+        "A Drama in the Clouds"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "adventure",
+        "ballooning",
+        "short-story"
+      ],
+      "path": "ad/a-drama-in-the-air.md",
+      "description": "A Jules Verne short story in which a balloonist ascending from Frankfort is joined by an uninvited madman who casts out all the ballast to soar toward death.",
+      "prose_len": 3205,
+      "prose_chars": 3092,
+      "h2_count": 5,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 82,
+      "total_refs": 0
+    },
     "adventures-of-a-special-correspondent": {
       "type": "work",
       "label": "The Adventures of a Special Correspondent",
@@ -10318,6 +10345,31 @@
       "book": "Round the Moon",
       "total_refs": 2
     },
+    "master-zacharius": {
+      "type": "work",
+      "label": "Master Zacharius",
+      "aliases": [
+        "Maître Zacharius",
+        "Master Zacharius, or the Clockmaker Who Lost His Soul",
+        "The Clockmaker Who Lost His Soul"
+      ],
+      "tags": [
+        "work",
+        "fantasy",
+        "science-fiction",
+        "allegory",
+        "geneva"
+      ],
+      "path": "ma/master-zacharius.md",
+      "description": "A Jules Verne fantasy novella in which an aged Geneva clockmaker, believing his life bound to his watches, is destroyed by the pride of science and a diabolical bargain.",
+      "prose_len": 3720,
+      "prose_chars": 3601,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "total_refs": 0
+    },
     "MI-ch01": {
       "type": "chapter",
       "label": "The Mysterious Island — CHAPTER 1",
@@ -18281,6 +18333,59 @@
       "quality_score": 36,
       "total_refs": 3
     },
+    "the-ascent-of-mont-blanc": {
+      "type": "work",
+      "label": "The Ascent of Mont Blanc",
+      "aliases": [
+        "Une ascension au Mont-Blanc",
+        "An Ascent of Mont Blanc",
+        "The Ascent of Mont-Blanc"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "exploration",
+        "mountaineering",
+        "travel-narrative"
+      ],
+      "path": "th/the-ascent-of-mont-blanc.md",
+      "description": "A Jules Verne first-person narrative recounting a perilous 1871 ascent of Mont Blanc from Chamonix, across glaciers, ice-walls, and avalanches to the summit and back.",
+      "prose_len": 3694,
+      "prose_chars": 3577,
+      "h2_count": 5,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 86,
+      "total_refs": 0
+    },
+    "the-blockade-runners": {
+      "type": "work",
+      "label": "The Blockade Runners",
+      "aliases": [
+        "Les Forceurs de blocus",
+        "A Blockade Runner"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "voyage",
+        "civil-war",
+        "romance"
+      ],
+      "path": "th/the-blockade-runners.md",
+      "description": "A Jules Verne novella in which a Glasgow captain runs the Union blockade of Charleston for cotton profit and stays to rescue an imprisoned abolitionist and his daughter.",
+      "prose_len": 2954,
+      "prose_chars": 2842,
+      "h2_count": 5,
+      "pn_count": 5,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 79,
+      "total_refs": 0
+    },
     "the-forward": {
       "type": "technology",
       "label": "The Forward",
@@ -18402,6 +18507,33 @@
       "quality": "featured",
       "quality_score": 74,
       "total_refs": 9
+    },
+    "the-pearl-of-lima": {
+      "type": "work",
+      "label": "The Pearl of Lima",
+      "aliases": [
+        "Martin Paz",
+        "Un drame au Mexique",
+        "The Pearl of Lima: A Story of True Love"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "romance",
+        "tragedy",
+        "peru"
+      ],
+      "path": "th/the-pearl-of-lima.md",
+      "description": "A Jules Verne novella of Lima in which an Indian mountaineer loves a Jewish merchant's daughter who proves to be a lost Spanish nobleman's child, ending in tragedy at a river cataract.",
+      "prose_len": 3074,
+      "prose_chars": 2959,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 80,
+      "total_refs": 0
     },
     "the-terror": {
       "type": "technology",
@@ -21650,6 +21782,11 @@
     "ACH-ch56": "ACH-ch56",
     "ACH-ch57": "ACH-ch57",
     "ACH-ch58": "ACH-ch58",
+    "a-drama-in-the-air": "a-drama-in-the-air",
+    "A Drama in the Air": "a-drama-in-the-air",
+    "Un drame dans les airs": "a-drama-in-the-air",
+    "A Voyage in a Balloon": "a-drama-in-the-air",
+    "A Drama in the Clouds": "a-drama-in-the-air",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -22194,6 +22331,11 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "master-zacharius": "master-zacharius",
+    "Master Zacharius": "master-zacharius",
+    "Maître Zacharius": "master-zacharius",
+    "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
+    "The Clockmaker Who Lost His Soul": "master-zacharius",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -22645,6 +22787,15 @@
     "Tampa": "tampa-town",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
+    "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
+    "The Ascent of Mont Blanc": "the-ascent-of-mont-blanc",
+    "Une ascension au Mont-Blanc": "the-ascent-of-mont-blanc",
+    "An Ascent of Mont Blanc": "the-ascent-of-mont-blanc",
+    "The Ascent of Mont-Blanc": "the-ascent-of-mont-blanc",
+    "the-blockade-runners": "the-blockade-runners",
+    "The Blockade Runners": "the-blockade-runners",
+    "Les Forceurs de blocus": "the-blockade-runners",
+    "A Blockade Runner": "the-blockade-runners",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -22660,6 +22811,11 @@
     "Luna": "the-moon",
     "the-mysterious-island": "the-mysterious-island",
     "The Mysterious Island": "the-mysterious-island",
+    "the-pearl-of-lima": "the-pearl-of-lima",
+    "The Pearl of Lima": "the-pearl-of-lima",
+    "Martin Paz": "the-pearl-of-lima",
+    "Un drame au Mexique": "the-pearl-of-lima",
+    "The Pearl of Lima: A Story of True Love": "the-pearl-of-lima",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -22844,6 +23000,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1060,
-  "generated": "2026-07-15T03:30:27Z"
+  "page_count": 1065,
+  "generated": "2026-07-15T03:57:22Z"
 }

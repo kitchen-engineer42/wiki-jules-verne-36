@@ -358,6 +358,16 @@
       "aliases": [],
       "path": "ac/ACH-ch58.md"
     },
+    "a-drama-in-the-air": {
+      "type": "work",
+      "label": "A Drama in the Air",
+      "aliases": [
+        "Un drame dans les airs",
+        "A Voyage in a Balloon",
+        "A Drama in the Clouds"
+      ],
+      "path": "ad/a-drama-in-the-air.md"
+    },
     "adventures-of-a-special-correspondent": {
       "type": "work",
       "label": "The Adventures of a Special Correspondent",
@@ -3124,6 +3134,16 @@
       ],
       "path": "lu/lunar-projectile.md"
     },
+    "master-zacharius": {
+      "type": "work",
+      "label": "Master Zacharius",
+      "aliases": [
+        "Maître Zacharius",
+        "Master Zacharius, or the Clockmaker Who Lost His Soul",
+        "The Clockmaker Who Lost His Soul"
+      ],
+      "path": "ma/master-zacharius.md"
+    },
     "MI-ch01": {
       "type": "chapter",
       "label": "The Mysterious Island — CHAPTER 1",
@@ -5527,6 +5547,25 @@
       "aliases": [],
       "path": "th/the-adventures-of-captain-hatteras.md"
     },
+    "the-ascent-of-mont-blanc": {
+      "type": "work",
+      "label": "The Ascent of Mont Blanc",
+      "aliases": [
+        "Une ascension au Mont-Blanc",
+        "An Ascent of Mont Blanc",
+        "The Ascent of Mont-Blanc"
+      ],
+      "path": "th/the-ascent-of-mont-blanc.md"
+    },
+    "the-blockade-runners": {
+      "type": "work",
+      "label": "The Blockade Runners",
+      "aliases": [
+        "Les Forceurs de blocus",
+        "A Blockade Runner"
+      ],
+      "path": "th/the-blockade-runners.md"
+    },
     "the-forward": {
       "type": "technology",
       "label": "The Forward",
@@ -5565,6 +5604,16 @@
       "label": "The Mysterious Island",
       "aliases": [],
       "path": "th/the-mysterious-island.md"
+    },
+    "the-pearl-of-lima": {
+      "type": "work",
+      "label": "The Pearl of Lima",
+      "aliases": [
+        "Martin Paz",
+        "Un drame au Mexique",
+        "The Pearl of Lima: A Story of True Love"
+      ],
+      "path": "th/the-pearl-of-lima.md"
     },
     "the-terror": {
       "type": "technology",
@@ -6594,6 +6643,11 @@
     "ACH-ch56": "ACH-ch56",
     "ACH-ch57": "ACH-ch57",
     "ACH-ch58": "ACH-ch58",
+    "a-drama-in-the-air": "a-drama-in-the-air",
+    "A Drama in the Air": "a-drama-in-the-air",
+    "Un drame dans les airs": "a-drama-in-the-air",
+    "A Voyage in a Balloon": "a-drama-in-the-air",
+    "A Drama in the Clouds": "a-drama-in-the-air",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -7138,6 +7192,11 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "master-zacharius": "master-zacharius",
+    "Master Zacharius": "master-zacharius",
+    "Maître Zacharius": "master-zacharius",
+    "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
+    "The Clockmaker Who Lost His Soul": "master-zacharius",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -7589,6 +7648,15 @@
     "Tampa": "tampa-town",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
+    "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
+    "The Ascent of Mont Blanc": "the-ascent-of-mont-blanc",
+    "Une ascension au Mont-Blanc": "the-ascent-of-mont-blanc",
+    "An Ascent of Mont Blanc": "the-ascent-of-mont-blanc",
+    "The Ascent of Mont-Blanc": "the-ascent-of-mont-blanc",
+    "the-blockade-runners": "the-blockade-runners",
+    "The Blockade Runners": "the-blockade-runners",
+    "Les Forceurs de blocus": "the-blockade-runners",
+    "A Blockade Runner": "the-blockade-runners",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -7604,6 +7672,11 @@
     "Luna": "the-moon",
     "the-mysterious-island": "the-mysterious-island",
     "The Mysterious Island": "the-mysterious-island",
+    "the-pearl-of-lima": "the-pearl-of-lima",
+    "The Pearl of Lima": "the-pearl-of-lima",
+    "Martin Paz": "the-pearl-of-lima",
+    "Un drame au Mexique": "the-pearl-of-lima",
+    "The Pearl of Lima: A Story of True Love": "the-pearl-of-lima",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -7788,6 +7861,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1060,
-  "generated": "2026-07-15T03:30:27Z"
+  "page_count": 1065,
+  "generated": "2026-07-15T03:57:22Z"
 }
