@@ -23,7 +23,24 @@
 <!-- ✔ [place] Stone's Hill → 实名 Stony Hill — 已建 stony-hill（rev qnxGqg；FEM 25 命中/9 distinctPN；Gun Club 铸 Columbiad 基地）R31，见 P2 原条 -->
 <!-- ✔ [place] Pacific Railroad — 已建 pacific-railroad（rev yVmD3f；borderline place/org 定 place；AWED 6 distinctPN；aliases 收 Union/Central Pacific）R31，见 P2 原条 -->
 <!-- ⚠ Fort Providence — R30 降级（薄候选，语料仅 3 处并列命名），不单建 place，留 list 提及。 -->
-<!-- ▶ 下一门预测：R32 place — since_corpus=30 达 corpus_discover_interval → SCN28-corpus 深扫补种（排除既有 Pilot 真实地理 Iceland/Baltimore/Tampa Town）。 -->
+<!-- ═══ R32 SCN28-corpus 深扫补种（+15 place 候选，distinctPN 为扫描估值，建页前实测校准）═══ -->
+<!-- Lincoln Island 微地理簇（The Mysterious Island MI/SI，fictional）：承既有 lincoln-island/granite-house/mount-franklin/prospect-heights/the-chimneys 链 -->
+- [place] Port Balloon — MI(The Mysterious Island)；scan distinctPN≈43；Lincoln Island 南岸良港
+- [place] Lake Grant — MI；scan distinctPN≈28；Lincoln Island 中央湖
+- [place] Flotsam Point — MI；scan distinctPN≈26；Lincoln Island 岬角
+- [place] Falls River — MI；scan distinctPN≈25；Lincoln Island 河流
+- [place] Serpentine Peninsula — MI；scan distinctPN≈24；Lincoln Island 蛇形半岛
+- [place] Union Bay — MI；scan distinctPN≈22；Lincoln Island 东岸海湾
+- [place] Shark Gulf — MI；scan distinctPN≈18；Lincoln Island 鲨鱼湾
+- [place] Flag Point — MI；scan distinctPN≈14；Lincoln Island 旗岬
+<!-- 其它真实/虚构地理（各源作）-->
+- [place] Twofold Bay — SC(In Search of the Castaways)；scan distinctPN≈39；澳洲 NSW 真实海湾（real）
+- [place] Lake Tchad — FWB(Five Weeks in a Balloon)；scan distinctPN≈32；非洲乍得湖（real）
+- [place] Snowy River — SC；scan distinctPN≈20；澳洲斯诺伊河（real）
+- [place] Lake Kirdall — MW(The Master of the World)；scan distinctPN≈15；Robur 邻近湖（fictional）
+- [place] Loch Katrine — SC/UC；scan distinctPN≈14；苏格兰卡特琳湖（real）
+- [place] Christmas Harbour — AM(An Antarctic Mystery)；scan distinctPN≈13；凯尔盖朗岛港（real）
+- [place] Port Barnett — FC(The Fur Country)；scan distinctPN≈12；Cape Bathurst 要塞港（接既有 FC 链）
 
 <!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
 <!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
