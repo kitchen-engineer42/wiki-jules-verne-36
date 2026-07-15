@@ -43,15 +43,48 @@
 <!-- ✔ [place] Loch Katrine — 已建 loch-katrine（rev vNteHt，UC，real，实测 14；New Aberfoyle 之上真湖，溃陷排空）R35 -->
 <!-- ✔ [place] Christmas Harbour — 已建 christmas-harbour（rev 6jWfE4，AM，real，实测 13；凯尔盖朗 Halbrane 泊地）R35 -->
 <!-- ✔ [place] Port Barnett — 已建 port-barnett（rev aPNNFm，FC，fictional，实测 12；Cape Bathurst 港，随岛漂散）R35 -->
-<!-- R36 起 place 队列见底 → zombie-guard/SCN28 触发；连续低产 streak≥3 → CLOSE place 转 event。 -->
+<!-- ═══ R36 SCN28 表层复扫（全 36 部地理标记词全量扫描，distinctPN≥5，排除 42 既有 place）═══ -->
+<!-- 高产 discover（new_candidates=26 ≫ 3）：证明 place 未穷尽——R32 SCN28-corpus 深扫仅覆盖窄簇，-->
+<!-- 本轮以 (Cape|Lake|Mount|Fort|Port|Loch|Gulf|Isle)+Name 及 Name+(Island|Bay|River|Sea|Point|-->
+<!-- Peninsula|Harbour|Strait|Falls|Creek) 全标记扫描，按源作 grep 拆分 distinctPN（已排除跨源聚合误报）。 -->
+<!-- ⚠ Fort Providence 勘误：R30 曾「降级」记语料仅 3 处——实为源作误判，实测 ACH:22 distinctPN（Hatteras 北极），非薄候选，本轮恢复入队。 -->
+<!-- ✗ Flag Point 续弃：本轮聚合仍报 14，实测 GM 仅 4 distinctPN（R34 已弃），不入队。 -->
+<!-- Lincoln Island 簇补漏（MI，fictional，承既有岛链）：-->
+- [place] Claw Cape — MI(The Mysterious Island)；MI:32；林肯岛西南岬（fictional）
+- [place] Red Creek — MI；MI:24；林肯岛红溪（fictional）
+<!-- The Fur Country 簇（FC，承 cape-bathurst/port-barnett/victoria-island 漂流链）：-->
+- [place] Fort Hope — FC(The Fur Country)；FC:66；漂流殖民地中心要塞（fictional，重大补漏）
+- [place] Cape Michael — FC；FC:25；port-barnett 邻岬（fictional）
+- [place] Cape Esquimaux — FC；FC:23；漂流半岛岬（fictional）
+- [place] Behring Strait — FC；FC:22；白令海峡（real）
+- [place] Polar Sea — FC；FC:14；北极海（real/generic，建前定名）
+- [place] Bear Lake — FC；FC:11；大熊湖（real）
+<!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
+- [place] Tsalal Island — AM(An Antarctic Mystery)；AM:61；Poe 之谜岛（fictional）
+- [place] Fort Providence — ACH(Adventures of Captain Hatteras)；ACH:22；北极越冬堡（real，R30 误降级已勘误）
+- [place] Beechey Island — ACH；ACH:20；比奇岛（real）
+- [place] Melville Island — ACH；ACH:9；梅尔维尔岛（real，borderline）
+<!-- Off on a Comet（OC，fictional 彗星世界）：-->
+- [place] Gourbi Island — OC(Off on a Comet)；OC:41；Gallia 上残存岛（fictional）
+- [place] Gallian Sea — OC；OC:12；彗星 Gallia 之海（fictional）
+<!-- Godfrey Morgan（GM，fictional 荒岛）：-->
+- [place] Phina Island — GM(Godfrey Morgan)；GM:40；Godfrey 漂流荒岛（fictional）
+- [place] Spencer Island — GM；GM:18；同书岛屿（fictional）
+<!-- TTLU 真实海/海峡（Nautilus 航线）：-->
+- [place] Red Sea — TTLU(Twenty Thousand Leagues)；TTLU:28；红海（real）
+- [place] Gulf Stream — TTLU；TTLU:18；墨西哥湾流（real）
+- [place] Torres Strait — TTLU；TTLU:15；托雷斯海峡（real）
+<!-- 其它真实地理（各源作，建前实测校准）：-->
+- [place] Lake Erie — MW(The Master of the World)；MW:27；伊利湖（real）
+- [place] Lake Baikal — MS(Michael Strogoff)；MS:12；贝加尔湖（real）
+- [place] Cape Bernouilli — SC(In Search of the Castaways)；SC:10；澳洲 37 度线起点岬（real，接 twofold-bay 链）
+- [place] Cape Horn — TTLU/SC；主源 TTLU:9；合恩角（real，跨作）
+- [place] Rocky Mountains — RM 等；主源 RM:9；落基山脉（real，跨作）
+- [place] Loch Malcolm — UC(The Underground City)；UC:13；New Aberfoyle 地下湖（fictional，接 loch-katrine/new-aberfoyle）
 <!-- 其它真实/虚构地理（各源作）-->
 <!-- ✔ Twofold Bay / Lake Tchad / Snowy River 已建 R34（见上簇注）-->
 <!-- ✔ Lake Kirdall / Loch Katrine / Christmas Harbour / Port Barnett 已建 R35（深扫末批，见上）-->
-<!-- （place 深扫候选已全数消费；下批 place 候选待 SCN28-corpus 到期重扫或 CLOSE 后转 event）-->
-<!-- ✔ [place] Loch Katrine — 已建 loch-katrine（rev vNteHt）R35，见上 -->
-<!-- ✔ [place] Christmas Harbour — 已建 christmas-harbour（rev 6jWfE4）R35，见上 -->
-<!-- ✔ [place] Port Barnett — 已建 port-barnett（rev aPNNFm）R35，见上 -->
-<!-- ✔ [place] Lake Kirdall — 已建 lake-kirdall（rev PFOGz1）R35，见上 -->
+<!-- R32 深扫末批已 R35 消费完毕；R36 SCN28 表层复扫重开 place 候选池（见上 26 候选）。 -->
 <!-- 以下 P2 为跨类型红链候选（character 等），待各自类型轮消费，非 place -->
 <!-- Loch Katrine 源作勘误：queue 原注 SC/UC，实测主源 UC（The Underground City），SC 仅 1 处并列（SC-006-027），故 book=UC -->
 
