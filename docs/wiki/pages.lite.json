@@ -1114,6 +1114,14 @@
       "aliases": [],
       "path": "co/conseil.md"
     },
+    "crespo-island": {
+      "type": "place",
+      "label": "Crespo Island",
+      "aliases": [
+        "Rocca de la Plata"
+      ],
+      "path": "cr/crespo-island.md"
+    },
     "cyrus-harding": {
       "type": "character",
       "label": "Cyrus Harding",
@@ -4337,6 +4345,15 @@
       "aliases": [],
       "path": "ox/oxyhydric-gas.md"
     },
+    "pacific-railroad": {
+      "type": "place",
+      "label": "Pacific Railroad",
+      "aliases": [
+        "Union Pacific",
+        "Central Pacific"
+      ],
+      "path": "pa/pacific-railroad.md"
+    },
     "passepartout": {
       "type": "character",
       "label": "Passepartout",
@@ -5679,6 +5696,12 @@
       ],
       "path": "st/st-louis-fur-company.md"
     },
+    "stony-hill": {
+      "type": "place",
+      "label": "Stony Hill",
+      "aliases": [],
+      "path": "st/stony-hill.md"
+    },
     "stromboli-eruption-return": {
       "type": "event",
       "label": "The Stromboli Eruption",
@@ -7005,6 +7028,9 @@
     "Columbiad": "columbiad",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "crespo-island": "crespo-island",
+    "Crespo Island": "crespo-island",
+    "Rocca de la Plata": "crespo-island",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -7644,6 +7670,10 @@
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
+    "pacific-railroad": "pacific-railroad",
+    "Pacific Railroad": "pacific-railroad",
+    "Union Pacific": "pacific-railroad",
+    "Central Pacific": "pacific-railroad",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -7901,6 +7931,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stony-hill": "stony-hill",
+    "Stony Hill": "stony-hill",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -8139,6 +8171,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1093,
-  "generated": "2026-07-15T10:28:00Z"
+  "page_count": 1096,
+  "generated": "2026-07-15T10:38:48Z"
 }

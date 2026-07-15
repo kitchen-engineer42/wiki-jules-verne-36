@@ -3652,7 +3652,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "From the Earth to the Moon",
-      "total_refs": 44
+      "total_refs": 45
     },
     "conseil": {
       "type": "character",
@@ -3675,6 +3675,30 @@
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 48
+    },
+    "crespo-island": {
+      "type": "place",
+      "label": "Crespo Island",
+      "aliases": [
+        "Rocca de la Plata"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "underwater"
+      ],
+      "path": "cr/crespo-island.md",
+      "description": "A Pacific islet whose submerged forests serve as Captain Nemo's undersea hunting ground in Twenty Thousand Leagues Under the Seas.",
+      "prose_len": 2413,
+      "prose_chars": 2303,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Twenty Thousand Leagues Under the Seas",
+      "total_refs": 0
     },
     "cyrus-harding": {
       "type": "character",
@@ -9387,7 +9411,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 17
+      "total_refs": 18
     },
     "gun-cotton": {
       "type": "technology",
@@ -13152,7 +13176,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 56
+      "total_refs": 57
     },
     "ned-land": {
       "type": "character",
@@ -14325,6 +14349,31 @@
       "quality_score": 78,
       "book": "Doctor Ox's Experiment",
       "total_refs": 1
+    },
+    "pacific-railroad": {
+      "type": "place",
+      "label": "Pacific Railroad",
+      "aliases": [
+        "Union Pacific",
+        "Central Pacific"
+      ],
+      "tags": [
+        "place",
+        "railway",
+        "united-states"
+      ],
+      "path": "pa/pacific-railroad.md",
+      "description": "The American transcontinental railway that carries Phileas Fogg across the continent in Around the World in Eighty Days.",
+      "prose_len": 2359,
+      "prose_chars": 2247,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
     },
     "passepartout": {
       "type": "character",
@@ -18769,6 +18818,28 @@
       "book": "The Fur Country",
       "total_refs": 1
     },
+    "stony-hill": {
+      "type": "place",
+      "label": "Stony Hill",
+      "aliases": [],
+      "tags": [
+        "place",
+        "florida",
+        "gun-club"
+      ],
+      "path": "st/stony-hill.md",
+      "description": "The barren Florida hill where the Gun Club casts and buries its giant Columbiad cannon in From the Earth to the Moon.",
+      "prose_len": 2875,
+      "prose_chars": 2767,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "book": "From the Earth to the Moon",
+      "total_refs": 0
+    },
     "stromboli-eruption-return": {
       "type": "event",
       "label": "The Stromboli Eruption",
@@ -18907,7 +18978,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "From the Earth to the Moon",
-      "total_refs": 16
+      "total_refs": 17
     },
     "the-adventures-of-captain-hatteras": {
       "type": "work",
@@ -22608,6 +22679,9 @@
     "Columbiad": "columbiad",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "crespo-island": "crespo-island",
+    "Crespo Island": "crespo-island",
+    "Rocca de la Plata": "crespo-island",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -23247,6 +23321,10 @@
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
+    "pacific-railroad": "pacific-railroad",
+    "Pacific Railroad": "pacific-railroad",
+    "Union Pacific": "pacific-railroad",
+    "Central Pacific": "pacific-railroad",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -23504,6 +23582,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stony-hill": "stony-hill",
+    "Stony Hill": "stony-hill",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -23742,6 +23822,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1093,
-  "generated": "2026-07-15T10:28:00Z"
+  "page_count": 1096,
+  "generated": "2026-07-15T10:38:48Z"
 }

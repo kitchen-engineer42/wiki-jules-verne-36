@@ -18,7 +18,13 @@
 <!-- ✔ [place] New Aberfoyle — 已建 new-aberfoyle（rev lemUhm；地下村落实名 Coal Town，非 Coal City；地下湖 Loch Malcolm）-->
 <!-- ✔ [place] Back Cup — 已建 back-cup（rev CgRXkQ；实测 111 命中/11 distinctPN，替 Fort Providence 入本批）-->
 <!-- ⚠ [place] Fort Providence — 降级：语料仅 3 处直接命名（多为并列地名），不足 standard ≥5 引注；不单建 place，留 list 页提及。 -->
-- [place] Crespo Island — 20KL(Twenty Thousand Leagues)；distinctPN≈7；Nautilus 海底森林猎场（虚构海岛）
+<!-- ✔ [place] Crespo Island — 已建 crespo-island（rev 8YgtOo；VVV 实为 TTLU 非 20KL；13 命中/7 distinctPN；Nautilus 海底森林猎场）R31 -->
+<!-- R31 NEW1 已建 3 页：crespo-island（TTLU）/ stony-hill（FEM）/ pacific-railroad（AWED）。place P1 清空。 -->
+<!-- ✔ [place] Stone's Hill → 实名 Stony Hill — 已建 stony-hill（rev qnxGqg；FEM 25 命中/9 distinctPN；Gun Club 铸 Columbiad 基地）R31，见 P2 原条 -->
+<!-- ✔ [place] Pacific Railroad — 已建 pacific-railroad（rev yVmD3f；borderline place/org 定 place；AWED 6 distinctPN；aliases 收 Union/Central Pacific）R31，见 P2 原条 -->
+<!-- ⚠ Fort Providence — R30 降级（薄候选，语料仅 3 处并列命名），不单建 place，留 list 提及。 -->
+<!-- ▶ 下一门预测：R32 place — since_corpus=30 达 corpus_discover_interval → SCN28-corpus 深扫补种（排除既有 Pilot 真实地理 Iceland/Baltimore/Tampa Town）。 -->
+
 <!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
 <!-- ⚠ R28 修正：首稿误将 Lincoln Island/Granite House/Sneffels 列为新候选，实为既有 Pilot 页；已剔除并以上列 12 真新候选替换（同 technology R21 需排除 16 Pilot 页之教训）。 -->
 <!-- borderline 真实地理已有 Pilot 页：iceland/baltimore/tampa-town 均既有，不重建。 -->
@@ -58,10 +64,12 @@
 - [character] Major Noltitz — ASC；红链；Transasiatic 老练旅客
 - [character] Sir Francis Cromarty — AWED；红链；Fogg 在 Mongolia 上的惠斯特牌友
 - [character] Joam Garral — Jangada；红链；《亚马逊漂流记》主角
-- [place] Stone's Hill — FEM；红链；Gun Club 铸 Columbiad 巨炮的佛州基地
+<!-- ✔ [place] Stone's Hill（实名 Stony Hill）— 已建 stony-hill（rev qnxGqg）R31 -->
+
 <!-- R14 SCN28 新增（label-aware 扫描，organization 页 member wikilink 引入）-->
 - [character] James Starr — UC(The Underground City)；红链×2；Aberfoyle 矿工程师，Royal Institution 核心成员
 <!-- R17 SCN28 broadened 复扫新增（borderline place/org，按铁路线路/基础设施定 place，待 place 类型轮消费）-->
-- [place] Pacific Railroad — AWED/GM/RC；distinctPN≈10；横贯美洲铁路（Central + Union Pacific）；borderline place/org，暂定 place
+<!-- ✔ [place] Pacific Railroad — 已建 pacific-railroad（rev yVmD3f，AWED，borderline 定 place）R31 -->
+
 
 ## P3 — 发现型（每11轮触发）
