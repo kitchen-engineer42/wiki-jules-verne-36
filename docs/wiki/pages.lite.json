@@ -942,6 +942,16 @@
       "aliases": [],
       "path": "aw/AWED-ch37.md"
     },
+    "a-winter-amid-the-ice": {
+      "type": "work",
+      "label": "A Winter Amid the Ice",
+      "aliases": [
+        "Un hivernage dans les glaces",
+        "A Winter's Sojourn in the Ice",
+        "Winter Amid the Ice"
+      ],
+      "path": "aw/a-winter-amid-the-ice.md"
+    },
     "axel": {
       "type": "character",
       "label": "Axel",
@@ -1200,6 +1210,16 @@
       "label": "Doctor Ox‘s Experiment — CHAPTER XVII. IN WHICH DOCTOR OX’S THEORY IS EXPLAINED",
       "aliases": [],
       "path": "do/DOSE-ch17.md"
+    },
+    "doctor-oxs-experiment": {
+      "type": "work",
+      "label": "Doctor Ox's Experiment",
+      "aliases": [
+        "Une fantaisie du Docteur Ox",
+        "Dr. Ox's Experiment",
+        "A Fantasy of Doctor Ox"
+      ],
+      "path": "do/doctor-oxs-experiment.md"
     },
     "DSCF-ch01": {
       "type": "chapter",
@@ -1683,6 +1703,15 @@
       "label": "The Eighty-Day Wager",
       "aliases": [],
       "path": "ei/eighty-day-wager.md"
+    },
+    "facing-the-flag": {
+      "type": "work",
+      "label": "Facing the Flag",
+      "aliases": [
+        "Face au drapeau",
+        "For the Flag"
+      ],
+      "path": "fa/facing-the-flag.md"
     },
     "FC-ch01": {
       "type": "chapter",
@@ -5514,6 +5543,15 @@
       ],
       "path": "th/the-fur-country.md"
     },
+    "the-master-of-the-world": {
+      "type": "work",
+      "label": "The Master of the World",
+      "aliases": [
+        "Maître du monde",
+        "Master of the World"
+      ],
+      "path": "th/the-master-of-the-world.md"
+    },
     "the-moon": {
       "type": "place",
       "label": "The Moon",
@@ -5535,6 +5573,17 @@
         "Épouvante"
       ],
       "path": "th/the-terror.md"
+    },
+    "the-underground-city": {
+      "type": "work",
+      "label": "The Underground City",
+      "aliases": [
+        "Les Indes noires",
+        "The Black Indies",
+        "The Child of the Cavern",
+        "The Underground City, or The Black Indies"
+      ],
+      "path": "th/the-underground-city.md"
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -6651,6 +6700,11 @@
     "AWED-ch35": "AWED-ch35",
     "AWED-ch36": "AWED-ch36",
     "AWED-ch37": "AWED-ch37",
+    "a-winter-amid-the-ice": "a-winter-amid-the-ice",
+    "A Winter Amid the Ice": "a-winter-amid-the-ice",
+    "Un hivernage dans les glaces": "a-winter-amid-the-ice",
+    "A Winter's Sojourn in the Ice": "a-winter-amid-the-ice",
+    "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
     "baltimore": "baltimore",
@@ -6714,6 +6768,11 @@
     "DOSE-ch15": "DOSE-ch15",
     "DOSE-ch16": "DOSE-ch16",
     "DOSE-ch17": "DOSE-ch17",
+    "doctor-oxs-experiment": "doctor-oxs-experiment",
+    "Doctor Ox's Experiment": "doctor-oxs-experiment",
+    "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
+    "Dr. Ox's Experiment": "doctor-oxs-experiment",
+    "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
     "DSCF-ch01": "DSCF-ch01",
     "DSCF-ch02": "DSCF-ch02",
     "DSCF-ch03": "DSCF-ch03",
@@ -6798,6 +6857,10 @@
     "La Jangada": "eight-hundred-leagues-on-the-amazon",
     "eighty-day-wager": "eighty-day-wager",
     "The Eighty-Day Wager": "eighty-day-wager",
+    "facing-the-flag": "facing-the-flag",
+    "Facing the Flag": "facing-the-flag",
+    "Face au drapeau": "facing-the-flag",
+    "For the Flag": "facing-the-flag",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -7532,6 +7595,10 @@
     "the-fur-country": "the-fur-country",
     "The Fur Country": "the-fur-country",
     "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
+    "the-master-of-the-world": "the-master-of-the-world",
+    "The Master of the World": "the-master-of-the-world",
+    "Maître du monde": "the-master-of-the-world",
+    "Master of the World": "the-master-of-the-world",
     "the-moon": "the-moon",
     "The Moon": "the-moon",
     "Luna": "the-moon",
@@ -7540,6 +7607,12 @@
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
+    "the-underground-city": "the-underground-city",
+    "The Underground City": "the-underground-city",
+    "Les Indes noires": "the-underground-city",
+    "The Black Indies": "the-underground-city",
+    "The Child of the Cavern": "the-underground-city",
+    "The Underground City, or The Black Indies": "the-underground-city",
     "the-waif-of-the-cynthia": "the-waif-of-the-cynthia",
     "The Waif of the Cynthia": "the-waif-of-the-cynthia",
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
@@ -7715,6 +7788,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1055,
-  "generated": "2026-07-15T03:14:58Z"
+  "page_count": 1060,
+  "generated": "2026-07-15T03:30:27Z"
 }

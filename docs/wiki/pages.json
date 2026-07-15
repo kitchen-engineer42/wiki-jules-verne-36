@@ -3122,6 +3122,33 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 1
     },
+    "a-winter-amid-the-ice": {
+      "type": "work",
+      "label": "A Winter Amid the Ice",
+      "aliases": [
+        "Un hivernage dans les glaces",
+        "A Winter's Sojourn in the Ice",
+        "Winter Amid the Ice"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "voyage",
+        "arctic",
+        "rescue"
+      ],
+      "path": "aw/a-winter-amid-the-ice.md",
+      "description": "A Jules Verne novella in which an old Dunkirk sailor voyages into the Arctic to rescue his shipwrecked son, wintering amid the ice against treachery and polar bears.",
+      "prose_len": 2882,
+      "prose_chars": 2770,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "total_refs": 0
+    },
     "axel": {
       "type": "character",
       "label": "Axel",
@@ -3969,6 +3996,33 @@
       "book_seq": 260,
       "book": "Doctor Ox's Experiment",
       "total_refs": 1
+    },
+    "doctor-oxs-experiment": {
+      "type": "work",
+      "label": "Doctor Ox's Experiment",
+      "aliases": [
+        "Une fantaisie du Docteur Ox",
+        "Dr. Ox's Experiment",
+        "A Fantasy of Doctor Ox"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "satire",
+        "chemistry",
+        "flanders"
+      ],
+      "path": "do/doctor-oxs-experiment.md",
+      "description": "A Jules Verne satirical novella in which a scientist secretly floods a placid Flemish town with pure oxygen to see what excitement it will breed.",
+      "prose_len": 2820,
+      "prose_chars": 2707,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "total_refs": 0
     },
     "DSCF-ch01": {
       "type": "chapter",
@@ -5576,6 +5630,32 @@
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
       "total_refs": 1
+    },
+    "facing-the-flag": {
+      "type": "work",
+      "label": "Facing the Flag",
+      "aliases": [
+        "Face au drapeau",
+        "For the Flag"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "adventure",
+        "invention",
+        "piracy"
+      ],
+      "path": "fa/facing-the-flag.md",
+      "description": "A Jules Verne novel in which pirates abduct the inventor of a super-weapon, whose patriotism at last turns his own fulgurator against them.",
+      "prose_len": 2925,
+      "prose_chars": 2814,
+      "h2_count": 5,
+      "pn_count": 6,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 79,
+      "total_refs": 0
     },
     "FC-ch01": {
       "type": "chapter",
@@ -18251,6 +18331,32 @@
       "quality_score": 40,
       "total_refs": 0
     },
+    "the-master-of-the-world": {
+      "type": "work",
+      "label": "The Master of the World",
+      "aliases": [
+        "Maître du monde",
+        "Master of the World"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "adventure",
+        "invention",
+        "aviation"
+      ],
+      "path": "th/the-master-of-the-world.md",
+      "description": "A Jules Verne novel in which a federal inspector pursues Robur and his all-terrain machine the Terror, whose inventor proclaims himself master of the world.",
+      "prose_len": 2717,
+      "prose_chars": 2607,
+      "h2_count": 5,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 77,
+      "total_refs": 3
+    },
     "the-moon": {
       "type": "place",
       "label": "The Moon",
@@ -18322,6 +18428,34 @@
       "quality_score": 71,
       "book": "Master of the World",
       "total_refs": 2
+    },
+    "the-underground-city": {
+      "type": "work",
+      "label": "The Underground City",
+      "aliases": [
+        "Les Indes noires",
+        "The Black Indies",
+        "The Child of the Cavern",
+        "The Underground City, or The Black Indies"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "mystery",
+        "mining",
+        "scotland"
+      ],
+      "path": "th/the-underground-city.md",
+      "description": "A Jules Verne novel set in the Scottish coal mines, in which the discovery of a new seam opens an underground world haunted by a vengeful old miner.",
+      "prose_len": 2766,
+      "prose_chars": 2654,
+      "h2_count": 5,
+      "pn_count": 5,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 77,
+      "total_refs": 0
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -21622,6 +21756,11 @@
     "AWED-ch35": "AWED-ch35",
     "AWED-ch36": "AWED-ch36",
     "AWED-ch37": "AWED-ch37",
+    "a-winter-amid-the-ice": "a-winter-amid-the-ice",
+    "A Winter Amid the Ice": "a-winter-amid-the-ice",
+    "Un hivernage dans les glaces": "a-winter-amid-the-ice",
+    "A Winter's Sojourn in the Ice": "a-winter-amid-the-ice",
+    "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
     "baltimore": "baltimore",
@@ -21685,6 +21824,11 @@
     "DOSE-ch15": "DOSE-ch15",
     "DOSE-ch16": "DOSE-ch16",
     "DOSE-ch17": "DOSE-ch17",
+    "doctor-oxs-experiment": "doctor-oxs-experiment",
+    "Doctor Ox's Experiment": "doctor-oxs-experiment",
+    "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
+    "Dr. Ox's Experiment": "doctor-oxs-experiment",
+    "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
     "DSCF-ch01": "DSCF-ch01",
     "DSCF-ch02": "DSCF-ch02",
     "DSCF-ch03": "DSCF-ch03",
@@ -21769,6 +21913,10 @@
     "La Jangada": "eight-hundred-leagues-on-the-amazon",
     "eighty-day-wager": "eighty-day-wager",
     "The Eighty-Day Wager": "eighty-day-wager",
+    "facing-the-flag": "facing-the-flag",
+    "Facing the Flag": "facing-the-flag",
+    "Face au drapeau": "facing-the-flag",
+    "For the Flag": "facing-the-flag",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -22503,6 +22651,10 @@
     "the-fur-country": "the-fur-country",
     "The Fur Country": "the-fur-country",
     "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
+    "the-master-of-the-world": "the-master-of-the-world",
+    "The Master of the World": "the-master-of-the-world",
+    "Maître du monde": "the-master-of-the-world",
+    "Master of the World": "the-master-of-the-world",
     "the-moon": "the-moon",
     "The Moon": "the-moon",
     "Luna": "the-moon",
@@ -22511,6 +22663,12 @@
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
+    "the-underground-city": "the-underground-city",
+    "The Underground City": "the-underground-city",
+    "Les Indes noires": "the-underground-city",
+    "The Black Indies": "the-underground-city",
+    "The Child of the Cavern": "the-underground-city",
+    "The Underground City, or The Black Indies": "the-underground-city",
     "the-waif-of-the-cynthia": "the-waif-of-the-cynthia",
     "The Waif of the Cynthia": "the-waif-of-the-cynthia",
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
@@ -22686,6 +22844,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1055,
-  "generated": "2026-07-15T03:14:58Z"
+  "page_count": 1060,
+  "generated": "2026-07-15T03:30:27Z"
 }
