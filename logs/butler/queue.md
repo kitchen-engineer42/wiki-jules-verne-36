@@ -63,8 +63,9 @@
 - [place] Bear Lake — FC；FC:11；大熊湖（real）
 <!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
 <!-- ✔ [place] Tsalal Island — 已建 tsalal-island（rev 2xuDfE，AM，实测 61；接 christmas-harbour）R37 -->
-- [place] Fort Providence — ACH(Adventures of Captain Hatteras)；ACH:22；北极越冬堡（real，R30 误降级已勘误）
-- [place] Beechey Island — ACH；ACH:20；比奇岛（real）
+<!-- ✔ [place] Fort Providence — 已建 fort-providence（rev P7ngFy，ACH fictional，实测严扫 22）R40 -->
+<!-- ✔ [place] Beechey Island — 已建 beechey-island（rev 5uyZIE，ACH real，实测 23）R40 -->
+
 - [place] Melville Island — ACH；ACH:9；梅尔维尔岛（real，borderline）
 <!-- Off on a Comet（OC，fictional 彗星世界）：-->
 <!-- ✔ [place] Gourbi Island — 已建 gourbi-island（rev 2c7uBR，OC，实测 41）R38 -->
@@ -76,10 +77,10 @@
 <!-- TTLU 真实海/海峡（Nautilus 航线）：-->
 <!-- ✔ [place] Red Sea — 已建 red-sea（rev RGgbET，TTLU real，实测 28；注入 nautilus）R38 -->
 
-- [place] Gulf Stream — TTLU；TTLU:18；墨西哥湾流（real）
-- [place] Torres Strait — TTLU；TTLU:15；托雷斯海峡（real）
+<!-- ✔ [place] Gulf Stream — 已建 gulf-stream（rev MglZSp，TTLU real，实测 18）R40 -->
+<!-- ✔ [place] Torres Strait — 已建 torres-strait（rev qxYQqX，TTLU real，实测 16）R40 -->
 <!-- 其它真实地理（各源作，建前实测校准）：-->
-- [place] Lake Erie — MW(The Master of the World)；MW:27；伊利湖（real）
+<!-- ✔ [place] Lake Erie — 已建 lake-erie（rev XonrDi，MW real，实测 27）R40 -->
 - [place] Lake Baikal — MS(Michael Strogoff)；MS:12；贝加尔湖（real）
 - [place] Cape Bernouilli — SC(In Search of the Castaways)；SC:10；澳洲 37 度线起点岬（real，接 twofold-bay 链）
 - [place] Cape Horn — TTLU/SC；主源 TTLU:9；合恩角（real，跨作）

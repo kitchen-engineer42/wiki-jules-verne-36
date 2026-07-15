@@ -995,6 +995,12 @@
       ],
       "path": "ba/barbicane.md"
     },
+    "beechey-island": {
+      "type": "place",
+      "label": "Beechey Island",
+      "aliases": [],
+      "path": "be/beechey-island.md"
+    },
     "behring-strait": {
       "type": "place",
       "label": "Behring Strait",
@@ -2401,6 +2407,12 @@
       "aliases": [],
       "path": "fo/fort-hope.md"
     },
+    "fort-providence": {
+      "type": "place",
+      "label": "Fort Providence",
+      "aliases": [],
+      "path": "fo/fort-providence.md"
+    },
     "fort-reliance": {
       "type": "place",
       "label": "Fort Reliance",
@@ -2887,6 +2899,12 @@
       "aliases": [],
       "path": "gr/great-eyrie.md"
     },
+    "gulf-stream": {
+      "type": "place",
+      "label": "Gulf Stream",
+      "aliases": [],
+      "path": "gu/gulf-stream.md"
+    },
     "gun-club-moon-proposal": {
       "type": "event",
       "label": "Barbicane's Moon Proposal",
@@ -3245,6 +3263,12 @@
         "A Journey to the Centre of the Earth"
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
+    },
+    "lake-erie": {
+      "type": "place",
+      "label": "Lake Erie",
+      "aliases": [],
+      "path": "la/lake-erie.md"
     },
     "lake-grant": {
       "type": "place",
@@ -6144,6 +6168,12 @@
       ],
       "path": "to/topsy-turvy.md"
     },
+    "torres-strait": {
+      "type": "place",
+      "label": "Torres Strait",
+      "aliases": [],
+      "path": "to/torres-strait.md"
+    },
     "tsalal-island": {
       "type": "place",
       "label": "Tsalal Island",
@@ -7144,6 +7174,8 @@
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
     "President Barbicane": "barbicane",
+    "beechey-island": "beechey-island",
+    "Beechey Island": "beechey-island",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
     "BR-ch01": "BR-ch01",
@@ -7423,6 +7455,8 @@
     "Master and Man": "fogg-hires-passepartout",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
+    "fort-providence": "fort-providence",
+    "Fort Providence": "fort-providence",
     "fort-reliance": "fort-reliance",
     "Fort Reliance": "fort-reliance",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
@@ -7525,6 +7559,8 @@
     "Granite House": "granite-house",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "gulf-stream": "gulf-stream",
+    "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
     "Barbicane's Moon Proposal": "gun-club-moon-proposal",
     "The Gun Club Communication": "gun-club-moon-proposal",
@@ -7606,6 +7642,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "lake-erie": "lake-erie",
+    "Lake Erie": "lake-erie",
     "lake-grant": "lake-grant",
     "Lake Grant": "lake-grant",
     "lake-kirdall": "lake-kirdall",
@@ -8224,6 +8262,8 @@
     "Topsy-Turvy": "topsy-turvy",
     "Sans dessus dessous": "topsy-turvy",
     "The Purchase of the North Pole": "topsy-turvy",
+    "torres-strait": "torres-strait",
+    "Torres Strait": "torres-strait",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
@@ -8369,6 +8409,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1120,
-  "generated": "2026-07-15T11:20:13Z"
+  "page_count": 1125,
+  "generated": "2026-07-15T11:30:40Z"
 }
