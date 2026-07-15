@@ -104,23 +104,23 @@
 <!-- ✔ [place] Bellot Strait — 已建 bellot-strait（rev y6DeUl，ACH real，严扫 7 海峡名；排除同名探险家 Bellot）R46 -->
 <!-- ✔ [place] Barrow Strait — 已建 barrow-strait（rev UZuhWZ，ACH real，实测 9；Beechey 常道）R46 -->
 <!-- ✔ [place] Cape Farewell — 已建 cape-farewell（rev 6NbpIv，ACH real，严扫 6 岬名；排除同名 schooner Farewell）R45 -->
-- [place] Victoria Bay — ACH；ACH:6；维多利亚湾（fictional，Fort Providence 簇）
+<!-- ✔ [place] Victoria Bay — 已建 victoria-bay（rev VGg86x，ACH fictional，段级实测 7；New America 湾，Cape Washington→Fort Providence 途中）R47 -->
 - [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
 <!-- MW 大湖簇补：-->
 <!-- ✔ [place] Niagara River — 已建 niagara-river（rev ay5uGw）R43，见上 -->
 <!-- ✔ [place] Black Rock Creek — 已建 black-rock-creek（rev h7arGO，MW fictional，实测 17）R42 -->
-- [place] Lake Superior — MW；MW:6；苏必利尔湖（real）
-- [place] Lake Michigan — MW；MW:6；密歇根湖（real）
+<!-- ✔ [place] Lake Superior — 已建 lake-superior（rev eFSWW1，MW real，段级实测 6；The Terror 现身之大湖）R47 -->
+<!-- ✔ [place] Lake Michigan — 已建 lake-michigan（rev Vjrktq，MW real，严扫「Lake Michigan」段级 6；赛道尽头之湖）R47 -->
 <!-- MS / AWED / SC / AM 各作：-->
 <!-- ✔ [place] Ural Mountains — 已建 ural-mountains（rev geZqUb，MS real，实测 21/变体 39；alias The Urals）R42 -->
 <!-- ✔ [place] Salt Lake — 已建 great-salt-lake（rev 5hL12o，AWED real，实测 10；label Great Salt Lake / alias Salt Lake，Fogg 横美盐湖）R44 -->
 <!-- ✔ [place] Fort Kearney — 已建 fort-kearney（rev 65u0la，AWED real，实测 11；Fogg 遭 Sioux 袭驿站）R45 -->
 <!-- ✔ [place] Amsterdam Island — 已建 amsterdam-island（rev HzFcAz，SC real，实测 13；37 度线孤岛，alias Amsterdam Isles）R45 -->
 <!-- ✔ [place] Lake Taupo — 已建 lake-taupo（rev KhAtUQ，SC real，实测 11；Maori 囚地，新西兰）R45 -->
-- [place] Cape Corrientes — SC；SC:5；科连特斯角（real）
+<!-- ✔ [place] Cape Corrientes — 已建 cape-corrientes（rev aEf8UC，SC real，段级实测 6；Duncan 阿根廷岸巡弋岬）R47 -->
 <!-- ✔ [place] Halbrane Land — 已建 halbrane-land（rev J67Wnu，AM fictional，实测 14）R42 -->
 <!-- ✔ [place] Port Egmont — 已建 port-egmont（rev MmS5Gb，AM real，实测 9；Halbrane 福克兰补给港）R45 -->
-- [place] Lake Tanganyika — DSCF；DSCF:6；坦噶尼喀湖（real，非洲）
+<!-- ✔ [place] Lake Tanganyika — 已建 lake-tanganyika（rev 450tmA，DSCF real，段级实测 10；奴隶贸易大道/Livingstone 探险，alias Tanganyika）R47 -->
 <!-- MI Lincoln Island 簇补（fictional）：-->
 <!-- ✔ [place] Creek Glycerine — 已建 creek-glycerine（rev Xb3DpT）R43，见上 -->
 <!-- ✔ [place] Mandible Cape — 已建 mandible-cape（rev 2QN6vh，MI fictional，实测 13；Union Bay 北双岬，alias Mandible Capes）R46 -->

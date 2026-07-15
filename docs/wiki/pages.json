@@ -3377,7 +3377,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 5
+      "total_refs": 6
     },
     "behring-sea": {
       "type": "place",
@@ -3736,6 +3736,28 @@
       "quality_score": 71,
       "book": "The Fur Country",
       "total_refs": 8
+    },
+    "cape-corrientes": {
+      "type": "place",
+      "label": "Cape Corrientes",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "south-america"
+      ],
+      "path": "ca/cape-corrientes.md",
+      "description": "The cape on the Argentine coast where the Duncan cruises and rides out a storm in In Search of the Castaways.",
+      "prose_len": 1754,
+      "prose_chars": 1646,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "cape-esquimaux": {
       "type": "place",
@@ -4104,7 +4126,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 1
+      "total_refs": 2
     },
     "diving-apparatus": {
       "type": "technology",
@@ -8239,7 +8261,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "fort-reliance": {
       "type": "place",
@@ -10111,7 +10133,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 1
+      "total_refs": 2
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11160,7 +11182,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 2
+      "total_refs": 3
     },
     "lake-grant": {
       "type": "place",
@@ -11204,6 +11226,64 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
+      "total_refs": 0
+    },
+    "lake-michigan": {
+      "type": "place",
+      "label": "Lake Michigan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lake",
+        "north-america"
+      ],
+      "path": "la/lake-michigan.md",
+      "description": "The Great Lake at whose shore the road-race track ends in The Master of the World, where the mysterious machine seems bound for destruction.",
+      "prose_len": 1768,
+      "prose_chars": 1661,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Master of the World",
+      "total_refs": 1
+    },
+    "lake-superior": {
+      "type": "place",
+      "label": "Lake Superior",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lake",
+        "north-america"
+      ],
+      "path": "la/lake-superior.md",
+      "description": "The largest of the Great Lakes, where the mysterious machine of The Master of the World is sighted before vanishing across the continent.",
+      "prose_len": 1783,
+      "prose_chars": 1676,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Master of the World",
+      "total_refs": 1
+    },
+    "lake-tanganyika": {
+      "type": "unknown",
+      "label": "lake-tanganyika",
+      "aliases": [],
+      "tags": [],
+      "path": "la/lake-tanganyika.md",
+      "prose_len": 1727,
+      "prose_chars": 1620,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
       "total_refs": 0
     },
     "lake-taupo": {
@@ -11250,7 +11330,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lancaster-strait": {
       "type": "place",
@@ -20052,7 +20132,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 4
+      "total_refs": 5
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -20203,7 +20283,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 4
+      "total_refs": 6
     },
     "the-moon": {
       "type": "place",
@@ -20328,7 +20408,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 6
+      "total_refs": 8
     },
     "the-underground-city": {
       "type": "work",
@@ -22323,7 +22403,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "UC-ch01": {
       "type": "chapter",
@@ -22797,6 +22877,28 @@
       "quality_score": 77,
       "book": "Five Weeks in a Balloon",
       "total_refs": 39
+    },
+    "victoria-bay": {
+      "type": "place",
+      "label": "Victoria Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "arctic"
+      ],
+      "path": "vi/victoria-bay.md",
+      "description": "The fictional Arctic bay of New America, named by Hatteras's party and lying on the route between Cape Washington and Fort Providence.",
+      "prose_len": 1691,
+      "prose_chars": 1586,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "victoria-island": {
       "type": "place",
@@ -23891,6 +23993,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-corrientes": "cape-corrientes",
+    "Cape Corrientes": "cape-corrientes",
     "cape-esquimaux": "cape-esquimaux",
     "Cape Esquimaux": "cape-esquimaux",
     "cape-farewell": "cape-farewell",
@@ -24364,6 +24468,11 @@
     "Lake Grant": "lake-grant",
     "lake-kirdall": "lake-kirdall",
     "Lake Kirdall": "lake-kirdall",
+    "lake-michigan": "lake-michigan",
+    "Lake Michigan": "lake-michigan",
+    "lake-superior": "lake-superior",
+    "Lake Superior": "lake-superior",
+    "lake-tanganyika": "lake-tanganyika",
     "lake-taupo": "lake-taupo",
     "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
@@ -25100,6 +25209,8 @@
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
     "Ferguson's balloon": "victoria-balloon",
+    "victoria-bay": "victoria-bay",
+    "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
     "WAI-ch01": "WAI-ch01",
@@ -25148,6 +25259,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1150,
-  "generated": "2026-07-15T12:06:57Z"
+  "page_count": 1155,
+  "generated": "2026-07-15T12:17:20Z"
 }

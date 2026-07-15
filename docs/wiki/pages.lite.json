@@ -1129,6 +1129,12 @@
       "aliases": [],
       "path": "ca/cape-bathurst.md"
     },
+    "cape-corrientes": {
+      "type": "place",
+      "label": "Cape Corrientes",
+      "aliases": [],
+      "path": "ca/cape-corrientes.md"
+    },
     "cape-esquimaux": {
       "type": "place",
       "label": "Cape Esquimaux",
@@ -3381,6 +3387,24 @@
       "label": "Lake Kirdall",
       "aliases": [],
       "path": "la/lake-kirdall.md"
+    },
+    "lake-michigan": {
+      "type": "place",
+      "label": "Lake Michigan",
+      "aliases": [],
+      "path": "la/lake-michigan.md"
+    },
+    "lake-superior": {
+      "type": "place",
+      "label": "Lake Superior",
+      "aliases": [],
+      "path": "la/lake-superior.md"
+    },
+    "lake-tanganyika": {
+      "type": "unknown",
+      "label": "lake-tanganyika",
+      "aliases": [],
+      "path": "la/lake-tanganyika.md"
     },
     "lake-taupo": {
       "type": "place",
@@ -6891,6 +6915,12 @@
       ],
       "path": "vi/victoria-balloon.md"
     },
+    "victoria-bay": {
+      "type": "place",
+      "label": "Victoria Bay",
+      "aliases": [],
+      "path": "vi/victoria-bay.md"
+    },
     "victoria-island": {
       "type": "place",
       "label": "Victoria Island",
@@ -7376,6 +7406,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-corrientes": "cape-corrientes",
+    "Cape Corrientes": "cape-corrientes",
     "cape-esquimaux": "cape-esquimaux",
     "Cape Esquimaux": "cape-esquimaux",
     "cape-farewell": "cape-farewell",
@@ -7849,6 +7881,11 @@
     "Lake Grant": "lake-grant",
     "lake-kirdall": "lake-kirdall",
     "Lake Kirdall": "lake-kirdall",
+    "lake-michigan": "lake-michigan",
+    "Lake Michigan": "lake-michigan",
+    "lake-superior": "lake-superior",
+    "Lake Superior": "lake-superior",
+    "lake-tanganyika": "lake-tanganyika",
     "lake-taupo": "lake-taupo",
     "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
@@ -8585,6 +8622,8 @@
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
     "Ferguson's balloon": "victoria-balloon",
+    "victoria-bay": "victoria-bay",
+    "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
     "WAI-ch01": "WAI-ch01",
@@ -8633,6 +8672,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1150,
-  "generated": "2026-07-15T12:06:57Z"
+  "page_count": 1155,
+  "generated": "2026-07-15T12:17:20Z"
 }
