@@ -123,4 +123,21 @@ alias 更合适），或改 6 页链接。属本地页面数据，`edit_page.py`
 **处置**：留待 character 轮后或 2.1-Z PHQ 统一裁定。若改 org 需 `edit_page.py` 改 type 并相应调整
 place 类型 final_count（place 尚未开建，type_queue 中）。本地页面数据，无需 RFC。
 
+### HK-registry-typefield-not-propagated — `build_registry.py` 不透出类型专属字段到 pages.json
+
+**现象（GROW 2.1-B R20 EVV5 organization 扫描，2026-07-15 发现）**：organization 全部 15 页
+frontmatter 均正确填 `org_type`（club/company/society/committee/…）与 `founded`，但
+`build_registry.py` 生成的 `pages.json` 只透出通用字段 + `book`，**未透出 `org_type`/`founded`**
+（pages.json 页对象 keys 无这两项）。其他类型的专属字段（character 的 affiliation/role、
+place 的 region 等）预计同样受影响。
+
+**影响**：前端无法按 `org_type` 分面/筛选（如"列出所有 company"）；类型专属字段仅存在于页面
+frontmatter，registry 层不可见。不影响页面正文或 PN grounding——纯 registry 投影缺失。
+
+**修复方向**：`build_registry.py` 读取 `local/template/{type}-schema.md` 声明的专属字段并透传到
+pages.json（或至少白名单 org_type/founded/region/affiliation/role 等）。
+
+**处置**：属共享 memex 组件（`build_registry.py`）—— 依 RFC 停靠决策 **PARK**，不自动提交；
+与 featured-inflation / 散文门 / VVV 宽度诸 RFC 一并批量评审。本地 frontmatter 已正确，无需回填。
+
 ## P3 — 低优先级
