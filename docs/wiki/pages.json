@@ -3335,6 +3335,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 80
     },
+    "barrow-strait": {
+      "type": "place",
+      "label": "Barrow Strait",
+      "aliases": [],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "ba/barrow-strait.md",
+      "description": "The real Arctic strait beyond Lancaster Strait, the well-trodden approach to Beechey Island that the Forward follows and later flees back through.",
+      "prose_len": 1693,
+      "prose_chars": 1586,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 1
+    },
     "beechey-island": {
       "type": "place",
       "label": "Beechey Island",
@@ -3355,7 +3377,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 2
+      "total_refs": 5
     },
     "behring-sea": {
       "type": "place",
@@ -3400,6 +3422,28 @@
       "quality_score": 67,
       "book": "The Fur Country",
       "total_refs": 1
+    },
+    "bellot-strait": {
+      "type": "place",
+      "label": "Bellot Strait",
+      "aliases": [],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "be/bellot-strait.md",
+      "description": "The real narrow Arctic strait on which Hatteras stakes his voyage, the only southern outlet from the Gulf of Boothia.",
+      "prose_len": 1593,
+      "prose_chars": 1487,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "black-rock-creek": {
       "type": "place",
@@ -3850,7 +3894,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 2
     },
     "columbiad-launch": {
       "type": "event",
@@ -11208,6 +11252,30 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 0
     },
+    "lancaster-strait": {
+      "type": "place",
+      "label": "Lancaster Strait",
+      "aliases": [
+        "Lancaster Straits"
+      ],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "la/lancaster-strait.md",
+      "description": "The real strait off the west coast of Baffin's Sea, the historic gateway of the Northwest Passage explorers that the Forward enters on its polar course.",
+      "prose_len": 1656,
+      "prose_chars": 1546,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 1
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -11301,7 +11369,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 85
+      "total_refs": 87
     },
     "loch-katrine": {
       "type": "place",
@@ -11374,6 +11442,30 @@
       "quality_score": 73,
       "book": "Round the Moon",
       "total_refs": 2
+    },
+    "mandible-cape": {
+      "type": "place",
+      "label": "Mandible Cape",
+      "aliases": [
+        "Mandible Capes"
+      ],
+      "tags": [
+        "place",
+        "cape",
+        "pacific"
+      ],
+      "path": "ma/mandible-cape.md",
+      "description": "The twin fictional capes, North and South Mandible, that frame the northern jaw of Lincoln Island's Union Bay in The Mysterious Island.",
+      "prose_len": 1657,
+      "prose_chars": 1550,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Mysterious Island",
+      "total_refs": 0
     },
     "master-zacharius": {
       "type": "work",
@@ -12730,7 +12822,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 44
+      "total_refs": 46
     },
     "MS-ch01": {
       "type": "chapter",
@@ -20061,7 +20153,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 7
+      "total_refs": 9
     },
     "the-fur-country": {
       "type": "work",
@@ -22633,7 +22725,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 3
     },
     "ural-mountains": {
       "type": "place",
@@ -23045,6 +23137,28 @@
       "book_seq": 282,
       "book": "A Winter Amid the Ice",
       "total_refs": 1
+    },
+    "washington-bay": {
+      "type": "place",
+      "label": "Washington Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "pacific"
+      ],
+      "path": "wa/washington-bay.md",
+      "description": "The fictional bay on the southern shore of Lincoln Island, named by the colonists and bounded by Claw Cape and Reptile End.",
+      "prose_len": 1585,
+      "prose_chars": 1477,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Mysterious Island",
+      "total_refs": 0
     },
     "WC-ch01": {
       "type": "chapter",
@@ -23528,7 +23642,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "YEAR": {
       "type": "chapter",
@@ -23747,12 +23861,16 @@
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
     "President Barbicane": "barbicane",
+    "barrow-strait": "barrow-strait",
+    "Barrow Strait": "barrow-strait",
     "beechey-island": "beechey-island",
     "Beechey Island": "beechey-island",
     "behring-sea": "behring-sea",
     "Behring Sea": "behring-sea",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
+    "bellot-strait": "bellot-strait",
+    "Bellot Strait": "bellot-strait",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "BR-ch01": "BR-ch01",
@@ -24251,6 +24369,9 @@
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
+    "lancaster-strait": "lancaster-strait",
+    "Lancaster Strait": "lancaster-strait",
+    "Lancaster Straits": "lancaster-strait",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -24270,6 +24391,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "mandible-cape": "mandible-cape",
+    "Mandible Cape": "mandible-cape",
+    "Mandible Capes": "mandible-cape",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -24994,6 +25118,8 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "washington-bay": "washington-bay",
+    "Washington Bay": "washington-bay",
     "WC-ch01": "WC-ch01",
     "WC-ch02": "WC-ch02",
     "WC-ch03": "WC-ch03",
@@ -25022,6 +25148,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1145,
-  "generated": "2026-07-15T12:01:50Z"
+  "page_count": 1150,
+  "generated": "2026-07-15T12:06:57Z"
 }

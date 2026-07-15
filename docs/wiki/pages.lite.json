@@ -1011,6 +1011,12 @@
       ],
       "path": "ba/barbicane.md"
     },
+    "barrow-strait": {
+      "type": "place",
+      "label": "Barrow Strait",
+      "aliases": [],
+      "path": "ba/barrow-strait.md"
+    },
     "beechey-island": {
       "type": "place",
       "label": "Beechey Island",
@@ -1028,6 +1034,12 @@
       "label": "Behring Strait",
       "aliases": [],
       "path": "be/behring-strait.md"
+    },
+    "bellot-strait": {
+      "type": "place",
+      "label": "Bellot Strait",
+      "aliases": [],
+      "path": "be/bellot-strait.md"
     },
     "black-rock-creek": {
       "type": "place",
@@ -3384,6 +3396,14 @@
       ],
       "path": "la/lake-tchad.md"
     },
+    "lancaster-strait": {
+      "type": "place",
+      "label": "Lancaster Strait",
+      "aliases": [
+        "Lancaster Straits"
+      ],
+      "path": "la/lancaster-strait.md"
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -3435,6 +3455,14 @@
         "aluminium projectile"
       ],
       "path": "lu/lunar-projectile.md"
+    },
+    "mandible-cape": {
+      "type": "place",
+      "label": "Mandible Cape",
+      "aliases": [
+        "Mandible Capes"
+      ],
+      "path": "ma/mandible-cape.md"
     },
     "master-zacharius": {
       "type": "work",
@@ -6965,6 +6993,12 @@
       "aliases": [],
       "path": "wa/WAI-ch16.md"
     },
+    "washington-bay": {
+      "type": "place",
+      "label": "Washington Bay",
+      "aliases": [],
+      "path": "wa/washington-bay.md"
+    },
     "WC-ch01": {
       "type": "chapter",
       "label": "The Waif of the Cynthia — CHAPTER I",
@@ -7312,12 +7346,16 @@
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
     "President Barbicane": "barbicane",
+    "barrow-strait": "barrow-strait",
+    "Barrow Strait": "barrow-strait",
     "beechey-island": "beechey-island",
     "Beechey Island": "beechey-island",
     "behring-sea": "behring-sea",
     "Behring Sea": "behring-sea",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
+    "bellot-strait": "bellot-strait",
+    "Bellot Strait": "bellot-strait",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "BR-ch01": "BR-ch01",
@@ -7816,6 +7854,9 @@
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
+    "lancaster-strait": "lancaster-strait",
+    "Lancaster Strait": "lancaster-strait",
+    "Lancaster Straits": "lancaster-strait",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -7835,6 +7876,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "mandible-cape": "mandible-cape",
+    "Mandible Cape": "mandible-cape",
+    "Mandible Capes": "mandible-cape",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -8559,6 +8603,8 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "washington-bay": "washington-bay",
+    "Washington Bay": "washington-bay",
     "WC-ch01": "WC-ch01",
     "WC-ch02": "WC-ch02",
     "WC-ch03": "WC-ch03",
@@ -8587,6 +8633,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1145,
-  "generated": "2026-07-15T12:01:50Z"
+  "page_count": 1150,
+  "generated": "2026-07-15T12:06:57Z"
 }

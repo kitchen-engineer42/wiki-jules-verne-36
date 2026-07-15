@@ -100,9 +100,9 @@
 <!-- ACH 北极簇补：-->
 <!-- ✔ [place] Melville Bay — 已建 melville-bay（rev DgSjCF，ACH real，实测 12；Forward 首程目标湾）R44 -->
 <!-- ✔ [place] Wellington Channel — 已建 wellington-channel（rev 9pMXcs，ACH real，实测 10；极海通道）R44 -->
-- [place] Lancaster Strait — ACH；ACH:7；兰开斯特海峡（real）
-- [place] Bellot Strait — ACH；ACH:7；贝洛海峡（real）
-- [place] Barrow Strait — ACH；ACH:6；巴罗海峡（real）
+<!-- ✔ [place] Lancaster Strait — 已建 lancaster-strait（rev ET7hlk，ACH real，严扫 9 Strait 主式）R46 -->
+<!-- ✔ [place] Bellot Strait — 已建 bellot-strait（rev y6DeUl，ACH real，严扫 7 海峡名；排除同名探险家 Bellot）R46 -->
+<!-- ✔ [place] Barrow Strait — 已建 barrow-strait（rev UZuhWZ，ACH real，实测 9；Beechey 常道）R46 -->
 <!-- ✔ [place] Cape Farewell — 已建 cape-farewell（rev 6NbpIv，ACH real，严扫 6 岬名；排除同名 schooner Farewell）R45 -->
 - [place] Victoria Bay — ACH；ACH:6；维多利亚湾（fictional，Fort Providence 簇）
 - [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
@@ -123,8 +123,8 @@
 - [place] Lake Tanganyika — DSCF；DSCF:6；坦噶尼喀湖（real，非洲）
 <!-- MI Lincoln Island 簇补（fictional）：-->
 <!-- ✔ [place] Creek Glycerine — 已建 creek-glycerine（rev Xb3DpT）R43，见上 -->
-- [place] Mandible Cape — MI；MI:9；下颚角（fictional，Lincoln Island）
-- [place] Washington Bay — MI；MI:7；华盛顿湾（fictional，Lincoln Island）
+<!-- ✔ [place] Mandible Cape — 已建 mandible-cape（rev 2QN6vh，MI fictional，实测 13；Union Bay 北双岬，alias Mandible Capes）R46 -->
+<!-- ✔ [place] Washington Bay — 已建 washington-bay（rev 2N0bPg，MI fictional，实测 6；Lincoln 南湾）R46 -->
 <!-- FF / GM：-->
 <!-- ✔ [place] Pamlico Sound — 已建 pamlico-sound（rev a0wpxD，FF real，实测 21）R42 -->
 <!-- ✔ [place] Flag Point — 已建 flag-point（rev Ua1a7j，GM fictional，实测 14；R34/R36/R38 曾误弃「GM 仅 4」，R41 勘误恢复，本轮建页）R43，见上 -->
