@@ -3309,6 +3309,28 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "behring-sea": {
+      "type": "place",
+      "label": "Behring Sea",
+      "aliases": [],
+      "tags": [
+        "place",
+        "sea",
+        "arctic"
+      ],
+      "path": "be/behring-sea.md",
+      "description": "The real northern sea into which the drifting Victoria Island is carried in The Fur Country, scattered with the islands that offer the colonists their last hope of rescue.",
+      "prose_len": 1800,
+      "prose_chars": 1696,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "behring-strait": {
       "type": "place",
       "label": "Behring Strait",
@@ -3329,7 +3351,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "black-rock-creek": {
       "type": "place",
@@ -3829,6 +3851,28 @@
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 48
+    },
+    "creek-glycerine": {
+      "type": "place",
+      "label": "Creek Glycerine",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "pacific"
+      ],
+      "path": "cr/creek-glycerine.md",
+      "description": "The small artificial stream cut by the colonists of Lincoln Island to drain Lake Grant, guarding the approach to Prospect Heights.",
+      "prose_len": 1925,
+      "prose_chars": 1816,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Mysterious Island",
+      "total_refs": 0
     },
     "crespo-island": {
       "type": "place",
@@ -6016,7 +6060,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "FC-ch01": {
       "type": "chapter",
@@ -7927,6 +7971,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 34
     },
+    "flag-point": {
+      "type": "place",
+      "label": "Flag Point",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "pacific"
+      ],
+      "path": "fl/flag-point.md",
+      "description": "The cape on Godfrey Morgan's island where the castaway raises his signal flag, watching in vain for rescue.",
+      "prose_len": 1700,
+      "prose_chars": 1597,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "flotsam-point": {
       "type": "place",
       "label": "Flotsam Point",
@@ -7993,7 +8059,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "fort-hope": {
       "type": "place",
@@ -8059,7 +8125,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "from-the-earth-to-the-moon": {
       "type": "work",
@@ -9652,6 +9718,30 @@
       "book": "Master of the World",
       "total_refs": 8
     },
+    "great-slave-lake": {
+      "type": "place",
+      "label": "Great Slave Lake",
+      "aliases": [
+        "Slave Lake"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "arctic"
+      ],
+      "path": "gr/great-slave-lake.md",
+      "description": "The great sub-Arctic Canadian lake from whose shores the Hudson's Bay expedition of The Fur Country sets out for the polar coast.",
+      "prose_len": 1778,
+      "prose_chars": 1669,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "gulf-stream": {
       "type": "place",
       "label": "Gulf Stream",
@@ -10886,7 +10976,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lake-grant": {
       "type": "place",
@@ -10908,7 +10998,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Mysterious Island",
-      "total_refs": 2
+      "total_refs": 3
     },
     "lake-kirdall": {
       "type": "place",
@@ -11049,7 +11139,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 84
+      "total_refs": 85
     },
     "loch-katrine": {
       "type": "place",
@@ -13716,6 +13806,28 @@
       "book": "The Underground City",
       "total_refs": 2
     },
+    "niagara-river": {
+      "type": "place",
+      "label": "Niagara River",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "north-america"
+      ],
+      "path": "ni/niagara-river.md",
+      "description": "The real river draining Lake Erie into Lake Ontario, down whose rapids the Terror flees toward its celebrated falls in The Master of the World.",
+      "prose_len": 1657,
+      "prose_chars": 1551,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "nitroglycerine": {
       "type": "technology",
       "label": "Nitroglycerine",
@@ -15183,7 +15295,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Mysterious Island",
-      "total_refs": 3
+      "total_refs": 4
     },
     "quiquendone": {
       "type": "place",
@@ -19434,7 +19546,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Godfrey Morgan",
-      "total_refs": 0
+      "total_refs": 1
     },
     "st-louis-fur-company": {
       "type": "organization",
@@ -19918,7 +20030,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 5
+      "total_refs": 6
     },
     "the-underground-city": {
       "type": "work",
@@ -22406,7 +22518,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 5
+      "total_refs": 6
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -23403,6 +23515,8 @@
     "President Barbicane": "barbicane",
     "beechey-island": "beechey-island",
     "Beechey Island": "beechey-island",
+    "behring-sea": "behring-sea",
+    "Behring Sea": "behring-sea",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
     "black-rock-creek": "black-rock-creek",
@@ -23447,6 +23561,8 @@
     "Columbiad": "columbiad",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "creek-glycerine": "creek-glycerine",
+    "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
     "Crespo Island": "crespo-island",
     "Rocca de la Plata": "crespo-island",
@@ -23677,6 +23793,8 @@
     "fix": "fix",
     "Detective Fix": "fix",
     "Fix": "fix",
+    "flag-point": "flag-point",
+    "Flag Point": "flag-point",
     "flotsam-point": "flotsam-point",
     "Flotsam Point": "flotsam-point",
     "fogg-hires-passepartout": "fogg-hires-passepartout",
@@ -23790,6 +23908,9 @@
     "Granite House": "granite-house",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "great-slave-lake": "great-slave-lake",
+    "Great Slave Lake": "great-slave-lake",
+    "Slave Lake": "great-slave-lake",
     "gulf-stream": "gulf-stream",
     "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
@@ -24048,6 +24169,8 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "niagara-river": "niagara-river",
+    "Niagara River": "niagara-river",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -24647,6 +24770,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1130,
-  "generated": "2026-07-15T11:41:37Z"
+  "page_count": 1135,
+  "generated": "2026-07-15T11:50:11Z"
 }

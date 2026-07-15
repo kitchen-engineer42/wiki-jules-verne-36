@@ -89,9 +89,13 @@
 
 <!-- ═══ R41 SCN28 表层复扫补种（30 候选，主源 distinctPN 严扫，建前逐页复核）═══ -->
 <!-- FC 漂流簇补：-->
-- [place] Behring Sea — FC；FC:13；白令海（real，distinct from Behring Strait）
+<!-- ✔ [place] Behring Sea — 已建 behring-sea（rev EnXo5X，FC real，实测 13；Victoria Island 漂入之海，≠behring-strait）R43 -->
+<!-- ✔ [place] Great Slave Lake — 已建 great-slave-lake（rev P5rbdm，FC real，实测 13；alias Slave Lake，Hobson 远征南起点）R43 -->
+<!-- ✔ [place] Creek Glycerine — 已建 creek-glycerine（rev Xb3DpT，MI fictional，实测 13；Lincoln Island 人工溪）R43 -->
+<!-- ✔ [place] Niagara River — 已建 niagara-river（rev ay5uGw，MW real，实测 17 含变体；Lake Erie 唯一出水口）R43 -->
+<!-- ✔ [place] Flag Point — 已建 flag-point（rev Ua1a7j，GM fictional，实测 14；勘误恢复，Godfrey 竖旗之岬）R43 -->
 <!-- ✔ [place] Fort Confidence — 已建 fort-confidence（rev bfRrf3，FC real，实测 16）R42 -->
-- [place] Slave Lake — FC；FC:12；大奴湖（real，Hobson 陆路）
+<!-- ✔ [place] Slave Lake — 已建为 great-slave-lake（rev P5rbdm，alias Slave Lake）R43，见上 -->
 - [place] Aleutian Islands — FC；FC:12；阿留申群岛（real）
 <!-- ACH 北极簇补：-->
 - [place] Melville Bay — ACH；ACH:12；梅尔维尔湾（real）
@@ -103,7 +107,7 @@
 - [place] Victoria Bay — ACH；ACH:6；维多利亚湾（fictional，Fort Providence 簇）
 - [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
 <!-- MW 大湖簇补：-->
-- [place] Niagara River — MW；MW:12；尼亚加拉河（real，接 lake-erie/great-eyrie）
+<!-- ✔ [place] Niagara River — 已建 niagara-river（rev ay5uGw）R43，见上 -->
 <!-- ✔ [place] Black Rock Creek — 已建 black-rock-creek（rev h7arGO，MW fictional，实测 17）R42 -->
 - [place] Lake Superior — MW；MW:6；苏必利尔湖（real）
 - [place] Lake Michigan — MW；MW:6；密歇根湖（real）
@@ -118,12 +122,12 @@
 - [place] Port Egmont — AM；AM:9；埃格蒙特港（real，福克兰）
 - [place] Lake Tanganyika — DSCF；DSCF:6；坦噶尼喀湖（real，非洲）
 <!-- MI Lincoln Island 簇补（fictional）：-->
-- [place] Creek Glycerine — MI；MI:13；甘油溪（fictional，Lincoln Island）
+<!-- ✔ [place] Creek Glycerine — 已建 creek-glycerine（rev Xb3DpT）R43，见上 -->
 - [place] Mandible Cape — MI；MI:9；下颚角（fictional，Lincoln Island）
 - [place] Washington Bay — MI；MI:7；华盛顿湾（fictional，Lincoln Island）
 <!-- FF / GM：-->
 <!-- ✔ [place] Pamlico Sound — 已建 pamlico-sound（rev a0wpxD，FF real，实测 21）R42 -->
-- [place] Flag Point — GM(Godfrey Morgan)；GM:14；旗岬（fictional，Godfrey 竖旗之岬）——⚠ R34/R36/R38 曾以「GM 仅 4」误弃，R41 严扫实测 GM 14 distinctPN，勘误恢复入队
+<!-- ✔ [place] Flag Point — 已建 flag-point（rev Ua1a7j，GM fictional，实测 14；R34/R36/R38 曾误弃「GM 仅 4」，R41 勘误恢复，本轮建页）R43，见上 -->
 <!-- 其它真实/虚构地理（各源作）-->
 <!-- ✔ Twofold Bay / Lake Tchad / Snowy River 已建 R34（见上簇注）-->
 <!-- ✔ Lake Kirdall / Loch Katrine / Christmas Harbour / Port Barnett 已建 R35（深扫末批，见上）-->
