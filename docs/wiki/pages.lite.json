@@ -2800,6 +2800,16 @@
       ],
       "path": "in/in-search-of-the-castaways.md"
     },
+    "in-the-year-2889": {
+      "type": "work",
+      "label": "In the Year 2889",
+      "aliases": [
+        "La Journée d'un journaliste américain en 2889",
+        "In the Twenty-Ninth Century",
+        "The Day of an American Journalist in 2889"
+      ],
+      "path": "in/in-the-year-2889.md"
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -7122,6 +7132,11 @@
     "in-search-of-the-castaways": "in-search-of-the-castaways",
     "In Search of the Castaways": "in-search-of-the-castaways",
     "The Children of Captain Grant": "in-search-of-the-castaways",
+    "in-the-year-2889": "in-the-year-2889",
+    "In the Year 2889": "in-the-year-2889",
+    "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
+    "In the Twenty-Ninth Century": "in-the-year-2889",
+    "The Day of an American Journalist in 2889": "in-the-year-2889",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -7861,6 +7876,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1065,
-  "generated": "2026-07-15T03:57:22Z"
+  "page_count": 1066,
+  "generated": "2026-07-15T04:07:32Z"
 }
