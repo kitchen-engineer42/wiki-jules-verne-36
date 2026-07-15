@@ -2351,6 +2351,12 @@
       ],
       "path": "fi/fix.md"
     },
+    "flotsam-point": {
+      "type": "place",
+      "label": "Flotsam Point",
+      "aliases": [],
+      "path": "fl/flotsam-point.md"
+    },
     "fogg-hires-passepartout": {
       "type": "event",
       "label": "Fogg Hires Passepartout",
@@ -3203,6 +3209,14 @@
       "label": "Lake Grant",
       "aliases": [],
       "path": "la/lake-grant.md"
+    },
+    "lake-tchad": {
+      "type": "place",
+      "label": "Lake Tchad",
+      "aliases": [
+        "Lake Chad"
+      ],
+      "path": "la/lake-tchad.md"
     },
     "liedenbrock-cipher": {
       "type": "event",
@@ -5567,6 +5581,12 @@
       "aliases": [],
       "path": "se/serpentine-peninsula.md"
     },
+    "shark-gulf": {
+      "type": "place",
+      "label": "Shark Gulf",
+      "aliases": [],
+      "path": "sh/shark-gulf.md"
+    },
     "ships-compass": {
       "type": "technology",
       "label": "Ship's Compass",
@@ -5711,6 +5731,12 @@
         "Snæfell"
       ],
       "path": "sn/snaefellsjokull.md"
+    },
+    "snowy-river": {
+      "type": "place",
+      "label": "Snowy River",
+      "aliases": [],
+      "path": "sn/snowy-river.md"
     },
     "st-louis-fur-company": {
       "type": "organization",
@@ -6453,6 +6479,12 @@
         "20,000 Leagues Under the Sea"
       ],
       "path": "tw/twenty-thousand-leagues.md"
+    },
+    "twofold-bay": {
+      "type": "place",
+      "label": "Twofold Bay",
+      "aliases": [],
+      "path": "tw/twofold-bay.md"
     },
     "UC-ch01": {
       "type": "chapter",
@@ -7288,6 +7320,8 @@
     "fix": "fix",
     "Detective Fix": "fix",
     "Fix": "fix",
+    "flotsam-point": "flotsam-point",
+    "Flotsam Point": "flotsam-point",
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
@@ -7474,6 +7508,9 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "lake-grant": "lake-grant",
     "Lake Grant": "lake-grant",
+    "lake-tchad": "lake-tchad",
+    "Lake Tchad": "lake-tchad",
+    "Lake Chad": "lake-tchad",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -7936,6 +7973,8 @@
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shark-gulf": "shark-gulf",
+    "Shark Gulf": "shark-gulf",
     "ships-compass": "ships-compass",
     "Ship's Compass": "ships-compass",
     "binnacle compass": "ships-compass",
@@ -7966,6 +8005,8 @@
     "Snæfellsjökull": "snaefellsjokull",
     "Sneffels": "snaefellsjokull",
     "Snæfell": "snaefellsjokull",
+    "snowy-river": "snowy-river",
+    "Snowy River": "snowy-river",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -8141,6 +8182,8 @@
     "twenty-thousand-leagues": "twenty-thousand-leagues",
     "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
     "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
+    "twofold-bay": "twofold-bay",
+    "Twofold Bay": "twofold-bay",
     "UC-ch01": "UC-ch01",
     "UC-ch02": "UC-ch02",
     "UC-ch03": "UC-ch03",
@@ -8211,6 +8254,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1101,
-  "generated": "2026-07-15T10:50:19Z"
+  "page_count": 1106,
+  "generated": "2026-07-15T10:55:43Z"
 }

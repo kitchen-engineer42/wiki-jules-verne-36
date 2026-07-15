@@ -7773,6 +7773,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 34
     },
+    "flotsam-point": {
+      "type": "place",
+      "label": "Flotsam Point",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "lincoln-island"
+      ],
+      "path": "fl/flotsam-point.md",
+      "description": "A point on the south-eastern shore of Lincoln Island where the colonists recover a washed-up chest, in The Mysterious Island.",
+      "prose_len": 2054,
+      "prose_chars": 1948,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "fogg-hires-passepartout": {
       "type": "event",
       "label": "Fogg Hires Passepartout",
@@ -9364,7 +9386,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 72
+      "total_refs": 73
     },
     "great-eyrie": {
       "type": "place",
@@ -10580,6 +10602,30 @@
       "book": "The Mysterious Island",
       "total_refs": 1
     },
+    "lake-tchad": {
+      "type": "place",
+      "label": "Lake Tchad",
+      "aliases": [
+        "Lake Chad"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "africa"
+      ],
+      "path": "la/lake-tchad.md",
+      "description": "The great Central African lake that Dr. Ferguson's balloon expedition crosses in Five Weeks in a Balloon.",
+      "prose_len": 2172,
+      "prose_chars": 2069,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -10673,7 +10719,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 80
+      "total_refs": 82
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -14693,7 +14739,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -18404,6 +18450,28 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
+      "total_refs": 1
+    },
+    "shark-gulf": {
+      "type": "place",
+      "label": "Shark Gulf",
+      "aliases": [],
+      "tags": [
+        "place",
+        "gulf",
+        "lincoln-island"
+      ],
+      "path": "sh/shark-gulf.md",
+      "description": "The jaw-shaped gulf at the south-eastern extremity of Lincoln Island, walled by lava cliffs, in The Mysterious Island.",
+      "prose_len": 2086,
+      "prose_chars": 1980,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "The Mysterious Island",
       "total_refs": 0
     },
     "ships-compass": {
@@ -18882,6 +18950,28 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 26
     },
+    "snowy-river": {
+      "type": "place",
+      "label": "Snowy River",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "australia"
+      ],
+      "path": "sn/snowy-river.md",
+      "description": "The flood-swollen Australian river that bars the searchers' final approach to Twofold Bay in In Search of the Castaways.",
+      "prose_len": 1785,
+      "prose_chars": 1682,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "In Search of the Castaways",
+      "total_refs": 1
+    },
     "st-louis-fur-company": {
       "type": "organization",
       "label": "St Louis Fur Company",
@@ -19285,7 +19375,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 17
+      "total_refs": 19
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -21295,6 +21385,28 @@
       "quality_score": 74,
       "total_refs": 7
     },
+    "twofold-bay": {
+      "type": "place",
+      "label": "Twofold Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "australia"
+      ],
+      "path": "tw/twofold-bay.md",
+      "description": "The Australian bay on the 37th parallel that is the goal of the overland search in In Search of the Castaways.",
+      "prose_len": 2091,
+      "prose_chars": 1986,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "In Search of the Castaways",
+      "total_refs": 1
+    },
     "UC-ch01": {
       "type": "chapter",
       "label": "The Underground City — CHAPTER I. CONTRADICTORY LETTERS",
@@ -21742,7 +21854,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 38
+      "total_refs": 39
     },
     "victoria-island": {
       "type": "place",
@@ -23019,6 +23131,8 @@
     "fix": "fix",
     "Detective Fix": "fix",
     "Fix": "fix",
+    "flotsam-point": "flotsam-point",
+    "Flotsam Point": "flotsam-point",
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
@@ -23205,6 +23319,9 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "lake-grant": "lake-grant",
     "Lake Grant": "lake-grant",
+    "lake-tchad": "lake-tchad",
+    "Lake Tchad": "lake-tchad",
+    "Lake Chad": "lake-tchad",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -23667,6 +23784,8 @@
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shark-gulf": "shark-gulf",
+    "Shark Gulf": "shark-gulf",
     "ships-compass": "ships-compass",
     "Ship's Compass": "ships-compass",
     "binnacle compass": "ships-compass",
@@ -23697,6 +23816,8 @@
     "Snæfellsjökull": "snaefellsjokull",
     "Sneffels": "snaefellsjokull",
     "Snæfell": "snaefellsjokull",
+    "snowy-river": "snowy-river",
+    "Snowy River": "snowy-river",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -23872,6 +23993,8 @@
     "twenty-thousand-leagues": "twenty-thousand-leagues",
     "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
     "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
+    "twofold-bay": "twofold-bay",
+    "Twofold Bay": "twofold-bay",
     "UC-ch01": "UC-ch01",
     "UC-ch02": "UC-ch02",
     "UC-ch03": "UC-ch03",
@@ -23942,6 +24065,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1101,
-  "generated": "2026-07-15T10:50:19Z"
+  "page_count": 1106,
+  "generated": "2026-07-15T10:55:43Z"
 }

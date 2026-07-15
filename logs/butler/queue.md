@@ -31,13 +31,16 @@
 <!-- ✔ [place] Falls River — 已建 falls-river（rev mwE3dH，实测 25）R33 -->
 <!-- ✔ [place] Serpentine Peninsula — 已建 serpentine-peninsula（rev 4T1MJy，实测 25）R33 -->
 <!-- ✔ [place] Union Bay — 已建 union-bay（rev a2ht3d，实测 23）R33 -->
-- [place] Flotsam Point — MI；scan distinctPN≈26；Lincoln Island 岬角
-- [place] Shark Gulf — MI；scan distinctPN≈18；Lincoln Island 鲨鱼湾
-- [place] Flag Point — MI；scan distinctPN≈14；Lincoln Island 旗岬
+<!-- R34 NEW1 已建 5 页：shark-gulf/flotsam-point（MI 收尾）+ twofold-bay/snowy-river（SC 澳洲）+ lake-tchad（FWB 非洲）。 -->
+<!-- ✔ [place] Flotsam Point — 已建 flotsam-point（rev EtoX1N，实测 26）R34 -->
+<!-- ✔ [place] Shark Gulf — 已建 shark-gulf（rev iCzF3E，实测 18）R34 -->
+<!-- ✗ [place] Flag Point — 弃建：实测 MI/SI 0 命中，实属 Godfrey Morgan(GM) 仅 4 distinctPN，薄且异源；深扫聚合估值误报。 -->
+<!-- ✔ [place] Twofold Bay — 已建 twofold-bay（rev 7AghAy，SC 澳洲 real，实测 36）R34 -->
+<!-- ✔ [place] Snowy River — 已建 snowy-river（rev 55qbz5，SC 澳洲 real，实测 20）R34 -->
+<!-- ✔ [place] Lake Tchad — 已建 lake-tchad（rev FuoXFI，FWB 非洲 real，实测 32）R34 -->
+<!-- R35 待建（深扫末批 4）：Lake Kirdall(MW) / Loch Katrine(SC/UC) / Christmas Harbour(AM) / Port Barnett(FC)。 -->
 <!-- 其它真实/虚构地理（各源作）-->
-- [place] Twofold Bay — SC(In Search of the Castaways)；scan distinctPN≈39；澳洲 NSW 真实海湾（real）
-- [place] Lake Tchad — FWB(Five Weeks in a Balloon)；scan distinctPN≈32；非洲乍得湖（real）
-- [place] Snowy River — SC；scan distinctPN≈20；澳洲斯诺伊河（real）
+<!-- ✔ Twofold Bay / Lake Tchad / Snowy River 已建 R34（见上簇注）-->
 - [place] Lake Kirdall — MW(The Master of the World)；scan distinctPN≈15；Robur 邻近湖（fictional）
 - [place] Loch Katrine — SC/UC；scan distinctPN≈14；苏格兰卡特琳湖（real）
 - [place] Christmas Harbour — AM(An Antarctic Mystery)；scan distinctPN≈13；凯尔盖朗岛港（real）
