@@ -1077,6 +1077,12 @@
       "aliases": [],
       "path": "ca/cape-bathurst.md"
     },
+    "cape-michael": {
+      "type": "place",
+      "label": "Cape Michael",
+      "aliases": [],
+      "path": "ca/cape-michael.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -1099,6 +1105,12 @@
       "label": "Christmas Harbour",
       "aliases": [],
       "path": "ch/christmas-harbour.md"
+    },
+    "claw-cape": {
+      "type": "place",
+      "label": "Claw Cape",
+      "aliases": [],
+      "path": "cl/claw-cape.md"
     },
     "columbiad-launch": {
       "type": "event",
@@ -2370,6 +2382,12 @@
         "Master and Man"
       ],
       "path": "fo/fogg-hires-passepartout.md"
+    },
+    "fort-hope": {
+      "type": "place",
+      "label": "Fort Hope",
+      "aliases": [],
+      "path": "fo/fort-hope.md"
     },
     "fort-reliance": {
       "type": "place",
@@ -4647,6 +4665,12 @@
       "aliases": [],
       "path": "rc/RC-ch23.md"
     },
+    "red-creek": {
+      "type": "place",
+      "label": "Red Creek",
+      "aliases": [],
+      "path": "re/red-creek.md"
+    },
     "reform-club": {
       "type": "place",
       "label": "Reform Club",
@@ -6088,6 +6112,12 @@
       ],
       "path": "to/topsy-turvy.md"
     },
+    "tsalal-island": {
+      "type": "place",
+      "label": "Tsalal Island",
+      "aliases": [],
+      "path": "ts/tsalal-island.md"
+    },
     "TT-ch01": {
       "type": "chapter",
       "label": "Topsy Turvy — CHAPTER I",
@@ -7100,6 +7130,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-michael": "cape-michael",
+    "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -7109,6 +7141,8 @@
     "Prince Dakkar": "captain-nemo",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
+    "claw-cape": "claw-cape",
+    "Claw Cape": "claw-cape",
     "columbiad-launch": "columbiad-launch",
     "The Columbiad Launch": "columbiad-launch",
     "Launch of the Projectile": "columbiad-launch",
@@ -7351,6 +7385,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "fort-hope": "fort-hope",
+    "Fort Hope": "fort-hope",
     "fort-reliance": "fort-reliance",
     "Fort Reliance": "fort-reliance",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
@@ -7829,6 +7865,8 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "red-creek": "red-creek",
+    "Red Creek": "red-creek",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
     "RM-ch01": "RM-ch01",
@@ -8143,6 +8181,8 @@
     "Topsy-Turvy": "topsy-turvy",
     "Sans dessus dessous": "topsy-turvy",
     "The Purchase of the North Pole": "topsy-turvy",
+    "tsalal-island": "tsalal-island",
+    "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -8286,6 +8326,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1110,
-  "generated": "2026-07-15T11:03:06Z"
+  "page_count": 1115,
+  "generated": "2026-07-15T11:12:32Z"
 }

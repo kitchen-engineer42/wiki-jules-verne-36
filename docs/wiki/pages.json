@@ -3555,7 +3555,29 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 5
+    },
+    "cape-michael": {
+      "type": "place",
+      "label": "Cape Michael",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ca/cape-michael.md",
+      "description": "The fictional headland on the drifting peninsula of Cape Bathurst in The Fur Country, eastern limit of the colony and the point where the settlers quit the doomed island.",
+      "prose_len": 1791,
+      "prose_chars": 1685,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "captain-hatteras": {
       "type": "character",
@@ -3626,6 +3648,28 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "An Antarctic Mystery",
+      "total_refs": 1
+    },
+    "claw-cape": {
+      "type": "place",
+      "label": "Claw Cape",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "lincoln-island"
+      ],
+      "path": "cl/claw-cape.md",
+      "description": "The fictional yataghan-shaped headland at the southeastern extremity of Lincoln Island in The Mysterious Island, named by Neb during the settlers' survey.",
+      "prose_len": 1873,
+      "prose_chars": 1770,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Mysterious Island",
       "total_refs": 0
     },
     "columbiad-launch": {
@@ -7841,6 +7885,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "fort-hope": {
+      "type": "place",
+      "label": "Fort Hope",
+      "aliases": [],
+      "tags": [
+        "place",
+        "fort",
+        "arctic"
+      ],
+      "path": "fo/fort-hope.md",
+      "description": "The fictional Hudson's Bay Company fort at Cape Bathurst in The Fur Country, home of Hobson's expedition and carried off when the peninsula drifts to sea.",
+      "prose_len": 1912,
+      "prose_chars": 1809,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Fur Country",
+      "total_refs": 1
+    },
     "fort-reliance": {
       "type": "place",
       "label": "Fort Reliance",
@@ -9408,7 +9474,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 73
+      "total_refs": 75
     },
     "great-eyrie": {
       "type": "place",
@@ -10622,7 +10688,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lake-kirdall": {
       "type": "place",
@@ -10763,7 +10829,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 82
+      "total_refs": 84
     },
     "loch-katrine": {
       "type": "place",
@@ -14827,7 +14893,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 2
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -15358,6 +15424,28 @@
       "book_seq": 697,
       "book": "Robur the Conqueror",
       "total_refs": 1
+    },
+    "red-creek": {
+      "type": "place",
+      "label": "Red Creek",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "lincoln-island"
+      ],
+      "path": "re/red-creek.md",
+      "description": "The fictional watercourse on Lincoln Island in The Mysterious Island, named for the colour of its waters and feeding the island's great lake.",
+      "prose_len": 1641,
+      "prose_chars": 1538,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Mysterious Island",
+      "total_refs": 0
     },
     "reform-club": {
       "type": "place",
@@ -20090,6 +20178,28 @@
       "quality_score": 44,
       "total_refs": 0
     },
+    "tsalal-island": {
+      "type": "place",
+      "label": "Tsalal Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "antarctic"
+      ],
+      "path": "ts/tsalal-island.md",
+      "description": "The fictional Antarctic island at the heart of An Antarctic Mystery, taken from Poe's Arthur Gordon Pym and the goal of the schooner Halbrane's voyage.",
+      "prose_len": 1802,
+      "prose_chars": 1696,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "TT-ch01": {
       "type": "chapter",
       "label": "Topsy Turvy — CHAPTER I",
@@ -21895,7 +22005,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "VB": {
       "type": "chapter",
@@ -21962,7 +22072,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -22975,6 +23085,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-michael": "cape-michael",
+    "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -22984,6 +23096,8 @@
     "Prince Dakkar": "captain-nemo",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
+    "claw-cape": "claw-cape",
+    "Claw Cape": "claw-cape",
     "columbiad-launch": "columbiad-launch",
     "The Columbiad Launch": "columbiad-launch",
     "Launch of the Projectile": "columbiad-launch",
@@ -23226,6 +23340,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "fort-hope": "fort-hope",
+    "Fort Hope": "fort-hope",
     "fort-reliance": "fort-reliance",
     "Fort Reliance": "fort-reliance",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
@@ -23704,6 +23820,8 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "red-creek": "red-creek",
+    "Red Creek": "red-creek",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
     "RM-ch01": "RM-ch01",
@@ -24018,6 +24136,8 @@
     "Topsy-Turvy": "topsy-turvy",
     "Sans dessus dessous": "topsy-turvy",
     "The Purchase of the North Pole": "topsy-turvy",
+    "tsalal-island": "tsalal-island",
+    "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -24161,6 +24281,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1110,
-  "generated": "2026-07-15T11:03:06Z"
+  "page_count": 1115,
+  "generated": "2026-07-15T11:12:32Z"
 }

@@ -49,18 +49,19 @@
 <!-- Peninsula|Harbour|Strait|Falls|Creek) 全标记扫描，按源作 grep 拆分 distinctPN（已排除跨源聚合误报）。 -->
 <!-- ⚠ Fort Providence 勘误：R30 曾「降级」记语料仅 3 处——实为源作误判，实测 ACH:22 distinctPN（Hatteras 北极），非薄候选，本轮恢复入队。 -->
 <!-- ✗ Flag Point 续弃：本轮聚合仍报 14，实测 GM 仅 4 distinctPN（R34 已弃），不入队。 -->
+<!-- R37 NEW1 已建 5 页（R36 复扫首批）：fort-hope/cape-michael/claw-cape/red-creek/tsalal-island。 -->
 <!-- Lincoln Island 簇补漏（MI，fictional，承既有岛链）：-->
-- [place] Claw Cape — MI(The Mysterious Island)；MI:32；林肯岛西南岬（fictional）
-- [place] Red Creek — MI；MI:24；林肯岛红溪（fictional）
+<!-- ✔ [place] Claw Cape — 已建 claw-cape（rev 2RcOUB，MI，实测 32）R37 -->
+<!-- ✔ [place] Red Creek — 已建 red-creek（rev cPY4rJ，MI，实测 24；注入 lake-grant）R37 -->
 <!-- The Fur Country 簇（FC，承 cape-bathurst/port-barnett/victoria-island 漂流链）：-->
-- [place] Fort Hope — FC(The Fur Country)；FC:66；漂流殖民地中心要塞（fictional，重大补漏）
-- [place] Cape Michael — FC；FC:25；port-barnett 邻岬（fictional）
+<!-- ✔ [place] Fort Hope — 已建 fort-hope（rev lstwEI，FC，实测 66；漂流殖民地中心要塞）R37 -->
+<!-- ✔ [place] Cape Michael — 已建 cape-michael（rev GBNbot，FC，实测 25）R37 -->
 - [place] Cape Esquimaux — FC；FC:23；漂流半岛岬（fictional）
 - [place] Behring Strait — FC；FC:22；白令海峡（real）
 - [place] Polar Sea — FC；FC:14；北极海（real/generic，建前定名）
 - [place] Bear Lake — FC；FC:11；大熊湖（real）
 <!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
-- [place] Tsalal Island — AM(An Antarctic Mystery)；AM:61；Poe 之谜岛（fictional）
+<!-- ✔ [place] Tsalal Island — 已建 tsalal-island（rev 2xuDfE，AM，实测 61；接 christmas-harbour）R37 -->
 - [place] Fort Providence — ACH(Adventures of Captain Hatteras)；ACH:22；北极越冬堡（real，R30 误降级已勘误）
 - [place] Beechey Island — ACH；ACH:20；比奇岛（real）
 - [place] Melville Island — ACH；ACH:9；梅尔维尔岛（real，borderline）
