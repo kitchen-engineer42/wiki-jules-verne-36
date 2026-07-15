@@ -2333,6 +2333,15 @@
       "aliases": [],
       "path": "fr/from-the-earth-to-the-moon.md"
     },
+    "fulgurator": {
+      "type": "technology",
+      "label": "Fulgurator",
+      "aliases": [
+        "Roch's Fulgurator",
+        "Roch Fulgurator"
+      ],
+      "path": "fu/fulgurator.md"
+    },
     "FWB-ch01": {
       "type": "chapter",
       "label": "Five Weeks in a Balloon — CHAPTER FIRST",
@@ -4292,6 +4301,12 @@
       ],
       "path": "of/off-on-a-comet.md"
     },
+    "oxyhydric-gas": {
+      "type": "technology",
+      "label": "oxyhydric gas",
+      "aliases": [],
+      "path": "ox/oxyhydric-gas.md"
+    },
     "passepartout": {
       "type": "character",
       "label": "Passepartout",
@@ -5734,6 +5749,14 @@
       ],
       "path": "th/the-pearl-of-lima.md"
     },
+    "the-sword": {
+      "type": "technology",
+      "label": "the Sword",
+      "aliases": [
+        "Sword"
+      ],
+      "path": "th/the-sword.md"
+    },
     "the-terror": {
       "type": "technology",
       "label": "The Terror",
@@ -7146,6 +7169,10 @@
     "Master and Man": "fogg-hires-passepartout",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
+    "fulgurator": "fulgurator",
+    "Fulgurator": "fulgurator",
+    "Roch's Fulgurator": "fulgurator",
+    "Roch Fulgurator": "fulgurator",
     "FWB-ch01": "FWB-ch01",
     "FWB-ch02": "FWB-ch02",
     "FWB-ch03": "FWB-ch03",
@@ -7545,6 +7572,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "oxyhydric-gas": "oxyhydric-gas",
+    "oxyhydric gas": "oxyhydric-gas",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -7843,6 +7872,9 @@
     "Martin Paz": "the-pearl-of-lima",
     "Un drame au Mexique": "the-pearl-of-lima",
     "The Pearl of Lima: A Story of True Love": "the-pearl-of-lima",
+    "the-sword": "the-sword",
+    "the Sword": "the-sword",
+    "Sword": "the-sword",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -8027,6 +8059,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1080,
-  "generated": "2026-07-15T09:37:37Z"
+  "page_count": 1083,
+  "generated": "2026-07-15T09:49:52Z"
 }

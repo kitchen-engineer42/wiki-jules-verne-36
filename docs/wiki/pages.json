@@ -7708,6 +7708,33 @@
       "quality_score": 38,
       "total_refs": 11
     },
+    "fulgurator": {
+      "type": "technology",
+      "label": "Fulgurator",
+      "aliases": [
+        "Roch's Fulgurator",
+        "Roch Fulgurator"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "weapon",
+        "explosive",
+        "1890s"
+      ],
+      "path": "fu/fulgurator.md",
+      "description": "The self-propelled super-explosive war-engine invented by Thomas Roch, whose secret drives the plot of Facing the Flag.",
+      "prose_len": 3807,
+      "prose_chars": 3687,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 88,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "FWB-ch01": {
       "type": "chapter",
       "label": "Five Weeks in a Balloon — CHAPTER FIRST",
@@ -13039,7 +13066,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 55
+      "total_refs": 56
     },
     "ned-land": {
       "type": "character",
@@ -14165,6 +14192,30 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
+      "total_refs": 0
+    },
+    "oxyhydric-gas": {
+      "type": "technology",
+      "label": "oxyhydric gas",
+      "aliases": [],
+      "tags": [
+        "technology",
+        "invention",
+        "concept",
+        "chemistry",
+        "satire"
+      ],
+      "path": "ox/oxyhydric-gas.md",
+      "description": "The illuminating gas Doctor Ox uses as cover for his physiological experiment on the town of Quiquendone.",
+      "prose_len": 2861,
+      "prose_chars": 2742,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "book": "Doctor Ox's Experiment",
       "total_refs": 0
     },
     "passepartout": {
@@ -18908,6 +18959,32 @@
       "quality_score": 80,
       "total_refs": 0
     },
+    "the-sword": {
+      "type": "technology",
+      "label": "the Sword",
+      "aliases": [
+        "Sword"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "vehicle",
+        "submarine",
+        "1890s"
+      ],
+      "path": "th/the-sword.md",
+      "description": "The small British submersible torpedo-boat sent into Back Cup lagoon to rescue Thomas Roch in Facing the Flag.",
+      "prose_len": 2661,
+      "prose_chars": 2548,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "the-terror": {
       "type": "technology",
       "label": "The Terror",
@@ -22539,6 +22616,10 @@
     "Master and Man": "fogg-hires-passepartout",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
+    "fulgurator": "fulgurator",
+    "Fulgurator": "fulgurator",
+    "Roch's Fulgurator": "fulgurator",
+    "Roch Fulgurator": "fulgurator",
     "FWB-ch01": "FWB-ch01",
     "FWB-ch02": "FWB-ch02",
     "FWB-ch03": "FWB-ch03",
@@ -22938,6 +23019,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "oxyhydric-gas": "oxyhydric-gas",
+    "oxyhydric gas": "oxyhydric-gas",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -23236,6 +23319,9 @@
     "Martin Paz": "the-pearl-of-lima",
     "Un drame au Mexique": "the-pearl-of-lima",
     "The Pearl of Lima: A Story of True Love": "the-pearl-of-lima",
+    "the-sword": "the-sword",
+    "the Sword": "the-sword",
+    "Sword": "the-sword",
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
@@ -23420,6 +23506,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1080,
-  "generated": "2026-07-15T09:37:37Z"
+  "page_count": 1083,
+  "generated": "2026-07-15T09:49:52Z"
 }
