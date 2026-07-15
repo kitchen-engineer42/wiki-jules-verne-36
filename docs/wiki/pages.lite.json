@@ -2206,6 +2206,14 @@
       "aliases": [],
       "path": "ff/FF-ch18.md"
     },
+    "five-weeks-in-a-balloon": {
+      "type": "work",
+      "label": "Five Weeks in a Balloon",
+      "aliases": [
+        "Five Weeks in a Balloon: A Journey of Discovery by Three Englishmen in Africa"
+      ],
+      "path": "fi/five-weeks-in-a-balloon.md"
+    },
     "fix": {
       "type": "character",
       "label": "Detective Fix",
@@ -2698,6 +2706,14 @@
       "label": "Iceland",
       "aliases": [],
       "path": "ic/iceland.md"
+    },
+    "in-search-of-the-castaways": {
+      "type": "work",
+      "label": "In Search of the Castaways",
+      "aliases": [
+        "The Children of Captain Grant"
+      ],
+      "path": "in/in-search-of-the-castaways.md"
     },
     "jangada": {
       "type": "technology",
@@ -4083,6 +4099,15 @@
       "aliases": [],
       "path": "oc/OC-ch45.md"
     },
+    "off-on-a-comet": {
+      "type": "work",
+      "label": "Off on a Comet",
+      "aliases": [
+        "Hector Servadac",
+        "To the Sun? / Off on a Comet"
+      ],
+      "path": "of/off-on-a-comet.md"
+    },
     "passepartout": {
       "type": "character",
       "label": "Passepartout",
@@ -5379,6 +5404,14 @@
       "aliases": [],
       "path": "st/stromboli.md"
     },
+    "survivors-of-the-chancellor": {
+      "type": "work",
+      "label": "The Survivors of the Chancellor",
+      "aliases": [
+        "The Chancellor"
+      ],
+      "path": "su/survivors-of-the-chancellor.md"
+    },
     "tabor-island-castaway": {
       "type": "event",
       "label": "The Tabor Island Castaway",
@@ -5408,6 +5441,14 @@
         "Forward"
       ],
       "path": "th/the-forward.md"
+    },
+    "the-fur-country": {
+      "type": "work",
+      "label": "The Fur Country",
+      "aliases": [
+        "The Fur Country: Seventy Degrees North Latitude"
+      ],
+      "path": "th/the-fur-country.md"
     },
     "the-moon": {
       "type": "place",
@@ -6741,6 +6782,9 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "five-weeks-in-a-balloon": "five-weeks-in-a-balloon",
+    "Five Weeks in a Balloon": "five-weeks-in-a-balloon",
+    "Five Weeks in a Balloon: A Journey of Discovery by Three Englishmen in Africa": "five-weeks-in-a-balloon",
     "fix": "fix",
     "Detective Fix": "fix",
     "Fix": "fix",
@@ -6844,6 +6888,9 @@
     "Hong Kong": "hong-kong",
     "iceland": "iceland",
     "Iceland": "iceland",
+    "in-search-of-the-castaways": "in-search-of-the-castaways",
+    "In Search of the Castaways": "in-search-of-the-castaways",
+    "The Children of Captain Grant": "in-search-of-the-castaways",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -7103,6 +7150,10 @@
     "OC-ch43": "OC-ch43",
     "OC-ch44": "OC-ch44",
     "OC-ch45": "OC-ch45",
+    "off-on-a-comet": "off-on-a-comet",
+    "Off on a Comet": "off-on-a-comet",
+    "Hector Servadac": "off-on-a-comet",
+    "To the Sun? / Off on a Comet": "off-on-a-comet",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -7342,6 +7393,9 @@
     "Return by Volcano": "stromboli-eruption-return",
     "stromboli": "stromboli",
     "Stromboli": "stromboli",
+    "survivors-of-the-chancellor": "survivors-of-the-chancellor",
+    "The Survivors of the Chancellor": "survivors-of-the-chancellor",
+    "The Chancellor": "survivors-of-the-chancellor",
     "tabor-island-castaway": "tabor-island-castaway",
     "The Tabor Island Castaway": "tabor-island-castaway",
     "Discovery of Ayrton": "tabor-island-castaway",
@@ -7353,6 +7407,9 @@
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
+    "the-fur-country": "the-fur-country",
+    "The Fur Country": "the-fur-country",
+    "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
     "the-moon": "the-moon",
     "The Moon": "the-moon",
     "Luna": "the-moon",
@@ -7522,6 +7579,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1040,
-  "generated": "2026-07-15T02:15:44Z"
+  "page_count": 1045,
+  "generated": "2026-07-15T02:40:20Z"
 }
