@@ -3243,7 +3243,7 @@
       "quality_score": 66,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 79
+      "total_refs": 80
     },
     "BR-ch01": {
       "type": "chapter",
@@ -3444,6 +3444,30 @@
       "book_seq": 734,
       "book": "The Blockade Runners",
       "total_refs": 1
+    },
+    "cambridge-observatory": {
+      "type": "organization",
+      "label": "Cambridge Observatory",
+      "aliases": [
+        "Observatory of Cambridge"
+      ],
+      "tags": [
+        "organization",
+        "astronomy",
+        "science"
+      ],
+      "path": "ca/cambridge-observatory.md",
+      "description": "The Massachusetts observatory whose director answers the Gun Club's astronomical questions about reaching the Moon.",
+      "prose_len": 1765,
+      "prose_chars": 1706,
+      "h2_count": 3,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "From the Earth to the Moon",
+      "total_refs": 0
     },
     "captain-hatteras": {
       "type": "character",
@@ -4810,6 +4834,28 @@
       "book_seq": 347,
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 1
+    },
+    "east-india-company": {
+      "type": "organization",
+      "label": "East India Company",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "commerce",
+        "empire"
+      ],
+      "path": "ea/east-india-company.md",
+      "description": "The once all-powerful trading company that ruled British India before its possessions passed to the Crown.",
+      "prose_len": 1736,
+      "prose_chars": 1679,
+      "h2_count": 3,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -9179,7 +9225,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 15
+      "total_refs": 16
     },
     "gun-cotton": {
       "type": "technology",
@@ -9253,7 +9299,7 @@
       "quality": "featured",
       "quality_score": 91,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "iceland": {
       "type": "place",
@@ -14096,7 +14142,7 @@
       "quality_score": 68,
       "affiliation": "Reform Club",
       "book": "Around the World in Eighty Days",
-      "total_refs": 46
+      "total_refs": 47
     },
     "PL-ch01": {
       "type": "chapter",
@@ -15342,6 +15388,52 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 90,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 1
+    },
+    "royal-institution": {
+      "type": "organization",
+      "label": "Royal Institution",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "science",
+        "learned-society"
+      ],
+      "path": "ro/royal-institution.md",
+      "description": "The Edinburgh learned society of which engineer James Starr is a leading member.",
+      "prose_len": 1435,
+      "prose_chars": 1378,
+      "h2_count": 3,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Underground City",
+      "total_refs": 0
+    },
+    "royal-society": {
+      "type": "organization",
+      "label": "Royal Society",
+      "aliases": [
+        "Royal Society of London"
+      ],
+      "tags": [
+        "organization",
+        "science",
+        "learned-society"
+      ],
+      "path": "ro/royal-society.md",
+      "description": "The premier London learned society whose members and laureates figure across several of the Voyages.",
+      "prose_len": 1625,
+      "prose_chars": 1568,
+      "h2_count": 3,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
       "book": "Five Weeks in a Balloon",
       "total_refs": 0
     },
@@ -18352,6 +18444,30 @@
       "quality_score": 66,
       "book": "Journey to the Center of the Earth",
       "total_refs": 26
+    },
+    "st-louis-fur-company": {
+      "type": "organization",
+      "label": "St Louis Fur Company",
+      "aliases": [
+        "American St Louis Fur Company"
+      ],
+      "tags": [
+        "organization",
+        "fur-trade",
+        "commerce"
+      ],
+      "path": "st/st-louis-fur-company.md",
+      "description": "The American fur-trading company that is the sole remaining rival of the Hudson's Bay Company in the far north.",
+      "prose_len": 1550,
+      "prose_chars": 1493,
+      "h2_count": 3,
+      "pn_count": 4,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -22076,6 +22192,9 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "cambridge-observatory": "cambridge-observatory",
+    "Cambridge Observatory": "cambridge-observatory",
+    "Observatory of Cambridge": "cambridge-observatory",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -22164,6 +22283,8 @@
     "DSCF-ch36": "DSCF-ch36",
     "DSCF-ch37": "DSCF-ch37",
     "DSCF-ch38": "DSCF-ch38",
+    "east-india-company": "east-india-company",
+    "East India Company": "east-india-company",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -22792,6 +22913,11 @@
     "royal-geographical-society": "royal-geographical-society",
     "Royal Geographical Society": "royal-geographical-society",
     "Royal Geographical Society of London": "royal-geographical-society",
+    "royal-institution": "royal-institution",
+    "Royal Institution": "royal-institution",
+    "royal-society": "royal-society",
+    "Royal Society": "royal-society",
+    "Royal Society of London": "royal-society",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -22954,6 +23080,9 @@
     "Snæfellsjökull": "snaefellsjokull",
     "Sneffels": "snaefellsjokull",
     "Snæfell": "snaefellsjokull",
+    "st-louis-fur-company": "st-louis-fur-company",
+    "St Louis Fur Company": "st-louis-fur-company",
+    "American St Louis Fur Company": "st-louis-fur-company",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -23183,6 +23312,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1071,
-  "generated": "2026-07-15T08:26:53Z"
+  "page_count": 1076,
+  "generated": "2026-07-15T08:55:58Z"
 }

@@ -1043,6 +1043,14 @@
       "aliases": [],
       "path": "br/BR-ch10.md"
     },
+    "cambridge-observatory": {
+      "type": "organization",
+      "label": "Cambridge Observatory",
+      "aliases": [
+        "Observatory of Cambridge"
+      ],
+      "path": "ca/cambridge-observatory.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -1458,6 +1466,12 @@
       "label": "Dick Sand: A Captain at Fifteen — CHAPTER XX",
       "aliases": [],
       "path": "ds/DSCF-ch38.md"
+    },
+    "east-india-company": {
+      "type": "organization",
+      "label": "East India Company",
+      "aliases": [],
+      "path": "ea/east-india-company.md"
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -4650,6 +4664,20 @@
       ],
       "path": "ro/royal-geographical-society.md"
     },
+    "royal-institution": {
+      "type": "organization",
+      "label": "Royal Institution",
+      "aliases": [],
+      "path": "ro/royal-institution.md"
+    },
+    "royal-society": {
+      "type": "organization",
+      "label": "Royal Society",
+      "aliases": [
+        "Royal Society of London"
+      ],
+      "path": "ro/royal-society.md"
+    },
     "ruhmkorff-apparatus": {
       "type": "technology",
       "label": "Ruhmkorff Apparatus",
@@ -5555,6 +5583,14 @@
         "Snæfell"
       ],
       "path": "sn/snaefellsjokull.md"
+    },
+    "st-louis-fur-company": {
+      "type": "organization",
+      "label": "St Louis Fur Company",
+      "aliases": [
+        "American St Louis Fur Company"
+      ],
+      "path": "st/st-louis-fur-company.md"
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -6830,6 +6866,9 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "cambridge-observatory": "cambridge-observatory",
+    "Cambridge Observatory": "cambridge-observatory",
+    "Observatory of Cambridge": "cambridge-observatory",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -6918,6 +6957,8 @@
     "DSCF-ch36": "DSCF-ch36",
     "DSCF-ch37": "DSCF-ch37",
     "DSCF-ch38": "DSCF-ch38",
+    "east-india-company": "east-india-company",
+    "East India Company": "east-india-company",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -7546,6 +7587,11 @@
     "royal-geographical-society": "royal-geographical-society",
     "Royal Geographical Society": "royal-geographical-society",
     "Royal Geographical Society of London": "royal-geographical-society",
+    "royal-institution": "royal-institution",
+    "Royal Institution": "royal-institution",
+    "royal-society": "royal-society",
+    "Royal Society": "royal-society",
+    "Royal Society of London": "royal-society",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -7708,6 +7754,9 @@
     "Snæfellsjökull": "snaefellsjokull",
     "Sneffels": "snaefellsjokull",
     "Snæfell": "snaefellsjokull",
+    "st-louis-fur-company": "st-louis-fur-company",
+    "St Louis Fur Company": "st-louis-fur-company",
+    "American St Louis Fur Company": "st-louis-fur-company",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -7937,6 +7986,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1071,
-  "generated": "2026-07-15T08:26:53Z"
+  "page_count": 1076,
+  "generated": "2026-07-15T08:55:58Z"
 }
