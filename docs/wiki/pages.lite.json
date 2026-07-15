@@ -2849,6 +2849,14 @@
       ],
       "path": "in/in-the-year-2889.md"
     },
+    "inquiry-committee": {
+      "type": "organization",
+      "label": "Inquiry Committee",
+      "aliases": [
+        "Committee of Inquiry"
+      ],
+      "path": "in/inquiry-committee.md"
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -7247,6 +7255,9 @@
     "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
     "In the Twenty-Ninth Century": "in-the-year-2889",
     "The Day of an American Journalist in 2889": "in-the-year-2889",
+    "inquiry-committee": "inquiry-committee",
+    "Inquiry Committee": "inquiry-committee",
+    "Committee of Inquiry": "inquiry-committee",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -8008,6 +8019,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1078,
-  "generated": "2026-07-15T09:11:17Z"
+  "page_count": 1079,
+  "generated": "2026-07-15T09:20:00Z"
 }

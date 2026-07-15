@@ -7,8 +7,8 @@
 <!-- Reform Club 发现漏判：已存在为 place 页（reform-club，Pilot 期建），未重建；place/org 归类待定，见 housekeeping -->
 <!-- R15 SCN28 org-suffix 语料复扫新增 → R16 NEW1 已建：canadian-general-transportation-company / north-west-company -->
 <!-- R17 SCN28 broadened 复扫新增（committee/railroad 等扩展后缀）：-->
-- [organization] Inquiry Committee — TT(Topsy-Turvy)；distinctPN≈10；John Prestice 主持的调查委员会，审查 Maston 的北极计算
-<!-- organization P1 R17 后仅 Inquiry Committee 待建；R18 NEW1 建后清空 → R19 SCN28（标准法，不再 broaden）→streak 3 → R20 CLOSE。 -->
+<!-- R18 NEW1 已建：inquiry-committee（rev p3KLGL，TT）。organization P1 清空。 -->
+<!-- organization 候选穷尽 → R19 SCN28（标准法，不再 broaden）确认 → streak 2→3 → R20 CLOSE 转 technology。 -->
 
 ## P2 — 中优先级
 <!-- R12 SCN28 红链发现（label-aware 未解析 wikilink 扫描）。跨类型候选，待各自类型轮消费。 -->

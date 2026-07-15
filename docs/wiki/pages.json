@@ -9249,7 +9249,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 16
+      "total_refs": 17
     },
     "gun-cotton": {
       "type": "technology",
@@ -9396,6 +9396,30 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 94,
+      "total_refs": 0
+    },
+    "inquiry-committee": {
+      "type": "organization",
+      "label": "Inquiry Committee",
+      "aliases": [
+        "Committee of Inquiry"
+      ],
+      "tags": [
+        "organization",
+        "investigation",
+        "government"
+      ],
+      "path": "in/inquiry-committee.md",
+      "description": "The official commission under President John Prestice that interrogated J.T. Maston to uncover the secret of the North Pole cannon.",
+      "prose_len": 2339,
+      "prose_chars": 2278,
+      "h2_count": 3,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Topsy-Turvy",
       "total_refs": 0
     },
     "jangada": {
@@ -13119,7 +13143,7 @@
       "quality": "featured",
       "quality_score": 86,
       "book": "Topsy-Turvy",
-      "total_refs": 0
+      "total_refs": 1
     },
     "north-pole-volcano": {
       "type": "event",
@@ -22605,6 +22629,9 @@
     "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
     "In the Twenty-Ninth Century": "in-the-year-2889",
     "The Day of an American Journalist in 2889": "in-the-year-2889",
+    "inquiry-committee": "inquiry-committee",
+    "Inquiry Committee": "inquiry-committee",
+    "Committee of Inquiry": "inquiry-committee",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -23366,6 +23393,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1078,
-  "generated": "2026-07-15T09:11:17Z"
+  "page_count": 1079,
+  "generated": "2026-07-15T09:20:00Z"
 }
