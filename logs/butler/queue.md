@@ -8,7 +8,8 @@
 <!-- R15 SCN28 org-suffix 语料复扫新增 → R16 NEW1 已建：canadian-general-transportation-company / north-west-company -->
 <!-- R17 SCN28 broadened 复扫新增（committee/railroad 等扩展后缀）：-->
 <!-- R18 NEW1 已建：inquiry-committee（rev p3KLGL，TT）。organization P1 清空。 -->
-<!-- organization 候选穷尽 → R19 SCN28（标准法，不再 broaden）确认 → streak 2→3 → R20 CLOSE 转 technology。 -->
+<!-- R19 SCN28 标准法复扫确认穷尽：new_candidates=0，全为既有页碎片/误报，streak 2→3。 -->
+<!-- 关闭倒计时：R20 EVV5（since_evv5=10 优先触发）→ R21 CLOSE+SCN28 关闭 organization 转 technology。 -->
 
 ## P2 — 中优先级
 <!-- R12 SCN28 红链发现（label-aware 未解析 wikilink 扫描）。跨类型候选，待各自类型轮消费。 -->
