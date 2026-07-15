@@ -8902,6 +8902,33 @@
       "book": "Godfrey Morgan",
       "total_refs": 1
     },
+    "godfrey-morgan": {
+      "type": "work",
+      "label": "Godfrey Morgan",
+      "aliases": [
+        "L'École des Robinsons",
+        "The School for Crusoes",
+        "Godfrey Morgan: A Californian Mystery"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "robinsonade",
+        "voyage",
+        "satire"
+      ],
+      "path": "go/godfrey-morgan.md",
+      "description": "A Jules Verne novel in which a rich young Californian gets his wish for a castaway adventure, never knowing his ordeal has been staged by his uncle.",
+      "prose_len": 2213,
+      "prose_chars": 2106,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
+    },
     "granite-house-lift": {
       "type": "technology",
       "label": "Granite House Lift",
@@ -15000,6 +15027,32 @@
       "book": "Robur the Conqueror",
       "total_refs": 29
     },
+    "round-the-moon": {
+      "type": "work",
+      "label": "Round the Moon",
+      "aliases": [
+        "Autour de la Lune",
+        "Around the Moon"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "astronomy",
+        "voyage",
+        "space"
+      ],
+      "path": "ro/round-the-moon.md",
+      "description": "Jules Verne's sequel to From the Earth to the Moon, following three travellers sealed in a projectile as it circles the Moon and returns to Earth.",
+      "prose_len": 2159,
+      "prose_chars": 2053,
+      "h2_count": 5,
+      "pn_count": 7,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "total_refs": 5
+    },
     "ruhmkorff-apparatus": {
       "type": "technology",
       "label": "Ruhmkorff Apparatus",
@@ -18270,6 +18323,60 @@
       "book": "Master of the World",
       "total_refs": 2
     },
+    "the-waif-of-the-cynthia": {
+      "type": "work",
+      "label": "The Waif of the Cynthia",
+      "aliases": [
+        "L'Épave du Cynthia",
+        "Salvage from the Cynthia",
+        "A Waif of the Cynthia"
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "mystery",
+        "voyage",
+        "foundling"
+      ],
+      "path": "th/the-waif-of-the-cynthia.md",
+      "description": "A Jules Verne novel (with André Laurie) about a Norwegian foundling who seeks the truth of his birth, set adrift as an infant tied to a buoy from the ship Cynthia.",
+      "prose_len": 2227,
+      "prose_chars": 2120,
+      "h2_count": 5,
+      "pn_count": 5,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
+    },
+    "ticket-no-9672": {
+      "type": "work",
+      "label": "Ticket No. 9672",
+      "aliases": [
+        "Un billet de loterie",
+        "The Lottery Ticket",
+        "Ticket No. \"9672\""
+      ],
+      "tags": [
+        "work",
+        "adventure",
+        "romance",
+        "voyage",
+        "norway"
+      ],
+      "path": "ti/ticket-no-9672.md",
+      "description": "A Jules Verne novel set in Norway, in which a shipwrecked sailor's farewell message — a lottery ticket sealed in a bottle — becomes his betrothed's treasure.",
+      "prose_len": 2205,
+      "prose_chars": 2098,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "total_refs": 0
+    },
     "TN-ch01": {
       "type": "chapter",
       "label": "Ticket No. 9672 — CHAPTER I",
@@ -18707,6 +18814,32 @@
       "quality_score": 64,
       "book": "The Mysterious Island",
       "total_refs": 62
+    },
+    "topsy-turvy": {
+      "type": "work",
+      "label": "Topsy-Turvy",
+      "aliases": [
+        "Sans dessus dessous",
+        "The Purchase of the North Pole"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "satire",
+        "astronomy",
+        "invention"
+      ],
+      "path": "to/topsy-turvy.md",
+      "description": "A Jules Verne novel in which the Gun Club buys the Arctic and schemes to tilt the Earth's axis with a giant cannon to mine the coal beneath the polar ice.",
+      "prose_len": 2305,
+      "prose_chars": 2198,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "total_refs": 0
     },
     "TT-ch01": {
       "type": "chapter",
@@ -21813,6 +21946,11 @@
     "GM-ch20": "GM-ch20",
     "GM-ch21": "GM-ch21",
     "GM-ch22": "GM-ch22",
+    "godfrey-morgan": "godfrey-morgan",
+    "Godfrey Morgan": "godfrey-morgan",
+    "L'École des Robinsons": "godfrey-morgan",
+    "The School for Crusoes": "godfrey-morgan",
+    "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
     "granite-house-lift": "granite-house-lift",
     "Granite House Lift": "granite-house-lift",
     "Granite House elevator": "granite-house-lift",
@@ -22177,6 +22315,10 @@
     "The Clipper of the Clouds": "robur-the-conqueror",
     "robur": "robur",
     "Robur": "robur",
+    "round-the-moon": "round-the-moon",
+    "Round the Moon": "round-the-moon",
+    "Autour de la Lune": "round-the-moon",
+    "Around the Moon": "round-the-moon",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -22369,6 +22511,16 @@
     "the-terror": "the-terror",
     "The Terror": "the-terror",
     "Épouvante": "the-terror",
+    "the-waif-of-the-cynthia": "the-waif-of-the-cynthia",
+    "The Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "L'Épave du Cynthia": "the-waif-of-the-cynthia",
+    "Salvage from the Cynthia": "the-waif-of-the-cynthia",
+    "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "ticket-no-9672": "ticket-no-9672",
+    "Ticket No. 9672": "ticket-no-9672",
+    "Un billet de loterie": "ticket-no-9672",
+    "The Lottery Ticket": "ticket-no-9672",
+    "Ticket No. \"9672\"": "ticket-no-9672",
     "TN-ch01": "TN-ch01",
     "TN-ch02": "TN-ch02",
     "TN-ch03": "TN-ch03",
@@ -22393,6 +22545,10 @@
     "Table of Contents": "TOC",
     "top": "top",
     "Top": "top",
+    "topsy-turvy": "topsy-turvy",
+    "Topsy-Turvy": "topsy-turvy",
+    "Sans dessus dessous": "topsy-turvy",
+    "The Purchase of the North Pole": "topsy-turvy",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -22530,6 +22686,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1050,
-  "generated": "2026-07-15T02:59:08Z"
+  "page_count": 1055,
+  "generated": "2026-07-15T03:14:58Z"
 }
