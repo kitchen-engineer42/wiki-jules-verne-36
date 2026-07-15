@@ -534,6 +534,12 @@
       "aliases": [],
       "path": "ao/aouda.md"
     },
+    "around-the-world-in-eighty-days": {
+      "type": "work",
+      "label": "Around the World in Eighty Days",
+      "aliases": [],
+      "path": "ar/around-the-world-in-eighty-days.md"
+    },
     "ASC-ch01": {
       "type": "chapter",
       "label": "The Adventures of a Special Correspondent — CHAPTER I",
@@ -2216,6 +2222,12 @@
       ],
       "path": "fo/fogg-hires-passepartout.md"
     },
+    "from-the-earth-to-the-moon": {
+      "type": "work",
+      "label": "From the Earth to the Moon",
+      "aliases": [],
+      "path": "fr/from-the-earth-to-the-moon.md"
+    },
     "FWB-ch01": {
       "type": "chapter",
       "label": "Five Weeks in a Balloon — CHAPTER FIRST",
@@ -2965,6 +2977,15 @@
       "label": "A Journey to the Center of the Earth — CHAPTER XLV",
       "aliases": [],
       "path": "jc/JCE-ch45.md"
+    },
+    "journey-to-the-center-of-the-earth": {
+      "type": "work",
+      "label": "A Journey to the Center of the Earth",
+      "aliases": [
+        "Journey to the Center of the Earth",
+        "A Journey to the Centre of the Earth"
+      ],
+      "path": "jo/journey-to-the-center-of-the-earth.md"
     },
     "liedenbrock-cipher": {
       "type": "event",
@@ -4422,6 +4443,14 @@
       "aliases": [],
       "path": "rm/RM-ch23.md"
     },
+    "robur-the-conqueror": {
+      "type": "work",
+      "label": "Robur the Conqueror",
+      "aliases": [
+        "The Clipper of the Clouds"
+      ],
+      "path": "ro/robur-the-conqueror.md"
+    },
     "robur": {
       "type": "character",
       "label": "Robur",
@@ -5365,6 +5394,12 @@
         "Tampa"
       ],
       "path": "ta/tampa-town.md"
+    },
+    "the-adventures-of-captain-hatteras": {
+      "type": "work",
+      "label": "The Adventures of Captain Hatteras",
+      "aliases": [],
+      "path": "th/the-adventures-of-captain-hatteras.md"
     },
     "the-forward": {
       "type": "technology",
@@ -6408,6 +6443,8 @@
     "AMB": "AMB",
     "aouda": "aouda",
     "Aouda": "aouda",
+    "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
+    "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
     "ASC-ch02": "ASC-ch02",
     "ASC-ch03": "ASC-ch03",
@@ -6710,6 +6747,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
+    "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "FWB-ch01": "FWB-ch01",
     "FWB-ch02": "FWB-ch02",
     "FWB-ch03": "FWB-ch03",
@@ -6854,6 +6893,10 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
+    "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
+    "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
+    "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -7127,9 +7170,11 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robur-the-conqueror": "robur-the-conqueror",
+    "Robur the Conqueror": "robur-the-conqueror",
+    "The Clipper of the Clouds": "robur-the-conqueror",
     "robur": "robur",
     "Robur": "robur",
-    "Robur the Conqueror": "robur",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -7303,6 +7348,8 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
+    "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -7475,6 +7522,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1035,
-  "generated": "2026-07-14T10:07:07Z"
+  "page_count": 1040,
+  "generated": "2026-07-15T02:15:44Z"
 }

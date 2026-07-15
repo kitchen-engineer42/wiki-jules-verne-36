@@ -1205,7 +1205,7 @@
       "quality": "featured",
       "quality_score": 82,
       "book": "Robur the Conqueror",
-      "total_refs": 28
+      "total_refs": 29
     },
     "AM-ch01": {
       "type": "chapter",
@@ -1767,7 +1767,28 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
-      "total_refs": 22
+      "total_refs": 23
+    },
+    "around-the-world-in-eighty-days": {
+      "type": "work",
+      "label": "Around the World in Eighty Days",
+      "aliases": [],
+      "tags": [
+        "work",
+        "adventure",
+        "travel"
+      ],
+      "path": "ar/around-the-world-in-eighty-days.md",
+      "description": "A Jules Verne novel in which Phileas Fogg wagers his fortune that he can circle the globe in eighty days.",
+      "prose_len": 1768,
+      "prose_chars": 1662,
+      "h2_count": 5,
+      "pn_count": 2,
+      "wikilink_count": 14,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 37,
+      "total_refs": 8
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3069,7 +3090,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 33
+      "total_refs": 34
     },
     "baltimore": {
       "type": "place",
@@ -3116,7 +3137,7 @@
       "quality_score": 65,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 70
+      "total_refs": 71
     },
     "BR-ch01": {
       "type": "chapter",
@@ -3340,7 +3361,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 12
+      "total_refs": 13
     },
     "captain-nemo": {
       "type": "character",
@@ -3389,7 +3410,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "columbiad": {
       "type": "technology",
@@ -3413,7 +3434,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "From the Earth to the Moon",
-      "total_refs": 42
+      "total_refs": 43
     },
     "conseil": {
       "type": "character",
@@ -3503,7 +3524,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "diving-apparatus": {
       "type": "technology",
@@ -5451,7 +5472,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "FC-ch01": {
       "type": "chapter",
@@ -7336,7 +7357,7 @@
       "quality_score": 66,
       "affiliation": "Scotland Yard",
       "book": "Around the World in Eighty Days",
-      "total_refs": 31
+      "total_refs": 32
     },
     "fogg-hires-passepartout": {
       "type": "event",
@@ -7361,6 +7382,27 @@
       "quality_score": 69,
       "book": "Around the World in Eighty Days",
       "total_refs": 0
+    },
+    "from-the-earth-to-the-moon": {
+      "type": "work",
+      "label": "From the Earth to the Moon",
+      "aliases": [],
+      "tags": [
+        "work",
+        "science-fiction",
+        "space"
+      ],
+      "path": "fr/from-the-earth-to-the-moon.md",
+      "description": "A Jules Verne novel in which the Baltimore Gun Club casts a giant cannon to fire a manned projectile at the Moon.",
+      "prose_len": 1794,
+      "prose_chars": 1690,
+      "h2_count": 5,
+      "pn_count": 4,
+      "wikilink_count": 10,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 37,
+      "total_refs": 8
     },
     "FWB-ch01": {
       "type": "chapter",
@@ -8849,7 +8891,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 10
+      "total_refs": 11
     },
     "gun-cotton": {
       "type": "technology",
@@ -8919,7 +8961,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 42
+      "total_refs": 43
     },
     "jangada": {
       "type": "technology",
@@ -9849,6 +9891,30 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
     },
+    "journey-to-the-center-of-the-earth": {
+      "type": "work",
+      "label": "A Journey to the Center of the Earth",
+      "aliases": [
+        "Journey to the Center of the Earth",
+        "A Journey to the Centre of the Earth"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "subterranean"
+      ],
+      "path": "jo/journey-to-the-center-of-the-earth.md",
+      "description": "A Jules Verne novel in which Professor Liedenbrock descends an Icelandic volcano toward the center of the earth.",
+      "prose_len": 1658,
+      "prose_chars": 1554,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 36,
+      "total_refs": 9
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -9871,7 +9937,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 0
+      "total_refs": 1
     },
     "liedenbrock-sea": {
       "type": "place",
@@ -11254,7 +11320,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "From the Earth to the Moon",
-      "total_refs": 39
+      "total_refs": 40
     },
     "mount-franklin": {
       "type": "place",
@@ -12588,7 +12654,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 3
+      "total_refs": 4
     },
     "OC-ch01": {
       "type": "chapter",
@@ -13512,7 +13578,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
-      "total_refs": 38
+      "total_refs": 39
     },
     "phileas-fogg": {
       "type": "character",
@@ -13535,7 +13601,7 @@
       "quality_score": 67,
       "affiliation": "Reform Club",
       "book": "Around the World in Eighty Days",
-      "total_refs": 44
+      "total_refs": 45
     },
     "PL-ch01": {
       "type": "chapter",
@@ -14223,7 +14289,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Around the World in Eighty Days",
-      "total_refs": 16
+      "total_refs": 17
     },
     "RM-ch01": {
       "type": "chapter",
@@ -14685,6 +14751,29 @@
       "book": "Round the Moon",
       "total_refs": 1
     },
+    "robur-the-conqueror": {
+      "type": "work",
+      "label": "Robur the Conqueror",
+      "aliases": [
+        "The Clipper of the Clouds"
+      ],
+      "tags": [
+        "work",
+        "science-fiction",
+        "aviation"
+      ],
+      "path": "ro/robur-the-conqueror.md",
+      "description": "A Jules Verne novel in which the inventor Robur challenges the balloonists of the Weldon Institute with his heavier-than-air flying machine.",
+      "prose_len": 1697,
+      "prose_chars": 1593,
+      "h2_count": 5,
+      "pn_count": 2,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 36,
+      "total_refs": 1
+    },
     "robur": {
       "type": "character",
       "label": "Robur",
@@ -14707,7 +14796,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Robur the Conqueror",
-      "total_refs": 28
+      "total_refs": 29
     },
     "ruhmkorff-apparatus": {
       "type": "technology",
@@ -17811,6 +17900,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 15
     },
+    "the-adventures-of-captain-hatteras": {
+      "type": "work",
+      "label": "The Adventures of Captain Hatteras",
+      "aliases": [],
+      "tags": [
+        "work",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "th/the-adventures-of-captain-hatteras.md",
+      "description": "A Jules Verne novel following the obsessive Captain Hatteras on his quest to reach the North Pole.",
+      "prose_len": 1640,
+      "prose_chars": 1537,
+      "h2_count": 5,
+      "pn_count": 3,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 36,
+      "total_refs": 3
+    },
     "the-forward": {
       "type": "technology",
       "label": "The Forward",
@@ -17835,7 +17946,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "the-moon": {
       "type": "place",
@@ -17907,7 +18018,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Master of the World",
-      "total_refs": 1
+      "total_refs": 2
     },
     "TN-ch01": {
       "type": "chapter",
@@ -20937,7 +21048,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Robur the Conqueror",
-      "total_refs": 2
+      "total_refs": 3
     },
     "YEAR": {
       "type": "chapter",
@@ -21054,6 +21165,8 @@
     "AMB": "AMB",
     "aouda": "aouda",
     "Aouda": "aouda",
+    "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
+    "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
     "ASC-ch02": "ASC-ch02",
     "ASC-ch03": "ASC-ch03",
@@ -21356,6 +21469,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
+    "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "FWB-ch01": "FWB-ch01",
     "FWB-ch02": "FWB-ch02",
     "FWB-ch03": "FWB-ch03",
@@ -21500,6 +21615,10 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
+    "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
+    "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
+    "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -21773,9 +21892,11 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robur-the-conqueror": "robur-the-conqueror",
+    "Robur the Conqueror": "robur-the-conqueror",
+    "The Clipper of the Clouds": "robur-the-conqueror",
     "robur": "robur",
     "Robur": "robur",
-    "Robur the Conqueror": "robur",
     "ruhmkorff-apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
@@ -21949,6 +22070,8 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
+    "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -22121,6 +22244,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1035,
-  "generated": "2026-07-14T10:16:26Z"
+  "page_count": 1040,
+  "generated": "2026-07-15T02:15:44Z"
 }
