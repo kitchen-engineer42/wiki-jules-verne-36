@@ -1,6 +1,20 @@
 # 内容任务队列
 
 ## P1 — 高优先级
+
+<!-- ═══ place 候选（R28 CLOSE+SCN28 technology 关闭后为 place 首轮 discover 补种）═══ -->
+<!-- 既有 place（Pilot 建）：reform-club 等；R28 SCN28 首扫命名重要地点（distinctPN≥3，优先虚构/中心场景）：-->
+- [place] Lincoln Island — MI(The Mysterious Island)；distinctPN≈60；虚构火山岛，全书殖民地舞台
+- [place] Granite House — MI(The Mysterious Island)；distinctPN≈65；殖民者凿于花岗岩崖壁的居所/要塞（区别于既有 technology 页 granite-house-lift 升降机）
+- [place] Tabor Island — MI(The Mysterious Island)；distinctPN≈29；Ayrton 流放之岛（原 Duncan 搜寻目标）
+- [place] Quiquendone — DOSE(Doctor Ox's Experiment)；distinctPN≈15；虚构佛兰德小镇，Doctor Ox 实验场
+- [place] Back Cup — FF(Facing the Flag)；distinctPN≈11；Ker Karraje 海盗巢穴火山岛（内含 the tug/Ebba 停泊 lagoon）
+- [place] Sneffels — JCE(Journey to the Centre of the Earth)；distinctPN≈4；地心之旅入口火山口（Snæfellsjökull）
+<!-- 已在队列 P2：Stone's Hill（FEM，Gun Club 铸炮基地）/ Pacific Railroad（borderline place/org）——place 轮一并消费。 -->
+<!-- borderline 真实地理（distinctPN 高但非虚构核心）：Iceland(51)/Baltimore(30，Gun Club HQ)/Tampa Town(14) 待评估是否入 place（真实地名 vs 虚构/中心场景门槛）。 -->
+<!-- reform-club 已存在为 place 页（Pilot 建），不重建；place/org 归类历史争议见 housekeeping。 -->
+
+<!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
 <!-- R22 NEW1 已建：go-ahead（rev rkCSRw，RC）。 -->
