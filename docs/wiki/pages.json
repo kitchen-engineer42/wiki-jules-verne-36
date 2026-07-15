@@ -3287,6 +3287,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 80
     },
+    "behring-strait": {
+      "type": "place",
+      "label": "Behring Strait",
+      "aliases": [],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "be/behring-strait.md",
+      "description": "The real strait between Asia and America toward which the drifting ice-island is carried in The Fur Country, the colony's dreaded destination and hoped-for lifeline.",
+      "prose_len": 1701,
+      "prose_chars": 1593,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -3555,7 +3577,29 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 5
+      "total_refs": 7
+    },
+    "cape-esquimaux": {
+      "type": "place",
+      "label": "Cape Esquimaux",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ca/cape-esquimaux.md",
+      "description": "The fictional headland on the drifting peninsula of Cape Bathurst in The Fur Country, worn away by the sea as the ice-island melts.",
+      "prose_len": 1787,
+      "prose_chars": 1679,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "cape-michael": {
       "type": "place",
@@ -7905,7 +7949,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 3
     },
     "fort-reliance": {
       "type": "place",
@@ -9398,6 +9442,28 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
+      "total_refs": 0
+    },
+    "gourbi-island": {
+      "type": "place",
+      "label": "Gourbi Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "comet"
+      ],
+      "path": "go/gourbi-island.md",
+      "description": "The fictional island on the comet Gallia in Off on a Comet, the last inhabited shred of Algeria carried into space and base of the castaways.",
+      "prose_len": 1565,
+      "prose_chars": 1460,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Off on a Comet",
       "total_refs": 0
     },
     "grand-transasiatic-railway-company": {
@@ -13398,7 +13464,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 57
+      "total_refs": 58
     },
     "ned-land": {
       "type": "character",
@@ -14893,7 +14959,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Fur Country",
-      "total_refs": 2
+      "total_refs": 3
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -15445,6 +15511,28 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
+      "total_refs": 0
+    },
+    "red-sea": {
+      "type": "place",
+      "label": "Red Sea",
+      "aliases": [],
+      "tags": [
+        "place",
+        "sea",
+        "submarine"
+      ],
+      "path": "re/red-sea.md",
+      "description": "The real sea between Africa and Arabia crossed by the Nautilus in Twenty Thousand Leagues Under the Seas, entered through Bab el Mandeb.",
+      "prose_len": 1580,
+      "prose_chars": 1481,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 0
     },
     "reform-club": {
@@ -19148,6 +19236,30 @@
       "book": "In Search of the Castaways",
       "total_refs": 1
     },
+    "spencer-island": {
+      "type": "place",
+      "label": "Spencer Island",
+      "aliases": [
+        "Phina Island"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
+      "path": "sp/spencer-island.md",
+      "description": "The fictional Pacific island where Godfrey Morgan is marooned; bought by the millionaire Kolderup, it is renamed Phina Island by its unwitting castaway.",
+      "prose_len": 1790,
+      "prose_chars": 1684,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "st-louis-fur-company": {
       "type": "organization",
       "label": "St Louis Fur Company",
@@ -22072,7 +22184,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 4
+      "total_refs": 5
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -23067,6 +23179,8 @@
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
     "President Barbicane": "barbicane",
+    "behring-strait": "behring-strait",
+    "Behring Strait": "behring-strait",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -23085,6 +23199,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-esquimaux": "cape-esquimaux",
+    "Cape Esquimaux": "cape-esquimaux",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
@@ -23430,6 +23546,8 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "gourbi-island": "gourbi-island",
+    "Gourbi Island": "gourbi-island",
     "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
     "Grand Transasiatic Railway Company": "grand-transasiatic-railway-company",
     "Grand Transasiatic": "grand-transasiatic-railway-company",
@@ -23822,6 +23940,8 @@
     "RC-ch23": "RC-ch23",
     "red-creek": "red-creek",
     "Red Creek": "red-creek",
+    "red-sea": "red-sea",
+    "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
     "RM-ch01": "RM-ch01",
@@ -24032,6 +24152,9 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "spencer-island": "spencer-island",
+    "Spencer Island": "spencer-island",
+    "Phina Island": "spencer-island",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -24281,6 +24404,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1115,
-  "generated": "2026-07-15T11:12:32Z"
+  "page_count": 1120,
+  "generated": "2026-07-15T11:20:13Z"
 }

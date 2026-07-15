@@ -56,8 +56,9 @@
 <!-- The Fur Country 簇（FC，承 cape-bathurst/port-barnett/victoria-island 漂流链）：-->
 <!-- ✔ [place] Fort Hope — 已建 fort-hope（rev lstwEI，FC，实测 66；漂流殖民地中心要塞）R37 -->
 <!-- ✔ [place] Cape Michael — 已建 cape-michael（rev GBNbot，FC，实测 25）R37 -->
-- [place] Cape Esquimaux — FC；FC:23；漂流半岛岬（fictional）
-- [place] Behring Strait — FC；FC:22；白令海峡（real）
+<!-- ✔ [place] Cape Esquimaux — 已建 cape-esquimaux（rev bOXBSk，FC，实测 23）R38 -->
+<!-- ✔ [place] Behring Strait — 已建 behring-strait（rev HoSRPw，FC real，实测 22）R38 -->
+
 - [place] Polar Sea — FC；FC:14；北极海（real/generic，建前定名）
 - [place] Bear Lake — FC；FC:11；大熊湖（real）
 <!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
@@ -66,13 +67,15 @@
 - [place] Beechey Island — ACH；ACH:20；比奇岛（real）
 - [place] Melville Island — ACH；ACH:9；梅尔维尔岛（real，borderline）
 <!-- Off on a Comet（OC，fictional 彗星世界）：-->
-- [place] Gourbi Island — OC(Off on a Comet)；OC:41；Gallia 上残存岛（fictional）
+<!-- ✔ [place] Gourbi Island — 已建 gourbi-island（rev 2c7uBR，OC，实测 41）R38 -->
+
 - [place] Gallian Sea — OC；OC:12；彗星 Gallia 之海（fictional）
 <!-- Godfrey Morgan（GM，fictional 荒岛）：-->
-- [place] Phina Island — GM(Godfrey Morgan)；GM:40；Godfrey 漂流荒岛（fictional）
-- [place] Spencer Island — GM；GM:18；同书岛屿（fictional）
+<!-- ✔ [place] Phina Island + Spencer Island — 合并建 spencer-island（rev kUew0J，GM，label=Spencer Island / alias=Phina Island，实测 40+18；同岛异名，一页消双候选）R38 -->
+
 <!-- TTLU 真实海/海峡（Nautilus 航线）：-->
-- [place] Red Sea — TTLU(Twenty Thousand Leagues)；TTLU:28；红海（real）
+<!-- ✔ [place] Red Sea — 已建 red-sea（rev RGgbET，TTLU real，实测 28；注入 nautilus）R38 -->
+
 - [place] Gulf Stream — TTLU；TTLU:18；墨西哥湾流（real）
 - [place] Torres Strait — TTLU；TTLU:15；托雷斯海峡（real）
 <!-- 其它真实地理（各源作，建前实测校准）：-->

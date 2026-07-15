@@ -995,6 +995,12 @@
       ],
       "path": "ba/barbicane.md"
     },
+    "behring-strait": {
+      "type": "place",
+      "label": "Behring Strait",
+      "aliases": [],
+      "path": "be/behring-strait.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -1076,6 +1082,12 @@
       "label": "Cape Bathurst",
       "aliases": [],
       "path": "ca/cape-bathurst.md"
+    },
+    "cape-esquimaux": {
+      "type": "place",
+      "label": "Cape Esquimaux",
+      "aliases": [],
+      "path": "ca/cape-esquimaux.md"
     },
     "cape-michael": {
       "type": "place",
@@ -2838,6 +2850,12 @@
         "Godfrey Morgan: A Californian Mystery"
       ],
       "path": "go/godfrey-morgan.md"
+    },
+    "gourbi-island": {
+      "type": "place",
+      "label": "Gourbi Island",
+      "aliases": [],
+      "path": "go/gourbi-island.md"
     },
     "grand-transasiatic-railway-company": {
       "type": "organization",
@@ -4671,6 +4689,12 @@
       "aliases": [],
       "path": "re/red-creek.md"
     },
+    "red-sea": {
+      "type": "place",
+      "label": "Red Sea",
+      "aliases": [],
+      "path": "re/red-sea.md"
+    },
     "reform-club": {
       "type": "place",
       "label": "Reform Club",
@@ -5785,6 +5809,14 @@
       "label": "Snowy River",
       "aliases": [],
       "path": "sn/snowy-river.md"
+    },
+    "spencer-island": {
+      "type": "place",
+      "label": "Spencer Island",
+      "aliases": [
+        "Phina Island"
+      ],
+      "path": "sp/spencer-island.md"
     },
     "st-louis-fur-company": {
       "type": "organization",
@@ -7112,6 +7144,8 @@
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
     "President Barbicane": "barbicane",
+    "behring-strait": "behring-strait",
+    "Behring Strait": "behring-strait",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -7130,6 +7164,8 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-esquimaux": "cape-esquimaux",
+    "Cape Esquimaux": "cape-esquimaux",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
     "captain-hatteras": "captain-hatteras",
@@ -7475,6 +7511,8 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "gourbi-island": "gourbi-island",
+    "Gourbi Island": "gourbi-island",
     "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
     "Grand Transasiatic Railway Company": "grand-transasiatic-railway-company",
     "Grand Transasiatic": "grand-transasiatic-railway-company",
@@ -7867,6 +7905,8 @@
     "RC-ch23": "RC-ch23",
     "red-creek": "red-creek",
     "Red Creek": "red-creek",
+    "red-sea": "red-sea",
+    "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
     "RM-ch01": "RM-ch01",
@@ -8077,6 +8117,9 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "spencer-island": "spencer-island",
+    "Spencer Island": "spencer-island",
+    "Phina Island": "spencer-island",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -8326,6 +8369,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1115,
-  "generated": "2026-07-15T11:12:32Z"
+  "page_count": 1120,
+  "generated": "2026-07-15T11:20:13Z"
 }
