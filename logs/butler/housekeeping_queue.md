@@ -54,4 +54,53 @@
 `robur` 的 label/alias 收窄为 `Robur`，去掉与作品同名的 alias。属本地页面数据，经 edit_page.py 可修，
 非 memex 组件、无需 RFC。待 character 类型轮或 2.1-Z PHQ 消歧检查时处理。
 
+### HK-discover-existing-type-blindspot — SCN28 corpus discover 未核对既有页 label，跨类型漏判
+
+**现象（GROW R11，2026-07-15 发现）**：R10 organization corpus discover 将 **Reform Club** 列为新候选
+（distinctPN≈23），但 `reform-club` 已作为 `type: place` 页存在（Pilot 期建）。build_wanted/corpus 扫描
+只按语料专名统计，未核对既有页面的 label/alias，导致把「已建但类型不同」的实体误判为新候选。
+
+**影响**：discover 计数虚高（new_candidates 含伪新条目）；建页时才由 add_page.py `页面已存在` 拦截，
+浪费一个候选位。若某类型靠虚高 new_candidates 维持 discover_streak_low<3，可能延迟本应触发的类型关闭。
+
+**修复方向**：SCN28 discover 的专名过滤增加一步——比对 `alias_index`（label + aliases）去除任何已建页
+（不论 type），只保留真正无页的实体。属 discover 逻辑（GROW skill / 勘探脚本），非页面数据。
+
+**处置**：记录待评审。当前 GROW 轮内以人工核对 + 顶替候选缓解（R11 已 P&O 顶替 Reform Club）。
+
+### HK-wanted-pages-space-filter — `build_wanted_pages.py` 误滤含空格的 wikilink target
+
+**现象（GROW R12，2026-07-15 发现）**：`build_wanted_pages.py:73` 将任何含空格的 wikilink target
+当作"解析伪迹"过滤（`过滤包含空格或格式异常的 target`）。但 LAW §9 mandated 的 label 形式链接
+（`[[Captain Nemo]]`、`[[Jaspar Hobson]]`）本就含空格。结果全库 1097 链接目标只报出 1 条红链（Kennedy，
+唯一单词 target），其余 label 形式红链（Ferguson/Hobson/Barnett/Clawbonny/Maston/Noltitz/Cromarty/
+Paganel/Garral 等）全部漏报。
+
+**影响**：红链发现（SCN28 的一半）对 label 形式链接完全失明，严重低报待建页面；WantedPages 特殊页失真。
+GROW discover 若依赖此工具会误判候选耗尽。
+
+**根因**：脚本假设 wikilink target 为 slug（无空格），与 LAW §9 label-form 约定冲突。
+
+**修复方向**：改 target 解析——先按 alias_index（label→slug）解析，未命中再 slugify 比对页 id；
+只有既非 label 又非合法 slug 的才判伪迹。属共享 memex 组件（`build_wanted_pages.py`）→ **PARK**，
+与其余 memex 组件债一并批量评审。GROW 轮内红链发现改用 label-aware 手工扫描替代。
+
+### HK-20kleagues-seas-alias — `[[Twenty Thousand Leagues Under the Seas]]` label 复数错配
+
+**现象（GROW R12 发现）**：6 页（captain-nemo/conseil/ned-land/giant-squid-attack/sargasso-sea/
+sea-monster-hunt）链向 `[[Twenty Thousand Leagues Under the Seas]]`（复数 Seas），但 work 页
+`twenty-thousand-leagues` 的 label 为单数 `Twenty Thousand Leagues Under the Sea` → 6 条断链。
+
+**修复方向**：给 work 页加 alias `Twenty Thousand Leagues Under the Seas`（原书名确为复数 Seas，
+alias 更合适），或改 6 页链接。属本地页面数据，`edit_page.py` 可修，无需 RFC。Pilot 既有，
+待 character 轮或 2.1-Z PHQ 消歧时处理。
+
+### HK-reform-club-place-vs-org — `reform-club` 归类 place/org 待定
+
+**现象**：`reform-club`（Pall Mall 绅士俱乐部）现为 `type: place`。作为有成员的俱乐部，org 属性强；
+作为建筑/地点亦可 place。与 Cambridge Observatory（R10 flagged）并列 borderline。
+
+**处置**：留待 character 轮后或 2.1-Z PHQ 统一裁定。若改 org 需 `edit_page.py` 改 type 并相应调整
+place 类型 final_count（place 尚未开建，type_queue 中）。本地页面数据，无需 RFC。
+
 ## P3 — 低优先级
