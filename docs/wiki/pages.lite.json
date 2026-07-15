@@ -996,6 +996,15 @@
       "aliases": [],
       "path": "ba/back-cup.md"
     },
+    "baffin-bay": {
+      "type": "place",
+      "label": "Baffin Bay",
+      "aliases": [
+        "Baffin's Bay",
+        "Baffin's Sea"
+      ],
+      "path": "ba/baffin-bay.md"
+    },
     "baltimore": {
       "type": "place",
       "label": "Baltimore",
@@ -1153,6 +1162,14 @@
       "aliases": [],
       "path": "ca/cape-michael.md"
     },
+    "cape-tchelynskin": {
+      "type": "place",
+      "label": "Cape Tchelynskin",
+      "aliases": [
+        "Cape Severe"
+      ],
+      "path": "ca/cape-tchelynskin.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -1169,6 +1186,14 @@
         "Prince Dakkar"
       ],
       "path": "ca/captain-nemo.md"
+    },
+    "caspian-sea": {
+      "type": "place",
+      "label": "Caspian Sea",
+      "aliases": [
+        "The Caspian"
+      ],
+      "path": "ca/caspian-sea.md"
     },
     "christmas-harbour": {
       "type": "place",
@@ -1237,6 +1262,14 @@
         "The Date-Line Revelation"
       ],
       "path": "da/date-line-revelation.md"
+    },
+    "davis-strait": {
+      "type": "place",
+      "label": "Davis Strait",
+      "aliases": [
+        "Davis's Straits"
+      ],
+      "path": "da/davis-strait.md"
     },
     "dick-sand-a-captain-at-fifteen": {
       "type": "work",
@@ -7023,6 +7056,12 @@
       "aliases": [],
       "path": "wa/WAI-ch16.md"
     },
+    "walruses-bay": {
+      "type": "place",
+      "label": "Walruses' Bay",
+      "aliases": [],
+      "path": "wa/walruses-bay.md"
+    },
     "washington-bay": {
       "type": "place",
       "label": "Washington Bay",
@@ -7370,6 +7409,10 @@
     "Axel": "axel",
     "back-cup": "back-cup",
     "Back Cup": "back-cup",
+    "baffin-bay": "baffin-bay",
+    "Baffin Bay": "baffin-bay",
+    "Baffin's Bay": "baffin-bay",
+    "Baffin's Sea": "baffin-bay",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
     "barbicane": "barbicane",
@@ -7414,6 +7457,9 @@
     "Cape Farewell": "cape-farewell",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
+    "cape-tchelynskin": "cape-tchelynskin",
+    "Cape Tchelynskin": "cape-tchelynskin",
+    "Cape Severe": "cape-tchelynskin",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -7421,6 +7467,9 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "caspian-sea": "caspian-sea",
+    "Caspian Sea": "caspian-sea",
+    "The Caspian": "caspian-sea",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
@@ -7444,6 +7493,9 @@
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
+    "davis-strait": "davis-strait",
+    "Davis Strait": "davis-strait",
+    "Davis's Straits": "davis-strait",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
@@ -8642,6 +8694,8 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "walruses-bay": "walruses-bay",
+    "Walruses' Bay": "walruses-bay",
     "washington-bay": "washington-bay",
     "Washington Bay": "washington-bay",
     "WC-ch01": "WC-ch01",
@@ -8672,6 +8726,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1155,
-  "generated": "2026-07-15T12:17:20Z"
+  "page_count": 1160,
+  "generated": "2026-07-15T12:32:56Z"
 }

@@ -145,13 +145,13 @@
 <!-- distinctPN 多为跨源聚合估值（agg），建前必按主源逐页段级严扫校准（承 R43–R47 铁律；聚合易虚高，同名易混淆）。 -->
 <!-- 已排除：Ned Land（人名，POST「Land」假匹配）/ Rock Creek（严扫=0，恒为 black-rock-creek）/ Behring's Straits·Baffin's Sea·Cape Mandible·Lancaster Sound·Isle Tabor·Verde Islands（既有页变体）/ Port Gr·Lake City·Greek Islands（截断/generic 假匹配）。 -->
 - [place] Hudson's Bay — ACH/FC/OC/TT；水体严扫 12（排除 Company）；哈得孙湾（real，≠Hudson's Bay Company org）
-- [place] Baffin's Bay — ACH/FC/TN/WC；含 Sea 变体 47；巴芬湾（real，alias Baffin's Sea）
-- [place] Walruses' Bay — FC；22；海象湾（fictional，Cape Bathurst 簇）
-- [place] Caspian Sea — ASC/FWB/MS/RC/TT/TTLU；agg 14；里海（real，跨作）
-- [place] Davis's Straits — ACH；14；戴维斯海峡（real，alias Davis Strait）
+<!-- ✔ [place] Baffin's Bay — 已建 baffin-bay（rev UuNCAQ，ACH real，主源 ACH 段级 ~38；label Baffin Bay / alias Baffin's Bay·Baffin's Sea）R49 -->
+<!-- ✔ [place] Walruses' Bay — 已建 walruses-bay（rev F7XXMt，FC fictional，段级 22；Cape Bathurst 簇，火山崖湾）R49 -->
+<!-- ✔ [place] Caspian Sea — 已建 caspian-sea（rev 4PEBf3，ASC real，主源 ASC 段级 >20；Transasiatic 起点 Uzun Ada；alias The Caspian）R49 -->
+<!-- ✔ [place] Davis's Straits — 已建 davis-strait（rev rLAsgn，ACH real，段级 16；label Davis Strait / alias Davis's Straits；Baffin Bay 南门）R49 -->
 - [place] Sandwich Islands — AM/GM/MI/SC/SI；agg 10；夏威夷旧称（real，跨作）
 - [place] Norfolk Island — MI/SC/SI；agg 10；诺福克岛（real）
-- [place] Cape Tchelynskin — WC；10；切柳斯金角（real，欧亚极北）
+<!-- ✔ [place] Cape Tchelynskin — 已建 cape-tchelynskin（rev wYEK6v，WC real，段级 10；欧亚极北岬，Alaska 绕行；alias Cape Severe）R49 -->
 - [place] Cape Verde — AM/FWB/SC/TTLU；agg 9；佛得角（real，alias Verde Islands）
 - [place] Faroe Islands — JCE/TN/TTLU/WC；agg 8；法罗群岛（real）
 - [place] Fort Sumter — BR/SC2；8；萨姆特堡（real，南北战争）

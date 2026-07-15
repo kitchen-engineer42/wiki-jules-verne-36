@@ -1252,7 +1252,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 1
+      "total_refs": 2
     },
     "albatross": {
       "type": "technology",
@@ -3288,6 +3288,31 @@
       "book": "Facing the Flag",
       "total_refs": 0
     },
+    "baffin-bay": {
+      "type": "place",
+      "label": "Baffin Bay",
+      "aliases": [
+        "Baffin's Bay",
+        "Baffin's Sea"
+      ],
+      "tags": [
+        "place",
+        "sea",
+        "arctic"
+      ],
+      "path": "ba/baffin-bay.md",
+      "description": "The ice-filled Arctic sea between Greenland and Baffin Island, the first great barrier crossed by the Forward in The Adventures of Captain Hatteras.",
+      "prose_len": 1833,
+      "prose_chars": 1729,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 1
+    },
     "baltimore": {
       "type": "place",
       "label": "Baltimore",
@@ -3421,7 +3446,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "bellot-strait": {
       "type": "place",
@@ -3735,7 +3760,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 8
+      "total_refs": 9
     },
     "cape-corrientes": {
       "type": "place",
@@ -3825,6 +3850,30 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "cape-tchelynskin": {
+      "type": "place",
+      "label": "Cape Tchelynskin",
+      "aliases": [
+        "Cape Severe"
+      ],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ca/cape-tchelynskin.md",
+      "description": "The northernmost cape of the Eurasian mainland, the great obstacle the Alaska must double on her polar voyage in The Waif of the Cynthia.",
+      "prose_len": 1677,
+      "prose_chars": 1570,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -3873,6 +3922,30 @@
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 64
+    },
+    "caspian-sea": {
+      "type": "place",
+      "label": "Caspian Sea",
+      "aliases": [
+        "The Caspian"
+      ],
+      "tags": [
+        "place",
+        "sea",
+        "asia"
+      ],
+      "path": "ca/caspian-sea.md",
+      "description": "The great inland sea of Central Asia whose eastern port of Uzun Ada begins the trans-Asian railway journey in The Adventures of a Special Correspondent.",
+      "prose_len": 1841,
+      "prose_chars": 1736,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "christmas-harbour": {
       "type": "place",
@@ -4100,6 +4173,30 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Around the World in Eighty Days",
+      "total_refs": 1
+    },
+    "davis-strait": {
+      "type": "place",
+      "label": "Davis Strait",
+      "aliases": [
+        "Davis's Straits"
+      ],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "da/davis-strait.md",
+      "description": "The strait between Greenland and Baffin Island through which the Forward passes to reach Baffin Bay in The Adventures of Captain Hatteras.",
+      "prose_len": 1744,
+      "prose_chars": 1638,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
     "dick-sand-a-captain-at-fifteen": {
@@ -8217,7 +8314,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Fur Country",
-      "total_refs": 4
+      "total_refs": 5
     },
     "fort-kearney": {
       "type": "place",
@@ -9803,7 +9900,7 @@
       "quality": "featured",
       "quality_score": 87,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "granite-house-lift": {
       "type": "technology",
@@ -11592,7 +11689,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "MI-ch01": {
       "type": "chapter",
@@ -16704,7 +16801,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 4
+      "total_refs": 5
     },
     "robur": {
       "type": "character",
@@ -20132,7 +20229,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 5
+      "total_refs": 7
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -20233,7 +20330,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 9
+      "total_refs": 11
     },
     "the-fur-country": {
       "type": "work",
@@ -20257,7 +20354,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 0
+      "total_refs": 1
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -20463,7 +20560,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 1
+      "total_refs": 2
     },
     "ticket-no-9672": {
       "type": "work",
@@ -23240,6 +23337,28 @@
       "book": "A Winter Amid the Ice",
       "total_refs": 1
     },
+    "walruses-bay": {
+      "type": "place",
+      "label": "Walruses' Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "arctic"
+      ],
+      "path": "wa/walruses-bay.md",
+      "description": "The fictional Arctic bay named by Hobson's party near Cape Bathurst, its shore marked by volcanic cliffs later reshaped by earthquake in The Fur Country.",
+      "prose_len": 1692,
+      "prose_chars": 1586,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "washington-bay": {
       "type": "place",
       "label": "Washington Bay",
@@ -23957,6 +24076,10 @@
     "Axel": "axel",
     "back-cup": "back-cup",
     "Back Cup": "back-cup",
+    "baffin-bay": "baffin-bay",
+    "Baffin Bay": "baffin-bay",
+    "Baffin's Bay": "baffin-bay",
+    "Baffin's Sea": "baffin-bay",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
     "barbicane": "barbicane",
@@ -24001,6 +24124,9 @@
     "Cape Farewell": "cape-farewell",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
+    "cape-tchelynskin": "cape-tchelynskin",
+    "Cape Tchelynskin": "cape-tchelynskin",
+    "Cape Severe": "cape-tchelynskin",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -24008,6 +24134,9 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "caspian-sea": "caspian-sea",
+    "Caspian Sea": "caspian-sea",
+    "The Caspian": "caspian-sea",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
@@ -24031,6 +24160,9 @@
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
+    "davis-strait": "davis-strait",
+    "Davis Strait": "davis-strait",
+    "Davis's Straits": "davis-strait",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
@@ -25229,6 +25361,8 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "walruses-bay": "walruses-bay",
+    "Walruses' Bay": "walruses-bay",
     "washington-bay": "washington-bay",
     "Washington Bay": "washington-bay",
     "WC-ch01": "WC-ch01",
@@ -25259,6 +25393,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1155,
-  "generated": "2026-07-15T12:17:20Z"
+  "page_count": 1160,
+  "generated": "2026-07-15T12:32:56Z"
 }
