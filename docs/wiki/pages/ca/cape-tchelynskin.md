@@ -12,8 +12,8 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Arctic (northern Siberia)
 description: 'The northernmost cape of the Eurasian mainland, the great obstacle the Alaska must double on her polar voyage in The Waif of the Cynthia.'
-quality: featured
 ---
+
 # Cape Tchelynskin
 
 ## Overview
@@ -30,7 +30,9 @@ The captain stakes everything on it: "at any risk he must reach Cape Tchelynskin
 
 ## Geography & Features
 
-The cape is a low double point rising gently inland: the *Alaska* lay "at the extreme north of the two points of Cape Tchelynskin; on two sides the land lay low toward the sea, but it rose gradually toward the south... about two or three hundred feet in height." (WC-017-019)
+The cape forms the northern extremity of a great Siberian peninsula: leaving to the south "the Gulf of Taymis--which is also the name of the great Siberian peninsula of which Cape Tchelynskin forms the extreme point," the *Alaska* held her course westward. (WC-017-031)
+
+The cape itself is a low double point rising gently inland: the *Alaska* lay "at the extreme north of the two points of Cape Tchelynskin; on two sides the land lay low toward the sea, but it rose gradually toward the south... about two or three hundred feet in height." (WC-017-019)
 
 Its grim reputation scarcely matched its face — under the fog "the general aspect of this famous Cape Tchelynskin was not particularly disagreeable; certainly there was nothing to justify the name of Cape Severe, which it had borne for three centuries." (WC-017-019)
 
