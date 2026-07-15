@@ -3,7 +3,12 @@
 ## P1 — 高优先级
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
-<!-- R22 NEW1 已建：go-ahead（rev rkCSRw，RC）。technology P1 清空。R23 SCN28 确认穷尽。 -->
+<!-- R22 NEW1 已建：go-ahead（rev rkCSRw，RC）。 -->
+<!-- R23 SCN28 broadened 复扫（武器/气体/装置类，非仅船只）新增 3 候选——修正 R21 窄扫盲区：-->
+- [technology] Fulgurator — FF(Facing the Flag)；distinctPN≈44；Thomas Roch 发明的毁灭性爆炸武器，全书核心 McGuffin
+- [technology] the Sword — FF(Facing the Flag)；distinctPN≈37；潜水艇/潜水器，Davon 中尉驾驶潜入 Ker Karraje 巢穴（Nautilus 类特制潜艇）
+- [technology] oxyhydric gas — DOSE(Doctor Ox's Experiment)；distinctPN≈6；Doctor Ox 制取的氧氢气，管道输入全城致居民亢奋
+<!-- technology 未穷尽：R21 窄扫仅覆盖命名船只，漏武器/气体/装置发明。R24+ NEW1 建此 3 页。 -->
 <!-- 普通船只（Duncan/Pilgrim/Chancellor/Abraham Lincoln/Mongolia/Rangoon/Carnatic/Henrietta/Tankadere/Susquehanna/Scotia/Halbrane/General Grant 等）判为叙事载具/场景，非发明，不建 technology（同 Pilot 惯例：仅特制/中心机器入 technology）；borderline 者留待 place/2.1-Z 裁定。 -->
 
 <!-- ═══ organization 归档（R21 CLOSE 关闭，final_count=15，保留建页轨迹）═══ -->
