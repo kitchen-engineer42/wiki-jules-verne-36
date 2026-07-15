@@ -1059,6 +1059,12 @@
       ],
       "path": "ca/canadian-general-transportation-company.md"
     },
+    "cape-bathurst": {
+      "type": "place",
+      "label": "Cape Bathurst",
+      "aliases": [],
+      "path": "ca/cape-bathurst.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -4394,6 +4400,12 @@
       ],
       "path": "pr/professor-lidenbrock.md"
     },
+    "prospect-heights": {
+      "type": "place",
+      "label": "Prospect Heights",
+      "aliases": [],
+      "path": "pr/prospect-heights.md"
+    },
     "RC-ch01": {
       "type": "chapter",
       "label": "Robur the Conqueror — CHAPTER I",
@@ -5667,6 +5679,12 @@
       ],
       "path": "ta/tabor-island-castaway.md"
     },
+    "tabor-island": {
+      "type": "place",
+      "label": "Tabor Island",
+      "aliases": [],
+      "path": "ta/tabor-island.md"
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -5699,6 +5717,12 @@
         "A Blockade Runner"
       ],
       "path": "th/the-blockade-runners.md"
+    },
+    "the-chimneys": {
+      "type": "place",
+      "label": "The Chimneys",
+      "aliases": [],
+      "path": "th/the-chimneys.md"
     },
     "the-forward": {
       "type": "technology",
@@ -6482,6 +6506,12 @@
       ],
       "path": "vi/victoria-balloon.md"
     },
+    "victoria-island": {
+      "type": "place",
+      "label": "Victoria Island",
+      "aliases": [],
+      "path": "vi/victoria-island.md"
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -6925,6 +6955,8 @@
     "canadian-general-transportation-company": "canadian-general-transportation-company",
     "Canadian General Transportation Company": "canadian-general-transportation-company",
     "Canadian Transportation Company": "canadian-general-transportation-company",
+    "cape-bathurst": "cape-bathurst",
+    "Cape Bathurst": "cape-bathurst",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -7597,6 +7629,8 @@
     "Professor Liedenbrock": "professor-lidenbrock",
     "Otto Lidenbrock": "professor-lidenbrock",
     "Liedenbrock": "professor-lidenbrock",
+    "prospect-heights": "prospect-heights",
+    "Prospect Heights": "prospect-heights",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -7838,6 +7872,8 @@
     "tabor-island-castaway": "tabor-island-castaway",
     "The Tabor Island Castaway": "tabor-island-castaway",
     "Discovery of Ayrton": "tabor-island-castaway",
+    "tabor-island": "tabor-island",
+    "Tabor Island": "tabor-island",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -7852,6 +7888,8 @@
     "The Blockade Runners": "the-blockade-runners",
     "Les Forceurs de blocus": "the-blockade-runners",
     "A Blockade Runner": "the-blockade-runners",
+    "the-chimneys": "the-chimneys",
+    "The Chimneys": "the-chimneys",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -8017,6 +8055,8 @@
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
     "Ferguson's balloon": "victoria-balloon",
+    "victoria-island": "victoria-island",
+    "Victoria Island": "victoria-island",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -8059,6 +8099,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1083,
-  "generated": "2026-07-15T09:49:52Z"
+  "page_count": 1088,
+  "generated": "2026-07-15T10:16:15Z"
 }

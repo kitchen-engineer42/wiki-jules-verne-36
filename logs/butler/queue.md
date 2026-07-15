@@ -5,11 +5,12 @@
 <!-- ═══ place 候选（R28 CLOSE+SCN28 technology 关闭后为 place 首轮 discover 补种）═══ -->
 <!-- 既有 15 页 place（Pilot 建，Phase 9-C @86943ff）：baltimore/granite-house/great-eyrie/hong-kong/iceland/liedenbrock-sea/lincoln-island/mount-franklin/north-pole/reform-club/sargasso-sea/snaefellsjokull/stromboli/tampa-town/the-moon -->
 <!-- R28 SCN28 首扫命名重要地点（distinctPN≥3，已排除上列 15 既有 Pilot 页——含误列的 Lincoln Island/Granite House/Sneffels=snaefellsjokull，均既有，不重建）：-->
-- [place] the Chimneys — MI(The Mysterious Island)；distinctPN≈56；殖民者初到的岩缝临时居所
-- [place] Prospect Heights — MI(The Mysterious Island)；distinctPN≈45；Granite House 所在高地平台
-- [place] Cape Bathurst — FC(The Fur Country)；distinctPN≈35；Hudson's Bay 远征建 Fort Esperance 之角
-- [place] Tabor Island — MI(The Mysterious Island)；distinctPN≈29；Ayrton 流放之岛（原 Duncan 搜寻目标）
-- [place] Victoria Island — FC(The Fur Country)；distinctPN≈20；载 Fort Esperance 漂流的巨型冰岛（全书核心）
+<!-- R29 NEW1 已建 5 页：the-chimneys/prospect-heights/tabor-island/cape-bathurst/victoria-island（MI 簇 3 + FC 簇 2）。 -->
+<!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
+<!-- ✔ [place] Prospect Heights — 已建 prospect-heights（rev SxKQ05）-->
+<!-- ✔ [place] Cape Bathurst — 已建 cape-bathurst（rev xKv5Vc，real）-->
+<!-- ✔ [place] Tabor Island — 已建 tabor-island（rev stqg4C）-->
+<!-- ✔ [place] Victoria Island — 已建 victoria-island（rev Id9H0K；Cape Bathurst 断裂漂流成此岛）-->
 - [place] Fort Reliance — FC(The Fur Country)；distinctPN≈20；Hudson's Bay 出发要塞
 - [place] Aberfoyle — UC(The Underground City)；distinctPN≈18；苏格兰 Aberfoyle 煤矿区
 - [place] Quiquendone — DOSE(Doctor Ox's Experiment)；distinctPN≈15；虚构佛兰德小镇，Doctor Ox 实验场

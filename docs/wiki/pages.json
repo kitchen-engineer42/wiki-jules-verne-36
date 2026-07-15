@@ -3493,6 +3493,28 @@
       "book": "The Waif of the Cynthia",
       "total_refs": 0
     },
+    "cape-bathurst": {
+      "type": "place",
+      "label": "Cape Bathurst",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "exploration"
+      ],
+      "path": "ca/cape-bathurst.md",
+      "description": "An Arctic promontory north of the seventieth parallel where Lieutenant Hobson founds Fort Hope in The Fur Country.",
+      "prose_len": 2158,
+      "prose_chars": 2053,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Fur Country",
+      "total_refs": 1
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -9232,7 +9254,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 68
+      "total_refs": 70
     },
     "great-eyrie": {
       "type": "place",
@@ -10519,7 +10541,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 72
+      "total_refs": 75
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -14497,6 +14519,28 @@
       "quality_score": 68,
       "book": "Journey to the Center of the Earth",
       "total_refs": 36
+    },
+    "prospect-heights": {
+      "type": "place",
+      "label": "Prospect Heights",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "plateau"
+      ],
+      "path": "pr/prospect-heights.md",
+      "description": "The high granite plateau above the Chimneys on Lincoln Island, home to Granite House and the colonists' gardens.",
+      "prose_len": 2139,
+      "prose_chars": 2030,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Mysterious Island",
+      "total_refs": 1
     },
     "RC-ch01": {
       "type": "chapter",
@@ -18711,6 +18755,28 @@
       "book": "The Mysterious Island",
       "total_refs": 1
     },
+    "tabor-island": {
+      "type": "place",
+      "label": "Tabor Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
+      "path": "ta/tabor-island.md",
+      "description": "A small desert island in the South Pacific where the outlaw Ayrton was marooned, discovered by the Lincoln Island colonists.",
+      "prose_len": 2203,
+      "prose_chars": 2099,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -18809,6 +18875,28 @@
       "quality": "featured",
       "quality_score": 79,
       "total_refs": 0
+    },
+    "the-chimneys": {
+      "type": "place",
+      "label": "The Chimneys",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "shelter"
+      ],
+      "path": "th/the-chimneys.md",
+      "description": "The castaways' first shelter on Lincoln Island: a natural pile of granite rocks at the mouth of the Mercy.",
+      "prose_len": 2359,
+      "prose_chars": 2252,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "The Mysterious Island",
+      "total_refs": 1
     },
     "the-forward": {
       "type": "technology",
@@ -21367,6 +21455,26 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 38
     },
+    "victoria-island": {
+      "type": "place",
+      "label": "Victoria Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "ice"
+      ],
+      "path": "vi/victoria-island.md",
+      "description": "The giant drifting island of ice that carries Fort Hope out to sea after breaking away from Cape Bathurst.",
+      "prose_len": 2348,
+      "prose_chars": 2239,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "book": "The Fur Country",
+      "total_refs": 1
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -22372,6 +22480,8 @@
     "canadian-general-transportation-company": "canadian-general-transportation-company",
     "Canadian General Transportation Company": "canadian-general-transportation-company",
     "Canadian Transportation Company": "canadian-general-transportation-company",
+    "cape-bathurst": "cape-bathurst",
+    "Cape Bathurst": "cape-bathurst",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -23044,6 +23154,8 @@
     "Professor Liedenbrock": "professor-lidenbrock",
     "Otto Lidenbrock": "professor-lidenbrock",
     "Liedenbrock": "professor-lidenbrock",
+    "prospect-heights": "prospect-heights",
+    "Prospect Heights": "prospect-heights",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -23285,6 +23397,8 @@
     "tabor-island-castaway": "tabor-island-castaway",
     "The Tabor Island Castaway": "tabor-island-castaway",
     "Discovery of Ayrton": "tabor-island-castaway",
+    "tabor-island": "tabor-island",
+    "Tabor Island": "tabor-island",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -23299,6 +23413,8 @@
     "The Blockade Runners": "the-blockade-runners",
     "Les Forceurs de blocus": "the-blockade-runners",
     "A Blockade Runner": "the-blockade-runners",
+    "the-chimneys": "the-chimneys",
+    "The Chimneys": "the-chimneys",
     "the-forward": "the-forward",
     "The Forward": "the-forward",
     "Forward": "the-forward",
@@ -23464,6 +23580,8 @@
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
     "Ferguson's balloon": "victoria-balloon",
+    "victoria-island": "victoria-island",
+    "Victoria Island": "victoria-island",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -23506,6 +23624,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1083,
-  "generated": "2026-07-15T09:49:52Z"
+  "page_count": 1088,
+  "generated": "2026-07-15T10:16:36Z"
 }
