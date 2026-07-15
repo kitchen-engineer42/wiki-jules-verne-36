@@ -2746,6 +2746,12 @@
       "aliases": [],
       "path": "gm/GM-ch22.md"
     },
+    "go-ahead": {
+      "type": "technology",
+      "label": "Go-Ahead",
+      "aliases": [],
+      "path": "go/go-ahead.md"
+    },
     "godfrey-morgan": {
       "type": "work",
       "label": "Godfrey Morgan",
@@ -7213,6 +7219,8 @@
     "GM-ch20": "GM-ch20",
     "GM-ch21": "GM-ch21",
     "GM-ch22": "GM-ch22",
+    "go-ahead": "go-ahead",
+    "Go-Ahead": "go-ahead",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -8019,6 +8027,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1079,
-  "generated": "2026-07-15T09:20:00Z"
+  "page_count": 1080,
+  "generated": "2026-07-15T09:37:37Z"
 }

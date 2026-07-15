@@ -1258,7 +1258,7 @@
       "quality": "featured",
       "quality_score": 83,
       "book": "Robur the Conqueror",
-      "total_refs": 31
+      "total_refs": 32
     },
     "AM-ch01": {
       "type": "chapter",
@@ -9078,6 +9078,31 @@
       "book_seq": 471,
       "book": "Godfrey Morgan",
       "total_refs": 1
+    },
+    "go-ahead": {
+      "type": "technology",
+      "label": "Go-Ahead",
+      "aliases": [],
+      "tags": [
+        "technology",
+        "invention",
+        "vehicle",
+        "aviation",
+        "ballooning",
+        "1880s"
+      ],
+      "path": "go/go-ahead.md",
+      "description": "The giant dirigible aerostat built by the Weldon Institute to vindicate lighter-than-air flight against Robur's Albatross.",
+      "prose_len": 3554,
+      "prose_chars": 3336,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 5,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 85,
+      "book": "Robur the Conqueror",
+      "total_refs": 0
     },
     "godfrey-morgan": {
       "type": "work",
@@ -22045,7 +22070,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Robur the Conqueror",
-      "total_refs": 3
+      "total_refs": 4
     },
     "YEAR": {
       "type": "chapter",
@@ -22587,6 +22612,8 @@
     "GM-ch20": "GM-ch20",
     "GM-ch21": "GM-ch21",
     "GM-ch22": "GM-ch22",
+    "go-ahead": "go-ahead",
+    "Go-Ahead": "go-ahead",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -23393,6 +23420,6 @@
     "Weldon Institute": "weldon-institute",
     "YEAR": "YEAR"
   },
-  "page_count": 1079,
-  "generated": "2026-07-15T09:20:00Z"
+  "page_count": 1080,
+  "generated": "2026-07-15T09:37:37Z"
 }

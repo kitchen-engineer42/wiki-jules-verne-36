@@ -3,7 +3,7 @@
 ## P1 — 高优先级
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
-- [technology] Go-Ahead — RC(Robur the Conqueror)/MW；distinctPN≈39；Weldon Institute 建造的巨型飞艇/aerostat，对抗 Robur 的 Albatross（albatross/weldon-institute 姊妹页）
+<!-- R22 NEW1 已建：go-ahead（rev rkCSRw，RC）。technology P1 清空。R23 SCN28 确认穷尽。 -->
 <!-- 普通船只（Duncan/Pilgrim/Chancellor/Abraham Lincoln/Mongolia/Rangoon/Carnatic/Henrietta/Tankadere/Susquehanna/Scotia/Halbrane/General Grant 等）判为叙事载具/场景，非发明，不建 technology（同 Pilot 惯例：仅特制/中心机器入 technology）；borderline 者留待 place/2.1-Z 裁定。 -->
 
 <!-- ═══ organization 归档（R21 CLOSE 关闭，final_count=15，保留建页轨迹）═══ -->
