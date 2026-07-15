@@ -21,5 +21,7 @@
 - [character] Sir Francis Cromarty — AWED；红链；Fogg 在 Mongolia 上的惠斯特牌友
 - [character] Joam Garral — Jangada；红链；《亚马逊漂流记》主角
 - [place] Stone's Hill — FEM；红链；Gun Club 铸 Columbiad 巨炮的佛州基地
+<!-- R14 SCN28 新增（label-aware 扫描，organization 页 member wikilink 引入）-->
+- [character] James Starr — UC(The Underground City)；红链×2；Aberfoyle 矿工程师，Royal Institution 核心成员
 
 ## P3 — 发现型（每11轮触发）
