@@ -149,19 +149,20 @@
 <!-- ✔ [place] Walruses' Bay — 已建 walruses-bay（rev F7XXMt，FC fictional，段级 22；Cape Bathurst 簇，火山崖湾）R49 -->
 <!-- ✔ [place] Caspian Sea — 已建 caspian-sea（rev 4PEBf3，ASC real，主源 ASC 段级 >20；Transasiatic 起点 Uzun Ada；alias The Caspian）R49 -->
 <!-- ✔ [place] Davis's Straits — 已建 davis-strait（rev rLAsgn，ACH real，段级 16；label Davis Strait / alias Davis's Straits；Baffin Bay 南门）R49 -->
-- [place] Sandwich Islands — AM/GM/MI/SC/SI；agg 10；夏威夷旧称（real，跨作）
-- [place] Norfolk Island — MI/SC/SI；agg 10；诺福克岛（real）
+<!-- ✔ [place] Morris Island — 已建 morris-island（rev OaJV6i，BR real，段级 10；Charleston 港南岛，Gillmore 联邦炮台）R51 -->
+<!-- ✔ [place] Fort Sumter — 已建 fort-sumter（rev D0jeAV，BR real，段级 8；内战首炮之地，Charleston 港要塞）R51 -->
+<!-- ⚠ [place] Sandwich Islands — R51 hold：agg 10 中主源 AM:6 实为「南三明治群岛」（Halbrane 南极航路，近 New Georgia/福克兰），非队列所标「夏威夷旧称」；夏威夷义散见 SC/GM/MI/SI 各 1（<5）。同名双实体，净分后两义均不达门，hold 待消歧。 -->
+<!-- ⚠ [place] Norfolk Island — R51 hold：MI:4 与 SI:4 系《神秘岛》同文异版（Bob Harvey/Speedy 逐句重复，非增量），真实主源段级 4<5；SC:2。不达 standard ≥5，hold。 -->
 <!-- ✔ [place] Cape Tchelynskin — 已建 cape-tchelynskin（rev wYEK6v，WC real，段级 10；欧亚极北岬，Alaska 绕行；alias Cape Severe）R49 -->
-- [place] Cape Verde — AM/FWB/SC/TTLU；agg 9；佛得角（real，alias Verde Islands）
-- [place] Faroe Islands — JCE/TN/TTLU/WC；agg 8；法罗群岛（real）
-- [place] Fort Sumter — BR/SC2；8；萨姆特堡（real，南北战争）
-- [place] Morris Island — BR；10；莫里斯岛（real，Charleston 港，接 Fort Sumter）
+<!-- ✔ [place] Cape Verde — 已建 cape-verde（rev jlHiPh，SC 主源 real，跨 TTLU 互链，页内引注 6；label Cape Verde / alias Cape Verde Islands·Verde Islands；Isle Fogo 火山/Atlantis 峰）R51 -->
+<!-- ✔ [place] Faroe Islands — 已建 faroe-islands（rev EToiZ3，WC real，段级 5；Cynthia 失事海域，近挪威）R51 -->
+<!-- Fort Sumter / Morris Island 已 R51 建页，见上 ✔ 注（本处原重复候选行，R51 清理） -->
 - [place] Lake Ontario — MW/PL/RC；agg 7；安大略湖（real，大湖链末湖）
 - [place] Black Sea — ASC/MS/RC/RM/SC/TT；agg 7；黑海（real，跨作）
 - [place] Dream Bay — GM；7；梦湾（fictional，Godfrey 荒岛，接 spencer-island/flag-point）
 - [place] Altamont Harbour — ACH；6；阿尔塔蒙特港（fictional，New America，接 victoria-bay）
 - [place] Falkland Islands — AM/MI/TTLU；agg 6；福克兰群岛（real，接 port-egmont）
-- [place] Lake Ukereoue — FWB；6；乌克雷韦湖/维多利亚湖旧称（real，非洲）
+<!-- ✔ [place] Lake Ukereoue — 已建 lake-ukereoue（rev MJxCPm，FWB real，段级 7；尼罗河源大湖=维多利亚湖旧称，Speke 探险）R51 -->
 <!-- 长尾 5–6 agg 候选暂 hold（Detroit River/Navy Island/Goat Island/Niagara Falls[MW 尼亚加拉簇]、Platte River/North Sea/Chatham Islands/Sullivan Island/Washburn Bay/Lake Barnett/Lake Tinn/Fort Independence/Coronation Gulf/Balearic Isles/Bahama Channel/Caribbean Sea/Cape Bon/Mount Mendif/Blueridge Mountains/Cape Saknussemm/Shannon Island/Mounts Doerfel/Indian Peninsula/Long Island/Antarctic Sea），下轮 discover 或本批消费后再评估。 -->
 
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->

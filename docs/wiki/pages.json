@@ -3738,7 +3738,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Waif of the Cynthia",
-      "total_refs": 0
+      "total_refs": 1
     },
     "cape-bathurst": {
       "type": "place",
@@ -3870,6 +3870,31 @@
       "wikilink_count": 1,
       "blockquote_count": 0,
       "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
+    "cape-verde": {
+      "type": "place",
+      "label": "Cape Verde",
+      "aliases": [
+        "Cape Verde Islands",
+        "Verde Islands"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "atlantic"
+      ],
+      "path": "ca/cape-verde.md",
+      "description": "The volcanic archipelago off West Africa, a waypoint on the Duncan's voyage and, for Captain Nemo, a surviving peak of drowned Atlantis.",
+      "prose_len": 1475,
+      "prose_chars": 1373,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "captain-hatteras": {
@@ -6293,6 +6318,30 @@
       "book": "The Mysterious Island",
       "total_refs": 2
     },
+    "faroe-islands": {
+      "type": "place",
+      "label": "Faroe Islands",
+      "aliases": [
+        "Faroe and Shetland Islands"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "north-atlantic"
+      ],
+      "path": "fa/faroe-islands.md",
+      "description": "The North-Atlantic archipelago off Norway where the Cynthia was wrecked, the disaster that opens The Waif of the Cynthia.",
+      "prose_len": 1229,
+      "prose_chars": 1126,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -8175,7 +8224,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 1
+      "total_refs": 2
     },
     "fix": {
       "type": "character",
@@ -8378,6 +8427,28 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Fur Country",
+      "total_refs": 1
+    },
+    "fort-sumter": {
+      "type": "place",
+      "label": "Fort Sumter",
+      "aliases": [],
+      "tags": [
+        "place",
+        "fortress",
+        "american-civil-war"
+      ],
+      "path": "fo/fort-sumter.md",
+      "description": "The island fortress at the mouth of Charleston Harbor where the American Civil War began, run past by the Dolphin in The Blockade Runners.",
+      "prose_len": 1507,
+      "prose_chars": 1402,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Blockade Runners",
       "total_refs": 1
     },
     "from-the-earth-to-the-moon": {
@@ -10228,7 +10299,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 2
+      "total_refs": 3
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11425,7 +11496,31 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 1
+      "total_refs": 2
+    },
+    "lake-ukereoue": {
+      "type": "place",
+      "label": "Lake Ukereoue",
+      "aliases": [
+        "Ukereoue"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "africa"
+      ],
+      "path": "la/lake-ukereoue.md",
+      "description": "Verne's name for the great equatorial African lake, conjectured reservoir of the Nile, sighted from Dr. Ferguson's balloon in Five Weeks in a Balloon.",
+      "prose_len": 1712,
+      "prose_chars": 1606,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     },
     "lancaster-strait": {
       "type": "place",
@@ -12976,6 +13071,28 @@
       "quality_score": 65,
       "book": "From the Earth to the Moon",
       "total_refs": 42
+    },
+    "morris-island": {
+      "type": "place",
+      "label": "Morris Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "american-civil-war"
+      ],
+      "path": "mo/morris-island.md",
+      "description": "The Federal-held island guarding the southern entrance to Charleston Harbor, whose batteries the Dolphin must run in The Blockade Runners.",
+      "prose_len": 1910,
+      "prose_chars": 1801,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Blockade Runners",
+      "total_refs": 1
     },
     "mount-franklin": {
       "type": "place",
@@ -20280,7 +20397,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 0
+      "total_refs": 2
     },
     "the-chimneys": {
       "type": "place",
@@ -20558,7 +20675,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 2
+      "total_refs": 3
     },
     "ticket-no-9672": {
       "type": "work",
@@ -24125,6 +24242,10 @@
     "cape-tchelynskin": "cape-tchelynskin",
     "Cape Tchelynskin": "cape-tchelynskin",
     "Cape Severe": "cape-tchelynskin",
+    "cape-verde": "cape-verde",
+    "Cape Verde": "cape-verde",
+    "Cape Verde Islands": "cape-verde",
+    "Verde Islands": "cape-verde",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -24282,6 +24403,9 @@
     "For the Flag": "facing-the-flag",
     "falls-river": "falls-river",
     "Falls River": "falls-river",
+    "faroe-islands": "faroe-islands",
+    "Faroe Islands": "faroe-islands",
+    "Faroe and Shetland Islands": "faroe-islands",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -24398,6 +24522,8 @@
     "Fort Providence": "fort-providence",
     "fort-reliance": "fort-reliance",
     "Fort Reliance": "fort-reliance",
+    "fort-sumter": "fort-sumter",
+    "Fort Sumter": "fort-sumter",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "fulgurator": "fulgurator",
@@ -24608,6 +24734,9 @@
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
+    "lake-ukereoue": "lake-ukereoue",
+    "Lake Ukereoue": "lake-ukereoue",
+    "Ukereoue": "lake-ukereoue",
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
@@ -24708,6 +24837,8 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "morris-island": "morris-island",
+    "Morris Island": "morris-island",
     "mount-franklin": "mount-franklin",
     "Mount Franklin": "mount-franklin",
     "MS-ch01": "MS-ch01",
@@ -25391,6 +25522,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1160,
-  "generated": "2026-07-15T12:38:07Z"
+  "page_count": 1165,
+  "generated": "2026-07-15T12:50:29Z"
 }
