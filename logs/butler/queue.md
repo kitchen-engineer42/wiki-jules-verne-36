@@ -258,8 +258,35 @@
 <!-- ✔ [place] Japan — 已建 japan（rev dA27v9，AWED real，页内引注 11；Fogg 太平洋段/横滨）R97 -->
 <!-- ✔ [place] Egypt — 已建 egypt（rev 1DSqdb，TTLU real 主作，页内引注 9；Nile/Sesostris 运河，跨源 FWB/DSCF 金字塔）R97 -->
 <!-- ✔ [place] Ceylon — 已建 ceylon（rev 2aLwiz，TTLU real，页内引注 11；Nautilus 采珠场/Mannar）R97 -->
-- （place 国级候选已排空；England 221/France 169 distinctPN 待评城市页密集问题；Denmark/Turkey/Persia/Arabia 中候选）
-<!-- R95 未入队（噪声/既建/demonym）：Victoria 22（多实体污染）、No 12（假匹配）、America 9（泛指）、Klock 7（klock-klock 子串）、Niagara 5（niagara-falls/niagara-river 既建裸名）、Floridian·Algerian 5/5（demonym）。另 England 221/France 169 distinctPN 极高但城市页密集（伦敦/巴黎等），国级页价值待评估，暂缓；Denmark 18/Persia 16/Turkey 17/Arabia 8 等中等候选留后续 discover 续挖。 -->
+<!-- R95 未入队（噪声/既建/demonym）：Victoria 22（多实体污染）、No 12（假匹配）、America 9（泛指）、Klock 7（klock-klock 子串）、Niagara 5（niagara-falls/niagara-river 既建裸名）、Floridian·Algerian 5/5（demonym）。 -->
+
+<!-- ═══ R98 SCN28 表层复扫补种（queue=2 hold<10 触发，since_discover=2；since_corpus=34≥30 corpus-discover 亦名义触发，然表层未竭故先表层）：geo-adjacency 表层扫仍仅回同 R95 噪声 7（Victoria/No/America/Klock/Niagara/Floridian/Algerian），0 新——**但国名裸词绕过 geo 关键词模式**（承 R95 方法论），遂对 Verne 高频设定国/大区逐一 `\bName\b` 全库核 distinctPN，surface 一大批欧洲+美洲+亚洲国家级真地名，各 ≫5 且多有单源集中可定 book。粒度同既建 China/Peru/Japan（国级）。new_candidates≈25≥3 → discover_streak_low 保持 0，place 广度远未竭（**四度否证 place 饱和**：R91 区/洲级→R95 国级东亚→R98 国级欧美亚）。queue 2→27。England 221/France 169 仍暂缓（城市页密集，国级页价值待评）。 -->
+- [place] Spain — OC:12/TTLU:5/MI:4；42 distinctPN（real；主作 Off on a Comet，Gibraltar/伊比利亚设定）
+- [place] California — GM:17/DSCF:6/AWED:3；37 distinctPN（real；主作 GM 待复核作名，淘金/太平洋岸）
+- [place] Holland — TT:12/DSCF:3；31 distinctPN（real；主作 Topsy Turvy）
+- [place] Mongolia — AWED:24/ASC:5；30 distinctPN（real；主作 Around the World in Eighty Days 或 ASC，戈壁/大铁路）
+- [place] Mexico — TTLU:6/FEM:5/MW:4/RM:4；30 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea 或 From the Earth to the Moon）
+- [place] Canada — FC:9/RC:5/MW:4；28 distinctPN（real；主作 FC 待复核作名）
+- [place] Italy — OC:9/TTLU:4；25 distinctPN（real；主作 Off on a Comet）
+- [place] Chili — SC:9/DSCF:7；23 distinctPN（real；主作 In Search of the Castaways，Chile 之 Verne 拼法）
+- [place] Bolivia — DSCF:12/EHLA:6；21 distinctPN（real；主作 Dick Sand: A Captain at Fifteen）
+- [place] Switzerland — TN:4/MZ:2/RM:2/RC:2；20 distinctPN（real；主作跨源，待择确指句最集中之作）
+- [place] Ireland — TTLU:8/WC:4；20 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea）
+- [place] Germany — JCE:4/FF:2/MZ:2/VB:2；19 distinctPN（real；主作 A Journey to the Center of the Earth）
+- [place] Denmark — TT:10/JCE:4；18 distinctPN（real；主作 Topsy Turvy 或 JCE 起点 Copenhagen）
+- [place] Turkey — MS:4/TTLU:4；17 distinctPN（real；主作跨源 Michael Strogoff/TTLU）
+- [place] Persia — ASC:10/MS:3；16 distinctPN（real；主作 The Adventures of a Special Correspondent）
+- [place] Portugal — DSCF:3/EHLA:3；11 distinctPN（real；主作跨源，待择）
+- [place] Tibet — ASC:6/RC:3；9 distinctPN（real；主作 The Adventures of a Special Correspondent）
+- [place] Arabia — TTLU:5；8 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea，红海/Nautilus 掠岸）
+- [place] Madagascar — DSCF:4/TT:3；7 distinctPN（real；主作跨源 DSCF/TT）
+- [place] Colombia — EHLA:3/其余散；7 distinctPN（real；主作跨源，Amazon 上游国）
+- [place] Austria — 散源 7；7 distinctPN（real；主作跨源待择，中候选）
+- [place] Ecuador — EHLA:5；5 distinctPN（real；主作 Eight Hundred Leagues on the Amazon，Amazon 源国邻）
+- [place] Kamtschatka — MS:2/RC:2/ASC:1；5 distinctPN（real；主作跨源，远东半岛）
+- [place] Prussia — TTLU:3/其余散；6 distinctPN（real；主作跨源，中候选）
+- [place] Belgium — 散源 6；6 distinctPN（real；主作跨源，中候选）
+<!-- R98 未入队（噪声/既建/demonym，同 R95）：Victoria 22（多实体）、No 12、America 9（泛指）、Klock 7（子串）、Niagara 5（既建裸名）、Floridian·Algerian 5/5（demonym）；covered 跳过：Greenland/Siberia/Zanzibar/Iceland/Patagonia。England 221/France 169 暂缓（城市页密集）。Poland 2/Venezuela 3/Chile 3(=Chili)/Tartary 4/Finland 4 <门。 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
