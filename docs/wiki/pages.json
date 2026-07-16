@@ -1866,6 +1866,31 @@
       "book": "Ascent of Mont Blanc",
       "total_refs": 1
     },
+    "amazon": {
+      "type": "place",
+      "label": "Amazon",
+      "aliases": [
+        "Amazon River"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "eight-hundred-leagues-on-the-amazon",
+        "exploration"
+      ],
+      "path": "am/amazon.md",
+      "description": "Great South American river that carries the jangada eight hundred leagues through Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1435,
+      "prose_chars": 1351,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "amsterdam-island": {
       "type": "place",
       "label": "Amsterdam Island",
@@ -1914,7 +1939,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 4
+      "total_refs": 3
     },
     "antarctic-sea": {
       "type": "place",
@@ -1982,7 +2007,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 16
+      "total_refs": 19
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3589,7 +3614,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "bellot-strait": {
       "type": "place",
@@ -3704,7 +3729,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Around the World in Eighty Days",
-      "total_refs": 1
+      "total_refs": 2
     },
     "BR-ch01": {
       "type": "chapter",
@@ -6774,7 +6799,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 6
+      "total_refs": 7
     },
     "eighty-day-wager": {
       "type": "event",
@@ -8847,7 +8872,7 @@
       "quality_score": 66,
       "affiliation": "Scotland Yard",
       "book": "Around the World in Eighty Days",
-      "total_refs": 34
+      "total_refs": 36
     },
     "flag-point": {
       "type": "place",
@@ -11261,7 +11286,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "irkutsk": {
       "type": "place",
@@ -12791,6 +12816,29 @@
       "book": "The Mysterious Island",
       "total_refs": 87
     },
+    "liverpool": {
+      "type": "place",
+      "label": "Liverpool",
+      "aliases": [],
+      "tags": [
+        "place",
+        "england",
+        "around-the-world-in-eighty-days",
+        "voyage"
+      ],
+      "path": "li/liverpool.md",
+      "description": "English port where Phileas Fogg lands from America, only six hours from the wager he seems to have lost.",
+      "prose_len": 1403,
+      "prose_chars": 1319,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "loch-katrine": {
       "type": "place",
       "label": "Loch Katrine",
@@ -12855,7 +12903,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Around the World in Eighty Days",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -12929,7 +12977,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 3
+      "total_refs": 4
     },
     "mandible-cape": {
       "type": "place",
@@ -14311,7 +14359,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 16
+      "total_refs": 17
     },
     "michel-ardan": {
       "type": "character",
@@ -15791,7 +15839,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "nitroglycerine": {
       "type": "technology",
@@ -16892,6 +16940,29 @@
       "quality_score": 41,
       "total_refs": 2
     },
+    "omaha": {
+      "type": "place",
+      "label": "Omaha",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "around-the-world-in-eighty-days",
+        "railway"
+      ],
+      "path": "om/omaha.md",
+      "description": "Nebraska terminus of the Union Pacific where Phileas Fogg boards the transcontinental railroad across America.",
+      "prose_len": 1397,
+      "prose_chars": 1313,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "omsk": {
       "type": "place",
       "label": "Omsk",
@@ -17128,7 +17199,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "phileas-fogg": {
       "type": "character",
@@ -17151,7 +17222,7 @@
       "quality_score": 68,
       "affiliation": "Reform Club",
       "book": "Around the World in Eighty Days",
-      "total_refs": 47
+      "total_refs": 50
     },
     "PL-ch01": {
       "type": "chapter",
@@ -18738,7 +18809,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 1
+      "total_refs": 2
     },
     "sandwich-islands": {
       "type": "place",
@@ -22115,6 +22186,29 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 2
     },
+    "suez": {
+      "type": "place",
+      "label": "Suez",
+      "aliases": [],
+      "tags": [
+        "place",
+        "egypt",
+        "around-the-world-in-eighty-days",
+        "voyage"
+      ],
+      "path": "su/suez.md",
+      "description": "Egyptian canal town where detective Fix first waits to intercept Phileas Fogg on the road to India.",
+      "prose_len": 1367,
+      "prose_chars": 1283,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "sullivan-island": {
       "type": "place",
       "label": "Sullivan Island",
@@ -22182,7 +22276,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "tabor-island-castaway": {
       "type": "event",
@@ -23209,31 +23303,6 @@
       "quality_score": 68,
       "book": "An Antarctic Mystery",
       "total_refs": 1
-    },
-    "tsalal": {
-      "type": "place",
-      "label": "Tsalal Island",
-      "aliases": [
-        "Tsalal"
-      ],
-      "tags": [
-        "place",
-        "antarctic",
-        "an-antarctic-mystery",
-        "exploration"
-      ],
-      "path": "ts/tsalal.md",
-      "description": "Fictional Antarctic island from Poe's Pym narrative, the goal of the Halbrane's search in An Antarctic Mystery.",
-      "prose_len": 1279,
-      "prose_chars": 1195,
-      "h2_count": 4,
-      "pn_count": 5,
-      "wikilink_count": 1,
-      "blockquote_count": 0,
-      "quality": "featured",
-      "quality_score": 62,
-      "book": "An Antarctic Mystery",
-      "total_refs": 0
     },
     "TT-ch01": {
       "type": "chapter",
@@ -25179,6 +25248,29 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 1
     },
+    "volga": {
+      "type": "place",
+      "label": "Volga",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "vo/volga.md",
+      "description": "Great Russian river Michael Strogoff follows and crosses at Nijni-Novgorod at the outset of his ride to Irkutsk.",
+      "prose_len": 1442,
+      "prose_chars": 1358,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -26245,6 +26337,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amazon": "amazon",
+    "Amazon": "amazon",
+    "Amazon River": "amazon",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -27007,6 +27102,8 @@
     "Balloon Castaways' Landing": "lincoln-island-landing",
     "lincoln-island": "lincoln-island",
     "Lincoln Island": "lincoln-island",
+    "liverpool": "liverpool",
+    "Liverpool": "liverpool",
     "loch-katrine": "loch-katrine",
     "Loch Katrine": "loch-katrine",
     "loch-malcolm": "loch-malcolm",
@@ -27264,6 +27361,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "omaha": "omaha",
+    "Omaha": "omaha",
     "omsk": "omsk",
     "Omsk": "omsk",
     "oxyhydric-gas": "oxyhydric-gas",
@@ -27604,6 +27703,8 @@
     "Return by Volcano": "stromboli-eruption-return",
     "stromboli": "stromboli",
     "Stromboli": "stromboli",
+    "suez": "suez",
+    "Suez": "suez",
     "sullivan-island": "sullivan-island",
     "Sullivan Island": "sullivan-island",
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
@@ -27712,8 +27813,6 @@
     "Torres Strait": "torres-strait",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
-    "tsalal": "tsalal",
-    "Tsalal": "tsalal",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -27823,6 +27922,8 @@
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
+    "volga": "volga",
+    "Volga": "volga",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -27879,6 +27980,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1258,
-  "generated": "2026-07-16T04:22:18Z"
+  "page_count": 1262,
+  "generated": "2026-07-16T04:29:40Z"
 }

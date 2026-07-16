@@ -567,6 +567,14 @@
       "aliases": [],
       "path": "am/AMB.md"
     },
+    "amazon": {
+      "type": "place",
+      "label": "Amazon",
+      "aliases": [
+        "Amazon River"
+      ],
+      "path": "am/amazon.md"
+    },
     "amsterdam-island": {
       "type": "place",
       "label": "Amsterdam Island",
@@ -3856,6 +3864,12 @@
       "aliases": [],
       "path": "li/lincoln-island.md"
     },
+    "liverpool": {
+      "type": "place",
+      "label": "Liverpool",
+      "aliases": [],
+      "path": "li/liverpool.md"
+    },
     "loch-katrine": {
       "type": "place",
       "label": "Loch Katrine",
@@ -5088,6 +5102,12 @@
         "To the Sun? / Off on a Comet"
       ],
       "path": "of/off-on-a-comet.md"
+    },
+    "omaha": {
+      "type": "place",
+      "label": "Omaha",
+      "aliases": [],
+      "path": "om/omaha.md"
     },
     "omsk": {
       "type": "place",
@@ -6663,6 +6683,12 @@
       "aliases": [],
       "path": "st/stromboli.md"
     },
+    "suez": {
+      "type": "place",
+      "label": "Suez",
+      "aliases": [],
+      "path": "su/suez.md"
+    },
     "sullivan-island": {
       "type": "place",
       "label": "Sullivan Island",
@@ -7002,14 +7028,6 @@
       "label": "Tsalal Island",
       "aliases": [],
       "path": "ts/tsalal-island.md"
-    },
-    "tsalal": {
-      "type": "place",
-      "label": "Tsalal Island",
-      "aliases": [
-        "Tsalal"
-      ],
-      "path": "ts/tsalal.md"
     },
     "TT-ch01": {
       "type": "chapter",
@@ -7596,6 +7614,12 @@
       ],
       "path": "vi/vigo-bay.md"
     },
+    "volga": {
+      "type": "place",
+      "label": "Volga",
+      "aliases": [],
+      "path": "vo/volga.md"
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -7987,6 +8011,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amazon": "amazon",
+    "Amazon": "amazon",
+    "Amazon River": "amazon",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -8749,6 +8776,8 @@
     "Balloon Castaways' Landing": "lincoln-island-landing",
     "lincoln-island": "lincoln-island",
     "Lincoln Island": "lincoln-island",
+    "liverpool": "liverpool",
+    "Liverpool": "liverpool",
     "loch-katrine": "loch-katrine",
     "Loch Katrine": "loch-katrine",
     "loch-malcolm": "loch-malcolm",
@@ -9006,6 +9035,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "omaha": "omaha",
+    "Omaha": "omaha",
     "omsk": "omsk",
     "Omsk": "omsk",
     "oxyhydric-gas": "oxyhydric-gas",
@@ -9346,6 +9377,8 @@
     "Return by Volcano": "stromboli-eruption-return",
     "stromboli": "stromboli",
     "Stromboli": "stromboli",
+    "suez": "suez",
+    "Suez": "suez",
     "sullivan-island": "sullivan-island",
     "Sullivan Island": "sullivan-island",
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
@@ -9454,8 +9487,6 @@
     "Torres Strait": "torres-strait",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
-    "tsalal": "tsalal",
-    "Tsalal": "tsalal",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -9565,6 +9596,8 @@
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
+    "volga": "volga",
+    "Volga": "volga",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -9621,6 +9654,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1258,
-  "generated": "2026-07-16T04:22:18Z"
+  "page_count": 1262,
+  "generated": "2026-07-16T04:29:40Z"
 }

@@ -245,19 +245,19 @@
 <!-- ✔ [place] Morganton — 已建 morganton（rev *，MW real，页内引注 5；Great Eyrie 山脚镇/Strock 调查基地，region United States (North Carolina)）R78 -->
 <!-- ✔ [place] Tijuco — 已建 tijuco（rev *，EHLA real，页内引注 5；巴西钻石区镇/Dacosta 旧案发生地，region Brazil (Minas Gerais)）R78 -->
 <!-- ✔ [place] Kilimanjaro — 已建 kilimanjaro（rev *，TT real，页内引注 6；Gun Club 巨炮山/移轴之射，region East Africa (Tanzania)；book=Topsy Turvy）R78 -->
-<!-- ✔ [place] Tsalal — 已建 tsalal（rev *，AM fictional，页内引注 5；Poe Pym 续篇南极岛/Halbrane 目标，region Antarctic (Southern Ocean)）R78 -->
+<!-- ✘ [place] Tsalal — R78 建 tsalal 系重复页（既有 tsalal-island R37 为正页，label 冲突）；R81 git rm 撤销，改由 tsalal-island 承载，本条作废 -->
 <!-- ✔ [place] Calcutta — 已建 calcutta（rev *，AWED real，页内引注 6；孟加拉首府/Fogg 印度铁路东终点，region India (Bengal)）R78 -->
 <!-- ═══ R79 SCN28 表层复扫补种（queue=9<10 触发，since_discover=2）：续裸词城市扫描 + 河/湖名精核，各已排除既有页（lake-baikal 已存→剔 Baikal）与人名（Coimbra=DSCF 奴商，剔），词边界 distinctPN ≥8 ═══ -->
-- [place] Amazon — EHLA:179；亚马逊河（real 南美；EHLA 主河/jangada 航道）
+<!-- ✔ [place] Amazon — 已建 amazon（rev *，EHLA real，页内引注 5；南美主河/jangada 八百里航道，alias Amazon River，region South America）R81 -->
 <!-- ✔ [place] Krasnoiarsk — 已建 krasnoiarsk（rev *，MS real，页内引注 5；Yenisei 高岸城/Michael 转运希望地，region Eastern Siberia）R80 -->
 <!-- ✔ [place] Perm — 已建 perm（rev *，MS real，页内引注 5；Ural 西坡电报站/Volga 河港，region Russia (Ural)）R80 -->
 <!-- ✔ [place] Obi — 已建 obi（rev *，MS real，页内引注 6；西伯利亚大河/Kolyvan 渡河点，alias Ob，region Western Siberia）R80 -->
 <!-- ✔ [place] Ekaterenburg — 已建 ekaterenburg（rev *，MS real，页内引注 5；Ural 东坡首站/电报线起点，region Russia (Ural)）R80 -->
 <!-- ✔ [place] Yenisei — 已建 yenisei（rev *，MS real，页内引注 5；Krasnoiarsk 下大河/一英里宽双臂，region Eastern Siberia）R80 -->
-- [place] Volga — MS:21；伏尔加河（real 俄；MS Nijni-Novgorod 河汊）
-- [place] Omaha — AWED:20；奥马哈（real 美内布拉斯加；AWED 太平洋铁路东端）
-- [place] Liverpool — AWED:25；利物浦（real 英；Fogg 归国登陆港）
-- [place] Suez — AWED:22；苏伊士（real 埃及；Fogg 运河中转/Fix 候船）
+<!-- ✔ [place] Volga — 已建 volga（rev *，MS real，页内引注 5；欧俄大河/Nijni 船桥渡口，region Russia）R81 -->
+<!-- ✔ [place] Omaha — 已建 omaha（rev *，AWED real，页内引注 5；Union Pacific 东端/内布拉斯加，region United States (Nebraska)）R81 -->
+<!-- ✔ [place] Liverpool — 已建 liverpool（rev *，AWED real，页内引注 5；Fogg 归国登陆港/距伦敦 6 小时，region England）R81 -->
+<!-- ✔ [place] Suez — 已建 suez（rev *，AWED real，页内引注 5；Lesseps 运河镇/Fix 候船拦截，region Egypt）R81 -->
 - [place] Auckland — SC:31；奥克兰（real 新西兰；SC 北岛海岸目标港）
 - [place] Shanghai — AWED:11；上海（real 中国；AWED 领航船目标港）
 - [place] Singapore — AWED:10；新加坡（real；AWED 印度洋-太平洋中转港）
