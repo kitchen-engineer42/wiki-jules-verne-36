@@ -228,13 +228,17 @@
 <!-- ⚠ R65 副产：niagara-falls（R64 建）alias「Niagara River」与既有 niagara-river 页撞名 → 改 alias「Falls of Niagara」并修 Overview 段 404→≤400（rev Pb3Z4f）。 -->
 
 <!-- ✔ [place] Ice Bank — 已建 ice-bank（rev uBUzV8，TTLU real，页内引注 7；南极冰障，定 place/feature，region Antarctic）R67 -->
-- [place] North Sea — 跨源 TTLU:2/RC:2/+7 作；agg 9（单作 max 2）；北海（real；跨源建页）
+- [place] North Sea — 跨源 DOSE/JCE/RC/TN/TTLU/WAI；R89 词边界重核 8 distinctPN（单作 max RC/TTLU 各 2）；北海（real；跨源可建，主作待定）
 <!-- ✔ [place] Firth of Clyde — 已建 firth-of-clyde（rev SO3uY4，跨源 SC:4/UC:2，页内引注 6；苏格兰西岸海湾/Duncan 试航地，book In Search of the Castaways，region Scotland）R75 -->
-- [place] Long Island — TTLU:3/ASC:2/AWED:1；agg 6（单作 max 3）；长岛（real；跨源建页）⚠ ASC:2 为里海 Uzun Ada（=「Long Island」译名，异地同名），非纽约长岛 → 真长岛仅 TTLU:3+AWED:1=4<门，暂 hold
+- [place] Long Island — 真 NY 岛仅 TTLU:3+AWED:1=4<门（ASC:2 为里海 Uzun Ada 异地同名）；R89 重核确认；长岛（real；续 hold，凑不齐 5 确指句）
 <!-- ✔ [place] Goat Island — 已建 goat-island（rev Dv9GUK，跨源 MW:4/RC:2，页内引注 6；尼亚加拉河山羊岛/美加瀑布分界，book The Master of the World，region New York）R75 -->
-- [place] Bay of Bengal — TTLU:3/RM:1/AWED:1；agg 5（单作 max 3）；孟加拉湾（real；跨源建页）⚠ RM:1 疑子串误配，真 distinctPN 或 TTLU:3+AWED:1=4，建页前须核
-- [place] Cape Bon — OC:3/RC:1/TTLU:1；agg 5（单作 max 3）；邦角（real 突尼斯；跨源建页）
-- [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
+- [place] Bay of Bengal — 真湾 TTLU:3+AWED:1=4<门（RM-010-016 为月面白斑隐喻，非真湾）；R89 重核确认；孟加拉湾（real；续 hold）
+- [place] Cape Bon — 跨源 OC:3/RC:1/TTLU:1；R89 词边界重核 5 distinctPN（OC-012-005/006 真指非洲最北岬）；邦角（real 突尼斯；跨源可建，book Off on a Comet）
+<!-- ✘ [place] Kara Sea — R89 词边界重核仅 TTLU:1（TTLU-046-009 列举句），原「Sea of Kara」agg 5 系「kara」子串污染 → 剔除，不建 -->
+
+<!-- ═══ R89 SCN28 表层复扫补种（queue=7<10 触发，since_discover=1）：geo 邻接 + demonym stoplist 续挖，强候选骤减（仅 2 新），并顺带 R88 交办的 held 候选词边界重核（North Sea/Cape Bon 升为可建；Long Island/Bay of Bengal 真 distinctPN=4<门续 hold；Kara Sea 子串污染剔除）═══ -->
+- [place] Pamir — ASC:21；帕米尔（real 中亚高原；ASC 大铁路凿穿之高原/俄中线接点）
+- [place] Atacama — DSCF:8；阿塔卡马（real 南美沙漠；DSCF 场景，南美产物之乡）
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
