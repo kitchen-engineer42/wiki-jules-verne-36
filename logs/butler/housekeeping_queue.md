@@ -39,6 +39,28 @@
 **处置**：属共享 memex 组件（`add_page.py`）—— 依 RFC 停靠决策 **PARK**，不自动提交；
 与 HK-featured-inflation 及 VVV 宽度三 RFC 一并批量评审。本轮 4 页已手工拆分复检达标。
 
+### HK-book-colon-yaml-break — `book` 值含冒号未加引号 → frontmatter 整块丢弃 → type=unknown
+
+**现象（GROW 2.1-B R64 place 轮，2026-07-15 发现）**：全库唯一含冒号的 work 标题
+`Dick Sand: A Captain at Fifteen` 被两页 frontmatter 写成裸值 `book: Dick Sand: A Captain at Fifteen`
+（未加引号），触发 LAW §8：YAML 解析在第二个冒号处失败 → **整块 frontmatter 被丢弃** →
+`build_registry.py` 将该页记为 `type: unknown`、`label` 退化为 slug、`aliases: []`。受影响 2 页：
+`lake-tanganyika`（R47 建）、`easter-island`（R60 建，本对话早期我所建）。
+
+**连带缺陷**：R63 SCN28-corpus 深扫的既有页快照按 `type=='place'` 过滤，type=unknown 页对其
+**不可见** → lake-tanganyika 被误当新候选重复列入 queue（R64 建时 add_page.py 报 "already exists"
+才暴露）。即 discover 快照的类型过滤会漏掉因 YAML 破损而 type=unknown 的同类页。
+
+**影响**：断类型分面、断 label 解析、断 alias；且污染 discover 去重。纯 registry/frontmatter 层，
+不影响正文 PN grounding。
+
+**修复方向**：(1) `add_page.py` 应校验 frontmatter YAML 可解析（含冒号/撇号值强制引号），建时拦截；
+(2) discover 快照去重应基于全体页 id/slug，而非 `type==<current>` 过滤，避免 type=unknown 漏判。
+
+**处置**：受影响 2 页已就地修复（`edit_page.py` 单引号包裹 book，easter-island 并拆分 3 处 >400 散文段）——
+lake-tanganyika rev Kym3I6、easter-island rev BNLbKc，全库 type=unknown 归 0。组件级修复（add_page.py
+YAML 校验、discover 去重口径）属共享 memex 组件 → **PARK**，与其余 RFC 批量评审。
+
 ## P2 — 中优先级
 
 ### HK-robur-alias-conflict — `Robur the Conqueror` label/alias 撞名

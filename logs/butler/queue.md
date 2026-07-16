@@ -214,11 +214,12 @@
 <!-- ═══ R63 SCN28-corpus 首次深层语料扫描（跨全 36 部聚合，since_corpus 30→0）═══ -->
 <!-- 方法：toponym 后缀构式（X Ocean/Sea/Bay/Island/River/Strait/Cape/Lake/Mountains/Peak/Point 等）+「GEO of X」+「Cape/Mount/Lake/Fort/Port X」全集正则抽取，按 sid 前三段跨作聚合 distinctPN。此扫专为捕获单作 <5、跨作 ≥5 的地点（cape-horn 先例），补 R59 表层扫盲区。new_candidates≈18 ≥3 → corpus_streak_low 保持 0，语料未穷尽。 -->
 <!-- ⚠ 跨源聚合 distinctPN 仅对「单一无歧义真实地点」有效（承债务：深扫聚合 distinctPN 跨源误报）；建页时仍须逐页核页内引注 ≥5。 -->
-- [place] Strait of Magellan — SC:7/TTLU:4/AM:4/RC:3/+；agg 23；麦哲伦海峡（real；alias Straits of Magellan；单作 SC:7 达门）
-- [place] Niagara Falls — MW:22/RC:5/+；agg 38；尼亚加拉瀑布（real；单作 MW:22 达门；MW 决战场景）
-- [place] Lake Tanganyika — DSCF:10/EHLA:1；agg 11；坦噶尼喀湖（real；单作 DSCF:10 达门）
-- [place] Peak of Teneriffe — SC:6/RM:1/TTLU:1；agg 8；特内里费峰（real；单作 SC:6 达门；alias Teneriffe/Tenerife）
-- [place] Norfolk Island — SI:5/MI:4/SC:2；agg 11；诺福克岛（real；单作 SI:5 达门）
+<!-- ✔ [place] Strait of Magellan — 已建 strait-of-magellan（rev NMNXPh，SC real，页内引注 6；alias Straits of Magellan；Duncan 大西洋↔太平洋通道，接 in-search-of-the-castaways/cape-horn）R64 -->
+<!-- ✔ [place] Niagara Falls — 已建 niagara-falls（rev NE9f0z，MW real，页内引注 5；alias Niagara River；Terror 决战瀑布，接 the-master-of-the-world/the-terror/lake-erie/goat-island）R64 -->
+<!-- ✔ [place] Lake Tanganyika — ★已于 R47 建 lake-tanganyika（早于本轮）；因 book 字段冒号未转义致 type=unknown，R63 深扫误列为新候选；R64 已修 book 单引号转义（rev Kym3I6，type unknown→place）；非本轮新建 -->
+<!-- ✔ [place] Peak of Teneriffe — 已建 peak-of-teneriffe（rev RhvWbP，SC real，页内引注 5；alias Teneriffe/Tenerife；Duncan 加那利地标，接 in-search-of-the-castaways）R64 -->
+<!-- ✔ [place] Norfolk Island — 已建 norfolk-island（rev HwTN6f，MI/SI real，页内引注 5；Bob Harvey 苦役逃犯据点，接 the-mysterious-island）R64 -->
+<!-- ⚠ R64 副产：easter-island（R60 建）同 book 冒号未转义 bug → type=unknown，R64 一并修（rev BNLbKc，散文段亦拆分≤400）。全库 type=unknown 归 0。见 housekeeping HK-book-colon-yaml-break。 -->
 - [place] Lake Barnett — FC:7；agg 7；巴内特湖（FC 北极；real/fictional 待核）
 - [place] Lake Tinn — TN:6；agg 6；廷恩湖（real 挪威；A Drama in Livonia/TN）
 - [place] Fort Independence — SC:6；agg 6；独立堡（real/settlement；In Search of the Castaways）

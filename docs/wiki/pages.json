@@ -3941,7 +3941,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 2
+      "total_refs": 3
     },
     "cape-michael": {
       "type": "place",
@@ -5651,17 +5651,26 @@
       "total_refs": 0
     },
     "easter-island": {
-      "type": "unknown",
-      "label": "easter-island",
-      "aliases": [],
-      "tags": [],
+      "type": "place",
+      "label": "Easter Island",
+      "aliases": [
+        "Isle of Pâques",
+        "Vai-Hon"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
       "path": "ea/easter-island.md",
-      "prose_len": 1790,
-      "prose_chars": 1692,
+      "description": "The isolated Pacific island whose sighting lets young Dick Sand fix the Pilgrim's position during the storm in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1793,
+      "prose_chars": 1689,
       "h2_count": 4,
       "pn_count": 8,
       "wikilink_count": 1,
       "blockquote_count": 0,
+      "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
     "EHLA-ch01": {
@@ -10697,7 +10706,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 6
+      "total_refs": 8
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11794,7 +11803,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 5
+      "total_refs": 6
     },
     "lake-grant": {
       "type": "place",
@@ -11885,18 +11894,26 @@
       "total_refs": 1
     },
     "lake-tanganyika": {
-      "type": "unknown",
-      "label": "lake-tanganyika",
-      "aliases": [],
-      "tags": [],
+      "type": "place",
+      "label": "Lake Tanganyika",
+      "aliases": [
+        "Tanganyika"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "africa"
+      ],
       "path": "la/lake-tanganyika.md",
+      "description": "The great Central African lake that figures in Dick Sand as a hub of the slave trade and a landmark of Livingstone's explorations.",
       "prose_len": 1727,
       "prose_chars": 1620,
       "h2_count": 4,
       "pn_count": 6,
       "wikilink_count": 2,
       "blockquote_count": 0,
-      "total_refs": 0
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 1
     },
     "lake-taupo": {
       "type": "place",
@@ -14886,6 +14903,30 @@
       "book": "The Underground City",
       "total_refs": 3
     },
+    "niagara-falls": {
+      "type": "place",
+      "label": "Niagara Falls",
+      "aliases": [
+        "Niagara River"
+      ],
+      "tags": [
+        "place",
+        "waterfall",
+        "united-states"
+      ],
+      "path": "ni/niagara-falls.md",
+      "description": "The great cataract on the Niagara River where the pursuit of the Terror reaches its crisis in The Master of the World.",
+      "prose_len": 1535,
+      "prose_chars": 1434,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Master of the World",
+      "total_refs": 1
+    },
     "niagara-river": {
       "type": "place",
       "label": "Niagara River",
@@ -14906,7 +14947,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Master of the World",
-      "total_refs": 1
+      "total_refs": 0
     },
     "nitroglycerine": {
       "type": "technology",
@@ -14935,6 +14976,28 @@
       "quality_score": 71,
       "book": "The Mysterious Island",
       "total_refs": 8
+    },
+    "norfolk-island": {
+      "type": "place",
+      "label": "Norfolk Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
+      "path": "no/norfolk-island.md",
+      "description": "The South Pacific penal island from which Bob Harvey's convicts escape to menace the colonists in The Mysterious Island.",
+      "prose_len": 1389,
+      "prose_chars": 1288,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Mysterious Island",
+      "total_refs": 0
     },
     "north-polar-practical-association": {
       "type": "organization",
@@ -16054,6 +16117,31 @@
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
       "total_refs": 40
+    },
+    "peak-of-teneriffe": {
+      "type": "place",
+      "label": "Peak of Teneriffe",
+      "aliases": [
+        "Teneriffe",
+        "Tenerife"
+      ],
+      "tags": [
+        "place",
+        "mountain",
+        "atlantic"
+      ],
+      "path": "pe/peak-of-teneriffe.md",
+      "description": "The great volcanic peak of the Canary Islands, sighted from the Duncan early in the voyage of In Search of the Castaways.",
+      "prose_len": 1322,
+      "prose_chars": 1220,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -20884,6 +20972,30 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "strait-of-magellan": {
+      "type": "place",
+      "label": "Strait of Magellan",
+      "aliases": [
+        "Straits of Magellan"
+      ],
+      "tags": [
+        "place",
+        "strait",
+        "south-america"
+      ],
+      "path": "st/strait-of-magellan.md",
+      "description": "The southern passage between the Atlantic and Pacific through which the Duncan sails on her search in In Search of the Castaways.",
+      "prose_len": 1377,
+      "prose_chars": 1273,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "stromboli-eruption-return": {
       "type": "event",
       "label": "The Stromboli Eruption",
@@ -21217,7 +21329,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 8
+      "total_refs": 9
     },
     "the-moon": {
       "type": "place",
@@ -21263,7 +21375,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 19
+      "total_refs": 20
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -21342,7 +21454,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 9
+      "total_refs": 10
     },
     "the-underground-city": {
       "type": "work",
@@ -25144,6 +25256,9 @@
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
     "easter-island": "easter-island",
+    "Easter Island": "easter-island",
+    "Isle of Pâques": "easter-island",
+    "Vai-Hon": "easter-island",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -25545,6 +25660,8 @@
     "lake-superior": "lake-superior",
     "Lake Superior": "lake-superior",
     "lake-tanganyika": "lake-tanganyika",
+    "Lake Tanganyika": "lake-tanganyika",
+    "Tanganyika": "lake-tanganyika",
     "lake-taupo": "lake-taupo",
     "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
@@ -25733,12 +25850,16 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "niagara-falls": "niagara-falls",
+    "Niagara Falls": "niagara-falls",
+    "Niagara River": "niagara-falls",
     "niagara-river": "niagara-river",
-    "Niagara River": "niagara-river",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
     "glonoin": "nitroglycerine",
+    "norfolk-island": "norfolk-island",
+    "Norfolk Island": "norfolk-island",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -25812,6 +25933,10 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "peak-of-teneriffe": "peak-of-teneriffe",
+    "Peak of Teneriffe": "peak-of-teneriffe",
+    "Teneriffe": "peak-of-teneriffe",
+    "Tenerife": "peak-of-teneriffe",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -26109,6 +26234,9 @@
     "strait-of-gibraltar": "strait-of-gibraltar",
     "Strait of Gibraltar": "strait-of-gibraltar",
     "Straits of Gibraltar": "strait-of-gibraltar",
+    "strait-of-magellan": "strait-of-magellan",
+    "Strait of Magellan": "strait-of-magellan",
+    "Straits of Magellan": "strait-of-magellan",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -26373,6 +26501,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1199,
-  "generated": "2026-07-16T02:43:59Z"
+  "page_count": 1203,
+  "generated": "2026-07-16T02:58:14Z"
 }

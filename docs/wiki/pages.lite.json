@@ -1711,9 +1711,12 @@
       "path": "ea/east-india-company.md"
     },
     "easter-island": {
-      "type": "unknown",
-      "label": "easter-island",
-      "aliases": [],
+      "type": "place",
+      "label": "Easter Island",
+      "aliases": [
+        "Isle of Pâques",
+        "Vai-Hon"
+      ],
       "path": "ea/easter-island.md"
     },
     "EHLA-ch01": {
@@ -3593,9 +3596,11 @@
       "path": "la/lake-superior.md"
     },
     "lake-tanganyika": {
-      "type": "unknown",
-      "label": "lake-tanganyika",
-      "aliases": [],
+      "type": "place",
+      "label": "Lake Tanganyika",
+      "aliases": [
+        "Tanganyika"
+      ],
       "path": "la/lake-tanganyika.md"
     },
     "lake-taupo": {
@@ -4498,6 +4503,14 @@
       "aliases": [],
       "path": "ne/new-aberfoyle.md"
     },
+    "niagara-falls": {
+      "type": "place",
+      "label": "Niagara Falls",
+      "aliases": [
+        "Niagara River"
+      ],
+      "path": "ni/niagara-falls.md"
+    },
     "niagara-river": {
       "type": "place",
       "label": "Niagara River",
@@ -4512,6 +4525,12 @@
         "glonoin"
       ],
       "path": "ni/nitroglycerine.md"
+    },
+    "norfolk-island": {
+      "type": "place",
+      "label": "Norfolk Island",
+      "aliases": [],
+      "path": "no/norfolk-island.md"
     },
     "north-polar-practical-association": {
       "type": "organization",
@@ -4853,6 +4872,15 @@
         "Jean Passepartout"
       ],
       "path": "pa/passepartout.md"
+    },
+    "peak-of-teneriffe": {
+      "type": "place",
+      "label": "Peak of Teneriffe",
+      "aliases": [
+        "Teneriffe",
+        "Tenerife"
+      ],
+      "path": "pe/peak-of-teneriffe.md"
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -6309,6 +6337,14 @@
         "Straits of Gibraltar"
       ],
       "path": "st/strait-of-gibraltar.md"
+    },
+    "strait-of-magellan": {
+      "type": "place",
+      "label": "Strait of Magellan",
+      "aliases": [
+        "Straits of Magellan"
+      ],
+      "path": "st/strait-of-magellan.md"
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -7865,6 +7901,9 @@
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
     "easter-island": "easter-island",
+    "Easter Island": "easter-island",
+    "Isle of Pâques": "easter-island",
+    "Vai-Hon": "easter-island",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -8266,6 +8305,8 @@
     "lake-superior": "lake-superior",
     "Lake Superior": "lake-superior",
     "lake-tanganyika": "lake-tanganyika",
+    "Lake Tanganyika": "lake-tanganyika",
+    "Tanganyika": "lake-tanganyika",
     "lake-taupo": "lake-taupo",
     "Lake Taupo": "lake-taupo",
     "lake-tchad": "lake-tchad",
@@ -8454,12 +8495,16 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "niagara-falls": "niagara-falls",
+    "Niagara Falls": "niagara-falls",
+    "Niagara River": "niagara-falls",
     "niagara-river": "niagara-river",
-    "Niagara River": "niagara-river",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
     "glonoin": "nitroglycerine",
+    "norfolk-island": "norfolk-island",
+    "Norfolk Island": "norfolk-island",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -8533,6 +8578,10 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "peak-of-teneriffe": "peak-of-teneriffe",
+    "Peak of Teneriffe": "peak-of-teneriffe",
+    "Teneriffe": "peak-of-teneriffe",
+    "Tenerife": "peak-of-teneriffe",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -8830,6 +8879,9 @@
     "strait-of-gibraltar": "strait-of-gibraltar",
     "Strait of Gibraltar": "strait-of-gibraltar",
     "Straits of Gibraltar": "strait-of-gibraltar",
+    "strait-of-magellan": "strait-of-magellan",
+    "Strait of Magellan": "strait-of-magellan",
+    "Straits of Magellan": "strait-of-magellan",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -9094,6 +9146,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1199,
-  "generated": "2026-07-16T02:43:59Z"
+  "page_count": 1203,
+  "generated": "2026-07-16T02:58:14Z"
 }
