@@ -1226,7 +1226,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 82,
-      "total_refs": 0
+      "total_refs": 1
     },
     "aden": {
       "type": "place",
@@ -1348,6 +1348,29 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "algiers": {
+      "type": "place",
+      "label": "Algiers",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "algeria",
+        "city"
+      ],
+      "path": "al/algiers.md",
+      "description": "The chief city of the North African coast, built amphitheater-wise above its bay, swallowed with the coast when a fragment of earth breaks away.",
+      "prose_len": 1270,
+      "prose_chars": 1189,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Off on a Comet",
       "total_refs": 0
     },
     "allahabad": {
@@ -4440,6 +4463,29 @@
       "quality_score": 67,
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 1
+    },
+    "brest": {
+      "type": "place",
+      "label": "Brest",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "france",
+        "port"
+      ],
+      "path": "br/brest.md",
+      "description": "The great French naval port on the Atlantic, the Alaska's landfall in her rescue voyage and a cradle of Verne's sea expeditions.",
+      "prose_len": 1289,
+      "prose_chars": 1208,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
     },
     "buffalo": {
       "type": "place",
@@ -7750,6 +7796,31 @@
       "book": "Michael Strogoff",
       "total_refs": 1
     },
+    "etna": {
+      "type": "place",
+      "label": "Etna",
+      "aliases": [
+        "Mount Etna"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "mediterranean",
+        "volcano"
+      ],
+      "path": "et/etna.md",
+      "description": "The great volcano of Sicily, fiery landmark of Verne's Mediterranean and his recurring measure of eruptive power.",
+      "prose_len": 1069,
+      "prose_chars": 988,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "facing-the-flag": {
       "type": "work",
       "label": "Facing the Flag",
@@ -9999,6 +10070,32 @@
       "quality_score": 65,
       "book": "The Blockade Runners",
       "total_refs": 2
+    },
+    "frankfort": {
+      "type": "place",
+      "label": "Frankfort",
+      "aliases": [
+        "Frankfort-on-the-Main",
+        "Frankfurt"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "germany",
+        "city"
+      ],
+      "path": "fr/frankfort.md",
+      "description": "The German fair-city on the Main from which the narrator makes his fateful balloon ascent amid the crowds of the September fair.",
+      "prose_len": 1249,
+      "prose_chars": 1168,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "A Drama in the Air",
+      "total_refs": 0
     },
     "from-the-earth-to-the-moon": {
       "type": "work",
@@ -12469,7 +12566,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 11
+      "total_refs": 12
     },
     "island-of-ljakow": {
       "type": "place",
@@ -14441,7 +14538,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Off on a Comet",
-      "total_refs": 3
+      "total_refs": 5
     },
     "melbourne": {
       "type": "place",
@@ -15820,7 +15917,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 23
+      "total_refs": 24
     },
     "michel-ardan": {
       "type": "character",
@@ -18606,7 +18703,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 8
+      "total_refs": 10
     },
     "omaha": {
       "type": "place",
@@ -19965,6 +20062,29 @@
       "quality_score": 62,
       "book": "Around the World in Eighty Days",
       "total_refs": 18
+    },
+    "riga": {
+      "type": "place",
+      "label": "Riga",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "baltic",
+        "city"
+      ],
+      "path": "ri/riga.md",
+      "description": "The Livonian city on the Baltic, home of Nadia Fedor before the long road into Siberian exile toward Irkutsk.",
+      "prose_len": 1103,
+      "prose_chars": 1022,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "RM-ch01": {
       "type": "chapter",
@@ -23848,7 +23968,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 6
     },
     "sicily": {
       "type": "place",
@@ -23871,7 +23991,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "singapore": {
       "type": "place",
@@ -24784,7 +24904,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 13
+      "total_refs": 14
     },
     "tibet": {
       "type": "place",
@@ -26890,7 +27010,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 24
+      "total_refs": 25
     },
     "twofold-bay": {
       "type": "place",
@@ -28656,6 +28776,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "algiers": "algiers",
+    "Algiers": "algiers",
     "allahabad": "allahabad",
     "Allahabad": "allahabad",
     "alps": "alps",
@@ -28875,6 +28997,8 @@
     "BR-ch10": "BR-ch10",
     "brazil": "brazil",
     "Brazil": "brazil",
+    "brest": "brest",
+    "Brest": "brest",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
     "calais": "calais",
@@ -29120,6 +29244,9 @@
     "The Eighty-Day Wager": "eighty-day-wager",
     "ekaterenburg": "ekaterenburg",
     "Ekaterenburg": "ekaterenburg",
+    "etna": "etna",
+    "Etna": "etna",
+    "Mount Etna": "etna",
     "facing-the-flag": "facing-the-flag",
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
@@ -29255,6 +29382,10 @@
     "Fort Reliance": "fort-reliance",
     "fort-sumter": "fort-sumter",
     "Fort Sumter": "fort-sumter",
+    "frankfort": "frankfort",
+    "Frankfort": "frankfort",
+    "Frankfort-on-the-Main": "frankfort",
+    "Frankfurt": "frankfort",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "fulgurator": "fulgurator",
@@ -29976,6 +30107,8 @@
     "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
+    "riga": "riga",
+    "Riga": "riga",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -30552,6 +30685,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1363,
-  "generated": "2026-07-16T08:44:09Z"
+  "page_count": 1368,
+  "generated": "2026-07-16T09:02:11Z"
 }

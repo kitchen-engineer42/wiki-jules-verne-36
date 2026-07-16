@@ -354,12 +354,13 @@
 <!-- ⚠ [place] Samarkand 未建 — Merv/Bokhara 已链其名，建后可回补交叉链 -->
 <!-- ⚠ [place] 洲级 Europe/Asia/America HOLD 至严筛专轮；America 须与 united-states 消歧 -->
 <!-- ⚠ [place] discover blindspot 累积：pacific/atlantic/ural/caspian probe 裸词漏既建页，建议 PHQ 补裸名 alias + probe 去后缀（HK-discover-existing-type-blindspot, PARK）-->
-- [place] Brest — SCN28 R111；17 distinctPN（real；WC:14 法国大西洋军港）
-- [place] Baikal — SCN28 R111；17 distinctPN（real；MS:17 西伯利亚大湖）
-- [place] Frankfort — SCN28 R111；16 distinctPN（real；DA:6/VB:7 气球史城；核与美国同名地）
-- [place] Algiers — SCN28 R111；15 distinctPN（real；OC:12 北非城）
-- [place] Etna — SCN28 R111；11 distinctPN（real；西西里火山；跨源 RM:3/SI:2/OC:1）
-- [place] Riga — SCN28 R111；10 distinctPN（real；MS:8 波罗的海港城）
+<!-- ✔ [place] Brest — 已建 brest（rev GVYoy9，rof=real，页内引注 8；WC 法国大西洋军港/Alaska 靠岸 + TTLU d'Entrecasteaux 出航，book The Waif of the Cynthia）R114 -->
+<!-- ⚠ [place] Baikal — R114 交叉核**已建** lake-baikal（label Lake Baikal，type place，book MS，alias The Baikal）；裸 "Baikal" 17 distinctPN 系同一大湖 → 伪新剔除。归 HK-discover-existing-type-blindspot（第 5 例，续 pacific/atlantic/ural/caspian）；建议 PHQ 给 lake-baikal 补 alias 'Baikal'。替补 Riga 入 R114 -->
+<!-- ✔ [place] Frankfort — 已建 frankfort（rev 7puzsL，rof=real，页内引注 8；DA/VB 气球升空之城 Frankfort-on-the-Main，book A Drama in the Air；**剔 MW-004-013 美国肯塔基同名 Frankfort**，alias Frankfort-on-the-Main/Frankfurt）R114 -->
+<!-- ✔ [place] Algiers — 已建 algiers（rev 6WuAgj，rof=real，页内引注 8；OC 北非城/彗星吞没 + RC 跨撒哈拉铁路，book Off on a Comet）R114 -->
+<!-- ✔ [place] Etna — 已建 etna（rev HlMrrP，rof=real，页内引注 6；西西里火山，book Off on a Comet；跨源 JCE/OC/RC/RM/MI，**剔 TTLU-001-012 Inman 轮船 "Etna"**；链 [[Sicily]]，alias Mount Etna）R114 -->
+<!-- ✔ [place] Riga — 已建 riga（rev ismidD，rof=real，页内引注 8；MS Nadia Fedor 故乡/波罗的海港城，book Michael Strogoff）R114 -->
+<!-- ⚠ [place] Lena/Baltic 等带 River/Sea 后缀候选 — 建前须核 lena-river/baltic-sea 是否已建（防又一 blindspot）-->
 - [place] Lyons — SCN28 R111；10 distinctPN（real；跨源法国城；alias Lyon）
 - [place] Havre — SCN28 R111；9 distinctPN（real；法国港 Le Havre；跨源 TTLU/AWED/SC2）
 - [place] Lucknow — SCN28 R111；7 distinctPN（real；SC:7 印度城）

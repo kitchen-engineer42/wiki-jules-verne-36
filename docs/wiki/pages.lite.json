@@ -411,6 +411,12 @@
       ],
       "path": "al/aleutian-islands.md"
     },
+    "algiers": {
+      "type": "place",
+      "label": "Algiers",
+      "aliases": [],
+      "path": "al/algiers.md"
+    },
     "allahabad": {
       "type": "place",
       "label": "Allahabad",
@@ -1334,6 +1340,12 @@
       "label": "Brazil",
       "aliases": [],
       "path": "br/brazil.md"
+    },
+    "brest": {
+      "type": "place",
+      "label": "Brest",
+      "aliases": [],
+      "path": "br/brest.md"
     },
     "buffalo": {
       "type": "place",
@@ -2322,6 +2334,14 @@
       "aliases": [],
       "path": "ek/ekaterenburg.md"
     },
+    "etna": {
+      "type": "place",
+      "label": "Etna",
+      "aliases": [
+        "Mount Etna"
+      ],
+      "path": "et/etna.md"
+    },
     "facing-the-flag": {
       "type": "work",
       "label": "Facing the Flag",
@@ -2995,6 +3015,15 @@
       "label": "Fort Sumter",
       "aliases": [],
       "path": "fo/fort-sumter.md"
+    },
+    "frankfort": {
+      "type": "place",
+      "label": "Frankfort",
+      "aliases": [
+        "Frankfort-on-the-Main",
+        "Frankfurt"
+      ],
+      "path": "fr/frankfort.md"
     },
     "from-the-earth-to-the-moon": {
       "type": "work",
@@ -5969,6 +5998,12 @@
       "aliases": [],
       "path": "re/reform-club.md"
     },
+    "riga": {
+      "type": "place",
+      "label": "Riga",
+      "aliases": [],
+      "path": "ri/riga.md"
+    },
     "RM-ch01": {
       "type": "chapter",
       "label": "Round the Moon — CHAPTER I",
@@ -8637,6 +8672,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "algiers": "algiers",
+    "Algiers": "algiers",
     "allahabad": "allahabad",
     "Allahabad": "allahabad",
     "alps": "alps",
@@ -8856,6 +8893,8 @@
     "BR-ch10": "BR-ch10",
     "brazil": "brazil",
     "Brazil": "brazil",
+    "brest": "brest",
+    "Brest": "brest",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
     "calais": "calais",
@@ -9101,6 +9140,9 @@
     "The Eighty-Day Wager": "eighty-day-wager",
     "ekaterenburg": "ekaterenburg",
     "Ekaterenburg": "ekaterenburg",
+    "etna": "etna",
+    "Etna": "etna",
+    "Mount Etna": "etna",
     "facing-the-flag": "facing-the-flag",
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
@@ -9236,6 +9278,10 @@
     "Fort Reliance": "fort-reliance",
     "fort-sumter": "fort-sumter",
     "Fort Sumter": "fort-sumter",
+    "frankfort": "frankfort",
+    "Frankfort": "frankfort",
+    "Frankfort-on-the-Main": "frankfort",
+    "Frankfurt": "frankfort",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "fulgurator": "fulgurator",
@@ -9957,6 +10003,8 @@
     "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
+    "riga": "riga",
+    "Riga": "riga",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -10533,6 +10581,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1363,
-  "generated": "2026-07-16T08:44:09Z"
+  "page_count": 1368,
+  "generated": "2026-07-16T09:02:11Z"
 }
