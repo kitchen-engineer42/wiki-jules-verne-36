@@ -39,6 +39,14 @@
 **处置**：属共享 memex 组件（`add_page.py`）—— 依 RFC 停靠决策 **PARK**，不自动提交；
 与 HK-featured-inflation 及 VVV 宽度三 RFC 一并批量评审。本轮 4 页已手工拆分复检达标。
 
+**EVV5 全库量化（GROW 2.1-B R72，2026-07-15）**：对全部 165 place 页扫描散文门，**24 页**含
+超 400 字长段（旁路 add_page.py 建立时未拦截）。示例：cape-of-good-hope 498、cape-washington 464、
+great-bear-lake 448、island-of-sein 427、cape-bernouilli 420、smiths-straits 417、sea-of-rains 409、
+cape-saknussemm 409（余 16 页 401–415 区间）。多数为 R60 前既有页，非本 place 轮新建（R64–R71
+新建页建前均逐段裁至 ≤400）。**schema/模板本身稳定**（165 页 4-H2 齐备、必填字段齐备、real_or_fictional
+取值合法）——本条纯为 add_page 旁路遗留的内容卫生债，非模板结构缺陷。**DEFERRED**：待 add_page 散文门
+RFC 落地后，对 24 页统一 edit_page 复拆（edit_page 强制 ≤400，触碰即修）。全库建成前不逐页手工修。
+
 ### HK-book-colon-yaml-break — `book` 值含冒号未加引号 → frontmatter 整块丢弃 → type=unknown
 
 **现象（GROW 2.1-B R64 place 轮，2026-07-15 发现）**：全库唯一含冒号的 work 标题
