@@ -242,11 +242,11 @@
 <!-- ✔ [place] Melbourne — 已建 melbourne（rev BlNOir，SC real，页内引注 6；Port Phillip 港/澳洲段主港，region Australia (Victoria)）R77 -->
 <!-- ✔ [place] Lima — 已建 lima（rev kEohlq，PL real，页内引注 6；Rimac 河谷/PL 舞台城，region Peru）R77 -->
 <!-- ✔ [place] Gibraltar — 已建 gibraltar（rev wU2WSt，OC real，页内引注 5；Gallia 彗星残片/地中海口岩，region Strait of Gibraltar）R77 -->
-- [place] Morganton — MW:36；摩根顿（real 北卡；MW Great Eyrie 山脚镇）
-- [place] Tijuco — EHLA:39；蒂茹科（real 巴西；EHLA Joam 早年城）
-- [place] Kilimanjaro — TT:34；乞力马扎罗（real 东非；TT 气球飞越）
-- [place] Tsalal — AM:90；察拉尔岛（fictional 南极；AM Poe 续篇岛）
-- [place] Calcutta — AWED:28；加尔各答（real 印度；Fogg 印度铁路终点）
+<!-- ✔ [place] Morganton — 已建 morganton（rev *，MW real，页内引注 5；Great Eyrie 山脚镇/Strock 调查基地，region United States (North Carolina)）R78 -->
+<!-- ✔ [place] Tijuco — 已建 tijuco（rev *，EHLA real，页内引注 5；巴西钻石区镇/Dacosta 旧案发生地，region Brazil (Minas Gerais)）R78 -->
+<!-- ✔ [place] Kilimanjaro — 已建 kilimanjaro（rev *，TT real，页内引注 6；Gun Club 巨炮山/移轴之射，region East Africa (Tanzania)；book=Topsy Turvy）R78 -->
+<!-- ✔ [place] Tsalal — 已建 tsalal（rev *，AM fictional，页内引注 5；Poe Pym 续篇南极岛/Halbrane 目标，region Antarctic (Southern Ocean)）R78 -->
+<!-- ✔ [place] Calcutta — 已建 calcutta（rev *，AWED real，页内引注 6；孟加拉首府/Fogg 印度铁路东终点，region India (Bengal)）R78 -->
 - [place] Allahabad — AWED:14；阿拉哈巴德（real 印度；Fogg 铁路中断处）
 - [place] Benares — AWED:8；贝拿勒斯（real 印度；Fogg 恒河圣城站）
 
@@ -263,6 +263,8 @@
 <!-- R75 NEW1 消费 5：belem / tabatinga / yokohama / firth-of-clyde / goat-island；queue 12→7 -->
 <!-- R76 SCN28 补种 12（裸词城市扫描）：nijni-novgorod/bombay/melbourne/lima/gibraltar/morganton/tijuco/kilimanjaro/tsalal/calcutta/allahabad/benares；queue 7→19 -->
 <!-- R77 NEW1 消费 5：nijni-novgorod / bombay / melbourne / lima / gibraltar；queue 19→14 -->
+<!-- R78 NEW1 消费 5：morganton / tijuco / kilimanjaro / tsalal / calcutta；queue 14→9 -->
+<!-- 注：Kilimanjaro book=Topsy Turvy（TT，Gun Club 移轴续篇）；Tsalal 为 AM 虚构南极岛（real_or_fictional=fictional）。 -->
 <!-- 注：R75 首度批量消费跨源候选（Firth of Clyde SC+UC=6、Goat Island MW+RC=6），页内引注跨作聚合达门。 -->
 <!-- 注：Long Island / Bay of Bengal 复核后降级 hold——ASC「Long Island」为里海 Uzun Ada 异地同名；Bay of Bengal RM:1 疑误配。真单源+确 distinctPN 均 4<门，暂不建。 -->
 <!-- 注：Semipolatinsk 今属哈萨克斯坦（Semey），label 从 Verne 原文旧称，region 记 Siberia (Irtish valley)。 -->

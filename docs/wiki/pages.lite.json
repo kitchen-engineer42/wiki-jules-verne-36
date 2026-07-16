@@ -1188,6 +1188,12 @@
       "aliases": [],
       "path": "bu/buffalo.md"
     },
+    "calcutta": {
+      "type": "place",
+      "label": "Calcutta",
+      "aliases": [],
+      "path": "ca/calcutta.md"
+    },
     "cambridge-observatory": {
       "type": "organization",
       "label": "Cambridge Observatory",
@@ -3700,6 +3706,12 @@
       "aliases": [],
       "path": "ka/kazounde.md"
     },
+    "kilimanjaro": {
+      "type": "place",
+      "label": "Kilimanjaro",
+      "aliases": [],
+      "path": "ki/kilimanjaro.md"
+    },
     "kolyvan": {
       "type": "place",
       "label": "Kolyvan",
@@ -4296,6 +4308,12 @@
       "label": "Michel Ardan",
       "aliases": [],
       "path": "mi/michel-ardan.md"
+    },
+    "morganton": {
+      "type": "place",
+      "label": "Morganton",
+      "aliases": [],
+      "path": "mo/morganton.md"
     },
     "morris-island": {
       "type": "place",
@@ -6788,6 +6806,12 @@
       ],
       "path": "ti/ticket-no-9672.md"
     },
+    "tijuco": {
+      "type": "place",
+      "label": "Tijuco",
+      "aliases": [],
+      "path": "ti/tijuco.md"
+    },
     "TN-ch01": {
       "type": "chapter",
       "label": "Ticket No. 9672 — CHAPTER I",
@@ -6952,6 +6976,14 @@
       "label": "Tsalal Island",
       "aliases": [],
       "path": "ts/tsalal-island.md"
+    },
+    "tsalal": {
+      "type": "place",
+      "label": "Tsalal Island",
+      "aliases": [
+        "Tsalal"
+      ],
+      "path": "ts/tsalal.md"
     },
     "TT-ch01": {
       "type": "chapter",
@@ -8064,6 +8096,8 @@
     "BR-ch10": "BR-ch10",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
+    "calcutta": "calcutta",
+    "Calcutta": "calcutta",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
@@ -8630,6 +8664,8 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
+    "kilimanjaro": "kilimanjaro",
+    "Kilimanjaro": "kilimanjaro",
     "kolyvan": "kolyvan",
     "Kolyvan": "kolyvan",
     "lake-baikal": "lake-baikal",
@@ -8774,6 +8810,8 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "morganton": "morganton",
+    "Morganton": "morganton",
     "morris-island": "morris-island",
     "Morris Island": "morris-island",
     "mount-franklin": "mount-franklin",
@@ -9337,6 +9375,8 @@
     "Un billet de loterie": "ticket-no-9672",
     "The Lottery Ticket": "ticket-no-9672",
     "Ticket No. \"9672\"": "ticket-no-9672",
+    "tijuco": "tijuco",
+    "Tijuco": "tijuco",
     "TN-ch01": "TN-ch01",
     "TN-ch02": "TN-ch02",
     "TN-ch03": "TN-ch03",
@@ -9373,6 +9413,8 @@
     "Torres Strait": "torres-strait",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
+    "tsalal": "tsalal",
+    "Tsalal": "tsalal",
     "TT-ch01": "TT-ch01",
     "TT-ch02": "TT-ch02",
     "TT-ch03": "TT-ch03",
@@ -9536,6 +9578,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1248,
-  "generated": "2026-07-16T04:10:12Z"
+  "page_count": 1253,
+  "generated": "2026-07-16T04:14:27Z"
 }
