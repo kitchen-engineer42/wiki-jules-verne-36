@@ -261,12 +261,12 @@
 <!-- R95 未入队（噪声/既建/demonym）：Victoria 22（多实体污染）、No 12（假匹配）、America 9（泛指）、Klock 7（klock-klock 子串）、Niagara 5（niagara-falls/niagara-river 既建裸名）、Floridian·Algerian 5/5（demonym）。 -->
 
 <!-- ═══ R98 SCN28 表层复扫补种（queue=2 hold<10 触发，since_discover=2；since_corpus=34≥30 corpus-discover 亦名义触发，然表层未竭故先表层）：geo-adjacency 表层扫仍仅回同 R95 噪声 7（Victoria/No/America/Klock/Niagara/Floridian/Algerian），0 新——**但国名裸词绕过 geo 关键词模式**（承 R95 方法论），遂对 Verne 高频设定国/大区逐一 `\bName\b` 全库核 distinctPN，surface 一大批欧洲+美洲+亚洲国家级真地名，各 ≫5 且多有单源集中可定 book。粒度同既建 China/Peru/Japan（国级）。new_candidates≈25≥3 → discover_streak_low 保持 0，place 广度远未竭（**四度否证 place 饱和**：R91 区/洲级→R95 国级东亚→R98 国级欧美亚）。queue 2→27。England 221/France 169 仍暂缓（城市页密集，国级页价值待评）。 -->
-- [place] Spain — OC:12/TTLU:5/MI:4；42 distinctPN（real；主作 Off on a Comet，Gibraltar/伊比利亚设定）
-- [place] California — GM:17/DSCF:6/AWED:3；37 distinctPN（real；主作 GM 待复核作名，淘金/太平洋岸）
-- [place] Holland — TT:12/DSCF:3；31 distinctPN（real；主作 Topsy Turvy）
-- [place] Mongolia — AWED:24/ASC:5；30 distinctPN（real；主作 Around the World in Eighty Days 或 ASC，戈壁/大铁路）
-- [place] Mexico — TTLU:6/FEM:5/MW:4/RM:4；30 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea 或 From the Earth to the Moon）
-- [place] Canada — FC:9/RC:5/MW:4；28 distinctPN（real；主作 FC 待复核作名）
+<!-- ✔ [place] Spain — 已建 spain（rev bzxGHl，OC real，页内引注 9；comet Gallia 掳走之西班牙人/Formentera，book Off on a Comet）R99 -->
+<!-- ✔ [place] California — 已建 california（rev wf11Cl，GM real，页内引注 10；San Francisco 首府/Godfrey 故乡/巨杉林，book Godfrey Morgan）R99 -->
+<!-- ✔ [place] Holland — 已建 holland（rev L1p7KD，TT real，页内引注 9；北极六强之一/Jansen 代表/Barentz-Heemskerk，book Topsy-Turvy）R99 -->
+<!-- ✔ [place] Mexico — 已建 mexico（rev XkJaUX，FEM real 主作，页内引注 8；Gun Club casus belli 28°线/墨西哥湾，跨源 MW/TTLU 湾流，book From the Earth to the Moon）R99 -->
+<!-- ✔ [place] Canada — 已建 canada（rev EpTMgI，FC real，页内引注 8；毛皮国度法→英/James Bay 商站，book The Fur Country）R99 -->
+- [place] Mongolia — ⚠ AWED:24 系 steamer「Mongolia」（非国名，多实体噪声，同 Victoria）→ 真国名 refs 仅 ASC:5/TT:1≈6 distinctPN（real；主作 The Adventures of a Special Correspondent，戈壁/大铁路；建页须词边界剔 AWED 汽船）
 - [place] Italy — OC:9/TTLU:4；25 distinctPN（real；主作 Off on a Comet）
 - [place] Chili — SC:9/DSCF:7；23 distinctPN（real；主作 In Search of the Castaways，Chile 之 Verne 拼法）
 - [place] Bolivia — DSCF:12/EHLA:6；21 distinctPN（real；主作 Dick Sand: A Captain at Fifteen）

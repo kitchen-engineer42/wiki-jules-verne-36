@@ -1274,6 +1274,12 @@
       "aliases": [],
       "path": "ca/calcutta.md"
     },
+    "california": {
+      "type": "place",
+      "label": "California",
+      "aliases": [],
+      "path": "ca/california.md"
+    },
     "cambridge-observatory": {
       "type": "organization",
       "label": "Cambridge Observatory",
@@ -1281,6 +1287,12 @@
         "Observatory of Cambridge"
       ],
       "path": "ca/cambridge-observatory.md"
+    },
+    "canada": {
+      "type": "place",
+      "label": "Canada",
+      "aliases": [],
+      "path": "ca/canada.md"
     },
     "canadian-general-transportation-company": {
       "type": "organization",
@@ -3440,6 +3452,12 @@
       "aliases": [],
       "path": "ha/ham-rock.md"
     },
+    "holland": {
+      "type": "place",
+      "label": "Holland",
+      "aliases": [],
+      "path": "ho/holland.md"
+    },
     "hong-kong": {
       "type": "place",
       "label": "Hong Kong",
@@ -4091,6 +4109,12 @@
       "label": "Melville Island",
       "aliases": [],
       "path": "me/melville-island.md"
+    },
+    "mexico": {
+      "type": "place",
+      "label": "Mexico",
+      "aliases": [],
+      "path": "me/mexico.md"
     },
     "MI-ch01": {
       "type": "chapter",
@@ -6850,6 +6874,12 @@
       "aliases": [],
       "path": "so/south-america.md"
     },
+    "spain": {
+      "type": "place",
+      "label": "Spain",
+      "aliases": [],
+      "path": "sp/spain.md"
+    },
     "spencer-island": {
       "type": "place",
       "label": "Spencer Island",
@@ -8441,9 +8471,13 @@
     "Buffalo": "buffalo",
     "calcutta": "calcutta",
     "Calcutta": "calcutta",
+    "california": "california",
+    "California": "california",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
+    "canada": "canada",
+    "Canada": "canada",
     "canadian-general-transportation-company": "canadian-general-transportation-company",
     "Canadian General Transportation Company": "canadian-general-transportation-company",
     "Canadian Transportation Company": "canadian-general-transportation-company",
@@ -8931,6 +8965,8 @@
     "Halbrane Land": "halbrane-land",
     "ham-rock": "ham-rock",
     "Ham Rock": "ham-rock",
+    "holland": "holland",
+    "Holland": "holland",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
     "hudsons-bay-company": "hudsons-bay-company",
@@ -9115,6 +9151,8 @@
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
     "Melville Island": "melville-island",
+    "mexico": "mexico",
+    "Mexico": "mexico",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -9692,6 +9730,8 @@
     "Snowy River": "snowy-river",
     "south-america": "south-america",
     "South America": "south-america",
+    "spain": "spain",
+    "Spain": "spain",
     "spencer-island": "spencer-island",
     "Spencer Island": "spencer-island",
     "Phina Island": "spencer-island",
@@ -10002,6 +10042,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1303,
-  "generated": "2026-07-16T05:56:47Z"
+  "page_count": 1308,
+  "generated": "2026-07-16T06:07:32Z"
 }
