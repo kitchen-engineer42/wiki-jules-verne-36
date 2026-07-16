@@ -361,14 +361,15 @@
 <!-- ✔ [place] Etna — 已建 etna（rev HlMrrP，rof=real，页内引注 6；西西里火山，book Off on a Comet；跨源 JCE/OC/RC/RM/MI，**剔 TTLU-001-012 Inman 轮船 "Etna"**；链 [[Sicily]]，alias Mount Etna）R114 -->
 <!-- ✔ [place] Riga — 已建 riga（rev ismidD，rof=real，页内引注 8；MS Nadia Fedor 故乡/波罗的海港城，book Michael Strogoff）R114 -->
 <!-- ⚠ [place] Lena/Baltic 等带 River/Sea 后缀候选 — 建前须核 lena-river/baltic-sea 是否已建（防又一 blindspot）-->
-- [place] Lyons — SCN28 R111；10 distinctPN（real；跨源法国城；alias Lyon）
-- [place] Havre — SCN28 R111；9 distinctPN（real；法国港 Le Havre；跨源 TTLU/AWED/SC2）
-- [place] Lucknow — SCN28 R111；7 distinctPN（real；SC:7 印度城）
-- [place] Corsica — SCN28 R111；7 distinctPN（real；跨源地中海岛）
-- [place] Baltic — SCN28 R111；7 distinctPN（real；波罗的海；alias Baltic Sea）
-- [place] Archangel — SCN28 R111；7 distinctPN（real；FC:6 俄北冰洋港）
-- [place] Sardinia — SCN28 R111；6 distinctPN（real；OC:5 地中海岛）
-- [place] Teheran — SCN28 R111；5 distinctPN（real；ASC:3 波斯首都；跨源凑门）
+<!-- ✔ [place] Lyons — 已建 lyons（rev kx8cdo，rof=real，页内引注 8；FWB Lyons 丝绸做气球皮/DA-VB 1784 Laurencin 升空，book Five Weeks in a Balloon，alias Lyon；**剔 AWED-008-012 巴黎 Gare de Lyon 同名站**）R115 -->
+<!-- ✔ [place] Havre — 已建 havre（rev yzIz1C，rof=real，页内引注 8；SC2 Letourneur 父子故乡/英吉利海峡港，book The Survivors of the Chancellor，alias Le Havre）R115 -->
+<!-- ⚠ [place] Lucknow — R115 同名误判剔除：SC:7 全系澳洲「Lucknow Road（往 Melbourne 之路）」（SC:41-44 澳洲段），**非印度勒克瑙城**；作澳洲小地名过薄。挂起，PHQ 决定是否作澳洲路点建页或彻底弃 -->
+<!-- ✔ [place] Corsica — 已建 corsica（rev 3wVFAu，rof=real，页内引注 5；AM/MI/OC/TTLU 地中海花岗岩岛/Bonifacio 洞，book Off on a Comet）R115 -->
+<!-- ⚠ [place] Baltic — 建前须核 baltic-sea 是否已建（alias Baltic Sea，防 blindspot 第 6 例）-->
+<!-- ⚠ [place] Archangel — R115 同名剔除：FC:6 全系「New Archangel」= Sitka（Russian America/Alaska 首府），**非俄北冰洋 Archangel（Arkhangelsk）**；真俄 Archangel 仅 MS-029-020 1 PN < 门。挂起 -->
+<!-- ○ [place] New Archangel — 新候选（R115 析出）：FC:6（Sitka，Russian America 首府/Russian Fur Company 总部）；real；aliases Sitka/New-Archangel；book The Fur Country。建前核 sitka/new-archangel 未建 ✓ -->
+<!-- ✔ [place] Sardinia — 已建 sardinia（rev MfiqH2，rof=real，页内引注 5；OC 地中海岛/Bonifacio 海峡随彗星消失 + FWB 撒丁领事，book Off on a Comet；链 [[Corsica]]）R115 -->
+<!-- ✔ [place] Teheran — 已建 teheran（rev gGVTbo，rof=real，页内引注 5；ASC 波斯首都/大铁路支线 + RC Elburz 山下 + MS 宫廷，book The Adventures of a Special Correspondent，alias Tehran）R115 -->
 - [place] Lena — SCN28 R111；5 distinctPN（real；WC:3/MS:2 西伯利亚河；alias Lena River）
 - [place] Himalaya — SCN28 R111；5 distinctPN（real；跨源 ASC/AWED/DSCF 山脉；alias Himalayas）
 - [place] Elbe — SCN28 R111；5 distinctPN（real；JCE:4 德国河；alias Elbe River）

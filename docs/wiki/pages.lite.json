@@ -1613,6 +1613,12 @@
       "aliases": [],
       "path": "co/coronation-gulf.md"
     },
+    "corsica": {
+      "type": "place",
+      "label": "Corsica",
+      "aliases": [],
+      "path": "co/corsica.md"
+    },
     "creek-glycerine": {
       "type": "place",
       "label": "Creek Glycerine",
@@ -3655,6 +3661,14 @@
       "aliases": [],
       "path": "ha/hamburg.md"
     },
+    "havre": {
+      "type": "place",
+      "label": "Havre",
+      "aliases": [
+        "Le Havre"
+      ],
+      "path": "ha/havre.md"
+    },
     "holland": {
       "type": "place",
       "label": "Holland",
@@ -4294,6 +4308,14 @@
         "aluminium projectile"
       ],
       "path": "lu/lunar-projectile.md"
+    },
+    "lyons": {
+      "type": "place",
+      "label": "Lyons",
+      "aliases": [
+        "Lyon"
+      ],
+      "path": "ly/lyons.md"
     },
     "madagascar": {
       "type": "place",
@@ -6232,6 +6254,12 @@
       ],
       "path": "sa/sandwich-islands.md"
     },
+    "sardinia": {
+      "type": "place",
+      "label": "Sardinia",
+      "aliases": [],
+      "path": "sa/sardinia.md"
+    },
     "sargasso-sea": {
       "type": "place",
       "label": "Sargasso Sea",
@@ -7342,6 +7370,14 @@
         "Tampa"
       ],
       "path": "ta/tampa-town.md"
+    },
+    "teheran": {
+      "type": "place",
+      "label": "Teheran",
+      "aliases": [
+        "Tehran"
+      ],
+      "path": "te/teheran.md"
     },
     "the-adventures-of-captain-hatteras": {
       "type": "work",
@@ -8989,6 +9025,8 @@
     "Copenhagen": "copenhagen",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
+    "corsica": "corsica",
+    "Corsica": "corsica",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -9436,6 +9474,9 @@
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
     "Hamburg": "hamburg",
+    "havre": "havre",
+    "Havre": "havre",
+    "Le Havre": "havre",
     "holland": "holland",
     "Holland": "holland",
     "hong-kong": "hong-kong",
@@ -9614,6 +9655,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "lyons": "lyons",
+    "Lyons": "lyons",
+    "Lyon": "lyons",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
     "madrid": "madrid",
@@ -10061,6 +10105,8 @@
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
+    "sardinia": "sardinia",
+    "Sardinia": "sardinia",
     "sargasso-sea": "sargasso-sea",
     "Sargasso Sea": "sargasso-sea",
     "SC-ch01": "SC-ch01",
@@ -10294,6 +10340,9 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "teheran": "teheran",
+    "Teheran": "teheran",
+    "Tehran": "teheran",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
@@ -10581,6 +10630,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1368,
-  "generated": "2026-07-16T09:02:11Z"
+  "page_count": 1373,
+  "generated": "2026-07-16T09:12:56Z"
 }

@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 17
+      "total_refs": 18
     },
     "africa": {
       "type": "place",
@@ -5402,6 +5402,29 @@
       "quality_score": 64,
       "book": "The Fur Country",
       "total_refs": 0
+    },
+    "corsica": {
+      "type": "place",
+      "label": "Corsica",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "mediterranean",
+        "island"
+      ],
+      "path": "co/corsica.md",
+      "description": "The mountainous Mediterranean island of granite and sea-caves, a familiar measure of size and place in Verne's seas.",
+      "prose_len": 1111,
+      "prose_chars": 1030,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Off on a Comet",
+      "total_refs": 1
     },
     "creek-glycerine": {
       "type": "place",
@@ -9822,7 +9845,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 7
+      "total_refs": 8
     },
     "fix": {
       "type": "character",
@@ -12199,6 +12222,31 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 0
     },
+    "havre": {
+      "type": "place",
+      "label": "Havre",
+      "aliases": [
+        "Le Havre"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "france",
+        "port"
+      ],
+      "path": "ha/havre.md",
+      "description": "The great French port on the Channel, gateway of Atlantic passage and home of many a Verne mariner and passenger.",
+      "prose_len": 1297,
+      "prose_chars": 1216,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
+    },
     "holland": {
       "type": "place",
       "label": "Holland",
@@ -14352,6 +14400,31 @@
       "book": "Round the Moon",
       "total_refs": 2
     },
+    "lyons": {
+      "type": "place",
+      "label": "Lyons",
+      "aliases": [
+        "Lyon"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "france",
+        "city"
+      ],
+      "path": "ly/lyons.md",
+      "description": "The great French silk-city whose looms are a byword for quality and whose fabric forms the very skin of Verne's balloons.",
+      "prose_len": 1292,
+      "prose_chars": 1211,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "madagascar": {
       "type": "place",
       "label": "Madagascar",
@@ -14538,7 +14611,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Off on a Comet",
-      "total_refs": 5
+      "total_refs": 7
     },
     "melbourne": {
       "type": "place",
@@ -15917,7 +15990,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 24
+      "total_refs": 26
     },
     "michel-ardan": {
       "type": "character",
@@ -18703,7 +18776,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 10
+      "total_refs": 12
     },
     "omaha": {
       "type": "place",
@@ -20832,6 +20905,29 @@
       "quality_score": 63,
       "book": "An Antarctic Mystery",
       "total_refs": 1
+    },
+    "sardinia": {
+      "type": "place",
+      "label": "Sardinia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "mediterranean",
+        "island"
+      ],
+      "path": "sa/sardinia.md",
+      "description": "The great Mediterranean island south of Corsica, its barren rocks swept away in the comet's passage.",
+      "prose_len": 1103,
+      "prose_chars": 1022,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Off on a Comet",
+      "total_refs": 0
     },
     "sargasso-sea": {
       "type": "place",
@@ -24412,7 +24508,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 2
+      "total_refs": 3
     },
     "sweden": {
       "type": "place",
@@ -24552,6 +24648,31 @@
       "quality_score": 64,
       "book": "From the Earth to the Moon",
       "total_refs": 17
+    },
+    "teheran": {
+      "type": "place",
+      "label": "Teheran",
+      "aliases": [
+        "Tehran"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "persia",
+        "city"
+      ],
+      "path": "te/teheran.md",
+      "description": "The Persian capital beneath the snows of the Elburz, a byword for the fabrics of the East and a terminus of the great Asian railways.",
+      "prose_len": 1209,
+      "prose_chars": 1128,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "the-adventures-of-captain-hatteras": {
       "type": "work",
@@ -27010,7 +27131,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 25
+      "total_refs": 26
     },
     "twofold-bay": {
       "type": "place",
@@ -29093,6 +29214,8 @@
     "Copenhagen": "copenhagen",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
+    "corsica": "corsica",
+    "Corsica": "corsica",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -29540,6 +29663,9 @@
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
     "Hamburg": "hamburg",
+    "havre": "havre",
+    "Havre": "havre",
+    "Le Havre": "havre",
     "holland": "holland",
     "Holland": "holland",
     "hong-kong": "hong-kong",
@@ -29718,6 +29844,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "lyons": "lyons",
+    "Lyons": "lyons",
+    "Lyon": "lyons",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
     "madrid": "madrid",
@@ -30165,6 +30294,8 @@
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
+    "sardinia": "sardinia",
+    "Sardinia": "sardinia",
     "sargasso-sea": "sargasso-sea",
     "Sargasso Sea": "sargasso-sea",
     "SC-ch01": "SC-ch01",
@@ -30398,6 +30529,9 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "teheran": "teheran",
+    "Teheran": "teheran",
+    "Tehran": "teheran",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
@@ -30685,6 +30819,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1368,
-  "generated": "2026-07-16T09:02:11Z"
+  "page_count": 1373,
+  "generated": "2026-07-16T09:12:56Z"
 }
