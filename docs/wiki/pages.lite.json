@@ -640,6 +640,12 @@
       "aliases": [],
       "path": "ao/aouda.md"
     },
+    "arabia": {
+      "type": "place",
+      "label": "Arabia",
+      "aliases": [],
+      "path": "ar/arabia.md"
+    },
     "around-the-world-in-eighty-days": {
       "type": "work",
       "label": "Around the World in Eighty Days",
@@ -1470,6 +1476,12 @@
       "aliases": [],
       "path": "cl/claw-cape.md"
     },
+    "colombia": {
+      "type": "place",
+      "label": "Colombia",
+      "aliases": [],
+      "path": "co/colombia.md"
+    },
     "columbiad-launch": {
       "type": "event",
       "label": "The Columbiad Launch",
@@ -1929,6 +1941,12 @@
         "Vai-Hon"
       ],
       "path": "ea/easter-island.md"
+    },
+    "ecuador": {
+      "type": "place",
+      "label": "Ecuador",
+      "aliases": [],
+      "path": "ec/ecuador.md"
     },
     "ega": {
       "type": "place",
@@ -4103,6 +4121,12 @@
         "aluminium projectile"
       ],
       "path": "lu/lunar-projectile.md"
+    },
+    "madagascar": {
+      "type": "place",
+      "label": "Madagascar",
+      "aliases": [],
+      "path": "ma/madagascar.md"
     },
     "manaos": {
       "type": "place",
@@ -7165,6 +7189,12 @@
       ],
       "path": "th/the-waif-of-the-cynthia.md"
     },
+    "tibet": {
+      "type": "place",
+      "label": "Tibet",
+      "aliases": [],
+      "path": "ti/tibet.md"
+    },
     "ticket-no-9672": {
       "type": "work",
       "label": "Ticket No. 9672",
@@ -8389,6 +8419,8 @@
     "Southern Seas": "antarctic-sea",
     "aouda": "aouda",
     "Aouda": "aouda",
+    "arabia": "arabia",
+    "Arabia": "arabia",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
     "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
@@ -8603,6 +8635,8 @@
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "colombia": "colombia",
+    "Colombia": "colombia",
     "columbiad-launch": "columbiad-launch",
     "The Columbiad Launch": "columbiad-launch",
     "Launch of the Projectile": "columbiad-launch",
@@ -8706,6 +8740,8 @@
     "Easter Island": "easter-island",
     "Isle of Pâques": "easter-island",
     "Vai-Hon": "easter-island",
+    "ecuador": "ecuador",
+    "Ecuador": "ecuador",
     "ega": "ega",
     "Ega": "ega",
     "egypt": "egypt",
@@ -9209,6 +9245,8 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "madagascar": "madagascar",
+    "Madagascar": "madagascar",
     "manaos": "manaos",
     "Manaos": "manaos",
     "Manaus": "manaos",
@@ -9903,6 +9941,8 @@
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
     "Salvage from the Cynthia": "the-waif-of-the-cynthia",
     "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "tibet": "tibet",
+    "Tibet": "tibet",
     "ticket-no-9672": "ticket-no-9672",
     "Ticket No. 9672": "ticket-no-9672",
     "Un billet de loterie": "ticket-no-9672",
@@ -10125,6 +10165,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1318,
-  "generated": "2026-07-16T06:24:15Z"
+  "page_count": 1323,
+  "generated": "2026-07-16T06:29:51Z"
 }

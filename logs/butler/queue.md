@@ -277,12 +277,12 @@
 <!-- ✔ [place] Turkey — 已建 turkey（rev m6eCkX，TTLU real，页内引注 7；奥斯曼之邦/克里特叛乱 + 海怪调查，剔 "Turkey carpets" 形容词，book Twenty Thousand Leagues Under the Sea）R101 -->
 <!-- ✔ [place] Persia — 已建 persia（rev 3GhZgl，ASC real，页内引注 9；大铁路沿线/Shah 宝藏 Teheran 支线，剔 TTLU-001-021「the Persia」汽船，book The Adventures of a Special Correspondent）R101 -->
 <!-- ✔ [place] Portugal — 已建 portugal（rev JBPqhe，EHLA real，页内引注 9；殖民王国 Brazil/Angola/Azores，King John VI 钻石，book Eight Hundred Leagues on the Amazon）R101 -->
-- [place] Tibet — ASC:6/RC:3；9 distinctPN（real；主作 The Adventures of a Special Correspondent）
-- [place] Arabia — TTLU:5；8 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea，红海/Nautilus 掠岸）
-- [place] Madagascar — DSCF:4/TT:3；7 distinctPN（real；主作跨源 DSCF/TT）
-- [place] Colombia — EHLA:3/其余散；7 distinctPN（real；主作跨源，Amazon 上游国）
+<!-- ✔ [place] Tibet — 已建 tibet（rev jGacLj，ASC real，页内引注 7；大铁路高原前沿 Kuen Lun + Robur Albatross 俯瞰 Garlock，book The Adventures of a Special Correspondent）R102 -->
+<!-- ✔ [place] Arabia — 已建 arabia（rev OGp9cy，TTLU real，页内引注 6；红海/Nautilus 掠岸/Arabia Petraea + Necho 运河，剔 TTLU-001-021「the Arabia」汽船 + RM 月面比喻，book Twenty Thousand Leagues Under the Sea）R102 -->
+<!-- ✔ [place] Madagascar — 已建 madagascar（rev o4HQGe，DSCF real，页内引注 6；奴隶贸易终点/Mozambique 补给 + TT 南半球锚点，book 'Dick Sand: A Captain at Fifteen'（冒号加引号）R102 -->
+<!-- ✔ [place] Colombia — 已建 colombia（rev Phenqn，EHLA real，页内引注 6；Amazon 归属之争 + United States of Colombia 金币 + Guachara 洞穴，剔 FC-002-023「Colombia」河（加拿大哥伦比亚河非国名），book Eight Hundred Leagues on the Amazon）R102 -->
 - [place] Austria — 散源 7；7 distinctPN（real；主作跨源待择，中候选）
-- [place] Ecuador — EHLA:5；5 distinctPN（real；主作 Eight Hundred Leagues on the Amazon，Amazon 源国邻）
+<!-- ✔ [place] Ecuador — 已建 ecuador（rev fqQ1uk，EHLA real，页内引注 5（恰达门槛）；Iquitos 边界/Amazon 源之争/Ecuador 山脉，全 EHLA 单源，book Eight Hundred Leagues on the Amazon）R102 -->
 - [place] Kamtschatka — MS:2/RC:2/ASC:1；5 distinctPN（real；主作跨源，远东半岛）
 - [place] Prussia — TTLU:3/其余散；6 distinctPN（real；主作跨源，中候选）
 - [place] Belgium — 散源 6；6 distinctPN（real；主作跨源，中候选）
