@@ -88,6 +88,32 @@
 **处置**：本轮以人工 org-suffix 复扫缓解，2 候选入 queue P1 待 R16 建。记录待评审。
 另见 R15 日志 **GROW-JUDGMENT-R15**：为不遗弃此 2 候选，R15 判断性保持 discover_streak_low=2（机械值应为 3）。
 
+### HK-surface-discover-pattern-undercount — SCN28 表层复扫 pattern 漏计致 R57 false-exhaustion
+
+**现象（GROW 2.1-B R59，2026-07-15 发现）**：R57 place 表层复扫记「≥5 单源 0 枚，标准表层穷尽」，
+据此 R58 启动 place 关闭倒计时（discover_streak_low 0→1）。R59 改用宽式 toponym pattern 重扫，
+**同一语料**捞出 **19 枚 ≥5 单源新候选**——R57 结论为**系统性误判**。
+
+**根因（两类 pattern 盲区）**：
+1. **单复数/大小写变体漏匹配**：`Smith's Strait`（单数）被 `Smith's Straits`（复数）主式漏掉
+   → R57 记 [4]，实为 ACH:7；`bay of Talcahuano`（小写）+ 裸 `Talcahuano` 被 `Bay of Talcahuano` 主式漏掉
+   → R57 记 [3]，实为 SC:13。
+2. **构式盲区**：`GEO of X`（Strait of Gibraltar / Cape of Good Hope / Gulf of Mexico）与 `X Ocean`
+   （Indian / Pacific / Atlantic Ocean）整类未进 R57 扫描 pattern，零命中。
+   另 R51/R57 将 Detroit River(MW:6)/Chatham Islands(RC:7)/Washburn Bay(FC:7)/Antarctic Sea(AM:7)/
+   Coronation Gulf(FC:5)/Platte River(AWED:5)/Blueridge Mountains(MW:5)/Shannon Island(WAI:5)
+   误记为「agg 5–6 hold」，实为 ≥5 单源。
+
+**影响（实质缺陷，非纯记录）**：致 R57 false-exhaustion → R58 关闭倒计时误启动。若无 R59 复核，
+place 将在仍有 19 枚 grounded 达门候选未建时被 streak 机制误关闭，候选随类型移出 type_queue 永久遗弃。
+此为此前 PARK 的「discover 双盲区」债务的具体量化实例，**性质升格**。
+
+**修复方向**：SCN28 表层 discover pattern 需覆盖 (a) 单复数/大小写归一化；(b) `GEO of X`、`X Ocean/Sea`
+等前置/后置介词构式；(c) 与 alias_index 比对去重后再统计单源 distinctPN。属 discover 逻辑（GROW skill / 勘探脚本）。
+
+**处置**：R59 已人工宽式重扫缓解，19 候选入 queue 待 R60+ 建。依 PARK-until-build-done 原则**不自主 file RFC**；
+build 完成后与 discover 双盲区诸项一并提 RFC，用户批量评审。
+
 ### HK-wanted-pages-space-filter — `build_wanted_pages.py` 误滤含空格的 wikilink target
 
 **现象（GROW R12，2026-07-15 发现）**：`build_wanted_pages.py:73` 将任何含空格的 wikilink target
