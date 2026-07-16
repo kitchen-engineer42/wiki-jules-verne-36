@@ -288,6 +288,51 @@
 - [place] Belgium — 散源 6；6 distinctPN（real；主作跨源，中候选）
 <!-- R98 未入队（噪声/既建/demonym，同 R95）：Victoria 22（多实体）、No 12、America 9（泛指）、Klock 7（子串）、Niagara 5（既建裸名）、Floridian·Algerian 5/5（demonym）；covered 跳过：Greenland/Siberia/Zanzibar/Iceland/Patagonia。England 221/France 169 暂缓（城市页密集）。Poland 2/Venezuela 3/Chile 3(=Chili)/Tartary 4/Finland 4 <门。 -->
 
+<!-- ═══ R103 SCN28 表层复扫补种（queue=7<10 触发，since_discover=4；国名裸词层近枯，仅剩 5 薄候选）：承 R95/R98 方法论，改扫**洋/海/洲/大区/城市/河流**层裸词（前几轮未及的粒度）。curated `\bName\b` 全库核 distinctPN，surface 一大批强真地名，各 ≫5 且多有单源集中可定 book。**五度否证 place 饱和**（R91 区/洲→R95 国东亚→R98 国欧美亚→R103 洋/海/城/河）。new_candidates≈30≥3 → discover_streak_low 保持 0。queue 7→~37。建页前一律 gather.py 词边界核 + 多实体筛（尤其船名系：the Java/the China/the Scotia；城市异名：Petersburg=St. Petersburg、Pekin=Peking）。 -->
+<!-- 洋/海层 -->
+- [place] Pacific — TTLU:43/SC:28/GM:27/RC:27/FC:20；330 distinctPN（real；太平洋，多源；主作待择 TTLU 或按航段）
+- [place] Atlantic — TTLU:39/SC:24/EHLA:18/FF:16/AWED:14；226 distinctPN（real；大西洋，多源；主作待择）
+- [place] Mediterranean — OC:46/TTLU:40；112 distinctPN（real；地中海；主作 Off on a Comet 或 TTLU，彗星掠海/Nautilus）
+<!-- 洲/大区层 -->
+- [place] Turkestan — ASC:56/MS:8；67 distinctPN（real；中亚大区/大铁路核心段；主作 The Adventures of a Special Correspondent）
+- [place] Argentine — SC:30/TT:3；37 distinctPN（real；阿根廷/Pampas；主作 In Search of the Castaways；核 Argentine Republic 全称）
+- [place] Asia — 跨源；86 distinctPN（real；亚洲洲级；泛指风险，建页须聚焦确指句）
+- [place] Europe — 跨源；201 distinctPN（real；欧洲洲级；泛指风险，同上）
+- [place] America — 跨源；259 distinctPN（real；美洲/泛指双义，承 R95/R98「America 泛指」告警，建页须严筛洲级确指句 vs 泛指/United States 重叠）
+- [place] United States — 跨源 FEM/AWED/TT；131 distinctPN（real；美利坚合众国/Gun Club 母国；与 America 重叠，建页分工：国 vs 洲）
+- [place] Caucasus — 跨源；14 distinctPN（real；高加索山区）
+- [place] Guiana — 跨源 EHLA；9 distinctPN（real；圭亚那/四圭亚那）
+<!-- 城市层（城市页密集顾虑，建页前评 link 密度）-->
+- [place] New York — WC:27/AWED:25/ASC:12/TTLU:14/TT:10；137 distinctPN（real；纽约城；主作待择）
+- [place] Paris — ASC:19/TTLU:17/TT:11/AWED:10/RC:10；121 distinctPN（real；巴黎；主作待择）
+- [place] Moscow — MS:39；45 distinctPN（real；莫斯科；主作 Michael Strogoff）
+- [place] Hamburg — JCE 待核；27 distinctPN（real；汉堡/Lidenbrock 故乡；主作 A Journey to the Center of the Earth 待核）
+- [place] Rome — 跨源；21 distinctPN（real；罗马）
+- [place] Petersburg — MS 待核；20 distinctPN（real；圣彼得堡/异名 St. Petersburg；主作 Michael Strogoff 待核）
+- [place] Valparaiso — DSCF:12/WC:3；18 distinctPN（real；瓦尔帕莱索/Chili 港；主作 Dick Sand 待核，注 book 冒号）
+- [place] Geneva — 跨源 MZ；10 distinctPN（real；日内瓦/Master Zacharius 舞台）
+- [place] Amsterdam — 跨源；10 distinctPN（real；阿姆斯特丹）
+- [place] Marseilles — 跨源；8 distinctPN（real；马赛）
+- [place] Bordeaux — 跨源；8 distinctPN（real；波尔多）
+- [place] Berlin — 跨源；8 distinctPN（real；柏林）
+- [place] Athens — 跨源；8 distinctPN（real；雅典；核 Athens vs Athenian demonym）
+- [place] Vienna — 跨源；7 distinctPN（real；维也纳）
+- [place] Madrid — 跨源；7 distinctPN（real；马德里）
+- [place] Lisbon — 跨源；7 distinctPN（real；里斯本）
+- [place] Constantinople — 跨源；7 distinctPN（real；君士坦丁堡）
+- [place] Calais — 跨源；6 distinctPN（real；加莱）
+<!-- 河流/沙漠/山脉层 -->
+- [place] Nile — FWB:42；51 distinctPN（real；尼罗河；主作 Five Weeks in a Balloon）
+- [place] Congo — DSCF:19；27 distinctPN（real；刚果河；主作 Dick Sand 待核，注 book 冒号）
+- [place] Sahara — FWB:6/RC:4/OC:3；16 distinctPN（real；撒哈拉沙漠；主作跨源待择）
+- [place] Ural — 跨源；17 distinctPN（real；乌拉尔山/河；核 Ural Mountains vs Ural River 分义）
+- [place] Mississippi — 跨源；14 distinctPN（real；密西西比河）
+- [place] Thames — 跨源；7 distinctPN（real；泰晤士河）
+- [place] Rhine — 跨源；7 distinctPN（real；莱茵河）
+- [place] Plata — 跨源 SC；7 distinctPN（real；拉普拉塔河 Rio de la Plata）
+- [place] Ganges — 跨源；5 distinctPN（real；恒河；恰达门槛）
+<!-- R103 未入队/待核：Java（岛，但 the Java=Cunard 汽船，须词边界剔）、Pekin=Peking（异名，核既建）、Siberia/Greenland/Iceland/Zanzibar（既建）、England 221/France 169（续暂缓，城市页密集，国级页价值 R104 后专项评）。 -->
+
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
 <!-- ✔ [place] Patagonia — 已建 patagonia（rev *，SC real，页内引注 6；南美南端 pampas/37°线首搜索区，region South America）R88 -->
