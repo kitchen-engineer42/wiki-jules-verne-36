@@ -237,11 +237,11 @@
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
 <!-- ═══ R76 SCN28 表层复扫补种（queue=7<10 触发，since_discover=2）：裸词城市扫描（人名 stoplist 滤）揭示大批未建真城市，各已精核词边界 distinctPN ≥8，均非既有页/人物 ═══ -->
-- [place] Nijni-Novgorod — MS:47；下诺夫哥罗德（real 俄；MS 集市城/Michael 启程地）
-- [place] Bombay — AWED:50；孟买（real 印度；Fogg 印度登陆港）
-- [place] Melbourne — SC:51；墨尔本（real 澳；SC 澳洲段主港）
-- [place] Lima — PL:36；利马（real 秘鲁；PL 故事舞台）
-- [place] Gibraltar — OC:38；直布罗陀（real；OC 彗星掠地测距基点）
+<!-- ✔ [place] Nijni-Novgorod — 已建 nijni-novgorod（rev wbkzp8，MS real，页内引注 7；Volga 集市城/Michael 启程地，region Russia (Volga)）R77 -->
+<!-- ✔ [place] Bombay — 已建 bombay（rev X4VjfN，AWED real，页内引注 6；Fogg 印度登陆港/铁路西端，region India）R77 -->
+<!-- ✔ [place] Melbourne — 已建 melbourne（rev BlNOir，SC real，页内引注 6；Port Phillip 港/澳洲段主港，region Australia (Victoria)）R77 -->
+<!-- ✔ [place] Lima — 已建 lima（rev kEohlq，PL real，页内引注 6；Rimac 河谷/PL 舞台城，region Peru）R77 -->
+<!-- ✔ [place] Gibraltar — 已建 gibraltar（rev wU2WSt，OC real，页内引注 5；Gallia 彗星残片/地中海口岩，region Strait of Gibraltar）R77 -->
 - [place] Morganton — MW:36；摩根顿（real 北卡；MW Great Eyrie 山脚镇）
 - [place] Tijuco — EHLA:39；蒂茹科（real 巴西；EHLA Joam 早年城）
 - [place] Kilimanjaro — TT:34；乞力马扎罗（real 东非；TT 气球飞越）
@@ -261,6 +261,8 @@
 <!-- ✔ [place] Yokohama — 已建 yokohama（rev 8xOdsa，AWED real，页内引注 7；日本首要港/Fogg 太平洋登船地，region Japan）R75 -->
 <!-- R74 NEW1 消费 5：semipolatinsk / tobolsk / kolyvan / ichim / baraba；queue 17→12 -->
 <!-- R75 NEW1 消费 5：belem / tabatinga / yokohama / firth-of-clyde / goat-island；queue 12→7 -->
+<!-- R76 SCN28 补种 12（裸词城市扫描）：nijni-novgorod/bombay/melbourne/lima/gibraltar/morganton/tijuco/kilimanjaro/tsalal/calcutta/allahabad/benares；queue 7→19 -->
+<!-- R77 NEW1 消费 5：nijni-novgorod / bombay / melbourne / lima / gibraltar；queue 19→14 -->
 <!-- 注：R75 首度批量消费跨源候选（Firth of Clyde SC+UC=6、Goat Island MW+RC=6），页内引注跨作聚合达门。 -->
 <!-- 注：Long Island / Bay of Bengal 复核后降级 hold——ASC「Long Island」为里海 Uzun Ada 异地同名；Bay of Bengal RM:1 疑误配。真单源+确 distinctPN 均 4<门，暂不建。 -->
 <!-- 注：Semipolatinsk 今属哈萨克斯坦（Semey），label 从 Verne 原文旧称，region 记 Siberia (Irtish valley)。 -->

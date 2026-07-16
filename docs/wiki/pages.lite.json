@@ -1116,6 +1116,12 @@
       ],
       "path": "bl/blue-ridge-mountains.md"
     },
+    "bombay": {
+      "type": "place",
+      "label": "Bombay",
+      "aliases": [],
+      "path": "bo/bombay.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -3019,6 +3025,12 @@
       ],
       "path": "gi/giant-telescope.md"
     },
+    "gibraltar": {
+      "type": "place",
+      "label": "Gibraltar",
+      "aliases": [],
+      "path": "gi/gibraltar.md"
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -3800,6 +3812,12 @@
       ],
       "path": "li/liedenbrock-sea.md"
     },
+    "lima": {
+      "type": "place",
+      "label": "Lima",
+      "aliases": [],
+      "path": "li/lima.md"
+    },
     "lincoln-island-landing": {
       "type": "event",
       "label": "The Lincoln Island Landing",
@@ -3873,6 +3891,12 @@
         "The Clockmaker Who Lost His Soul"
       ],
       "path": "ma/master-zacharius.md"
+    },
+    "melbourne": {
+      "type": "place",
+      "label": "Melbourne",
+      "aliases": [],
+      "path": "me/melbourne.md"
     },
     "melville-bay": {
       "type": "place",
@@ -4693,6 +4717,12 @@
       "label": "Niagara River",
       "aliases": [],
       "path": "ni/niagara-river.md"
+    },
+    "nijni-novgorod": {
+      "type": "place",
+      "label": "Nijni-Novgorod",
+      "aliases": [],
+      "path": "ni/nijni-novgorod.md"
     },
     "nitroglycerine": {
       "type": "technology",
@@ -8020,6 +8050,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bombay": "bombay",
+    "Bombay": "bombay",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -8428,6 +8460,8 @@
     "Giant Telescope": "giant-telescope",
     "Rocky Mountains telescope": "giant-telescope",
     "Long's Peak reflector": "giant-telescope",
+    "gibraltar": "gibraltar",
+    "Gibraltar": "gibraltar",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -8636,6 +8670,8 @@
     "liedenbrock-sea": "liedenbrock-sea",
     "Liedenbrock Sea": "liedenbrock-sea",
     "central sea": "liedenbrock-sea",
+    "lima": "lima",
+    "Lima": "lima",
     "lincoln-island-landing": "lincoln-island-landing",
     "The Lincoln Island Landing": "lincoln-island-landing",
     "Balloon Castaways' Landing": "lincoln-island-landing",
@@ -8664,6 +8700,8 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "melbourne": "melbourne",
+    "Melbourne": "melbourne",
     "melville-bay": "melville-bay",
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
@@ -8821,6 +8859,8 @@
     "Falls of Niagara": "niagara-falls",
     "niagara-river": "niagara-river",
     "Niagara River": "niagara-river",
+    "nijni-novgorod": "nijni-novgorod",
+    "Nijni-Novgorod": "nijni-novgorod",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -9496,6 +9536,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1243,
-  "generated": "2026-07-16T03:59:04Z"
+  "page_count": 1248,
+  "generated": "2026-07-16T04:10:12Z"
 }

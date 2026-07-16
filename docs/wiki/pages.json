@@ -1982,7 +1982,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 14
+      "total_refs": 15
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3681,6 +3681,29 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Master of the World",
+      "total_refs": 0
+    },
+    "bombay": {
+      "type": "place",
+      "label": "Bombay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "india",
+        "around-the-world",
+        "exploration"
+      ],
+      "path": "bo/bombay.md",
+      "description": "Indian port where Phileas Fogg lands and boards the railway across the subcontinent.",
+      "prose_len": 1286,
+      "prose_chars": 1201,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
     "BR-ch01": {
@@ -8729,7 +8752,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "five-weeks-in-a-balloon": {
       "type": "work",
@@ -10003,6 +10026,29 @@
       "book": "From the Earth to the Moon",
       "total_refs": 0
     },
+    "gibraltar": {
+      "type": "place",
+      "label": "Gibraltar",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mediterranean",
+        "off-on-a-comet",
+        "exploration"
+      ],
+      "path": "gi/gibraltar.md",
+      "description": "Rock at the mouth of the Mediterranean, a surviving fragment carried off by the comet Gallia.",
+      "prose_len": 1362,
+      "prose_chars": 1276,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -10913,7 +10959,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Around the World in Eighty Days",
-      "total_refs": 16
+      "total_refs": 17
     },
     "hudsons-bay-company": {
       "type": "organization",
@@ -11028,7 +11074,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "icy-cape": {
       "type": "place",
@@ -11074,7 +11120,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 13
+      "total_refs": 14
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11191,7 +11237,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 4
+      "total_refs": 5
     },
     "island-of-ljakow": {
       "type": "place",
@@ -12583,6 +12629,29 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 8
     },
+    "lima": {
+      "type": "place",
+      "label": "Lima",
+      "aliases": [],
+      "tags": [
+        "place",
+        "peru",
+        "the-pearl-of-lima",
+        "exploration"
+      ],
+      "path": "li/lima.md",
+      "description": "Peruvian capital in the valley of the Rimac, the setting of The Pearl of Lima.",
+      "prose_len": 1220,
+      "prose_chars": 1136,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Pearl of Lima",
+      "total_refs": 0
+    },
     "lincoln-island-landing": {
       "type": "event",
       "label": "The Lincoln Island Landing",
@@ -12817,6 +12886,29 @@
       "pn_count": 13,
       "wikilink_count": 0,
       "blockquote_count": 0,
+      "total_refs": 0
+    },
+    "melbourne": {
+      "type": "place",
+      "label": "Melbourne",
+      "aliases": [],
+      "tags": [
+        "place",
+        "australia",
+        "in-search-of-the-castaways",
+        "exploration"
+      ],
+      "path": "me/melbourne.md",
+      "description": "Australian port on Port Phillip that anchors the Duncan party's crossing of the Victorian continent.",
+      "prose_len": 1306,
+      "prose_chars": 1221,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "melville-bay": {
@@ -14127,7 +14219,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 10
+      "total_refs": 11
     },
     "michel-ardan": {
       "type": "character",
@@ -15563,6 +15655,29 @@
       "book": "The Master of the World",
       "total_refs": 1
     },
+    "nijni-novgorod": {
+      "type": "place",
+      "label": "Nijni-Novgorod",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "ni/nijni-novgorod.md",
+      "description": "Russian fair-city on the Volga where Michael Strogoff begins his eastward journey across Siberia.",
+      "prose_len": 1465,
+      "prose_chars": 1378,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "nitroglycerine": {
       "type": "technology",
       "label": "Nitroglycerine",
@@ -16635,7 +16750,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 1
+      "total_refs": 2
     },
     "omsk": {
       "type": "place",
@@ -16657,7 +16772,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 6
     },
     "oxyhydric-gas": {
       "type": "technology",
@@ -22220,7 +22335,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 80,
-      "total_refs": 0
+      "total_refs": 1
     },
     "the-sword": {
       "type": "technology",
@@ -22816,7 +22931,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Michael Strogoff",
-      "total_refs": 4
+      "total_refs": 5
     },
     "top": {
       "type": "character",
@@ -25763,7 +25878,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "zanzibar": {
       "type": "place",
@@ -26023,6 +26138,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bombay": "bombay",
+    "Bombay": "bombay",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -26431,6 +26548,8 @@
     "Giant Telescope": "giant-telescope",
     "Rocky Mountains telescope": "giant-telescope",
     "Long's Peak reflector": "giant-telescope",
+    "gibraltar": "gibraltar",
+    "Gibraltar": "gibraltar",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -26639,6 +26758,8 @@
     "liedenbrock-sea": "liedenbrock-sea",
     "Liedenbrock Sea": "liedenbrock-sea",
     "central sea": "liedenbrock-sea",
+    "lima": "lima",
+    "Lima": "lima",
     "lincoln-island-landing": "lincoln-island-landing",
     "The Lincoln Island Landing": "lincoln-island-landing",
     "Balloon Castaways' Landing": "lincoln-island-landing",
@@ -26667,6 +26788,8 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "melbourne": "melbourne",
+    "Melbourne": "melbourne",
     "melville-bay": "melville-bay",
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
@@ -26824,6 +26947,8 @@
     "Falls of Niagara": "niagara-falls",
     "niagara-river": "niagara-river",
     "Niagara River": "niagara-river",
+    "nijni-novgorod": "nijni-novgorod",
+    "Nijni-Novgorod": "nijni-novgorod",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -27499,6 +27624,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1243,
-  "generated": "2026-07-16T03:59:04Z"
+  "page_count": 1248,
+  "generated": "2026-07-16T04:10:12Z"
 }
