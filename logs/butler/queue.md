@@ -211,6 +211,31 @@
 <!-- 排除项（非新建）：Arctic Ocean FC:42 → 并入 polar-sea 别名（同一北冰洋，Verne 互用 Polar Sea/Arctic Ocean）；Long's Peak FEM:8/RM:7 → rocky-mountains 子地点，overlap，hold；Black Rock MW → 待与 black-rock-creek 消歧，hold；Behring's Straits(WC)/The Torres Strait(TTLU) → 既有 behring-strait/torres-strait 变体。 -->
 <!-- ▶ 待办债务升格：discover 双盲区（此前 PARK）经 R59 证实致 R57 false-exhaustion + R58 关闭倒计时误启动 → 记 housekeeping，建 build 后 RFC（宽式 discover pattern）。 -->
 
+<!-- ═══ R63 SCN28-corpus 首次深层语料扫描（跨全 36 部聚合，since_corpus 30→0）═══ -->
+<!-- 方法：toponym 后缀构式（X Ocean/Sea/Bay/Island/River/Strait/Cape/Lake/Mountains/Peak/Point 等）+「GEO of X」+「Cape/Mount/Lake/Fort/Port X」全集正则抽取，按 sid 前三段跨作聚合 distinctPN。此扫专为捕获单作 <5、跨作 ≥5 的地点（cape-horn 先例），补 R59 表层扫盲区。new_candidates≈18 ≥3 → corpus_streak_low 保持 0，语料未穷尽。 -->
+<!-- ⚠ 跨源聚合 distinctPN 仅对「单一无歧义真实地点」有效（承债务：深扫聚合 distinctPN 跨源误报）；建页时仍须逐页核页内引注 ≥5。 -->
+- [place] Strait of Magellan — SC:7/TTLU:4/AM:4/RC:3/+；agg 23；麦哲伦海峡（real；alias Straits of Magellan；单作 SC:7 达门）
+- [place] Niagara Falls — MW:22/RC:5/+；agg 38；尼亚加拉瀑布（real；单作 MW:22 达门；MW 决战场景）
+- [place] Lake Tanganyika — DSCF:10/EHLA:1；agg 11；坦噶尼喀湖（real；单作 DSCF:10 达门）
+- [place] Peak of Teneriffe — SC:6/RM:1/TTLU:1；agg 8；特内里费峰（real；单作 SC:6 达门；alias Teneriffe/Tenerife）
+- [place] Norfolk Island — SI:5/MI:4/SC:2；agg 11；诺福克岛（real；单作 SI:5 达门）
+- [place] Lake Barnett — FC:7；agg 7；巴内特湖（FC 北极；real/fictional 待核）
+- [place] Lake Tinn — TN:6；agg 6；廷恩湖（real 挪威；A Drama in Livonia/TN）
+- [place] Fort Independence — SC:6；agg 6；独立堡（real/settlement；In Search of the Castaways）
+- [place] Mount Mendif — FWB:5；agg 5；门迪夫山（Five Weeks in a Balloon 非洲峰）
+- [place] Cape Saknussemm — JCE:5；agg 5；萨克努塞姆角（fictional；Journey to the Centre of the Earth）
+- [place] Ice Bank — TTLU:30/WC:2；agg 32；大冰群/冰障（TTLU 南极冰障；feature/place 待核）
+- [place] North Sea — 跨源 TTLU:2/RC:2/+7 作；agg 9（单作 max 2）；北海（real；跨源建页）
+- [place] Firth of Clyde — SC:4/UC:2；agg 6（单作 max 4）；克莱德湾（real 苏格兰；跨源建页）
+- [place] Long Island — TTLU:3/ASC:2/AWED:1；agg 6（单作 max 3）；长岛（real；跨源建页）
+- [place] Goat Island — MW:4/RC:2；agg 6（单作 max 4）；山羊岛（real 尼亚加拉；跨源建页）
+- [place] Bay of Bengal — TTLU:3/RM:1/AWED:1；agg 5（单作 max 3）；孟加拉湾（real；跨源建页）
+- [place] Cape Bon — OC:3/RC:1/TTLU:1；agg 5（单作 max 3）；邦角（real 突尼斯；跨源建页）
+- [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
+<!-- HOLD：Cape Mandible — MI:4（agg 5 含 SI:1 疑误配，虚构地点不应跨作）→ 单作 4<门，hold 待 place 内复核。 -->
+<!-- 别名合并（非新建，留待 build 后页编辑）：Behring's Straits/Behring's Strait → behring-strait alias；The Torres Strait → torres-strait alias；Lancaster Sound → lancaster-strait alias（同一实体 Verne 互用 Sound/Strait）；Antarctic Ocean → antarctic-sea alias；Arctic Ocean → polar-sea alias（承 R59）；Blueridge Mountains → 既 Blue Ridge Mountains alias；Isle of Paques → 既 easter-island alias。 -->
+<!-- 排除：Ned Land（人物非地点，"Land"后缀误配 256）；Lake City（Salt Lake City 截断арт;skip）；Bank of England（机构/建筑非地理）；Northern Ocean（Arctic 别名）；Black Rock/Long's Peak 照旧 hold。 -->
+
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
