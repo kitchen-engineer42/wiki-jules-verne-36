@@ -1404,6 +1404,12 @@
       ],
       "path": "ca/caspian-sea.md"
     },
+    "ceylon": {
+      "type": "place",
+      "label": "Ceylon",
+      "aliases": [],
+      "path": "ce/ceylon.md"
+    },
     "chatham-islands": {
       "type": "place",
       "label": "Chatham Islands",
@@ -1897,6 +1903,12 @@
       "label": "Ega",
       "aliases": [],
       "path": "eg/ega.md"
+    },
+    "egypt": {
+      "type": "place",
+      "label": "Egypt",
+      "aliases": [],
+      "path": "eg/egypt.md"
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -3548,6 +3560,12 @@
         "Amazon raft"
       ],
       "path": "ja/jangada.md"
+    },
+    "japan": {
+      "type": "place",
+      "label": "Japan",
+      "aliases": [],
+      "path": "ja/japan.md"
     },
     "JCE-ch01": {
       "type": "chapter",
@@ -5347,6 +5365,12 @@
       "aliases": [],
       "path": "pe/perm.md"
     },
+    "peru": {
+      "type": "place",
+      "label": "Peru",
+      "aliases": [],
+      "path": "pe/peru.md"
+    },
     "phileas-fogg": {
       "type": "character",
       "label": "Phileas Fogg",
@@ -6904,6 +6928,12 @@
       ],
       "path": "su/survivors-of-the-chancellor.md"
     },
+    "sweden": {
+      "type": "place",
+      "label": "Sweden",
+      "aliases": [],
+      "path": "sw/sweden.md"
+    },
     "tabatinga": {
       "type": "place",
       "label": "Tabatinga",
@@ -8458,6 +8488,8 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "ceylon": "ceylon",
+    "Ceylon": "ceylon",
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
@@ -8573,6 +8605,8 @@
     "Vai-Hon": "easter-island",
     "ega": "ega",
     "Ega": "ega",
+    "egypt": "egypt",
+    "Egypt": "egypt",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -8942,6 +8976,8 @@
     "Jangada": "jangada",
     "the giant raft": "jangada",
     "Amazon raft": "jangada",
+    "japan": "japan",
+    "Japan": "japan",
     "JCE-ch01": "JCE-ch01",
     "JCE-ch02": "JCE-ch02",
     "JCE-ch03": "JCE-ch03",
@@ -9351,6 +9387,8 @@
     "P. and O.": "peninsular-and-oriental-company",
     "perm": "perm",
     "Perm": "perm",
+    "peru": "peru",
+    "Peru": "peru",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -9682,6 +9720,8 @@
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
+    "sweden": "sweden",
+    "Sweden": "sweden",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -9962,6 +10002,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1298,
-  "generated": "2026-07-16T05:48:53Z"
+  "page_count": 1303,
+  "generated": "2026-07-16T05:56:47Z"
 }

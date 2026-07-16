@@ -253,11 +253,12 @@
 <!-- ✔ [place] Russia — 已建 russia（rev sRNgL3，MS real，页内引注 9；Strogoff 信使穿越之帝国，book Michael Strogoff，region Russian Empire）R96 -->
 <!-- ✔ [place] Scotland — 已建 scotland（rev oai6WN，SC real，页内引注 10；Glenarvan 高地故乡/Duncan 启航地，book In Search of the Castaways，region British Isles）R96 -->
 <!-- ✔ [place] Brazil — 已建 brazil（rev AkAABr，EHLA real，页内引注 10；Amazon 所润之国/Garral 家园，book Eight Hundred Leagues on the Amazon，region South America (Brazil)）R96 -->
-- [place] Peru — EHLA:19/PL:13；跨源 49 distinctPN（real；主作 Eight Hundred Leagues on the Amazon 或 The Pearl of Lima）
-- [place] Sweden — WC:13（Cynthia 弃儿）/TN:7/TT:11；跨源 42 distinctPN（real；主作 The Waif of the Cynthia）
-- [place] Japan — AWED:11（八十天环游）/TTLU:9；跨源 36 distinctPN（real；主作 Around the World in Eighty Days）
-- [place] Egypt — DSCF:7/TTLU:6/OC:3；跨源 26 distinctPN（real；主作 待建页复核）
-- [place] Ceylon — TTLU:13（Nautilus 采珠场）；跨源 17 distinctPN（real；主作 Twenty Thousand Leagues Under the Seas）
+<!-- ✔ [place] Peru — 已建 peru（rev lT5Lmr，EHLA real，页内引注 12；Amazon 源国/Dacosta 避难地）R97 -->
+<!-- ✔ [place] Sweden — 已建 sweden（rev F7XBV5，WC real，页内引注 10；Nordenskiold 远征/Erik 故乡）R97 -->
+<!-- ✔ [place] Japan — 已建 japan（rev dA27v9，AWED real，页内引注 11；Fogg 太平洋段/横滨）R97 -->
+<!-- ✔ [place] Egypt — 已建 egypt（rev 1DSqdb，TTLU real 主作，页内引注 9；Nile/Sesostris 运河，跨源 FWB/DSCF 金字塔）R97 -->
+<!-- ✔ [place] Ceylon — 已建 ceylon（rev 2aLwiz，TTLU real，页内引注 11；Nautilus 采珠场/Mannar）R97 -->
+- （place 国级候选已排空；England 221/France 169 distinctPN 待评城市页密集问题；Denmark/Turkey/Persia/Arabia 中候选）
 <!-- R95 未入队（噪声/既建/demonym）：Victoria 22（多实体污染）、No 12（假匹配）、America 9（泛指）、Klock 7（klock-klock 子串）、Niagara 5（niagara-falls/niagara-river 既建裸名）、Floridian·Algerian 5/5（demonym）。另 England 221/France 169 distinctPN 极高但城市页密集（伦敦/巴黎等），国级页价值待评估，暂缓；Denmark 18/Persia 16/Turkey 17/Arabia 8 等中等候选留后续 discover 续挖。 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->

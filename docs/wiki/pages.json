@@ -1958,7 +1958,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 3
+      "total_refs": 4
     },
     "amazonas-province": {
       "type": "place",
@@ -2125,7 +2125,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 25
+      "total_refs": 26
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -4188,7 +4188,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "buffalo": {
       "type": "place",
@@ -4668,6 +4668,29 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 1
     },
+    "ceylon": {
+      "type": "place",
+      "label": "Ceylon",
+      "aliases": [],
+      "tags": [
+        "place",
+        "indian-ocean",
+        "twenty-thousand-leagues-under-the-sea",
+        "pearl-fishery"
+      ],
+      "path": "ce/ceylon.md",
+      "description": "The pearl-fishery island off the Indian peninsula where the Nautilus takes Aronnax to the oyster banks in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1489,
+      "prose_chars": 1403,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "chatham-islands": {
       "type": "place",
       "label": "Chatham Islands",
@@ -4713,7 +4736,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "christiania": {
       "type": "place",
@@ -6304,6 +6327,29 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 1
     },
+    "egypt": {
+      "type": "place",
+      "label": "Egypt",
+      "aliases": [],
+      "tags": [
+        "place",
+        "north-africa",
+        "twenty-thousand-leagues-under-the-sea",
+        "voyage"
+      ],
+      "path": "eg/egypt.md",
+      "description": "The land of the Nile and the Red Sea canal whose coast the Nautilus skirts on its passage from Arabia in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1421,
+      "prose_chars": 1336,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "EHLA-ch01": {
       "type": "chapter",
       "label": "Eight Hundred Leagues on the Amazon — CHAPTER I. A CAPTAIN OF THE WOODS",
@@ -7127,7 +7173,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 11
+      "total_refs": 12
     },
     "eighty-day-wager": {
       "type": "event",
@@ -11638,7 +11684,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "indian-ocean": {
       "type": "place",
@@ -11805,6 +11851,29 @@
       "quality_score": 71,
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 6
+    },
+    "japan": {
+      "type": "place",
+      "label": "Japan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "east-asia",
+        "around-the-world-in-eighty-days",
+        "voyage"
+      ],
+      "path": "ja/japan.md",
+      "description": "The Pacific empire beyond Hong Kong where Passepartout is stranded and rejoins Fogg, a stage of the circuit in Around the World in Eighty Days.",
+      "prose_len": 1654,
+      "prose_chars": 1566,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
     },
     "JCE-ch01": {
       "type": "chapter",
@@ -16545,7 +16614,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "obi": {
       "type": "place",
@@ -17806,6 +17875,29 @@
       "quality_score": 63,
       "book": "Michael Strogoff",
       "total_refs": 2
+    },
+    "peru": {
+      "type": "place",
+      "label": "Peru",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "eight-hundred-leagues-on-the-amazon",
+        "amazon"
+      ],
+      "path": "pe/peru.md",
+      "description": "The Andean republic from whose forests the Upper Amazon issues and where Joam Dacosta took refuge for years in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1849,
+      "prose_chars": 1760,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
     },
     "phileas-fogg": {
       "type": "character",
@@ -22742,7 +22834,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 2
+      "total_refs": 3
     },
     "spencer-island": {
       "type": "place",
@@ -22998,6 +23090,29 @@
       "quality": "standard",
       "quality_score": 41,
       "total_refs": 1
+    },
+    "sweden": {
+      "type": "place",
+      "label": "Sweden",
+      "aliases": [],
+      "tags": [
+        "place",
+        "scandinavia",
+        "the-waif-of-the-cynthia",
+        "voyage"
+      ],
+      "path": "sw/sweden.md",
+      "description": "The Scandinavian homeland tied to Erik Hersebom and to the Nordenskiold arctic expedition in The Waif of the Cynthia.",
+      "prose_len": 1748,
+      "prose_chars": 1660,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
     },
     "tabatinga": {
       "type": "place",
@@ -23443,7 +23558,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 9
+      "total_refs": 10
     },
     "ticket-no-9672": {
       "type": "work",
@@ -25455,7 +25570,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 17
+      "total_refs": 19
     },
     "twofold-bay": {
       "type": "place",
@@ -27395,6 +27510,8 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "ceylon": "ceylon",
+    "Ceylon": "ceylon",
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
@@ -27510,6 +27627,8 @@
     "Vai-Hon": "easter-island",
     "ega": "ega",
     "Ega": "ega",
+    "egypt": "egypt",
+    "Egypt": "egypt",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -27879,6 +27998,8 @@
     "Jangada": "jangada",
     "the giant raft": "jangada",
     "Amazon raft": "jangada",
+    "japan": "japan",
+    "Japan": "japan",
     "JCE-ch01": "JCE-ch01",
     "JCE-ch02": "JCE-ch02",
     "JCE-ch03": "JCE-ch03",
@@ -28288,6 +28409,8 @@
     "P. and O.": "peninsular-and-oriental-company",
     "perm": "perm",
     "Perm": "perm",
+    "peru": "peru",
+    "Peru": "peru",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -28619,6 +28742,8 @@
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
+    "sweden": "sweden",
+    "Sweden": "sweden",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -28899,6 +29024,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1298,
-  "generated": "2026-07-16T05:48:53Z"
+  "page_count": 1303,
+  "generated": "2026-07-16T05:56:47Z"
 }
