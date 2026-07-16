@@ -849,6 +849,12 @@
       "aliases": [],
       "path": "au/australia.md"
     },
+    "austria": {
+      "type": "place",
+      "label": "Austria",
+      "aliases": [],
+      "path": "au/austria.md"
+    },
     "AWED-ch01": {
       "type": "chapter",
       "label": "Around the World in Eighty Days — CHAPTER I",
@@ -1183,6 +1189,12 @@
       "aliases": [],
       "path": "be/bergen.md"
     },
+    "berlin": {
+      "type": "place",
+      "label": "Berlin",
+      "aliases": [],
+      "path": "be/berlin.md"
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -1293,6 +1305,12 @@
       "label": "Buffalo",
       "aliases": [],
       "path": "bu/buffalo.md"
+    },
+    "calais": {
+      "type": "place",
+      "label": "Calais",
+      "aliases": [],
+      "path": "ca/calais.md"
     },
     "calcutta": {
       "type": "place",
@@ -3486,6 +3504,15 @@
       "label": "Gueboroa Island",
       "aliases": [],
       "path": "gu/gueboroa-island.md"
+    },
+    "guiana": {
+      "type": "place",
+      "label": "Guiana",
+      "aliases": [
+        "French Guiana",
+        "Dutch Guiana"
+      ],
+      "path": "gu/guiana.md"
     },
     "gulf-of-mexico": {
       "type": "place",
@@ -8109,6 +8136,12 @@
       "aliases": [],
       "path": "vi/victoria-island.md"
     },
+    "vienna": {
+      "type": "place",
+      "label": "Vienna",
+      "aliases": [],
+      "path": "vi/vienna.md"
+    },
     "vigo-bay": {
       "type": "place",
       "label": "Vigo Bay",
@@ -8598,6 +8631,8 @@
     "Auckland": "auckland",
     "australia": "australia",
     "Australia": "australia",
+    "austria": "austria",
+    "Austria": "austria",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -8677,6 +8712,8 @@
     "Benares": "benares",
     "bergen": "bergen",
     "Bergen": "bergen",
+    "berlin": "berlin",
+    "Berlin": "berlin",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "black-sea": "black-sea",
@@ -8705,6 +8742,8 @@
     "Brazil": "brazil",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
+    "calais": "calais",
+    "Calais": "calais",
     "calcutta": "calcutta",
     "Calcutta": "calcutta",
     "california": "california",
@@ -9203,6 +9242,10 @@
     "Greenland": "greenland",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
+    "guiana": "guiana",
+    "Guiana": "guiana",
+    "French Guiana": "guiana",
+    "Dutch Guiana": "guiana",
     "gulf-of-mexico": "gulf-of-mexico",
     "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
@@ -10283,6 +10326,8 @@
     "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
+    "vienna": "vienna",
+    "Vienna": "vienna",
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
@@ -10348,6 +10393,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1343,
-  "generated": "2026-07-16T07:23:48Z"
+  "page_count": 1348,
+  "generated": "2026-07-16T07:41:31Z"
 }

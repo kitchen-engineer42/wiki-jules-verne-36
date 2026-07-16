@@ -281,7 +281,7 @@
 <!-- ✔ [place] Arabia — 已建 arabia（rev OGp9cy，TTLU real，页内引注 6；红海/Nautilus 掠岸/Arabia Petraea + Necho 运河，剔 TTLU-001-021「the Arabia」汽船 + RM 月面比喻，book Twenty Thousand Leagues Under the Sea）R102 -->
 <!-- ✔ [place] Madagascar — 已建 madagascar（rev o4HQGe，DSCF real，页内引注 6；奴隶贸易终点/Mozambique 补给 + TT 南半球锚点，book 'Dick Sand: A Captain at Fifteen'（冒号加引号）R102 -->
 <!-- ✔ [place] Colombia — 已建 colombia（rev Phenqn，EHLA real，页内引注 6；Amazon 归属之争 + United States of Colombia 金币 + Guachara 洞穴，剔 FC-002-023「Colombia」河（加拿大哥伦比亚河非国名），book Eight Hundred Leagues on the Amazon）R102 -->
-- [place] Austria — 散源 7；7 distinctPN（real；主作跨源待择，中候选）
+<!-- ✔ [place] Austria — 已建 austria（rev w3C27K，VVV rof=real，页内引注 6；MW/FEM/SC/TT/TTLU）R109 -->
 <!-- ✔ [place] Ecuador — 已建 ecuador（rev fqQ1uk，EHLA real，页内引注 5（恰达门槛）；Iquitos 边界/Amazon 源之争/Ecuador 山脉，全 EHLA 单源，book Eight Hundred Leagues on the Amazon）R102 -->
 - [place] Kamtschatka — MS:2/RC:2/ASC:1；5 distinctPN（real；主作跨源，远东半岛）
 - [place] Prussia — TTLU:3/其余散；6 distinctPN（real；主作跨源，中候选）
@@ -301,7 +301,7 @@
 - [place] America — 跨源；259 distinctPN（real；美洲/泛指双义，承 R95/R98「America 泛指」告警，建页须严筛洲级确指句 vs 泛指/United States 重叠）
 <!-- ✔ [place] United States — 已建 united-states（rev ItE41W，FEM real，页内引注 8；from ocean to ocean 铁路横贯/Gun Club 母国/十倍法国，aliases United States of America·USA，book From the Earth to the Moon，region North America；精确短语 "United States" 无 America 洲级重叠）R107 -->
 <!-- ✔ [place] Caucasus — 已建 caucasus（rev ochltK，MS real，页内引注 6；山脉屏障/Transcaucasia 门户/Strogoff 早年历练/山货山犬，book Michael Strogoff，region Transcaucasia；**多实体筛：MS "the Caucasus" 主体系汽船名，仅引 ASC+MS 山区确指句 6 枚，剔全部船名引**）R107 -->
-- [place] Guiana — 跨源 EHLA；9 distinctPN（real；圭亚那/四圭亚那）
+<!-- ✔ [place] Guiana — 已建 guiana（rev R9iWkG，rof=real，页内引注 6；TTLU/SC2/EHLA，aliases French/Dutch Guiana）R109 -->
 <!-- 城市层（城市页密集顾虑，建页前评 link 密度）-->
 <!-- ✔ [place] New York — 已建 new-york（rev 10zt4V，WC real，页内引注 8；美东大西洋门户/跨洋汽船枢纽/Cynthia 调查地/Broadway，alias New York City，book The Waif of the Cynthia，region United States (New York)）R108 -->
 <!-- ✔ [place] Paris — 已建 paris（rev 45yIVv，AWED real，页内引注 8；Fogg 环球首站/Passepartout 故里/Boulevard des Italiens，book Around the World in Eighty Days，region France）R108 -->
@@ -314,13 +314,13 @@
 - [place] Amsterdam — 跨源；10 distinctPN（real；阿姆斯特丹）
 <!-- ✔ [place] Marseilles — 已建 marseilles（rev kBFWPC，JCE real，页内引注 6；地中海归航登陆港/Volturno 汽船/Provençal 金枪鱼渔场/Peysonnel，alias Marseille，book A Journey to the Center of the Earth，region France；剔 TTLU-031-036 伪匹配）R107 -->
 <!-- ✔ [place] Bordeaux — 已建 bordeaux（rev wzqaua，AWED real，页内引注 8；Gironde 河港/Fogg Henrietta 目标港/D'Arbelet 气球升空地，book Around the World in Eighty Days，region France；剔 OC "wines of Bordeaux" 产品指）R107 -->
-- [place] Berlin — 跨源；8 distinctPN（real；柏林）
+<!-- ✔ [place] Berlin — 已建 berlin（rev Wwh0cQ，rof=real，页内引注 6；RC/TTLU/TT/FEM/ASC）R109 -->
 <!-- ⏸ [place] Athens — HOLD（R108 核：8 distinctPN 但 6+ 为「Athens of X」称号/明喻系——"Athens of India"=Benares、"Northern/Modern Athens"=Edinburgh、"Athens of the North"=Stockholm/Krasnoiarsk；真雅典城确指仅 ASC-017-036(37°线)/UC-014-069(Parthenon at Athens)/TTLU-033-062(古雅典) ≈2-3<门。多实体筛：Athens 称号系。待专项凑真城句后再评。）R108 -->
-- [place] Vienna — 跨源；7 distinctPN（real；维也纳）
+<!-- ✔ [place] Vienna — 已建 vienna（rev MQUOTc，rof=real，页内引注 6；RC/FWB/ASC/DA/FEM/SC）R109 -->
 <!-- ✔ [place] Madrid — 已建 madrid（rev 5h0a8u，WC real，页内引注 6；WC 电报中继地/OC 彗星撕走旧址/Philip V 维哥宝藏令，book The Waif of the Cynthia，region Spain）R108 -->
 <!-- ✔ [place] Lisbon — 已建 lisbon（rev Cr2UaH，DSCF real，页内引注 5；DSCF 殖民政府/大西洋港/Volador 飞僧，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Portugal）R108 -->
 <!-- ✔ [place] Constantinople — 已建 constantinople（rev x8wIdh，FEM real，页内引注 5；1453 攻城巨炮史/Ottoman Bank/Flying Saracen，book From the Earth to the Moon，region Ottoman Empire (Turkey)；剔 MS "City of Constantinople" 客栈招牌名）R108 -->
-- [place] Calais — 跨源；6 distinctPN（real；加莱）
+<!-- ✔ [place] Calais — 已建 calais（rev NmPOMu，rof=real，页内引注 8；AWED/ASC/SC/DA/RC/VB）R109 -->
 <!-- 河流/沙漠/山脉层 -->
 <!-- ✔ [place] Nile — 已建 nile（rev U2jWgx，FWB real，页内引注 6；源之谜=气球航行地理母题/great lakes 源，book Five Weeks in a Balloon，region Africa）R104 -->
 <!-- ✔ [place] Congo — 已建 congo（rev QL9qP6，DSCF real，页内引注 5；西非大河口/castaways 登陆/Loualaba 下游=Zaire，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Africa）R104 -->

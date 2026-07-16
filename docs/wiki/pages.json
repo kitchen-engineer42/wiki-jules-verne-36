@@ -1958,7 +1958,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 4
+      "total_refs": 5
     },
     "amazonas-province": {
       "type": "place",
@@ -2808,6 +2808,28 @@
       "quality_score": 64,
       "book": "In Search of the Castaways",
       "total_refs": 2
+    },
+    "austria": {
+      "type": "place",
+      "label": "Austria",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "empire"
+      ],
+      "path": "au/austria.md",
+      "description": "The Central European empire, a great power in the diplomacy and history that shape Verne's world.",
+      "prose_len": 1043,
+      "prose_chars": 962,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
     },
     "AWED-ch01": {
       "type": "chapter",
@@ -3922,6 +3944,28 @@
       "book": "Ticket No. 9672",
       "total_refs": 1
     },
+    "berlin": {
+      "type": "place",
+      "label": "Berlin",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "capital"
+      ],
+      "path": "be/berlin.md",
+      "description": "The German capital, a seat of learning and diplomacy repeatedly invoked in Verne's global affairs.",
+      "prose_len": 1044,
+      "prose_chars": 963,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -4302,6 +4346,28 @@
       "quality_score": 66,
       "book": "The Master of the World",
       "total_refs": 1
+    },
+    "calais": {
+      "type": "place",
+      "label": "Calais",
+      "aliases": [],
+      "tags": [
+        "place",
+        "france",
+        "port"
+      ],
+      "path": "ca/calais.md",
+      "description": "The French Channel port facing Dover, a crossing point for Verne's globe-trotters and pioneering aeronauts.",
+      "prose_len": 1061,
+      "prose_chars": 980,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
     },
     "calcutta": {
       "type": "place",
@@ -10787,7 +10853,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "A Journey to the Center of the Earth",
-      "total_refs": 2
+      "total_refs": 3
     },
     "giant-squid-attack": {
       "type": "event",
@@ -11638,6 +11704,31 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "guiana": {
+      "type": "place",
+      "label": "Guiana",
+      "aliases": [
+        "French Guiana",
+        "Dutch Guiana"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "coast"
+      ],
+      "path": "gu/guiana.md",
+      "description": "The northern coast of South America, split into French and Dutch Guiana, a longed-for shore for Verne's castaways.",
+      "prose_len": 1150,
+      "prose_chars": 1069,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
+    },
     "gulf-of-mexico": {
       "type": "place",
       "label": "Gulf of Mexico",
@@ -11727,7 +11818,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 20
+      "total_refs": 21
     },
     "gun-cotton": {
       "type": "technology",
@@ -13898,7 +13989,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Around the World in Eighty Days",
-      "total_refs": 4
+      "total_refs": 5
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -18419,7 +18510,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 2
     },
     "passepartout": {
       "type": "character",
@@ -20245,7 +20336,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 6
     },
     "sahara": {
       "type": "place",
@@ -23874,7 +23965,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 1
+      "total_refs": 2
     },
     "sweden": {
       "type": "place",
@@ -27057,6 +27148,28 @@
       "book": "The Fur Country",
       "total_refs": 9
     },
+    "vienna": {
+      "type": "place",
+      "label": "Vienna",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "capital"
+      ],
+      "path": "vi/vienna.md",
+      "description": "The Austrian capital, a seat of science and a waypoint on the Continental journeys of Verne's travellers.",
+      "prose_len": 980,
+      "prose_chars": 899,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 59,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "vigo-bay": {
       "type": "place",
       "label": "Vigo Bay",
@@ -28288,6 +28401,8 @@
     "Auckland": "auckland",
     "australia": "australia",
     "Australia": "australia",
+    "austria": "austria",
+    "Austria": "austria",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -28367,6 +28482,8 @@
     "Benares": "benares",
     "bergen": "bergen",
     "Bergen": "bergen",
+    "berlin": "berlin",
+    "Berlin": "berlin",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "black-sea": "black-sea",
@@ -28395,6 +28512,8 @@
     "Brazil": "brazil",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
+    "calais": "calais",
+    "Calais": "calais",
     "calcutta": "calcutta",
     "Calcutta": "calcutta",
     "california": "california",
@@ -28893,6 +29012,10 @@
     "Greenland": "greenland",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
+    "guiana": "guiana",
+    "Guiana": "guiana",
+    "French Guiana": "guiana",
+    "Dutch Guiana": "guiana",
     "gulf-of-mexico": "gulf-of-mexico",
     "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
@@ -29973,6 +30096,8 @@
     "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
+    "vienna": "vienna",
+    "Vienna": "vienna",
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
@@ -30038,6 +30163,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1343,
-  "generated": "2026-07-16T07:23:48Z"
+  "page_count": 1348,
+  "generated": "2026-07-16T07:41:31Z"
 }
