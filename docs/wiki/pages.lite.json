@@ -3200,6 +3200,12 @@
       "aliases": [],
       "path": "ga/gallian-sea.md"
     },
+    "geneva": {
+      "type": "place",
+      "label": "Geneva",
+      "aliases": [],
+      "path": "ge/geneva.md"
+    },
     "germany": {
       "type": "place",
       "label": "Germany",
@@ -3509,6 +3515,12 @@
       "label": "Ham Rock",
       "aliases": [],
       "path": "ha/ham-rock.md"
+    },
+    "hamburg": {
+      "type": "place",
+      "label": "Hamburg",
+      "aliases": [],
+      "path": "ha/hamburg.md"
     },
     "holland": {
       "type": "place",
@@ -4167,6 +4179,12 @@
         "The Clockmaker Who Lost His Soul"
       ],
       "path": "ma/master-zacharius.md"
+    },
+    "mediterranean": {
+      "type": "place",
+      "label": "Mediterranean",
+      "aliases": [],
+      "path": "me/mediterranean.md"
     },
     "melbourne": {
       "type": "place",
@@ -5978,6 +5996,14 @@
       "label": "Russia",
       "aliases": [],
       "path": "ru/russia.md"
+    },
+    "sahara": {
+      "type": "place",
+      "label": "Sahara",
+      "aliases": [
+        "Sahara Desert"
+      ],
+      "path": "sa/sahara.md"
     },
     "san-francisco": {
       "type": "place",
@@ -7973,6 +7999,12 @@
       ],
       "path": "ur/ural-mountains.md"
     },
+    "valparaiso": {
+      "type": "place",
+      "label": "Valparaiso",
+      "aliases": [],
+      "path": "va/valparaiso.md"
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -9020,6 +9052,8 @@
     "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
+    "geneva": "geneva",
+    "Geneva": "geneva",
     "germany": "germany",
     "Germany": "germany",
     "giant-squid-attack": "giant-squid-attack",
@@ -9109,6 +9143,8 @@
     "Halbrane Land": "halbrane-land",
     "ham-rock": "ham-rock",
     "Ham Rock": "ham-rock",
+    "hamburg": "hamburg",
+    "Hamburg": "hamburg",
     "holland": "holland",
     "Holland": "holland",
     "hong-kong": "hong-kong",
@@ -9295,6 +9331,8 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "mediterranean": "mediterranean",
+    "Mediterranean": "mediterranean",
     "melbourne": "melbourne",
     "Melbourne": "melbourne",
     "melville-bay": "melville-bay",
@@ -9696,6 +9734,9 @@
     "Ruhmkorff coil": "ruhmkorff-apparatus",
     "russia": "russia",
     "Russia": "russia",
+    "sahara": "sahara",
+    "Sahara": "sahara",
+    "Sahara Desert": "sahara",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -10132,6 +10173,8 @@
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
+    "valparaiso": "valparaiso",
+    "Valparaiso": "valparaiso",
     "VB": "VB",
     "vesfjorddal": "vesfjorddal",
     "Vesfjorddal": "vesfjorddal",
@@ -10208,6 +10251,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1328,
-  "generated": "2026-07-16T06:47:43Z"
+  "page_count": 1333,
+  "generated": "2026-07-16T06:56:41Z"
 }
