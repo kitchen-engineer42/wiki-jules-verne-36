@@ -11,13 +11,13 @@ book: The Fur Country
 real_or_fictional: real
 region: Canada (Hudson's Bay)
 description: 'The great inland sea of northern Canada, gateway for the fur-trade expeditions of the north — distinct from the trading company of the same name.'
-quality: featured
 ---
+
 # Hudson's Bay
 
 ## Overview
 
-Hudson's Bay is the vast inland sea of northern Canada, the great water around which the fur-trade forts and expeditions of the *Voyages* are strung — not to be confused with the [[Hudson's Bay Company]] that bears its name. Fort Reliance, staging point of Jaspar Hobson's journey, "is situated on the north-east extremity, and is about three hundred miles from the Chesterfield inlet" of the bay in *The Fur Country*. (FC-004-002)
+Hudson's Bay is the vast inland sea of northern Canada around which the fur-trade forts and expeditions of the *Voyages* are strung — not to be confused with the [[Hudson's Bay Company]] that bears its name. Fort Reliance "is situated on the north-east extremity, and is about three hundred miles from the Chesterfield inlet" of the bay in *The Fur Country*. (FC-004-002)
 
 ## In the Narrative
 
@@ -28,6 +28,8 @@ The bay marks one arm of the great choice of routes into the ice: "Labrador or H
 ## Geography & Features
 
 The bay opens on the Arctic through a network of straits and inlets, its shores dotted with trading posts and its interior connected to Great Slave Lake and the Coppermine country by the Company's canoe routes. From its northeastern reaches the land expeditions strike north toward the polar coast. (FC-004-002)
+
+Its western shore anchors the fur-trade forts from which the exploring agents set out: "On November 6, 1769, this agent left Fort Prince of Wales, on the river Churchill, near the western shores of Hudson's Bay." (FC-010-019)
 
 ## Connections
 

@@ -10551,14 +10551,12 @@
       ],
       "path": "hu/hudsons-bay.md",
       "description": "The great inland sea of northern Canada, gateway for the fur-trade expeditions of the north — distinct from the trading company of the same name.",
-      "prose_len": 1676,
-      "prose_chars": 1574,
+      "prose_len": 1843,
+      "prose_chars": 1739,
       "h2_count": 4,
-      "pn_count": 5,
+      "pn_count": 6,
       "wikilink_count": 5,
       "blockquote_count": 0,
-      "quality": "featured",
-      "quality_score": 66,
       "book": "The Fur Country",
       "total_refs": 0
     },
@@ -26245,5 +26243,5 @@
     "YEAR": "YEAR"
   },
   "page_count": 1194,
-  "generated": "2026-07-16T02:31:42Z"
+  "generated": "2026-07-16T02:39:19Z"
 }
