@@ -1349,7 +1349,7 @@
       "quality": "featured",
       "quality_score": 83,
       "book": "Robur the Conqueror",
-      "total_refs": 34
+      "total_refs": 35
     },
     "aleutian-islands": {
       "type": "place",
@@ -2346,7 +2346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 34
+      "total_refs": 35
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3903,7 +3903,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "From the Earth to the Moon",
-      "total_refs": 35
+      "total_refs": 36
     },
     "baraba": {
       "type": "place",
@@ -4361,6 +4361,28 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
+    "boston": {
+      "type": "place",
+      "label": "Boston",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "adventure"
+      ],
+      "path": "bo/boston.md",
+      "description": "The New England seaport off which a mysterious craft is sighted in Master of the World, and home city of several of Verne's American characters.",
+      "prose_len": 2622,
+      "prose_chars": 2535,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Master of the World",
       "total_refs": 0
     },
     "BR-ch01": {
@@ -12158,7 +12180,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 10
+      "total_refs": 11
     },
     "great-salt-lake": {
       "type": "place",
@@ -12229,7 +12251,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 2
     },
     "gueboroa-island": {
       "type": "place",
@@ -12320,7 +12342,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 2
     },
     "gun-club-moon-proposal": {
       "type": "event",
@@ -12367,7 +12389,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 23
+      "total_refs": 24
     },
     "gun-cotton": {
       "type": "technology",
@@ -12646,7 +12668,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 50
+      "total_refs": 52
     },
     "ichim": {
       "type": "place",
@@ -16371,6 +16393,28 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "montreal": {
+      "type": "place",
+      "label": "Montreal",
+      "aliases": [],
+      "tags": [
+        "place",
+        "canada",
+        "exploration"
+      ],
+      "path": "mo/montreal.md",
+      "description": "The great Canadian city on the St. Lawrence, overflown by the Albatross and once the headquarters of the fur trade in Verne's tales.",
+      "prose_len": 2224,
+      "prose_chars": 2137,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Robur the Conqueror",
+      "total_refs": 0
+    },
     "morganton": {
       "type": "place",
       "label": "Morganton",
@@ -17833,7 +17877,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Waif of the Cynthia",
-      "total_refs": 1
+      "total_refs": 3
     },
     "new-zealand": {
       "type": "place",
@@ -17857,6 +17901,28 @@
       "quality_score": 63,
       "book": "In Search of the Castaways",
       "total_refs": 1
+    },
+    "newfoundland": {
+      "type": "place",
+      "label": "Newfoundland",
+      "aliases": [],
+      "tags": [
+        "place",
+        "atlantic",
+        "exploration"
+      ],
+      "path": "ne/newfoundland.md",
+      "description": "The great North Atlantic island whose foggy fishing banks and telegraph landfall recur across Verne's Atlantic voyages.",
+      "prose_len": 2449,
+      "prose_chars": 2362,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
     },
     "niagara-falls": {
       "type": "place",
@@ -18164,7 +18230,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Ticket No. 9672",
-      "total_refs": 4
+      "total_refs": 6
     },
     "obi": {
       "type": "place",
@@ -19494,6 +19560,28 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 5
     },
+    "philadelphia": {
+      "type": "place",
+      "label": "Philadelphia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "aeronautics"
+      ],
+      "path": "ph/philadelphia.md",
+      "description": "The Pennsylvania city home to the Weldon Institute of aeronautics, whose members clash with Robur in Robur the Conqueror.",
+      "prose_len": 2429,
+      "prose_chars": 2342,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Robur the Conqueror",
+      "total_refs": 0
+    },
     "phileas-fogg": {
       "type": "character",
       "label": "Phileas Fogg",
@@ -19515,7 +19603,7 @@
       "quality_score": 68,
       "affiliation": "Reform Club",
       "book": "Around the World in Eighty Days",
-      "total_refs": 54
+      "total_refs": 55
     },
     "PL-ch01": {
       "type": "chapter",
@@ -21029,7 +21117,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 12
+      "total_refs": 15
     },
     "robur": {
       "type": "character",
@@ -21269,7 +21357,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 4
+      "total_refs": 5
     },
     "sandwich-islands": {
       "type": "place",
@@ -24690,6 +24778,28 @@
       "book": "Godfrey Morgan",
       "total_refs": 2
     },
+    "spitzbergen": {
+      "type": "place",
+      "label": "Spitzbergen",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "exploration"
+      ],
+      "path": "sp/spitzbergen.md",
+      "description": "The high-Arctic archipelago north of Norway, a gateway and waymark for Verne's polar expeditions.",
+      "prose_len": 2504,
+      "prose_chars": 2417,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "st-louis-fur-company": {
       "type": "organization",
       "label": "St Louis Fur Company",
@@ -25130,7 +25240,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 13
+      "total_refs": 15
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -25255,7 +25365,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 11
+      "total_refs": 12
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -25461,7 +25571,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 16
+      "total_refs": 17
     },
     "tibet": {
       "type": "place",
@@ -25511,7 +25621,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 6
+      "total_refs": 7
     },
     "tiflis": {
       "type": "place",
@@ -29116,7 +29226,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Robur the Conqueror",
-      "total_refs": 4
+      "total_refs": 5
     },
     "wellington-channel": {
       "type": "place",
@@ -29581,6 +29691,8 @@
     "Bombay": "bombay",
     "bordeaux": "bordeaux",
     "Bordeaux": "bordeaux",
+    "boston": "boston",
+    "Boston": "boston",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -30449,6 +30561,8 @@
     "Mississippi River": "mississippi",
     "mongolia": "mongolia",
     "Mongolia": "mongolia",
+    "montreal": "montreal",
+    "Montreal": "montreal",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -30542,6 +30656,8 @@
     "New York City": "new-york",
     "new-zealand": "new-zealand",
     "New Zealand": "new-zealand",
+    "newfoundland": "newfoundland",
+    "Newfoundland": "newfoundland",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
     "Falls of Niagara": "niagara-falls",
@@ -30671,6 +30787,8 @@
     "Persia": "persia",
     "peru": "peru",
     "Peru": "peru",
+    "philadelphia": "philadelphia",
+    "Philadelphia": "philadelphia",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -31001,6 +31119,8 @@
     "spencer-island": "spencer-island",
     "Spencer Island": "spencer-island",
     "Phina Island": "spencer-island",
+    "spitzbergen": "spitzbergen",
+    "Spitzbergen": "spitzbergen",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -31336,6 +31456,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1392,
-  "generated": "2026-07-16T10:11:32Z"
+  "page_count": 1397,
+  "generated": "2026-07-16T10:25:28Z"
 }

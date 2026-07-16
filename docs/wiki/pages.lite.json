@@ -1313,6 +1313,12 @@
       "aliases": [],
       "path": "bo/bordeaux.md"
     },
+    "boston": {
+      "type": "place",
+      "label": "Boston",
+      "aliases": [],
+      "path": "bo/boston.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -4904,6 +4910,12 @@
       "aliases": [],
       "path": "mo/mongolia.md"
     },
+    "montreal": {
+      "type": "place",
+      "label": "Montreal",
+      "aliases": [],
+      "path": "mo/montreal.md"
+    },
     "morganton": {
       "type": "place",
       "label": "Morganton",
@@ -5345,6 +5357,12 @@
       "label": "New Zealand",
       "aliases": [],
       "path": "ne/new-zealand.md"
+    },
+    "newfoundland": {
+      "type": "place",
+      "label": "Newfoundland",
+      "aliases": [],
+      "path": "ne/newfoundland.md"
     },
     "niagara-falls": {
       "type": "place",
@@ -5837,6 +5855,12 @@
       "label": "Peru",
       "aliases": [],
       "path": "pe/peru.md"
+    },
+    "philadelphia": {
+      "type": "place",
+      "label": "Philadelphia",
+      "aliases": [],
+      "path": "ph/philadelphia.md"
     },
     "phileas-fogg": {
       "type": "character",
@@ -7391,6 +7415,12 @@
         "Phina Island"
       ],
       "path": "sp/spencer-island.md"
+    },
+    "spitzbergen": {
+      "type": "place",
+      "label": "Spitzbergen",
+      "aliases": [],
+      "path": "sp/spitzbergen.md"
     },
     "st-louis-fur-company": {
       "type": "organization",
@@ -9079,6 +9109,8 @@
     "Bombay": "bombay",
     "bordeaux": "bordeaux",
     "Bordeaux": "bordeaux",
+    "boston": "boston",
+    "Boston": "boston",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -9947,6 +9979,8 @@
     "Mississippi River": "mississippi",
     "mongolia": "mongolia",
     "Mongolia": "mongolia",
+    "montreal": "montreal",
+    "Montreal": "montreal",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -10040,6 +10074,8 @@
     "New York City": "new-york",
     "new-zealand": "new-zealand",
     "New Zealand": "new-zealand",
+    "newfoundland": "newfoundland",
+    "Newfoundland": "newfoundland",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
     "Falls of Niagara": "niagara-falls",
@@ -10169,6 +10205,8 @@
     "Persia": "persia",
     "peru": "peru",
     "Peru": "peru",
+    "philadelphia": "philadelphia",
+    "Philadelphia": "philadelphia",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -10499,6 +10537,8 @@
     "spencer-island": "spencer-island",
     "Spencer Island": "spencer-island",
     "Phina Island": "spencer-island",
+    "spitzbergen": "spitzbergen",
+    "Spitzbergen": "spitzbergen",
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
@@ -10834,6 +10874,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1392,
-  "generated": "2026-07-16T10:11:32Z"
+  "page_count": 1397,
+  "generated": "2026-07-16T10:25:28Z"
 }

@@ -18,12 +18,13 @@
 <!-- 新候选 20 项入队（distinctPN≥5 且无既有 slug）。建前一律 same-name/entity 消歧核。 -->
 - [place] Washington — SCN28 R122；78 distinctPN（real；美国首都 D.C.；⚠建前重消歧：D.C. 城 vs George Washington 人 vs Washington 州/领地 vs Fort Washington vs Washington Territory；FEM/RM/AWED 跨源）
 - [place] Charleston — SCN28 R122；49 distinctPN（⚠建前消歧：Charleston SC 城 vs FEM「Charlestown」MA vs 泛指；确指后定 real/region）
-- [place] Philadelphia — SCN28 R122；39 distinctPN（real；美国宾州城；建前核铁路并列泛指）
-- [place] Newfoundland — SCN28 R122；34 distinctPN（real；北大西洋岛/加拿大；建前核 Grand Banks 关系）
+<!-- ✔ [place] Philadelphia — 已建 philadelphia（rev 6mAvp2，real，region United States，页内引注 9：RC-002-016/002-023/003-010/004-065、MW-004-004/016-005/016-012、FEM-003-008/010-009；链 weldon-institute/baltimore/new-york/gun-club/robur-the-conqueror）R123 -->
+<!-- ✔ [place] Newfoundland — 已建 newfoundland（rev 8l4Y6q，real，region North Atlantic，页内引注 9：TN-001-026/004-001/004-063/005-052/011-077/011-078、ACH-005-042/006-004/012-051、AWED-033-011、RM-020-005；剔 Newfoundland dog 犬种 4 PN；book Ticket No. 9672）R123 -->
+<!-- ✔ [place] Boston — 已建 boston（rev Sa5Cb0，real，region United States，页内引注 9：MW-005-028/005-030/005-033/006-008、BR-007-022/010-006、ASC-016-035、FEM-003-009；剔 DA-001-155 英国气球家 Boston 英格兰疑）R123 -->
+<!-- ✔ [place] Spitzbergen — 已建 spitzbergen（rev 7Pt8PL，real，region Arctic，页内引注 9：ACH-004-016/012-054/013-017/023-018、RC-001-028/001-029、WAI-008-004、TTLU-035-003/046-009、JCE-043-026）R123 -->
+<!-- ✔ [place] Montreal — 已建 montreal（rev adB03N，real，region Canada，页内引注 8：RC-008-035/008-039/008-040、WC-015-031/015-035、FC-002-020/012-013；剔 ACH-017-015 北极 Montreal Island 同名岛 + TTLU Montreal Ocean Co 船司 namesake）R123 -->
+<!-- ⚠ Richmond 移至次批（消歧未决：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指），保留下方 -->
 - [place] Richmond — SCN28 R122；30 distinctPN（⚠建前消歧：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指）
-- [place] Boston — SCN28 R122；24 distinctPN（real；美国麻州城；建前核泛指）
-- [place] Spitzbergen — SCN28 R122；15 distinctPN（real；北极群岛；ACH/TTLU；建前核与 north-pole 关系）
-- [place] Montreal — SCN28 R122；13 distinctPN（real；加拿大魁北克城）
 - [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
 - [place] Adelaide — SCN28 R122；10 distinctPN（real；澳洲南澳城；SC 环航篇；⚠核 Adelaide Land 南极岸/人名同名）
 - [place] New Orleans — SCN28 R122；9 distinctPN（real；美国路州城）
