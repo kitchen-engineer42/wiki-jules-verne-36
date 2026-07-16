@@ -340,11 +340,20 @@
 <!-- ✔ [place] Andes — 已建 andes（rev bYixX0，rof=real，页内引注 6；SC/DSCF/EHLA/FEM/PL，aliases the Andes/Cordilleras）R112 -->
 <!-- ✔ [place] Tiflis — 已建 tiflis（rev 98A4T6，rof=real，页内引注 6；ASC Transcaucasia 起点城/三线枢纽，alias Tbilisi）R112 -->
 <!-- ✔ [place] Alps — 已建 alps（rev vR6O4P，rof=real，页内引注 6；AMB/ACH/FEM/OC/RC，book Ascent of Mont Blanc，alias the Alps；剔 SC-041 澳洲 Australian Alps 异地同名）R112 -->
-- [place] Merv — SCN28 R111；26 distinctPN（real；ASC:26 中亚城/大铁路）
-- [place] Malta — SCN28 R111；22 distinctPN（real；OC:9/WC:6 地中海岛）
-- [place] Baku — SCN28 R111；22 distinctPN（real；ASC:22 里海油城/大铁路端点）
-- [place] Sicily — SCN28 R111；19 distinctPN（real；OC:8 地中海岛/Etna）
-- [place] Copenhagen — SCN28 R111；17 distinctPN（real；JCE:8 地心游记起点城）
+<!-- ✔ [place] Merv — 已建 merv（rev Lvoh8P，rof=real，页内引注 10；ASC 中亚绿洲城/大铁路四建之城，book The Adventures of a Special Correspondent）R113 -->
+<!-- ✔ [place] Malta — 已建 malta（rev yBJvU5，rof=real，页内引注 8；OC 骑士岛/彗星吞没，book Off on a Comet）R113 -->
+<!-- ✔ [place] Baku — 已建 baku（rev 1Tq2SA，rof=real，页内引注 8；ASC 里海油城/大铁路端点，book The Adventures of a Special Correspondent）R113 -->
+<!-- ✔ [place] Sicily — 已建 sicily（rev Hx2fjS，rof=real，页内引注 7；OC Etna 岛/西西里海峡陆桥，book Off on a Comet）R113 -->
+<!-- ✔ [place] Copenhagen — 已建 copenhagen（rev QS12uP，rof=real，页内引注 8；JCE 丹麦都/地心游记起点，book A Journey to the Center of the Earth）R113 -->
+<!-- ⚠ [place] Frankfort — R113 建前复核提示：DA/VB 气球史城，须与美国 Frankfort（肯塔基州府）区分，取真德国 Frankfurt 义句 -->
+<!-- ⚠ [place] Algiers — R113 复核提示：OC:12 多为彗星前北非旧貌，取真阿尔及尔义句 -->
+<!-- ⚠ [place] Baltic/Aral/Adriatic — 海洋候选取确指句，避比喻/罗列式提及 -->
+<!-- ⚠ [place] Havre(Le Havre)/Lyons(Lyon)/Amou-Daria(Oxus) — 建时加规范 alias -->
+<!-- ⚠ [place] ASC 大铁路沿线 Teheran/Astrakhan/Amou-Daria book=ASC 高度集中 -->
+<!-- ⚠ [place] Etna 未建 — 若建 Etna(technology? place?) 与 sicily 交叉链 -->
+<!-- ⚠ [place] Samarkand 未建 — Merv/Bokhara 已链其名，建后可回补交叉链 -->
+<!-- ⚠ [place] 洲级 Europe/Asia/America HOLD 至严筛专轮；America 须与 united-states 消歧 -->
+<!-- ⚠ [place] discover blindspot 累积：pacific/atlantic/ural/caspian probe 裸词漏既建页，建议 PHQ 补裸名 alias + probe 去后缀（HK-discover-existing-type-blindspot, PARK）-->
 - [place] Brest — SCN28 R111；17 distinctPN（real；WC:14 法国大西洋军港）
 - [place] Baikal — SCN28 R111；17 distinctPN（real；MS:17 西伯利亚大湖）
 - [place] Frankfort — SCN28 R111；16 distinctPN（real；DA:6/VB:7 气球史城；核与美国同名地）

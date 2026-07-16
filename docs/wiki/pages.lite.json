@@ -1125,6 +1125,12 @@
       ],
       "path": "ba/baffin-bay.md"
     },
+    "baku": {
+      "type": "place",
+      "label": "Baku",
+      "aliases": [],
+      "path": "ba/baku.md"
+    },
     "baltimore": {
       "type": "place",
       "label": "Baltimore",
@@ -1582,6 +1588,12 @@
       "label": "Constantinople",
       "aliases": [],
       "path": "co/constantinople.md"
+    },
+    "copenhagen": {
+      "type": "place",
+      "label": "Copenhagen",
+      "aliases": [],
+      "path": "co/copenhagen.md"
     },
     "coronation-gulf": {
       "type": "place",
@@ -4266,6 +4278,12 @@
       "aliases": [],
       "path": "ma/madrid.md"
     },
+    "malta": {
+      "type": "place",
+      "label": "Malta",
+      "aliases": [],
+      "path": "ma/malta.md"
+    },
     "manaos": {
       "type": "place",
       "label": "Manaos",
@@ -4323,6 +4341,12 @@
       "label": "Melville Island",
       "aliases": [],
       "path": "me/melville-island.md"
+    },
+    "merv": {
+      "type": "place",
+      "label": "Merv",
+      "aliases": [],
+      "path": "me/merv.md"
     },
     "mexico": {
       "type": "place",
@@ -7111,6 +7135,12 @@
       "aliases": [],
       "path": "si/siberia.md"
     },
+    "sicily": {
+      "type": "place",
+      "label": "Sicily",
+      "aliases": [],
+      "path": "si/sicily.md"
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -8763,6 +8793,8 @@
     "Baffin Bay": "baffin-bay",
     "Baffin's Bay": "baffin-bay",
     "Baffin's Sea": "baffin-bay",
+    "baku": "baku",
+    "Baku": "baku",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
     "baraba": "baraba",
@@ -8914,6 +8946,8 @@
     "Conseil": "conseil",
     "constantinople": "constantinople",
     "Constantinople": "constantinople",
+    "copenhagen": "copenhagen",
+    "Copenhagen": "copenhagen",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
     "creek-glycerine": "creek-glycerine",
@@ -9538,6 +9572,8 @@
     "Madagascar": "madagascar",
     "madrid": "madrid",
     "Madrid": "madrid",
+    "malta": "malta",
+    "Malta": "malta",
     "manaos": "manaos",
     "Manaos": "manaos",
     "Manaus": "manaos",
@@ -9560,6 +9596,8 @@
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
     "Melville Island": "melville-island",
+    "merv": "merv",
+    "Merv": "merv",
     "mexico": "mexico",
     "Mexico": "mexico",
     "MI-ch01": "MI-ch01",
@@ -10146,6 +10184,8 @@
     "SI-ch20": "SI-ch20",
     "siberia": "siberia",
     "Siberia": "siberia",
+    "sicily": "sicily",
+    "Sicily": "sicily",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -10493,6 +10533,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1358,
-  "generated": "2026-07-16T08:27:21Z"
+  "page_count": 1363,
+  "generated": "2026-07-16T08:44:09Z"
 }
