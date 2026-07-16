@@ -1277,6 +1277,29 @@
       "quality_score": 42,
       "total_refs": 7
     },
+    "africa": {
+      "type": "place",
+      "label": "Africa",
+      "aliases": [],
+      "tags": [
+        "place",
+        "continent",
+        "five-weeks-in-a-balloon",
+        "exploration"
+      ],
+      "path": "af/africa.md",
+      "description": "The great continent of unknown interior that Dr. Ferguson sets out to traverse by balloon from east to west in Five Weeks in a Balloon.",
+      "prose_len": 2551,
+      "prose_chars": 2459,
+      "h2_count": 4,
+      "pn_count": 15,
+      "wikilink_count": 9,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "albatross": {
       "type": "technology",
       "label": "Albatross",
@@ -2034,7 +2057,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "antarctic-sea": {
       "type": "place",
@@ -9106,7 +9129,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 4
+      "total_refs": 5
     },
     "fix": {
       "type": "character",
@@ -12659,7 +12682,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 2
+      "total_refs": 3
     },
     "kilimanjaro": {
       "type": "place",
@@ -12682,7 +12705,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Topsy Turvy",
-      "total_refs": 0
+      "total_refs": 1
     },
     "klock-klock": {
       "type": "place",
@@ -12952,7 +12975,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lake-taupo": {
       "type": "place",
@@ -12998,7 +13021,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "lake-tinn": {
       "type": "place",
@@ -22604,7 +22627,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "spencer-island": {
       "type": "place",
@@ -25835,7 +25858,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 39
+      "total_refs": 40
     },
     "victoria-bay": {
       "type": "place",
@@ -26927,7 +26950,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 0
+      "total_refs": 1
     }
   },
   "alias_index": {
@@ -27005,6 +27028,8 @@
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
     "The Special Correspondent": "adventures-of-a-special-correspondent",
+    "africa": "africa",
+    "Africa": "africa",
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
@@ -28749,6 +28774,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1292,
-  "generated": "2026-07-16T05:28:43Z"
+  "page_count": 1293,
+  "generated": "2026-07-16T05:36:34Z"
 }

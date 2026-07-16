@@ -389,6 +389,12 @@
       ],
       "path": "ad/adventures-of-a-special-correspondent.md"
     },
+    "africa": {
+      "type": "place",
+      "label": "Africa",
+      "aliases": [],
+      "path": "af/africa.md"
+    },
     "albatross": {
       "type": "technology",
       "label": "Albatross",
@@ -8170,6 +8176,8 @@
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
     "The Special Correspondent": "adventures-of-a-special-correspondent",
+    "africa": "africa",
+    "Africa": "africa",
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
@@ -9914,6 +9922,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1292,
-  "generated": "2026-07-16T05:28:43Z"
+  "page_count": 1293,
+  "generated": "2026-07-16T05:36:34Z"
 }

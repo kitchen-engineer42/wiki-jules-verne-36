@@ -244,7 +244,7 @@
 <!-- ✔ [place] Norway — 已建 norway（rev SDqKqX，TN real，页内引注 11；Telemark/峡湾国度，book Ticket No. 9672，region Scandinavia）R92 -->
 <!-- ✔ [place] New Zealand — 已建 new-zealand（rev 6uycul，SC real，页内引注 8；毛利篇主舞台/37°线终点，book In Search of the Castaways，region Oceania）R92 -->
 <!-- ✔ [place] Angola — 已建 angola（rev 4f3ag2，DSCF real，页内引注 9；内陆奴隶贸易之地/Kazounde 所在，book 'Dick Sand: A Captain at Fifteen'，region West-Central Africa）R92 -->
-- [place] Africa — 跨源 245 distinctPN（DSCF:91/FWB:70/OC:15/TTLU:14 主）；非洲（real 洲级；FWB 气球横越之陆，book 待定 Five Weeks in a Balloon）⚠ 洲级泛，聚焦确指句
+<!-- ✔ [place] Africa — 已建 africa（rev Rd3KKm，FWB real，页内引注 15；Ferguson 气球东→西横越之陆，book Five Weeks in a Balloon，region African continent）R93 -->
 <!-- ✔ [place] South America — 已建 south-america（rev 8sjChG，DSCF real，页内引注 10；DSCF/EHLA/SC 之舞台，book 'Dick Sand: A Captain at Fifteen'，region South America）R92 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
