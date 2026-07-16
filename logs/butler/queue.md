@@ -249,11 +249,11 @@
 <!-- ✔ [place] Calcutta — 已建 calcutta（rev *，AWED real，页内引注 6；孟加拉首府/Fogg 印度铁路东终点，region India (Bengal)）R78 -->
 <!-- ═══ R79 SCN28 表层复扫补种（queue=9<10 触发，since_discover=2）：续裸词城市扫描 + 河/湖名精核，各已排除既有页（lake-baikal 已存→剔 Baikal）与人名（Coimbra=DSCF 奴商，剔），词边界 distinctPN ≥8 ═══ -->
 - [place] Amazon — EHLA:179；亚马逊河（real 南美；EHLA 主河/jangada 航道）
-- [place] Krasnoiarsk — MS:38；克拉斯诺亚尔斯克（real 东西伯利亚；MS Blount 电报终点）
-- [place] Perm — MS:28；彼尔姆（real 乌拉尔；MS 电报站/Volga-Ural 渡口）
-- [place] Obi — MS:24；鄂毕河（real 西伯利亚；MS 渡河点）
-- [place] Ekaterenburg — MS:22；叶卡捷琳堡（real 乌拉尔；MS 电报站）
-- [place] Yenisei — MS:21；叶尼塞河（real 东西伯利亚；MS Krasnoiarsk 渡河）
+<!-- ✔ [place] Krasnoiarsk — 已建 krasnoiarsk（rev *，MS real，页内引注 5；Yenisei 高岸城/Michael 转运希望地，region Eastern Siberia）R80 -->
+<!-- ✔ [place] Perm — 已建 perm（rev *，MS real，页内引注 5；Ural 西坡电报站/Volga 河港，region Russia (Ural)）R80 -->
+<!-- ✔ [place] Obi — 已建 obi（rev *，MS real，页内引注 6；西伯利亚大河/Kolyvan 渡河点，alias Ob，region Western Siberia）R80 -->
+<!-- ✔ [place] Ekaterenburg — 已建 ekaterenburg（rev *，MS real，页内引注 5；Ural 东坡首站/电报线起点，region Russia (Ural)）R80 -->
+<!-- ✔ [place] Yenisei — 已建 yenisei（rev *，MS real，页内引注 5；Krasnoiarsk 下大河/一英里宽双臂，region Eastern Siberia）R80 -->
 - [place] Volga — MS:21；伏尔加河（real 俄；MS Nijni-Novgorod 河汊）
 - [place] Omaha — AWED:20；奥马哈（real 美内布拉斯加；AWED 太平洋铁路东端）
 - [place] Liverpool — AWED:25；利物浦（real 英；Fogg 归国登陆港）
@@ -280,6 +280,8 @@
 <!-- R76 SCN28 补种 12（裸词城市扫描）：nijni-novgorod/bombay/melbourne/lima/gibraltar/morganton/tijuco/kilimanjaro/tsalal/calcutta/allahabad/benares；queue 7→19 -->
 <!-- R77 NEW1 消费 5：nijni-novgorod / bombay / melbourne / lima / gibraltar；queue 19→14 -->
 <!-- R78 NEW1 消费 5：morganton / tijuco / kilimanjaro / tsalal / calcutta；queue 14→9 -->
+<!-- R79 SCN28 补种 15（裸词城市 + 河/湖名）：amazon/krasnoiarsk/perm/obi/ekaterenburg/yenisei/volga/omaha/liverpool/suez/auckland/shanghai/singapore/ega/zabediero；queue 9→24 -->
+<!-- R80 NEW1 消费 5：krasnoiarsk / perm / obi / ekaterenburg / yenisei（MS Ural-西伯利亚河/城群）；queue 24→19 -->
 <!-- 注：Kilimanjaro book=Topsy Turvy（TT，Gun Club 移轴续篇）；Tsalal 为 AM 虚构南极岛（real_or_fictional=fictional）。 -->
 <!-- 注：R75 首度批量消费跨源候选（Firth of Clyde SC+UC=6、Goat Island MW+RC=6），页内引注跨作聚合达门。 -->
 <!-- 注：Long Island / Bay of Bengal 复核后降级 hold——ASC「Long Island」为里海 Uzun Ada 异地同名；Bay of Bengal RM:1 疑误配。真单源+确 distinctPN 均 4<门，暂不建。 -->

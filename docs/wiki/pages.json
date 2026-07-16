@@ -3426,7 +3426,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "barbicane": {
       "type": "character",
@@ -6796,6 +6796,29 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
+      "total_refs": 1
+    },
+    "ekaterenburg": {
+      "type": "place",
+      "label": "Ekaterenburg",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "ek/ekaterenburg.md",
+      "description": "Russian town on the Siberian side of the Urals, the first great relay east of the mountains in Michael Strogoff.",
+      "prose_len": 1379,
+      "prose_chars": 1295,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
       "total_refs": 1
     },
     "facing-the-flag": {
@@ -11260,7 +11283,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 8
     },
     "island-of-ljakow": {
       "type": "place",
@@ -12328,6 +12351,29 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 2
+    },
+    "krasnoiarsk": {
+      "type": "place",
+      "label": "Krasnoiarsk",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "kr/krasnoiarsk.md",
+      "description": "Eastern Siberian town on the Yenisei where Michael Strogoff hopes to find fresh transport for Irkutsk.",
+      "prose_len": 1247,
+      "prose_chars": 1163,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
       "book": "Michael Strogoff",
       "total_refs": 1
     },
@@ -14265,7 +14311,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 11
+      "total_refs": 16
     },
     "michel-ardan": {
       "type": "character",
@@ -15745,7 +15791,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nitroglycerine": {
       "type": "technology",
@@ -15894,6 +15940,31 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "obi": {
+      "type": "place",
+      "label": "Obi",
+      "aliases": [
+        "Ob"
+      ],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "ob/obi.md",
+      "description": "Great West Siberian river Michael Strogoff must cross near Kolyvan on his road to Irkutsk.",
+      "prose_len": 1351,
+      "prose_chars": 1267,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
       "total_refs": 0
     },
     "OC-ch01": {
@@ -16841,7 +16912,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 6
+      "total_refs": 8
     },
     "oxyhydric-gas": {
       "type": "technology",
@@ -17035,6 +17106,29 @@
       "quality_score": 84,
       "book": "Around the World in Eighty Days",
       "total_refs": 0
+    },
+    "perm": {
+      "type": "place",
+      "label": "Perm",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "pe/perm.md",
+      "description": "Russian Ural province and town, the last stage west of the mountains on Michael Strogoff's road into Siberia.",
+      "prose_len": 1330,
+      "prose_chars": 1245,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 1
     },
     "phileas-fogg": {
       "type": "character",
@@ -23023,7 +23117,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 8
     },
     "top": {
       "type": "character",
@@ -25975,6 +26069,29 @@
       "book": "In the Year 2889",
       "total_refs": 1
     },
+    "yenisei": {
+      "type": "place",
+      "label": "Yenisei",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "ye/yenisei.md",
+      "description": "Broad Eastern Siberian river below Krasnoiarsk that forms a major barrier on the road to Irkutsk.",
+      "prose_len": 1287,
+      "prose_chars": 1203,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Michael Strogoff",
+      "total_refs": 1
+    },
     "yokohama": {
       "type": "place",
       "label": "Yokohama",
@@ -26473,6 +26590,8 @@
     "La Jangada": "eight-hundred-leagues-on-the-amazon",
     "eighty-day-wager": "eighty-day-wager",
     "The Eighty-Day Wager": "eighty-day-wager",
+    "ekaterenburg": "ekaterenburg",
+    "Ekaterenburg": "ekaterenburg",
     "facing-the-flag": "facing-the-flag",
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
@@ -26841,6 +26960,8 @@
     "Kilimanjaro": "kilimanjaro",
     "kolyvan": "kolyvan",
     "Kolyvan": "kolyvan",
+    "krasnoiarsk": "krasnoiarsk",
+    "Krasnoiarsk": "krasnoiarsk",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -27091,6 +27212,9 @@
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
+    "obi": "obi",
+    "Obi": "obi",
+    "Ob": "obi",
     "OC-ch01": "OC-ch01",
     "OC-ch02": "OC-ch02",
     "OC-ch03": "OC-ch03",
@@ -27166,6 +27290,8 @@
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
     "P. and O.": "peninsular-and-oriental-company",
+    "perm": "perm",
+    "Perm": "perm",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
     "PL-ch01": "PL-ch01",
@@ -27746,11 +27872,13 @@
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR",
+    "yenisei": "yenisei",
+    "Yenisei": "yenisei",
     "yokohama": "yokohama",
     "Yokohama": "yokohama",
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1253,
-  "generated": "2026-07-16T04:14:27Z"
+  "page_count": 1258,
+  "generated": "2026-07-16T04:22:18Z"
 }
