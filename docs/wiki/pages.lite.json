@@ -1079,6 +1079,15 @@
       "aliases": [],
       "path": "bl/black-rock-creek.md"
     },
+    "blue-ridge-mountains": {
+      "type": "place",
+      "label": "Blue Ridge Mountains",
+      "aliases": [
+        "Blueridge Mountains",
+        "Blueridge"
+      ],
+      "path": "bl/blue-ridge-mountains.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -3164,6 +3173,12 @@
       "aliases": [],
       "path": "gu/gueboroa-island.md"
     },
+    "gulf-of-mexico": {
+      "type": "place",
+      "label": "Gulf of Mexico",
+      "aliases": [],
+      "path": "gu/gulf-of-mexico.md"
+    },
     "gulf-stream": {
       "type": "place",
       "label": "Gulf Stream",
@@ -3256,6 +3271,12 @@
         "The Day of an American Journalist in 2889"
       ],
       "path": "in/in-the-year-2889.md"
+    },
+    "indian-ocean": {
+      "type": "place",
+      "label": "Indian Ocean",
+      "aliases": [],
+      "path": "in/indian-ocean.md"
     },
     "inquiry-committee": {
       "type": "organization",
@@ -4882,6 +4903,12 @@
       "aliases": [],
       "path": "ox/oxyhydric-gas.md"
     },
+    "pacific-ocean": {
+      "type": "place",
+      "label": "Pacific Ocean",
+      "aliases": [],
+      "path": "pa/pacific-ocean.md"
+    },
     "pacific-railroad": {
       "type": "place",
       "label": "Pacific Railroad",
@@ -6174,6 +6201,12 @@
       "label": "Serpentine Peninsula",
       "aliases": [],
       "path": "se/serpentine-peninsula.md"
+    },
+    "shannon-island": {
+      "type": "place",
+      "label": "Shannon Island",
+      "aliases": [],
+      "path": "sh/shannon-island.md"
     },
     "shark-gulf": {
       "type": "place",
@@ -7779,6 +7812,10 @@
     "Bellot Strait": "bellot-strait",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
+    "blue-ridge-mountains": "blue-ridge-mountains",
+    "Blue Ridge Mountains": "blue-ridge-mountains",
+    "Blueridge Mountains": "blue-ridge-mountains",
+    "Blueridge": "blue-ridge-mountains",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -8230,6 +8267,8 @@
     "Slave Lake": "great-slave-lake",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
+    "gulf-of-mexico": "gulf-of-mexico",
+    "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
     "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
@@ -8265,6 +8304,8 @@
     "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
     "In the Twenty-Ninth Century": "in-the-year-2889",
     "The Day of an American Journalist in 2889": "in-the-year-2889",
+    "indian-ocean": "indian-ocean",
+    "Indian Ocean": "indian-ocean",
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
@@ -8613,6 +8654,8 @@
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
+    "pacific-ocean": "pacific-ocean",
+    "Pacific Ocean": "pacific-ocean",
     "pacific-railroad": "pacific-railroad",
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
@@ -8875,6 +8918,8 @@
     "Mare Imbrium": "sea-of-rains",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shannon-island": "shannon-island",
+    "Shannon Island": "shannon-island",
     "shark-gulf": "shark-gulf",
     "Shark Gulf": "shark-gulf",
     "ships-compass": "ships-compass",
@@ -9190,6 +9235,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1208,
-  "generated": "2026-07-16T03:08:39Z"
+  "page_count": 1213,
+  "generated": "2026-07-16T03:13:02Z"
 }

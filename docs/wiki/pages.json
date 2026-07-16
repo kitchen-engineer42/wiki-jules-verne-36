@@ -3289,7 +3289,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 0
+      "total_refs": 1
     },
     "axel": {
       "type": "character",
@@ -3560,6 +3560,31 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 67,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
+    "blue-ridge-mountains": {
+      "type": "place",
+      "label": "Blue Ridge Mountains",
+      "aliases": [
+        "Blueridge Mountains",
+        "Blueridge"
+      ],
+      "tags": [
+        "place",
+        "mountains",
+        "united-states"
+      ],
+      "path": "bl/blue-ridge-mountains.md",
+      "description": "The Appalachian range whose peak the Great Eyrie touches off the mystery of The Master of the World.",
+      "prose_len": 1592,
+      "prose_chars": 1482,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
       "book": "The Master of the World",
       "total_refs": 0
     },
@@ -10477,6 +10502,28 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "gulf-of-mexico": {
+      "type": "place",
+      "label": "Gulf of Mexico",
+      "aliases": [],
+      "tags": [
+        "place",
+        "gulf",
+        "atlantic"
+      ],
+      "path": "gu/gulf-of-mexico.md",
+      "description": "The warm gulf where the Gulf Stream is born, described at length during the Nautilus voyage in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1513,
+      "prose_chars": 1410,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "gulf-stream": {
       "type": "place",
       "label": "Gulf Stream",
@@ -10750,7 +10797,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 9
+      "total_refs": 11
     },
     "in-the-year-2889": {
       "type": "work",
@@ -10777,6 +10824,28 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 94,
+      "total_refs": 0
+    },
+    "indian-ocean": {
+      "type": "place",
+      "label": "Indian Ocean",
+      "aliases": [],
+      "tags": [
+        "place",
+        "ocean",
+        "indian-ocean"
+      ],
+      "path": "in/indian-ocean.md",
+      "description": "The great ocean the Duncan crosses on the 37th parallel in In Search of the Castaways, and a candidate ground for the Britannia wreck.",
+      "prose_len": 1599,
+      "prose_chars": 1498,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "inquiry-committee": {
@@ -16157,6 +16226,28 @@
       "book": "Doctor Ox's Experiment",
       "total_refs": 1
     },
+    "pacific-ocean": {
+      "type": "place",
+      "label": "Pacific Ocean",
+      "aliases": [],
+      "tags": [
+        "place",
+        "ocean",
+        "pacific"
+      ],
+      "path": "pa/pacific-ocean.md",
+      "description": "The vast ocean whose islands close the search of In Search of the Castaways, where the castaways are finally sought and found.",
+      "prose_len": 1528,
+      "prose_chars": 1426,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "pacific-railroad": {
       "type": "place",
       "label": "Pacific Railroad",
@@ -20444,6 +20535,28 @@
       "book": "The Mysterious Island",
       "total_refs": 1
     },
+    "shannon-island": {
+      "type": "place",
+      "label": "Shannon Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "arctic"
+      ],
+      "path": "sh/shannon-island.md",
+      "description": "The Arctic island north of Gaël-Hamkes Bay toward which the search of A Winter Amid the Ice is directed.",
+      "prose_len": 1433,
+      "prose_chars": 1330,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "A Winter Amid the Ice",
+      "total_refs": 0
+    },
     "shark-gulf": {
       "type": "place",
       "label": "Shark Gulf",
@@ -21439,7 +21552,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 9
+      "total_refs": 10
     },
     "the-moon": {
       "type": "place",
@@ -21564,7 +21677,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 10
+      "total_refs": 11
     },
     "the-underground-city": {
       "type": "work",
@@ -23537,7 +23650,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 12
+      "total_refs": 13
     },
     "twofold-bay": {
       "type": "place",
@@ -25212,6 +25325,10 @@
     "Bellot Strait": "bellot-strait",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
+    "blue-ridge-mountains": "blue-ridge-mountains",
+    "Blue Ridge Mountains": "blue-ridge-mountains",
+    "Blueridge Mountains": "blue-ridge-mountains",
+    "Blueridge": "blue-ridge-mountains",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -25663,6 +25780,8 @@
     "Slave Lake": "great-slave-lake",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
+    "gulf-of-mexico": "gulf-of-mexico",
+    "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
     "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
@@ -25698,6 +25817,8 @@
     "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
     "In the Twenty-Ninth Century": "in-the-year-2889",
     "The Day of an American Journalist in 2889": "in-the-year-2889",
+    "indian-ocean": "indian-ocean",
+    "Indian Ocean": "indian-ocean",
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
@@ -26046,6 +26167,8 @@
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
+    "pacific-ocean": "pacific-ocean",
+    "Pacific Ocean": "pacific-ocean",
     "pacific-railroad": "pacific-railroad",
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
@@ -26308,6 +26431,8 @@
     "Mare Imbrium": "sea-of-rains",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shannon-island": "shannon-island",
+    "Shannon Island": "shannon-island",
     "shark-gulf": "shark-gulf",
     "Shark Gulf": "shark-gulf",
     "ships-compass": "ships-compass",
@@ -26623,6 +26748,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1208,
-  "generated": "2026-07-16T03:08:39Z"
+  "page_count": 1213,
+  "generated": "2026-07-16T03:13:02Z"
 }

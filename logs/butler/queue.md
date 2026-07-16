@@ -190,24 +190,24 @@
 <!-- ⚠ R57「standard 表层已穷尽」为**误判**：R57 discover 双盲区致系统性漏计——(a) 单复数/大小写变体（Smith's Strait vs Straits、bay of vs Bay of Talcahuano）；(b)「GEO of X」「X Ocean」构式（Strait of Gibraltar/Cape of Good Hope/Indian·Pacific·Atlantic Ocean/Gulf of Mexico 整类漏扫）。改用宽式 pattern（(?:[A-Z]\w+ ){1,2}GEO | GEO of X）重扫，排除既有 place+变体后得 ≥5 单源候选 19 枚。discover_streak_low 1→0，**place 关闭倒计时撤销**。 -->
 <!-- R57 误分修正：Bay of Talcahuano 实 SC:13（R57 记 [3]）、Smith's Straits 实 ACH:7（R57 记 [4]）；R51/R57 记为「agg 5–6 hold」的 Detroit River(MW:6)/Chatham Islands(RC:7)/Washburn Bay(FC:7)/Antarctic Sea(AM:7)/Coronation Gulf(FC:5)/Platte River(AWED:5)/Blueridge Mountains(MW:5)/Shannon Island(WAI:5) 实为 ≥5 单源，升格 standard。 -->
 <!-- ✔ [place] Bay of Talcahuano — 已建 bay-of-talcahuano（rev k9olwz，SC real，页内引注 7；Duncan 补给港/南美搜索起点，接 in-search-of-the-castaways/cape-horn/cape-bernouilli）R60 -->
-- [place] Indian Ocean — SC；SC:13；印度洋（real）
+<!-- ✔ [place] Indian Ocean — 已建 indian-ocean（rev ETce3R，SC real，页内引注 6）R66 -->
 <!-- ✔ [place] Isle of Paques — 已建 easter-island（rev zxBMmw，DSCF real，页内引注 8；label Easter Island / alias Isle of Pâques,Vai-Hon；Dick Sand 定位岛，接 dick-sand-a-captain-at-fifteen）R60 -->
-- [place] Pacific Ocean — SC；SC:9；太平洋（real）
+<!-- ✔ [place] Pacific Ocean — 已建 pacific-ocean（rev S9pt4p，SC real，页内引注 7）R66 -->
 <!-- ✔ [place] Cape of Good Hope — 已建 cape-of-good-hope（rev UPcJXH，TTLU real，页内引注 6；Nautilus 绕非洲之岬，接 twenty-thousand-leagues/nautilus/cape-horn）R60 -->
 <!-- ✔ [place] Antarctic Sea — 已建 antarctic-sea（rev e1kXwj，AM real，页内引注 6；alias Antarctic seas/Southern Seas；Halbrane 南极之海，接 an-antarctic-mystery/sandwich-islands/halbrane-land）R62 -->
 <!-- ✔ [place] Smith's Straits — 已建 smiths-straits（rev T8Rfql，ACH real，页内引注 5；alias Smith's Strait；Kane 1853 航路/Forward 密令，接 melville-bay/lancaster-strait）R60 -->
 <!-- ✔ [place] Strait of Gibraltar — 已建 strait-of-gibraltar（rev CT9YbA，TTLU real，页内引注 6；alias Straits of Gibraltar；Nautilus 地中海↔大西洋通道，接 twenty-thousand-leagues/nautilus/vigo-bay）R60 -->
 <!-- ✔ [place] Washburn Bay — 已建 washburn-bay（rev UY1iGg，FC real，页内引注 5；Hobson 北岸勘查湾，接 the-fur-country/cape-bathurst/victoria-island）R62 -->
 <!-- ✔ [place] Chatham Islands — 已建 chatham-islands（rev 7muKE3，RC real，页内引注 5；alias Pitt Island；Albatross 抛锚/囚徒逃脱，接 robur-the-conqueror/albatross/robur）R62 -->
-- [place] Gulf of Mexico — TTLU；TTLU:6；墨西哥湾（real）
+<!-- ✔ [place] Gulf of Mexico — 已建 gulf-of-mexico（rev hJZE5f，TTLU real，页内引注 5）R66 -->
 <!-- ✔ [place] Detroit River — 已建 detroit-river（rev 8PubXu，MW real，页内引注 5；Terror 逃逸孔道/Erie↔上湖，接 the-master-of-the-world/the-terror/lake-erie）R62 -->
 <!-- ✔ [place] Sandwich Islands — 已建 sandwich-islands（rev EHidZ8，AM real，页内引注 6；alias Sandwich Isles；★更正 queue 旧注「夏威夷旧称」误——AM 语境为 Cook 所命名之南大西洋南桑威奇群岛，非夏威夷；Halbrane 南航出发点，接 an-antarctic-mystery/antarctic-sea）R62 -->
 - [place] Coronation Gulf — FC；FC:5；加冕湾（real 北极湾）
 - [place] Platte River — AWED；AWED:5；普拉特河（real）
 - [place] Atlantic Ocean — SC；SC:5；大西洋（real）
 - [place] Caribbean Sea — TTLU；TTLU:5；加勒比海（real）
-- [place] Blue Ridge Mountains — MW；MW:5；蓝岭山脉（real；Great Eyrie 区；alias Blueridge Mountains）⭐R51误 hold
-- [place] Shannon Island — WAI；WAI:5；香农岛（real 北极岛，A Winter Amid the Ice）
+<!-- ✔ [place] Blue Ridge Mountains — 已建 blue-ridge-mountains（rev s1c907，MW real，页内引注 7；alias Blueridge Mountains/Blueridge；实测 MW:14>队列估 5）R66 -->
+<!-- ✔ [place] Shannon Island — 已建 shannon-island（rev ifTpeL，WAI real，页内引注 5）R66 -->
 <!-- 排除项（非新建）：Arctic Ocean FC:42 → 并入 polar-sea 别名（同一北冰洋，Verne 互用 Polar Sea/Arctic Ocean）；Long's Peak FEM:8/RM:7 → rocky-mountains 子地点，overlap，hold；Black Rock MW → 待与 black-rock-creek 消歧，hold；Behring's Straits(WC)/The Torres Strait(TTLU) → 既有 behring-strait/torres-strait 变体。 -->
 <!-- ▶ 待办债务升格：discover 双盲区（此前 PARK）经 R59 证实致 R57 false-exhaustion + R58 关闭倒计时误启动 → 记 housekeeping，建 build 后 RFC（宽式 discover pattern）。 -->
 
