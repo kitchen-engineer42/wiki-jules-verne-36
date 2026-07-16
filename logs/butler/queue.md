@@ -237,17 +237,20 @@
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
 <!-- ═══ R68 SCN28 表层复扫补种（queue=9<10 触发，since_discover=8）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
-- [place] Irkutsk — MS:203/WC:4；西伯利亚东部要城，《Michael Strogoff》终点目标（real）
+<!-- ✔ [place] Irkutsk — 已建 irkutsk（rev nUAZ3e，MS real，页内引注 7；东西伯利亚首府，region Eastern Siberia）R69 -->
 - [place] Omsk — MS:77；西西伯利亚要城，Strogoff 途经（real）
 - [place] Tomsk — MS:70；西西伯利亚城，Strogoff 情节节点（real）
-- [place] Kazounde — DSCF:97；安哥拉内陆奴隶市场镇，《Dick Sand》非洲段核心（real，region Angola）
-- [place] Iquitos — EHLA:83；亚马逊上游秘鲁城，Jangada 启航地（real）
+<!-- ✔ [place] Kazounde — 已建 kazounde（rev 6auVN9，DSCF real，页内引注 9；安哥拉内陆奴隶市场镇，book 'Dick Sand: A Captain at Fifteen'，region Angola）R69 -->
+<!-- ✔ [place] Iquitos — 已建 iquitos（rev MrMXVb，EHLA real，页内引注 8；亚马逊上游农庄村，Jangada 启航地，region Upper Amazon/Peru）R69 -->
 - [place] Manaos — EHLA:80；亚马逊内格罗河口巴西城（real，alias Manaus 待核）
 - [place] Pekin — ASC:88；清帝国京城，《The Tribulations of a Chinaman》主场（real，alias Peking/Beijing 待核）
-- [place] Zanzibar — FWB:27/DSCF:18/TT:14；东非岛/港，《Five Weeks in a Balloon》气球启程地（real）
+<!-- ✔ [place] Zanzibar — 已建 zanzibar（rev qNvNiE，FWB real，页内引注 9；东非岛/港，气球启程地，region East African coast）R69 -->
 - [place] San Francisco — GM:27/AWED:27/DSCF:14/RM:12；加州港城，多作出现（real；跨源 agg 高，单作 max 27）
 - [place] London — AWED:62/FWB:28/SC:8/ASC:8；Fogg 环游起讫城，多作出现（real；单作 max 62）
-- [place] Stockholm — WC:57；瑞典首都，《The Waif of the Cynthia》主场（real）
+<!-- ✔ [place] Stockholm — 已建 stockholm（rev U4TIGR，WC real，页内引注 8；瑞典首都，Schwaryencrona 居所，region Sweden）R69 -->
+<!-- 注：Kazounde real 判定——Verne 依 real Angola 内陆奴隶贸易设定，region Angola（Central Africa）。 -->
+<!-- 注：Manaos/Pekin/Christiania 建页 label 从 Verne 原文旧称，现代名（Manaus/Peking/Oslo）收 alias，见 R68 log。 -->
+<!-- R69 NEW1 消费 5：irkutsk / kazounde / iquitos / stockholm / zanzibar；queue 24→19 -->
 - [place] Christiania — TN:62/FC:3；挪威首都（今 Oslo），《Ticket No. 9672》主场（real，alias Oslo 待核）
 - [place] Bergen — TN:43/WC:18；挪威西岸港城（real）
 - [place] Buffalo — MW:13；纽约州 Erie 湖东北端港城，《Master of the World》Terror 段（real；已核为城非动物）

@@ -4564,7 +4564,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 3
+      "total_refs": 4
     },
     "diving-apparatus": {
       "type": "technology",
@@ -6609,7 +6609,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 1
+      "total_refs": 2
     },
     "eighty-day-wager": {
       "type": "event",
@@ -8612,7 +8612,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 3
+      "total_refs": 4
     },
     "fix": {
       "type": "character",
@@ -10962,6 +10962,50 @@
       "book": "Topsy-Turvy",
       "total_refs": 0
     },
+    "iquitos": {
+      "type": "place",
+      "label": "Iquitos",
+      "aliases": [],
+      "tags": [
+        "place",
+        "town",
+        "amazon"
+      ],
+      "path": "iq/iquitos.md",
+      "description": "The Upper Amazon farm-village where the Garral family lives and from which the great raft voyage sets out in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1725,
+      "prose_chars": 1629,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
+    "irkutsk": {
+      "type": "place",
+      "label": "Irkutsk",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "siberia"
+      ],
+      "path": "ir/irkutsk.md",
+      "description": "The far capital of Eastern Siberia and the goal of the courier's mission in Michael Strogoff.",
+      "prose_len": 1765,
+      "prose_chars": 1669,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "island-of-ljakow": {
       "type": "place",
       "label": "Island of Ljakow",
@@ -11961,6 +12005,29 @@
       "quality": "standard",
       "quality_score": 38,
       "total_refs": 11
+    },
+    "kazounde": {
+      "type": "place",
+      "label": "Kazounde",
+      "aliases": [],
+      "tags": [
+        "place",
+        "town",
+        "africa",
+        "slave-trade"
+      ],
+      "path": "ka/kazounde.md",
+      "description": "The great inland slave-market town of Angola where the captives are driven and sold in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1795,
+      "prose_chars": 1698,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
     },
     "lake-baikal": {
       "type": "place",
@@ -13804,7 +13871,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 2
+      "total_refs": 3
     },
     "michel-ardan": {
       "type": "character",
@@ -21263,6 +21330,28 @@
       "book": "The Fur Country",
       "total_refs": 1
     },
+    "stockholm": {
+      "type": "place",
+      "label": "Stockholm",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "sweden"
+      ],
+      "path": "st/stockholm.md",
+      "description": "The Swedish capital and home of Dr. Schwaryencrona, where the foundling Erik is raised and educated in The Waif of the Cynthia.",
+      "prose_len": 1560,
+      "prose_chars": 1462,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "stony-hill": {
       "type": "place",
       "label": "Stony Hill",
@@ -21846,7 +21935,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 5
+      "total_refs": 6
     },
     "ticket-no-9672": {
       "type": "work",
@@ -25216,6 +25305,28 @@
       "book_seq": 968,
       "book": "In the Year 2889",
       "total_refs": 1
+    },
+    "zanzibar": {
+      "type": "place",
+      "label": "Zanzibar",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "africa"
+      ],
+      "path": "za/zanzibar.md",
+      "description": "The East African island and port from which Dr. Ferguson launches his balloon voyage across the continent in Five Weeks in a Balloon.",
+      "prose_len": 1807,
+      "prose_chars": 1710,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     }
   },
   "alias_index": {
@@ -25945,6 +26056,10 @@
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
+    "iquitos": "iquitos",
+    "Iquitos": "iquitos",
+    "irkutsk": "irkutsk",
+    "Irkutsk": "irkutsk",
     "island-of-ljakow": "island-of-ljakow",
     "Island of Ljakow": "island-of-ljakow",
     "Ljakow Island": "island-of-ljakow",
@@ -26004,6 +26119,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kazounde": "kazounde",
+    "Kazounde": "kazounde",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -26602,6 +26719,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stockholm": "stockholm",
+    "Stockholm": "stockholm",
     "stony-hill": "stony-hill",
     "Stony Hill": "stony-hill",
     "strait-of-gibraltar": "strait-of-gibraltar",
@@ -26872,8 +26991,10 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
-    "YEAR": "YEAR"
+    "YEAR": "YEAR",
+    "zanzibar": "zanzibar",
+    "Zanzibar": "zanzibar"
   },
-  "page_count": 1218,
-  "generated": "2026-07-16T03:17:16Z"
+  "page_count": 1223,
+  "generated": "2026-07-16T03:29:18Z"
 }

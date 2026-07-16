@@ -3312,6 +3312,18 @@
       ],
       "path": "in/inquiry-committee.md"
     },
+    "iquitos": {
+      "type": "place",
+      "label": "Iquitos",
+      "aliases": [],
+      "path": "iq/iquitos.md"
+    },
+    "irkutsk": {
+      "type": "place",
+      "label": "Irkutsk",
+      "aliases": [],
+      "path": "ir/irkutsk.md"
+    },
     "island-of-ljakow": {
       "type": "place",
       "label": "Island of Ljakow",
@@ -3615,6 +3627,12 @@
         "A Journey to the Centre of the Earth"
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
+    },
+    "kazounde": {
+      "type": "place",
+      "label": "Kazounde",
+      "aliases": [],
+      "path": "ka/kazounde.md"
     },
     "lake-baikal": {
       "type": "place",
@@ -6423,6 +6441,12 @@
       ],
       "path": "st/st-louis-fur-company.md"
     },
+    "stockholm": {
+      "type": "place",
+      "label": "Stockholm",
+      "aliases": [],
+      "path": "st/stockholm.md"
+    },
     "stony-hill": {
       "type": "place",
       "label": "Stony Hill",
@@ -7623,6 +7647,12 @@
       "label": "In the Year 2889",
       "aliases": [],
       "path": "ye/YEAR.md"
+    },
+    "zanzibar": {
+      "type": "place",
+      "label": "Zanzibar",
+      "aliases": [],
+      "path": "za/zanzibar.md"
     }
   },
   "alias_index": {
@@ -8352,6 +8382,10 @@
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
+    "iquitos": "iquitos",
+    "Iquitos": "iquitos",
+    "irkutsk": "irkutsk",
+    "Irkutsk": "irkutsk",
     "island-of-ljakow": "island-of-ljakow",
     "Island of Ljakow": "island-of-ljakow",
     "Ljakow Island": "island-of-ljakow",
@@ -8411,6 +8445,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kazounde": "kazounde",
+    "Kazounde": "kazounde",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -9009,6 +9045,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stockholm": "stockholm",
+    "Stockholm": "stockholm",
     "stony-hill": "stony-hill",
     "Stony Hill": "stony-hill",
     "strait-of-gibraltar": "strait-of-gibraltar",
@@ -9279,8 +9317,10 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
-    "YEAR": "YEAR"
+    "YEAR": "YEAR",
+    "zanzibar": "zanzibar",
+    "Zanzibar": "zanzibar"
   },
-  "page_count": 1218,
-  "generated": "2026-07-16T03:17:16Z"
+  "page_count": 1223,
+  "generated": "2026-07-16T03:29:18Z"
 }
