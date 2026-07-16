@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 18
+      "total_refs": 19
     },
     "africa": {
       "type": "place",
@@ -1348,7 +1348,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "algiers": {
       "type": "place",
@@ -2245,7 +2245,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 31
+      "total_refs": 33
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -2786,6 +2786,27 @@
       "book_seq": 724,
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 1
+    },
+    "astrakhan": {
+      "type": "place",
+      "label": "Astrakhan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "caspian",
+        "city"
+      ],
+      "path": "as/astrakhan.md",
+      "description": "The old Russian city at the north end of the Caspian Sea, once styled the Star of the Desert, that lends its name to the astrakhan fur.",
+      "prose_len": 1247,
+      "prose_chars": 1166,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "book": "The Clipper of the Clouds",
+      "total_refs": 0
     },
     "atacama": {
       "type": "place",
@@ -3944,7 +3965,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "belem": {
       "type": "place",
@@ -4985,7 +5006,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 64
+      "total_refs": 65
     },
     "caribbean-sea": {
       "type": "place",
@@ -5031,7 +5052,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "caucasus": {
       "type": "place",
@@ -5470,6 +5491,30 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Twenty Thousand Leagues Under the Seas",
+      "total_refs": 0
+    },
+    "crete": {
+      "type": "place",
+      "label": "Crete",
+      "aliases": [
+        "Candia"
+      ],
+      "tags": [
+        "place",
+        "mediterranean",
+        "island"
+      ],
+      "path": "cr/crete.md",
+      "description": "The great Mediterranean island, also called Candia, in rebellion against the Ottoman Empire as the Nautilus passed its waters.",
+      "prose_len": 1059,
+      "prose_chars": 978,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
     "cyrus-harding": {
@@ -6810,6 +6855,27 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 1
     },
+    "dublin": {
+      "type": "place",
+      "label": "Dublin",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "ireland",
+        "city"
+      ],
+      "path": "du/dublin.md",
+      "description": "The Irish capital, a relay on the transatlantic mail route where Fogg's party raced from Queenstown toward Liverpool.",
+      "prose_len": 1225,
+      "prose_chars": 1144,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "east-india-company": {
       "type": "organization",
       "label": "East India Company",
@@ -6901,7 +6967,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Underground City",
-      "total_refs": 0
+      "total_refs": 1
     },
     "ega": {
       "type": "place",
@@ -12247,6 +12313,30 @@
       "book": "The Survivors of the Chancellor",
       "total_refs": 0
     },
+    "himalaya": {
+      "type": "place",
+      "label": "Himalaya",
+      "aliases": [
+        "Himalayas"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "mountains"
+      ],
+      "path": "hi/himalaya.md",
+      "description": "The mightiest mountain range on earth, radiating from the Pamir and crowned by the highest summits on the face of the globe.",
+      "prose_len": 1129,
+      "prose_chars": 1048,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "holland": {
       "type": "place",
       "label": "Holland",
@@ -12592,7 +12682,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "irkutsk": {
       "type": "place",
@@ -14282,7 +14372,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Around the World in Eighty Days",
-      "total_refs": 1
+      "total_refs": 2
     },
     "loch-katrine": {
       "type": "place",
@@ -14348,7 +14438,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Around the World in Eighty Days",
-      "total_refs": 5
+      "total_refs": 6
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -14611,7 +14701,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Off on a Comet",
-      "total_refs": 7
+      "total_refs": 8
     },
     "melbourne": {
       "type": "place",
@@ -15990,7 +16080,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 26
+      "total_refs": 27
     },
     "michel-ardan": {
       "type": "character",
@@ -16126,7 +16216,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "mount-franklin": {
       "type": "place",
@@ -17354,7 +17444,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 68
+      "total_refs": 69
     },
     "navy-island": {
       "type": "place",
@@ -17473,6 +17563,32 @@
       "quality_score": 71,
       "book": "The Underground City",
       "total_refs": 3
+    },
+    "new-archangel": {
+      "type": "place",
+      "label": "New Archangel",
+      "aliases": [
+        "Sitka",
+        "New-Archangel"
+      ],
+      "tags": [
+        "place",
+        "north-america",
+        "russian-america",
+        "city"
+      ],
+      "path": "ne/new-archangel.md",
+      "description": "The capital of Russian America, rising on the island of Sitka as head-quarters of the Russian Fur Company.",
+      "prose_len": 1329,
+      "prose_chars": 1248,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "new-york": {
       "type": "place",
@@ -18918,7 +19034,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "pamlico-sound": {
       "type": "place",
@@ -18962,7 +19078,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Around the World in Eighty Days",
-      "total_refs": 2
+      "total_refs": 3
     },
     "passepartout": {
       "type": "character",
@@ -20640,7 +20756,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 10
+      "total_refs": 11
     },
     "robur": {
       "type": "character",
@@ -24819,7 +24935,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 9
+      "total_refs": 10
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -27131,7 +27247,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 26
+      "total_refs": 27
     },
     "twofold-bay": {
       "type": "place",
@@ -27739,7 +27855,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 9
+      "total_refs": 10
     },
     "vienna": {
       "type": "place",
@@ -27808,7 +27924,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -28993,6 +29109,8 @@
     "ASC-ch25": "ASC-ch25",
     "ASC-ch26": "ASC-ch26",
     "ASC-ch27": "ASC-ch27",
+    "astrakhan": "astrakhan",
+    "Astrakhan": "astrakhan",
     "atacama": "atacama",
     "Atacama": "atacama",
     "Desert of Atacama": "atacama",
@@ -29221,6 +29339,9 @@
     "crespo-island": "crespo-island",
     "Crespo Island": "crespo-island",
     "Rocca de la Plata": "crespo-island",
+    "crete": "crete",
+    "Crete": "crete",
+    "Candia": "crete",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -29304,6 +29425,8 @@
     "DSCF-ch36": "DSCF-ch36",
     "DSCF-ch37": "DSCF-ch37",
     "DSCF-ch38": "DSCF-ch38",
+    "dublin": "dublin",
+    "Dublin": "dublin",
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
     "easter-island": "easter-island",
@@ -29666,6 +29789,9 @@
     "havre": "havre",
     "Havre": "havre",
     "Le Havre": "havre",
+    "himalaya": "himalaya",
+    "Himalaya": "himalaya",
+    "Himalayas": "himalaya",
     "holland": "holland",
     "Holland": "holland",
     "hong-kong": "hong-kong",
@@ -30036,6 +30162,10 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-archangel": "new-archangel",
+    "New Archangel": "new-archangel",
+    "Sitka": "new-archangel",
+    "New-Archangel": "new-archangel",
     "new-york": "new-york",
     "New York": "new-york",
     "New York City": "new-york",
@@ -30819,6 +30949,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1373,
-  "generated": "2026-07-16T09:12:56Z"
+  "page_count": 1378,
+  "generated": "2026-07-16T09:31:19Z"
 }

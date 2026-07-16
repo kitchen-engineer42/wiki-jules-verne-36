@@ -367,15 +367,15 @@
 <!-- ✔ [place] Corsica — 已建 corsica（rev 3wVFAu，rof=real，页内引注 5；AM/MI/OC/TTLU 地中海花岗岩岛/Bonifacio 洞，book Off on a Comet）R115 -->
 <!-- ⚠ [place] Baltic — 建前须核 baltic-sea 是否已建（alias Baltic Sea，防 blindspot 第 6 例）-->
 <!-- ⚠ [place] Archangel — R115 同名剔除：FC:6 全系「New Archangel」= Sitka（Russian America/Alaska 首府），**非俄北冰洋 Archangel（Arkhangelsk）**；真俄 Archangel 仅 MS-029-020 1 PN < 门。挂起 -->
-<!-- ○ [place] New Archangel — 新候选（R115 析出）：FC:6（Sitka，Russian America 首府/Russian Fur Company 总部）；real；aliases Sitka/New-Archangel；book The Fur Country。建前核 sitka/new-archangel 未建 ✓ -->
+<!-- ✔ [place] New Archangel — 已建 new-archangel（rev YDtOgc，rof=real，页内引注 5：FC-030-054/034-007/036-035/045-033/047-004；Sitka 岛/Russian America 首府/Russian Fur Company 总部，aliases Sitka/New-Archangel，book The Fur Country）R117 -->
 <!-- ✔ [place] Sardinia — 已建 sardinia（rev MfiqH2，rof=real，页内引注 5；OC 地中海岛/Bonifacio 海峡随彗星消失 + FWB 撒丁领事，book Off on a Comet；链 [[Corsica]]）R115 -->
 <!-- ✔ [place] Teheran — 已建 teheran（rev gGVTbo，rof=real，页内引注 5；ASC 波斯首都/大铁路支线 + RC Elburz 山下 + MS 宫廷，book The Adventures of a Special Correspondent，alias Tehran）R115 -->
 - [place] Lena — SCN28 R111；5 distinctPN（real；WC:3/MS:2 西伯利亚河；alias Lena River）
-- [place] Himalaya — SCN28 R111；5 distinctPN（real；跨源 ASC/AWED/DSCF 山脉；alias Himalayas）
+<!-- ✔ [place] Himalaya — 已建 himalaya（rev OuPLmg，rof=real，页内引注 5：ASC-015-033/018-042 + AWED-014-010/016-004 + DSCF-022-096；跨源 Pamir 山系/Everest，alias Himalayas，book The Adventures of a Special Correspondent）R117 -->
 - [place] Elbe — SCN28 R111；5 distinctPN（real；JCE:4 德国河；alias Elbe River）
-- [place] Dublin — SCN28 R111；5 distinctPN（real；跨源爱尔兰城）
-- [place] Crete — SCN28 R111；5 distinctPN（real；TTLU:5 地中海岛/Nautilus 掠岸）
-- [place] Astrakhan — SCN28 R111；5 distinctPN（real；RC:3/MS:2 里海口城）
+<!-- ✔ [place] Dublin — 已建 dublin（rev f4vyPQ，rof=real，页内引注 5：AWED-033-060/033-063 + FC-001-024 + TT-015-015/015-024；跨源爱尔兰城/邮路中转，book Around the World in Eighty Days）R117 -->
+<!-- ✔ [place] Crete — 已建 crete（rev c3g4ex，rof=real，页内引注 5：TTLU-018-005/030-071/030-072/030-083/032-079；地中海岛/反抗奥斯曼/Nautilus 掠岸，alias Candia，book Twenty Thousand Leagues Under the Sea）R117 -->
+<!-- ✔ [place] Astrakhan — 已建 astrakhan（rev xmlbg2，rof=real，页内引注 5：RC-013-060/014-009/014-011 + MS-005-053/005-019；里海口城/Star of the Desert/astrakhan 皮草名源，book The Clipper of the Clouds；MS-005-019 皮草作城市名源引，MS-005-053 沙皇尊号）R117 -->
 - [place] Aral — SCN28 R111；5 distinctPN（real；咸海；ASC:3；alias Aral Sea）
 - [place] Amou-Daria — SCN28 R111；5 distinctPN（real；ASC:5 中亚河 Oxus）
 - [place] Alexandria — SCN28 R111；5 distinctPN（real；跨源埃及港城；核与美国同名地）

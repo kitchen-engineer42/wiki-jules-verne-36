@@ -845,6 +845,12 @@
       "aliases": [],
       "path": "as/ASC-ch27.md"
     },
+    "astrakhan": {
+      "type": "place",
+      "label": "Astrakhan",
+      "aliases": [],
+      "path": "as/astrakhan.md"
+    },
     "atacama": {
       "type": "place",
       "label": "Atacama",
@@ -1633,6 +1639,14 @@
       ],
       "path": "cr/crespo-island.md"
     },
+    "crete": {
+      "type": "place",
+      "label": "Crete",
+      "aliases": [
+        "Candia"
+      ],
+      "path": "cr/crete.md"
+    },
     "cyrus-harding": {
       "type": "character",
       "label": "Cyrus Harding",
@@ -2037,6 +2051,12 @@
       "label": "Dick Sand: A Captain at Fifteen — CHAPTER XX",
       "aliases": [],
       "path": "ds/DSCF-ch38.md"
+    },
+    "dublin": {
+      "type": "place",
+      "label": "Dublin",
+      "aliases": [],
+      "path": "du/dublin.md"
     },
     "east-india-company": {
       "type": "organization",
@@ -3669,6 +3689,14 @@
       ],
       "path": "ha/havre.md"
     },
+    "himalaya": {
+      "type": "place",
+      "label": "Himalaya",
+      "aliases": [
+        "Himalayas"
+      ],
+      "path": "hi/himalaya.md"
+    },
     "holland": {
       "type": "place",
       "label": "Holland",
@@ -5224,6 +5252,15 @@
       "label": "New Aberfoyle",
       "aliases": [],
       "path": "ne/new-aberfoyle.md"
+    },
+    "new-archangel": {
+      "type": "place",
+      "label": "New Archangel",
+      "aliases": [
+        "Sitka",
+        "New-Archangel"
+      ],
+      "path": "ne/new-archangel.md"
     },
     "new-york": {
       "type": "place",
@@ -8804,6 +8841,8 @@
     "ASC-ch25": "ASC-ch25",
     "ASC-ch26": "ASC-ch26",
     "ASC-ch27": "ASC-ch27",
+    "astrakhan": "astrakhan",
+    "Astrakhan": "astrakhan",
     "atacama": "atacama",
     "Atacama": "atacama",
     "Desert of Atacama": "atacama",
@@ -9032,6 +9071,9 @@
     "crespo-island": "crespo-island",
     "Crespo Island": "crespo-island",
     "Rocca de la Plata": "crespo-island",
+    "crete": "crete",
+    "Crete": "crete",
+    "Candia": "crete",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -9115,6 +9157,8 @@
     "DSCF-ch36": "DSCF-ch36",
     "DSCF-ch37": "DSCF-ch37",
     "DSCF-ch38": "DSCF-ch38",
+    "dublin": "dublin",
+    "Dublin": "dublin",
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
     "easter-island": "easter-island",
@@ -9477,6 +9521,9 @@
     "havre": "havre",
     "Havre": "havre",
     "Le Havre": "havre",
+    "himalaya": "himalaya",
+    "Himalaya": "himalaya",
+    "Himalayas": "himalaya",
     "holland": "holland",
     "Holland": "holland",
     "hong-kong": "hong-kong",
@@ -9847,6 +9894,10 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-archangel": "new-archangel",
+    "New Archangel": "new-archangel",
+    "Sitka": "new-archangel",
+    "New-Archangel": "new-archangel",
     "new-york": "new-york",
     "New York": "new-york",
     "New York City": "new-york",
@@ -10630,6 +10681,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1373,
-  "generated": "2026-07-16T09:12:56Z"
+  "page_count": 1378,
+  "generated": "2026-07-16T09:28:02Z"
 }
