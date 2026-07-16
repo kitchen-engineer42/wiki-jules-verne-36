@@ -3243,6 +3243,12 @@
       "aliases": [],
       "path": "go/goat-island.md"
     },
+    "gobi": {
+      "type": "place",
+      "label": "Gobi",
+      "aliases": [],
+      "path": "go/gobi.md"
+    },
     "godfrey-morgan": {
       "type": "work",
       "label": "Godfrey Morgan",
@@ -3312,6 +3318,12 @@
         "Slave Lake"
       ],
       "path": "gr/great-slave-lake.md"
+    },
+    "greenland": {
+      "type": "place",
+      "label": "Greenland",
+      "aliases": [],
+      "path": "gr/greenland.md"
     },
     "gueboroa-island": {
       "type": "place",
@@ -3773,6 +3785,12 @@
       "label": "Kilimanjaro",
       "aliases": [],
       "path": "ki/kilimanjaro.md"
+    },
+    "klock-klock": {
+      "type": "place",
+      "label": "Klock-Klock",
+      "aliases": [],
+      "path": "kl/klock-klock.md"
     },
     "kolyvan": {
       "type": "place",
@@ -5209,6 +5227,12 @@
         "Jean Passepartout"
       ],
       "path": "pa/passepartout.md"
+    },
+    "patagonia": {
+      "type": "place",
+      "label": "Patagonia",
+      "aliases": [],
+      "path": "pa/patagonia.md"
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -7663,6 +7687,12 @@
       "aliases": [],
       "path": "vb/VB.md"
     },
+    "vesfjorddal": {
+      "type": "place",
+      "label": "Vesfjorddal",
+      "aliases": [],
+      "path": "ve/vesfjorddal.md"
+    },
     "victoria-balloon": {
       "type": "technology",
       "label": "Victoria (balloon)",
@@ -8689,6 +8719,8 @@
     "Go-Ahead": "go-ahead",
     "goat-island": "goat-island",
     "Goat Island": "goat-island",
+    "gobi": "gobi",
+    "Gobi": "gobi",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -8717,6 +8749,8 @@
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
+    "greenland": "greenland",
+    "Greenland": "greenland",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
     "gulf-of-mexico": "gulf-of-mexico",
@@ -8833,6 +8867,8 @@
     "Kazounde": "kazounde",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
+    "klock-klock": "klock-klock",
+    "Klock-Klock": "klock-klock",
     "kolyvan": "kolyvan",
     "Kolyvan": "kolyvan",
     "krasnoiarsk": "krasnoiarsk",
@@ -9162,6 +9198,8 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "patagonia": "patagonia",
+    "Patagonia": "patagonia",
     "peak-of-teneriffe": "peak-of-teneriffe",
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
@@ -9701,6 +9739,8 @@
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
     "VB": "VB",
+    "vesfjorddal": "vesfjorddal",
+    "Vesfjorddal": "vesfjorddal",
     "victoria-balloon": "victoria-balloon",
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
@@ -9774,6 +9814,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1277,
-  "generated": "2026-07-16T04:58:05Z"
+  "page_count": 1282,
+  "generated": "2026-07-16T05:06:47Z"
 }

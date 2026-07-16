@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 4
+      "total_refs": 5
     },
     "albatross": {
       "type": "technology",
@@ -1985,7 +1985,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 3
+      "total_refs": 4
     },
     "antarctic-sea": {
       "type": "place",
@@ -10792,6 +10792,29 @@
       "book": "The Master of the World",
       "total_refs": 2
     },
+    "gobi": {
+      "type": "place",
+      "label": "Gobi",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-asia",
+        "the-adventures-of-a-special-correspondent",
+        "voyage"
+      ],
+      "path": "go/gobi.md",
+      "description": "Great sandy desert of Central Asia crossed by the Grand Transasiatic railway in The Adventures of a Special Correspondent.",
+      "prose_len": 1489,
+      "prose_chars": 1403,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "godfrey-morgan": {
       "type": "work",
       "label": "Godfrey Morgan",
@@ -11009,6 +11032,29 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "greenland": {
+      "type": "place",
+      "label": "Greenland",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "the-adventures-of-captain-hatteras",
+        "exploration"
+      ],
+      "path": "gr/greenland.md",
+      "description": "Great Arctic island whose ice-bound coasts recur across Verne's polar voyages as the threshold of the far north.",
+      "prose_len": 1449,
+      "prose_chars": 1365,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
     "gueboroa-island": {
@@ -11375,7 +11421,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 16
+      "total_refs": 17
     },
     "in-the-year-2889": {
       "type": "work",
@@ -12538,6 +12584,29 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Topsy Turvy",
+      "total_refs": 0
+    },
+    "klock-klock": {
+      "type": "place",
+      "label": "Klock-Klock",
+      "aliases": [],
+      "tags": [
+        "place",
+        "antarctic",
+        "an-antarctic-mystery",
+        "fictional"
+      ],
+      "path": "kl/klock-klock.md",
+      "description": "Native village in a valley of Tsalal Island where the deadly landslip of An Antarctic Mystery is investigated.",
+      "prose_len": 1384,
+      "prose_chars": 1300,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "An Antarctic Mystery",
       "total_refs": 0
     },
     "kolyvan": {
@@ -17331,6 +17400,29 @@
       "quality_score": 66,
       "book": "Around the World in Eighty Days",
       "total_refs": 40
+    },
+    "patagonia": {
+      "type": "place",
+      "label": "Patagonia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "in-search-of-the-castaways",
+        "exploration"
+      ],
+      "path": "pa/patagonia.md",
+      "description": "Southern region of South America crossed on the 37th parallel in the first phase of the search for Captain Grant.",
+      "prose_len": 1494,
+      "prose_chars": 1410,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -22667,7 +22759,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 12
+      "total_refs": 13
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -23025,7 +23117,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 3
+      "total_refs": 4
     },
     "tijuco": {
       "type": "place",
@@ -25454,6 +25546,29 @@
       "book": "A Voyage in a Balloon",
       "total_refs": 1
     },
+    "vesfjorddal": {
+      "type": "place",
+      "label": "Vesfjorddal",
+      "aliases": [],
+      "tags": [
+        "place",
+        "norway",
+        "ticket-no-9672",
+        "voyage"
+      ],
+      "path": "ve/vesfjorddal.md",
+      "description": "Narrow wooded valley of the Telemark along the Maan below the Rjukan falls, the scenic heart of Ticket No. 9672.",
+      "prose_len": 1383,
+      "prose_chars": 1299,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "victoria-balloon": {
       "type": "technology",
       "label": "Victoria (balloon)",
@@ -27270,6 +27385,8 @@
     "Go-Ahead": "go-ahead",
     "goat-island": "goat-island",
     "Goat Island": "goat-island",
+    "gobi": "gobi",
+    "Gobi": "gobi",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -27298,6 +27415,8 @@
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
+    "greenland": "greenland",
+    "Greenland": "greenland",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
     "gulf-of-mexico": "gulf-of-mexico",
@@ -27414,6 +27533,8 @@
     "Kazounde": "kazounde",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
+    "klock-klock": "klock-klock",
+    "Klock-Klock": "klock-klock",
     "kolyvan": "kolyvan",
     "Kolyvan": "kolyvan",
     "krasnoiarsk": "krasnoiarsk",
@@ -27743,6 +27864,8 @@
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
+    "patagonia": "patagonia",
+    "Patagonia": "patagonia",
     "peak-of-teneriffe": "peak-of-teneriffe",
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
@@ -28282,6 +28405,8 @@
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
     "VB": "VB",
+    "vesfjorddal": "vesfjorddal",
+    "Vesfjorddal": "vesfjorddal",
     "victoria-balloon": "victoria-balloon",
     "Victoria (balloon)": "victoria-balloon",
     "the Victoria": "victoria-balloon",
@@ -28355,6 +28480,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1277,
-  "generated": "2026-07-16T04:58:05Z"
+  "page_count": 1282,
+  "generated": "2026-07-16T05:06:47Z"
 }

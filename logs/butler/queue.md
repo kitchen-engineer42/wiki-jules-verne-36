@@ -237,12 +237,12 @@
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
-- [place] Greenland — 跨源 ACH:30/WC:11/TN:8/TT:8/FC:5/WAI:4/AM:1/TTLU:1；agg 68；格陵兰（real 北极大岛；跨作多现，主源 ACH 极地探险，可跨源建 book The Adventures of Captain Hatteras）
-- [place] Patagonia — SC:26 主源 + MI:2/RC/RM/AM/DSCF/TT/TTLU；agg 34；巴塔哥尼亚（real 南美南端；SC 沿 37°线搜索区）
-- [place] Gobi — ASC:15 主源 + TT:1；agg 16；戈壁（real 中亚沙漠；ASC 大铁路穿越之瀚海）
-- [place] Vesfjorddal — TN:12；韦斯峡谷（real 挪威 Telemark 山谷；TN 主场景，Numedal/Hardanger 之间）
+<!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
+<!-- ✔ [place] Patagonia — 已建 patagonia（rev *，SC real，页内引注 6；南美南端 pampas/37°线首搜索区，region South America）R88 -->
+<!-- ✔ [place] Gobi — 已建 gobi（rev *，ASC real，页内引注 6；中亚大沙漠/大铁路核心段，region Central Asia）R88 -->
+<!-- ✔ [place] Vesfjorddal — 已建 vesfjorddal（rev *，TN real，页内引注 5；Telemark Maan 河谷/Rjukan 瀑下，region Norway (Telemark)）R88 -->
 - [place] Tjon — ASC:10；乔恩谷（real；ASC 在建高架桥所跨之谷/脱轨险地）
-- [place] Klock-Klock — AM:19；克洛克克洛克（fictional Tsalal 岛土著村；AM 南极土人聚落，slug klock-klock）
+<!-- ✔ [place] Klock-Klock — 已建 klock-klock（rev *，AM fictional，页内引注 5；Tsalal 岛谷中土著村/滑坡惨案发生地，region Antarctic (Tsalal Island)）R88 -->
 - [place] Amazones — EHLA:8；亚马逊省（real 巴西省；EHLA Fragoso 走村串巷之省）⚠ 与既有 amazon（河）label 近，建页须用 slug amazonas-province/province-of-amazones 避碰
 
 <!-- ═══ R76 SCN28 表层复扫补种（queue=7<10 触发，since_discover=2）：裸词城市扫描（人名 stoplist 滤）揭示大批未建真城市，各已精核词边界 distinctPN ≥8，均非既有页/人物 ═══ -->
