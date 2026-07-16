@@ -417,6 +417,14 @@
       "aliases": [],
       "path": "al/allahabad.md"
     },
+    "alps": {
+      "type": "place",
+      "label": "Alps",
+      "aliases": [
+        "the Alps"
+      ],
+      "path": "al/alps.md"
+    },
     "altamont-harbour": {
       "type": "place",
       "label": "Altamont Harbour",
@@ -618,6 +626,15 @@
         "Le Sphinx des glaces"
       ],
       "path": "an/an-antarctic-mystery.md"
+    },
+    "andes": {
+      "type": "place",
+      "label": "Andes",
+      "aliases": [
+        "the Andes",
+        "Cordilleras"
+      ],
+      "path": "an/andes.md"
     },
     "angola": {
       "type": "place",
@@ -1221,6 +1238,12 @@
         "Blueridge"
       ],
       "path": "bl/blue-ridge-mountains.md"
+    },
+    "bokhara": {
+      "type": "place",
+      "label": "Bokhara",
+      "aliases": [],
+      "path": "bo/bokhara.md"
     },
     "bolivia": {
       "type": "place",
@@ -2005,6 +2028,14 @@
       "label": "Ecuador",
       "aliases": [],
       "path": "ec/ecuador.md"
+    },
+    "edinburgh": {
+      "type": "place",
+      "label": "Edinburgh",
+      "aliases": [
+        "Auld Reekie"
+      ],
+      "path": "ed/edinburgh.md"
     },
     "ega": {
       "type": "place",
@@ -7380,6 +7411,14 @@
       ],
       "path": "ti/ticket-no-9672.md"
     },
+    "tiflis": {
+      "type": "place",
+      "label": "Tiflis",
+      "aliases": [
+        "Tbilisi"
+      ],
+      "path": "ti/tiflis.md"
+    },
     "tijuco": {
       "type": "place",
       "label": "Tijuco",
@@ -8570,6 +8609,9 @@
     "Aleutian Isles": "aleutian-islands",
     "allahabad": "allahabad",
     "Allahabad": "allahabad",
+    "alps": "alps",
+    "Alps": "alps",
+    "the Alps": "alps",
     "altamont-harbour": "altamont-harbour",
     "Altamont Harbour": "altamont-harbour",
     "AM-ch01": "AM-ch01",
@@ -8613,6 +8655,10 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "andes": "andes",
+    "Andes": "andes",
+    "the Andes": "andes",
+    "Cordilleras": "andes",
     "angola": "angola",
     "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
@@ -8758,6 +8804,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bokhara": "bokhara",
+    "Bokhara": "bokhara",
     "bolivia": "bolivia",
     "Bolivia": "bolivia",
     "bombay": "bombay",
@@ -8964,6 +9012,9 @@
     "Vai-Hon": "easter-island",
     "ecuador": "ecuador",
     "Ecuador": "ecuador",
+    "edinburgh": "edinburgh",
+    "Edinburgh": "edinburgh",
+    "Auld Reekie": "edinburgh",
     "ega": "ega",
     "Ega": "ega",
     "egypt": "egypt",
@@ -10212,6 +10263,9 @@
     "Un billet de loterie": "ticket-no-9672",
     "The Lottery Ticket": "ticket-no-9672",
     "Ticket No. \"9672\"": "ticket-no-9672",
+    "tiflis": "tiflis",
+    "Tiflis": "tiflis",
+    "Tbilisi": "tiflis",
     "tijuco": "tijuco",
     "Tijuco": "tijuco",
     "tjon": "tjon",
@@ -10439,6 +10493,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1353,
-  "generated": "2026-07-16T08:00:51Z"
+  "page_count": 1358,
+  "generated": "2026-07-16T08:27:21Z"
 }

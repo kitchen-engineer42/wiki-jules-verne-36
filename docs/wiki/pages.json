@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 13
+      "total_refs": 15
     },
     "africa": {
       "type": "place",
@@ -1372,6 +1372,30 @@
       "quality_score": 64,
       "book": "Around the World in Eighty Days",
       "total_refs": 3
+    },
+    "alps": {
+      "type": "place",
+      "label": "Alps",
+      "aliases": [
+        "the Alps"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "mountains"
+      ],
+      "path": "al/alps.md",
+      "description": "The great mountain wall of central Europe, giant of the continent crowned by Mont Blanc, a measure against which Verne weighs all other heights.",
+      "prose_len": 1343,
+      "prose_chars": 1262,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Ascent of Mont Blanc",
+      "total_refs": 0
     },
     "altamont-harbour": {
       "type": "place",
@@ -2035,6 +2059,31 @@
       "quality": "standard",
       "quality_score": 42,
       "total_refs": 4
+    },
+    "andes": {
+      "type": "place",
+      "label": "Andes",
+      "aliases": [
+        "the Andes",
+        "Cordilleras"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "mountains"
+      ],
+      "path": "an/andes.md",
+      "description": "The great mountain chain of South America, the Cordilleras that Glenarvan's party crossed on the 37th parallel in search of Captain Grant.",
+      "prose_len": 1372,
+      "prose_chars": 1291,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "angola": {
       "type": "place",
@@ -2761,7 +2810,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "auckland": {
       "type": "place",
@@ -4030,7 +4079,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "blue-ridge-mountains": {
       "type": "place",
@@ -4055,6 +4104,29 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Master of the World",
+      "total_refs": 0
+    },
+    "bokhara": {
+      "type": "place",
+      "label": "Bokhara",
+      "aliases": [],
+      "tags": [
+        "place",
+        "asia",
+        "central-asia",
+        "city"
+      ],
+      "path": "bo/bokhara.md",
+      "description": "The ancient Central Asian city and khanate, the \"Rome of Islam,\" a great oasis station on the Grand Transasiatic railway.",
+      "prose_len": 1315,
+      "prose_chars": 1234,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
     "bolivia": {
@@ -4890,7 +4962,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "caucasus": {
       "type": "place",
@@ -6690,6 +6762,31 @@
       "quality_score": 63,
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 1
+    },
+    "edinburgh": {
+      "type": "place",
+      "label": "Edinburgh",
+      "aliases": [
+        "Auld Reekie"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "scotland",
+        "capital"
+      ],
+      "path": "ed/edinburgh.md",
+      "description": "The Scottish capital, Auld Reekie of the Firth of Forth, a seat of learned societies and home to Verne's Scottish engineers and sportsmen.",
+      "prose_len": 1285,
+      "prose_chars": 1204,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Underground City",
+      "total_refs": 0
     },
     "ega": {
       "type": "place",
@@ -13902,7 +13999,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Pearl of Lima",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lincoln-island-landing": {
       "type": "event",
@@ -13994,7 +14091,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "loch-katrine": {
       "type": "place",
@@ -18795,7 +18892,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 4
+      "total_refs": 5
     },
     "phileas-fogg": {
       "type": "character",
@@ -24126,7 +24223,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Master Zacharius",
-      "total_refs": 1
+      "total_refs": 2
     },
     "tabatinga": {
       "type": "place",
@@ -24545,7 +24642,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 77,
-      "total_refs": 2
+      "total_refs": 3
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -24623,6 +24720,31 @@
       "quality": "standard",
       "quality_score": 42,
       "total_refs": 6
+    },
+    "tiflis": {
+      "type": "place",
+      "label": "Tiflis",
+      "aliases": [
+        "Tbilisi"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "caucasus",
+        "city"
+      ],
+      "path": "ti/tiflis.md",
+      "description": "The Transcaucasian city of Georgia, junction of three railways and the starting point of the reporter's journey across Asia.",
+      "prose_len": 1238,
+      "prose_chars": 1157,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "tijuco": {
       "type": "place",
@@ -28421,6 +28543,9 @@
     "Aleutian Isles": "aleutian-islands",
     "allahabad": "allahabad",
     "Allahabad": "allahabad",
+    "alps": "alps",
+    "Alps": "alps",
+    "the Alps": "alps",
     "altamont-harbour": "altamont-harbour",
     "Altamont Harbour": "altamont-harbour",
     "AM-ch01": "AM-ch01",
@@ -28464,6 +28589,10 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "andes": "andes",
+    "Andes": "andes",
+    "the Andes": "andes",
+    "Cordilleras": "andes",
     "angola": "angola",
     "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
@@ -28609,6 +28738,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bokhara": "bokhara",
+    "Bokhara": "bokhara",
     "bolivia": "bolivia",
     "Bolivia": "bolivia",
     "bombay": "bombay",
@@ -28815,6 +28946,9 @@
     "Vai-Hon": "easter-island",
     "ecuador": "ecuador",
     "Ecuador": "ecuador",
+    "edinburgh": "edinburgh",
+    "Edinburgh": "edinburgh",
+    "Auld Reekie": "edinburgh",
     "ega": "ega",
     "Ega": "ega",
     "egypt": "egypt",
@@ -30063,6 +30197,9 @@
     "Un billet de loterie": "ticket-no-9672",
     "The Lottery Ticket": "ticket-no-9672",
     "Ticket No. \"9672\"": "ticket-no-9672",
+    "tiflis": "tiflis",
+    "Tiflis": "tiflis",
+    "Tbilisi": "tiflis",
     "tijuco": "tijuco",
     "Tijuco": "tijuco",
     "tjon": "tjon",
@@ -30290,6 +30427,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1353,
-  "generated": "2026-07-16T08:00:51Z"
+  "page_count": 1358,
+  "generated": "2026-07-16T08:27:21Z"
 }

@@ -334,12 +334,12 @@
 <!-- R103 未入队/待核：Java（岛，但 the Java=Cunard 汽船，须词边界剔）、Pekin=Peking（异名，核既建）、Siberia/Greenland/Iceland/Zanzibar（既建）、England 221/France 169（续暂缓，城市页密集，国级页价值 R104 后专项评）。 -->
 
 <!-- ═══ R111 SCN28 表层复扫（queue=9<10 触发，since_discover=7）：城市/山脉/河流/海湾层专名扫描（去既建 2641 名/别名/slug，各 \bName\b 全库词边界核 distinctPN≥5 方入队）。国级已四度饱和，本轮转城市-地理特征层，surface 35 新候选，否证「place 广度饱和」。建页时逐一 pages.json 交叉核 + 多实体/称号筛 ═══ -->
-- [place] Caspian — SCN28 R111；53 distinctPN（real；里海；ASC:30 大铁路横渡；建页 alias Caspian Sea，核纯列举）
-- [place] Edinburgh — SCN28 R111；35 distinctPN（real；UC:15/FWB:7 苏格兰；建页须剔「Modern/Northern Athens」称号句）
-- [place] Bokhara — SCN28 R111；34 distinctPN（real；ASC:22/MS:12 中亚城/大铁路）
-- [place] Andes — SCN28 R111；34 distinctPN（real；SC:18 南美山脉；alias the Andes）
-- [place] Tiflis — SCN28 R111；30 distinctPN（real；ASC:30 高加索城/大铁路西端）
-- [place] Alps — SCN28 R111；29 distinctPN（real；SC:13 欧洲山脉；建页核比喻/列举）
+<!-- ⚠ [place] Caspian — R112 交叉核**已建** caspian-sea（label Caspian Sea）→ 裸 "Caspian" 系伪新候选（probe 漏，2641-name 集合含 "caspian sea"/"caspian-sea" 但无裸 "caspian"）剔除。建议给 caspian-sea 补 alias 'Caspian'（PHQ，同 pacific/atlantic/ural blindspot）。R112 -->
+<!-- ✔ [place] Edinburgh — 已建 edinburgh（rev 4ILX0n，rof=real，页内引注 6；UC/AWED/FWB/ACH，alias Auld Reekie；剔 FEM-011-019 得州同名城）R112 -->
+<!-- ✔ [place] Bokhara — 已建 bokhara（rev ibDu8m，rof=real，页内引注 6；ASC 大铁路绿洲/Rome of Islam）R112 -->
+<!-- ✔ [place] Andes — 已建 andes（rev bYixX0，rof=real，页内引注 6；SC/DSCF/EHLA/FEM/PL，aliases the Andes/Cordilleras）R112 -->
+<!-- ✔ [place] Tiflis — 已建 tiflis（rev 98A4T6，rof=real，页内引注 6；ASC Transcaucasia 起点城/三线枢纽，alias Tbilisi）R112 -->
+<!-- ✔ [place] Alps — 已建 alps（rev vR6O4P，rof=real，页内引注 6；AMB/ACH/FEM/OC/RC，book Ascent of Mont Blanc，alias the Alps；剔 SC-041 澳洲 Australian Alps 异地同名）R112 -->
 - [place] Merv — SCN28 R111；26 distinctPN（real；ASC:26 中亚城/大铁路）
 - [place] Malta — SCN28 R111；22 distinctPN（real；OC:9/WC:6 地中海岛）
 - [place] Baku — SCN28 R111；22 distinctPN（real；ASC:22 里海油城/大铁路端点）
