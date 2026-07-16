@@ -1567,6 +1567,12 @@
       ],
       "path": "ch/chatham-islands.md"
     },
+    "chicago": {
+      "type": "place",
+      "label": "Chicago",
+      "aliases": [],
+      "path": "ch/chicago.md"
+    },
     "chili": {
       "type": "place",
       "label": "Chili",
@@ -3026,6 +3032,14 @@
       "aliases": [],
       "path": "fl/flag-point.md"
     },
+    "florida": {
+      "type": "place",
+      "label": "Florida",
+      "aliases": [
+        "Pascha Florida"
+      ],
+      "path": "fl/florida.md"
+    },
     "flotsam-point": {
       "type": "place",
       "label": "Flotsam Point",
@@ -4162,6 +4176,12 @@
         "A Journey to the Centre of the Earth"
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
+    },
+    "kamtchatka": {
+      "type": "place",
+      "label": "Kamtchatka",
+      "aliases": [],
+      "path": "ka/kamtchatka.md"
     },
     "kamtschatka": {
       "type": "place",
@@ -7352,6 +7372,12 @@
       "aliases": [],
       "path": "so/south-america.md"
     },
+    "south-pole": {
+      "type": "place",
+      "label": "South Pole",
+      "aliases": [],
+      "path": "so/south-pole.md"
+    },
     "spain": {
       "type": "place",
       "label": "Spain",
@@ -7638,6 +7664,14 @@
       "label": "Tijuco",
       "aliases": [],
       "path": "ti/tijuco.md"
+    },
+    "timbuctoo": {
+      "type": "place",
+      "label": "Timbuctoo",
+      "aliases": [
+        "Timbuktu"
+      ],
+      "path": "ti/timbuctoo.md"
     },
     "tjon": {
       "type": "place",
@@ -9124,6 +9158,8 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "chicago": "chicago",
+    "Chicago": "chicago",
     "chili": "chili",
     "Chili": "chili",
     "Chile": "chili",
@@ -9433,6 +9469,9 @@
     "Fix": "fix",
     "flag-point": "flag-point",
     "Flag Point": "flag-point",
+    "florida": "florida",
+    "Florida": "florida",
+    "Pascha Florida": "florida",
     "flotsam-point": "flotsam-point",
     "Flotsam Point": "flotsam-point",
     "fogg-hires-passepartout": "fogg-hires-passepartout",
@@ -9719,6 +9758,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kamtchatka": "kamtchatka",
+    "Kamtchatka": "kamtchatka",
     "kamtschatka": "kamtschatka",
     "Kamtschatka": "kamtschatka",
     "Kamchatka": "kamtschatka",
@@ -10451,6 +10492,8 @@
     "Snowy River": "snowy-river",
     "south-america": "south-america",
     "South America": "south-america",
+    "south-pole": "south-pole",
+    "South Pole": "south-pole",
     "spain": "spain",
     "Spain": "spain",
     "spencer-island": "spencer-island",
@@ -10563,6 +10606,9 @@
     "Tbilisi": "tiflis",
     "tijuco": "tijuco",
     "Tijuco": "tijuco",
+    "timbuctoo": "timbuctoo",
+    "Timbuctoo": "timbuctoo",
+    "Timbuktu": "timbuctoo",
     "tjon": "tjon",
     "Tjon": "tjon",
     "Tjon Valley": "tjon",
@@ -10788,6 +10834,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1387,
-  "generated": "2026-07-16T09:59:47Z"
+  "page_count": 1392,
+  "generated": "2026-07-16T10:11:32Z"
 }

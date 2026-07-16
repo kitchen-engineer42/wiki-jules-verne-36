@@ -8,11 +8,11 @@
 <!-- R29 NEW1 已建 5 页：the-chimneys/prospect-heights/tabor-island/cape-bathurst/victoria-island（MI 簇 3 + FC 簇 2）。 -->
 <!-- ═══ R120 SCN28 表层勘探（queue=6<10 触发；自 R111 以来首次 discover）：broken-link 扫描 + 主要地名批测（gather distinctPN + 既有页交叉核）═══ -->
 <!-- ⚠ 伪新 blindspot（label「The」前缀致红链）：north-pole（label「The North Pole」，broken-link [[North Pole]]×11）+ great-eyrie（label「The Great Eyrie」，[[Great Eyrie]]）——均既建 Pilot 页，**非新候选**；R120 已 edit_page 补 alias「North Pole」「Great Eyrie」解红链（north-pole rev ugJBtN / great-eyrie rev vTj3Zy）。归 HK-discover-existing-type-blindspot（label-prefix 变体）。 -->
-- [place] South Pole — SCN28 R120；35 distinctPN（real；南极点；TTLU Nemo 立旗 + ACH 对照 Erebus/Terror；建前核 north-pole 对称写法，剔月面/磁极隐喻句）
-- [place] Florida — SCN28 R120；52 distinctPN（real；FEM 发射地 Tampa/Stony Hill 所在州 + 跨源；建前剔 Florida Strait 混引，核与既有 tampa-town/stony-hill 关系）
-- [place] Kamtchatka — SCN28 R120；23 distinctPN（real；西伯利亚半岛；建前核船名/异地同名）
-- [place] Timbuctoo — SCN28 R120；22 distinctPN（real；FWB 非洲名城；alias Timbuktu/Tombouctou）
-- [place] Chicago — SCN28 R120；8 distinctPN（real；美国城；建前剔泛指/铁路并列句）
+<!-- ✔ [place] South Pole — 已建 south-pole（rev CN7mLW，real，region Antarctic，页内引注 9：TTLU-037-022/037-054/037-071/037-074/038-009/038-074/038-094/045-044、SC-031-011、GM-003-029；label「South Pole」裸名避 label-prefix 盲区；剔 RM 月面南极 PN）R121 -->
+<!-- ✔ [place] Florida — 已建 florida（rev JiVza6，real，region Southeastern United States，页内引注 9：FEM-011-016/011-017/011-026/012-034/013-020/013-021/027-002/027-003、RM-004-097、TTLU-035-003；alias Pascha Florida；链 gun-club/tampa-town/stony-hill/columbiad）R121 -->
+<!-- ✔ [place] Kamtchatka — 已建 kamtchatka（rev 11Qwkq，real，region Russian Far East，页内引注 9：FC-008-022/008-024/015-025/016-019/025-025/029-012/033-013/033-026/040-015；namesake「Kamtchatka Current」为特征非同名陷阱）R121 -->
+<!-- ✔ [place] Timbuctoo — 已建 timbuctoo（rev BxFzWZ，real，region West Africa，页内引注 9：FWB-037-041/037-043/038-018/038-029/038-041/039-002/039-012/039-016/039-019/039-022/040-026；alias Timbuktu）R121 -->
+<!-- ✔ [place] Chicago — 已建 chicago（rev 8Et6kp，real，region United States，页内引注 7：AWED-031-016/031-034/031-036/031-037、RC-009-010、MW-004-013、GM-002-036；无同名陷阱）R121 -->
 - [place] Salt Lake City — SCN28 R120；5 distinctPN（real；AWED 摩门篇犹他城；borderline 5 恰达门，建前逐句核确指）
 <!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
 <!-- ✔ [place] Prospect Heights — 已建 prospect-heights（rev SxKQ05）-->
