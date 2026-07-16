@@ -27,14 +27,15 @@
 - [place] Richmond — SCN28 R122；30 distinctPN（⚠建前消歧：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指）
 - [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
 - [place] Adelaide — SCN28 R122；10 distinctPN（real；澳洲南澳城；SC 环航篇；⚠核 Adelaide Land 南极岸/人名同名）
-- [place] New Orleans — SCN28 R122；9 distinctPN（real；美国路州城）
-- [place] Quebec — SCN28 R122；9 distinctPN（real；加拿大城/省；建前核城 vs 省）
-- [place] Rio de Janeiro — SCN28 R122；8 distinctPN（real；巴西城）
-- [place] Labrador — SCN28 R122；8 distinctPN（real；加拿大半岛/地区）
+<!-- ✔ [place] New Orleans — 已建 new-orleans（rev NrzoNq，FEM real，region United States，页内引注 9：FEM-003-009/013-004/014-002+AMB-001-008+BR-001-052+SC2-001-004+WC-021-015+MW-018-004；密西西比河口大港，接 mississippi/tampa-town/new-york/from-the-earth-to-the-moon/the-blockade-runners/the-waif-of-the-cynthia）R124 -->
+<!-- ✔ [place] Quebec — 已建 quebec（rev P1HzAJ，TTLU real，region Canada，页内引注 9：TTLU-004-011/043-021/008-054/014-030+RC-008-017/008-036/021-017+FC-002-020+AM-010-027；Ned Land 故乡，接 ned-land/albatross/montreal/robur-the-conqueror/the-fur-country/twenty-thousand-leagues）R124 -->
+<!-- ✔ [place] Rio de Janeiro — 已建 rio-de-janeiro（rev CqXunV，EHLA real，region Brazil，页内引注 7：EHLA-034-002/036-041/037-006/039-018/039-041/012-055/019-031；巴西司法/商业首府，接 belem/amazon/eight-hundred-leagues-on-the-amazon）R124 -->
+<!-- ✔ [place] Labrador — 已建 labrador（rev ESsYEk，ACH real，region North America，页内引注 7：ACH-004-016/005-064/012-051+TT-001-062+WC-015-035+FC-014-032/015-015[namesake tea/stones]；亚北极海岸，接 newfoundland/greenland/cape-farewell/the-adventures-of-captain-hatteras/the-waif-of-the-cynthia/the-fur-country）R124 -->
 - [place] Perth — SCN28 R122；7 distinctPN（⚠建前消歧：Perth 西澳 vs Perth 苏格兰）
-- [place] Tasmania — SCN28 R122；7 distinctPN（real；澳洲岛州；建前核 Van Diemen's Land 别名）
+<!-- ✔ [place] Tasmania — 已建 tasmania（rev DpiVOe，SC real，region Oceania，页内引注 7：SC-038-063/033-085+DSCF-001-004+AM-026-019/013-017+MI-012-038+ACH-012-051；澳南英属岛州，接 australia/cape-horn/new-zealand/in-search-of-the-castaways）R124 -->
 - [place] Sydney — SCN28 R122；6 distinctPN（real；澳洲新州城；⚠核 Cape Sidney/人名同名）
-- [place] Detroit — SCN28 R122；6 distinctPN（real；美国密州城）
+<!-- ✗ [place] Detroit — 弃建 R124：6 distinctPN 全指 Detroit River（水道），city 本身零直接引注；detroit-river 页已于 R62 建成（rev 8PubXu）。无独立 grounding，declined -->
+- [place] Detroit — ✗ declined R124（全 6 PN 指 Detroit River；detroit-river 页已存在，city 无独立引注）
 - [place] Vancouver — SCN28 R122；6 distinctPN（⚠建前消歧：Vancouver Island 岛 vs 城 vs George Vancouver 人）
 - [place] Madras — SCN28 R122；5 distinctPN（real；印度城；borderline 5 恰达门，建前逐句核）
 <!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
