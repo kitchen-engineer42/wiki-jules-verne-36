@@ -179,6 +179,13 @@
 <!-- ✔ [place] Island of Sein — 已建 island-of-sein（rev fZelm8，WC real，段级 5；Île de Sein 布列塔尼礁岛，Alaska 失事处）R56 -->
 <!-- ✔ [place] Icy Cape — 已建 icy-cape（rev QTfZa7，FC real，段级 5；阿拉斯加岬，接 victoria-island 漂流簇）R56 -->
 
+<!-- ═══ R57 SCN28 表层复扫（queue=6<10 触发）：standard 门（distinctPN≥5）**new_candidates=0** ═══ -->
+<!-- 全 36 部标记扫描，排除 116 既有 place + 在队候选 + 变体后，≥5 单源 0 枚（仅 Port Gr=已建 port-grauben 截断 / Lake Tanganyika=既有 R47 两误报）。discover_streak_low 0→1，place 关闭倒计时启动（streak≥3 触发 CLOSE）。 -->
+<!-- 3–4 distinctPN 富矿带（sub-standard，单源不达 ≥5，暂 hold，多为 ACH 北极海峡簇 / RM 月海 / SC 岬）：
+     [4] Sea of Kara(WC) / Reao Island(TTLU) / Black Point(SC) / Pitt Island(RC) / Cape Mandible(MI) / Axel Island(JCE) / Fort Enterprise(FC) / White Point(BR) / Charleston Harbour(BR) / Nantucket Island(AM) / Smith's Straits·Port Leopold·McClintock Channel·Jones' Sound·Isle Johnson(ACH)
+     [3] Liverpool Island·Hamkes Bay·Cape Brewster(WAI) / Tuamotu Islands·Mannar Island·Bay of Bengal(TTLU) / Mount Ikirangi·Mount Hottam·Cape Pilares·Blue Mountains·Bay of Talcahuano(SC) / Sea of Serenity·Sea of Nectar·Sea of Humours(RM) / Catawba River·Canadian Falls(MW) / Senegal River·Mount Duthumi(FWB) / Paulina River·Fort Franklin·Cape Prince(FC) / Fort Moultrie(BR) / Wellington Strait·Queen's Channel·Peel Strait·Northumberland Bay·Cornwallis Island·Cape York·Cape Dundas(ACH) 等。
+     下次深扫（SCN28-corpus, since_corpus→30 @~R62）或跨源净分可复议升格；标准复扫已穷尽 ≥5 单源 place。 -->
+
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
