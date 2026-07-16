@@ -303,8 +303,8 @@
 <!-- ✔ [place] Caucasus — 已建 caucasus（rev ochltK，MS real，页内引注 6；山脉屏障/Transcaucasia 门户/Strogoff 早年历练/山货山犬，book Michael Strogoff，region Transcaucasia；**多实体筛：MS "the Caucasus" 主体系汽船名，仅引 ASC+MS 山区确指句 6 枚，剔全部船名引**）R107 -->
 - [place] Guiana — 跨源 EHLA；9 distinctPN（real；圭亚那/四圭亚那）
 <!-- 城市层（城市页密集顾虑，建页前评 link 密度）-->
-- [place] New York — WC:27/AWED:25/ASC:12/TTLU:14/TT:10；137 distinctPN（real；纽约城；主作待择）
-- [place] Paris — ASC:19/TTLU:17/TT:11/AWED:10/RC:10；121 distinctPN（real；巴黎；主作待择）
+<!-- ✔ [place] New York — 已建 new-york（rev 10zt4V，WC real，页内引注 8；美东大西洋门户/跨洋汽船枢纽/Cynthia 调查地/Broadway，alias New York City，book The Waif of the Cynthia，region United States (New York)）R108 -->
+<!-- ✔ [place] Paris — 已建 paris（rev 45yIVv，AWED real，页内引注 8；Fogg 环球首站/Passepartout 故里/Boulevard des Italiens，book Around the World in Eighty Days，region France）R108 -->
 <!-- ✔ [place] Moscow — 已建 moscow（rev 2dlPnY，MS real，页内引注 6；MS 起点城/Kremlin/Moscow-Irkutsk 3400 里程起点，book Michael Strogoff，region Russia）R104 -->
 <!-- ✔ [place] Hamburg — 已建 hamburg（rev *，JCE real，页内引注 5；Liedenbrock 故乡 Königstrasse/下潜起点，book A Journey to the Center of the Earth，region Germany）R106 -->
 <!-- ⏸ [place] Rome — HOLD（R106 核：25 distinctPN 但 16 源极散，且大量比喻/明喻——"Rome of Islam"=Bokhara、"Rome of Turkestan"、"all roads/meridians lead to Rome"、"Jesuits of Rome"；真罗马城确指句剔比喻后 <5。待专项凑真城确指句后再评。多实体筛：Rome 明喻系。）R106 -->
@@ -315,11 +315,11 @@
 <!-- ✔ [place] Marseilles — 已建 marseilles（rev kBFWPC，JCE real，页内引注 6；地中海归航登陆港/Volturno 汽船/Provençal 金枪鱼渔场/Peysonnel，alias Marseille，book A Journey to the Center of the Earth，region France；剔 TTLU-031-036 伪匹配）R107 -->
 <!-- ✔ [place] Bordeaux — 已建 bordeaux（rev wzqaua，AWED real，页内引注 8；Gironde 河港/Fogg Henrietta 目标港/D'Arbelet 气球升空地，book Around the World in Eighty Days，region France；剔 OC "wines of Bordeaux" 产品指）R107 -->
 - [place] Berlin — 跨源；8 distinctPN（real；柏林）
-- [place] Athens — 跨源；8 distinctPN（real；雅典；核 Athens vs Athenian demonym）
+<!-- ⏸ [place] Athens — HOLD（R108 核：8 distinctPN 但 6+ 为「Athens of X」称号/明喻系——"Athens of India"=Benares、"Northern/Modern Athens"=Edinburgh、"Athens of the North"=Stockholm/Krasnoiarsk；真雅典城确指仅 ASC-017-036(37°线)/UC-014-069(Parthenon at Athens)/TTLU-033-062(古雅典) ≈2-3<门。多实体筛：Athens 称号系。待专项凑真城句后再评。）R108 -->
 - [place] Vienna — 跨源；7 distinctPN（real；维也纳）
-- [place] Madrid — 跨源；7 distinctPN（real；马德里）
-- [place] Lisbon — 跨源；7 distinctPN（real；里斯本）
-- [place] Constantinople — 跨源；7 distinctPN（real；君士坦丁堡）
+<!-- ✔ [place] Madrid — 已建 madrid（rev 5h0a8u，WC real，页内引注 6；WC 电报中继地/OC 彗星撕走旧址/Philip V 维哥宝藏令，book The Waif of the Cynthia，region Spain）R108 -->
+<!-- ✔ [place] Lisbon — 已建 lisbon（rev Cr2UaH，DSCF real，页内引注 5；DSCF 殖民政府/大西洋港/Volador 飞僧，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Portugal）R108 -->
+<!-- ✔ [place] Constantinople — 已建 constantinople（rev x8wIdh，FEM real，页内引注 5；1453 攻城巨炮史/Ottoman Bank/Flying Saracen，book From the Earth to the Moon，region Ottoman Empire (Turkey)；剔 MS "City of Constantinople" 客栈招牌名）R108 -->
 - [place] Calais — 跨源；6 distinctPN（real；加莱）
 <!-- 河流/沙漠/山脉层 -->
 <!-- ✔ [place] Nile — 已建 nile（rev U2jWgx，FWB real，页内引注 6；源之谜=气球航行地理母题/great lakes 源，book Five Weeks in a Balloon，region Africa）R104 -->

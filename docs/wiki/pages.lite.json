@@ -1530,6 +1530,12 @@
       "aliases": [],
       "path": "co/conseil.md"
     },
+    "constantinople": {
+      "type": "place",
+      "label": "Constantinople",
+      "aliases": [],
+      "path": "co/constantinople.md"
+    },
     "coronation-gulf": {
       "type": "place",
       "label": "Coronation Gulf",
@@ -4122,6 +4128,12 @@
       "aliases": [],
       "path": "li/lincoln-island.md"
     },
+    "lisbon": {
+      "type": "place",
+      "label": "Lisbon",
+      "aliases": [],
+      "path": "li/lisbon.md"
+    },
     "liverpool": {
       "type": "place",
       "label": "Liverpool",
@@ -4167,6 +4179,12 @@
       "label": "Madagascar",
       "aliases": [],
       "path": "ma/madagascar.md"
+    },
+    "madrid": {
+      "type": "place",
+      "label": "Madrid",
+      "aliases": [],
+      "path": "ma/madrid.md"
     },
     "manaos": {
       "type": "place",
@@ -5046,6 +5064,14 @@
       "aliases": [],
       "path": "ne/new-aberfoyle.md"
     },
+    "new-york": {
+      "type": "place",
+      "label": "New York",
+      "aliases": [
+        "New York City"
+      ],
+      "path": "ne/new-york.md"
+    },
     "new-zealand": {
       "type": "place",
       "label": "New Zealand",
@@ -5478,6 +5504,12 @@
       "label": "Pamlico Sound",
       "aliases": [],
       "path": "pa/pamlico-sound.md"
+    },
+    "paris": {
+      "type": "place",
+      "label": "Paris",
+      "aliases": [],
+      "path": "pa/paris.md"
     },
     "passepartout": {
       "type": "character",
@@ -8757,6 +8789,8 @@
     "Congo": "congo",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "constantinople": "constantinople",
+    "Constantinople": "constantinople",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
     "creek-glycerine": "creek-glycerine",
@@ -9348,6 +9382,8 @@
     "Balloon Castaways' Landing": "lincoln-island-landing",
     "lincoln-island": "lincoln-island",
     "Lincoln Island": "lincoln-island",
+    "lisbon": "lisbon",
+    "Lisbon": "lisbon",
     "liverpool": "liverpool",
     "Liverpool": "liverpool",
     "loch-katrine": "loch-katrine",
@@ -9364,6 +9400,8 @@
     "aluminium projectile": "lunar-projectile",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
+    "madrid": "madrid",
+    "Madrid": "madrid",
     "manaos": "manaos",
     "Manaos": "manaos",
     "Manaus": "manaos",
@@ -9543,6 +9581,9 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-york": "new-york",
+    "New York": "new-york",
+    "New York City": "new-york",
     "new-zealand": "new-zealand",
     "New Zealand": "new-zealand",
     "niagara-falls": "niagara-falls",
@@ -9649,6 +9690,8 @@
     "Roof of the World": "pamir",
     "pamlico-sound": "pamlico-sound",
     "Pamlico Sound": "pamlico-sound",
+    "paris": "paris",
+    "Paris": "paris",
     "passepartout": "passepartout",
     "Passepartout": "passepartout",
     "Jean Passepartout": "passepartout",
@@ -10305,6 +10348,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1338,
-  "generated": "2026-07-16T07:12:47Z"
+  "page_count": 1343,
+  "generated": "2026-07-16T07:23:48Z"
 }
