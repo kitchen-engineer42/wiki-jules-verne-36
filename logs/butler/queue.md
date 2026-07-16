@@ -258,13 +258,13 @@
 <!-- ✔ [place] Omaha — 已建 omaha（rev *，AWED real，页内引注 5；Union Pacific 东端/内布拉斯加，region United States (Nebraska)）R81 -->
 <!-- ✔ [place] Liverpool — 已建 liverpool（rev *，AWED real，页内引注 5；Fogg 归国登陆港/距伦敦 6 小时，region England）R81 -->
 <!-- ✔ [place] Suez — 已建 suez（rev *，AWED real，页内引注 5；Lesseps 运河镇/Fix 候船拦截，region Egypt）R81 -->
-- [place] Auckland — SC:31；奥克兰（real 新西兰；SC 北岛海岸目标港）
-- [place] Shanghai — AWED:11；上海（real 中国；AWED 领航船目标港）
-- [place] Singapore — AWED:10；新加坡（real；AWED 印度洋-太平洋中转港）
+<!-- ✔ [place] Auckland — 已建 auckland（rev *，SC real，页内引注 5；NZ 北岛港/37°线目标/Macquarie 目的地，region New Zealand）R82 -->
+<!-- ✔ [place] Shanghai — 已建 shanghai（rev *，AWED real，页内引注 5；太平洋邮轮始发港/Fogg 沿岸北上，region China）R82 -->
+<!-- ✔ [place] Singapore — 已建 singapore（rev *，AWED real，页内引注 5；Rangoon 加煤港/Fix 电报站，region Singapore）R82 -->
 - [place] Ega — EHLA:14；埃加（real 巴西亚马逊镇；EHLA jangada 停靠地）
 - [place] Zabediero — MS:11；扎别季耶罗（real 西伯利亚村；MS 8/15 convoy 抵达地）
-- [place] Allahabad — AWED:14；阿拉哈巴德（real 印度；Fogg 铁路中断处）
-- [place] Benares — AWED:8；贝拿勒斯（real 印度；Fogg 恒河圣城站）
+<!-- ✔ [place] Allahabad — 已建 allahabad（rev *，AWED real，页内引注 5；GIP 铁路 50 英里缺口/大象接驳终点，region India）R82 -->
+<!-- ✔ [place] Benares — 已建 benares（rev *，AWED real，页内引注 5；恒河圣城/Cromarty 离队站，region India）R82 -->
 
 <!-- ═══ R73 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Semipolatinsk — 已建 semipolatinsk（rev KP2OU0，MS real，页内引注 5 恰达门；伊尔蒂什河畔西伯利亚政府/Cossack 军镇，region Siberia (Irtish valley)）R74 -->

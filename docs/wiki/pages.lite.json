@@ -399,6 +399,12 @@
       ],
       "path": "al/aleutian-islands.md"
     },
+    "allahabad": {
+      "type": "place",
+      "label": "Allahabad",
+      "aliases": [],
+      "path": "al/allahabad.md"
+    },
     "altamont-harbour": {
       "type": "place",
       "label": "Altamont Harbour",
@@ -781,6 +787,12 @@
       "aliases": [],
       "path": "at/atlantic-ocean.md"
     },
+    "auckland": {
+      "type": "place",
+      "label": "Auckland",
+      "aliases": [],
+      "path": "au/auckland.md"
+    },
     "AWED-ch01": {
       "type": "chapter",
       "label": "Around the World in Eighty Days — CHAPTER I",
@@ -1102,6 +1114,12 @@
       "label": "Bellot Strait",
       "aliases": [],
       "path": "be/bellot-strait.md"
+    },
+    "benares": {
+      "type": "place",
+      "label": "Benares",
+      "aliases": [],
+      "path": "be/benares.md"
     },
     "bergen": {
       "type": "place",
@@ -6454,6 +6472,12 @@
       "aliases": [],
       "path": "se/serpentine-peninsula.md"
     },
+    "shanghai": {
+      "type": "place",
+      "label": "Shanghai",
+      "aliases": [],
+      "path": "sh/shanghai.md"
+    },
     "shannon-island": {
       "type": "place",
       "label": "Shannon Island",
@@ -6593,6 +6617,12 @@
       "label": "The Secret of the Island — CHAPTER TWENTY",
       "aliases": [],
       "path": "si/SI-ch20.md"
+    },
+    "singapore": {
+      "type": "place",
+      "label": "Singapore",
+      "aliases": [],
+      "path": "si/singapore.md"
     },
     "smiths-straits": {
       "type": "place",
@@ -7982,6 +8012,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "allahabad": "allahabad",
+    "Allahabad": "allahabad",
     "altamont-harbour": "altamont-harbour",
     "Altamont Harbour": "altamont-harbour",
     "AM-ch01": "AM-ch01",
@@ -8058,6 +8090,8 @@
     "ASC-ch27": "ASC-ch27",
     "atlantic-ocean": "atlantic-ocean",
     "Atlantic Ocean": "atlantic-ocean",
+    "auckland": "auckland",
+    "Auckland": "auckland",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -8133,6 +8167,8 @@
     "Para": "belem",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
+    "benares": "benares",
+    "Benares": "benares",
     "bergen": "bergen",
     "Bergen": "bergen",
     "black-rock-creek": "black-rock-creek",
@@ -9317,6 +9353,8 @@
     "Semipolatinsk": "semipolatinsk",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shanghai": "shanghai",
+    "Shanghai": "shanghai",
     "shannon-island": "shannon-island",
     "Shannon Island": "shannon-island",
     "shark-gulf": "shark-gulf",
@@ -9344,6 +9382,8 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "singapore": "singapore",
+    "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
     "Smith's Straits": "smiths-straits",
     "Smith's Strait": "smiths-straits",
@@ -9654,6 +9694,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1262,
-  "generated": "2026-07-16T04:29:40Z"
+  "page_count": 1267,
+  "generated": "2026-07-16T04:35:19Z"
 }
