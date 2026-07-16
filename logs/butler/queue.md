@@ -29,8 +29,10 @@
 <!-- ✔ [place] Richmond — 已建 richmond（rev aSjsb5，The Mysterious Island real，region Virginia，页内引注 8：MI-002-002/002-004/002-009/002-010/002-018/030-042、BR-008-067、AM-005-001；Grant 围困之邦联首府/气球脱逃起点/Richmond cabinet；确指 VA 无 Richmond upon Thames 伦敦混入；接 the-mysterious-island/cyrus-harding/lincoln-island/the-blockade-runners）R126 -->
 <!-- ✔ Richmond consumed R126 -->
 - [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
-- [place] Mont Blanc — SCN28 R128 新增；**41 distinctPN**（AMB:33 专篇《The Ascent of Mont Blanc》+ FEM/MI/OC/RM/SC 跨源）；欧洲最高峰、Chamonix 登顶叙事主体；与既有 alps（山链页 rev vR6O4P，alias the Alps）判然不同（本页为具体峰体）；强候选，下轮 NEW1 优先建
-- [place] Bay of Bengal — SCN28 R128 由 hold 升可建；distinctPN=5 恰达门（AWED-016-005 Andaman 群岛所在湾 + TTLU-014-028/025-040/026-011 Nemo 珍珠场/黑潮/浮尸 + RM-010-016 月面视 Earth 认真湾）；⚠ RM 一引为「从月看地」远指真湾（偏 oblique），4 叙事确指 + 1 地理命名恰 5；较 R89 之 4<门升格（RM 复核为真湾命名而非月面隐喻）；孟加拉湾（real）
+<!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
+<!-- ✔ Mont Blanc consumed R129 -->
+<!-- ✔ [place] Bay of Bengal — 已建 bay-of-bengal（rev zjp3jz，Twenty Thousand Leagues real，region Indian Ocean，页内引注 5：TTLU-014-028/025-040/026-011、AWED-016-005、RM-010-016；Nemo 珍珠场/黑潮源/恒河浮尸/Andaman 群岛/从月看地认真湾；⚠ RM 偏 oblique，AWED+TTLU 4 确指为主干；接 indian-ocean/nautilus/captain-nemo/twenty-thousand-leagues/around-the-world-in-eighty-days/round-the-moon）R129 -->
+<!-- ✔ Bay of Bengal consumed R129 -->
 <!-- ✔ [place] Adelaide — 已建 adelaide（rev vNw7Cb，SC real，region South Australia，页内引注 8：SC-032-004/032-005/032-037/035-002/035-007/030-023/038-034+RC-001-030；剔 TTLU-038-094 南极 Adelaide Land + ACH-015-010 北极 Adelaide Bay 同名；接 sydney/melbourne/in-search-of-the-castaways）R125 -->
 <!-- ✔ Adelaide consumed R125 -->
 <!-- ✔ [place] New Orleans — 已建 new-orleans（rev NrzoNq，FEM real，region United States，页内引注 9：FEM-003-009/013-004/014-002+AMB-001-008+BR-001-052+SC2-001-004+WC-021-015+MW-018-004；密西西比河口大港，接 mississippi/tampa-town/new-york/from-the-earth-to-the-moon/the-blockade-runners/the-waif-of-the-cynthia）R124 -->
@@ -274,7 +276,7 @@
 - [place] Long Island — 真 NY 岛仅 TTLU:3+AWED:1=4<门（ASC:2 为里海 Uzun Ada 异地同名）；R89 重核确认；长岛（real；续 hold，凑不齐 5 确指句）
 <!-- ✔ [place] Goat Island — 已建 goat-island（rev Dv9GUK，跨源 MW:4/RC:2，页内引注 6；尼亚加拉河山羊岛/美加瀑布分界，book The Master of the World，region New York）R75 -->
 <!-- ↑ [place] Bay of Bengal — R128 SCN28 由此 hold 升可建（见上方 R128 新增区）：RM-010-016 复核为「从月看地」真湾命名（非月面隐喻），distinctPN 达 5。原 R89 hold 记录留存备查 -->
-- [place] Bay of Bengal — 真湾 TTLU:3+AWED:1=4<门（RM-010-016 为月面白斑隐喻，非真湾）；R89 重核确认；孟加拉湾（real；续 hold）→ **R128 升可建**
+<!-- ✔ [place] Bay of Bengal — R129 已建 bay-of-bengal（见上方 R129 consumed 区）。原 R89 hold 记录留存备查 -->
 <!-- ✔ [place] Cape Bon — 已建 cape-bon（rev j6RcwT，跨源 OC/RC/TTLU real，页内引注 5 全数词边界核；非洲最北岬/近西西里，book Off on a Comet，region Tunisia）R90 -->
 <!-- ✘ [place] Kara Sea — R89 词边界重核仅 TTLU:1（TTLU-046-009 列举句），原「Sea of Kara」agg 5 系「kara」子串污染 → 剔除，不建 -->
 

@@ -1210,6 +1210,12 @@
       "aliases": [],
       "path": "ba/barrow-strait.md"
     },
+    "bay-of-bengal": {
+      "type": "place",
+      "label": "Bay of Bengal",
+      "aliases": [],
+      "path": "ba/bay-of-bengal.md"
+    },
     "bay-of-talcahuano": {
       "type": "place",
       "label": "Bay of Talcahuano",
@@ -4933,6 +4939,12 @@
       "label": "Mongolia",
       "aliases": [],
       "path": "mo/mongolia.md"
+    },
+    "mont-blanc": {
+      "type": "place",
+      "label": "Mont Blanc",
+      "aliases": [],
+      "path": "mo/mont-blanc.md"
     },
     "montreal": {
       "type": "place",
@@ -9157,6 +9169,8 @@
     "President Barbicane": "barbicane",
     "barrow-strait": "barrow-strait",
     "Barrow Strait": "barrow-strait",
+    "bay-of-bengal": "bay-of-bengal",
+    "Bay of Bengal": "bay-of-bengal",
     "bay-of-talcahuano": "bay-of-talcahuano",
     "Bay of Talcahuano": "bay-of-talcahuano",
     "Talcahuano": "bay-of-talcahuano",
@@ -10071,6 +10085,8 @@
     "Mississippi River": "mississippi",
     "mongolia": "mongolia",
     "Mongolia": "mongolia",
+    "mont-blanc": "mont-blanc",
+    "Mont Blanc": "mont-blanc",
     "montreal": "montreal",
     "Montreal": "montreal",
     "morganton": "morganton",
@@ -10986,6 +11002,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1411,
-  "generated": "2026-07-16T10:47:26Z"
+  "page_count": 1413,
+  "generated": "2026-07-16T11:10:10Z"
 }
