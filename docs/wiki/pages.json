@@ -3403,6 +3403,31 @@
       "book": "From the Earth to the Moon",
       "total_refs": 35
     },
+    "baraba": {
+      "type": "place",
+      "label": "Baraba",
+      "aliases": [
+        "Baraba Steppe"
+      ],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "real-place"
+      ],
+      "path": "ba/baraba.md",
+      "description": "A vast swampy steppe district of Western Siberia between the Obi and the Irtych, dreaded for its marshes and insects in Michael Strogoff.",
+      "prose_len": 1309,
+      "prose_chars": 1219,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "barbicane": {
       "type": "character",
       "label": "Impey Barbicane",
@@ -10912,6 +10937,29 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 48
     },
+    "ichim": {
+      "type": "place",
+      "label": "Ichim",
+      "aliases": [],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "real-place"
+      ],
+      "path": "ic/ichim.md",
+      "description": "A Western Siberian post-town on the road from Ekaterenburg to Irkutsk, a waypoint for the couriers and correspondents in Michael Strogoff.",
+      "prose_len": 1289,
+      "prose_chars": 1199,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "icy-cape": {
       "type": "place",
       "label": "Icy Cape",
@@ -11073,7 +11121,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 4
     },
     "island-of-ljakow": {
       "type": "place",
@@ -12097,6 +12145,29 @@
       "quality_score": 67,
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
+    },
+    "kolyvan": {
+      "type": "place",
+      "label": "Kolyvan",
+      "aliases": [],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "real-place"
+      ],
+      "path": "ko/kolyvan.md",
+      "description": "A Western Siberian town on the telegraph line between Tomsk and Krasnoiarsk, and the place where Michael Strogoff is captured in Michael Strogoff.",
+      "prose_len": 1334,
+      "prose_chars": 1244,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 1
     },
     "lake-baikal": {
       "type": "place",
@@ -13986,7 +14057,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 5
+      "total_refs": 10
     },
     "michel-ardan": {
       "type": "character",
@@ -16516,7 +16587,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 5
     },
     "oxyhydric-gas": {
       "type": "technology",
@@ -20899,6 +20970,29 @@
       "book": "Round the Moon",
       "total_refs": 1
     },
+    "semipolatinsk": {
+      "type": "place",
+      "label": "Semipolatinsk",
+      "aliases": [],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "real-place"
+      ],
+      "path": "se/semipolatinsk.md",
+      "description": "A Siberian government and town on the Irtish, overrun during the Tartar invasion in Michael Strogoff.",
+      "prose_len": 1357,
+      "prose_chars": 1267,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -22586,6 +22680,29 @@
       "quality_score": 336,
       "total_refs": 0
     },
+    "tobolsk": {
+      "type": "place",
+      "label": "Tobolsk",
+      "aliases": [],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "real-place"
+      ],
+      "path": "to/tobolsk.md",
+      "description": "A government of Western Siberia and one of its chief towns, whose loyal Cossacks march to resist the Tartar invasion in Michael Strogoff.",
+      "prose_len": 1375,
+      "prose_chars": 1285,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 1
+    },
     "tomsk": {
       "type": "place",
       "label": "Tomsk",
@@ -22606,7 +22723,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 4
     },
     "top": {
       "type": "character",
@@ -25760,6 +25877,9 @@
     "Baffin's Sea": "baffin-bay",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
+    "baraba": "baraba",
+    "Baraba": "baraba",
+    "Baraba Steppe": "baraba",
     "barbicane": "barbicane",
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
@@ -26275,6 +26395,8 @@
     "The Ice Bank": "ice-bank",
     "iceland": "iceland",
     "Iceland": "iceland",
+    "ichim": "ichim",
+    "Ichim": "ichim",
     "icy-cape": "icy-cape",
     "Icy Cape": "icy-cape",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
@@ -26355,6 +26477,8 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
+    "kolyvan": "kolyvan",
+    "Kolyvan": "kolyvan",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -26920,6 +27044,8 @@
     "sea-of-rains": "sea-of-rains",
     "Sea of Rains": "sea-of-rains",
     "Mare Imbrium": "sea-of-rains",
+    "semipolatinsk": "semipolatinsk",
+    "Semipolatinsk": "semipolatinsk",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shannon-island": "shannon-island",
@@ -27072,6 +27198,8 @@
     "TN-ch20": "TN-ch20",
     "TOC": "TOC",
     "Table of Contents": "TOC",
+    "tobolsk": "tobolsk",
+    "Tobolsk": "tobolsk",
     "tomsk": "tomsk",
     "Tomsk": "tomsk",
     "top": "top",
@@ -27245,6 +27373,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1233,
-  "generated": "2026-07-16T03:38:40Z"
+  "page_count": 1238,
+  "generated": "2026-07-16T03:52:50Z"
 }

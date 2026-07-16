@@ -1032,6 +1032,14 @@
       "aliases": [],
       "path": "ba/baltimore.md"
     },
+    "baraba": {
+      "type": "place",
+      "label": "Baraba",
+      "aliases": [
+        "Baraba Steppe"
+      ],
+      "path": "ba/baraba.md"
+    },
     "barbicane": {
       "type": "character",
       "label": "Impey Barbicane",
@@ -3294,6 +3302,12 @@
       "aliases": [],
       "path": "ic/iceland.md"
     },
+    "ichim": {
+      "type": "place",
+      "label": "Ichim",
+      "aliases": [],
+      "path": "ic/ichim.md"
+    },
     "icy-cape": {
       "type": "place",
       "label": "Icy Cape",
@@ -3653,6 +3667,12 @@
       "label": "Kazounde",
       "aliases": [],
       "path": "ka/kazounde.md"
+    },
+    "kolyvan": {
+      "type": "place",
+      "label": "Kolyvan",
+      "aliases": [],
+      "path": "ko/kolyvan.md"
     },
     "lake-baikal": {
       "type": "place",
@@ -6308,6 +6328,12 @@
       ],
       "path": "se/sea-of-rains.md"
     },
+    "semipolatinsk": {
+      "type": "place",
+      "label": "Semipolatinsk",
+      "aliases": [],
+      "path": "se/semipolatinsk.md"
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -6831,6 +6857,12 @@
       "label": "Table of Contents",
       "aliases": [],
       "path": "to/TOC.md"
+    },
+    "tobolsk": {
+      "type": "place",
+      "label": "Tobolsk",
+      "aliases": [],
+      "path": "to/tobolsk.md"
     },
     "tomsk": {
       "type": "place",
@@ -7925,6 +7957,9 @@
     "Baffin's Sea": "baffin-bay",
     "baltimore": "baltimore",
     "Baltimore": "baltimore",
+    "baraba": "baraba",
+    "Baraba": "baraba",
+    "Baraba Steppe": "baraba",
     "barbicane": "barbicane",
     "Impey Barbicane": "barbicane",
     "Barbicane": "barbicane",
@@ -8440,6 +8475,8 @@
     "The Ice Bank": "ice-bank",
     "iceland": "iceland",
     "Iceland": "iceland",
+    "ichim": "ichim",
+    "Ichim": "ichim",
     "icy-cape": "icy-cape",
     "Icy Cape": "icy-cape",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
@@ -8520,6 +8557,8 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
+    "kolyvan": "kolyvan",
+    "Kolyvan": "kolyvan",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -9085,6 +9124,8 @@
     "sea-of-rains": "sea-of-rains",
     "Sea of Rains": "sea-of-rains",
     "Mare Imbrium": "sea-of-rains",
+    "semipolatinsk": "semipolatinsk",
+    "Semipolatinsk": "semipolatinsk",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shannon-island": "shannon-island",
@@ -9237,6 +9278,8 @@
     "TN-ch20": "TN-ch20",
     "TOC": "TOC",
     "Table of Contents": "TOC",
+    "tobolsk": "tobolsk",
+    "Tobolsk": "tobolsk",
     "tomsk": "tomsk",
     "Tomsk": "tomsk",
     "top": "top",
@@ -9410,6 +9453,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1233,
-  "generated": "2026-07-16T03:38:40Z"
+  "page_count": 1238,
+  "generated": "2026-07-16T03:52:50Z"
 }

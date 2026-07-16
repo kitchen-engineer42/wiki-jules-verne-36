@@ -237,14 +237,19 @@
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
 <!-- ═══ R73 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
-- [place] Semipolatinsk — MS:5（恰达门）；西伯利亚/今哈萨克 Semey（real；MS 军政要地，与 Omsk/Tobolsk 并列）
-- [place] Tobolsk — MS:14；西西伯利亚托博尔斯克（real；MS Cossack 政府所在）
-- [place] Kolyvan — MS:47；西西伯利亚科雷万（real；MS Michael 被俘地/电报站）
-- [place] Ichim — MS:38；西西伯利亚伊希姆（real；MS 驿站，Ogareff 鞭击场景地）
-- [place] Baraba — MS:14；西西伯利亚巴拉巴草原（real；MS 沼泽地带 region）
+<!-- ✔ [place] Semipolatinsk — 已建 semipolatinsk（rev KP2OU0，MS real，页内引注 5 恰达门；伊尔蒂什河畔西伯利亚政府/Cossack 军镇，region Siberia (Irtish valley)）R74 -->
+<!-- ✔ [place] Tobolsk — 已建 tobolsk（rev FU9QBq，MS real，页内引注 7；西西伯利亚政府/忠诚 Cossack 出兵地，region Western Siberia）R74 -->
+<!-- ✔ [place] Kolyvan — 已建 kolyvan（rev SsyuOj，MS real，页内引注 8；Tomsk-Krasnoiarsk 电报线镇/Michael 被俘地，region Western Siberia）R74 -->
+<!-- ✔ [place] Ichim — 已建 ichim（rev 8LYuvp，MS real，页内引注 7；Ekaterenburg-Irkutsk 路驿站镇/记者驻停地，region Western Siberia）R74 -->
+<!-- ✔ [place] Baraba — 已建 baraba（rev CSm5sl，MS real，页内引注 7；Obi/Irtych 间沼泽 steppe，alias Baraba Steppe，region Western Siberia）R74 -->
 - [place] Belem — EHLA:43；巴西帕拉州贝伦（real；亚马逊河口城，Jangada 终点）
 - [place] Tabatinga — EHLA:23；巴西亚马逊塔巴廷加（real；巴西/秘鲁边境哨镇）
 - [place] Yokohama — AWED:35/WC:5/ASC:4；日本横滨（real；AWED Fogg 日本登陆港）
+<!-- R74 NEW1 消费 5：semipolatinsk / tobolsk / kolyvan / ichim / baraba；queue 17→12 -->
+<!-- 注：Semipolatinsk 今属哈萨克斯坦（Semey），label 从 Verne 原文旧称，region 记 Siberia (Irtish valley)。 -->
+<!-- 注：五 MS 镇与既建 irkutsk/omsk/tomsk 同源（MS 西伯利亚驿路），Connections 互链。 -->
+<!-- 注：Ichim=Ishim（伊希姆），label 从原文；日志误称「Ogareff 鞭击场景」应为 relay 驿站（MS-013 段群），页内未采该情节。 -->
+
 
 <!-- ═══ R68 SCN28 表层复扫补种（queue=9<10 触发，since_discover=8）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Irkutsk — 已建 irkutsk（rev nUAZ3e，MS real，页内引注 7；东西伯利亚首府，region Eastern Siberia）R69 -->
