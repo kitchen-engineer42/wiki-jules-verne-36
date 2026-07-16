@@ -3901,6 +3901,12 @@
       ],
       "path": "is/island-of-sein.md"
     },
+    "isthmus-of-panama": {
+      "type": "place",
+      "label": "Isthmus of Panama",
+      "aliases": [],
+      "path": "is/isthmus-of-panama.md"
+    },
     "italy": {
       "type": "place",
       "label": "Italy",
@@ -9835,6 +9841,8 @@
     "island-of-sein": "island-of-sein",
     "Island of Sein": "island-of-sein",
     "Île de Sein": "island-of-sein",
+    "isthmus-of-panama": "isthmus-of-panama",
+    "Isthmus of Panama": "isthmus-of-panama",
     "italy": "italy",
     "Italy": "italy",
     "jangada": "jangada",
@@ -11002,6 +11010,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1413,
-  "generated": "2026-07-16T11:10:10Z"
+  "page_count": 1414,
+  "generated": "2026-07-16T11:17:40Z"
 }

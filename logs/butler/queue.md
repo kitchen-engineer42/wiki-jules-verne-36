@@ -28,7 +28,10 @@
 <!-- ✔ [place] Montreal — 已建 montreal（rev adB03N，real，region Canada，页内引注 8：RC-008-035/008-039/008-040、WC-015-031/015-035、FC-002-020/012-013；剔 ACH-017-015 北极 Montreal Island 同名岛 + TTLU Montreal Ocean Co 船司 namesake）R123 -->
 <!-- ✔ [place] Richmond — 已建 richmond（rev aSjsb5，The Mysterious Island real，region Virginia，页内引注 8：MI-002-002/002-004/002-009/002-010/002-018/030-042、BR-008-067、AM-005-001；Grant 围困之邦联首府/气球脱逃起点/Richmond cabinet；确指 VA 无 Richmond upon Thames 伦敦混入；接 the-mysterious-island/cyrus-harding/lincoln-island/the-blockade-runners）R126 -->
 <!-- ✔ Richmond consumed R126 -->
-- [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
+<!-- ✔ [place] Panama — R130 消歧建成 isthmus-of-panama（rev 8s2wIV，Dick Sand real，region Central America，页内引注 7：DSCF-001-016/038-004、WC-015-013、GM-005-011、FEM-024-020、TTLU-026-011、ACH-006-020；定主体=Isthmus/航路捷径，统合 isthmus(4)+way-of-Panama 航路(3)；剔 city 义(TT-015-024/TTLU-026-019 wages)与 gulf 义单列<门；接 pacific-ocean/cape-horn/cape-of-good-hope/andes/from-the-earth-to-the-moon/dick-sand-a-captain-at-fifteen/the-waif-of-the-cynthia）R130 -->
+<!-- ✔ Panama consumed R130（建为 isthmus-of-panama）-->
+<!-- ⏸ 残 Panama City（TT/TTLU 2 PN<门）+ Gulf of Panama（TTLU-026-011 单 PN<门）分列 hold，待专项凑句 -->
+<!-- ═══ R130 后 place 开放强候选归零：仅余洲级 Asia/Europe/America（HOLD，须严筛确指句）+ Long Island(clean 4<门)。下轮 discover 恐低产，streak 或向 CLOSE 逼近。═══ -->
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
 <!-- ✔ Mont Blanc consumed R129 -->
 <!-- ✔ [place] Bay of Bengal — 已建 bay-of-bengal（rev zjp3jz，Twenty Thousand Leagues real，region Indian Ocean，页内引注 5：TTLU-014-028/025-040/026-011、AWED-016-005、RM-010-016；Nemo 珍珠场/黑潮源/恒河浮尸/Andaman 群岛/从月看地认真湾；⚠ RM 偏 oblique，AWED+TTLU 4 确指为主干；接 indian-ocean/nautilus/captain-nemo/twenty-thousand-leagues/around-the-world-in-eighty-days/round-the-moon）R129 -->
