@@ -247,6 +247,19 @@
 <!-- ✔ [place] Africa — 已建 africa（rev Rd3KKm，FWB real，页内引注 15；Ferguson 气球东→西横越之陆，book Five Weeks in a Balloon，region African continent）R93 -->
 <!-- ✔ [place] South America — 已建 south-america（rev 8sjChG，DSCF real，页内引注 10；DSCF/EHLA/SC 之舞台，book 'Dick Sand: A Captain at Fifteen'，region South America）R92 -->
 
+<!-- ═══ R95 SCN28 表层复扫补种（queue=2<10 触发，since_discover=3）：geo-adjacency 表层扫仅回噪声（Victoria 多实体/America 泛指/Klock 子串/Niagara 既建裸名/Floridian·Algerian demonym），0 新——但**国名裸词绕过 geo 关键词模式**，遂对 Verne 高频设定国逐一词边界核 distinctPN，surface 一批国家级真地名（承 R91「国级层未穷尽」预告）。各 `\bName\b` 全库核 ≫5，粒度同既建 Australia/Siberia/Norway/New Zealand（区/国级）。new_candidates=10≥3 → discover_streak_low 保持 0，place 广度未竭（否证「表层 0 新→CLOSE」假信号）。queue 2→12。 -->
+- [place] China — ASC:56（Claudius Bombarnac 大铁路穿华）/AWED:14；跨源 107 distinctPN（real；主作 The Adventures of a Special Correspondent）
+- [place] India — AWED:28（八十天环游）/SC:13/RC:9；跨源 93 distinctPN（real；主作 Around the World in Eighty Days）
+- [place] Russia — MS:49（Michael Strogoff）/ASC:16/TT:16；跨源 115 distinctPN（real；主作 Michael Strogoff）
+- [place] Scotland — SC:19（Glenarvan 故乡）/UC:9（地下城）；跨源 43 distinctPN（real；主作 In Search of the Castaways）
+- [place] Brazil — EHLA:39（八百里亚马逊）；跨源 58 distinctPN（real；主作 Eight Hundred Leagues on the Amazon）
+- [place] Peru — EHLA:19/PL:13；跨源 49 distinctPN（real；主作 Eight Hundred Leagues on the Amazon 或 The Pearl of Lima）
+- [place] Sweden — WC:13（Cynthia 弃儿）/TN:7/TT:11；跨源 42 distinctPN（real；主作 The Waif of the Cynthia）
+- [place] Japan — AWED:11（八十天环游）/TTLU:9；跨源 36 distinctPN（real；主作 Around the World in Eighty Days）
+- [place] Egypt — DSCF:7/TTLU:6/OC:3；跨源 26 distinctPN（real；主作 待建页复核）
+- [place] Ceylon — TTLU:13（Nautilus 采珠场）；跨源 17 distinctPN（real；主作 Twenty Thousand Leagues Under the Seas）
+<!-- R95 未入队（噪声/既建/demonym）：Victoria 22（多实体污染）、No 12（假匹配）、America 9（泛指）、Klock 7（klock-klock 子串）、Niagara 5（niagara-falls/niagara-river 既建裸名）、Floridian·Algerian 5/5（demonym）。另 England 221/France 169 distinctPN 极高但城市页密集（伦敦/巴黎等），国级页价值待评估，暂缓；Denmark 18/Persia 16/Turkey 17/Arabia 8 等中等候选留后续 discover 续挖。 -->
+
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
 <!-- ✔ [place] Patagonia — 已建 patagonia（rev *，SC real，页内引注 6；南美南端 pampas/37°线首搜索区，region South America）R88 -->
