@@ -1197,6 +1197,12 @@
       ],
       "path": "ca/cape-verde.md"
     },
+    "cape-washington": {
+      "type": "place",
+      "label": "Cape Washington",
+      "aliases": [],
+      "path": "ca/cape-washington.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -3661,6 +3667,12 @@
       "aliases": [],
       "path": "me/melville-bay.md"
     },
+    "melville-island": {
+      "type": "place",
+      "label": "Melville Island",
+      "aliases": [],
+      "path": "me/melville-island.md"
+    },
     "MI-ch01": {
       "type": "chapter",
       "label": "The Mysterious Island — CHAPTER 1",
@@ -4868,6 +4880,12 @@
       "aliases": [],
       "path": "pl/PL-ch09.md"
     },
+    "polar-sea": {
+      "type": "place",
+      "label": "Polar Sea",
+      "aliases": [],
+      "path": "po/polar-sea.md"
+    },
     "port-balloon": {
       "type": "place",
       "label": "Port Balloon",
@@ -5225,6 +5243,12 @@
         "Robur the Conqueror"
       ],
       "path": "ro/robur.md"
+    },
+    "rocky-mountains": {
+      "type": "place",
+      "label": "Rocky Mountains",
+      "aliases": [],
+      "path": "ro/rocky-mountains.md"
     },
     "round-the-moon": {
       "type": "work",
@@ -7644,6 +7668,8 @@
     "Cape Verde": "cape-verde",
     "Cape Verde Islands": "cape-verde",
     "Verde Islands": "cape-verde",
+    "cape-washington": "cape-washington",
+    "Cape Washington": "cape-washington",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -8194,6 +8220,8 @@
     "The Clockmaker Who Lost His Soul": "master-zacharius",
     "melville-bay": "melville-bay",
     "Melville Bay": "melville-bay",
+    "melville-island": "melville-island",
+    "Melville Island": "melville-island",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -8432,6 +8460,8 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "polar-sea": "polar-sea",
+    "Polar Sea": "polar-sea",
     "port-balloon": "port-balloon",
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
@@ -8507,6 +8537,8 @@
     "The Clipper of the Clouds": "robur-the-conqueror",
     "robur": "robur",
     "Robur": "robur",
+    "rocky-mountains": "rocky-mountains",
+    "Rocky Mountains": "rocky-mountains",
     "round-the-moon": "round-the-moon",
     "Round the Moon": "round-the-moon",
     "Autour de la Lune": "round-the-moon",
@@ -8963,6 +8995,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1185,
-  "generated": "2026-07-16T02:09:30Z"
+  "page_count": 1189,
+  "generated": "2026-07-16T02:19:39Z"
 }

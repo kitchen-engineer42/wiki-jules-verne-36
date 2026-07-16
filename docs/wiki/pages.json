@@ -1957,7 +1957,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 9
+      "total_refs": 10
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3424,7 +3424,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 6
+      "total_refs": 7
     },
     "behring-sea": {
       "type": "place",
@@ -3468,7 +3468,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 2
+      "total_refs": 3
     },
     "bellot-strait": {
       "type": "place",
@@ -3782,7 +3782,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 10
+      "total_refs": 11
     },
     "cape-bernouilli": {
       "type": "place",
@@ -3961,6 +3961,28 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
+    "cape-washington": {
+      "type": "place",
+      "label": "Cape Washington",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ca/cape-washington.md",
+      "description": "A headland on the coast of New America named by Altamont, marking the route between the sea and Fort Providence in The Adventures of Captain Hatteras.",
+      "prose_len": 1474,
+      "prose_chars": 1372,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
     "captain-hatteras": {
@@ -8518,7 +8540,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 2
+      "total_refs": 3
     },
     "fort-reliance": {
       "type": "place",
@@ -8583,7 +8605,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 11
+      "total_refs": 12
     },
     "fulgurator": {
       "type": "technology",
@@ -10338,7 +10360,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 18
+      "total_refs": 19
     },
     "gun-cotton": {
       "type": "technology",
@@ -11839,7 +11861,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "liedenbrock-cipher": {
       "type": "event",
@@ -12100,6 +12122,28 @@
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 2
+    },
+    "melville-island": {
+      "type": "place",
+      "label": "Melville Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "arctic"
+      ],
+      "path": "me/melville-island.md",
+      "description": "The Arctic island where Parry wintered in 1819, a recurring landmark of exploration history in The Adventures of Captain Hatteras.",
+      "prose_len": 1848,
+      "prose_chars": 1744,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "MI-ch01": {
       "type": "chapter",
@@ -16112,6 +16156,28 @@
       "book": "The Pearl of Lima",
       "total_refs": 1
     },
+    "polar-sea": {
+      "type": "place",
+      "label": "Polar Sea",
+      "aliases": [],
+      "tags": [
+        "place",
+        "sea",
+        "arctic"
+      ],
+      "path": "po/polar-sea.md",
+      "description": "The Arctic Ocean along the northern coast of America, on whose shifting ice Fort Hope is founded and set adrift in The Fur Country.",
+      "prose_len": 1814,
+      "prose_chars": 1716,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "port-balloon": {
       "type": "place",
       "label": "Port Balloon",
@@ -17305,6 +17371,28 @@
       "book": "Robur the Conqueror",
       "total_refs": 33
     },
+    "rocky-mountains": {
+      "type": "place",
+      "label": "Rocky Mountains",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mountains",
+        "united-states"
+      ],
+      "path": "ro/rocky-mountains.md",
+      "description": "The great North American range crowned by the Long's Peak observatory, from which the Gun Club tracks the lunar projectile across Verne's moon novels.",
+      "prose_len": 2083,
+      "prose_chars": 1980,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "Round the Moon",
+      "total_refs": 0
+    },
     "round-the-moon": {
       "type": "work",
       "label": "Round the Moon",
@@ -17329,7 +17417,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 7
+      "total_refs": 8
     },
     "royal-geographical-society": {
       "type": "organization",
@@ -20777,7 +20865,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 9
+      "total_refs": 11
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -20902,7 +20990,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 4
+      "total_refs": 5
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -23543,7 +23631,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "victoria-island": {
       "type": "place",
@@ -24709,6 +24797,8 @@
     "Cape Verde": "cape-verde",
     "Cape Verde Islands": "cape-verde",
     "Verde Islands": "cape-verde",
+    "cape-washington": "cape-washington",
+    "Cape Washington": "cape-washington",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -25259,6 +25349,8 @@
     "The Clockmaker Who Lost His Soul": "master-zacharius",
     "melville-bay": "melville-bay",
     "Melville Bay": "melville-bay",
+    "melville-island": "melville-island",
+    "Melville Island": "melville-island",
     "MI-ch01": "MI-ch01",
     "MI-ch02": "MI-ch02",
     "MI-ch03": "MI-ch03",
@@ -25497,6 +25589,8 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "polar-sea": "polar-sea",
+    "Polar Sea": "polar-sea",
     "port-balloon": "port-balloon",
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
@@ -25572,6 +25666,8 @@
     "The Clipper of the Clouds": "robur-the-conqueror",
     "robur": "robur",
     "Robur": "robur",
+    "rocky-mountains": "rocky-mountains",
+    "Rocky Mountains": "rocky-mountains",
     "round-the-moon": "round-the-moon",
     "Round the Moon": "round-the-moon",
     "Autour de la Lune": "round-the-moon",
@@ -26028,6 +26124,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1185,
-  "generated": "2026-07-16T02:09:30Z"
+  "page_count": 1189,
+  "generated": "2026-07-16T02:19:39Z"
 }

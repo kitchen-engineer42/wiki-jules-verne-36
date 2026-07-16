@@ -59,14 +59,14 @@
 <!-- ✔ [place] Cape Esquimaux — 已建 cape-esquimaux（rev bOXBSk，FC，实测 23）R38 -->
 <!-- ✔ [place] Behring Strait — 已建 behring-strait（rev HoSRPw，FC real，实测 22）R38 -->
 
-- [place] Polar Sea — FC；FC:14；北极海（real/generic，建前定名）
+<!-- ✔ [place] Polar Sea — 已建 polar-sea（rev aTzxKs，FC real，页内引注 9；label Polar Sea，Fort Hope 漂流之北冰洋，接 cape-bathurst/behring-strait）R58 -->
 <!-- ✔ [place] Bear Lake — 已建 great-bear-lake（rev fWO4Yz，FC real，段级 11；label Great Bear Lake / alias Bear Lake；Hobson 远征绕行大湖，接 fort-confidence/cape-bathurst）R53 -->
 <!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
 <!-- ✔ [place] Tsalal Island — 已建 tsalal-island（rev 2xuDfE，AM，实测 61；接 christmas-harbour）R37 -->
 <!-- ✔ [place] Fort Providence — 已建 fort-providence（rev P7ngFy，ACH fictional，实测严扫 22）R40 -->
 <!-- ✔ [place] Beechey Island — 已建 beechey-island（rev 5uyZIE，ACH real，实测 23）R40 -->
 
-- [place] Melville Island — ACH；ACH:9；梅尔维尔岛（real，borderline）
+<!-- ✔ [place] Melville Island — 已建 melville-island（rev hWPGAJ，ACH real，页内引注 9；Parry 越冬之岛，接 lancaster-strait/beechey-island）R58 -->
 <!-- Off on a Comet（OC，fictional 彗星世界）：-->
 <!-- ✔ [place] Gourbi Island — 已建 gourbi-island（rev 2c7uBR，OC，实测 41）R38 -->
 
@@ -84,7 +84,7 @@
 <!-- ✔ [place] Lake Baikal — 已建 lake-baikal（rev 1ZLYip，MS real，实测 18 含变体；Strogoff 越境大湖，alias The Baikal）R44 -->
 <!-- ✔ [place] Cape Bernouilli — 已建 cape-bernouilli（rev 2OkoaN，SC real，段级 10；37 度线西端岬，接 twofold-bay/cape-corrientes）R53 -->
 <!-- ✔ [place] Cape Horn — 已建 cape-horn（rev OyXgWE，TTLU/SC real，跨源页内引注 6；南美极南之岬，Nautilus/Duncan 皆绕行）R53 -->
-- [place] Rocky Mountains — RM 等；主源 RM:9；落基山脉（real，跨作）
+<!-- ✔ [place] Rocky Mountains — 已建 rocky-mountains（rev It4CUQ，RM real 跨源，页内引注 7：RM+FEM+AWED；Long's Peak 望远镜，接 round-the-moon/from-the-earth-to-the-moon/gun-club）R58 -->
 <!-- ✔ [place] Loch Malcolm — 已建 loch-malcolm（rev jN9IR0，UC fictional，段级 13；New Aberfoyle 地下湖/Coal Town 临湖，接 loch-katrine/new-aberfoyle）R53 -->
 
 <!-- ═══ R41 SCN28 表层复扫补种（30 候选，主源 distinctPN 严扫，建前逐页复核）═══ -->
@@ -105,7 +105,7 @@
 <!-- ✔ [place] Barrow Strait — 已建 barrow-strait（rev UZuhWZ，ACH real，实测 9；Beechey 常道）R46 -->
 <!-- ✔ [place] Cape Farewell — 已建 cape-farewell（rev 6NbpIv，ACH real，严扫 6 岬名；排除同名 schooner Farewell）R45 -->
 <!-- ✔ [place] Victoria Bay — 已建 victoria-bay（rev VGg86x，ACH fictional，段级实测 7；New America 湾，Cape Washington→Fort Providence 途中）R47 -->
-- [place] Cape Washington — ACH；ACH:5；华盛顿角（fictional，Fort Providence 簇）
+<!-- ✔ [place] Cape Washington — 已建 cape-washington（rev 8Qrv54，ACH fictional，页内引注 5；New America 岬，接 victoria-bay/fort-providence）R58 -->
 <!-- MW 大湖簇补：-->
 <!-- ✔ [place] Niagara River — 已建 niagara-river（rev ay5uGw）R43，见上 -->
 <!-- ✔ [place] Black Rock Creek — 已建 black-rock-creek（rev h7arGO，MW fictional，实测 17）R42 -->
