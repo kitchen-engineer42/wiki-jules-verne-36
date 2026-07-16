@@ -1145,6 +1145,12 @@
       "aliases": [],
       "path": "bl/black-rock-creek.md"
     },
+    "black-sea": {
+      "type": "place",
+      "label": "Black Sea",
+      "aliases": [],
+      "path": "bl/black-sea.md"
+    },
     "blue-ridge-mountains": {
       "type": "place",
       "label": "Blue Ridge Mountains",
@@ -1837,6 +1843,12 @@
         "Vai-Hon"
       ],
       "path": "ea/easter-island.md"
+    },
+    "ega": {
+      "type": "place",
+      "label": "Ega",
+      "aliases": [],
+      "path": "eg/ega.md"
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -3811,6 +3823,12 @@
       "label": "Lake Michigan",
       "aliases": [],
       "path": "la/lake-michigan.md"
+    },
+    "lake-ontario": {
+      "type": "place",
+      "label": "Lake Ontario",
+      "aliases": [],
+      "path": "la/lake-ontario.md"
     },
     "lake-superior": {
       "type": "place",
@@ -7938,6 +7956,12 @@
       "aliases": [],
       "path": "we/wellington-channel.md"
     },
+    "yakutsk": {
+      "type": "place",
+      "label": "Yakutsk",
+      "aliases": [],
+      "path": "ya/yakutsk.md"
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -7955,6 +7979,12 @@
       "label": "Yokohama",
       "aliases": [],
       "path": "yo/yokohama.md"
+    },
+    "zabediero": {
+      "type": "place",
+      "label": "Zabediero",
+      "aliases": [],
+      "path": "za/zabediero.md"
     },
     "zanzibar": {
       "type": "place",
@@ -8207,6 +8237,8 @@
     "Bergen": "bergen",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
+    "black-sea": "black-sea",
+    "Black Sea": "black-sea",
     "blue-ridge-mountains": "blue-ridge-mountains",
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
@@ -8383,6 +8415,8 @@
     "Easter Island": "easter-island",
     "Isle of Pâques": "easter-island",
     "Vai-Hon": "easter-island",
+    "ega": "ega",
+    "Ega": "ega",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -8816,6 +8850,8 @@
     "Lake Kirdall": "lake-kirdall",
     "lake-michigan": "lake-michigan",
     "Lake Michigan": "lake-michigan",
+    "lake-ontario": "lake-ontario",
+    "Lake Ontario": "lake-ontario",
     "lake-superior": "lake-superior",
     "Lake Superior": "lake-superior",
     "lake-tanganyika": "lake-tanganyika",
@@ -9726,14 +9762,18 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "yakutsk": "yakutsk",
+    "Yakutsk": "yakutsk",
     "YEAR": "YEAR",
     "yenisei": "yenisei",
     "Yenisei": "yenisei",
     "yokohama": "yokohama",
     "Yokohama": "yokohama",
+    "zabediero": "zabediero",
+    "Zabediero": "zabediero",
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1272,
-  "generated": "2026-07-16T04:50:36Z"
+  "page_count": 1277,
+  "generated": "2026-07-16T04:58:05Z"
 }

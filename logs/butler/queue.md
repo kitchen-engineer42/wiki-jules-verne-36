@@ -157,8 +157,8 @@
 <!-- ✔ [place] Cape Verde — 已建 cape-verde（rev jlHiPh，SC 主源 real，跨 TTLU 互链，页内引注 6；label Cape Verde / alias Cape Verde Islands·Verde Islands；Isle Fogo 火山/Atlantis 峰）R51 -->
 <!-- ✔ [place] Faroe Islands — 已建 faroe-islands（rev EToiZ3，WC real，段级 5；Cynthia 失事海域，近挪威）R51 -->
 <!-- Fort Sumter / Morris Island 已 R51 建页，见上 ✔ 注（本处原重复候选行，R51 清理） -->
-- [place] Lake Ontario — MW/PL/RC；agg 7；安大略湖（real，大湖链末湖）
-- [place] Black Sea — ASC/MS/RC/RM/SC/TT；agg 7；黑海（real，跨作）
+<!-- ✔ [place] Lake Ontario — 已建 lake-ontario（rev *，跨源 MW/RC/PL real，页内引注 7 词边界核；大湖链末湖/Niagara 注入口，book The Master of the World，region North America (Great Lakes)）R86 -->
+<!-- ✔ [place] Black Sea — 已建 black-sea（rev *，跨源 ASC/MS/RC/SC/TT real，页内引注 6 词边界核；Poti 登陆/南俄贸易名，book The Adventures of a Special Correspondent，region Eurasia (inland sea)）R86 -->
 <!-- ✔ [place] Dream Bay — 已建 dream-bay（rev Tm3Zut，GM fictional，段级 7；Godfrey 荒岛所命名之湾，接 spencer-island/flag-point）R52 -->
 <!-- ✔ [place] Altamont Harbour — 已建 altamont-harbour（rev 2Mh5fX，ACH fictional，段级 6；New America 港，接 victoria-bay）R52 -->
 <!-- ✔ [place] Falkland Islands — 已建 falkland-islands（rev RctcCf，AM real，主源 AM:51；Halbrane 南极航前末港，接 port-egmont）R52 -->
@@ -261,15 +261,15 @@
 <!-- ✔ [place] Auckland — 已建 auckland（rev *，SC real，页内引注 5；NZ 北岛港/37°线目标/Macquarie 目的地，region New Zealand）R82 -->
 <!-- ✔ [place] Shanghai — 已建 shanghai（rev *，AWED real，页内引注 5；太平洋邮轮始发港/Fogg 沿岸北上，region China）R82 -->
 <!-- ✔ [place] Singapore — 已建 singapore（rev *，AWED real，页内引注 5；Rangoon 加煤港/Fix 电报站，region Singapore）R82 -->
-- [place] Ega — EHLA:14；埃加（real 巴西亚马逊镇；EHLA jangada 停靠地）
-- [place] Zabediero — MS:11；扎别季耶罗（real 西伯利亚村；MS 8/15 convoy 抵达地）
+<!-- ✔ [place] Ega — 已建 ega（rev *，EHLA real，页内引注 7；亚马逊湖畔县城 1500 人/jangada 停靠地，region Brazil (Amazon)）R86 -->
+<!-- ✔ [place] Zabediero — 已建 zabediero（rev *，MS real，页内引注 7；Tom 河畔近 Tomsk 村/Ogareff 前营/Michael 被俘地，region Western Siberia）R86 -->
 <!-- ═══ R84 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选，各已精核词边界 distinctPN ≥5，均非既有页/人物（既有 held 跨源候选 North Sea/Cape Bon/Bay of Bengal/Long Island/Black Sea/Lake Ontario 单作 max 均 <5，续 hold；Kara Sea 词边界仅 TTLU:1，原 agg 5 系子串污染 → 剔除）═══ -->
 <!-- ✔ [place] Gallia — 已建 gallia（rev WCPS8u，OC fictional，页内引注 5；携地球碎块绕日的新小行星/Servadac 居民世界，region Space (comet)）R85 -->
 <!-- ✔ [place] Australia — 已建 australia（rev c0iT4Z，SC real，页内引注 6；沿 37°线横穿之岛陆/Britannia 失事第二搜索地，region Oceania）R85 -->
 <!-- ✔ [place] Siberia — 已建 siberia（rev IOk3hV，MS real，页内引注 6；Michael 东行主区域/鞑靼入侵战场，region Russia (Siberia)）R85 -->
 <!-- ✔ [place] Noroe — 已建 noroe（rev NUQNKM，WC fictional，页内引注 5；挪威西岸近 Bergen 渔村/Erik 成长村，region Norway）R85 -->
 <!-- ✔ [place] Aden — 已建 aden（rev uNtwxK，AWED real，页内引注 5；Suez→Aden 红海加煤港/Fix 尾随上岸地，region Yemen）R85 -->
-- [place] Yakutsk — MS:5；雅库茨克（real 东西伯利亚；MS 远东驿路城，distinctPN 恰达门）
+<!-- ✔ [place] Yakutsk — 已建 yakutsk（rev *，MS real，页内引注 5；东西伯利亚最东政府/驰援 Irkutsk 之援军来源，region Eastern Siberia）R86 -->
 <!-- ✔ [place] Allahabad — 已建 allahabad（rev *，AWED real，页内引注 5；GIP 铁路 50 英里缺口/大象接驳终点，region India）R82 -->
 <!-- ✔ [place] Benares — 已建 benares（rev *，AWED real，页内引注 5；恒河圣城/Cromarty 离队站，region India）R82 -->
 
