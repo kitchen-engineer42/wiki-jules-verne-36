@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 11
+      "total_refs": 12
     },
     "africa": {
       "type": "place",
@@ -1298,7 +1298,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 0
+      "total_refs": 2
     },
     "albatross": {
       "type": "technology",
@@ -2057,7 +2057,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 4
+      "total_refs": 5
     },
     "antarctic-sea": {
       "type": "place",
@@ -2127,6 +2127,31 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
+    "argentine": {
+      "type": "place",
+      "label": "Argentine",
+      "aliases": [
+        "Argentina"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "in-search-of-the-castaways",
+        "pampas"
+      ],
+      "path": "ar/argentine.md",
+      "description": "The South American republic whose plains and Pampas the searchers cross on the thirty-seventh parallel in In Search of the Castaways, from the Cordilleras down to the Atlantic.",
+      "prose_len": 1337,
+      "prose_chars": 1249,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "around-the-world-in-eighty-days": {
@@ -4828,7 +4853,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "china": {
       "type": "place",
@@ -4851,7 +4876,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 2
+      "total_refs": 3
     },
     "christiania": {
       "type": "place",
@@ -4991,6 +5016,29 @@
       "quality_score": 77,
       "book": "From the Earth to the Moon",
       "total_refs": 45
+    },
+    "congo": {
+      "type": "place",
+      "label": "Congo",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "dick-sand-a-captain-at-fifteen",
+        "river"
+      ],
+      "path": "co/congo.md",
+      "description": "The great West African river at whose mouth the castaways of Dick Sand: A Captain at Fifteen come ashore, later proven to be the lower course of the Loualaba.",
+      "prose_len": 1154,
+      "prose_chars": 1067,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
     },
     "conseil": {
       "type": "character",
@@ -5243,7 +5291,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 9
+      "total_refs": 10
     },
     "diving-apparatus": {
       "type": "technology",
@@ -6532,7 +6580,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 3
+      "total_refs": 4
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -9405,7 +9453,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 5
+      "total_refs": 6
     },
     "fix": {
       "type": "character",
@@ -11233,7 +11281,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "godfrey-morgan": {
       "type": "work",
@@ -11864,7 +11912,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 21
+      "total_refs": 22
     },
     "in-the-year-2889": {
       "type": "work",
@@ -12027,7 +12075,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 10
+      "total_refs": 11
     },
     "island-of-ljakow": {
       "type": "place",
@@ -15216,7 +15264,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 21
+      "total_refs": 22
     },
     "michel-ardan": {
       "type": "character",
@@ -15284,6 +15332,29 @@
       "quality_score": 69,
       "book": "The Blockade Runners",
       "total_refs": 2
+    },
+    "moscow": {
+      "type": "place",
+      "label": "Moscow",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "city"
+      ],
+      "path": "mo/moscow.md",
+      "description": "The old Russian capital where Michael Strogoff opens, the Kremlin city from which the Czar's courier sets out on his three-thousand-mile race to Irkutsk.",
+      "prose_len": 1332,
+      "prose_chars": 1244,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "mount-franklin": {
       "type": "place",
@@ -16721,6 +16792,29 @@
       "book": "Michael Strogoff",
       "total_refs": 3
     },
+    "nile": {
+      "type": "place",
+      "label": "Nile",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "five-weeks-in-a-balloon",
+        "river"
+      ],
+      "path": "ni/nile.md",
+      "description": "The great African river whose mysterious sources drive the geographic quest of Five Weeks in a Balloon, sought for centuries and never reached from the ground.",
+      "prose_len": 1255,
+      "prose_chars": 1168,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "nitroglycerine": {
       "type": "technology",
       "label": "Nitroglycerine",
@@ -18097,7 +18191,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 3
+      "total_refs": 4
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -18219,7 +18313,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "peru": {
       "type": "place",
@@ -19876,7 +19970,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 3
+      "total_refs": 4
     },
     "san-francisco": {
       "type": "place",
@@ -23059,7 +23153,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Michael Strogoff",
-      "total_refs": 2
+      "total_refs": 3
     },
     "singapore": {
       "type": "place",
@@ -23202,7 +23296,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 4
+      "total_refs": 5
     },
     "spain": {
       "type": "place",
@@ -25986,6 +26080,29 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 2
     },
+    "turkestan": {
+      "type": "place",
+      "label": "Turkestan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-asia",
+        "the-adventures-of-a-special-correspondent",
+        "railway"
+      ],
+      "path": "tu/turkestan.md",
+      "description": "The Central Asian province of Asiatic Russia that the Grand Transasiatic Railway traverses in The Adventures of a Special Correspondent, the chief commercial route between Europe and the Celestial Empire.",
+      "prose_len": 1355,
+      "prose_chars": 1267,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "turkey": {
       "type": "place",
       "label": "Turkey",
@@ -27781,6 +27898,9 @@
     "Aouda": "aouda",
     "arabia": "arabia",
     "Arabia": "arabia",
+    "argentine": "argentine",
+    "Argentine": "argentine",
+    "Argentina": "argentine",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
     "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
@@ -28002,6 +28122,8 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "congo": "congo",
+    "Congo": "congo",
     "conseil": "conseil",
     "Conseil": "conseil",
     "coronation-gulf": "coronation-gulf",
@@ -28698,6 +28820,8 @@
     "Morganton": "morganton",
     "morris-island": "morris-island",
     "Morris Island": "morris-island",
+    "moscow": "moscow",
+    "Moscow": "moscow",
     "mount-franklin": "mount-franklin",
     "Mount Franklin": "mount-franklin",
     "mount-mendif": "mount-mendif",
@@ -28785,6 +28909,8 @@
     "Niagara River": "niagara-river",
     "nijni-novgorod": "nijni-novgorod",
     "Nijni-Novgorod": "nijni-novgorod",
+    "nile": "nile",
+    "Nile": "nile",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -29418,6 +29544,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "turkestan": "turkestan",
+    "Turkestan": "turkestan",
     "turkey": "turkey",
     "Turkey": "turkey",
     "twenty-thousand-leagues": "twenty-thousand-leagues",
@@ -29525,6 +29653,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1323,
-  "generated": "2026-07-16T06:29:51Z"
+  "page_count": 1328,
+  "generated": "2026-07-16T06:47:43Z"
 }

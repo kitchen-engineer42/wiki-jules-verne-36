@@ -294,8 +294,8 @@
 - [place] Atlantic — TTLU:39/SC:24/EHLA:18/FF:16/AWED:14；226 distinctPN（real；大西洋，多源；主作待择）
 - [place] Mediterranean — OC:46/TTLU:40；112 distinctPN（real；地中海；主作 Off on a Comet 或 TTLU，彗星掠海/Nautilus）
 <!-- 洲/大区层 -->
-- [place] Turkestan — ASC:56/MS:8；67 distinctPN（real；中亚大区/大铁路核心段；主作 The Adventures of a Special Correspondent）
-- [place] Argentine — SC:30/TT:3；37 distinctPN（real；阿根廷/Pampas；主作 In Search of the Castaways；核 Argentine Republic 全称）
+<!-- ✔ [place] Turkestan — 已建 turkestan（rev i5g3Ky，ASC real，页内引注 6；大铁路核心中亚省/Europe-Celestial Empire 商路，book The Adventures of a Special Correspondent，region Central Asia）R104 -->
+<!-- ✔ [place] Argentine — 已建 argentine（rev vZXm49，SC real，页内引注 6；37°线 Pampas 陆行/Cordilleras 至 Atlantic，alias Argentina，book In Search of the Castaways，region South America；剔 adjectival Argentine breed/guide，取 provinces/coast/soil/plains 地理确指）R104 -->
 - [place] Asia — 跨源；86 distinctPN（real；亚洲洲级；泛指风险，建页须聚焦确指句）
 - [place] Europe — 跨源；201 distinctPN（real；欧洲洲级；泛指风险，同上）
 - [place] America — 跨源；259 distinctPN（real；美洲/泛指双义，承 R95/R98「America 泛指」告警，建页须严筛洲级确指句 vs 泛指/United States 重叠）
@@ -305,7 +305,7 @@
 <!-- 城市层（城市页密集顾虑，建页前评 link 密度）-->
 - [place] New York — WC:27/AWED:25/ASC:12/TTLU:14/TT:10；137 distinctPN（real；纽约城；主作待择）
 - [place] Paris — ASC:19/TTLU:17/TT:11/AWED:10/RC:10；121 distinctPN（real；巴黎；主作待择）
-- [place] Moscow — MS:39；45 distinctPN（real；莫斯科；主作 Michael Strogoff）
+<!-- ✔ [place] Moscow — 已建 moscow（rev 2dlPnY，MS real，页内引注 6；MS 起点城/Kremlin/Moscow-Irkutsk 3400 里程起点，book Michael Strogoff，region Russia）R104 -->
 - [place] Hamburg — JCE 待核；27 distinctPN（real；汉堡/Lidenbrock 故乡；主作 A Journey to the Center of the Earth 待核）
 - [place] Rome — 跨源；21 distinctPN（real；罗马）
 - [place] Petersburg — MS 待核；20 distinctPN（real；圣彼得堡/异名 St. Petersburg；主作 Michael Strogoff 待核）
@@ -322,8 +322,8 @@
 - [place] Constantinople — 跨源；7 distinctPN（real；君士坦丁堡）
 - [place] Calais — 跨源；6 distinctPN（real；加莱）
 <!-- 河流/沙漠/山脉层 -->
-- [place] Nile — FWB:42；51 distinctPN（real；尼罗河；主作 Five Weeks in a Balloon）
-- [place] Congo — DSCF:19；27 distinctPN（real；刚果河；主作 Dick Sand 待核，注 book 冒号）
+<!-- ✔ [place] Nile — 已建 nile（rev U2jWgx，FWB real，页内引注 6；源之谜=气球航行地理母题/great lakes 源，book Five Weeks in a Balloon，region Africa）R104 -->
+<!-- ✔ [place] Congo — 已建 congo（rev QL9qP6，DSCF real，页内引注 5；西非大河口/castaways 登陆/Loualaba 下游=Zaire，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Africa）R104 -->
 - [place] Sahara — FWB:6/RC:4/OC:3；16 distinctPN（real；撒哈拉沙漠；主作跨源待择）
 - [place] Ural — 跨源；17 distinctPN（real；乌拉尔山/河；核 Ural Mountains vs Ural River 分义）
 - [place] Mississippi — 跨源；14 distinctPN（real；密西西比河）

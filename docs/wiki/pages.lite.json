@@ -646,6 +646,14 @@
       "aliases": [],
       "path": "ar/arabia.md"
     },
+    "argentine": {
+      "type": "place",
+      "label": "Argentine",
+      "aliases": [
+        "Argentina"
+      ],
+      "path": "ar/argentine.md"
+    },
     "around-the-world-in-eighty-days": {
       "type": "work",
       "label": "Around the World in Eighty Days",
@@ -1495,6 +1503,12 @@
       "label": "Columbiad",
       "aliases": [],
       "path": "co/columbiad.md"
+    },
+    "congo": {
+      "type": "place",
+      "label": "Congo",
+      "aliases": [],
+      "path": "co/congo.md"
     },
     "conseil": {
       "type": "character",
@@ -4577,6 +4591,12 @@
       "aliases": [],
       "path": "mo/morris-island.md"
     },
+    "moscow": {
+      "type": "place",
+      "label": "Moscow",
+      "aliases": [],
+      "path": "mo/moscow.md"
+    },
     "mount-franklin": {
       "type": "place",
       "label": "Mount Franklin",
@@ -5003,6 +5023,12 @@
       "label": "Nijni-Novgorod",
       "aliases": [],
       "path": "ni/nijni-novgorod.md"
+    },
+    "nile": {
+      "type": "place",
+      "label": "Nile",
+      "aliases": [],
+      "path": "ni/nile.md"
     },
     "nitroglycerine": {
       "type": "technology",
@@ -7793,6 +7819,12 @@
       "aliases": [],
       "path": "tt/TTLU-ch47.md"
     },
+    "turkestan": {
+      "type": "place",
+      "label": "Turkestan",
+      "aliases": [],
+      "path": "tu/turkestan.md"
+    },
     "turkey": {
       "type": "place",
       "label": "Turkey",
@@ -8421,6 +8453,9 @@
     "Aouda": "aouda",
     "arabia": "arabia",
     "Arabia": "arabia",
+    "argentine": "argentine",
+    "Argentine": "argentine",
+    "Argentina": "argentine",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
     "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
@@ -8642,6 +8677,8 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "congo": "congo",
+    "Congo": "congo",
     "conseil": "conseil",
     "Conseil": "conseil",
     "coronation-gulf": "coronation-gulf",
@@ -9338,6 +9375,8 @@
     "Morganton": "morganton",
     "morris-island": "morris-island",
     "Morris Island": "morris-island",
+    "moscow": "moscow",
+    "Moscow": "moscow",
     "mount-franklin": "mount-franklin",
     "Mount Franklin": "mount-franklin",
     "mount-mendif": "mount-mendif",
@@ -9425,6 +9464,8 @@
     "Niagara River": "niagara-river",
     "nijni-novgorod": "nijni-novgorod",
     "Nijni-Novgorod": "nijni-novgorod",
+    "nile": "nile",
+    "Nile": "nile",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -10058,6 +10099,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "turkestan": "turkestan",
+    "Turkestan": "turkestan",
     "turkey": "turkey",
     "Turkey": "turkey",
     "twenty-thousand-leagues": "twenty-thousand-leagues",
@@ -10165,6 +10208,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1323,
-  "generated": "2026-07-16T06:29:51Z"
+  "page_count": 1328,
+  "generated": "2026-07-16T06:47:43Z"
 }
