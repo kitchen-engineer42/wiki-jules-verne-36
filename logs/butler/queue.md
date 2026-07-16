@@ -144,7 +144,7 @@
 <!-- 高产 discover：过滤 86 既有 place + 9 在队候选 + 变体/人名/假匹配后，仍得 ~40 新候选（≫3）——证 place 表层未穷尽。 -->
 <!-- distinctPN 多为跨源聚合估值（agg），建前必按主源逐页段级严扫校准（承 R43–R47 铁律；聚合易虚高，同名易混淆）。 -->
 <!-- 已排除：Ned Land（人名，POST「Land」假匹配）/ Rock Creek（严扫=0，恒为 black-rock-creek）/ Behring's Straits·Baffin's Sea·Cape Mandible·Lancaster Sound·Isle Tabor·Verde Islands（既有页变体）/ Port Gr·Lake City·Greek Islands（截断/generic 假匹配）。 -->
-- [place] Hudson's Bay — ACH/FC/OC/TT；水体严扫 12（排除 Company）；哈得孙湾（real，≠Hudson's Bay Company org）
+<!-- ✔ [place] Hudson's Bay — 已建 hudsons-bay（rev VYT7sP，FC/ACH real，水体严扫 12 排除 Company；哈得孙湾，≠Hudson's Bay Company org，接 fort-reliance）R56 -->
 <!-- ✔ [place] Baffin's Bay — 已建 baffin-bay（rev UuNCAQ，ACH real，主源 ACH 段级 ~38；label Baffin Bay / alias Baffin's Bay·Baffin's Sea）R49 -->
 <!-- ✔ [place] Walruses' Bay — 已建 walruses-bay（rev F7XXMt，FC fictional，段级 22；Cape Bathurst 簇，火山崖湾）R49 -->
 <!-- ✔ [place] Caspian Sea — 已建 caspian-sea（rev 4PEBf3，ASC real，主源 ASC 段级 >20；Transasiatic 起点 Uzun Ada；alias The Caspian）R49 -->
@@ -174,10 +174,10 @@
 <!-- ✔ [place] Gueboroa Island — 已建 gueboroa-island（rev CZ5Cek，TTLU real，段级 8；Torres 海峡 Papua 岛，Nautilus 触礁，接 torres-strait）R55 -->
 <!-- ✔ [place] Sea of Clouds — 已建 sea-of-clouds（rev Kp3yW9，RM real/lunar，段级 8；月海 Mare Nubium，接 sea-of-rains/lunar-projectile）R55 -->
 <!-- ✔ [place] Sea of Rains — 已建 sea-of-rains（rev eqyMu2，RM real/lunar，段级 7；月海 Mare Imbrium，Apennines/Carpathians 环绕）R55 -->
-- [place] Island of Ljakow — WC；WC:6；Liakhov 岛（real，西伯利亚北极，Nordenskiold 航线）
-- [place] Port Gräuben — JCE(Journey to the Centre of the Earth)；JCE:7；地心之海内海滩，Liedenbrock 命名（fictional，接 liedenbrock-sea）
-- [place] Island of Sein — WC；WC:5；Île de Sein（real，布列塔尼，Cynthia 失事海域近旁）
-- [place] Icy Cape — FC；FC:5；冰角（real，阿拉斯加，接 victoria-island 漂流簇）
+<!-- ✔ [place] Island of Ljakow — 已建 island-of-ljakow（rev gf0o4S，WC real，段级 8；New Siberian 岛，Alaska 追逐 Tudor Brown）R56 -->
+<!-- ✔ [place] Port Gräuben — 已建 port-grauben（rev YtBU6U，JCE fictional，段级 8；Liedenbrock 海内海滩，筏航起点，接 liedenbrock-sea）R56 -->
+<!-- ✔ [place] Island of Sein — 已建 island-of-sein（rev fZelm8，WC real，段级 5；Île de Sein 布列塔尼礁岛，Alaska 失事处）R56 -->
+<!-- ✔ [place] Icy Cape — 已建 icy-cape（rev QTfZa7，FC real，段级 5；阿拉斯加岬，接 victoria-island 漂流簇）R56 -->
 
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->

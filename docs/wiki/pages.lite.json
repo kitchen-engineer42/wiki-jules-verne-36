@@ -3157,11 +3157,23 @@
       ],
       "path": "hu/hudsons-bay-company.md"
     },
+    "hudsons-bay": {
+      "type": "place",
+      "label": "Hudson's Bay",
+      "aliases": [],
+      "path": "hu/hudsons-bay.md"
+    },
     "iceland": {
       "type": "place",
       "label": "Iceland",
       "aliases": [],
       "path": "ic/iceland.md"
+    },
+    "icy-cape": {
+      "type": "place",
+      "label": "Icy Cape",
+      "aliases": [],
+      "path": "ic/icy-cape.md"
     },
     "in-search-of-the-castaways": {
       "type": "work",
@@ -3188,6 +3200,22 @@
         "Committee of Inquiry"
       ],
       "path": "in/inquiry-committee.md"
+    },
+    "island-of-ljakow": {
+      "type": "place",
+      "label": "Island of Ljakow",
+      "aliases": [
+        "Ljakow Island"
+      ],
+      "path": "is/island-of-ljakow.md"
+    },
+    "island-of-sein": {
+      "type": "place",
+      "label": "Island of Sein",
+      "aliases": [
+        "Île de Sein"
+      ],
+      "path": "is/island-of-sein.md"
     },
     "jangada": {
       "type": "technology",
@@ -4857,6 +4885,14 @@
       "label": "Port Egmont",
       "aliases": [],
       "path": "po/port-egmont.md"
+    },
+    "port-grauben": {
+      "type": "place",
+      "label": "Port Gräuben",
+      "aliases": [
+        "Port Grauben"
+      ],
+      "path": "po/port-grauben.md"
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -8026,8 +8062,12 @@
     "hudsons-bay-company": "hudsons-bay-company",
     "Hudson's Bay Company": "hudsons-bay-company",
     "the Company": "hudsons-bay-company",
+    "hudsons-bay": "hudsons-bay",
+    "Hudson's Bay": "hudsons-bay",
     "iceland": "iceland",
     "Iceland": "iceland",
+    "icy-cape": "icy-cape",
+    "Icy Cape": "icy-cape",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
     "In Search of the Castaways": "in-search-of-the-castaways",
     "The Children of Captain Grant": "in-search-of-the-castaways",
@@ -8039,6 +8079,12 @@
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
+    "island-of-ljakow": "island-of-ljakow",
+    "Island of Ljakow": "island-of-ljakow",
+    "Ljakow Island": "island-of-ljakow",
+    "island-of-sein": "island-of-sein",
+    "Island of Sein": "island-of-sein",
+    "Île de Sein": "island-of-sein",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -8392,6 +8438,9 @@
     "Port Barnett": "port-barnett",
     "port-egmont": "port-egmont",
     "Port Egmont": "port-egmont",
+    "port-grauben": "port-grauben",
+    "Port Gräuben": "port-grauben",
+    "Port Grauben": "port-grauben",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -8914,6 +8963,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1180,
-  "generated": "2026-07-16T02:05:52Z"
+  "page_count": 1185,
+  "generated": "2026-07-16T02:09:30Z"
 }

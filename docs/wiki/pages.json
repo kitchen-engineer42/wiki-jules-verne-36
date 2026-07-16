@@ -8540,7 +8540,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "fort-sumter": {
       "type": "place",
@@ -10456,7 +10456,29 @@
       "quality": "featured",
       "quality_score": 91,
       "book": "The Fur Country",
-      "total_refs": 2
+      "total_refs": 3
+    },
+    "hudsons-bay": {
+      "type": "place",
+      "label": "Hudson's Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "arctic"
+      ],
+      "path": "hu/hudsons-bay.md",
+      "description": "The great inland sea of northern Canada, gateway for the fur-trade expeditions of the north — distinct from the trading company of the same name.",
+      "prose_len": 1676,
+      "prose_chars": 1574,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "iceland": {
       "type": "place",
@@ -10479,6 +10501,28 @@
       "quality_score": 71,
       "book": "Journey to the Center of the Earth",
       "total_refs": 48
+    },
+    "icy-cape": {
+      "type": "place",
+      "label": "Icy Cape",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "arctic"
+      ],
+      "path": "ic/icy-cape.md",
+      "description": "The Alaskan promontory near which the drifting Victoria Island passes, home to the Esquimaux who aid the castaways in The Fur Country.",
+      "prose_len": 1408,
+      "prose_chars": 1312,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "in-search-of-the-castaways": {
       "type": "work",
@@ -10553,6 +10597,54 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
+    "island-of-ljakow": {
+      "type": "place",
+      "label": "Island of Ljakow",
+      "aliases": [
+        "Ljakow Island"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "arctic"
+      ],
+      "path": "is/island-of-ljakow.md",
+      "description": "The New Siberian island for which the Alaska races in pursuit of Tudor Brown in The Waif of the Cynthia.",
+      "prose_len": 1360,
+      "prose_chars": 1257,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
+    "island-of-sein": {
+      "type": "place",
+      "label": "Island of Sein",
+      "aliases": [
+        "Île de Sein"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "brittany"
+      ],
+      "path": "is/island-of-sein.md",
+      "description": "The rocky island off the Brittany coast, ringed by deadly reefs, on which the Alaska is wrecked in The Waif of the Cynthia.",
+      "prose_len": 1245,
+      "prose_chars": 1146,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Waif of the Cynthia",
       "total_refs": 0
     },
     "jangada": {
@@ -11795,7 +11887,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 7
+      "total_refs": 8
     },
     "lincoln-island-landing": {
       "type": "event",
@@ -16085,6 +16177,30 @@
       "quality_score": 67,
       "book": "An Antarctic Mystery",
       "total_refs": 1
+    },
+    "port-grauben": {
+      "type": "place",
+      "label": "Port Gräuben",
+      "aliases": [
+        "Port Grauben"
+      ],
+      "tags": [
+        "place",
+        "harbour",
+        "underground"
+      ],
+      "path": "po/port-grauben.md",
+      "description": "The creek on the shore of the underground Liedenbrock Sea, named by Professor Liedenbrock as the launch point of the raft voyage in Journey to the Centre of the Earth.",
+      "prose_len": 1533,
+      "prose_chars": 1433,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Journey to the Centre of the Earth",
+      "total_refs": 0
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -20661,7 +20777,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 8
+      "total_refs": 9
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -20786,7 +20902,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 2
+      "total_refs": 4
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -20992,7 +21108,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 3
+      "total_refs": 5
     },
     "ticket-no-9672": {
       "type": "work",
@@ -23447,7 +23563,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 7
+      "total_refs": 8
     },
     "vigo-bay": {
       "type": "place",
@@ -25011,8 +25127,12 @@
     "hudsons-bay-company": "hudsons-bay-company",
     "Hudson's Bay Company": "hudsons-bay-company",
     "the Company": "hudsons-bay-company",
+    "hudsons-bay": "hudsons-bay",
+    "Hudson's Bay": "hudsons-bay",
     "iceland": "iceland",
     "Iceland": "iceland",
+    "icy-cape": "icy-cape",
+    "Icy Cape": "icy-cape",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
     "In Search of the Castaways": "in-search-of-the-castaways",
     "The Children of Captain Grant": "in-search-of-the-castaways",
@@ -25024,6 +25144,12 @@
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
+    "island-of-ljakow": "island-of-ljakow",
+    "Island of Ljakow": "island-of-ljakow",
+    "Ljakow Island": "island-of-ljakow",
+    "island-of-sein": "island-of-sein",
+    "Island of Sein": "island-of-sein",
+    "Île de Sein": "island-of-sein",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -25377,6 +25503,9 @@
     "Port Barnett": "port-barnett",
     "port-egmont": "port-egmont",
     "Port Egmont": "port-egmont",
+    "port-grauben": "port-grauben",
+    "Port Gräuben": "port-grauben",
+    "Port Grauben": "port-grauben",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -25899,6 +26028,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1180,
-  "generated": "2026-07-16T02:05:52Z"
+  "page_count": 1185,
+  "generated": "2026-07-16T02:09:30Z"
 }
