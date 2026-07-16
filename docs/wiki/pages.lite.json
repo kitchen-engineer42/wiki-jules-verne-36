@@ -374,6 +374,12 @@
       ],
       "path": "ad/a-drama-in-the-air.md"
     },
+    "aden": {
+      "type": "place",
+      "label": "Aden",
+      "aliases": [],
+      "path": "ad/aden.md"
+    },
     "adventures-of-a-special-correspondent": {
       "type": "work",
       "label": "The Adventures of a Special Correspondent",
@@ -792,6 +798,12 @@
       "label": "Auckland",
       "aliases": [],
       "path": "au/auckland.md"
+    },
+    "australia": {
+      "type": "place",
+      "label": "Australia",
+      "aliases": [],
+      "path": "au/australia.md"
     },
     "AWED-ch01": {
       "type": "chapter",
@@ -3040,6 +3052,12 @@
       "aliases": [],
       "path": "fw/FWB-ch44.md"
     },
+    "gallia": {
+      "type": "place",
+      "label": "Gallia",
+      "aliases": [],
+      "path": "ga/gallia.md"
+    },
     "gallian-sea": {
       "type": "place",
       "label": "Gallian Sea",
@@ -4800,6 +4818,12 @@
       "label": "Norfolk Island",
       "aliases": [],
       "path": "no/norfolk-island.md"
+    },
+    "noroe": {
+      "type": "place",
+      "label": "Noroe",
+      "aliases": [],
+      "path": "no/noroe.md"
     },
     "north-polar-practical-association": {
       "type": "organization",
@@ -6618,6 +6642,12 @@
       "aliases": [],
       "path": "si/SI-ch20.md"
     },
+    "siberia": {
+      "type": "place",
+      "label": "Siberia",
+      "aliases": [],
+      "path": "si/siberia.md"
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -8002,6 +8032,8 @@
     "Un drame dans les airs": "a-drama-in-the-air",
     "A Voyage in a Balloon": "a-drama-in-the-air",
     "A Drama in the Clouds": "a-drama-in-the-air",
+    "aden": "aden",
+    "Aden": "aden",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -8092,6 +8124,8 @@
     "Atlantic Ocean": "atlantic-ocean",
     "auckland": "auckland",
     "Auckland": "auckland",
+    "australia": "australia",
+    "Australia": "australia",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -8582,6 +8616,8 @@
     "FWB-ch42": "FWB-ch42",
     "FWB-ch43": "FWB-ch43",
     "FWB-ch44": "FWB-ch44",
+    "gallia": "gallia",
+    "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
     "giant-squid-attack": "giant-squid-attack",
@@ -9006,6 +9042,8 @@
     "glonoin": "nitroglycerine",
     "norfolk-island": "norfolk-island",
     "Norfolk Island": "norfolk-island",
+    "noroe": "noroe",
+    "Noroe": "noroe",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -9382,6 +9420,8 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "siberia": "siberia",
+    "Siberia": "siberia",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -9694,6 +9734,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1267,
-  "generated": "2026-07-16T04:35:19Z"
+  "page_count": 1272,
+  "generated": "2026-07-16T04:50:36Z"
 }

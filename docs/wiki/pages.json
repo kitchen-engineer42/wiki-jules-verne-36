@@ -1228,6 +1228,29 @@
       "quality_score": 82,
       "total_refs": 0
     },
+    "aden": {
+      "type": "place",
+      "label": "Aden",
+      "aliases": [],
+      "tags": [
+        "place",
+        "yemen",
+        "around-the-world-in-eighty-days",
+        "voyage"
+      ],
+      "path": "ad/aden.md",
+      "description": "Red Sea coaling port at the far end of the run from Suez where the Mongolia puts in on Phileas Fogg's way to Bombay.",
+      "prose_len": 1392,
+      "prose_chars": 1308,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "adventures-of-a-special-correspondent": {
       "type": "work",
       "label": "The Adventures of a Special Correspondent",
@@ -2030,7 +2053,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 23
+      "total_refs": 24
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -2610,6 +2633,29 @@
       "prose_chars": 1368,
       "h2_count": 4,
       "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
+    "australia": {
+      "type": "place",
+      "label": "Australia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "oceania",
+        "in-search-of-the-castaways",
+        "exploration"
+      ],
+      "path": "au/australia.md",
+      "description": "Southern continent crossed on the 37th parallel by Glenarvan's party in the second phase of the search for Captain Grant.",
+      "prose_len": 1462,
+      "prose_chars": 1376,
+      "h2_count": 4,
+      "pn_count": 6,
       "wikilink_count": 1,
       "blockquote_count": 0,
       "quality": "featured",
@@ -3798,7 +3844,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Around the World in Eighty Days",
-      "total_refs": 2
+      "total_refs": 3
     },
     "BR-ch01": {
       "type": "chapter",
@@ -8941,7 +8987,7 @@
       "quality_score": 66,
       "affiliation": "Scotland Yard",
       "book": "Around the World in Eighty Days",
-      "total_refs": 37
+      "total_refs": 38
     },
     "flag-point": {
       "type": "place",
@@ -10092,6 +10138,29 @@
       "book_seq": 449,
       "book": "Five Weeks in a Balloon",
       "total_refs": 1
+    },
+    "gallia": {
+      "type": "place",
+      "label": "Gallia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "off-on-a-comet",
+        "science-fiction",
+        "astronomy"
+      ],
+      "path": "ga/gallia.md",
+      "description": "The fragment of Earth carried off around the sun as a new little planet, the travelling world of Off on a Comet.",
+      "prose_len": 1508,
+      "prose_chars": 1422,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Off on a Comet",
+      "total_refs": 0
     },
     "gallian-sea": {
       "type": "place",
@@ -11260,7 +11329,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 15
+      "total_refs": 16
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11377,7 +11446,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 8
+      "total_refs": 9
     },
     "island-of-ljakow": {
       "type": "place",
@@ -14428,7 +14497,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 17
+      "total_refs": 18
     },
     "michel-ardan": {
       "type": "character",
@@ -15960,6 +16029,29 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "noroe": {
+      "type": "place",
+      "label": "Noroe",
+      "aliases": [],
+      "tags": [
+        "place",
+        "norway",
+        "the-waif-of-the-cynthia",
+        "voyage"
+      ],
+      "path": "no/noroe.md",
+      "description": "Fishing village on the western coast of Norway near Bergen where the foundling Erik is raised in The Waif of the Cynthia.",
+      "prose_len": 1478,
+      "prose_chars": 1394,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "north-polar-practical-association": {
       "type": "organization",
       "label": "North Polar Practical Association",
@@ -16082,7 +16174,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "OC-ch01": {
       "type": "chapter",
@@ -17007,7 +17099,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 2
+      "total_refs": 3
     },
     "omaha": {
       "type": "place",
@@ -21995,6 +22087,29 @@
       "book": "The Secret of the Island",
       "total_refs": 1
     },
+    "siberia": {
+      "type": "place",
+      "label": "Siberia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "russia",
+        "michael-strogoff",
+        "exploration"
+      ],
+      "path": "si/siberia.md",
+      "description": "The vast Asiatic Russian land across which Michael Strogoff carries the Tsar's message from Moscow to Irkutsk.",
+      "prose_len": 1557,
+      "prose_chars": 1471,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -22322,7 +22437,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "sullivan-island": {
       "type": "place",
@@ -22814,7 +22929,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 6
+      "total_refs": 7
     },
     "ticket-no-9672": {
       "type": "work",
@@ -26297,7 +26412,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "yokohama": {
       "type": "place",
@@ -26413,6 +26528,8 @@
     "Un drame dans les airs": "a-drama-in-the-air",
     "A Voyage in a Balloon": "a-drama-in-the-air",
     "A Drama in the Clouds": "a-drama-in-the-air",
+    "aden": "aden",
+    "Aden": "aden",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -26503,6 +26620,8 @@
     "Atlantic Ocean": "atlantic-ocean",
     "auckland": "auckland",
     "Auckland": "auckland",
+    "australia": "australia",
+    "Australia": "australia",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -26993,6 +27112,8 @@
     "FWB-ch42": "FWB-ch42",
     "FWB-ch43": "FWB-ch43",
     "FWB-ch44": "FWB-ch44",
+    "gallia": "gallia",
+    "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
     "giant-squid-attack": "giant-squid-attack",
@@ -27417,6 +27538,8 @@
     "glonoin": "nitroglycerine",
     "norfolk-island": "norfolk-island",
     "Norfolk Island": "norfolk-island",
+    "noroe": "noroe",
+    "Noroe": "noroe",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -27793,6 +27916,8 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "siberia": "siberia",
+    "Siberia": "siberia",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -28105,6 +28230,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1267,
-  "generated": "2026-07-16T04:35:19Z"
+  "page_count": 1272,
+  "generated": "2026-07-16T04:50:36Z"
 }

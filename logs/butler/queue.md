@@ -264,11 +264,11 @@
 - [place] Ega — EHLA:14；埃加（real 巴西亚马逊镇；EHLA jangada 停靠地）
 - [place] Zabediero — MS:11；扎别季耶罗（real 西伯利亚村；MS 8/15 convoy 抵达地）
 <!-- ═══ R84 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选，各已精核词边界 distinctPN ≥5，均非既有页/人物（既有 held 跨源候选 North Sea/Cape Bon/Bay of Bengal/Long Island/Black Sea/Lake Ontario 单作 max 均 <5，续 hold；Kara Sea 词边界仅 TTLU:1，原 agg 5 系子串污染 → 剔除）═══ -->
-- [place] Gallia — OC:156；加利亚（fictional 彗星世界；OC 携地球碎块绕日的新小行星/居民世界，region space (comet)）
-- [place] Australia — SC:93；澳大利亚（real 大洋洲；SC 沿 37°线横穿之陆/Ayrton 线索地）
-- [place] Siberia — MS:78；西伯利亚（real 俄；MS Michael 东行主区域/鞑靼入侵战场）
-- [place] Noroe — WC:45；努勒（fictional 挪威西岸近 Bergen 渔村；WC Erik 成长村/Malarius 学堂所在）
-- [place] Aden — AWED:6；亚丁（real 也门；AWED Suez→Aden 红海加煤港，1310 英里段终点）
+<!-- ✔ [place] Gallia — 已建 gallia（rev WCPS8u，OC fictional，页内引注 5；携地球碎块绕日的新小行星/Servadac 居民世界，region Space (comet)）R85 -->
+<!-- ✔ [place] Australia — 已建 australia（rev c0iT4Z，SC real，页内引注 6；沿 37°线横穿之岛陆/Britannia 失事第二搜索地，region Oceania）R85 -->
+<!-- ✔ [place] Siberia — 已建 siberia（rev IOk3hV，MS real，页内引注 6；Michael 东行主区域/鞑靼入侵战场，region Russia (Siberia)）R85 -->
+<!-- ✔ [place] Noroe — 已建 noroe（rev NUQNKM，WC fictional，页内引注 5；挪威西岸近 Bergen 渔村/Erik 成长村，region Norway）R85 -->
+<!-- ✔ [place] Aden — 已建 aden（rev uNtwxK，AWED real，页内引注 5；Suez→Aden 红海加煤港/Fix 尾随上岸地，region Yemen）R85 -->
 - [place] Yakutsk — MS:5；雅库茨克（real 东西伯利亚；MS 远东驿路城，distinctPN 恰达门）
 <!-- ✔ [place] Allahabad — 已建 allahabad（rev *，AWED real，页内引注 5；GIP 铁路 50 英里缺口/大象接驳终点，region India）R82 -->
 <!-- ✔ [place] Benares — 已建 benares（rev *，AWED real，页内引注 5；恒河圣城/Cromarty 离队站，region India）R82 -->
