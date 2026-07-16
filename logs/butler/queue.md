@@ -60,7 +60,7 @@
 <!-- ✔ [place] Behring Strait — 已建 behring-strait（rev HoSRPw，FC real，实测 22）R38 -->
 
 - [place] Polar Sea — FC；FC:14；北极海（real/generic，建前定名）
-- [place] Bear Lake — FC；FC:11；大熊湖（real）
+<!-- ✔ [place] Bear Lake — 已建 great-bear-lake（rev fWO4Yz，FC real，段级 11；label Great Bear Lake / alias Bear Lake；Hobson 远征绕行大湖，接 fort-confidence/cape-bathurst）R53 -->
 <!-- Antarctic Mystery / Hatteras 北极（AM/ACH）：-->
 <!-- ✔ [place] Tsalal Island — 已建 tsalal-island（rev 2xuDfE，AM，实测 61；接 christmas-harbour）R37 -->
 <!-- ✔ [place] Fort Providence — 已建 fort-providence（rev P7ngFy，ACH fictional，实测严扫 22）R40 -->
@@ -70,7 +70,7 @@
 <!-- Off on a Comet（OC，fictional 彗星世界）：-->
 <!-- ✔ [place] Gourbi Island — 已建 gourbi-island（rev 2c7uBR，OC，实测 41）R38 -->
 
-- [place] Gallian Sea — OC；OC:12；彗星 Gallia 之海（fictional）
+<!-- ✔ [place] Gallian Sea — 已建 gallian-sea（rev PVRXrN，OC fictional，段级 12；彗星 Gallia 之海，接 gourbi-island）R53 -->
 <!-- Godfrey Morgan（GM，fictional 荒岛）：-->
 <!-- ✔ [place] Phina Island + Spencer Island — 合并建 spencer-island（rev kUew0J，GM，label=Spencer Island / alias=Phina Island，实测 40+18；同岛异名，一页消双候选）R38 -->
 
@@ -82,10 +82,10 @@
 <!-- 其它真实地理（各源作，建前实测校准）：-->
 <!-- ✔ [place] Lake Erie — 已建 lake-erie（rev XonrDi，MW real，实测 27）R40 -->
 <!-- ✔ [place] Lake Baikal — 已建 lake-baikal（rev 1ZLYip，MS real，实测 18 含变体；Strogoff 越境大湖，alias The Baikal）R44 -->
-- [place] Cape Bernouilli — SC(In Search of the Castaways)；SC:10；澳洲 37 度线起点岬（real，接 twofold-bay 链）
-- [place] Cape Horn — TTLU/SC；主源 TTLU:9；合恩角（real，跨作）
+<!-- ✔ [place] Cape Bernouilli — 已建 cape-bernouilli（rev 2OkoaN，SC real，段级 10；37 度线西端岬，接 twofold-bay/cape-corrientes）R53 -->
+<!-- ✔ [place] Cape Horn — 已建 cape-horn（rev OyXgWE，TTLU/SC real，跨源页内引注 6；南美极南之岬，Nautilus/Duncan 皆绕行）R53 -->
 - [place] Rocky Mountains — RM 等；主源 RM:9；落基山脉（real，跨作）
-- [place] Loch Malcolm — UC(The Underground City)；UC:13；New Aberfoyle 地下湖（fictional，接 loch-katrine/new-aberfoyle）
+<!-- ✔ [place] Loch Malcolm — 已建 loch-malcolm（rev jN9IR0，UC fictional，段级 13；New Aberfoyle 地下湖/Coal Town 临湖，接 loch-katrine/new-aberfoyle）R53 -->
 
 <!-- ═══ R41 SCN28 表层复扫补种（30 候选，主源 distinctPN 严扫，建前逐页复核）═══ -->
 <!-- FC 漂流簇补：-->

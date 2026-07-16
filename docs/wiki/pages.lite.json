@@ -1144,6 +1144,12 @@
       "aliases": [],
       "path": "ca/cape-bathurst.md"
     },
+    "cape-bernouilli": {
+      "type": "place",
+      "label": "Cape Bernouilli",
+      "aliases": [],
+      "path": "ca/cape-bernouilli.md"
+    },
     "cape-corrientes": {
       "type": "place",
       "label": "Cape Corrientes",
@@ -1161,6 +1167,12 @@
       "label": "Cape Farewell",
       "aliases": [],
       "path": "ca/cape-farewell.md"
+    },
+    "cape-horn": {
+      "type": "place",
+      "label": "Cape Horn",
+      "aliases": [],
+      "path": "ca/cape-horn.md"
     },
     "cape-michael": {
       "type": "place",
@@ -2851,6 +2863,12 @@
       "aliases": [],
       "path": "fw/FWB-ch44.md"
     },
+    "gallian-sea": {
+      "type": "place",
+      "label": "Gallian Sea",
+      "aliases": [],
+      "path": "ga/gallian-sea.md"
+    },
     "giant-squid-attack": {
       "type": "event",
       "label": "The Giant Squid Attack",
@@ -3045,6 +3063,14 @@
       "label": "Granite House",
       "aliases": [],
       "path": "gr/granite-house.md"
+    },
+    "great-bear-lake": {
+      "type": "place",
+      "label": "Great Bear Lake",
+      "aliases": [
+        "Bear Lake"
+      ],
+      "path": "gr/great-bear-lake.md"
     },
     "great-eyrie": {
       "type": "place",
@@ -3548,6 +3574,12 @@
       "label": "Loch Katrine",
       "aliases": [],
       "path": "lo/loch-katrine.md"
+    },
+    "loch-malcolm": {
+      "type": "place",
+      "label": "Loch Malcolm",
+      "aliases": [],
+      "path": "lo/loch-malcolm.md"
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -7521,12 +7553,16 @@
     "Canadian Transportation Company": "canadian-general-transportation-company",
     "cape-bathurst": "cape-bathurst",
     "Cape Bathurst": "cape-bathurst",
+    "cape-bernouilli": "cape-bernouilli",
+    "Cape Bernouilli": "cape-bernouilli",
     "cape-corrientes": "cape-corrientes",
     "Cape Corrientes": "cape-corrientes",
     "cape-esquimaux": "cape-esquimaux",
     "Cape Esquimaux": "cape-esquimaux",
     "cape-farewell": "cape-farewell",
     "Cape Farewell": "cape-farewell",
+    "cape-horn": "cape-horn",
+    "Cape Horn": "cape-horn",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
     "cape-tchelynskin": "cape-tchelynskin",
@@ -7870,6 +7906,8 @@
     "FWB-ch42": "FWB-ch42",
     "FWB-ch43": "FWB-ch43",
     "FWB-ch44": "FWB-ch44",
+    "gallian-sea": "gallian-sea",
+    "Gallian Sea": "gallian-sea",
     "giant-squid-attack": "giant-squid-attack",
     "The Giant Squid Attack": "giant-squid-attack",
     "Attack of the Poulps": "giant-squid-attack",
@@ -7918,6 +7956,9 @@
     "the lift": "granite-house-lift",
     "granite-house": "granite-house",
     "Granite House": "granite-house",
+    "great-bear-lake": "great-bear-lake",
+    "Great Bear Lake": "great-bear-lake",
+    "Bear Lake": "great-bear-lake",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
     "great-salt-lake": "great-salt-lake",
@@ -8049,6 +8090,8 @@
     "Lincoln Island": "lincoln-island",
     "loch-katrine": "loch-katrine",
     "Loch Katrine": "loch-katrine",
+    "loch-malcolm": "loch-malcolm",
+    "Loch Malcolm": "loch-malcolm",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -8822,6 +8865,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1170,
-  "generated": "2026-07-15T12:59:49Z"
+  "page_count": 1175,
+  "generated": "2026-07-16T01:58:45Z"
 }
