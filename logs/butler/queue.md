@@ -240,6 +240,13 @@
 <!-- ✔ [place] Pamir — 已建 pamir（rev fJSDvL，ASC real，页内引注 13；中亚高原「世界屋脊」/大铁路凿穿，region Central Asia）R90 -->
 <!-- ✔ [place] Atacama — 已建 atacama（rev hx2mBk，DSCF real，页内引注 7；Harris 谎称之南美沙漠，book 'Dick Sand: A Captain at Fifteen'，region South America）R90 -->
 
+<!-- ═══ R91 SCN28 表层复扫补种（queue=3<10 触发，since_discover=1）：demonym-stoplist geo 邻接续扫，surface 一批大区域/国家级真地名——否证 R89/R90「place 趋饱和」判断。各以 `\bName\b` 全库核 distinctPN 均 ≫5，粒度同既建 Australia/Siberia/Patagonia（区域级）。new_candidates=5≥3 → discover_streak_low 1→0，place 关闭倒计时撤销。⚠ Africa/South America 为洲级、最广，建页须以「Verne 笔下之设定」聚焦确指句，避免泛写。 -->
+- [place] Norway — 跨源 101 distinctPN（TN:32/WC:25/TT:9/TTLU:6 主）；挪威（real；Telemark/Bergen/峡湾国度，主作 Ticket No. 9672 或 The Waif of the Cynthia）
+- [place] New Zealand — 跨源 127 distinctPN（SC:72/DSCF:21/MI:18 主）；新西兰（real；SC 毛利篇主舞台/37°线终点，book In Search of the Castaways）
+- [place] Angola — DSCF:32；安哥拉（real；DSCF 内陆奴隶贸易之地/Kazounde 所在，book 'Dick Sand: A Captain at Fifteen'）
+- [place] Africa — 跨源 245 distinctPN（DSCF:91/FWB:70/OC:15/TTLU:14 主）；非洲（real 洲级；FWB 气球横越之陆，book 待定 Five Weeks in a Balloon）⚠ 洲级泛，聚焦确指句
+- [place] South America — 跨源 53 distinctPN（DSCF:17/EHLA:11/SC:8 主）；南美洲（real 洲级；DSCF/EHLA/SC 之舞台，book 待定）⚠ 洲级泛，聚焦确指句
+
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
 <!-- ✔ [place] Patagonia — 已建 patagonia（rev *，SC real，页内引注 6；南美南端 pampas/37°线首搜索区，region South America）R88 -->
