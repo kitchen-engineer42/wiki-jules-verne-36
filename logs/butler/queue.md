@@ -247,6 +247,22 @@
 <!-- ✔ [place] Kilimanjaro — 已建 kilimanjaro（rev *，TT real，页内引注 6；Gun Club 巨炮山/移轴之射，region East Africa (Tanzania)；book=Topsy Turvy）R78 -->
 <!-- ✔ [place] Tsalal — 已建 tsalal（rev *，AM fictional，页内引注 5；Poe Pym 续篇南极岛/Halbrane 目标，region Antarctic (Southern Ocean)）R78 -->
 <!-- ✔ [place] Calcutta — 已建 calcutta（rev *，AWED real，页内引注 6；孟加拉首府/Fogg 印度铁路东终点，region India (Bengal)）R78 -->
+<!-- ═══ R79 SCN28 表层复扫补种（queue=9<10 触发，since_discover=2）：续裸词城市扫描 + 河/湖名精核，各已排除既有页（lake-baikal 已存→剔 Baikal）与人名（Coimbra=DSCF 奴商，剔），词边界 distinctPN ≥8 ═══ -->
+- [place] Amazon — EHLA:179；亚马逊河（real 南美；EHLA 主河/jangada 航道）
+- [place] Krasnoiarsk — MS:38；克拉斯诺亚尔斯克（real 东西伯利亚；MS Blount 电报终点）
+- [place] Perm — MS:28；彼尔姆（real 乌拉尔；MS 电报站/Volga-Ural 渡口）
+- [place] Obi — MS:24；鄂毕河（real 西伯利亚；MS 渡河点）
+- [place] Ekaterenburg — MS:22；叶卡捷琳堡（real 乌拉尔；MS 电报站）
+- [place] Yenisei — MS:21；叶尼塞河（real 东西伯利亚；MS Krasnoiarsk 渡河）
+- [place] Volga — MS:21；伏尔加河（real 俄；MS Nijni-Novgorod 河汊）
+- [place] Omaha — AWED:20；奥马哈（real 美内布拉斯加；AWED 太平洋铁路东端）
+- [place] Liverpool — AWED:25；利物浦（real 英；Fogg 归国登陆港）
+- [place] Suez — AWED:22；苏伊士（real 埃及；Fogg 运河中转/Fix 候船）
+- [place] Auckland — SC:31；奥克兰（real 新西兰；SC 北岛海岸目标港）
+- [place] Shanghai — AWED:11；上海（real 中国；AWED 领航船目标港）
+- [place] Singapore — AWED:10；新加坡（real；AWED 印度洋-太平洋中转港）
+- [place] Ega — EHLA:14；埃加（real 巴西亚马逊镇；EHLA jangada 停靠地）
+- [place] Zabediero — MS:11；扎别季耶罗（real 西伯利亚村；MS 8/15 convoy 抵达地）
 - [place] Allahabad — AWED:14；阿拉哈巴德（real 印度；Fogg 铁路中断处）
 - [place] Benares — AWED:8；贝拿勒斯（real 印度；Fogg 恒河圣城站）
 
