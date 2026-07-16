@@ -248,11 +248,11 @@
 <!-- ✔ [place] South America — 已建 south-america（rev 8sjChG，DSCF real，页内引注 10；DSCF/EHLA/SC 之舞台，book 'Dick Sand: A Captain at Fifteen'，region South America）R92 -->
 
 <!-- ═══ R95 SCN28 表层复扫补种（queue=2<10 触发，since_discover=3）：geo-adjacency 表层扫仅回噪声（Victoria 多实体/America 泛指/Klock 子串/Niagara 既建裸名/Floridian·Algerian demonym），0 新——但**国名裸词绕过 geo 关键词模式**，遂对 Verne 高频设定国逐一词边界核 distinctPN，surface 一批国家级真地名（承 R91「国级层未穷尽」预告）。各 `\bName\b` 全库核 ≫5，粒度同既建 Australia/Siberia/Norway/New Zealand（区/国级）。new_candidates=10≥3 → discover_streak_low 保持 0，place 广度未竭（否证「表层 0 新→CLOSE」假信号）。queue 2→12。 -->
-- [place] China — ASC:56（Claudius Bombarnac 大铁路穿华）/AWED:14；跨源 107 distinctPN（real；主作 The Adventures of a Special Correspondent）
-- [place] India — AWED:28（八十天环游）/SC:13/RC:9；跨源 93 distinctPN（real；主作 Around the World in Eighty Days）
-- [place] Russia — MS:49（Michael Strogoff）/ASC:16/TT:16；跨源 115 distinctPN（real；主作 Michael Strogoff）
-- [place] Scotland — SC:19（Glenarvan 故乡）/UC:9（地下城）；跨源 43 distinctPN（real；主作 In Search of the Castaways）
-- [place] Brazil — EHLA:39（八百里亚马逊）；跨源 58 distinctPN（real；主作 Eight Hundred Leagues on the Amazon）
+<!-- ✔ [place] China — 已建 china（rev f5khzk，ASC real，页内引注 9；Grand Transasiatic 东终点/Bombarnac 目的地 Pekin，book The Adventures of a Special Correspondent，region East Asia）R96 -->
+<!-- ✔ [place] India — 已建 india（rev B8JInf，AWED real，页内引注 9；Fogg 三日横越之英属印度，book Around the World in Eighty Days，region South Asia）R96 -->
+<!-- ✔ [place] Russia — 已建 russia（rev sRNgL3，MS real，页内引注 9；Strogoff 信使穿越之帝国，book Michael Strogoff，region Russian Empire）R96 -->
+<!-- ✔ [place] Scotland — 已建 scotland（rev oai6WN，SC real，页内引注 10；Glenarvan 高地故乡/Duncan 启航地，book In Search of the Castaways，region British Isles）R96 -->
+<!-- ✔ [place] Brazil — 已建 brazil（rev AkAABr，EHLA real，页内引注 10；Amazon 所润之国/Garral 家园，book Eight Hundred Leagues on the Amazon，region South America (Brazil)）R96 -->
 - [place] Peru — EHLA:19/PL:13；跨源 49 distinctPN（real；主作 Eight Hundred Leagues on the Amazon 或 The Pearl of Lima）
 - [place] Sweden — WC:13（Cynthia 弃儿）/TN:7/TT:11；跨源 42 distinctPN（real；主作 The Waif of the Cynthia）
 - [place] Japan — AWED:11（八十天环游）/TTLU:9；跨源 36 distinctPN（real；主作 Around the World in Eighty Days）

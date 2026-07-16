@@ -1256,6 +1256,12 @@
       "aliases": [],
       "path": "br/BR-ch10.md"
     },
+    "brazil": {
+      "type": "place",
+      "label": "Brazil",
+      "aliases": [],
+      "path": "br/brazil.md"
+    },
     "buffalo": {
       "type": "place",
       "label": "Buffalo",
@@ -1405,6 +1411,12 @@
         "Pitt Island"
       ],
       "path": "ch/chatham-islands.md"
+    },
+    "china": {
+      "type": "place",
+      "label": "China",
+      "aliases": [],
+      "path": "ch/china.md"
     },
     "christiania": {
       "type": "place",
@@ -3479,6 +3491,12 @@
         "The Day of an American Journalist in 2889"
       ],
       "path": "in/in-the-year-2889.md"
+    },
+    "india": {
+      "type": "place",
+      "label": "India",
+      "aliases": [],
+      "path": "in/india.md"
     },
     "indian-ocean": {
       "type": "place",
@@ -5807,6 +5825,12 @@
       ],
       "path": "ru/ruhmkorff-apparatus.md"
     },
+    "russia": {
+      "type": "place",
+      "label": "Russia",
+      "aliases": [],
+      "path": "ru/russia.md"
+    },
     "san-francisco": {
       "type": "place",
       "label": "San Francisco",
@@ -6564,6 +6588,12 @@
       "label": "The Survivors of the Chancellor — CHAPTER LVII",
       "aliases": [],
       "path": "sc/SC2-ch57.md"
+    },
+    "scotland": {
+      "type": "place",
+      "label": "Scotland",
+      "aliases": [],
+      "path": "sc/scotland.md"
     },
     "sea-monster-hunt": {
       "type": "event",
@@ -8375,6 +8405,8 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "brazil": "brazil",
+    "Brazil": "brazil",
     "buffalo": "buffalo",
     "Buffalo": "buffalo",
     "calcutta": "calcutta",
@@ -8429,6 +8461,8 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "china": "china",
+    "China": "china",
     "christiania": "christiania",
     "Christiania": "christiania",
     "Oslo": "christiania",
@@ -8887,6 +8921,8 @@
     "La Journée d'un journaliste américain en 2889": "in-the-year-2889",
     "In the Twenty-Ninth Century": "in-the-year-2889",
     "The Day of an American Journalist in 2889": "in-the-year-2889",
+    "india": "india",
+    "India": "india",
     "indian-ocean": "indian-ocean",
     "Indian Ocean": "indian-ocean",
     "inquiry-committee": "inquiry-committee",
@@ -9424,6 +9460,8 @@
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
     "Ruhmkorff coil": "ruhmkorff-apparatus",
+    "russia": "russia",
+    "Russia": "russia",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -9554,6 +9592,8 @@
     "SC2-ch55": "SC2-ch55",
     "SC2-ch56": "SC2-ch56",
     "SC2-ch57": "SC2-ch57",
+    "scotland": "scotland",
+    "Scotland": "scotland",
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
@@ -9922,6 +9962,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1293,
-  "generated": "2026-07-16T05:36:34Z"
+  "page_count": 1298,
+  "generated": "2026-07-16T05:48:53Z"
 }
