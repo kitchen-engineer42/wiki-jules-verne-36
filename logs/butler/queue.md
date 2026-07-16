@@ -167,6 +167,18 @@
 <!-- ✔ [place] Lake Ukereoue — 已建 lake-ukereoue（rev MJxCPm，FWB real，段级 7；尼罗河源大湖=维多利亚湖旧称，Speke 探险）R51 -->
 <!-- 长尾 5–6 agg 候选暂 hold（Detroit River/Navy Island/Goat Island/Niagara Falls[MW 尼亚加拉簇]、Platte River/North Sea/Chatham Islands/Sullivan Island/Washburn Bay/Lake Barnett/Lake Tinn/Fort Independence/Coronation Gulf/Balearic Isles/Bahama Channel/Caribbean Sea/Cape Bon/Mount Mendif/Blueridge Mountains/Cape Saknussemm/Shannon Island/Mounts Doerfel/Indian Peninsula/Long Island/Antarctic Sea），下轮 discover 或本批消费后再评估。 -->
 
+<!-- ═══ R54 SCN28 表层复扫补种（queue=7<10 触发；自 R48 以来首次 discover；(Cape|Lake|Mount|Fort|Port|Loch|Gulf|Isle|Bay of|Sea of)+Name 及 Name+(Island|Bay|Strait|...) 全标记扫描）═══ -->
+<!-- new_candidates=9（≫3，place 未穷尽，discover_streak_low 保持 0）。distinctPN 为主源单源严扫，已排除 106 既有 place + 变体（Behring's Strait=既有 behring-strait / The Torres Strait=既有 / Isle Tabor=既有 tabor-island / Lake Tanganyika=既有 R47）。建前仍须逐页段级复核（承页内引注门）。 -->
+- [place] Bay of Vigo — TTLU；TTLU:9；维哥湾（real，西班牙，Nautilus 打捞沉船金；label 拟 Vigo Bay/alias Bay of Vigo）
+- [place] Ham Rock — SC2(The Survivors of the Chancellor)；SC2:9；木筏漂流者所命名之礁岛（fictional，Curtis 船长命名）
+- [place] Gueboroa Island — TTLU；TTLU:8；Torres 海峡搁浅之岛（real/Papua，Nautilus 触礁；alias Gueboroar）
+- [place] Sea of Clouds — RM(Round the Moon)；RM:8；月海 Mare Nubium（real/lunar，接 lunar-projectile 簇）
+- [place] Sea of Rains — RM；RM:7；月海 Mare Imbrium（real/lunar）
+- [place] Island of Ljakow — WC；WC:6；Liakhov 岛（real，西伯利亚北极，Nordenskiold 航线）
+- [place] Port Gräuben — JCE(Journey to the Centre of the Earth)；JCE:7；地心之海内海滩，Liedenbrock 命名（fictional，接 liedenbrock-sea）
+- [place] Island of Sein — WC；WC:5；Île de Sein（real，布列塔尼，Cynthia 失事海域近旁）
+- [place] Icy Cape — FC；FC:5；冰角（real，阿拉斯加，接 victoria-island 漂流簇）
+
 <!-- ═══ technology 归档（R28 CLOSE 关闭，final_count=20，保留建页轨迹）═══ -->
 <!-- technology 候选（R21 CLOSE+SCN28 organization 关闭后为 technology 首轮 discover 补种）-->
 <!-- 既有 16 页 technology（Pilot 建）：nautilus/albatross/the-terror/the-forward/columbiad/jangada/victoria-balloon/lunar-projectile/giant-telescope/gun-cotton/nitroglycerine/ruhmkorff-apparatus/diving-apparatus/nemo-electricity/ships-compass/granite-house-lift -->
