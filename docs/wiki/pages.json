@@ -3563,6 +3563,29 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "bergen": {
+      "type": "place",
+      "label": "Bergen",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "norway",
+        "port"
+      ],
+      "path": "be/bergen.md",
+      "description": "The Norwegian west-coast port and fishing home of Ole Kamp, whose ship the Viking sails from it in Ticket No. 9672.",
+      "prose_len": 1542,
+      "prose_chars": 1447,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -3809,6 +3832,28 @@
       "book_seq": 734,
       "book": "The Blockade Runners",
       "total_refs": 1
+    },
+    "buffalo": {
+      "type": "place",
+      "label": "Buffalo",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "united-states"
+      ],
+      "path": "bu/buffalo.md",
+      "description": "The New York port at the eastern end of Lake Erie, past which the Terror races toward Niagara in The Master of the World.",
+      "prose_len": 1613,
+      "prose_chars": 1517,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Master of the World",
+      "total_refs": 0
     },
     "cambridge-observatory": {
       "type": "organization",
@@ -4242,6 +4287,30 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Robur the Conqueror",
+      "total_refs": 0
+    },
+    "christiania": {
+      "type": "place",
+      "label": "Christiania",
+      "aliases": [
+        "Oslo"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "norway"
+      ],
+      "path": "ch/christiania.md",
+      "description": "The Norwegian capital (today Oslo) whose professor Sylvius Hogg befriends the Hansen family in Ticket No. 9672.",
+      "prose_len": 1601,
+      "prose_chars": 1501,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Ticket No. 9672",
       "total_refs": 0
     },
     "christmas-harbour": {
@@ -6609,7 +6678,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 2
+      "total_refs": 3
     },
     "eighty-day-wager": {
       "type": "event",
@@ -12536,6 +12605,30 @@
       "book": "Round the Moon",
       "total_refs": 2
     },
+    "manaos": {
+      "type": "place",
+      "label": "Manaos",
+      "aliases": [
+        "Manaus"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "amazon"
+      ],
+      "path": "ma/manaos.md",
+      "description": "The Brazilian city at the mouth of the Rio Negro, a chief landmark on the Garrals' raft voyage down the Amazon in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1605,
+      "prose_chars": 1510,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "mandible-cape": {
       "type": "place",
       "label": "Mandible Cape",
@@ -13981,6 +14074,28 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
+    "mounts-doerfel": {
+      "type": "place",
+      "label": "Mounts Doerfel",
+      "aliases": [],
+      "tags": [
+        "place",
+        "moon",
+        "mountains"
+      ],
+      "path": "mo/mounts-doerfel.md",
+      "description": "The lofty lunar mountain range near the Moon's south pole observed by the travellers in Round the Moon.",
+      "prose_len": 1441,
+      "prose_chars": 1338,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Round the Moon",
       "total_refs": 0
     },
     "MS-ch01": {
@@ -18084,7 +18199,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 8
+      "total_refs": 9
     },
     "royal-geographical-society": {
       "type": "organization",
@@ -21845,7 +21960,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 10
+      "total_refs": 11
     },
     "the-moon": {
       "type": "place",
@@ -22052,7 +22167,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 1
+      "total_refs": 3
     },
     "TN-ch01": {
       "type": "chapter",
@@ -25662,6 +25777,8 @@
     "Behring Strait": "behring-strait",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
+    "bergen": "bergen",
+    "Bergen": "bergen",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "blue-ridge-mountains": "blue-ridge-mountains",
@@ -25678,6 +25795,8 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "buffalo": "buffalo",
+    "Buffalo": "buffalo",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
@@ -25726,6 +25845,9 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "christiania": "christiania",
+    "Christiania": "christiania",
+    "Oslo": "christiania",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
@@ -26288,6 +26410,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "manaos": "manaos",
+    "Manaos": "manaos",
+    "Manaus": "manaos",
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
@@ -26374,6 +26499,8 @@
     "Mount Franklin": "mount-franklin",
     "mount-mendif": "mount-mendif",
     "Mount Mendif": "mount-mendif",
+    "mounts-doerfel": "mounts-doerfel",
+    "Mounts Doerfel": "mounts-doerfel",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -27118,6 +27245,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1228,
-  "generated": "2026-07-16T03:34:13Z"
+  "page_count": 1233,
+  "generated": "2026-07-16T03:38:40Z"
 }

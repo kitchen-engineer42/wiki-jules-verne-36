@@ -1079,6 +1079,12 @@
       "aliases": [],
       "path": "be/bellot-strait.md"
     },
+    "bergen": {
+      "type": "place",
+      "label": "Bergen",
+      "aliases": [],
+      "path": "be/bergen.md"
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -1153,6 +1159,12 @@
       "label": "The Blockade Runners — CHAPTER X",
       "aliases": [],
       "path": "br/BR-ch10.md"
+    },
+    "buffalo": {
+      "type": "place",
+      "label": "Buffalo",
+      "aliases": [],
+      "path": "bu/buffalo.md"
     },
     "cambridge-observatory": {
       "type": "organization",
@@ -1285,6 +1297,14 @@
         "Pitt Island"
       ],
       "path": "ch/chatham-islands.md"
+    },
+    "christiania": {
+      "type": "place",
+      "label": "Christiania",
+      "aliases": [
+        "Oslo"
+      ],
+      "path": "ch/christiania.md"
     },
     "christmas-harbour": {
       "type": "place",
@@ -3788,6 +3808,14 @@
       ],
       "path": "lu/lunar-projectile.md"
     },
+    "manaos": {
+      "type": "place",
+      "label": "Manaos",
+      "aliases": [
+        "Manaus"
+      ],
+      "path": "ma/manaos.md"
+    },
     "mandible-cape": {
       "type": "place",
       "label": "Mandible Cape",
@@ -4222,6 +4250,12 @@
       "label": "Mount Mendif",
       "aliases": [],
       "path": "mo/mount-mendif.md"
+    },
+    "mounts-doerfel": {
+      "type": "place",
+      "label": "Mounts Doerfel",
+      "aliases": [],
+      "path": "mo/mounts-doerfel.md"
     },
     "MS-ch01": {
       "type": "chapter",
@@ -7908,6 +7942,8 @@
     "Behring Strait": "behring-strait",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
+    "bergen": "bergen",
+    "Bergen": "bergen",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "blue-ridge-mountains": "blue-ridge-mountains",
@@ -7924,6 +7960,8 @@
     "BR-ch08": "BR-ch08",
     "BR-ch09": "BR-ch09",
     "BR-ch10": "BR-ch10",
+    "buffalo": "buffalo",
+    "Buffalo": "buffalo",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
@@ -7972,6 +8010,9 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "christiania": "christiania",
+    "Christiania": "christiania",
+    "Oslo": "christiania",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
@@ -8534,6 +8575,9 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "manaos": "manaos",
+    "Manaos": "manaos",
+    "Manaus": "manaos",
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
@@ -8620,6 +8664,8 @@
     "Mount Franklin": "mount-franklin",
     "mount-mendif": "mount-mendif",
     "Mount Mendif": "mount-mendif",
+    "mounts-doerfel": "mounts-doerfel",
+    "Mounts Doerfel": "mounts-doerfel",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -9364,6 +9410,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1228,
-  "generated": "2026-07-16T03:34:13Z"
+  "page_count": 1233,
+  "generated": "2026-07-16T03:38:40Z"
 }

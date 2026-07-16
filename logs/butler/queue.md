@@ -242,7 +242,7 @@
 <!-- ✔ [place] Tomsk — 已建 tomsk（rev smNlPD，MS real，页内引注 7；西西伯利亚大城/电报线节点，region Western Siberia）R70 -->
 <!-- ✔ [place] Kazounde — 已建 kazounde（rev 6auVN9，DSCF real，页内引注 9；安哥拉内陆奴隶市场镇，book 'Dick Sand: A Captain at Fifteen'，region Angola）R69 -->
 <!-- ✔ [place] Iquitos — 已建 iquitos（rev MrMXVb，EHLA real，页内引注 8；亚马逊上游农庄村，Jangada 启航地，region Upper Amazon/Peru）R69 -->
-- [place] Manaos — EHLA:80；亚马逊内格罗河口巴西城（real，alias Manaus 待核）
+<!-- ✔ [place] Manaos — 已建 manaos（rev ShRCPC，EHLA real，页内引注 7；亚马逊内格罗河口巴西城，alias Manaus，region Amazonas）R71 -->
 <!-- ✔ [place] Pekin — 已建 pekin（rev I1W7pu，ASC real，页内引注 8；清帝国京城/Grand Transasiatic 东端，alias Peking，book 'The Adventures of a Special Correspondent'，region China）R70 -->
 <!-- ✔ [place] Zanzibar — 已建 zanzibar（rev qNvNiE，FWB real，页内引注 9；东非岛/港，气球启程地，region East African coast）R69 -->
 <!-- ✔ [place] San Francisco — 已建 san-francisco（rev wOpuHo，AWED real，页内引注 7；加州港城/Fogg 美洲登陆点，region California）R70 -->
@@ -252,10 +252,11 @@
 <!-- 注：Kazounde real 判定——Verne 依 real Angola 内陆奴隶贸易设定，region Angola（Central Africa）。 -->
 <!-- 注：Manaos/Pekin/Christiania 建页 label 从 Verne 原文旧称，现代名（Manaus/Peking/Oslo）收 alias，见 R68 log。 -->
 <!-- R69 NEW1 消费 5：irkutsk / kazounde / iquitos / stockholm / zanzibar；queue 24→19 -->
-- [place] Christiania — TN:62/FC:3；挪威首都（今 Oslo），《Ticket No. 9672》主场（real，alias Oslo 待核）
-- [place] Bergen — TN:43/WC:18；挪威西岸港城（real）
-- [place] Buffalo — MW:13；纽约州 Erie 湖东北端港城，《Master of the World》Terror 段（real；已核为城非动物）
-- [place] Mounts Doerfel — RM:5；月面南极附近山脉，《Round the Moon》所见（real 月面地物，distinctPN=5 恰达门）
+<!-- ✔ [place] Christiania — 已建 christiania（rev KahVzO，TN real，页内引注 7；挪威首都今 Oslo，alias Oslo，region Norway）R71 -->
+<!-- ✔ [place] Bergen — 已建 bergen（rev PsXVlj，TN real，页内引注 7；挪威西岸港/Ole Kamp 母港，region Norway）R71 -->
+<!-- ✔ [place] Buffalo — 已建 buffalo（rev 2T0fVM，MW real，页内引注 7；纽约州 Erie 湖东端港城，region New York）R71 -->
+<!-- ✔ [place] Mounts Doerfel — 已建 mounts-doerfel（rev Nk6OHb，RM real，页内引注 5 恰达门；月面南极山脉，region Southern Moon）R71 -->
+<!-- R71 NEW1 消费 5：manaos / christiania / bergen / buffalo / mounts-doerfel；queue 14→9 -->
 
 <!-- HOLD：Cape Mandible — MI:4（agg 5 含 SI:1 疑误配，虚构地点不应跨作）→ 单作 4<门，hold 待 place 内复核。 -->
 <!-- 别名合并（非新建，留待 build 后页编辑）：Behring's Straits/Behring's Strait → behring-strait alias；The Torres Strait → torres-strait alias；Lancaster Sound → lancaster-strait alias（同一实体 Verne 互用 Sound/Strait）；Antarctic Ocean → antarctic-sea alias；Arctic Ocean → polar-sea alias（承 R59）；Blueridge Mountains → 既 Blue Ridge Mountains alias；Isle of Paques → 既 easter-island alias。 -->
