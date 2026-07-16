@@ -14,6 +14,28 @@
 <!-- ✔ [place] Timbuctoo — 已建 timbuctoo（rev BxFzWZ，real，region West Africa，页内引注 9：FWB-037-041/037-043/038-018/038-029/038-041/039-002/039-012/039-016/039-019/039-022/040-026；alias Timbuktu）R121 -->
 <!-- ✔ [place] Chicago — 已建 chicago（rev 8Et6kp，real，region United States，页内引注 7：AWED-031-016/031-034/031-036/031-037、RC-009-010、MW-004-013、GM-002-036；无同名陷阱）R121 -->
 - [place] Salt Lake City — SCN28 R120；5 distinctPN（real；AWED 摩门篇犹他城；borderline 5 恰达门，建前逐句核确指）
+<!-- ═══ R122 SCN28 表层勘探（queue=7<10 触发）：broken-link 复扫（仅 place 项 Stone's Hill×1=既有 stony-hill 拼写变体，corpus 0 PN，判为 wikilink 拼写误植，留 PHQ 修源；余为 character/work 变体，非 place）+ curated 主要地名批测 72 名（2 批）═══ -->
+<!-- 新候选 20 项入队（distinctPN≥5 且无既有 slug）。建前一律 same-name/entity 消歧核。 -->
+- [place] Washington — SCN28 R122；78 distinctPN（real；美国首都 D.C.；⚠建前重消歧：D.C. 城 vs George Washington 人 vs Washington 州/领地 vs Fort Washington vs Washington Territory；FEM/RM/AWED 跨源）
+- [place] Charleston — SCN28 R122；49 distinctPN（⚠建前消歧：Charleston SC 城 vs FEM「Charlestown」MA vs 泛指；确指后定 real/region）
+- [place] Philadelphia — SCN28 R122；39 distinctPN（real；美国宾州城；建前核铁路并列泛指）
+- [place] Newfoundland — SCN28 R122；34 distinctPN（real；北大西洋岛/加拿大；建前核 Grand Banks 关系）
+- [place] Richmond — SCN28 R122；30 distinctPN（⚠建前消歧：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指）
+- [place] Boston — SCN28 R122；24 distinctPN（real；美国麻州城；建前核泛指）
+- [place] Spitzbergen — SCN28 R122；15 distinctPN（real；北极群岛；ACH/TTLU；建前核与 north-pole 关系）
+- [place] Montreal — SCN28 R122；13 distinctPN（real；加拿大魁北克城）
+- [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
+- [place] Adelaide — SCN28 R122；10 distinctPN（real；澳洲南澳城；SC 环航篇；⚠核 Adelaide Land 南极岸/人名同名）
+- [place] New Orleans — SCN28 R122；9 distinctPN（real；美国路州城）
+- [place] Quebec — SCN28 R122；9 distinctPN（real；加拿大城/省；建前核城 vs 省）
+- [place] Rio de Janeiro — SCN28 R122；8 distinctPN（real；巴西城）
+- [place] Labrador — SCN28 R122；8 distinctPN（real；加拿大半岛/地区）
+- [place] Perth — SCN28 R122；7 distinctPN（⚠建前消歧：Perth 西澳 vs Perth 苏格兰）
+- [place] Tasmania — SCN28 R122；7 distinctPN（real；澳洲岛州；建前核 Van Diemen's Land 别名）
+- [place] Sydney — SCN28 R122；6 distinctPN（real；澳洲新州城；⚠核 Cape Sidney/人名同名）
+- [place] Detroit — SCN28 R122；6 distinctPN（real；美国密州城）
+- [place] Vancouver — SCN28 R122；6 distinctPN（⚠建前消歧：Vancouver Island 岛 vs 城 vs George Vancouver 人）
+- [place] Madras — SCN28 R122；5 distinctPN（real；印度城；borderline 5 恰达门，建前逐句核）
 <!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
 <!-- ✔ [place] Prospect Heights — 已建 prospect-heights（rev SxKQ05）-->
 <!-- ✔ [place] Cape Bathurst — 已建 cape-bathurst（rev xKv5Vc，real）-->
