@@ -2829,7 +2829,7 @@
       "quality": "featured",
       "quality_score": 60,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "AWED-ch01": {
       "type": "chapter",
@@ -3876,6 +3876,27 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 4
     },
+    "belgium": {
+      "type": "place",
+      "label": "Belgium",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe"
+      ],
+      "path": "be/belgium.md",
+      "description": "The small but generous Western European kingdom, a land of grottoes and railways threaded through Verne's Continental journeys.",
+      "prose_len": 1333,
+      "prose_chars": 1252,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "From the Earth to the Moon",
+      "total_refs": 0
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -3919,7 +3940,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "bergen": {
       "type": "place",
@@ -4078,7 +4099,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Around the World in Eighty Days",
-      "total_refs": 4
+      "total_refs": 5
     },
     "bordeaux": {
       "type": "place",
@@ -4893,7 +4914,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "ceylon": {
       "type": "place",
@@ -4988,7 +5009,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "christiania": {
       "type": "place",
@@ -10809,6 +10830,31 @@
       "book": "Off on a Comet",
       "total_refs": 0
     },
+    "ganges": {
+      "type": "place",
+      "label": "Ganges",
+      "aliases": [
+        "Ganges River"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "india",
+        "river"
+      ],
+      "path": "ga/ganges.md",
+      "description": "The sacred river of India, artery of Fogg's crossing by rail and steamboat and a stream of the Hindu dead in Verne's East.",
+      "prose_len": 1354,
+      "prose_chars": 1273,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "geneva": {
       "type": "place",
       "label": "Geneva",
@@ -11818,7 +11864,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 21
+      "total_refs": 22
     },
     "gun-cotton": {
       "type": "technology",
@@ -13327,6 +13373,31 @@
       "quality": "standard",
       "quality_score": 38,
       "total_refs": 15
+    },
+    "kamtschatka": {
+      "type": "place",
+      "label": "Kamtschatka",
+      "aliases": [
+        "Kamchatka"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "russia",
+        "peninsula"
+      ],
+      "path": "ka/kamtschatka.md",
+      "description": "The far-eastern Russian peninsula of volcanoes and the Behring Sea, a remote march of the Muscovite dominion in Verne's Asia.",
+      "prose_len": 1246,
+      "prose_chars": 1165,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "kazounde": {
       "type": "place",
@@ -15608,6 +15679,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 1
     },
+    "mongolia": {
+      "type": "place",
+      "label": "Mongolia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "asia",
+        "desert"
+      ],
+      "path": "mo/mongolia.md",
+      "description": "The vast desert land of Central Asia crossed by the Grand Transasiatic, a march of bazaars, brigands and the old wall against China.",
+      "prose_len": 1232,
+      "prose_chars": 1151,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "morganton": {
       "type": "place",
       "label": "Morganton",
@@ -16902,7 +16995,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 66
+      "total_refs": 68
     },
     "navy-island": {
       "type": "place",
@@ -19114,6 +19207,28 @@
       "book": "The Mysterious Island",
       "total_refs": 4
     },
+    "prussia": {
+      "type": "place",
+      "label": "Prussia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "europe",
+        "empire"
+      ],
+      "path": "pr/prussia.md",
+      "description": "The North German kingdom and great power, a workshop of industry and a party to the wars and treaties of Verne's Europe.",
+      "prose_len": 1284,
+      "prose_chars": 1203,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "quiquendone": {
       "type": "place",
       "label": "Quiquendone",
@@ -20336,7 +20451,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 6
+      "total_refs": 7
     },
     "sahara": {
       "type": "place",
@@ -23544,7 +23659,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Michael Strogoff",
-      "total_refs": 3
+      "total_refs": 5
     },
     "singapore": {
       "type": "place",
@@ -23988,7 +24103,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Waif of the Cynthia",
-      "total_refs": 2
+      "total_refs": 3
     },
     "switzerland": {
       "type": "place",
@@ -26538,7 +26653,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 22
+      "total_refs": 23
     },
     "twofold-bay": {
       "type": "place",
@@ -28476,6 +28591,8 @@
     "belem": "belem",
     "Belem": "belem",
     "Para": "belem",
+    "belgium": "belgium",
+    "Belgium": "belgium",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "benares": "benares",
@@ -28939,6 +29056,9 @@
     "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
+    "ganges": "ganges",
+    "Ganges": "ganges",
+    "Ganges River": "ganges",
     "geneva": "geneva",
     "Geneva": "geneva",
     "germany": "germany",
@@ -29138,6 +29258,9 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kamtschatka": "kamtschatka",
+    "Kamtschatka": "kamtschatka",
+    "Kamchatka": "kamtschatka",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
     "kilimanjaro": "kilimanjaro",
@@ -29310,6 +29433,8 @@
     "mississippi": "mississippi",
     "Mississippi": "mississippi",
     "Mississippi River": "mississippi",
+    "mongolia": "mongolia",
+    "Mongolia": "mongolia",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -29561,6 +29686,8 @@
     "Liedenbrock": "professor-lidenbrock",
     "prospect-heights": "prospect-heights",
     "Prospect Heights": "prospect-heights",
+    "prussia": "prussia",
+    "Prussia": "prussia",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
     "RC-ch01": "RC-ch01",
@@ -30163,6 +30290,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1348,
-  "generated": "2026-07-16T07:41:31Z"
+  "page_count": 1353,
+  "generated": "2026-07-16T08:00:51Z"
 }

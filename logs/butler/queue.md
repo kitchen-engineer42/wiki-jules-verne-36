@@ -266,7 +266,7 @@
 <!-- ✔ [place] Holland — 已建 holland（rev L1p7KD，TT real，页内引注 9；北极六强之一/Jansen 代表/Barentz-Heemskerk，book Topsy-Turvy）R99 -->
 <!-- ✔ [place] Mexico — 已建 mexico（rev XkJaUX，FEM real 主作，页内引注 8；Gun Club casus belli 28°线/墨西哥湾，跨源 MW/TTLU 湾流，book From the Earth to the Moon）R99 -->
 <!-- ✔ [place] Canada — 已建 canada（rev EpTMgI，FC real，页内引注 8；毛皮国度法→英/James Bay 商站，book The Fur Country）R99 -->
-- [place] Mongolia — ⚠ AWED:24 系 steamer「Mongolia」（非国名，多实体噪声，同 Victoria）→ 真国名 refs 仅 ASC:5/TT:1≈6 distinctPN（real；主作 The Adventures of a Special Correspondent，戈壁/大铁路；建页须词边界剔 AWED 汽船）
+<!-- ✔ [place] Mongolia — 已建 mongolia（rev IG8l6H，rof=real，页内引注 6；ASC:5/TT:1，已词边界剔 AWED:24 汽船）R110 -->
 <!-- ✔ [place] Italy — 已建 italy（rev Fbbtlh，OC real，页内引注 8；彗星 Gallia 掳走之地中海半岛/Nina 代表意大利，book Off on a Comet）R100 -->
 <!-- ✔ [place] Chili — 已建 chili（rev 92Ro46，SC real，页内引注 8；Glenarvan 跨 Cordilleras/Pampas/Valparaiso，alias Chile，book In Search of the Castaways）R100 -->
 <!-- ✔ [place] Bolivia — 已建 bolivia（rev sDklN1，DSCF real，页内引注 10；Harris 伪称之玻利维亚实为 Angola，book Dick Sand；注 book 字段含冒号须加引号）R100 -->
@@ -283,9 +283,9 @@
 <!-- ✔ [place] Colombia — 已建 colombia（rev Phenqn，EHLA real，页内引注 6；Amazon 归属之争 + United States of Colombia 金币 + Guachara 洞穴，剔 FC-002-023「Colombia」河（加拿大哥伦比亚河非国名），book Eight Hundred Leagues on the Amazon）R102 -->
 <!-- ✔ [place] Austria — 已建 austria（rev w3C27K，VVV rof=real，页内引注 6；MW/FEM/SC/TT/TTLU）R109 -->
 <!-- ✔ [place] Ecuador — 已建 ecuador（rev fqQ1uk，EHLA real，页内引注 5（恰达门槛）；Iquitos 边界/Amazon 源之争/Ecuador 山脉，全 EHLA 单源，book Eight Hundred Leagues on the Amazon）R102 -->
-- [place] Kamtschatka — MS:2/RC:2/ASC:1；5 distinctPN（real；主作跨源，远东半岛）
-- [place] Prussia — TTLU:3/其余散；6 distinctPN（real；主作跨源，中候选）
-- [place] Belgium — 散源 6；6 distinctPN（real；主作跨源，中候选）
+<!-- ✔ [place] Kamtschatka — 已建 kamtschatka（rev 6vpGmZ，rof=real，页内引注 5；MS/RC/ASC，alias Kamchatka）R110 -->
+<!-- ✔ [place] Prussia — 已建 prussia（rev i8nQs6，rof=real，页内引注 6；FEM/SC/TTLU/OC）R110 -->
+<!-- ✔ [place] Belgium — 已建 belgium（rev pJpQsS，rof=real，页内引注 6；FEM/FF/JCE/UC/VB/WC）R110 -->
 <!-- R98 未入队（噪声/既建/demonym，同 R95）：Victoria 22（多实体）、No 12、America 9（泛指）、Klock 7（子串）、Niagara 5（既建裸名）、Floridian·Algerian 5/5（demonym）；covered 跳过：Greenland/Siberia/Zanzibar/Iceland/Patagonia。England 221/France 169 暂缓（城市页密集）。Poland 2/Venezuela 3/Chile 3(=Chili)/Tartary 4/Finland 4 <门。 -->
 
 <!-- ═══ R103 SCN28 表层复扫补种（queue=7<10 触发，since_discover=4；国名裸词层近枯，仅剩 5 薄候选）：承 R95/R98 方法论，改扫**洋/海/洲/大区/城市/河流**层裸词（前几轮未及的粒度）。curated `\bName\b` 全库核 distinctPN，surface 一大批强真地名，各 ≫5 且多有单源集中可定 book。**五度否证 place 饱和**（R91 区/洲→R95 国东亚→R98 国欧美亚→R103 洋/海/城/河）。new_candidates≈30≥3 → discover_streak_low 保持 0。queue 7→~37。建页前一律 gather.py 词边界核 + 多实体筛（尤其船名系：the Java/the China/the Scotia；城市异名：Petersburg=St. Petersburg、Pekin=Peking）。 -->
@@ -330,7 +330,7 @@
 - [place] Thames — 跨源；7 distinctPN（real；泰晤士河）
 - [place] Rhine — 跨源；7 distinctPN（real；莱茵河）
 - [place] Plata — 跨源 SC；7 distinctPN（real；拉普拉塔河 Rio de la Plata）
-- [place] Ganges — 跨源；5 distinctPN（real；恒河；恰达门槛）
+<!-- ✔ [place] Ganges — 已建 ganges（rev TpM9cR，rof=real，页内引注 7；AWED:6/TTLU/ASC，alias Ganges River）R110 -->
 <!-- R103 未入队/待核：Java（岛，但 the Java=Cunard 汽船，须词边界剔）、Pekin=Peking（异名，核既建）、Siberia/Greenland/Iceland/Zanzibar（既建）、England 221/France 169（续暂缓，城市页密集，国级页价值 R104 后专项评）。 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->

@@ -1171,6 +1171,12 @@
       ],
       "path": "be/belem.md"
     },
+    "belgium": {
+      "type": "place",
+      "label": "Belgium",
+      "aliases": [],
+      "path": "be/belgium.md"
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -3238,6 +3244,14 @@
       "aliases": [],
       "path": "ga/gallian-sea.md"
     },
+    "ganges": {
+      "type": "place",
+      "label": "Ganges",
+      "aliases": [
+        "Ganges River"
+      ],
+      "path": "ga/ganges.md"
+    },
     "geneva": {
       "type": "place",
       "label": "Geneva",
@@ -3993,6 +4007,14 @@
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
     },
+    "kamtschatka": {
+      "type": "place",
+      "label": "Kamtschatka",
+      "aliases": [
+        "Kamchatka"
+      ],
+      "path": "ka/kamtschatka.md"
+    },
     "kazounde": {
       "type": "place",
       "label": "Kazounde",
@@ -4671,6 +4693,12 @@
         "Mississippi River"
       ],
       "path": "mi/mississippi.md"
+    },
+    "mongolia": {
+      "type": "place",
+      "label": "Mongolia",
+      "aliases": [],
+      "path": "mo/mongolia.md"
     },
     "morganton": {
       "type": "place",
@@ -5717,6 +5745,12 @@
       "label": "Prospect Heights",
       "aliases": [],
       "path": "pr/prospect-heights.md"
+    },
+    "prussia": {
+      "type": "place",
+      "label": "Prussia",
+      "aliases": [],
+      "path": "pr/prussia.md"
     },
     "quiquendone": {
       "type": "place",
@@ -8706,6 +8740,8 @@
     "belem": "belem",
     "Belem": "belem",
     "Para": "belem",
+    "belgium": "belgium",
+    "Belgium": "belgium",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "benares": "benares",
@@ -9169,6 +9205,9 @@
     "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
+    "ganges": "ganges",
+    "Ganges": "ganges",
+    "Ganges River": "ganges",
     "geneva": "geneva",
     "Geneva": "geneva",
     "germany": "germany",
@@ -9368,6 +9407,9 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kamtschatka": "kamtschatka",
+    "Kamtschatka": "kamtschatka",
+    "Kamchatka": "kamtschatka",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
     "kilimanjaro": "kilimanjaro",
@@ -9540,6 +9582,8 @@
     "mississippi": "mississippi",
     "Mississippi": "mississippi",
     "Mississippi River": "mississippi",
+    "mongolia": "mongolia",
+    "Mongolia": "mongolia",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -9791,6 +9835,8 @@
     "Liedenbrock": "professor-lidenbrock",
     "prospect-heights": "prospect-heights",
     "Prospect Heights": "prospect-heights",
+    "prussia": "prussia",
+    "Prussia": "prussia",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
     "RC-ch01": "RC-ch01",
@@ -10393,6 +10439,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1348,
-  "generated": "2026-07-16T07:41:31Z"
+  "page_count": 1353,
+  "generated": "2026-07-16T08:00:51Z"
 }
