@@ -333,6 +333,43 @@
 <!-- ✔ [place] Ganges — 已建 ganges（rev TpM9cR，rof=real，页内引注 7；AWED:6/TTLU/ASC，alias Ganges River）R110 -->
 <!-- R103 未入队/待核：Java（岛，但 the Java=Cunard 汽船，须词边界剔）、Pekin=Peking（异名，核既建）、Siberia/Greenland/Iceland/Zanzibar（既建）、England 221/France 169（续暂缓，城市页密集，国级页价值 R104 后专项评）。 -->
 
+<!-- ═══ R111 SCN28 表层复扫（queue=9<10 触发，since_discover=7）：城市/山脉/河流/海湾层专名扫描（去既建 2641 名/别名/slug，各 \bName\b 全库词边界核 distinctPN≥5 方入队）。国级已四度饱和，本轮转城市-地理特征层，surface 35 新候选，否证「place 广度饱和」。建页时逐一 pages.json 交叉核 + 多实体/称号筛 ═══ -->
+- [place] Caspian — SCN28 R111；53 distinctPN（real；里海；ASC:30 大铁路横渡；建页 alias Caspian Sea，核纯列举）
+- [place] Edinburgh — SCN28 R111；35 distinctPN（real；UC:15/FWB:7 苏格兰；建页须剔「Modern/Northern Athens」称号句）
+- [place] Bokhara — SCN28 R111；34 distinctPN（real；ASC:22/MS:12 中亚城/大铁路）
+- [place] Andes — SCN28 R111；34 distinctPN（real；SC:18 南美山脉；alias the Andes）
+- [place] Tiflis — SCN28 R111；30 distinctPN（real；ASC:30 高加索城/大铁路西端）
+- [place] Alps — SCN28 R111；29 distinctPN（real；SC:13 欧洲山脉；建页核比喻/列举）
+- [place] Merv — SCN28 R111；26 distinctPN（real；ASC:26 中亚城/大铁路）
+- [place] Malta — SCN28 R111；22 distinctPN（real；OC:9/WC:6 地中海岛）
+- [place] Baku — SCN28 R111；22 distinctPN（real；ASC:22 里海油城/大铁路端点）
+- [place] Sicily — SCN28 R111；19 distinctPN（real；OC:8 地中海岛/Etna）
+- [place] Copenhagen — SCN28 R111；17 distinctPN（real；JCE:8 地心游记起点城）
+- [place] Brest — SCN28 R111；17 distinctPN（real；WC:14 法国大西洋军港）
+- [place] Baikal — SCN28 R111；17 distinctPN（real；MS:17 西伯利亚大湖）
+- [place] Frankfort — SCN28 R111；16 distinctPN（real；DA:6/VB:7 气球史城；核与美国同名地）
+- [place] Algiers — SCN28 R111；15 distinctPN（real；OC:12 北非城）
+- [place] Etna — SCN28 R111；11 distinctPN（real；西西里火山；跨源 RM:3/SI:2/OC:1）
+- [place] Riga — SCN28 R111；10 distinctPN（real；MS:8 波罗的海港城）
+- [place] Lyons — SCN28 R111；10 distinctPN（real；跨源法国城；alias Lyon）
+- [place] Havre — SCN28 R111；9 distinctPN（real；法国港 Le Havre；跨源 TTLU/AWED/SC2）
+- [place] Lucknow — SCN28 R111；7 distinctPN（real；SC:7 印度城）
+- [place] Corsica — SCN28 R111；7 distinctPN（real；跨源地中海岛）
+- [place] Baltic — SCN28 R111；7 distinctPN（real；波罗的海；alias Baltic Sea）
+- [place] Archangel — SCN28 R111；7 distinctPN（real；FC:6 俄北冰洋港）
+- [place] Sardinia — SCN28 R111；6 distinctPN（real；OC:5 地中海岛）
+- [place] Teheran — SCN28 R111；5 distinctPN（real；ASC:3 波斯首都；跨源凑门）
+- [place] Lena — SCN28 R111；5 distinctPN（real；WC:3/MS:2 西伯利亚河；alias Lena River）
+- [place] Himalaya — SCN28 R111；5 distinctPN（real；跨源 ASC/AWED/DSCF 山脉；alias Himalayas）
+- [place] Elbe — SCN28 R111；5 distinctPN（real；JCE:4 德国河；alias Elbe River）
+- [place] Dublin — SCN28 R111；5 distinctPN（real；跨源爱尔兰城）
+- [place] Crete — SCN28 R111；5 distinctPN（real；TTLU:5 地中海岛/Nautilus 掠岸）
+- [place] Astrakhan — SCN28 R111；5 distinctPN（real；RC:3/MS:2 里海口城）
+- [place] Aral — SCN28 R111；5 distinctPN（real；咸海；ASC:3；alias Aral Sea）
+- [place] Amou-Daria — SCN28 R111；5 distinctPN（real；ASC:5 中亚河 Oxus）
+- [place] Alexandria — SCN28 R111；5 distinctPN（real；跨源埃及港城；核与美国同名地）
+- [place] Adriatic — SCN28 R111；5 distinctPN（real；亚得里亚海；TTLU:2；alias Adriatic Sea）
+
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
 <!-- ✔ [place] Patagonia — 已建 patagonia（rev *，SC real，页内引注 6；南美南端 pampas/37°线首搜索区，region South America）R88 -->
