@@ -1216,6 +1216,12 @@
       "aliases": [],
       "path": "bo/bombay.md"
     },
+    "bordeaux": {
+      "type": "place",
+      "label": "Bordeaux",
+      "aliases": [],
+      "path": "bo/bordeaux.md"
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -1435,6 +1441,14 @@
         "The Caspian"
       ],
       "path": "ca/caspian-sea.md"
+    },
+    "caucasus": {
+      "type": "place",
+      "label": "Caucasus",
+      "aliases": [
+        "the Caucasus"
+      ],
+      "path": "ca/caucasus.md"
     },
     "ceylon": {
       "type": "place",
@@ -4170,6 +4184,14 @@
       ],
       "path": "ma/mandible-cape.md"
     },
+    "marseilles": {
+      "type": "place",
+      "label": "Marseilles",
+      "aliases": [
+        "Marseille"
+      ],
+      "path": "ma/marseilles.md"
+    },
     "master-zacharius": {
       "type": "work",
       "label": "Master Zacharius",
@@ -4596,6 +4618,14 @@
       "label": "Michel Ardan",
       "aliases": [],
       "path": "mi/michel-ardan.md"
+    },
+    "mississippi": {
+      "type": "place",
+      "label": "Mississippi",
+      "aliases": [
+        "Mississippi River"
+      ],
+      "path": "mi/mississippi.md"
     },
     "morganton": {
       "type": "place",
@@ -7991,6 +8021,15 @@
       "aliases": [],
       "path": "un/union-bay.md"
     },
+    "united-states": {
+      "type": "place",
+      "label": "United States",
+      "aliases": [
+        "United States of America",
+        "USA"
+      ],
+      "path": "un/united-states.md"
+    },
     "ural-mountains": {
       "type": "place",
       "label": "Ural Mountains",
@@ -8618,6 +8657,8 @@
     "Bolivia": "bolivia",
     "bombay": "bombay",
     "Bombay": "bombay",
+    "bordeaux": "bordeaux",
+    "Bordeaux": "bordeaux",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -8685,6 +8726,9 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "caucasus": "caucasus",
+    "Caucasus": "caucasus",
+    "the Caucasus": "caucasus",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
     "chatham-islands": "chatham-islands",
@@ -9326,6 +9370,9 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marseilles": "marseilles",
+    "Marseilles": "marseilles",
+    "Marseille": "marseilles",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -9409,6 +9456,9 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "mississippi": "mississippi",
+    "Mississippi": "mississippi",
+    "Mississippi River": "mississippi",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -10170,6 +10220,10 @@
     "UC-ch19": "UC-ch19",
     "union-bay": "union-bay",
     "Union Bay": "union-bay",
+    "united-states": "united-states",
+    "United States": "united-states",
+    "United States of America": "united-states",
+    "USA": "united-states",
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
@@ -10251,6 +10305,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1333,
-  "generated": "2026-07-16T06:56:41Z"
+  "page_count": 1338,
+  "generated": "2026-07-16T07:12:47Z"
 }

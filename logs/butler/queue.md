@@ -290,8 +290,8 @@
 
 <!-- ═══ R103 SCN28 表层复扫补种（queue=7<10 触发，since_discover=4；国名裸词层近枯，仅剩 5 薄候选）：承 R95/R98 方法论，改扫**洋/海/洲/大区/城市/河流**层裸词（前几轮未及的粒度）。curated `\bName\b` 全库核 distinctPN，surface 一大批强真地名，各 ≫5 且多有单源集中可定 book。**五度否证 place 饱和**（R91 区/洲→R95 国东亚→R98 国欧美亚→R103 洋/海/城/河）。new_candidates≈30≥3 → discover_streak_low 保持 0。queue 7→~37。建页前一律 gather.py 词边界核 + 多实体筛（尤其船名系：the Java/the China/the Scotia；城市异名：Petersburg=St. Petersburg、Pekin=Peking）。 -->
 <!-- 洋/海层 -->
-- [place] Pacific — TTLU:43/SC:28/GM:27/RC:27/FC:20；330 distinctPN（real；太平洋，多源；主作待择 TTLU 或按航段）
-- [place] Atlantic — TTLU:39/SC:24/EHLA:18/FF:16/AWED:14；226 distinctPN（real；大西洋，多源；主作待择）
+<!-- ⚠ [place] Pacific — R107 交叉核**已建** pacific-ocean（label Pacific Ocean，R66）→ 伪新候选剔除。属 HK-discover-existing-type-blindspot：discover 专名扫描未比对既有页 label。宜给 pacific-ocean 补 alias 'Pacific'。R107 -->
+<!-- ⚠ [place] Atlantic — R107 交叉核**已建** atlantic-ocean（label Atlantic Ocean，R67）→ 伪新候选剔除。同上 blindspot。宜给 atlantic-ocean 补 alias 'Atlantic'。R107 -->
 <!-- ✔ [place] Mediterranean — 已建 mediterranean（rev *，OC real，页内引注 5；彗星撕走 Algerian 岸/新海岸线，book Off on a Comet，region Mediterranean）R106 -->
 <!-- 洲/大区层 -->
 <!-- ✔ [place] Turkestan — 已建 turkestan（rev i5g3Ky，ASC real，页内引注 6；大铁路核心中亚省/Europe-Celestial Empire 商路，book The Adventures of a Special Correspondent，region Central Asia）R104 -->
@@ -299,8 +299,8 @@
 - [place] Asia — 跨源；86 distinctPN（real；亚洲洲级；泛指风险，建页须聚焦确指句）
 - [place] Europe — 跨源；201 distinctPN（real；欧洲洲级；泛指风险，同上）
 - [place] America — 跨源；259 distinctPN（real；美洲/泛指双义，承 R95/R98「America 泛指」告警，建页须严筛洲级确指句 vs 泛指/United States 重叠）
-- [place] United States — 跨源 FEM/AWED/TT；131 distinctPN（real；美利坚合众国/Gun Club 母国；与 America 重叠，建页分工：国 vs 洲）
-- [place] Caucasus — 跨源；14 distinctPN（real；高加索山区）
+<!-- ✔ [place] United States — 已建 united-states（rev ItE41W，FEM real，页内引注 8；from ocean to ocean 铁路横贯/Gun Club 母国/十倍法国，aliases United States of America·USA，book From the Earth to the Moon，region North America；精确短语 "United States" 无 America 洲级重叠）R107 -->
+<!-- ✔ [place] Caucasus — 已建 caucasus（rev ochltK，MS real，页内引注 6；山脉屏障/Transcaucasia 门户/Strogoff 早年历练/山货山犬，book Michael Strogoff，region Transcaucasia；**多实体筛：MS "the Caucasus" 主体系汽船名，仅引 ASC+MS 山区确指句 6 枚，剔全部船名引**）R107 -->
 - [place] Guiana — 跨源 EHLA；9 distinctPN（real；圭亚那/四圭亚那）
 <!-- 城市层（城市页密集顾虑，建页前评 link 密度）-->
 - [place] New York — WC:27/AWED:25/ASC:12/TTLU:14/TT:10；137 distinctPN（real；纽约城；主作待择）
@@ -312,8 +312,8 @@
 <!-- ✔ [place] Valparaiso — 已建 valparaiso（rev *，DSCF real，页内引注 6；Pilgrim 目的港/Chili 卸货地，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Chile (Pacific coast)）R106 -->
 <!-- ✔ [place] Geneva — 已建 geneva（rev *，MZ real，页内引注 6；Zacharius 钟匠之城/湖西端/前 Calvinism 之城，book Master Zacharius，region Switzerland）R106 -->
 - [place] Amsterdam — 跨源；10 distinctPN（real；阿姆斯特丹）
-- [place] Marseilles — 跨源；8 distinctPN（real；马赛）
-- [place] Bordeaux — 跨源；8 distinctPN（real；波尔多）
+<!-- ✔ [place] Marseilles — 已建 marseilles（rev kBFWPC，JCE real，页内引注 6；地中海归航登陆港/Volturno 汽船/Provençal 金枪鱼渔场/Peysonnel，alias Marseille，book A Journey to the Center of the Earth，region France；剔 TTLU-031-036 伪匹配）R107 -->
+<!-- ✔ [place] Bordeaux — 已建 bordeaux（rev wzqaua，AWED real，页内引注 8；Gironde 河港/Fogg Henrietta 目标港/D'Arbelet 气球升空地，book Around the World in Eighty Days，region France；剔 OC "wines of Bordeaux" 产品指）R107 -->
 - [place] Berlin — 跨源；8 distinctPN（real；柏林）
 - [place] Athens — 跨源；8 distinctPN（real；雅典；核 Athens vs Athenian demonym）
 - [place] Vienna — 跨源；7 distinctPN（real；维也纳）
@@ -325,8 +325,8 @@
 <!-- ✔ [place] Nile — 已建 nile（rev U2jWgx，FWB real，页内引注 6；源之谜=气球航行地理母题/great lakes 源，book Five Weeks in a Balloon，region Africa）R104 -->
 <!-- ✔ [place] Congo — 已建 congo（rev QL9qP6，DSCF real，页内引注 5；西非大河口/castaways 登陆/Loualaba 下游=Zaire，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Africa）R104 -->
 <!-- ✔ [place] Sahara — 已建 sahara（rev *，FWB real，页内引注 5；900 里荒漠/气球西驱之惧/Touaregs，alias Sahara Desert，book Five Weeks in a Balloon，region Africa）R106 -->
-- [place] Ural — 跨源；17 distinctPN（real；乌拉尔山/河；核 Ural Mountains vs Ural River 分义）
-- [place] Mississippi — 跨源；14 distinctPN（real；密西西比河）
+<!-- ⚠ [place] Ural — R107 交叉核**已建** ural-mountains（label Ural Mountains，R42）→ 山脉义为伪新候选剔除。裸 "Ural" 35 distinctPN 几全为 MS "Ural Mountains"（=既有页）；仅 MS-003-005「on issuing from the Ural」等 <5 为 Ural River 独立义，不足门。ural-river 暂不单建。R107 -->
+<!-- ✔ [place] Mississippi — 已建 mississippi（rev 2KWOLK，AWED real，页内引注 6；king of rivers/Fogg 铁路 Davenport 夜渡/Robur 飞越 Father of Waters/汽船，alias Mississippi River，book Around the World in Eighty Days，region North America；剔 TTLU-032 河名列举、TTLU-006 paddle-wheeler 形容）R107 -->
 - [place] Thames — 跨源；7 distinctPN（real；泰晤士河）
 - [place] Rhine — 跨源；7 distinctPN（real；莱茵河）
 - [place] Plata — 跨源 SC；7 distinctPN（real；拉普拉塔河 Rio de la Plata）

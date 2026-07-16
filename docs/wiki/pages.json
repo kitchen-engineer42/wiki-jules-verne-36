@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 12
+      "total_refs": 13
     },
     "africa": {
       "type": "place",
@@ -2173,7 +2173,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 26
+      "total_refs": 29
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -4036,6 +4036,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 4
     },
+    "bordeaux": {
+      "type": "place",
+      "label": "Bordeaux",
+      "aliases": [],
+      "tags": [
+        "place",
+        "france",
+        "port"
+      ],
+      "path": "bo/bordeaux.md",
+      "description": "The French Atlantic port on the Gironde, a departure point and landfall for Verne's globe-trotters and aeronauts.",
+      "prose_len": 1176,
+      "prose_chars": 1095,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "BR-ch01": {
       "type": "chapter",
       "label": "The Blockade Runners — CHAPTER I",
@@ -4782,6 +4804,30 @@
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 1
+    },
+    "caucasus": {
+      "type": "place",
+      "label": "Caucasus",
+      "aliases": [
+        "the Caucasus"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "mountains"
+      ],
+      "path": "ca/caucasus.md",
+      "description": "The mountain barrier between European Russia and Transcaucasia, crossed by Verne's couriers and correspondents.",
+      "prose_len": 1165,
+      "prose_chars": 1084,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "ceylon": {
       "type": "place",
@@ -9721,7 +9767,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 13
+      "total_refs": 14
     },
     "fulgurator": {
       "type": "technology",
@@ -13167,7 +13213,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 14
+      "total_refs": 15
     },
     "kazounde": {
       "type": "place",
@@ -13931,6 +13977,30 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "marseilles": {
+      "type": "place",
+      "label": "Marseilles",
+      "aliases": [
+        "Marseille"
+      ],
+      "tags": [
+        "place",
+        "france",
+        "port"
+      ],
+      "path": "ma/marseilles.md",
+      "description": "The great French Mediterranean port, a landfall for Verne's returning voyagers and a byword for the Provençal coast.",
+      "prose_len": 1167,
+      "prose_chars": 1086,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "A Journey to the Center of the Earth",
+      "total_refs": 0
+    },
     "master-zacharius": {
       "type": "work",
       "label": "Master Zacharius",
@@ -13977,7 +14047,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "melbourne": {
       "type": "place",
@@ -15333,7 +15403,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 22
+      "total_refs": 23
     },
     "michel-ardan": {
       "type": "character",
@@ -15356,6 +15426,30 @@
       "quality_score": 65,
       "book": "From the Earth to the Moon",
       "total_refs": 42
+    },
+    "mississippi": {
+      "type": "place",
+      "label": "Mississippi",
+      "aliases": [
+        "Mississippi River"
+      ],
+      "tags": [
+        "place",
+        "north-america",
+        "river"
+      ],
+      "path": "mi/mississippi.md",
+      "description": "The great river of North America, the \"king of rivers\" crossed by Verne's travellers on their transcontinental journeys.",
+      "prose_len": 1308,
+      "prose_chars": 1227,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 1
     },
     "morganton": {
       "type": "place",
@@ -20039,7 +20133,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 4
+      "total_refs": 5
     },
     "sahara": {
       "type": "place",
@@ -26667,6 +26761,31 @@
       "book": "The Mysterious Island",
       "total_refs": 3
     },
+    "united-states": {
+      "type": "place",
+      "label": "United States",
+      "aliases": [
+        "United States of America",
+        "USA"
+      ],
+      "tags": [
+        "place",
+        "north-america",
+        "exploration"
+      ],
+      "path": "un/united-states.md",
+      "description": "The transcontinental North American republic, home of the Gun Club and a recurring stage for Vernean voyages.",
+      "prose_len": 1456,
+      "prose_chars": 1375,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "From the Earth to the Moon",
+      "total_refs": 1
+    },
     "ural-mountains": {
       "type": "place",
       "label": "Ural Mountains",
@@ -28148,6 +28267,8 @@
     "Bolivia": "bolivia",
     "bombay": "bombay",
     "Bombay": "bombay",
+    "bordeaux": "bordeaux",
+    "Bordeaux": "bordeaux",
     "BR-ch01": "BR-ch01",
     "BR-ch02": "BR-ch02",
     "BR-ch03": "BR-ch03",
@@ -28215,6 +28336,9 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "caucasus": "caucasus",
+    "Caucasus": "caucasus",
+    "the Caucasus": "caucasus",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
     "chatham-islands": "chatham-islands",
@@ -28856,6 +28980,9 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marseilles": "marseilles",
+    "Marseilles": "marseilles",
+    "Marseille": "marseilles",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -28939,6 +29066,9 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "mississippi": "mississippi",
+    "Mississippi": "mississippi",
+    "Mississippi River": "mississippi",
     "morganton": "morganton",
     "Morganton": "morganton",
     "morris-island": "morris-island",
@@ -29700,6 +29830,10 @@
     "UC-ch19": "UC-ch19",
     "union-bay": "union-bay",
     "Union Bay": "union-bay",
+    "united-states": "united-states",
+    "United States": "united-states",
+    "United States of America": "united-states",
+    "USA": "united-states",
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
@@ -29781,6 +29915,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1333,
-  "generated": "2026-07-16T06:56:41Z"
+  "page_count": 1338,
+  "generated": "2026-07-16T07:12:47Z"
 }
