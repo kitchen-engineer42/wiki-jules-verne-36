@@ -12093,7 +12093,9 @@
     "great-eyrie": {
       "type": "place",
       "label": "The Great Eyrie",
-      "aliases": [],
+      "aliases": [
+        "Great Eyrie"
+      ],
       "tags": [
         "place",
         "mystery",
@@ -12110,7 +12112,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 8
+      "total_refs": 10
     },
     "great-salt-lake": {
       "type": "place",
@@ -18006,7 +18008,8 @@
       "type": "place",
       "label": "The North Pole",
       "aliases": [
-        "Queen's Island"
+        "Queen's Island",
+        "North Pole"
       ],
       "tags": [
         "place",
@@ -18024,7 +18027,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 6
+      "total_refs": 8
     },
     "north-sea": {
       "type": "place",
@@ -29995,6 +29998,7 @@
     "Bear Lake": "great-bear-lake",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "Great Eyrie": "great-eyrie",
     "great-salt-lake": "great-salt-lake",
     "Great Salt Lake": "great-salt-lake",
     "Salt Lake": "great-salt-lake",
@@ -30444,6 +30448,7 @@
     "north-pole": "north-pole",
     "The North Pole": "north-pole",
     "Queen's Island": "north-pole",
+    "North Pole": "north-pole",
     "north-sea": "north-sea",
     "North Sea": "north-sea",
     "north-west-company": "north-west-company",
@@ -31206,5 +31211,5 @@
     "Zanzibar": "zanzibar"
   },
   "page_count": 1387,
-  "generated": "2026-07-16T09:52:25Z"
+  "generated": "2026-07-16T09:59:47Z"
 }

@@ -3626,7 +3626,9 @@
     "great-eyrie": {
       "type": "place",
       "label": "The Great Eyrie",
-      "aliases": [],
+      "aliases": [
+        "Great Eyrie"
+      ],
       "path": "gr/great-eyrie.md"
     },
     "great-salt-lake": {
@@ -5392,7 +5394,8 @@
       "type": "place",
       "label": "The North Pole",
       "aliases": [
-        "Queen's Island"
+        "Queen's Island",
+        "North Pole"
       ],
       "path": "no/north-pole.md"
     },
@@ -9573,6 +9576,7 @@
     "Bear Lake": "great-bear-lake",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
+    "Great Eyrie": "great-eyrie",
     "great-salt-lake": "great-salt-lake",
     "Great Salt Lake": "great-salt-lake",
     "Salt Lake": "great-salt-lake",
@@ -10022,6 +10026,7 @@
     "north-pole": "north-pole",
     "The North Pole": "north-pole",
     "Queen's Island": "north-pole",
+    "North Pole": "north-pole",
     "north-sea": "north-sea",
     "North Sea": "north-sea",
     "north-west-company": "north-west-company",
@@ -10784,5 +10789,5 @@
     "Zanzibar": "zanzibar"
   },
   "page_count": 1387,
-  "generated": "2026-07-16T09:52:25Z"
+  "generated": "2026-07-16T09:59:47Z"
 }

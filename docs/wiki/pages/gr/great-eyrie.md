@@ -2,7 +2,7 @@
 id: great-eyrie
 type: place
 label: The Great Eyrie
-aliases: []
+aliases: [Great Eyrie]
 tags: [place, mystery, volcano]
 description: 'The inaccessible crater-crowned mountain in the Blue Ridge that conceals Robur''s secret in Master of the World.'
 book: Master of the World

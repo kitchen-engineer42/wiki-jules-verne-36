@@ -2,7 +2,7 @@
 id: north-pole
 type: place
 label: The North Pole
-aliases: [Queen's Island]
+aliases: [Queen's Island, North Pole]
 tags: [place, polar, exploration]
 description: 'The volcanic island at the geographic North Pole, goal of the expedition in The Adventures of Captain Hatteras.'
 book: The Adventures of Captain Hatteras

@@ -6,6 +6,14 @@
 <!-- 既有 15 页 place（Pilot 建，Phase 9-C @86943ff）：baltimore/granite-house/great-eyrie/hong-kong/iceland/liedenbrock-sea/lincoln-island/mount-franklin/north-pole/reform-club/sargasso-sea/snaefellsjokull/stromboli/tampa-town/the-moon -->
 <!-- R28 SCN28 首扫命名重要地点（distinctPN≥3，已排除上列 15 既有 Pilot 页——含误列的 Lincoln Island/Granite House/Sneffels=snaefellsjokull，均既有，不重建）：-->
 <!-- R29 NEW1 已建 5 页：the-chimneys/prospect-heights/tabor-island/cape-bathurst/victoria-island（MI 簇 3 + FC 簇 2）。 -->
+<!-- ═══ R120 SCN28 表层勘探（queue=6<10 触发；自 R111 以来首次 discover）：broken-link 扫描 + 主要地名批测（gather distinctPN + 既有页交叉核）═══ -->
+<!-- ⚠ 伪新 blindspot（label「The」前缀致红链）：north-pole（label「The North Pole」，broken-link [[North Pole]]×11）+ great-eyrie（label「The Great Eyrie」，[[Great Eyrie]]）——均既建 Pilot 页，**非新候选**；R120 已 edit_page 补 alias「North Pole」「Great Eyrie」解红链（north-pole rev ugJBtN / great-eyrie rev vTj3Zy）。归 HK-discover-existing-type-blindspot（label-prefix 变体）。 -->
+- [place] South Pole — SCN28 R120；35 distinctPN（real；南极点；TTLU Nemo 立旗 + ACH 对照 Erebus/Terror；建前核 north-pole 对称写法，剔月面/磁极隐喻句）
+- [place] Florida — SCN28 R120；52 distinctPN（real；FEM 发射地 Tampa/Stony Hill 所在州 + 跨源；建前剔 Florida Strait 混引，核与既有 tampa-town/stony-hill 关系）
+- [place] Kamtchatka — SCN28 R120；23 distinctPN（real；西伯利亚半岛；建前核船名/异地同名）
+- [place] Timbuctoo — SCN28 R120；22 distinctPN（real；FWB 非洲名城；alias Timbuktu/Tombouctou）
+- [place] Chicago — SCN28 R120；8 distinctPN（real；美国城；建前剔泛指/铁路并列句）
+- [place] Salt Lake City — SCN28 R120；5 distinctPN（real；AWED 摩门篇犹他城；borderline 5 恰达门，建前逐句核确指）
 <!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
 <!-- ✔ [place] Prospect Heights — 已建 prospect-heights（rev SxKQ05）-->
 <!-- ✔ [place] Cape Bathurst — 已建 cape-bathurst（rev xKv5Vc，real）-->
