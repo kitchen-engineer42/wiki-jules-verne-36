@@ -374,6 +374,12 @@
       ],
       "path": "ad/a-drama-in-the-air.md"
     },
+    "adelaide": {
+      "type": "place",
+      "label": "Adelaide",
+      "aliases": [],
+      "path": "ad/adelaide.md"
+    },
     "aden": {
       "type": "place",
       "label": "Aden",
@@ -4433,6 +4439,12 @@
       "aliases": [],
       "path": "ma/madagascar.md"
     },
+    "madras": {
+      "type": "place",
+      "label": "Madras",
+      "aliases": [],
+      "path": "ma/madras.md"
+    },
     "madrid": {
       "type": "place",
       "label": "Madrid",
@@ -5861,6 +5873,12 @@
       "label": "Persia",
       "aliases": [],
       "path": "pe/persia.md"
+    },
+    "perth": {
+      "type": "place",
+      "label": "Perth",
+      "aliases": [],
+      "path": "pe/perth.md"
     },
     "peru": {
       "type": "place",
@@ -7528,6 +7546,12 @@
       "aliases": [],
       "path": "sw/switzerland.md"
     },
+    "sydney": {
+      "type": "place",
+      "label": "Sydney",
+      "aliases": [],
+      "path": "sy/sydney.md"
+    },
     "tabatinga": {
       "type": "place",
       "label": "Tabatinga",
@@ -8484,6 +8508,12 @@
       "aliases": [],
       "path": "va/valparaiso.md"
     },
+    "vancouver-island": {
+      "type": "place",
+      "label": "Vancouver Island",
+      "aliases": [],
+      "path": "va/vancouver-island.md"
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -8901,6 +8931,8 @@
     "Un drame dans les airs": "a-drama-in-the-air",
     "A Voyage in a Balloon": "a-drama-in-the-air",
     "A Drama in the Clouds": "a-drama-in-the-air",
+    "adelaide": "adelaide",
+    "Adelaide": "adelaide",
     "aden": "aden",
     "Aden": "aden",
     "adriatic-sea": "adriatic-sea",
@@ -9908,6 +9940,8 @@
     "Lyon": "lyons",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
+    "madras": "madras",
+    "Madras": "madras",
     "madrid": "madrid",
     "Madrid": "madrid",
     "malta": "malta",
@@ -10237,6 +10271,8 @@
     "Perm": "perm",
     "persia": "persia",
     "Persia": "persia",
+    "perth": "perth",
+    "Perth": "perth",
     "peru": "peru",
     "Peru": "peru",
     "philadelphia": "philadelphia",
@@ -10606,6 +10642,8 @@
     "Sweden": "sweden",
     "switzerland": "switzerland",
     "Switzerland": "switzerland",
+    "sydney": "sydney",
+    "Sydney": "sydney",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -10836,6 +10874,8 @@
     "The Urals": "ural-mountains",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
+    "vancouver-island": "vancouver-island",
+    "Vancouver Island": "vancouver-island",
     "VB": "VB",
     "vesfjorddal": "vesfjorddal",
     "Vesfjorddal": "vesfjorddal",
@@ -10914,6 +10954,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1402,
-  "generated": "2026-07-16T10:32:53Z"
+  "page_count": 1407,
+  "generated": "2026-07-16T10:39:10Z"
 }

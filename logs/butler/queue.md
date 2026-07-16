@@ -26,18 +26,22 @@
 <!-- ⚠ Richmond 移至次批（消歧未决：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指），保留下方 -->
 - [place] Richmond — SCN28 R122；30 distinctPN（⚠建前消歧：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指）
 - [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
-- [place] Adelaide — SCN28 R122；10 distinctPN（real；澳洲南澳城；SC 环航篇；⚠核 Adelaide Land 南极岸/人名同名）
+<!-- ✔ [place] Adelaide — 已建 adelaide（rev vNw7Cb，SC real，region South Australia，页内引注 8：SC-032-004/032-005/032-037/035-002/035-007/030-023/038-034+RC-001-030；剔 TTLU-038-094 南极 Adelaide Land + ACH-015-010 北极 Adelaide Bay 同名；接 sydney/melbourne/in-search-of-the-castaways）R125 -->
+<!-- ✔ Adelaide consumed R125 -->
 <!-- ✔ [place] New Orleans — 已建 new-orleans（rev NrzoNq，FEM real，region United States，页内引注 9：FEM-003-009/013-004/014-002+AMB-001-008+BR-001-052+SC2-001-004+WC-021-015+MW-018-004；密西西比河口大港，接 mississippi/tampa-town/new-york/from-the-earth-to-the-moon/the-blockade-runners/the-waif-of-the-cynthia）R124 -->
 <!-- ✔ [place] Quebec — 已建 quebec（rev P1HzAJ，TTLU real，region Canada，页内引注 9：TTLU-004-011/043-021/008-054/014-030+RC-008-017/008-036/021-017+FC-002-020+AM-010-027；Ned Land 故乡，接 ned-land/albatross/montreal/robur-the-conqueror/the-fur-country/twenty-thousand-leagues）R124 -->
 <!-- ✔ [place] Rio de Janeiro — 已建 rio-de-janeiro（rev CqXunV，EHLA real，region Brazil，页内引注 7：EHLA-034-002/036-041/037-006/039-018/039-041/012-055/019-031；巴西司法/商业首府，接 belem/amazon/eight-hundred-leagues-on-the-amazon）R124 -->
 <!-- ✔ [place] Labrador — 已建 labrador（rev ESsYEk，ACH real，region North America，页内引注 7：ACH-004-016/005-064/012-051+TT-001-062+WC-015-035+FC-014-032/015-015[namesake tea/stones]；亚北极海岸，接 newfoundland/greenland/cape-farewell/the-adventures-of-captain-hatteras/the-waif-of-the-cynthia/the-fur-country）R124 -->
-- [place] Perth — SCN28 R122；7 distinctPN（⚠建前消歧：Perth 西澳 vs Perth 苏格兰）
+<!-- ✔ [place] Perth — 已建 perth（rev hdypn9，SC real，region Western Australia，页内引注 6：SC-037-055/039-042/041-018/043-013/046-063/063-059；剔 SC-004-010 Perth 苏格兰[Malcolm Castle]同名；西澳囚犯流放地首府，接 melbourne/in-search-of-the-castaways）R125 -->
+<!-- ✔ Perth consumed R125 -->
 <!-- ✔ [place] Tasmania — 已建 tasmania（rev DpiVOe，SC real，region Oceania，页内引注 7：SC-038-063/033-085+DSCF-001-004+AM-026-019/013-017+MI-012-038+ACH-012-051；澳南英属岛州，接 australia/cape-horn/new-zealand/in-search-of-the-castaways）R124 -->
-- [place] Sydney — SCN28 R122；6 distinctPN（real；澳洲新州城；⚠核 Cape Sidney/人名同名）
+<!-- ✔ [place] Sydney — 已建 sydney（rev hAroyY，SC real，region Australia，页内引注 6：SC-035-016/038-034/046-006/046-007/046-008+RC-001-030；无 Cape Sidney 歧义，全指新州城；接 adelaide/melbourne/in-search-of-the-castaways）R125 -->
+<!-- ✔ Sydney consumed R125 -->
 <!-- ✗ [place] Detroit — 弃建 R124：6 distinctPN 全指 Detroit River（水道），city 本身零直接引注；detroit-river 页已于 R62 建成（rev 8PubXu）。无独立 grounding，declined -->
 - [place] Detroit — ✗ declined R124（全 6 PN 指 Detroit River；detroit-river 页已存在，city 无独立引注）
-- [place] Vancouver — SCN28 R122；6 distinctPN（⚠建前消歧：Vancouver Island 岛 vs 城 vs George Vancouver 人）
-- [place] Madras — SCN28 R122；5 distinctPN（real；印度城；borderline 5 恰达门，建前逐句核）
+<!-- ✔ [place] Vancouver — 已建 vancouver-island（rev 5lHdxD，WC real，region Pacific，页内引注 5：WC-015-069/016-019/016-022/017-009+RC-011-003；重定主体=岛非城：全 PN 均指 Vancouver('s) Island，Tudor Brown 游艇母港；剔 TT 子午线不确定项；接 aleutian-islands/the-waif-of-the-cynthia）R125 -->
+<!-- ✔ [place] Madras — 已建 madras（rev eNxcyq，AWED real，region India，页内引注 5：AWED-010-002/010-003/014-003+FEM-012-005+SC-038-073；东印度公司立足点/总督驻地，接 bombay/calcutta/around-the-world-in-eighty-days）R125 -->
+<!-- ✔ Vancouver-island + Madras consumed R125 -->
 <!-- ✔ [place] the Chimneys — 已建 the-chimneys（rev e1P5df）-->
 <!-- ✔ [place] Prospect Heights — 已建 prospect-heights（rev SxKQ05）-->
 <!-- ✔ [place] Cape Bathurst — 已建 cape-bathurst（rev xKv5Vc，real）-->
