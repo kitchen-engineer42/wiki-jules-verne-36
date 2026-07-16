@@ -220,11 +220,13 @@
 <!-- ✔ [place] Peak of Teneriffe — 已建 peak-of-teneriffe（rev RhvWbP，SC real，页内引注 5；alias Teneriffe/Tenerife；Duncan 加那利地标，接 in-search-of-the-castaways）R64 -->
 <!-- ✔ [place] Norfolk Island — 已建 norfolk-island（rev HwTN6f，MI/SI real，页内引注 5；Bob Harvey 苦役逃犯据点，接 the-mysterious-island）R64 -->
 <!-- ⚠ R64 副产：easter-island（R60 建）同 book 冒号未转义 bug → type=unknown，R64 一并修（rev BNLbKc，散文段亦拆分≤400）。全库 type=unknown 归 0。见 housekeeping HK-book-colon-yaml-break。 -->
-- [place] Lake Barnett — FC:7；agg 7；巴内特湖（FC 北极；real/fictional 待核）
-- [place] Lake Tinn — TN:6；agg 6；廷恩湖（real 挪威；A Drama in Livonia/TN）
-- [place] Fort Independence — SC:6；agg 6；独立堡（real/settlement；In Search of the Castaways）
-- [place] Mount Mendif — FWB:5；agg 5；门迪夫山（Five Weeks in a Balloon 非洲峰）
-- [place] Cape Saknussemm — JCE:5；agg 5；萨克努塞姆角（fictional；Journey to the Centre of the Earth）
+<!-- ✔ [place] Lake Barnett — 已建 lake-barnett（rev upWZnL，FC fictional，页内引注 7；Victoria Island 命名湖，定 fictional）R65 -->
+<!-- ✔ [place] Lake Tinn — 已建 lake-tinn（rev kqkdah，TN real，页内引注 8；Telemark 湖，book 'Ticket No. 9672'）R65 -->
+<!-- ✔ [place] Fort Independence — 已建 fort-independence（rev znFNFg，SC real，页内引注 6；阿根廷 pampas 边堡）R65 -->
+<!-- ✔ [place] Mount Mendif — 已建 mount-mendif（rev BY4Oe1，FWB real，页内引注 5；Adamova 双锥峰）R65 -->
+<!-- ✔ [place] Cape Saknussemm — 已建 cape-saknussemm（rev slEuhw，JCE fictional，页内引注 5；地心海岬）R65 -->
+<!-- ⚠ R65 副产：niagara-falls（R64 建）alias「Niagara River」与既有 niagara-river 页撞名 → 改 alias「Falls of Niagara」并修 Overview 段 404→≤400（rev Pb3Z4f）。 -->
+
 - [place] Ice Bank — TTLU:30/WC:2；agg 32；大冰群/冰障（TTLU 南极冰障；feature/place 待核）
 - [place] North Sea — 跨源 TTLU:2/RC:2/+7 作；agg 9（单作 max 2）；北海（real；跨源建页）
 - [place] Firth of Clyde — SC:4/UC:2；agg 6（单作 max 4）；克莱德湾（real 苏格兰；跨源建页）

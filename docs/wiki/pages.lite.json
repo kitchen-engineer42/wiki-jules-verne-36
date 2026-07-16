@@ -1203,6 +1203,12 @@
       "aliases": [],
       "path": "ca/cape-of-good-hope.md"
     },
+    "cape-saknussemm": {
+      "type": "place",
+      "label": "Cape Saknussemm",
+      "aliases": [],
+      "path": "ca/cape-saknussemm.md"
+    },
     "cape-tchelynskin": {
       "type": "place",
       "label": "Cape Tchelynskin",
@@ -2612,6 +2618,12 @@
       "aliases": [],
       "path": "fo/fort-hope.md"
     },
+    "fort-independence": {
+      "type": "place",
+      "label": "Fort Independence",
+      "aliases": [],
+      "path": "fo/fort-independence.md"
+    },
     "fort-kearney": {
       "type": "place",
       "label": "Fort Kearney",
@@ -3565,6 +3577,12 @@
       ],
       "path": "la/lake-baikal.md"
     },
+    "lake-barnett": {
+      "type": "place",
+      "label": "Lake Barnett",
+      "aliases": [],
+      "path": "la/lake-barnett.md"
+    },
     "lake-erie": {
       "type": "place",
       "label": "Lake Erie",
@@ -3616,6 +3634,14 @@
         "Lake Chad"
       ],
       "path": "la/lake-tchad.md"
+    },
+    "lake-tinn": {
+      "type": "place",
+      "label": "Lake Tinn",
+      "aliases": [
+        "Tinn"
+      ],
+      "path": "la/lake-tinn.md"
     },
     "lake-ukereoue": {
       "type": "place",
@@ -4120,6 +4146,12 @@
       "aliases": [],
       "path": "mo/mount-franklin.md"
     },
+    "mount-mendif": {
+      "type": "place",
+      "label": "Mount Mendif",
+      "aliases": [],
+      "path": "mo/mount-mendif.md"
+    },
     "MS-ch01": {
       "type": "chapter",
       "label": "Michael Strogoff — BOOK I",
@@ -4507,7 +4539,7 @@
       "type": "place",
       "label": "Niagara Falls",
       "aliases": [
-        "Niagara River"
+        "Falls of Niagara"
       ],
       "path": "ni/niagara-falls.md"
     },
@@ -7779,6 +7811,8 @@
     "Cape Michael": "cape-michael",
     "cape-of-good-hope": "cape-of-good-hope",
     "Cape of Good Hope": "cape-of-good-hope",
+    "cape-saknussemm": "cape-saknussemm",
+    "Cape Saknussemm": "cape-saknussemm",
     "cape-tchelynskin": "cape-tchelynskin",
     "Cape Tchelynskin": "cape-tchelynskin",
     "Cape Severe": "cape-tchelynskin",
@@ -8073,6 +8107,8 @@
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
+    "fort-independence": "fort-independence",
+    "Fort Independence": "fort-independence",
     "fort-kearney": "fort-kearney",
     "Fort Kearney": "fort-kearney",
     "fort-providence": "fort-providence",
@@ -8294,6 +8330,8 @@
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
+    "lake-barnett": "lake-barnett",
+    "Lake Barnett": "lake-barnett",
     "lake-erie": "lake-erie",
     "Lake Erie": "lake-erie",
     "lake-grant": "lake-grant",
@@ -8312,6 +8350,9 @@
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
+    "lake-tinn": "lake-tinn",
+    "Lake Tinn": "lake-tinn",
+    "Tinn": "lake-tinn",
     "lake-ukereoue": "lake-ukereoue",
     "Lake Ukereoue": "lake-ukereoue",
     "Ukereoue": "lake-ukereoue",
@@ -8423,6 +8464,8 @@
     "Morris Island": "morris-island",
     "mount-franklin": "mount-franklin",
     "Mount Franklin": "mount-franklin",
+    "mount-mendif": "mount-mendif",
+    "Mount Mendif": "mount-mendif",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -8497,8 +8540,9 @@
     "New Aberfoyle": "new-aberfoyle",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
-    "Niagara River": "niagara-falls",
+    "Falls of Niagara": "niagara-falls",
     "niagara-river": "niagara-river",
+    "Niagara River": "niagara-river",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -9146,6 +9190,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1203,
-  "generated": "2026-07-16T02:58:14Z"
+  "page_count": 1208,
+  "generated": "2026-07-16T03:08:39Z"
 }

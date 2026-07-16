@@ -3987,6 +3987,28 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "cape-saknussemm": {
+      "type": "place",
+      "label": "Cape Saknussemm",
+      "aliases": [],
+      "tags": [
+        "place",
+        "underground",
+        "landmark"
+      ],
+      "path": "ca/cape-saknussemm.md",
+      "description": "The cape on the shore of the subterranean Lidenbrock Sea, named for Arne Saknussemm, from which the explorers are swept north in A Journey to the Center of the Earth.",
+      "prose_len": 1543,
+      "prose_chars": 1439,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "A Journey to the Center of the Earth",
+      "total_refs": 0
+    },
     "cape-tchelynskin": {
       "type": "place",
       "label": "Cape Tchelynskin",
@@ -8499,7 +8521,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 2
+      "total_refs": 3
     },
     "fix": {
       "type": "character",
@@ -8637,6 +8659,28 @@
       "quality_score": 69,
       "book": "The Fur Country",
       "total_refs": 5
+    },
+    "fort-independence": {
+      "type": "place",
+      "label": "Fort Independence",
+      "aliases": [],
+      "tags": [
+        "place",
+        "settlement",
+        "argentina"
+      ],
+      "path": "fo/fort-independence.md",
+      "description": "The Argentine frontier fort on the pampas that the search party makes for in In Search of the Castaways.",
+      "prose_len": 1671,
+      "prose_chars": 1565,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "fort-kearney": {
       "type": "place",
@@ -10706,7 +10750,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 8
+      "total_refs": 9
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11757,7 +11801,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 10
+      "total_refs": 11
     },
     "lake-baikal": {
       "type": "place",
@@ -11781,6 +11825,28 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
+      "total_refs": 0
+    },
+    "lake-barnett": {
+      "type": "place",
+      "label": "Lake Barnett",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lake",
+        "arctic"
+      ],
+      "path": "la/lake-barnett.md",
+      "description": "The lake on the drifting Victoria Island, named for Mrs Barnett, whose fate mirrors the doomed colony in The Fur Country.",
+      "prose_len": 1642,
+      "prose_chars": 1541,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Fur Country",
       "total_refs": 0
     },
     "lake-erie": {
@@ -11960,6 +12026,30 @@
       "quality_score": 71,
       "book": "Five Weeks in a Balloon",
       "total_refs": 2
+    },
+    "lake-tinn": {
+      "type": "place",
+      "label": "Lake Tinn",
+      "aliases": [
+        "Tinn"
+      ],
+      "tags": [
+        "place",
+        "lake",
+        "norway"
+      ],
+      "path": "la/lake-tinn.md",
+      "description": "The long Norwegian lake of the Telemark whose shores frame the journeys and misfortunes of Ticket No. 9672.",
+      "prose_len": 1928,
+      "prose_chars": 1828,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
     },
     "lake-ukereoue": {
       "type": "place",
@@ -13623,6 +13713,28 @@
       "book": "The Mysterious Island",
       "total_refs": 46
     },
+    "mount-mendif": {
+      "type": "place",
+      "label": "Mount Mendif",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mountain",
+        "africa"
+      ],
+      "path": "mo/mount-mendif.md",
+      "description": "The twin-coned African peak near Yola that the Victoria passes on its balloon crossing in Five Weeks in a Balloon.",
+      "prose_len": 1560,
+      "prose_chars": 1459,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "MS-ch01": {
       "type": "chapter",
       "label": "Michael Strogoff — BOOK I",
@@ -14907,7 +15019,7 @@
       "type": "place",
       "label": "Niagara Falls",
       "aliases": [
-        "Niagara River"
+        "Falls of Niagara"
       ],
       "tags": [
         "place",
@@ -14916,16 +15028,14 @@
       ],
       "path": "ni/niagara-falls.md",
       "description": "The great cataract on the Niagara River where the pursuit of the Terror reaches its crisis in The Master of the World.",
-      "prose_len": 1535,
-      "prose_chars": 1434,
+      "prose_len": 1526,
+      "prose_chars": 1425,
       "h2_count": 4,
       "pn_count": 5,
       "wikilink_count": 4,
       "blockquote_count": 0,
-      "quality": "featured",
-      "quality_score": 65,
       "book": "The Master of the World",
-      "total_refs": 1
+      "total_refs": 0
     },
     "niagara-river": {
       "type": "place",
@@ -14947,7 +15057,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nitroglycerine": {
       "type": "technology",
@@ -21303,7 +21413,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 6
+      "total_refs": 7
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -21536,7 +21646,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 0
+      "total_refs": 1
     },
     "TN-ch01": {
       "type": "chapter",
@@ -25134,6 +25244,8 @@
     "Cape Michael": "cape-michael",
     "cape-of-good-hope": "cape-of-good-hope",
     "Cape of Good Hope": "cape-of-good-hope",
+    "cape-saknussemm": "cape-saknussemm",
+    "Cape Saknussemm": "cape-saknussemm",
     "cape-tchelynskin": "cape-tchelynskin",
     "Cape Tchelynskin": "cape-tchelynskin",
     "Cape Severe": "cape-tchelynskin",
@@ -25428,6 +25540,8 @@
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
     "Fort Hope": "fort-hope",
+    "fort-independence": "fort-independence",
+    "Fort Independence": "fort-independence",
     "fort-kearney": "fort-kearney",
     "Fort Kearney": "fort-kearney",
     "fort-providence": "fort-providence",
@@ -25649,6 +25763,8 @@
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
+    "lake-barnett": "lake-barnett",
+    "Lake Barnett": "lake-barnett",
     "lake-erie": "lake-erie",
     "Lake Erie": "lake-erie",
     "lake-grant": "lake-grant",
@@ -25667,6 +25783,9 @@
     "lake-tchad": "lake-tchad",
     "Lake Tchad": "lake-tchad",
     "Lake Chad": "lake-tchad",
+    "lake-tinn": "lake-tinn",
+    "Lake Tinn": "lake-tinn",
+    "Tinn": "lake-tinn",
     "lake-ukereoue": "lake-ukereoue",
     "Lake Ukereoue": "lake-ukereoue",
     "Ukereoue": "lake-ukereoue",
@@ -25778,6 +25897,8 @@
     "Morris Island": "morris-island",
     "mount-franklin": "mount-franklin",
     "Mount Franklin": "mount-franklin",
+    "mount-mendif": "mount-mendif",
+    "Mount Mendif": "mount-mendif",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -25852,8 +25973,9 @@
     "New Aberfoyle": "new-aberfoyle",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
-    "Niagara River": "niagara-falls",
+    "Falls of Niagara": "niagara-falls",
     "niagara-river": "niagara-river",
+    "Niagara River": "niagara-river",
     "nitroglycerine": "nitroglycerine",
     "Nitroglycerine": "nitroglycerine",
     "nitro-glycerine": "nitroglycerine",
@@ -26501,6 +26623,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1203,
-  "generated": "2026-07-16T02:58:14Z"
+  "page_count": 1208,
+  "generated": "2026-07-16T03:08:39Z"
 }

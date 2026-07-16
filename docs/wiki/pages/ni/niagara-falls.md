@@ -3,7 +3,7 @@ id: niagara-falls
 type: place
 label: Niagara Falls
 aliases:
-  - Niagara River
+  - Falls of Niagara
 tags:
   - place
   - waterfall
@@ -12,13 +12,12 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (Great Lakes)
 description: 'The great cataract on the Niagara River where the pursuit of the Terror reaches its crisis in The Master of the World.'
-quality: featured
 ---
 # Niagara Falls
 
 ## Overview
 
-Niagara Falls is the great cataract by which the waters of Lake Erie plunge toward Lake Ontario, and the trap into which the *Terror* is driven at the climax of *The Master of the World*. The narrator judges the barrier absolute: if the machine "meant to leave the lake by water, there was only the Niagara River to follow; and its Falls would be impassable, even to such a machine as this." (MW-014-004)
+Niagara Falls is the great cataract by which the waters of Lake Erie plunge toward Lake Ontario, and the trap into which the *Terror* is driven at the climax of *The Master of the World*. The narrator judges it absolute: if the machine "meant to leave the lake by water, there was only the Niagara River to follow; and its Falls would be impassable, even to such a machine as this." (MW-014-004)
 
 ## In the Narrative
 
