@@ -241,11 +241,11 @@
 <!-- ✔ [place] Atacama — 已建 atacama（rev hx2mBk，DSCF real，页内引注 7；Harris 谎称之南美沙漠，book 'Dick Sand: A Captain at Fifteen'，region South America）R90 -->
 
 <!-- ═══ R91 SCN28 表层复扫补种（queue=3<10 触发，since_discover=1）：demonym-stoplist geo 邻接续扫，surface 一批大区域/国家级真地名——否证 R89/R90「place 趋饱和」判断。各以 `\bName\b` 全库核 distinctPN 均 ≫5，粒度同既建 Australia/Siberia/Patagonia（区域级）。new_candidates=5≥3 → discover_streak_low 1→0，place 关闭倒计时撤销。⚠ Africa/South America 为洲级、最广，建页须以「Verne 笔下之设定」聚焦确指句，避免泛写。 -->
-- [place] Norway — 跨源 101 distinctPN（TN:32/WC:25/TT:9/TTLU:6 主）；挪威（real；Telemark/Bergen/峡湾国度，主作 Ticket No. 9672 或 The Waif of the Cynthia）
-- [place] New Zealand — 跨源 127 distinctPN（SC:72/DSCF:21/MI:18 主）；新西兰（real；SC 毛利篇主舞台/37°线终点，book In Search of the Castaways）
-- [place] Angola — DSCF:32；安哥拉（real；DSCF 内陆奴隶贸易之地/Kazounde 所在，book 'Dick Sand: A Captain at Fifteen'）
+<!-- ✔ [place] Norway — 已建 norway（rev SDqKqX，TN real，页内引注 11；Telemark/峡湾国度，book Ticket No. 9672，region Scandinavia）R92 -->
+<!-- ✔ [place] New Zealand — 已建 new-zealand（rev 6uycul，SC real，页内引注 8；毛利篇主舞台/37°线终点，book In Search of the Castaways，region Oceania）R92 -->
+<!-- ✔ [place] Angola — 已建 angola（rev 4f3ag2，DSCF real，页内引注 9；内陆奴隶贸易之地/Kazounde 所在，book 'Dick Sand: A Captain at Fifteen'，region West-Central Africa）R92 -->
 - [place] Africa — 跨源 245 distinctPN（DSCF:91/FWB:70/OC:15/TTLU:14 主）；非洲（real 洲级；FWB 气球横越之陆，book 待定 Five Weeks in a Balloon）⚠ 洲级泛，聚焦确指句
-- [place] South America — 跨源 53 distinctPN（DSCF:17/EHLA:11/SC:8 主）；南美洲（real 洲级；DSCF/EHLA/SC 之舞台，book 待定）⚠ 洲级泛，聚焦确指句
+<!-- ✔ [place] South America — 已建 south-america（rev 8sjChG，DSCF real，页内引注 10；DSCF/EHLA/SC 之舞台，book 'Dick Sand: A Captain at Fifteen'，region South America）R92 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->
@@ -254,7 +254,7 @@
 <!-- ✔ [place] Vesfjorddal — 已建 vesfjorddal（rev *，TN real，页内引注 5；Telemark Maan 河谷/Rjukan 瀑下，region Norway (Telemark)）R88 -->
 <!-- ✔ [place] Tjon — 已建 tjon（rev xCroFc，ASC fictional，页内引注 8；大铁路 Nanking 支线未成高架桥所跨之谷/结局险地，region China）R90 -->
 <!-- ✔ [place] Klock-Klock — 已建 klock-klock（rev *，AM fictional，页内引注 5；Tsalal 岛谷中土著村/滑坡惨案发生地，region Antarctic (Tsalal Island)）R88 -->
-- [place] Amazones — EHLA:8；亚马逊省（real 巴西省；EHLA Fragoso 走村串巷之省）⚠ 与既有 amazon（河）label 近，建页须用 slug amazonas-province/province-of-amazones 避碰
+<!-- ✔ [place] Amazones — 已建 amazonas-province（rev k7vDr8，EHLA real，页内引注 8；Rio Negro 口大省/首府 Manaos，label 'Province of Amazones'，book Eight Hundred Leagues on the Amazon，region Brazil (Amazon)）R92 -->
 
 <!-- ═══ R76 SCN28 表层复扫补种（queue=7<10 触发，since_discover=2）：裸词城市扫描（人名 stoplist 滤）揭示大批未建真城市，各已精核词边界 distinctPN ≥8，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Nijni-Novgorod — 已建 nijni-novgorod（rev wbkzp8，MS real，页内引注 7；Volga 集市城/Michael 启程地，region Russia (Volga)）R77 -->

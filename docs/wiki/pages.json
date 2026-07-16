@@ -1935,6 +1935,32 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 2
+    },
+    "amazonas-province": {
+      "type": "place",
+      "label": "Province of Amazones",
+      "aliases": [
+        "Amazones",
+        "Province of Amazonas"
+      ],
+      "tags": [
+        "place",
+        "brazil",
+        "eight-hundred-leagues-on-the-amazon",
+        "amazon"
+      ],
+      "path": "am/amazonas-province.md",
+      "description": "Great Brazilian province at the mouth of the Rio Negro, capital Manaos, through which the jangada drifts in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1619,
+      "prose_chars": 1534,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 0
     },
     "amsterdam-island": {
@@ -1986,6 +2012,29 @@
       "quality": "standard",
       "quality_score": 42,
       "total_refs": 4
+    },
+    "angola": {
+      "type": "place",
+      "label": "Angola",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "dick-sand-a-captain-at-fifteen",
+        "slave-trade"
+      ],
+      "path": "an/angola.md",
+      "description": "Portuguese colony on Africa's western coast, crossed by slave caravans, where Dick Sand's party is wrecked in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1592,
+      "prose_chars": 1506,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
     },
     "antarctic-sea": {
       "type": "place",
@@ -2619,7 +2668,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 2
     },
     "atlantic-ocean": {
       "type": "place",
@@ -2664,7 +2713,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "australia": {
       "type": "place",
@@ -2687,7 +2736,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "AWED-ch01": {
       "type": "chapter",
@@ -3732,7 +3781,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 3
+      "total_refs": 4
     },
     "bellot-strait": {
       "type": "place",
@@ -3800,7 +3849,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "black-rock-creek": {
       "type": "place",
@@ -4341,7 +4390,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 3
+      "total_refs": 4
     },
     "cape-michael": {
       "type": "place",
@@ -4619,7 +4668,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "christmas-harbour": {
       "type": "place",
@@ -4941,7 +4990,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 5
+      "total_refs": 7
     },
     "diving-apparatus": {
       "type": "technology",
@@ -6184,7 +6233,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -7009,7 +7058,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 8
+      "total_refs": 10
     },
     "eighty-day-wager": {
       "type": "event",
@@ -11470,7 +11519,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 17
+      "total_refs": 19
     },
     "in-the-year-2889": {
       "type": "work",
@@ -12610,7 +12659,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "kilimanjaro": {
       "type": "place",
@@ -13302,7 +13351,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 4
+      "total_refs": 5
     },
     "mandible-cape": {
       "type": "place",
@@ -16099,6 +16148,29 @@
       "book": "The Underground City",
       "total_refs": 3
     },
+    "new-zealand": {
+      "type": "place",
+      "label": "New Zealand",
+      "aliases": [],
+      "tags": [
+        "place",
+        "oceania",
+        "in-search-of-the-castaways",
+        "voyage"
+      ],
+      "path": "ne/new-zealand.md",
+      "description": "Two-island British possession of the South Pacific, Maori land where Glenarvan's party is imperilled in In Search of the Castaways.",
+      "prose_len": 1382,
+      "prose_chars": 1295,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "niagara-falls": {
       "type": "place",
       "label": "Niagara Falls",
@@ -16334,7 +16406,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 1
     },
     "north-west-company": {
       "type": "organization",
@@ -16358,6 +16430,29 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "norway": {
+      "type": "place",
+      "label": "Norway",
+      "aliases": [],
+      "tags": [
+        "place",
+        "scandinavia",
+        "ticket-no-9672",
+        "fjord"
+      ],
+      "path": "no/norway.md",
+      "description": "Scandinavian kingdom of fjords and mountains, principal setting of Ticket No. 9672 and homeland of several Verne seafarers.",
+      "prose_len": 1669,
+      "prose_chars": 1584,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Ticket No. 9672",
       "total_refs": 0
     },
     "obi": {
@@ -17399,7 +17494,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "pacific-railroad": {
       "type": "place",
@@ -17519,7 +17614,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -22488,6 +22583,29 @@
       "book": "In Search of the Castaways",
       "total_refs": 1
     },
+    "south-america": {
+      "type": "place",
+      "label": "South America",
+      "aliases": [],
+      "tags": [
+        "place",
+        "continent",
+        "dick-sand-a-captain-at-fifteen",
+        "exploration"
+      ],
+      "path": "so/south-america.md",
+      "description": "The southern continent of the New World, a recurring stage across Verne's voyages from Patagonia to the Amazon.",
+      "prose_len": 1564,
+      "prose_chars": 1480,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "spencer-island": {
       "type": "place",
       "label": "Spencer Island",
@@ -22764,7 +22882,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 3
+      "total_refs": 4
     },
     "tabor-island-castaway": {
       "type": "event",
@@ -23187,7 +23305,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 8
+      "total_refs": 9
     },
     "ticket-no-9672": {
       "type": "work",
@@ -23214,7 +23332,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 5
+      "total_refs": 6
     },
     "tijuco": {
       "type": "place",
@@ -25221,7 +25339,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "In Search of the Castaways",
-      "total_refs": 3
+      "total_refs": 4
     },
     "UC-ch01": {
       "type": "chapter",
@@ -25690,7 +25808,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "victoria-balloon": {
       "type": "technology",
@@ -26927,6 +27045,10 @@
     "amazon": "amazon",
     "Amazon": "amazon",
     "Amazon River": "amazon",
+    "amazonas-province": "amazonas-province",
+    "Province of Amazones": "amazonas-province",
+    "Amazones": "amazonas-province",
+    "Province of Amazonas": "amazonas-province",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -26934,6 +27056,8 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "angola": "angola",
+    "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
     "Antarctic Sea": "antarctic-sea",
     "Antarctic seas": "antarctic-sea",
@@ -27896,6 +28020,8 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-zealand": "new-zealand",
+    "New Zealand": "new-zealand",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
     "Falls of Niagara": "niagara-falls",
@@ -27926,6 +28052,8 @@
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
+    "norway": "norway",
+    "Norway": "norway",
     "obi": "obi",
     "Obi": "obi",
     "Ob": "obi",
@@ -28311,6 +28439,8 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "south-america": "south-america",
+    "South America": "south-america",
     "spencer-island": "spencer-island",
     "Spencer Island": "spencer-island",
     "Phina Island": "spencer-island",
@@ -28619,6 +28749,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1287,
-  "generated": "2026-07-16T05:18:58Z"
+  "page_count": 1292,
+  "generated": "2026-07-16T05:28:43Z"
 }

@@ -587,6 +587,15 @@
       ],
       "path": "am/amazon.md"
     },
+    "amazonas-province": {
+      "type": "place",
+      "label": "Province of Amazones",
+      "aliases": [
+        "Amazones",
+        "Province of Amazonas"
+      ],
+      "path": "am/amazonas-province.md"
+    },
     "amsterdam-island": {
       "type": "place",
       "label": "Amsterdam Island",
@@ -603,6 +612,12 @@
         "Le Sphinx des glaces"
       ],
       "path": "an/an-antarctic-mystery.md"
+    },
+    "angola": {
+      "type": "place",
+      "label": "Angola",
+      "aliases": [],
+      "path": "an/angola.md"
     },
     "antarctic-sea": {
       "type": "place",
@@ -4835,6 +4850,12 @@
       "aliases": [],
       "path": "ne/new-aberfoyle.md"
     },
+    "new-zealand": {
+      "type": "place",
+      "label": "New Zealand",
+      "aliases": [],
+      "path": "ne/new-zealand.md"
+    },
     "niagara-falls": {
       "type": "place",
       "label": "Niagara Falls",
@@ -4914,6 +4935,12 @@
         "North-west Company"
       ],
       "path": "no/north-west-company.md"
+    },
+    "norway": {
+      "type": "place",
+      "label": "Norway",
+      "aliases": [],
+      "path": "no/norway.md"
     },
     "obi": {
       "type": "place",
@@ -6757,6 +6784,12 @@
       "aliases": [],
       "path": "sn/snowy-river.md"
     },
+    "south-america": {
+      "type": "place",
+      "label": "South America",
+      "aliases": [],
+      "path": "so/south-america.md"
+    },
     "spencer-island": {
       "type": "place",
       "label": "Spencer Island",
@@ -8177,6 +8210,10 @@
     "amazon": "amazon",
     "Amazon": "amazon",
     "Amazon River": "amazon",
+    "amazonas-province": "amazonas-province",
+    "Province of Amazones": "amazonas-province",
+    "Amazones": "amazonas-province",
+    "Province of Amazonas": "amazonas-province",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -8184,6 +8221,8 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "angola": "angola",
+    "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
     "Antarctic Sea": "antarctic-sea",
     "Antarctic seas": "antarctic-sea",
@@ -9146,6 +9185,8 @@
     "Nemo's sodium battery": "nemo-electricity",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-zealand": "new-zealand",
+    "New Zealand": "new-zealand",
     "niagara-falls": "niagara-falls",
     "Niagara Falls": "niagara-falls",
     "Falls of Niagara": "niagara-falls",
@@ -9176,6 +9217,8 @@
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
+    "norway": "norway",
+    "Norway": "norway",
     "obi": "obi",
     "Obi": "obi",
     "Ob": "obi",
@@ -9561,6 +9604,8 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "south-america": "south-america",
+    "South America": "south-america",
     "spencer-island": "spencer-island",
     "Spencer Island": "spencer-island",
     "Phina Island": "spencer-island",
@@ -9869,6 +9914,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1287,
-  "generated": "2026-07-16T05:18:58Z"
+  "page_count": 1292,
+  "generated": "2026-07-16T05:28:43Z"
 }
