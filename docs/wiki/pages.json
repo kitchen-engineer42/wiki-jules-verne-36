@@ -1252,7 +1252,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 2
+      "total_refs": 3
     },
     "albatross": {
       "type": "technology",
@@ -1982,7 +1982,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 11
+      "total_refs": 13
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -12464,6 +12464,28 @@
       "book": "The Underground City",
       "total_refs": 0
     },
+    "london": {
+      "type": "place",
+      "label": "London",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "england"
+      ],
+      "path": "lo/london.md",
+      "description": "The English capital and home of Phileas Fogg, where his wager begins and must end in Around the World in Eighty Days.",
+      "prose_len": 1573,
+      "prose_chars": 1478,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "lunar-orbit-miss": {
       "type": "event",
       "label": "Missing the Moon",
@@ -13871,7 +13893,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 3
+      "total_refs": 5
     },
     "michel-ardan": {
       "type": "character",
@@ -16359,6 +16381,28 @@
       "quality_score": 41,
       "total_refs": 1
     },
+    "omsk": {
+      "type": "place",
+      "label": "Omsk",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "siberia"
+      ],
+      "path": "om/omsk.md",
+      "description": "The Western Siberian city and military centre that is Michael Strogoff's home town and an early goal of his journey.",
+      "prose_len": 1719,
+      "prose_chars": 1626,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "oxyhydric-gas": {
       "type": "technology",
       "label": "oxyhydric gas",
@@ -16499,6 +16543,30 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
+    "pekin": {
+      "type": "place",
+      "label": "Pekin",
+      "aliases": [
+        "Peking"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "china"
+      ],
+      "path": "pe/pekin.md",
+      "description": "The Chinese capital that is the eastern terminus of the Grand Transasiatic railway journey in The Adventures of a Special Correspondent.",
+      "prose_len": 1660,
+      "prose_chars": 1566,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
     "peninsular-and-oriental-company": {
@@ -18115,6 +18183,28 @@
       "quality_score": 70,
       "book": "A Journey to the Centre of the Earth",
       "total_refs": 3
+    },
+    "san-francisco": {
+      "type": "place",
+      "label": "San Francisco",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "california"
+      ],
+      "path": "sa/san-francisco.md",
+      "description": "The Californian port where Phileas Fogg lands in America and begins his rail crossing of the continent in Around the World in Eighty Days.",
+      "prose_len": 1723,
+      "prose_chars": 1621,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
     },
     "sandwich-islands": {
       "type": "place",
@@ -22381,6 +22471,28 @@
       "quality_score": 336,
       "total_refs": 0
     },
+    "tomsk": {
+      "type": "place",
+      "label": "Tomsk",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "siberia"
+      ],
+      "path": "to/tomsk.md",
+      "description": "The large Western Siberian city on the telegraph line whose fall marks the Tartar advance in Michael Strogoff.",
+      "prose_len": 1608,
+      "prose_chars": 1514,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "top": {
       "type": "character",
       "label": "Top",
@@ -26168,6 +26280,8 @@
     "Loch Katrine": "loch-katrine",
     "loch-malcolm": "loch-malcolm",
     "Loch Malcolm": "loch-malcolm",
+    "london": "london",
+    "London": "london",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -26405,6 +26519,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "omsk": "omsk",
+    "Omsk": "omsk",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
     "pacific-ocean": "pacific-ocean",
@@ -26422,6 +26538,9 @@
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
     "Tenerife": "peak-of-teneriffe",
+    "pekin": "pekin",
+    "Pekin": "pekin",
+    "Peking": "pekin",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -26535,6 +26654,8 @@
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
     "Ruhmkorff coil": "ruhmkorff-apparatus",
+    "san-francisco": "san-francisco",
+    "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
@@ -26824,6 +26945,8 @@
     "TN-ch20": "TN-ch20",
     "TOC": "TOC",
     "Table of Contents": "TOC",
+    "tomsk": "tomsk",
+    "Tomsk": "tomsk",
     "top": "top",
     "Top": "top",
     "topsy-turvy": "topsy-turvy",
@@ -26995,6 +27118,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1223,
-  "generated": "2026-07-16T03:29:18Z"
+  "page_count": 1228,
+  "generated": "2026-07-16T03:34:13Z"
 }

@@ -3766,6 +3766,12 @@
       "aliases": [],
       "path": "lo/loch-malcolm.md"
     },
+    "london": {
+      "type": "place",
+      "label": "London",
+      "aliases": [],
+      "path": "lo/london.md"
+    },
     "lunar-orbit-miss": {
       "type": "event",
       "label": "Missing the Moon",
@@ -4941,6 +4947,12 @@
       ],
       "path": "of/off-on-a-comet.md"
     },
+    "omsk": {
+      "type": "place",
+      "label": "Omsk",
+      "aliases": [],
+      "path": "om/omsk.md"
+    },
     "oxyhydric-gas": {
       "type": "technology",
       "label": "oxyhydric gas",
@@ -4984,6 +4996,14 @@
         "Tenerife"
       ],
       "path": "pe/peak-of-teneriffe.md"
+    },
+    "pekin": {
+      "type": "place",
+      "label": "Pekin",
+      "aliases": [
+        "Peking"
+      ],
+      "path": "pe/pekin.md"
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -5471,6 +5491,12 @@
         "Ruhmkorff coil"
       ],
       "path": "ru/ruhmkorff-apparatus.md"
+    },
+    "san-francisco": {
+      "type": "place",
+      "label": "San Francisco",
+      "aliases": [],
+      "path": "sa/san-francisco.md"
     },
     "sandwich-islands": {
       "type": "place",
@@ -6771,6 +6797,12 @@
       "label": "Table of Contents",
       "aliases": [],
       "path": "to/TOC.md"
+    },
+    "tomsk": {
+      "type": "place",
+      "label": "Tomsk",
+      "aliases": [],
+      "path": "to/tomsk.md"
     },
     "top": {
       "type": "character",
@@ -8494,6 +8526,8 @@
     "Loch Katrine": "loch-katrine",
     "loch-malcolm": "loch-malcolm",
     "Loch Malcolm": "loch-malcolm",
+    "london": "london",
+    "London": "london",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -8731,6 +8765,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "omsk": "omsk",
+    "Omsk": "omsk",
     "oxyhydric-gas": "oxyhydric-gas",
     "oxyhydric gas": "oxyhydric-gas",
     "pacific-ocean": "pacific-ocean",
@@ -8748,6 +8784,9 @@
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
     "Tenerife": "peak-of-teneriffe",
+    "pekin": "pekin",
+    "Pekin": "pekin",
+    "Peking": "pekin",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -8861,6 +8900,8 @@
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
     "Ruhmkorff coil": "ruhmkorff-apparatus",
+    "san-francisco": "san-francisco",
+    "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
@@ -9150,6 +9191,8 @@
     "TN-ch20": "TN-ch20",
     "TOC": "TOC",
     "Table of Contents": "TOC",
+    "tomsk": "tomsk",
+    "Tomsk": "tomsk",
     "top": "top",
     "Top": "top",
     "topsy-turvy": "topsy-turvy",
@@ -9321,6 +9364,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1223,
-  "generated": "2026-07-16T03:29:18Z"
+  "page_count": 1228,
+  "generated": "2026-07-16T03:34:13Z"
 }

@@ -238,15 +238,16 @@
 
 <!-- ═══ R68 SCN28 表层复扫补种（queue=9<10 触发，since_discover=8）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Irkutsk — 已建 irkutsk（rev nUAZ3e，MS real，页内引注 7；东西伯利亚首府，region Eastern Siberia）R69 -->
-- [place] Omsk — MS:77；西西伯利亚要城，Strogoff 途经（real）
-- [place] Tomsk — MS:70；西西伯利亚城，Strogoff 情节节点（real）
+<!-- ✔ [place] Omsk — 已建 omsk（rev zcgUM1，MS real，页内引注 6；Strogoff 家乡/西西伯利亚军镇，region Western Siberia）R70 -->
+<!-- ✔ [place] Tomsk — 已建 tomsk（rev smNlPD，MS real，页内引注 7；西西伯利亚大城/电报线节点，region Western Siberia）R70 -->
 <!-- ✔ [place] Kazounde — 已建 kazounde（rev 6auVN9，DSCF real，页内引注 9；安哥拉内陆奴隶市场镇，book 'Dick Sand: A Captain at Fifteen'，region Angola）R69 -->
 <!-- ✔ [place] Iquitos — 已建 iquitos（rev MrMXVb，EHLA real，页内引注 8；亚马逊上游农庄村，Jangada 启航地，region Upper Amazon/Peru）R69 -->
 - [place] Manaos — EHLA:80；亚马逊内格罗河口巴西城（real，alias Manaus 待核）
-- [place] Pekin — ASC:88；清帝国京城，《The Tribulations of a Chinaman》主场（real，alias Peking/Beijing 待核）
+<!-- ✔ [place] Pekin — 已建 pekin（rev I1W7pu，ASC real，页内引注 8；清帝国京城/Grand Transasiatic 东端，alias Peking，book 'The Adventures of a Special Correspondent'，region China）R70 -->
 <!-- ✔ [place] Zanzibar — 已建 zanzibar（rev qNvNiE，FWB real，页内引注 9；东非岛/港，气球启程地，region East African coast）R69 -->
-- [place] San Francisco — GM:27/AWED:27/DSCF:14/RM:12；加州港城，多作出现（real；跨源 agg 高，单作 max 27）
-- [place] London — AWED:62/FWB:28/SC:8/ASC:8；Fogg 环游起讫城，多作出现（real；单作 max 62）
+<!-- ✔ [place] San Francisco — 已建 san-francisco（rev wOpuHo，AWED real，页内引注 7；加州港城/Fogg 美洲登陆点，region California）R70 -->
+<!-- ✔ [place] London — 已建 london（rev Yw89Sb，AWED real，页内引注 7；英格兰首都/Fogg 赌约起讫城，region England）R70 -->
+<!-- R70 NEW1 消费 5：omsk / tomsk / pekin / london / san-francisco；queue 19→14 -->
 <!-- ✔ [place] Stockholm — 已建 stockholm（rev U4TIGR，WC real，页内引注 8；瑞典首都，Schwaryencrona 居所，region Sweden）R69 -->
 <!-- 注：Kazounde real 判定——Verne 依 real Angola 内陆奴隶贸易设定，region Angola（Central Africa）。 -->
 <!-- 注：Manaos/Pekin/Christiania 建页 label 从 Verne 原文旧称，现代名（Manaus/Peking/Oslo）收 alias，见 R68 log。 -->
