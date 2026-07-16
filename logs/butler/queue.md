@@ -236,6 +236,20 @@
 - [place] Cape Bon — OC:3/RC:1/TTLU:1；agg 5（单作 max 3）；邦角（real 突尼斯；跨源建页）
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
+<!-- ═══ R76 SCN28 表层复扫补种（queue=7<10 触发，since_discover=2）：裸词城市扫描（人名 stoplist 滤）揭示大批未建真城市，各已精核词边界 distinctPN ≥8，均非既有页/人物 ═══ -->
+- [place] Nijni-Novgorod — MS:47；下诺夫哥罗德（real 俄；MS 集市城/Michael 启程地）
+- [place] Bombay — AWED:50；孟买（real 印度；Fogg 印度登陆港）
+- [place] Melbourne — SC:51；墨尔本（real 澳；SC 澳洲段主港）
+- [place] Lima — PL:36；利马（real 秘鲁；PL 故事舞台）
+- [place] Gibraltar — OC:38；直布罗陀（real；OC 彗星掠地测距基点）
+- [place] Morganton — MW:36；摩根顿（real 北卡；MW Great Eyrie 山脚镇）
+- [place] Tijuco — EHLA:39；蒂茹科（real 巴西；EHLA Joam 早年城）
+- [place] Kilimanjaro — TT:34；乞力马扎罗（real 东非；TT 气球飞越）
+- [place] Tsalal — AM:90；察拉尔岛（fictional 南极；AM Poe 续篇岛）
+- [place] Calcutta — AWED:28；加尔各答（real 印度；Fogg 印度铁路终点）
+- [place] Allahabad — AWED:14；阿拉哈巴德（real 印度；Fogg 铁路中断处）
+- [place] Benares — AWED:8；贝拿勒斯（real 印度；Fogg 恒河圣城站）
+
 <!-- ═══ R73 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Semipolatinsk — 已建 semipolatinsk（rev KP2OU0，MS real，页内引注 5 恰达门；伊尔蒂什河畔西伯利亚政府/Cossack 军镇，region Siberia (Irtish valley)）R74 -->
 <!-- ✔ [place] Tobolsk — 已建 tobolsk（rev FU9QBq，MS real，页内引注 7；西西伯利亚政府/忠诚 Cossack 出兵地，region Western Siberia）R74 -->
