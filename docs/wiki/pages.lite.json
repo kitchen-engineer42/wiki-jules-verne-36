@@ -630,6 +630,15 @@
       ],
       "path": "am/amazonas-province.md"
     },
+    "amou-daria": {
+      "type": "place",
+      "label": "Amou-Daria",
+      "aliases": [
+        "Oxus",
+        "Amu Darya"
+      ],
+      "path": "am/amou-daria.md"
+    },
     "amsterdam-island": {
       "type": "place",
       "label": "Amsterdam Island",
@@ -6096,11 +6105,28 @@
       "aliases": [],
       "path": "re/reform-club.md"
     },
+    "rhine": {
+      "type": "place",
+      "label": "Rhine",
+      "aliases": [
+        "Rhine River"
+      ],
+      "path": "rh/rhine.md"
+    },
     "riga": {
       "type": "place",
       "label": "Riga",
       "aliases": [],
       "path": "ri/riga.md"
+    },
+    "rio-de-la-plata": {
+      "type": "place",
+      "label": "Rio de la Plata",
+      "aliases": [
+        "La Plata",
+        "River Plate"
+      ],
+      "path": "ri/rio-de-la-plata.md"
     },
     "RM-ch01": {
       "type": "chapter",
@@ -7454,6 +7480,14 @@
         "Tehran"
       ],
       "path": "te/teheran.md"
+    },
+    "thames": {
+      "type": "place",
+      "label": "Thames",
+      "aliases": [
+        "River Thames"
+      ],
+      "path": "th/thames.md"
     },
     "the-adventures-of-captain-hatteras": {
       "type": "work",
@@ -8832,6 +8866,10 @@
     "Province of Amazones": "amazonas-province",
     "Amazones": "amazonas-province",
     "Province of Amazonas": "amazonas-province",
+    "amou-daria": "amou-daria",
+    "Amou-Daria": "amou-daria",
+    "Oxus": "amou-daria",
+    "Amu Darya": "amou-daria",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -10152,8 +10190,15 @@
     "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
+    "rhine": "rhine",
+    "Rhine": "rhine",
+    "Rhine River": "rhine",
     "riga": "riga",
     "Riga": "riga",
+    "rio-de-la-plata": "rio-de-la-plata",
+    "Rio de la Plata": "rio-de-la-plata",
+    "La Plata": "rio-de-la-plata",
+    "River Plate": "rio-de-la-plata",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -10448,6 +10493,9 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "thames": "thames",
+    "Thames": "thames",
+    "River Thames": "thames",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
@@ -10735,6 +10783,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1383,
-  "generated": "2026-07-16T09:43:48Z"
+  "page_count": 1387,
+  "generated": "2026-07-16T09:52:25Z"
 }

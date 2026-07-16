@@ -1300,7 +1300,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 20
+      "total_refs": 21
     },
     "africa": {
       "type": "place",
@@ -2054,7 +2054,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 5
+      "total_refs": 7
     },
     "amazonas-province": {
       "type": "place",
@@ -2081,6 +2081,32 @@
       "quality_score": 66,
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 1
+    },
+    "amou-daria": {
+      "type": "place",
+      "label": "Amou-Daria",
+      "aliases": [
+        "Oxus",
+        "Amu Darya"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "central-asia",
+        "river"
+      ],
+      "path": "am/amou-daria.md",
+      "description": "The great Central Asian river, the Oxus of the Ancients, crossed by the Grand Trans-Asian railway in Verne and rival of the Indus and Ganges.",
+      "prose_len": 1149,
+      "prose_chars": 1068,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "amsterdam-island": {
       "type": "place",
@@ -2274,7 +2300,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "argentine": {
       "type": "place",
@@ -4558,7 +4584,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 1
+      "total_refs": 2
     },
     "brest": {
       "type": "place",
@@ -7983,7 +8009,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "A Journey to the Center of the Earth",
-      "total_refs": 0
+      "total_refs": 1
     },
     "etna": {
       "type": "place",
@@ -10011,7 +10037,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 8
+      "total_refs": 9
     },
     "fix": {
       "type": "character",
@@ -12641,7 +12667,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 22
+      "total_refs": 23
     },
     "in-the-year-2889": {
       "type": "work",
@@ -14563,7 +14589,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Around the World in Eighty Days",
-      "total_refs": 6
+      "total_refs": 7
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -17569,7 +17595,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 71
+      "total_refs": 72
     },
     "navy-island": {
       "type": "place",
@@ -19159,7 +19185,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "pamlico-sound": {
       "type": "place",
@@ -20377,6 +20403,31 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 18
     },
+    "rhine": {
+      "type": "place",
+      "label": "Rhine",
+      "aliases": [
+        "Rhine River"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "germany",
+        "river"
+      ],
+      "path": "rh/rhine.md",
+      "description": "The great river of the German lands, a natural frontier and a river of legend in Verne, seen as an unrolled ribbon from the aeronaut's car.",
+      "prose_len": 1002,
+      "prose_chars": 921,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 60,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "riga": {
       "type": "place",
       "label": "Riga",
@@ -20398,6 +20449,32 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Michael Strogoff",
+      "total_refs": 0
+    },
+    "rio-de-la-plata": {
+      "type": "place",
+      "label": "Rio de la Plata",
+      "aliases": [
+        "La Plata",
+        "River Plate"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "river",
+        "estuary"
+      ],
+      "path": "ri/rio-de-la-plata.md",
+      "description": "The wide South American estuary of the River Plate, giving its name to the provinces of La Plata, passed by the Nautilus off Uruguay.",
+      "prose_len": 1243,
+      "prose_chars": 1162,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
     "RM-ch01": {
@@ -24471,7 +24548,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 5
+      "total_refs": 6
     },
     "spain": {
       "type": "place",
@@ -24913,6 +24990,31 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
+    "thames": {
+      "type": "place",
+      "label": "Thames",
+      "aliases": [
+        "River Thames"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "england",
+        "river"
+      ],
+      "path": "th/thames.md",
+      "description": "The great river of London, crowded with barges and steamboats, down which the Resolute sailed toward the sea in Verne.",
+      "prose_len": 1122,
+      "prose_chars": 1041,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Five Weeks in a Balloon",
       "total_refs": 0
     },
     "the-adventures-of-captain-hatteras": {
@@ -27372,7 +27474,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 28
+      "total_refs": 29
     },
     "twofold-bay": {
       "type": "place",
@@ -29186,6 +29288,10 @@
     "Province of Amazones": "amazonas-province",
     "Amazones": "amazonas-province",
     "Province of Amazonas": "amazonas-province",
+    "amou-daria": "amou-daria",
+    "Amou-Daria": "amou-daria",
+    "Oxus": "amou-daria",
+    "Amu Darya": "amou-daria",
     "amsterdam-island": "amsterdam-island",
     "Amsterdam Island": "amsterdam-island",
     "Amsterdam Isles": "amsterdam-island",
@@ -30506,8 +30612,15 @@
     "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
+    "rhine": "rhine",
+    "Rhine": "rhine",
+    "Rhine River": "rhine",
     "riga": "riga",
     "Riga": "riga",
+    "rio-de-la-plata": "rio-de-la-plata",
+    "Rio de la Plata": "rio-de-la-plata",
+    "La Plata": "rio-de-la-plata",
+    "River Plate": "rio-de-la-plata",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -30802,6 +30915,9 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "thames": "thames",
+    "Thames": "thames",
+    "River Thames": "thames",
     "the-adventures-of-captain-hatteras": "the-adventures-of-captain-hatteras",
     "The Adventures of Captain Hatteras": "the-adventures-of-captain-hatteras",
     "the-ascent-of-mont-blanc": "the-ascent-of-mont-blanc",
@@ -31089,6 +31205,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1383,
-  "generated": "2026-07-16T09:43:48Z"
+  "page_count": 1387,
+  "generated": "2026-07-16T09:52:25Z"
 }

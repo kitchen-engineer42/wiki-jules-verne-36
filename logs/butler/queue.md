@@ -327,9 +327,9 @@
 <!-- ✔ [place] Sahara — 已建 sahara（rev *，FWB real，页内引注 5；900 里荒漠/气球西驱之惧/Touaregs，alias Sahara Desert，book Five Weeks in a Balloon，region Africa）R106 -->
 <!-- ⚠ [place] Ural — R107 交叉核**已建** ural-mountains（label Ural Mountains，R42）→ 山脉义为伪新候选剔除。裸 "Ural" 35 distinctPN 几全为 MS "Ural Mountains"（=既有页）；仅 MS-003-005「on issuing from the Ural」等 <5 为 Ural River 独立义，不足门。ural-river 暂不单建。R107 -->
 <!-- ✔ [place] Mississippi — 已建 mississippi（rev 2KWOLK，AWED real，页内引注 6；king of rivers/Fogg 铁路 Davenport 夜渡/Robur 飞越 Father of Waters/汽船，alias Mississippi River，book Around the World in Eighty Days，region North America；剔 TTLU-032 河名列举、TTLU-006 paddle-wheeler 形容）R107 -->
-- [place] Thames — 跨源；7 distinctPN（real；泰晤士河）
-- [place] Rhine — 跨源；7 distinctPN（real；莱茵河）
-- [place] Plata — 跨源 SC；7 distinctPN（real；拉普拉塔河 Rio de la Plata）
+<!-- ✔ [place] Thames — 已建 thames（rev d3sqtk，rof=real，页内引注 5：ASC-024-007/FWB-008-014/008-015/ACH-041-041/SC-001-001；London 大河/Resolute 出海/1789 Gravesend 冻结；SC-001-001 Royal Thames Yacht Club 作河名源引（比照 astrakhan 皮草先例），alias River Thames，book Five Weeks in a Balloon）R119 -->
+<!-- ✔ [place] Rhine — 已建 rhine（rev WN82bE，rof=real，页内引注 5：DA-001-149/SC-007-014/054-024/YEAR-001-041/TTLU-032-002；德国大河/Schaffhausen 瀑布/民族之河/边界；全为河义无 Rhine 城/军团混入，alias Rhine River，book In Search of the Castaways）R119 -->
+<!-- ✔ [place] Plata — 已建 rio-de-la-plata（rev OBpryd，rof=real，页内引注 5：TTLU-041-040/041-063/032-002/FEM-012-029/MI-022-036；River Plate 河口 + La Plata 省名源；**剔 TTLU-015-039 Rocca de la Plata 太平洋礁异实体**，aliases La Plata/River Plate，book Twenty Thousand Leagues Under the Sea）R119 -->
 <!-- ✔ [place] Ganges — 已建 ganges（rev TpM9cR，rof=real，页内引注 7；AWED:6/TTLU/ASC，alias Ganges River）R110 -->
 <!-- R103 未入队/待核：Java（岛，但 the Java=Cunard 汽船，须词边界剔）、Pekin=Peking（异名，核既建）、Siberia/Greenland/Iceland/Zanzibar（既建）、England 221/France 169（续暂缓，城市页密集，国级页价值 R104 后专项评）。 -->
 
@@ -377,7 +377,7 @@
 <!-- ✔ [place] Crete — 已建 crete（rev c3g4ex，rof=real，页内引注 5：TTLU-018-005/030-071/030-072/030-083/032-079；地中海岛/反抗奥斯曼/Nautilus 掠岸，alias Candia，book Twenty Thousand Leagues Under the Sea）R117 -->
 <!-- ✔ [place] Astrakhan — 已建 astrakhan（rev xmlbg2，rof=real，页内引注 5：RC-013-060/014-009/014-011 + MS-005-053/005-019；里海口城/Star of the Desert/astrakhan 皮草名源，book The Clipper of the Clouds；MS-005-019 皮草作城市名源引，MS-005-053 沙皇尊号）R117 -->
 <!-- ✔ [place] Aral — 已建 aral-sea（rev EAD5fu，rof=real，页内引注 5：ASC-006-020/006-027/010-064 + RC-013-056 + TTLU-014-027；中亚咸海/干缩/曾与 Caspian 相连，aliases Sea of Aral/Aral，book The Adventures of a Special Correspondent）R118 -->
-- [place] Amou-Daria — SCN28 R111；5 distinctPN（real；ASC:5 中亚河 Oxus）
+<!-- ✔ [place] Amou-Daria — 已建 amou-daria（rev 60VXH2，rof=real，页内引注 5：ASC-010-063/010-064/010-071/010-072/013-013；中亚河 Oxus/petroleum 火船/Zarafchane 支流/大铁路桥，aliases Oxus/Amu Darya，book The Adventures of a Special Correspondent）R119 -->
 <!-- ✔ [place] Alexandria — 已建 alexandria（rev 87UU0b，rof=real，页内引注 5：FWB-005-063/OC-013-008/TTLU-030-132/WC-012-049/013-026；埃及地中海港/邮路 landfall；均确指埃及港，无美国同名地混入，book The Waif of the Cynthia）R118 -->
 <!-- ✔ [place] Adriatic — 已建 adriatic-sea（rev rgZstG，rof=real，页内引注 5：DA-001-114/VB-001-110/TTLU-023-021/031-013/ACH-041-041；地中海湾/Nautilus 掠口/气球漂向；ACH-041-041 用源忠实句提重叠过 2% 门，alias Adriatic，book Twenty Thousand Leagues Under the Sea）R118 -->
 
