@@ -236,6 +236,16 @@
 - [place] Cape Bon — OC:3/RC:1/TTLU:1；agg 5（单作 max 3）；邦角（real 突尼斯；跨源建页）
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
+<!-- ═══ R73 SCN28 表层复扫补种（queue=9<10 触发，since_discover=4）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
+- [place] Semipolatinsk — MS:5（恰达门）；西伯利亚/今哈萨克 Semey（real；MS 军政要地，与 Omsk/Tobolsk 并列）
+- [place] Tobolsk — MS:14；西西伯利亚托博尔斯克（real；MS Cossack 政府所在）
+- [place] Kolyvan — MS:47；西西伯利亚科雷万（real；MS Michael 被俘地/电报站）
+- [place] Ichim — MS:38；西西伯利亚伊希姆（real；MS 驿站，Ogareff 鞭击场景地）
+- [place] Baraba — MS:14；西西伯利亚巴拉巴草原（real；MS 沼泽地带 region）
+- [place] Belem — EHLA:43；巴西帕拉州贝伦（real；亚马逊河口城，Jangada 终点）
+- [place] Tabatinga — EHLA:23；巴西亚马逊塔巴廷加（real；巴西/秘鲁边境哨镇）
+- [place] Yokohama — AWED:35/WC:5/ASC:4；日本横滨（real；AWED Fogg 日本登陆港）
+
 <!-- ═══ R68 SCN28 表层复扫补种（queue=9<10 触发，since_discover=8）：单作强候选城市/地点，各已精核词边界 distinctPN ≥5，均非既有页/人物 ═══ -->
 <!-- ✔ [place] Irkutsk — 已建 irkutsk（rev nUAZ3e，MS real，页内引注 7；东西伯利亚首府，region Eastern Siberia）R69 -->
 <!-- ✔ [place] Omsk — 已建 omsk（rev zcgUM1，MS real，页内引注 6；Strogoff 家乡/西西伯利亚军镇，region Western Siberia）R70 -->
