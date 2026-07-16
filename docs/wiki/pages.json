@@ -1249,6 +1249,31 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Around the World in Eighty Days",
+      "total_refs": 1
+    },
+    "adriatic-sea": {
+      "type": "place",
+      "label": "Adriatic Sea",
+      "aliases": [
+        "Adriatic"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "mediterranean",
+        "sea"
+      ],
+      "path": "ad/adriatic-sea.md",
+      "description": "The arm of the Mediterranean between Italy and the Balkan coast, sounded by the Nautilus and dreaded as a drift-goal by Verne's balloonists.",
+      "prose_len": 1173,
+      "prose_chars": 1092,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
     "adventures-of-a-special-correspondent": {
@@ -1275,7 +1300,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 19
+      "total_refs": 20
     },
     "africa": {
       "type": "place",
@@ -1349,6 +1374,30 @@
       "quality_score": 66,
       "book": "The Fur Country",
       "total_refs": 1
+    },
+    "alexandria": {
+      "type": "place",
+      "label": "Alexandria",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "egypt",
+        "city",
+        "port"
+      ],
+      "path": "al/alexandria.md",
+      "description": "The Egyptian Mediterranean port and mail-route landfall, a stage on the sea roads toward Suez, Aden, and the East in Verne.",
+      "prose_len": 1180,
+      "prose_chars": 1099,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 10,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
     },
     "algiers": {
       "type": "place",
@@ -2199,6 +2248,32 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
+    "aral-sea": {
+      "type": "place",
+      "label": "Aral Sea",
+      "aliases": [
+        "Sea of Aral",
+        "Aral"
+      ],
+      "tags": [
+        "place",
+        "asia",
+        "central-asia",
+        "sea"
+      ],
+      "path": "ar/aral-sea.md",
+      "description": "The shrinking inland sea of Central Asia, drying like the Caspian it was once joined to, crossed in Verne's Trans-Asian rail and airship journeys.",
+      "prose_len": 1223,
+      "prose_chars": 1142,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
     "argentine": {
@@ -5052,7 +5127,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 4
+      "total_refs": 5
     },
     "caucasus": {
       "type": "place",
@@ -7884,6 +7959,31 @@
       "quality_score": 63,
       "book": "Michael Strogoff",
       "total_refs": 1
+    },
+    "elbe": {
+      "type": "place",
+      "label": "Elbe",
+      "aliases": [
+        "Elbe River"
+      ],
+      "tags": [
+        "place",
+        "europe",
+        "germany",
+        "river"
+      ],
+      "path": "el/elbe.md",
+      "description": "The north-German river on whose banks Hamburg stands, walked by Axel in Verne and counted among the great rivers that feed the ocean.",
+      "prose_len": 1173,
+      "prose_chars": 1092,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "A Journey to the Center of the Earth",
+      "total_refs": 0
     },
     "etna": {
       "type": "place",
@@ -12286,7 +12386,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "A Journey to the Center of the Earth",
-      "total_refs": 0
+      "total_refs": 1
     },
     "havre": {
       "type": "place",
@@ -13750,7 +13850,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 16
+      "total_refs": 17
     },
     "kamtschatka": {
       "type": "place",
@@ -14211,6 +14311,31 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 3
     },
+    "lena": {
+      "type": "place",
+      "label": "Lena",
+      "aliases": [
+        "Lena River"
+      ],
+      "tags": [
+        "place",
+        "russia",
+        "siberia",
+        "river"
+      ],
+      "path": "le/lena.md",
+      "description": "One of the great rivers of eastern Siberia, running north to an Arctic mouth that guided Nordenskiold's Vega and the Tartar march in Verne.",
+      "prose_len": 1183,
+      "prose_chars": 1102,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "liedenbrock-cipher": {
       "type": "event",
       "label": "Deciphering the Saknussemm Cipher",
@@ -14581,7 +14706,7 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "manaos": {
       "type": "place",
@@ -14701,7 +14826,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Off on a Comet",
-      "total_refs": 8
+      "total_refs": 10
     },
     "melbourne": {
       "type": "place",
@@ -16080,7 +16205,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 27
+      "total_refs": 28
     },
     "michel-ardan": {
       "type": "character",
@@ -17444,7 +17569,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 69
+      "total_refs": 71
     },
     "navy-island": {
       "type": "place",
@@ -19034,7 +19159,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 2
+      "total_refs": 3
     },
     "pamlico-sound": {
       "type": "place",
@@ -24180,7 +24305,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Michael Strogoff",
-      "total_refs": 6
+      "total_refs": 7
     },
     "sicily": {
       "type": "place",
@@ -24578,7 +24703,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Around the World in Eighty Days",
-      "total_refs": 3
+      "total_refs": 4
     },
     "sullivan-island": {
       "type": "place",
@@ -25141,7 +25266,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 14
+      "total_refs": 16
     },
     "tibet": {
       "type": "place",
@@ -27247,7 +27372,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 27
+      "total_refs": 28
     },
     "twofold-bay": {
       "type": "place",
@@ -27720,7 +27845,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "valparaiso": {
       "type": "place",
@@ -28860,7 +28985,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Michael Strogoff",
-      "total_refs": 2
+      "total_refs": 3
     },
     "yokohama": {
       "type": "place",
@@ -29001,6 +29126,9 @@
     "A Drama in the Clouds": "a-drama-in-the-air",
     "aden": "aden",
     "Aden": "aden",
+    "adriatic-sea": "adriatic-sea",
+    "Adriatic Sea": "adriatic-sea",
+    "Adriatic": "adriatic-sea",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -29013,6 +29141,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "alexandria": "alexandria",
+    "Alexandria": "alexandria",
     "algiers": "algiers",
     "Algiers": "algiers",
     "allahabad": "allahabad",
@@ -29077,6 +29207,10 @@
     "Aouda": "aouda",
     "arabia": "arabia",
     "Arabia": "arabia",
+    "aral-sea": "aral-sea",
+    "Aral Sea": "aral-sea",
+    "Sea of Aral": "aral-sea",
+    "Aral": "aral-sea",
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
@@ -29490,6 +29624,9 @@
     "The Eighty-Day Wager": "eighty-day-wager",
     "ekaterenburg": "ekaterenburg",
     "Ekaterenburg": "ekaterenburg",
+    "elbe": "elbe",
+    "Elbe": "elbe",
+    "Elbe River": "elbe",
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
@@ -29941,6 +30078,9 @@
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
+    "lena": "lena",
+    "Lena": "lena",
+    "Lena River": "lena",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -30949,6 +31089,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1378,
-  "generated": "2026-07-16T09:31:19Z"
+  "page_count": 1383,
+  "generated": "2026-07-16T09:43:48Z"
 }

@@ -370,16 +370,16 @@
 <!-- ✔ [place] New Archangel — 已建 new-archangel（rev YDtOgc，rof=real，页内引注 5：FC-030-054/034-007/036-035/045-033/047-004；Sitka 岛/Russian America 首府/Russian Fur Company 总部，aliases Sitka/New-Archangel，book The Fur Country）R117 -->
 <!-- ✔ [place] Sardinia — 已建 sardinia（rev MfiqH2，rof=real，页内引注 5；OC 地中海岛/Bonifacio 海峡随彗星消失 + FWB 撒丁领事，book Off on a Comet；链 [[Corsica]]）R115 -->
 <!-- ✔ [place] Teheran — 已建 teheran（rev gGVTbo，rof=real，页内引注 5；ASC 波斯首都/大铁路支线 + RC Elburz 山下 + MS 宫廷，book The Adventures of a Special Correspondent，alias Tehran）R115 -->
-- [place] Lena — SCN28 R111；5 distinctPN（real；WC:3/MS:2 西伯利亚河；alias Lena River）
+<!-- ✔ [place] Lena — 已建 lena（rev lefwMZ，rof=real，页内引注 5：MS-031-023/031-030/WC-011-006/016-010/016-011；西伯利亚河/Vega 河口/Tartar 进军线，alias Lena River，book The Waif of the Cynthia）R118 -->
 <!-- ✔ [place] Himalaya — 已建 himalaya（rev OuPLmg，rof=real，页内引注 5：ASC-015-033/018-042 + AWED-014-010/016-004 + DSCF-022-096；跨源 Pamir 山系/Everest，alias Himalayas，book The Adventures of a Special Correspondent）R117 -->
-- [place] Elbe — SCN28 R111；5 distinctPN（real；JCE:4 德国河；alias Elbe River）
+<!-- ✔ [place] Elbe — 已建 elbe（rev GoSIT1，rof=real，页内引注 5：JCE-003-042/007-002/007-008/012-041 + TTLU-032-002；Hamburg 畔德国河/大河名录，alias Elbe River，book A Journey to the Center of the Earth）R118 -->
 <!-- ✔ [place] Dublin — 已建 dublin（rev f4vyPQ，rof=real，页内引注 5：AWED-033-060/033-063 + FC-001-024 + TT-015-015/015-024；跨源爱尔兰城/邮路中转，book Around the World in Eighty Days）R117 -->
 <!-- ✔ [place] Crete — 已建 crete（rev c3g4ex，rof=real，页内引注 5：TTLU-018-005/030-071/030-072/030-083/032-079；地中海岛/反抗奥斯曼/Nautilus 掠岸，alias Candia，book Twenty Thousand Leagues Under the Sea）R117 -->
 <!-- ✔ [place] Astrakhan — 已建 astrakhan（rev xmlbg2，rof=real，页内引注 5：RC-013-060/014-009/014-011 + MS-005-053/005-019；里海口城/Star of the Desert/astrakhan 皮草名源，book The Clipper of the Clouds；MS-005-019 皮草作城市名源引，MS-005-053 沙皇尊号）R117 -->
-- [place] Aral — SCN28 R111；5 distinctPN（real；咸海；ASC:3；alias Aral Sea）
+<!-- ✔ [place] Aral — 已建 aral-sea（rev EAD5fu，rof=real，页内引注 5：ASC-006-020/006-027/010-064 + RC-013-056 + TTLU-014-027；中亚咸海/干缩/曾与 Caspian 相连，aliases Sea of Aral/Aral，book The Adventures of a Special Correspondent）R118 -->
 - [place] Amou-Daria — SCN28 R111；5 distinctPN（real；ASC:5 中亚河 Oxus）
-- [place] Alexandria — SCN28 R111；5 distinctPN（real；跨源埃及港城；核与美国同名地）
-- [place] Adriatic — SCN28 R111；5 distinctPN（real；亚得里亚海；TTLU:2；alias Adriatic Sea）
+<!-- ✔ [place] Alexandria — 已建 alexandria（rev 87UU0b，rof=real，页内引注 5：FWB-005-063/OC-013-008/TTLU-030-132/WC-012-049/013-026；埃及地中海港/邮路 landfall；均确指埃及港，无美国同名地混入，book The Waif of the Cynthia）R118 -->
+<!-- ✔ [place] Adriatic — 已建 adriatic-sea（rev rgZstG，rof=real，页内引注 5：DA-001-114/VB-001-110/TTLU-023-021/031-013/ACH-041-041；地中海湾/Nautilus 掠口/气球漂向；ACH-041-041 用源忠实句提重叠过 2% 门，alias Adriatic，book Twenty Thousand Leagues Under the Sea）R118 -->
 
 <!-- ═══ R87 SCN28 表层复扫补种（queue=5<10 触发，since_discover=2）：地名关键词邻接扫描（river/town/sea/lake/desert/valley… + 人名/demonym stoplist 滤），揭示前几轮 demonym 掩盖的一批强真地名，各已词边界核 distinctPN；否证 place 饱和假设 ═══ -->
 <!-- ✔ [place] Greenland — 已建 greenland（rev *，跨源 ACH/WC/TN/TT/FC/WAI real，页内引注 6 词边界核；北极大岛/极地航渡门槛，book The Adventures of Captain Hatteras，region Arctic (North Atlantic)）R88 -->

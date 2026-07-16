@@ -380,6 +380,14 @@
       "aliases": [],
       "path": "ad/aden.md"
     },
+    "adriatic-sea": {
+      "type": "place",
+      "label": "Adriatic Sea",
+      "aliases": [
+        "Adriatic"
+      ],
+      "path": "ad/adriatic-sea.md"
+    },
     "adventures-of-a-special-correspondent": {
       "type": "work",
       "label": "The Adventures of a Special Correspondent",
@@ -410,6 +418,12 @@
         "Aleutian Isles"
       ],
       "path": "al/aleutian-islands.md"
+    },
+    "alexandria": {
+      "type": "place",
+      "label": "Alexandria",
+      "aliases": [],
+      "path": "al/alexandria.md"
     },
     "algiers": {
       "type": "place",
@@ -668,6 +682,15 @@
       "label": "Arabia",
       "aliases": [],
       "path": "ar/arabia.md"
+    },
+    "aral-sea": {
+      "type": "place",
+      "label": "Aral Sea",
+      "aliases": [
+        "Sea of Aral",
+        "Aral"
+      ],
+      "path": "ar/aral-sea.md"
     },
     "argentine": {
       "type": "place",
@@ -2359,6 +2382,14 @@
       "label": "Ekaterenburg",
       "aliases": [],
       "path": "ek/ekaterenburg.md"
+    },
+    "elbe": {
+      "type": "place",
+      "label": "Elbe",
+      "aliases": [
+        "Elbe River"
+      ],
+      "path": "el/elbe.md"
     },
     "etna": {
       "type": "place",
@@ -4254,6 +4285,14 @@
         "Lancaster Straits"
       ],
       "path": "la/lancaster-strait.md"
+    },
+    "lena": {
+      "type": "place",
+      "label": "Lena",
+      "aliases": [
+        "Lena River"
+      ],
+      "path": "le/lena.md"
     },
     "liedenbrock-cipher": {
       "type": "event",
@@ -8733,6 +8772,9 @@
     "A Drama in the Clouds": "a-drama-in-the-air",
     "aden": "aden",
     "Aden": "aden",
+    "adriatic-sea": "adriatic-sea",
+    "Adriatic Sea": "adriatic-sea",
+    "Adriatic": "adriatic-sea",
     "adventures-of-a-special-correspondent": "adventures-of-a-special-correspondent",
     "The Adventures of a Special Correspondent": "adventures-of-a-special-correspondent",
     "Claudius Bombarnac": "adventures-of-a-special-correspondent",
@@ -8745,6 +8787,8 @@
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
+    "alexandria": "alexandria",
+    "Alexandria": "alexandria",
     "algiers": "algiers",
     "Algiers": "algiers",
     "allahabad": "allahabad",
@@ -8809,6 +8853,10 @@
     "Aouda": "aouda",
     "arabia": "arabia",
     "Arabia": "arabia",
+    "aral-sea": "aral-sea",
+    "Aral Sea": "aral-sea",
+    "Sea of Aral": "aral-sea",
+    "Aral": "aral-sea",
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
@@ -9222,6 +9270,9 @@
     "The Eighty-Day Wager": "eighty-day-wager",
     "ekaterenburg": "ekaterenburg",
     "Ekaterenburg": "ekaterenburg",
+    "elbe": "elbe",
+    "Elbe": "elbe",
+    "Elbe River": "elbe",
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
@@ -9673,6 +9724,9 @@
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
+    "lena": "lena",
+    "Lena": "lena",
+    "Lena River": "lena",
     "liedenbrock-cipher": "liedenbrock-cipher",
     "Deciphering the Saknussemm Cipher": "liedenbrock-cipher",
     "The Runic Cryptogram": "liedenbrock-cipher",
@@ -10681,6 +10735,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1378,
-  "generated": "2026-07-16T09:28:02Z"
+  "page_count": 1383,
+  "generated": "2026-07-16T09:43:48Z"
 }
