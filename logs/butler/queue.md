@@ -189,14 +189,14 @@
 <!-- ═══ R59 SCN28 表层复扫【R57 穷尽结论作废】：广式重扫（含 GEO-of-X / X-Ocean / 单复数变体）new_candidates=19 ═══ -->
 <!-- ⚠ R57「standard 表层已穷尽」为**误判**：R57 discover 双盲区致系统性漏计——(a) 单复数/大小写变体（Smith's Strait vs Straits、bay of vs Bay of Talcahuano）；(b)「GEO of X」「X Ocean」构式（Strait of Gibraltar/Cape of Good Hope/Indian·Pacific·Atlantic Ocean/Gulf of Mexico 整类漏扫）。改用宽式 pattern（(?:[A-Z]\w+ ){1,2}GEO | GEO of X）重扫，排除既有 place+变体后得 ≥5 单源候选 19 枚。discover_streak_low 1→0，**place 关闭倒计时撤销**。 -->
 <!-- R57 误分修正：Bay of Talcahuano 实 SC:13（R57 记 [3]）、Smith's Straits 实 ACH:7（R57 记 [4]）；R51/R57 记为「agg 5–6 hold」的 Detroit River(MW:6)/Chatham Islands(RC:7)/Washburn Bay(FC:7)/Antarctic Sea(AM:7)/Coronation Gulf(FC:5)/Platte River(AWED:5)/Blueridge Mountains(MW:5)/Shannon Island(WAI:5) 实为 ≥5 单源，升格 standard。 -->
-- [place] Bay of Talcahuano — SC；SC:13；塔尔卡瓦诺湾（real，智利；Duncan 补给港/南美搜索起点）⭐R57误分[3]
+<!-- ✔ [place] Bay of Talcahuano — 已建 bay-of-talcahuano（rev k9olwz，SC real，页内引注 7；Duncan 补给港/南美搜索起点，接 in-search-of-the-castaways/cape-horn/cape-bernouilli）R60 -->
 - [place] Indian Ocean — SC；SC:13；印度洋（real）
-- [place] Isle of Paques — DSCF；DSCF:10；复活节岛（real；label Easter Island / alias Isle of Pâques）
+<!-- ✔ [place] Isle of Paques — 已建 easter-island（rev zxBMmw，DSCF real，页内引注 8；label Easter Island / alias Isle of Pâques,Vai-Hon；Dick Sand 定位岛，接 dick-sand-a-captain-at-fifteen）R60 -->
 - [place] Pacific Ocean — SC；SC:9；太平洋（real）
-- [place] Cape of Good Hope — TTLU；TTLU:8；好望角（real）
+<!-- ✔ [place] Cape of Good Hope — 已建 cape-of-good-hope（rev UPcJXH，TTLU real，页内引注 6；Nautilus 绕非洲之岬，接 twenty-thousand-leagues/nautilus/cape-horn）R60 -->
 - [place] Antarctic Sea — AM；AM:7；南极海（AM 南航之海）
-- [place] Smith's Straits — ACH；ACH:7；史密斯海峡（real；Kane 1853 航路）⭐R57误分[4]
-- [place] Strait of Gibraltar — TTLU；TTLU:7；直布罗陀海峡（real）
+<!-- ✔ [place] Smith's Straits — 已建 smiths-straits（rev T8Rfql，ACH real，页内引注 5；alias Smith's Strait；Kane 1853 航路/Forward 密令，接 melville-bay/lancaster-strait）R60 -->
+<!-- ✔ [place] Strait of Gibraltar — 已建 strait-of-gibraltar（rev CT9YbA，TTLU real，页内引注 6；alias Straits of Gibraltar；Nautilus 地中海↔大西洋通道，接 twenty-thousand-leagues/nautilus/vigo-bay）R60 -->
 - [place] Washburn Bay — FC；FC:7；沃什伯恩湾（FC 北极湾）
 - [place] Chatham Islands — RC；RC:7；查塔姆群岛（real；Robur 抛锚/Pitt Island）
 - [place] Gulf of Mexico — TTLU；TTLU:6；墨西哥湾（real）

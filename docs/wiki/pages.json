@@ -3404,6 +3404,30 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "bay-of-talcahuano": {
+      "type": "place",
+      "label": "Bay of Talcahuano",
+      "aliases": [
+        "Talcahuano"
+      ],
+      "tags": [
+        "place",
+        "bay",
+        "south-america"
+      ],
+      "path": "ba/bay-of-talcahuano.md",
+      "description": "The Chilean estuary where the yacht Duncan begins and ends her search for Captain Grant along the thirty-seventh parallel in In Search of the Castaways.",
+      "prose_len": 1908,
+      "prose_chars": 1804,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "beechey-island": {
       "type": "place",
       "label": "Beechey Island",
@@ -3804,7 +3828,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "cape-corrientes": {
       "type": "place",
@@ -3892,7 +3916,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 2
     },
     "cape-michael": {
       "type": "place",
@@ -3914,6 +3938,28 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "cape-of-good-hope": {
+      "type": "place",
+      "label": "Cape of Good Hope",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "africa"
+      ],
+      "path": "ca/cape-of-good-hope.md",
+      "description": "The southern cape of Africa, one of the great capes the Nautilus must double on its course between the Indian Ocean and the Atlantic in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1635,
+      "prose_chars": 1531,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
     "cape-tchelynskin": {
@@ -4334,7 +4380,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 2
+      "total_refs": 3
     },
     "diving-apparatus": {
       "type": "technology",
@@ -5531,6 +5577,20 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
+    "easter-island": {
+      "type": "unknown",
+      "label": "easter-island",
+      "aliases": [],
+      "tags": [],
+      "path": "ea/easter-island.md",
+      "prose_len": 1790,
+      "prose_chars": 1692,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
       "total_refs": 0
     },
     "EHLA-ch01": {
@@ -10568,7 +10628,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 5
+      "total_refs": 6
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11861,7 +11921,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 2
+      "total_refs": 3
     },
     "liedenbrock-cipher": {
       "type": "event",
@@ -12121,7 +12181,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 2
+      "total_refs": 3
     },
     "melville-island": {
       "type": "place",
@@ -14637,7 +14697,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 62
+      "total_refs": 64
     },
     "navy-island": {
       "type": "place",
@@ -20540,6 +20600,30 @@
       "book": "The Secret of the Island",
       "total_refs": 1
     },
+    "smiths-straits": {
+      "type": "place",
+      "label": "Smith's Straits",
+      "aliases": [
+        "Smith's Strait"
+      ],
+      "tags": [
+        "place",
+        "strait",
+        "arctic"
+      ],
+      "path": "sm/smiths-straits.md",
+      "description": "The high Arctic passage, route of the American explorer Kane, that Shandon is ordered to attempt in the opening voyage of The Adventures of Captain Hatteras.",
+      "prose_len": 1469,
+      "prose_chars": 1367,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "snaefells-descent": {
       "type": "event",
       "label": "The Snæfellsjökull Descent",
@@ -20681,6 +20765,30 @@
       "quality": "featured",
       "quality_score": 78,
       "book": "From the Earth to the Moon",
+      "total_refs": 0
+    },
+    "strait-of-gibraltar": {
+      "type": "place",
+      "label": "Strait of Gibraltar",
+      "aliases": [
+        "Straits of Gibraltar"
+      ],
+      "tags": [
+        "place",
+        "strait",
+        "mediterranean"
+      ],
+      "path": "st/strait-of-gibraltar.md",
+      "description": "The narrow passage between the Mediterranean and the Atlantic through which the Nautilus races in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1719,
+      "prose_chars": 1613,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
     "stromboli-eruption-return": {
@@ -20865,7 +20973,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 11
+      "total_refs": 12
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -23114,7 +23222,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 10
+      "total_refs": 12
     },
     "twofold-bay": {
       "type": "place",
@@ -23675,7 +23783,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -24750,6 +24858,9 @@
     "President Barbicane": "barbicane",
     "barrow-strait": "barrow-strait",
     "Barrow Strait": "barrow-strait",
+    "bay-of-talcahuano": "bay-of-talcahuano",
+    "Bay of Talcahuano": "bay-of-talcahuano",
+    "Talcahuano": "bay-of-talcahuano",
     "beechey-island": "beechey-island",
     "Beechey Island": "beechey-island",
     "behring-sea": "behring-sea",
@@ -24790,6 +24901,8 @@
     "Cape Horn": "cape-horn",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
+    "cape-of-good-hope": "cape-of-good-hope",
+    "Cape of Good Hope": "cape-of-good-hope",
     "cape-tchelynskin": "cape-tchelynskin",
     "Cape Tchelynskin": "cape-tchelynskin",
     "Cape Severe": "cape-tchelynskin",
@@ -24906,6 +25019,7 @@
     "DSCF-ch38": "DSCF-ch38",
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
+    "easter-island": "easter-island",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -25845,6 +25959,9 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "smiths-straits": "smiths-straits",
+    "Smith's Straits": "smiths-straits",
+    "Smith's Strait": "smiths-straits",
     "snaefells-descent": "snaefells-descent",
     "The Snæfellsjökull Descent": "snaefells-descent",
     "Descent into the Crater": "snaefells-descent",
@@ -25862,6 +25979,9 @@
     "American St Louis Fur Company": "st-louis-fur-company",
     "stony-hill": "stony-hill",
     "Stony Hill": "stony-hill",
+    "strait-of-gibraltar": "strait-of-gibraltar",
+    "Strait of Gibraltar": "strait-of-gibraltar",
+    "Straits of Gibraltar": "strait-of-gibraltar",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -26124,6 +26244,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1189,
-  "generated": "2026-07-16T02:19:39Z"
+  "page_count": 1194,
+  "generated": "2026-07-16T02:31:42Z"
 }

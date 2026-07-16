@@ -1032,6 +1032,14 @@
       "aliases": [],
       "path": "ba/barrow-strait.md"
     },
+    "bay-of-talcahuano": {
+      "type": "place",
+      "label": "Bay of Talcahuano",
+      "aliases": [
+        "Talcahuano"
+      ],
+      "path": "ba/bay-of-talcahuano.md"
+    },
     "beechey-island": {
       "type": "place",
       "label": "Beechey Island",
@@ -1179,6 +1187,12 @@
       "label": "Cape Michael",
       "aliases": [],
       "path": "ca/cape-michael.md"
+    },
+    "cape-of-good-hope": {
+      "type": "place",
+      "label": "Cape of Good Hope",
+      "aliases": [],
+      "path": "ca/cape-of-good-hope.md"
     },
     "cape-tchelynskin": {
       "type": "place",
@@ -1672,6 +1686,12 @@
       "label": "East India Company",
       "aliases": [],
       "path": "ea/east-india-company.md"
+    },
+    "easter-island": {
+      "type": "unknown",
+      "label": "easter-island",
+      "aliases": [],
+      "path": "ea/easter-island.md"
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -6198,6 +6218,14 @@
       "aliases": [],
       "path": "si/SI-ch20.md"
     },
+    "smiths-straits": {
+      "type": "place",
+      "label": "Smith's Straits",
+      "aliases": [
+        "Smith's Strait"
+      ],
+      "path": "sm/smiths-straits.md"
+    },
     "snaefells-descent": {
       "type": "event",
       "label": "The Snæfellsjökull Descent",
@@ -6242,6 +6270,14 @@
       "label": "Stony Hill",
       "aliases": [],
       "path": "st/stony-hill.md"
+    },
+    "strait-of-gibraltar": {
+      "type": "place",
+      "label": "Strait of Gibraltar",
+      "aliases": [
+        "Straits of Gibraltar"
+      ],
+      "path": "st/strait-of-gibraltar.md"
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -7621,6 +7657,9 @@
     "President Barbicane": "barbicane",
     "barrow-strait": "barrow-strait",
     "Barrow Strait": "barrow-strait",
+    "bay-of-talcahuano": "bay-of-talcahuano",
+    "Bay of Talcahuano": "bay-of-talcahuano",
+    "Talcahuano": "bay-of-talcahuano",
     "beechey-island": "beechey-island",
     "Beechey Island": "beechey-island",
     "behring-sea": "behring-sea",
@@ -7661,6 +7700,8 @@
     "Cape Horn": "cape-horn",
     "cape-michael": "cape-michael",
     "Cape Michael": "cape-michael",
+    "cape-of-good-hope": "cape-of-good-hope",
+    "Cape of Good Hope": "cape-of-good-hope",
     "cape-tchelynskin": "cape-tchelynskin",
     "Cape Tchelynskin": "cape-tchelynskin",
     "Cape Severe": "cape-tchelynskin",
@@ -7777,6 +7818,7 @@
     "DSCF-ch38": "DSCF-ch38",
     "east-india-company": "east-india-company",
     "East India Company": "east-india-company",
+    "easter-island": "easter-island",
     "EHLA-ch01": "EHLA-ch01",
     "EHLA-ch02": "EHLA-ch02",
     "EHLA-ch03": "EHLA-ch03",
@@ -8716,6 +8758,9 @@
     "SI-ch18": "SI-ch18",
     "SI-ch19": "SI-ch19",
     "SI-ch20": "SI-ch20",
+    "smiths-straits": "smiths-straits",
+    "Smith's Straits": "smiths-straits",
+    "Smith's Strait": "smiths-straits",
     "snaefells-descent": "snaefells-descent",
     "The Snæfellsjökull Descent": "snaefells-descent",
     "Descent into the Crater": "snaefells-descent",
@@ -8733,6 +8778,9 @@
     "American St Louis Fur Company": "st-louis-fur-company",
     "stony-hill": "stony-hill",
     "Stony Hill": "stony-hill",
+    "strait-of-gibraltar": "strait-of-gibraltar",
+    "Strait of Gibraltar": "strait-of-gibraltar",
+    "Straits of Gibraltar": "strait-of-gibraltar",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -8995,6 +9043,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1189,
-  "generated": "2026-07-16T02:19:39Z"
+  "page_count": 1194,
+  "generated": "2026-07-16T02:31:42Z"
 }
