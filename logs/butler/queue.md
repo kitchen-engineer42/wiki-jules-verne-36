@@ -169,11 +169,11 @@
 
 <!-- ═══ R54 SCN28 表层复扫补种（queue=7<10 触发；自 R48 以来首次 discover；(Cape|Lake|Mount|Fort|Port|Loch|Gulf|Isle|Bay of|Sea of)+Name 及 Name+(Island|Bay|Strait|...) 全标记扫描）═══ -->
 <!-- new_candidates=9（≫3，place 未穷尽，discover_streak_low 保持 0）。distinctPN 为主源单源严扫，已排除 106 既有 place + 变体（Behring's Strait=既有 behring-strait / The Torres Strait=既有 / Isle Tabor=既有 tabor-island / Lake Tanganyika=既有 R47）。建前仍须逐页段级复核（承页内引注门）。 -->
-- [place] Bay of Vigo — TTLU；TTLU:9；维哥湾（real，西班牙，Nautilus 打捞沉船金；label 拟 Vigo Bay/alias Bay of Vigo）
-- [place] Ham Rock — SC2(The Survivors of the Chancellor)；SC2:9；木筏漂流者所命名之礁岛（fictional，Curtis 船长命名）
-- [place] Gueboroa Island — TTLU；TTLU:8；Torres 海峡搁浅之岛（real/Papua，Nautilus 触礁；alias Gueboroar）
-- [place] Sea of Clouds — RM(Round the Moon)；RM:8；月海 Mare Nubium（real/lunar，接 lunar-projectile 簇）
-- [place] Sea of Rains — RM；RM:7；月海 Mare Imbrium（real/lunar）
+<!-- ✔ [place] Bay of Vigo — 已建 vigo-bay（rev t2prpG，TTLU real，段级 11；label Vigo Bay/alias Bay of Vigo；Nautilus 打捞沉船金，接 nautilus）R55 -->
+<!-- ✔ [place] Ham Rock — 已建 ham-rock（rev gpt7CA，SC2 fictional，段级 9；Chancellor 搁浅礁岛，Curtis 船长命名）R55 -->
+<!-- ✔ [place] Gueboroa Island — 已建 gueboroa-island（rev CZ5Cek，TTLU real，段级 8；Torres 海峡 Papua 岛，Nautilus 触礁，接 torres-strait）R55 -->
+<!-- ✔ [place] Sea of Clouds — 已建 sea-of-clouds（rev Kp3yW9，RM real/lunar，段级 8；月海 Mare Nubium，接 sea-of-rains/lunar-projectile）R55 -->
+<!-- ✔ [place] Sea of Rains — 已建 sea-of-rains（rev eqyMu2，RM real/lunar，段级 7；月海 Mare Imbrium，Apennines/Carpathians 环绕）R55 -->
 - [place] Island of Ljakow — WC；WC:6；Liakhov 岛（real，西伯利亚北极，Nordenskiold 航线）
 - [place] Port Gräuben — JCE(Journey to the Centre of the Earth)；JCE:7；地心之海内海滩，Liedenbrock 命名（fictional，接 liedenbrock-sea）
 - [place] Island of Sein — WC；WC:5；Île de Sein（real，布列塔尼，Cynthia 失事海域近旁）

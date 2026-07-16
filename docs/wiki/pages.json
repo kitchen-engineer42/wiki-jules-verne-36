@@ -10249,6 +10249,28 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "gueboroa-island": {
+      "type": "place",
+      "label": "Gueboroa Island",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
+      "path": "gu/gueboroa-island.md",
+      "description": "The Papuan island in the Torres Strait on which the Nautilus runs aground, and where Ned Land forages ashore, in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1631,
+      "prose_chars": 1527,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "gulf-stream": {
       "type": "place",
       "label": "Gulf Stream",
@@ -10365,6 +10387,28 @@
       "quality_score": 67,
       "book": "An Antarctic Mystery",
       "total_refs": 1
+    },
+    "ham-rock": {
+      "type": "place",
+      "label": "Ham Rock",
+      "aliases": [],
+      "tags": [
+        "place",
+        "reef",
+        "atlantic"
+      ],
+      "path": "ha/ham-rock.md",
+      "description": "The isolated reef, named by the castaways of the Chancellor, on which the burning ship grounds before they take to the raft in The Survivors of the Chancellor.",
+      "prose_len": 1416,
+      "prose_chars": 1321,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
     },
     "hong-kong": {
       "type": "place",
@@ -14457,7 +14501,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 60
+      "total_refs": 62
     },
     "navy-island": {
       "type": "place",
@@ -17169,7 +17213,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 5
+      "total_refs": 7
     },
     "royal-geographical-society": {
       "type": "organization",
@@ -19775,6 +19819,54 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 0
     },
+    "sea-of-clouds": {
+      "type": "place",
+      "label": "Sea of Clouds",
+      "aliases": [
+        "Mare Nubium"
+      ],
+      "tags": [
+        "place",
+        "lunar",
+        "mare"
+      ],
+      "path": "se/sea-of-clouds.md",
+      "description": "The lunar plain Mare Nubium on the Moon's western side, surveyed by the projectile's travellers in Round the Moon.",
+      "prose_len": 1559,
+      "prose_chars": 1457,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Round the Moon",
+      "total_refs": 1
+    },
+    "sea-of-rains": {
+      "type": "place",
+      "label": "Sea of Rains",
+      "aliases": [
+        "Mare Imbrium"
+      ],
+      "tags": [
+        "place",
+        "lunar",
+        "mare"
+      ],
+      "path": "se/sea-of-rains.md",
+      "description": "The lunar plain Mare Imbrium, ringed by the Apennines and Carpathians, over which the projectile passes in Round the Moon.",
+      "prose_len": 1471,
+      "prose_chars": 1370,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Round the Moon",
+      "total_refs": 1
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -20477,7 +20569,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 0
+      "total_refs": 1
     },
     "tabor-island-castaway": {
       "type": "event",
@@ -21413,7 +21505,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tsalal-island": {
       "type": "place",
@@ -22818,7 +22910,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 8
+      "total_refs": 10
     },
     "twofold-bay": {
       "type": "place",
@@ -23356,6 +23448,30 @@
       "blockquote_count": 0,
       "book": "The Fur Country",
       "total_refs": 7
+    },
+    "vigo-bay": {
+      "type": "place",
+      "label": "Vigo Bay",
+      "aliases": [
+        "Bay of Vigo"
+      ],
+      "tags": [
+        "place",
+        "bay",
+        "spain"
+      ],
+      "path": "vi/vigo-bay.md",
+      "description": "The bay on Spain's northwest coast where sunken Spanish galleons lie, and where Captain Nemo harvests gold from the seabed in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1557,
+      "prose_chars": 1461,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
     },
     "WAI-ch01": {
       "type": "chapter",
@@ -24872,6 +24988,8 @@
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
+    "gueboroa-island": "gueboroa-island",
+    "Gueboroa Island": "gueboroa-island",
     "gulf-stream": "gulf-stream",
     "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
@@ -24886,6 +25004,8 @@
     "gun cotton": "gun-cotton",
     "halbrane-land": "halbrane-land",
     "Halbrane Land": "halbrane-land",
+    "ham-rock": "ham-rock",
+    "Ham Rock": "ham-rock",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
     "hudsons-bay-company": "hudsons-bay-company",
@@ -25467,6 +25587,12 @@
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "sea-of-clouds": "sea-of-clouds",
+    "Sea of Clouds": "sea-of-clouds",
+    "Mare Nubium": "sea-of-clouds",
+    "sea-of-rains": "sea-of-rains",
+    "Sea of Rains": "sea-of-rains",
+    "Mare Imbrium": "sea-of-rains",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shark-gulf": "shark-gulf",
@@ -25722,6 +25848,9 @@
     "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
+    "vigo-bay": "vigo-bay",
+    "Vigo Bay": "vigo-bay",
+    "Bay of Vigo": "vigo-bay",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -25770,6 +25899,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1175,
-  "generated": "2026-07-16T01:58:45Z"
+  "page_count": 1180,
+  "generated": "2026-07-16T02:05:52Z"
 }

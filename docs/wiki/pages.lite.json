@@ -3094,6 +3094,12 @@
       ],
       "path": "gr/great-slave-lake.md"
     },
+    "gueboroa-island": {
+      "type": "place",
+      "label": "Gueboroa Island",
+      "aliases": [],
+      "path": "gu/gueboroa-island.md"
+    },
     "gulf-stream": {
       "type": "place",
       "label": "Gulf Stream",
@@ -3130,6 +3136,12 @@
       "label": "Halbrane Land",
       "aliases": [],
       "path": "ha/halbrane-land.md"
+    },
+    "ham-rock": {
+      "type": "place",
+      "label": "Ham Rock",
+      "aliases": [],
+      "path": "ha/ham-rock.md"
     },
     "hong-kong": {
       "type": "place",
@@ -5970,6 +5982,22 @@
       ],
       "path": "se/sea-monster-hunt.md"
     },
+    "sea-of-clouds": {
+      "type": "place",
+      "label": "Sea of Clouds",
+      "aliases": [
+        "Mare Nubium"
+      ],
+      "path": "se/sea-of-clouds.md"
+    },
+    "sea-of-rains": {
+      "type": "place",
+      "label": "Sea of Rains",
+      "aliases": [
+        "Mare Imbrium"
+      ],
+      "path": "se/sea-of-rains.md"
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -7062,6 +7090,14 @@
       "aliases": [],
       "path": "vi/victoria-island.md"
     },
+    "vigo-bay": {
+      "type": "place",
+      "label": "Vigo Bay",
+      "aliases": [
+        "Bay of Vigo"
+      ],
+      "path": "vi/vigo-bay.md"
+    },
     "WAI-ch01": {
       "type": "chapter",
       "label": "A Winter Amid the Ice — CHAPTER I",
@@ -7967,6 +8003,8 @@
     "great-slave-lake": "great-slave-lake",
     "Great Slave Lake": "great-slave-lake",
     "Slave Lake": "great-slave-lake",
+    "gueboroa-island": "gueboroa-island",
+    "Gueboroa Island": "gueboroa-island",
     "gulf-stream": "gulf-stream",
     "Gulf Stream": "gulf-stream",
     "gun-club-moon-proposal": "gun-club-moon-proposal",
@@ -7981,6 +8019,8 @@
     "gun cotton": "gun-cotton",
     "halbrane-land": "halbrane-land",
     "Halbrane Land": "halbrane-land",
+    "ham-rock": "ham-rock",
+    "Ham Rock": "ham-rock",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
     "hudsons-bay-company": "hudsons-bay-company",
@@ -8562,6 +8602,12 @@
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "sea-of-clouds": "sea-of-clouds",
+    "Sea of Clouds": "sea-of-clouds",
+    "Mare Nubium": "sea-of-clouds",
+    "sea-of-rains": "sea-of-rains",
+    "Sea of Rains": "sea-of-rains",
+    "Mare Imbrium": "sea-of-rains",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shark-gulf": "shark-gulf",
@@ -8817,6 +8863,9 @@
     "Victoria Bay": "victoria-bay",
     "victoria-island": "victoria-island",
     "Victoria Island": "victoria-island",
+    "vigo-bay": "vigo-bay",
+    "Vigo Bay": "vigo-bay",
+    "Bay of Vigo": "vigo-bay",
     "WAI-ch01": "WAI-ch01",
     "WAI-ch02": "WAI-ch02",
     "WAI-ch03": "WAI-ch03",
@@ -8865,6 +8914,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1175,
-  "generated": "2026-07-16T01:58:45Z"
+  "page_count": 1180,
+  "generated": "2026-07-16T02:05:52Z"
 }
