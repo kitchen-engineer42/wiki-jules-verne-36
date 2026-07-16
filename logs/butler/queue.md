@@ -194,14 +194,14 @@
 <!-- ✔ [place] Isle of Paques — 已建 easter-island（rev zxBMmw，DSCF real，页内引注 8；label Easter Island / alias Isle of Pâques,Vai-Hon；Dick Sand 定位岛，接 dick-sand-a-captain-at-fifteen）R60 -->
 - [place] Pacific Ocean — SC；SC:9；太平洋（real）
 <!-- ✔ [place] Cape of Good Hope — 已建 cape-of-good-hope（rev UPcJXH，TTLU real，页内引注 6；Nautilus 绕非洲之岬，接 twenty-thousand-leagues/nautilus/cape-horn）R60 -->
-- [place] Antarctic Sea — AM；AM:7；南极海（AM 南航之海）
+<!-- ✔ [place] Antarctic Sea — 已建 antarctic-sea（rev e1kXwj，AM real，页内引注 6；alias Antarctic seas/Southern Seas；Halbrane 南极之海，接 an-antarctic-mystery/sandwich-islands/halbrane-land）R62 -->
 <!-- ✔ [place] Smith's Straits — 已建 smiths-straits（rev T8Rfql，ACH real，页内引注 5；alias Smith's Strait；Kane 1853 航路/Forward 密令，接 melville-bay/lancaster-strait）R60 -->
 <!-- ✔ [place] Strait of Gibraltar — 已建 strait-of-gibraltar（rev CT9YbA，TTLU real，页内引注 6；alias Straits of Gibraltar；Nautilus 地中海↔大西洋通道，接 twenty-thousand-leagues/nautilus/vigo-bay）R60 -->
-- [place] Washburn Bay — FC；FC:7；沃什伯恩湾（FC 北极湾）
-- [place] Chatham Islands — RC；RC:7；查塔姆群岛（real；Robur 抛锚/Pitt Island）
+<!-- ✔ [place] Washburn Bay — 已建 washburn-bay（rev UY1iGg，FC real，页内引注 5；Hobson 北岸勘查湾，接 the-fur-country/cape-bathurst/victoria-island）R62 -->
+<!-- ✔ [place] Chatham Islands — 已建 chatham-islands（rev 7muKE3，RC real，页内引注 5；alias Pitt Island；Albatross 抛锚/囚徒逃脱，接 robur-the-conqueror/albatross/robur）R62 -->
 - [place] Gulf of Mexico — TTLU；TTLU:6；墨西哥湾（real）
-- [place] Detroit River — MW；MW:6；底特律河（real）⭐R51误 hold
-- [place] Sandwich Islands — AM；AM:6；桑威奇群岛（real；夏威夷旧称）
+<!-- ✔ [place] Detroit River — 已建 detroit-river（rev 8PubXu，MW real，页内引注 5；Terror 逃逸孔道/Erie↔上湖，接 the-master-of-the-world/the-terror/lake-erie）R62 -->
+<!-- ✔ [place] Sandwich Islands — 已建 sandwich-islands（rev EHidZ8，AM real，页内引注 6；alias Sandwich Isles；★更正 queue 旧注「夏威夷旧称」误——AM 语境为 Cook 所命名之南大西洋南桑威奇群岛，非夏威夷；Halbrane 南航出发点，接 an-antarctic-mystery/antarctic-sea）R62 -->
 - [place] Coronation Gulf — FC；FC:5；加冕湾（real 北极湾）
 - [place] Platte River — AWED；AWED:5；普拉特河（real）
 - [place] Atlantic Ocean — SC；SC:5；大西洋（real）

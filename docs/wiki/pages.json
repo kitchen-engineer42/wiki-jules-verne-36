@@ -1278,7 +1278,7 @@
       "quality": "featured",
       "quality_score": 83,
       "book": "Robur the Conqueror",
-      "total_refs": 32
+      "total_refs": 33
     },
     "aleutian-islands": {
       "type": "place",
@@ -1914,6 +1914,31 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
+      "total_refs": 3
+    },
+    "antarctic-sea": {
+      "type": "place",
+      "label": "Antarctic Sea",
+      "aliases": [
+        "Antarctic seas",
+        "Southern Seas"
+      ],
+      "tags": [
+        "place",
+        "sea",
+        "antarctic"
+      ],
+      "path": "an/antarctic-sea.md",
+      "description": "The ice-strewn southern ocean into which the schooner Halbrane sails on her polar quest in An Antarctic Mystery.",
+      "prose_len": 1451,
+      "prose_chars": 1349,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "An Antarctic Mystery",
       "total_refs": 1
     },
     "aouda": {
@@ -3806,7 +3831,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 11
+      "total_refs": 12
     },
     "cape-bernouilli": {
       "type": "place",
@@ -4104,6 +4129,30 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "chatham-islands": {
+      "type": "place",
+      "label": "Chatham Islands",
+      "aliases": [
+        "Pitt Island"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "pacific"
+      ],
+      "path": "ch/chatham-islands.md",
+      "description": "The remote South Pacific island group where the Albatross anchors and its captive passengers attempt escape in Robur the Conqueror.",
+      "prose_len": 1221,
+      "prose_chars": 1119,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Robur the Conqueror",
+      "total_refs": 0
+    },
     "christmas-harbour": {
       "type": "place",
       "label": "Christmas Harbour",
@@ -4355,6 +4404,28 @@
       "quality_score": 67,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
+    },
+    "detroit-river": {
+      "type": "place",
+      "label": "Detroit River",
+      "aliases": [],
+      "tags": [
+        "place",
+        "river",
+        "united-states"
+      ],
+      "path": "de/detroit-river.md",
+      "description": "The strait between Lake Erie and Lake Huron by which the Terror flees its pursuers in The Master of the World.",
+      "prose_len": 1523,
+      "prose_chars": 1421,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "The Master of the World",
+      "total_refs": 0
     },
     "dick-sand-a-captain-at-fifteen": {
       "type": "work",
@@ -10468,7 +10539,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "ham-rock": {
       "type": "place",
@@ -11723,7 +11794,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Master of the World",
-      "total_refs": 4
+      "total_refs": 5
     },
     "lake-grant": {
       "type": "place",
@@ -17403,7 +17474,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 5
+      "total_refs": 6
     },
     "robur": {
       "type": "character",
@@ -17427,7 +17498,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Robur the Conqueror",
-      "total_refs": 33
+      "total_refs": 34
     },
     "rocky-mountains": {
       "type": "place",
@@ -17574,6 +17645,30 @@
       "quality_score": 70,
       "book": "A Journey to the Centre of the Earth",
       "total_refs": 3
+    },
+    "sandwich-islands": {
+      "type": "place",
+      "label": "Sandwich Islands",
+      "aliases": [
+        "Sandwich Isles"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "antarctic"
+      ],
+      "path": "sa/sandwich-islands.md",
+      "description": "The far-southern isles, discovered by Cook, that the Halbrane takes as her point of departure toward the pole in An Antarctic Mystery.",
+      "prose_len": 1332,
+      "prose_chars": 1230,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "An Antarctic Mystery",
+      "total_refs": 1
     },
     "sargasso-sea": {
       "type": "place",
@@ -21096,7 +21191,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 5
+      "total_refs": 6
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -21122,7 +21217,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 7
+      "total_refs": 8
     },
     "the-moon": {
       "type": "place",
@@ -21247,7 +21342,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 8
+      "total_refs": 9
     },
     "the-underground-city": {
       "type": "work",
@@ -23757,7 +23852,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 8
+      "total_refs": 9
     },
     "vigo-bay": {
       "type": "place",
@@ -24122,6 +24217,28 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 66,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "washburn-bay": {
+      "type": "place",
+      "label": "Washburn Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "bay",
+        "arctic"
+      ],
+      "path": "wa/washburn-bay.md",
+      "description": "A bay on the northern Canadian coast surveyed by Jaspar Hobson's expedition in The Fur Country.",
+      "prose_len": 1455,
+      "prose_chars": 1354,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
       "book": "The Fur Country",
       "total_refs": 0
     },
@@ -24767,6 +24884,10 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "antarctic-sea": "antarctic-sea",
+    "Antarctic Sea": "antarctic-sea",
+    "Antarctic seas": "antarctic-sea",
+    "Southern Seas": "antarctic-sea",
     "aouda": "aouda",
     "Aouda": "aouda",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
@@ -24920,6 +25041,9 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "chatham-islands": "chatham-islands",
+    "Chatham Islands": "chatham-islands",
+    "Pitt Island": "chatham-islands",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
@@ -24946,6 +25070,8 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "detroit-river": "detroit-river",
+    "Detroit River": "detroit-river",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
@@ -25796,6 +25922,9 @@
     "Ruhmkorff Apparatus": "ruhmkorff-apparatus",
     "Ruhmkorff lamp": "ruhmkorff-apparatus",
     "Ruhmkorff coil": "ruhmkorff-apparatus",
+    "sandwich-islands": "sandwich-islands",
+    "Sandwich Islands": "sandwich-islands",
+    "Sandwich Isles": "sandwich-islands",
     "sargasso-sea": "sargasso-sea",
     "Sargasso Sea": "sargasso-sea",
     "SC-ch01": "SC-ch01",
@@ -26212,6 +26341,8 @@
     "WAI-ch16": "WAI-ch16",
     "walruses-bay": "walruses-bay",
     "Walruses' Bay": "walruses-bay",
+    "washburn-bay": "washburn-bay",
+    "Washburn Bay": "washburn-bay",
     "washington-bay": "washington-bay",
     "Washington Bay": "washington-bay",
     "WC-ch01": "WC-ch01",
@@ -26242,6 +26373,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1194,
-  "generated": "2026-07-16T02:39:19Z"
+  "page_count": 1199,
+  "generated": "2026-07-16T02:43:59Z"
 }
