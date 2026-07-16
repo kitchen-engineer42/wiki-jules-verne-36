@@ -1982,7 +1982,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 10
+      "total_refs": 11
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -2523,6 +2523,28 @@
       "book_seq": 724,
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 1
+    },
+    "atlantic-ocean": {
+      "type": "place",
+      "label": "Atlantic Ocean",
+      "aliases": [],
+      "tags": [
+        "place",
+        "ocean",
+        "atlantic"
+      ],
+      "path": "at/atlantic-ocean.md",
+      "description": "The first of the great oceans the 37th parallel crosses in In Search of the Castaways, and the Duncan's appointed rendezvous.",
+      "prose_len": 1525,
+      "prose_chars": 1422,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
     },
     "AWED-ch01": {
       "type": "chapter",
@@ -4152,6 +4174,28 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 64
     },
+    "caribbean-sea": {
+      "type": "place",
+      "label": "Caribbean Sea",
+      "aliases": [],
+      "tags": [
+        "place",
+        "sea",
+        "atlantic"
+      ],
+      "path": "ca/caribbean-sea.md",
+      "description": "The clear tropical sea whose transparent depths and teeming life the Nautilus explores in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1622,
+      "prose_chars": 1519,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "caspian-sea": {
       "type": "place",
       "label": "Caspian Sea",
@@ -4313,6 +4357,28 @@
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 48
+    },
+    "coronation-gulf": {
+      "type": "place",
+      "label": "Coronation Gulf",
+      "aliases": [],
+      "tags": [
+        "place",
+        "gulf",
+        "arctic"
+      ],
+      "path": "co/coronation-gulf.md",
+      "description": "The Arctic estuary of the North American coast that the fur-hunting expedition skirts in The Fur Country.",
+      "prose_len": 1459,
+      "prose_chars": 1355,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "creek-glycerine": {
       "type": "place",
@@ -10522,7 +10588,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "gulf-stream": {
       "type": "place",
@@ -10731,6 +10797,30 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "ice-bank": {
+      "type": "place",
+      "label": "Ice Bank",
+      "aliases": [
+        "The Ice Bank"
+      ],
+      "tags": [
+        "place",
+        "ice",
+        "antarctic"
+      ],
+      "path": "ic/ice-bank.md",
+      "description": "The great southern ice barrier that halts the Nautilus at the limit of the Antarctic seas in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1414,
+      "prose_chars": 1317,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "iceland": {
       "type": "place",
       "label": "Iceland",
@@ -10797,7 +10887,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 11
+      "total_refs": 12
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16574,6 +16664,30 @@
       "book": "The Pearl of Lima",
       "total_refs": 1
     },
+    "platte-river": {
+      "type": "place",
+      "label": "Platte River",
+      "aliases": [
+        "North Platte River"
+      ],
+      "tags": [
+        "place",
+        "river",
+        "united-states"
+      ],
+      "path": "pl/platte-river.md",
+      "description": "The Nebraska river whose valley the Pacific Railroad follows across the plains in Around the World in Eighty Days.",
+      "prose_len": 1458,
+      "prose_chars": 1357,
+      "h2_count": 4,
+      "pn_count": 6,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "polar-sea": {
       "type": "place",
       "label": "Polar Sea",
@@ -21526,7 +21640,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 7
+      "total_refs": 8
     },
     "the-master-of-the-world": {
       "type": "work",
@@ -23650,7 +23764,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 13
+      "total_refs": 15
     },
     "twofold-bay": {
       "type": "place",
@@ -25254,6 +25368,8 @@
     "ASC-ch25": "ASC-ch25",
     "ASC-ch26": "ASC-ch26",
     "ASC-ch27": "ASC-ch27",
+    "atlantic-ocean": "atlantic-ocean",
+    "Atlantic Ocean": "atlantic-ocean",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -25379,6 +25495,8 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "caribbean-sea": "caribbean-sea",
+    "Caribbean Sea": "caribbean-sea",
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
@@ -25396,6 +25514,8 @@
     "Columbiad": "columbiad",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "coronation-gulf": "coronation-gulf",
+    "Coronation Gulf": "coronation-gulf",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -25805,6 +25925,9 @@
     "the Company": "hudsons-bay-company",
     "hudsons-bay": "hudsons-bay",
     "Hudson's Bay": "hudsons-bay",
+    "ice-bank": "ice-bank",
+    "Ice Bank": "ice-bank",
+    "The Ice Bank": "ice-bank",
     "iceland": "iceland",
     "Iceland": "iceland",
     "icy-cape": "icy-cape",
@@ -26197,6 +26320,9 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "platte-river": "platte-river",
+    "Platte River": "platte-river",
+    "North Platte River": "platte-river",
     "polar-sea": "polar-sea",
     "Polar Sea": "polar-sea",
     "port-balloon": "port-balloon",
@@ -26748,6 +26874,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1213,
-  "generated": "2026-07-16T03:13:02Z"
+  "page_count": 1218,
+  "generated": "2026-07-16T03:17:16Z"
 }

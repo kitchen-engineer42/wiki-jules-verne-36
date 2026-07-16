@@ -767,6 +767,12 @@
       "aliases": [],
       "path": "as/ASC-ch27.md"
     },
+    "atlantic-ocean": {
+      "type": "place",
+      "label": "Atlantic Ocean",
+      "aliases": [],
+      "path": "at/atlantic-ocean.md"
+    },
     "AWED-ch01": {
       "type": "chapter",
       "label": "Around the World in Eighty Days — CHAPTER I",
@@ -1258,6 +1264,12 @@
       ],
       "path": "ca/captain-nemo.md"
     },
+    "caribbean-sea": {
+      "type": "place",
+      "label": "Caribbean Sea",
+      "aliases": [],
+      "path": "ca/caribbean-sea.md"
+    },
     "caspian-sea": {
       "type": "place",
       "label": "Caspian Sea",
@@ -1305,6 +1317,12 @@
       "label": "Conseil",
       "aliases": [],
       "path": "co/conseil.md"
+    },
+    "coronation-gulf": {
+      "type": "place",
+      "label": "Coronation Gulf",
+      "aliases": [],
+      "path": "co/coronation-gulf.md"
     },
     "creek-glycerine": {
       "type": "place",
@@ -3242,6 +3260,14 @@
       "aliases": [],
       "path": "hu/hudsons-bay.md"
     },
+    "ice-bank": {
+      "type": "place",
+      "label": "Ice Bank",
+      "aliases": [
+        "The Ice Bank"
+      ],
+      "path": "ic/ice-bank.md"
+    },
     "iceland": {
       "type": "place",
       "label": "Iceland",
@@ -5009,6 +5035,14 @@
       "label": "The Pearl of Lima — CHAPTER IX",
       "aliases": [],
       "path": "pl/PL-ch09.md"
+    },
+    "platte-river": {
+      "type": "place",
+      "label": "Platte River",
+      "aliases": [
+        "North Platte River"
+      ],
+      "path": "pl/platte-river.md"
     },
     "polar-sea": {
       "type": "place",
@@ -7741,6 +7775,8 @@
     "ASC-ch25": "ASC-ch25",
     "ASC-ch26": "ASC-ch26",
     "ASC-ch27": "ASC-ch27",
+    "atlantic-ocean": "atlantic-ocean",
+    "Atlantic Ocean": "atlantic-ocean",
     "AWED-ch01": "AWED-ch01",
     "AWED-ch02": "AWED-ch02",
     "AWED-ch03": "AWED-ch03",
@@ -7866,6 +7902,8 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "caribbean-sea": "caribbean-sea",
+    "Caribbean Sea": "caribbean-sea",
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
@@ -7883,6 +7921,8 @@
     "Columbiad": "columbiad",
     "conseil": "conseil",
     "Conseil": "conseil",
+    "coronation-gulf": "coronation-gulf",
+    "Coronation Gulf": "coronation-gulf",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -8292,6 +8332,9 @@
     "the Company": "hudsons-bay-company",
     "hudsons-bay": "hudsons-bay",
     "Hudson's Bay": "hudsons-bay",
+    "ice-bank": "ice-bank",
+    "Ice Bank": "ice-bank",
+    "The Ice Bank": "ice-bank",
     "iceland": "iceland",
     "Iceland": "iceland",
     "icy-cape": "icy-cape",
@@ -8684,6 +8727,9 @@
     "PL-ch07": "PL-ch07",
     "PL-ch08": "PL-ch08",
     "PL-ch09": "PL-ch09",
+    "platte-river": "platte-river",
+    "Platte River": "platte-river",
+    "North Platte River": "platte-river",
     "polar-sea": "polar-sea",
     "Polar Sea": "polar-sea",
     "port-balloon": "port-balloon",
@@ -9235,6 +9281,6 @@
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR"
   },
-  "page_count": 1213,
-  "generated": "2026-07-16T03:13:02Z"
+  "page_count": 1218,
+  "generated": "2026-07-16T03:17:16Z"
 }

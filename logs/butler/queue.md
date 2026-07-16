@@ -202,10 +202,10 @@
 <!-- ✔ [place] Gulf of Mexico — 已建 gulf-of-mexico（rev hJZE5f，TTLU real，页内引注 5）R66 -->
 <!-- ✔ [place] Detroit River — 已建 detroit-river（rev 8PubXu，MW real，页内引注 5；Terror 逃逸孔道/Erie↔上湖，接 the-master-of-the-world/the-terror/lake-erie）R62 -->
 <!-- ✔ [place] Sandwich Islands — 已建 sandwich-islands（rev EHidZ8，AM real，页内引注 6；alias Sandwich Isles；★更正 queue 旧注「夏威夷旧称」误——AM 语境为 Cook 所命名之南大西洋南桑威奇群岛，非夏威夷；Halbrane 南航出发点，接 an-antarctic-mystery/antarctic-sea）R62 -->
-- [place] Coronation Gulf — FC；FC:5；加冕湾（real 北极湾）
-- [place] Platte River — AWED；AWED:5；普拉特河（real）
-- [place] Atlantic Ocean — SC；SC:5；大西洋（real）
-- [place] Caribbean Sea — TTLU；TTLU:5；加勒比海（real）
+<!-- ✔ [place] Coronation Gulf — 已建 coronation-gulf（rev gcZIeN，FC real，页内引注 5）R67 -->
+<!-- ✔ [place] Platte River — 已建 platte-river（rev PrThrX，AWED real，页内引注 6；alias North Platte River）R67 -->
+<!-- ✔ [place] Atlantic Ocean — 已建 atlantic-ocean（rev 658ycD，SC real，页内引注 5）R67 -->
+<!-- ✔ [place] Caribbean Sea — 已建 caribbean-sea（rev QwfNAc，TTLU real，页内引注 5）R67 -->
 <!-- ✔ [place] Blue Ridge Mountains — 已建 blue-ridge-mountains（rev s1c907，MW real，页内引注 7；alias Blueridge Mountains/Blueridge；实测 MW:14>队列估 5）R66 -->
 <!-- ✔ [place] Shannon Island — 已建 shannon-island（rev ifTpeL，WAI real，页内引注 5）R66 -->
 <!-- 排除项（非新建）：Arctic Ocean FC:42 → 并入 polar-sea 别名（同一北冰洋，Verne 互用 Polar Sea/Arctic Ocean）；Long's Peak FEM:8/RM:7 → rocky-mountains 子地点，overlap，hold；Black Rock MW → 待与 black-rock-creek 消歧，hold；Behring's Straits(WC)/The Torres Strait(TTLU) → 既有 behring-strait/torres-strait 变体。 -->
@@ -227,7 +227,7 @@
 <!-- ✔ [place] Cape Saknussemm — 已建 cape-saknussemm（rev slEuhw，JCE fictional，页内引注 5；地心海岬）R65 -->
 <!-- ⚠ R65 副产：niagara-falls（R64 建）alias「Niagara River」与既有 niagara-river 页撞名 → 改 alias「Falls of Niagara」并修 Overview 段 404→≤400（rev Pb3Z4f）。 -->
 
-- [place] Ice Bank — TTLU:30/WC:2；agg 32；大冰群/冰障（TTLU 南极冰障；feature/place 待核）
+<!-- ✔ [place] Ice Bank — 已建 ice-bank（rev uBUzV8，TTLU real，页内引注 7；南极冰障，定 place/feature，region Antarctic）R67 -->
 - [place] North Sea — 跨源 TTLU:2/RC:2/+7 作；agg 9（单作 max 2）；北海（real；跨源建页）
 - [place] Firth of Clyde — SC:4/UC:2；agg 6（单作 max 4）；克莱德湾（real 苏格兰；跨源建页）
 - [place] Long Island — TTLU:3/ASC:2/AWED:1；agg 6（单作 max 3）；长岛（real；跨源建页）
