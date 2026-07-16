@@ -1190,6 +1190,12 @@
       ],
       "path": "bl/blue-ridge-mountains.md"
     },
+    "bolivia": {
+      "type": "place",
+      "label": "Bolivia",
+      "aliases": [],
+      "path": "bo/bolivia.md"
+    },
     "bombay": {
       "type": "place",
       "label": "Bombay",
@@ -1429,6 +1435,14 @@
         "Pitt Island"
       ],
       "path": "ch/chatham-islands.md"
+    },
+    "chili": {
+      "type": "place",
+      "label": "Chili",
+      "aliases": [
+        "Chile"
+      ],
+      "path": "ch/chili.md"
     },
     "china": {
       "type": "place",
@@ -3148,6 +3162,12 @@
       "aliases": [],
       "path": "ga/gallian-sea.md"
     },
+    "germany": {
+      "type": "place",
+      "label": "Germany",
+      "aliases": [],
+      "path": "ge/germany.md"
+    },
     "giant-squid-attack": {
       "type": "event",
       "label": "The Giant Squid Attack",
@@ -3548,6 +3568,12 @@
       "aliases": [],
       "path": "iq/iquitos.md"
     },
+    "ireland": {
+      "type": "place",
+      "label": "Ireland",
+      "aliases": [],
+      "path": "ir/ireland.md"
+    },
     "irkutsk": {
       "type": "place",
       "label": "Irkutsk",
@@ -3569,6 +3595,12 @@
         "Île de Sein"
       ],
       "path": "is/island-of-sein.md"
+    },
+    "italy": {
+      "type": "place",
+      "label": "Italy",
+      "aliases": [],
+      "path": "it/italy.md"
     },
     "jangada": {
       "type": "technology",
@@ -8453,6 +8485,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bolivia": "bolivia",
+    "Bolivia": "bolivia",
     "bombay": "bombay",
     "Bombay": "bombay",
     "BR-ch01": "BR-ch01",
@@ -8527,6 +8561,9 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "chili": "chili",
+    "Chili": "chili",
+    "Chile": "chili",
     "china": "china",
     "China": "china",
     "christiania": "christiania",
@@ -8878,6 +8915,8 @@
     "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
+    "germany": "germany",
+    "Germany": "germany",
     "giant-squid-attack": "giant-squid-attack",
     "The Giant Squid Attack": "giant-squid-attack",
     "Attack of the Poulps": "giant-squid-attack",
@@ -9000,6 +9039,8 @@
     "Committee of Inquiry": "inquiry-committee",
     "iquitos": "iquitos",
     "Iquitos": "iquitos",
+    "ireland": "ireland",
+    "Ireland": "ireland",
     "irkutsk": "irkutsk",
     "Irkutsk": "irkutsk",
     "island-of-ljakow": "island-of-ljakow",
@@ -9008,6 +9049,8 @@
     "island-of-sein": "island-of-sein",
     "Island of Sein": "island-of-sein",
     "Île de Sein": "island-of-sein",
+    "italy": "italy",
+    "Italy": "italy",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -10042,6 +10085,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1308,
-  "generated": "2026-07-16T06:07:32Z"
+  "page_count": 1313,
+  "generated": "2026-07-16T06:17:18Z"
 }

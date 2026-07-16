@@ -2057,7 +2057,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "antarctic-sea": {
       "type": "place",
@@ -3944,6 +3944,27 @@
       "book": "The Master of the World",
       "total_refs": 0
     },
+    "bolivia": {
+      "type": "place",
+      "label": "Bolivia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "dick-sand",
+        "deception"
+      ],
+      "path": "bo/bolivia.md",
+      "description": "The South American land that the traitor Harris pretends the shipwrecked survivors have reached in Dick Sand: A Captain at Fifteen, when in truth they stand on Angola.",
+      "prose_len": 1681,
+      "prose_chars": 1593,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "bombay": {
       "type": "place",
       "label": "Bombay",
@@ -4761,6 +4782,31 @@
       "book": "Robur the Conqueror",
       "total_refs": 0
     },
+    "chili": {
+      "type": "place",
+      "label": "Chili",
+      "aliases": [
+        "Chile"
+      ],
+      "tags": [
+        "place",
+        "south-america",
+        "in-search-of-the-castaways",
+        "andes"
+      ],
+      "path": "ch/chili.md",
+      "description": "The western South American republic (Verne's spelling of Chile) where Glenarvan's overland search across the Cordilleras and Pampas begins in In Search of the Castaways.",
+      "prose_len": 1531,
+      "prose_chars": 1444,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "china": {
       "type": "place",
       "label": "China",
@@ -5128,7 +5174,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 7
+      "total_refs": 8
     },
     "diving-apparatus": {
       "type": "technology",
@@ -10489,6 +10535,29 @@
       "book": "Off on a Comet",
       "total_refs": 0
     },
+    "germany": {
+      "type": "place",
+      "label": "Germany",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-europe",
+        "journey-to-the-center-of-the-earth",
+        "hamburg"
+      ],
+      "path": "ge/germany.md",
+      "description": "The Central European homeland of Professor Lidenbrock in A Journey to the Center of the Earth, and a recurring byword for learning and skilled craft across Verne's works.",
+      "prose_len": 1541,
+      "prose_chars": 1456,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "A Journey to the Center of the Earth",
+      "total_refs": 0
+    },
     "giant-squid-attack": {
       "type": "event",
       "label": "The Giant Squid Attack",
@@ -11703,7 +11772,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 20
+      "total_refs": 21
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11823,6 +11892,29 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 3
     },
+    "ireland": {
+      "type": "place",
+      "label": "Ireland",
+      "aliases": [],
+      "tags": [
+        "place",
+        "british-isles",
+        "twenty-thousand-leagues",
+        "transatlantic-cable"
+      ],
+      "path": "ir/ireland.md",
+      "description": "The western island of the British Isles that the Nautilus and the Great Eastern pass on their Atlantic courses in Twenty Thousand Leagues Under the Sea.",
+      "prose_len": 1648,
+      "prose_chars": 1561,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
     "irkutsk": {
       "type": "place",
       "label": "Irkutsk",
@@ -11891,6 +11983,29 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
+    "italy": {
+      "type": "place",
+      "label": "Italy",
+      "aliases": [],
+      "tags": [
+        "place",
+        "southern-europe",
+        "off-on-a-comet",
+        "mediterranean"
+      ],
+      "path": "it/italy.md",
+      "description": "The Mediterranean peninsula swept away by the comet Gallia, whose survival the survivors hope for in Off on a Comet.",
+      "prose_len": 1478,
+      "prose_chars": 1390,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Off on a Comet",
       "total_refs": 0
     },
     "jangada": {
@@ -12866,7 +12981,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 12
+      "total_refs": 13
     },
     "kazounde": {
       "type": "place",
@@ -16706,7 +16821,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Ticket No. 9672",
-      "total_refs": 2
+      "total_refs": 3
     },
     "obi": {
       "type": "place",
@@ -17656,7 +17771,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 5
+      "total_refs": 6
     },
     "omaha": {
       "type": "place",
@@ -17867,7 +17982,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 2
+      "total_refs": 3
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -17989,7 +18104,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 2
     },
     "phileas-fogg": {
       "type": "character",
@@ -22151,7 +22266,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "sea-monster-hunt": {
       "type": "event",
@@ -22926,7 +23041,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 3
+      "total_refs": 4
     },
     "spain": {
       "type": "place",
@@ -22949,7 +23064,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "spencer-island": {
       "type": "place",
@@ -25685,7 +25800,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 19
+      "total_refs": 20
     },
     "twofold-bay": {
       "type": "place",
@@ -27560,6 +27675,8 @@
     "Blue Ridge Mountains": "blue-ridge-mountains",
     "Blueridge Mountains": "blue-ridge-mountains",
     "Blueridge": "blue-ridge-mountains",
+    "bolivia": "bolivia",
+    "Bolivia": "bolivia",
     "bombay": "bombay",
     "Bombay": "bombay",
     "BR-ch01": "BR-ch01",
@@ -27634,6 +27751,9 @@
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
+    "chili": "chili",
+    "Chili": "chili",
+    "Chile": "chili",
     "china": "china",
     "China": "china",
     "christiania": "christiania",
@@ -27985,6 +28105,8 @@
     "Gallia": "gallia",
     "gallian-sea": "gallian-sea",
     "Gallian Sea": "gallian-sea",
+    "germany": "germany",
+    "Germany": "germany",
     "giant-squid-attack": "giant-squid-attack",
     "The Giant Squid Attack": "giant-squid-attack",
     "Attack of the Poulps": "giant-squid-attack",
@@ -28107,6 +28229,8 @@
     "Committee of Inquiry": "inquiry-committee",
     "iquitos": "iquitos",
     "Iquitos": "iquitos",
+    "ireland": "ireland",
+    "Ireland": "ireland",
     "irkutsk": "irkutsk",
     "Irkutsk": "irkutsk",
     "island-of-ljakow": "island-of-ljakow",
@@ -28115,6 +28239,8 @@
     "island-of-sein": "island-of-sein",
     "Island of Sein": "island-of-sein",
     "Île de Sein": "island-of-sein",
+    "italy": "italy",
+    "Italy": "italy",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -29149,6 +29275,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1308,
-  "generated": "2026-07-16T06:07:32Z"
+  "page_count": 1313,
+  "generated": "2026-07-16T06:17:18Z"
 }

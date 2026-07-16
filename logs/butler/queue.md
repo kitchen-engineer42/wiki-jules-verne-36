@@ -267,12 +267,12 @@
 <!-- ✔ [place] Mexico — 已建 mexico（rev XkJaUX，FEM real 主作，页内引注 8；Gun Club casus belli 28°线/墨西哥湾，跨源 MW/TTLU 湾流，book From the Earth to the Moon）R99 -->
 <!-- ✔ [place] Canada — 已建 canada（rev EpTMgI，FC real，页内引注 8；毛皮国度法→英/James Bay 商站，book The Fur Country）R99 -->
 - [place] Mongolia — ⚠ AWED:24 系 steamer「Mongolia」（非国名，多实体噪声，同 Victoria）→ 真国名 refs 仅 ASC:5/TT:1≈6 distinctPN（real；主作 The Adventures of a Special Correspondent，戈壁/大铁路；建页须词边界剔 AWED 汽船）
-- [place] Italy — OC:9/TTLU:4；25 distinctPN（real；主作 Off on a Comet）
-- [place] Chili — SC:9/DSCF:7；23 distinctPN（real；主作 In Search of the Castaways，Chile 之 Verne 拼法）
-- [place] Bolivia — DSCF:12/EHLA:6；21 distinctPN（real；主作 Dick Sand: A Captain at Fifteen）
+<!-- ✔ [place] Italy — 已建 italy（rev Fbbtlh，OC real，页内引注 8；彗星 Gallia 掳走之地中海半岛/Nina 代表意大利，book Off on a Comet）R100 -->
+<!-- ✔ [place] Chili — 已建 chili（rev 92Ro46，SC real，页内引注 8；Glenarvan 跨 Cordilleras/Pampas/Valparaiso，alias Chile，book In Search of the Castaways）R100 -->
+<!-- ✔ [place] Bolivia — 已建 bolivia（rev sDklN1，DSCF real，页内引注 10；Harris 伪称之玻利维亚实为 Angola，book Dick Sand；注 book 字段含冒号须加引号）R100 -->
 - [place] Switzerland — TN:4/MZ:2/RM:2/RC:2；20 distinctPN（real；主作跨源，待择确指句最集中之作）
-- [place] Ireland — TTLU:8/WC:4；20 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea）
-- [place] Germany — JCE:4/FF:2/MZ:2/VB:2；19 distinctPN（real；主作 A Journey to the Center of the Earth）
+<!-- ✔ [place] Ireland — 已建 ireland（rev z2EvHC，TTLU real，页内引注 8；跨大西洋电缆/Great Eastern + WC O'Donoghan 线索，book Twenty Thousand Leagues Under the Sea）R100 -->
+<!-- ✔ [place] Germany — 已建 germany（rev LBBvkP，JCE real，页内引注 9；Lidenbrock/Hamburg 故乡 + 跨源工艺/科学之邦，book A Journey to the Center of the Earth）R100 -->
 - [place] Denmark — TT:10/JCE:4；18 distinctPN（real；主作 Topsy Turvy 或 JCE 起点 Copenhagen）
 - [place] Turkey — MS:4/TTLU:4；17 distinctPN（real；主作跨源 Michael Strogoff/TTLU）
 - [place] Persia — ASC:10/MS:3；16 distinctPN（real；主作 The Adventures of a Special Correspondent）
