@@ -787,6 +787,15 @@
       "aliases": [],
       "path": "as/ASC-ch27.md"
     },
+    "atacama": {
+      "type": "place",
+      "label": "Atacama",
+      "aliases": [
+        "Desert of Atacama",
+        "Plateau of Atacama"
+      ],
+      "path": "at/atacama.md"
+    },
     "atlantic-ocean": {
       "type": "place",
       "label": "Atlantic Ocean",
@@ -1265,6 +1274,12 @@
       "label": "Cape Bernouilli",
       "aliases": [],
       "path": "ca/cape-bernouilli.md"
+    },
+    "cape-bon": {
+      "type": "place",
+      "label": "Cape Bon",
+      "aliases": [],
+      "path": "ca/cape-bon.md"
     },
     "cape-corrientes": {
       "type": "place",
@@ -4886,6 +4901,12 @@
       ],
       "path": "no/north-pole.md"
     },
+    "north-sea": {
+      "type": "place",
+      "label": "North Sea",
+      "aliases": [],
+      "path": "no/north-sea.md"
+    },
     "north-west-company": {
       "type": "organization",
       "label": "North-West Company",
@@ -5213,6 +5234,15 @@
         "Central Pacific"
       ],
       "path": "pa/pacific-railroad.md"
+    },
+    "pamir": {
+      "type": "place",
+      "label": "Pamir",
+      "aliases": [
+        "Pamir Plateau",
+        "Roof of the World"
+      ],
+      "path": "pa/pamir.md"
     },
     "pamlico-sound": {
       "type": "place",
@@ -6966,6 +6996,15 @@
       "aliases": [],
       "path": "ti/tijuco.md"
     },
+    "tjon": {
+      "type": "place",
+      "label": "Tjon",
+      "aliases": [
+        "Tjon Valley",
+        "Tjon Viaduct"
+      ],
+      "path": "tj/tjon.md"
+    },
     "TN-ch01": {
       "type": "chapter",
       "label": "Ticket No. 9672 — CHAPTER I",
@@ -8180,6 +8219,10 @@
     "ASC-ch25": "ASC-ch25",
     "ASC-ch26": "ASC-ch26",
     "ASC-ch27": "ASC-ch27",
+    "atacama": "atacama",
+    "Atacama": "atacama",
+    "Desert of Atacama": "atacama",
+    "Plateau of Atacama": "atacama",
     "atlantic-ocean": "atlantic-ocean",
     "Atlantic Ocean": "atlantic-ocean",
     "auckland": "auckland",
@@ -8299,6 +8342,8 @@
     "Cape Bathurst": "cape-bathurst",
     "cape-bernouilli": "cape-bernouilli",
     "Cape Bernouilli": "cape-bernouilli",
+    "cape-bon": "cape-bon",
+    "Cape Bon": "cape-bon",
     "cape-corrientes": "cape-corrientes",
     "Cape Corrientes": "cape-corrientes",
     "cape-esquimaux": "cape-esquimaux",
@@ -9126,6 +9171,8 @@
     "north-pole": "north-pole",
     "The North Pole": "north-pole",
     "Queen's Island": "north-pole",
+    "north-sea": "north-sea",
+    "North Sea": "north-sea",
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
@@ -9193,6 +9240,10 @@
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
     "Central Pacific": "pacific-railroad",
+    "pamir": "pamir",
+    "Pamir": "pamir",
+    "Pamir Plateau": "pamir",
+    "Roof of the World": "pamir",
     "pamlico-sound": "pamlico-sound",
     "Pamlico Sound": "pamlico-sound",
     "passepartout": "passepartout",
@@ -9605,6 +9656,10 @@
     "Ticket No. \"9672\"": "ticket-no-9672",
     "tijuco": "tijuco",
     "Tijuco": "tijuco",
+    "tjon": "tjon",
+    "Tjon": "tjon",
+    "Tjon Valley": "tjon",
+    "Tjon Viaduct": "tjon",
     "TN-ch01": "TN-ch01",
     "TN-ch02": "TN-ch02",
     "TN-ch03": "TN-ch03",
@@ -9814,6 +9869,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1282,
-  "generated": "2026-07-16T05:06:47Z"
+  "page_count": 1287,
+  "generated": "2026-07-16T05:18:58Z"
 }
