@@ -1571,6 +1571,12 @@
       "aliases": [],
       "path": "ce/ceylon.md"
     },
+    "charleston": {
+      "type": "place",
+      "label": "Charleston",
+      "aliases": [],
+      "path": "ch/charleston.md"
+    },
     "chatham-islands": {
       "type": "place",
       "label": "Chatham Islands",
@@ -6196,6 +6202,12 @@
       ],
       "path": "rh/rhine.md"
     },
+    "richmond": {
+      "type": "place",
+      "label": "Richmond",
+      "aliases": [],
+      "path": "ri/richmond.md"
+    },
     "riga": {
       "type": "place",
       "label": "Riga",
@@ -6430,6 +6442,12 @@
         "Sahara Desert"
       ],
       "path": "sa/sahara.md"
+    },
+    "salt-lake-city": {
+      "type": "place",
+      "label": "Salt Lake City",
+      "aliases": [],
+      "path": "sa/salt-lake-city.md"
     },
     "san-francisco": {
       "type": "place",
@@ -8681,6 +8699,12 @@
       "aliases": [],
       "path": "wa/washington-bay.md"
     },
+    "washington": {
+      "type": "place",
+      "label": "Washington",
+      "aliases": [],
+      "path": "wa/washington.md"
+    },
     "WC-ch01": {
       "type": "chapter",
       "label": "The Waif of the Cynthia — CHAPTER I",
@@ -9249,6 +9273,8 @@
     "the Caucasus": "caucasus",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
+    "charleston": "charleston",
+    "Charleston": "charleston",
     "chatham-islands": "chatham-islands",
     "Chatham Islands": "chatham-islands",
     "Pitt Island": "chatham-islands",
@@ -10349,6 +10375,8 @@
     "rhine": "rhine",
     "Rhine": "rhine",
     "Rhine River": "rhine",
+    "richmond": "richmond",
+    "Richmond": "richmond",
     "riga": "riga",
     "Riga": "riga",
     "rio-de-janeiro": "rio-de-janeiro",
@@ -10408,6 +10436,8 @@
     "sahara": "sahara",
     "Sahara": "sahara",
     "Sahara Desert": "sahara",
+    "salt-lake-city": "salt-lake-city",
+    "Salt Lake City": "salt-lake-city",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -10916,6 +10946,8 @@
     "Washburn Bay": "washburn-bay",
     "washington-bay": "washington-bay",
     "Washington Bay": "washington-bay",
+    "washington": "washington",
+    "Washington": "washington",
     "WC-ch01": "WC-ch01",
     "WC-ch02": "WC-ch02",
     "WC-ch03": "WC-ch03",
@@ -10954,6 +10986,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1407,
-  "generated": "2026-07-16T10:39:10Z"
+  "page_count": 1411,
+  "generated": "2026-07-16T10:47:26Z"
 }

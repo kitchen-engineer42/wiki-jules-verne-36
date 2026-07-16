@@ -13,18 +13,21 @@
 <!-- ✔ [place] Kamtchatka — 已建 kamtchatka（rev 11Qwkq，real，region Russian Far East，页内引注 9：FC-008-022/008-024/015-025/016-019/025-025/029-012/033-013/033-026/040-015；namesake「Kamtchatka Current」为特征非同名陷阱）R121 -->
 <!-- ✔ [place] Timbuctoo — 已建 timbuctoo（rev BxFzWZ，real，region West Africa，页内引注 9：FWB-037-041/037-043/038-018/038-029/038-041/039-002/039-012/039-016/039-019/039-022/040-026；alias Timbuktu）R121 -->
 <!-- ✔ [place] Chicago — 已建 chicago（rev 8Et6kp，real，region United States，页内引注 7：AWED-031-016/031-034/031-036/031-037、RC-009-010、MW-004-013、GM-002-036；无同名陷阱）R121 -->
-- [place] Salt Lake City — SCN28 R120；5 distinctPN（real；AWED 摩门篇犹他城；borderline 5 恰达门，建前逐句核确指）
+<!-- ✔ [place] Salt Lake City — 已建 salt-lake-city（rev Nxol1r，AWED real，region Utah，页内引注 5：AWED-027-020/027-022/026-006、RC-010-026/010-032；摩门首府/Fogg 横美铁路 Ogden 支线两小时游/Albatross 俯瞰；接 omaha/platte-river/great-salt-lake/albatross/around-the-world-in-eighty-days/robur-the-conqueror）R126 -->
+<!-- ✔ Salt Lake City consumed R126 -->
 <!-- ═══ R122 SCN28 表层勘探（queue=7<10 触发）：broken-link 复扫（仅 place 项 Stone's Hill×1=既有 stony-hill 拼写变体，corpus 0 PN，判为 wikilink 拼写误植，留 PHQ 修源；余为 character/work 变体，非 place）+ curated 主要地名批测 72 名（2 批）═══ -->
 <!-- 新候选 20 项入队（distinctPN≥5 且无既有 slug）。建前一律 same-name/entity 消歧核。 -->
-- [place] Washington — SCN28 R122；78 distinctPN（real；美国首都 D.C.；⚠建前重消歧：D.C. 城 vs George Washington 人 vs Washington 州/领地 vs Fort Washington vs Washington Territory；FEM/RM/AWED 跨源）
-- [place] Charleston — SCN28 R122；49 distinctPN（⚠建前消歧：Charleston SC 城 vs FEM「Charlestown」MA vs 泛指；确指后定 real/region）
+<!-- ✔ [place] Washington — 已建 washington（rev ynguY0，FEM real，region United States，页内引注 8：FEM-003-009/003-008/013-047/015-003、BR-008-011、FF-001-017、MI-011-086/014-068；美国首都/美式子午线原点/Lincoln 遇刺城；**多实体严筛：剔 Cape Washington(ACH×6 北极岬=既有 cape-washington)/Washington Bay(MI 虚构 Lincoln 岛=既有 washington-bay)/FEM-003-013「a Washington of science」(人喻)/FC-016-033 Washington Irving(人名)**；接 baltimore/gun-club/new-york/from-the-earth-to-the-moon/the-mysterious-island/richmond）R126 -->
+<!-- ✔ Washington consumed R126 -->
+<!-- ✔ [place] Charleston — 已建 charleston（rev RlfU3G，The Blockade Runners real，region South Carolina，页内引注 12：BR-001-052/001-053/003-067/004-032/006-014/006-031/006-034/007-002/007-014、FF-002-009/010-067、SC2-001-003；内战首炮之港/被封锁棉城/Dolphin 闯锁目的地；确指 SC 城无 Charlestown MA 混入；接 fort-sumter/the-blockade-runners/new-orleans）R126 -->
+<!-- ✔ Charleston consumed R126 -->
 <!-- ✔ [place] Philadelphia — 已建 philadelphia（rev 6mAvp2，real，region United States，页内引注 9：RC-002-016/002-023/003-010/004-065、MW-004-004/016-005/016-012、FEM-003-008/010-009；链 weldon-institute/baltimore/new-york/gun-club/robur-the-conqueror）R123 -->
 <!-- ✔ [place] Newfoundland — 已建 newfoundland（rev 8l4Y6q，real，region North Atlantic，页内引注 9：TN-001-026/004-001/004-063/005-052/011-077/011-078、ACH-005-042/006-004/012-051、AWED-033-011、RM-020-005；剔 Newfoundland dog 犬种 4 PN；book Ticket No. 9672）R123 -->
 <!-- ✔ [place] Boston — 已建 boston（rev Sa5Cb0，real，region United States，页内引注 9：MW-005-028/005-030/005-033/006-008、BR-007-022/010-006、ASC-016-035、FEM-003-009；剔 DA-001-155 英国气球家 Boston 英格兰疑）R123 -->
 <!-- ✔ [place] Spitzbergen — 已建 spitzbergen（rev 7Pt8PL，real，region Arctic，页内引注 9：ACH-004-016/012-054/013-017/023-018、RC-001-028/001-029、WAI-008-004、TTLU-035-003/046-009、JCE-043-026）R123 -->
 <!-- ✔ [place] Montreal — 已建 montreal（rev adB03N，real，region Canada，页内引注 8：RC-008-035/008-039/008-040、WC-015-031/015-035、FC-002-020/012-013；剔 ACH-017-015 北极 Montreal Island 同名岛 + TTLU Montreal Ocean Co 船司 namesake）R123 -->
-<!-- ⚠ Richmond 移至次批（消歧未决：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指），保留下方 -->
-- [place] Richmond — SCN28 R122；30 distinctPN（⚠建前消歧：Richmond VA vs Richmond upon Thames 伦敦 vs 泛指）
+<!-- ✔ [place] Richmond — 已建 richmond（rev aSjsb5，The Mysterious Island real，region Virginia，页内引注 8：MI-002-002/002-004/002-009/002-010/002-018/030-042、BR-008-067、AM-005-001；Grant 围困之邦联首府/气球脱逃起点/Richmond cabinet；确指 VA 无 Richmond upon Thames 伦敦混入；接 the-mysterious-island/cyrus-harding/lincoln-island/the-blockade-runners）R126 -->
+<!-- ✔ Richmond consumed R126 -->
 - [place] Panama — SCN28 R122；11 distinctPN（⚠建前消歧：Panama City vs Isthmus of Panama 地峡 vs 运河；定主体）
 <!-- ✔ [place] Adelaide — 已建 adelaide（rev vNw7Cb，SC real，region South Australia，页内引注 8：SC-032-004/032-005/032-037/035-002/035-007/030-023/038-034+RC-001-030；剔 TTLU-038-094 南极 Adelaide Land + ACH-015-010 北极 Adelaide Bay 同名；接 sydney/melbourne/in-search-of-the-castaways）R125 -->
 <!-- ✔ Adelaide consumed R125 -->
@@ -347,7 +350,8 @@
 <!-- ⏸ [place] Petersburg — HOLD（R106 核：裸词 "Petersburg" 全库仅 3 distinctPN<5 门——"St. Petersburg" 因 "St." 缩写点被句子切分器断句，distinctPN 碎片化。真距或更高但 gather 无法凑 ≥5 干净确指句。待 sentence_index 缩写处理改进或专项凑句后再评。同 Long Island/Bay of Bengal 处置。）R106 -->
 <!-- ✔ [place] Valparaiso — 已建 valparaiso（rev *，DSCF real，页内引注 6；Pilgrim 目的港/Chili 卸货地，book 'Dick Sand: A Captain at Fifteen'（冒号引号），region Chile (Pacific coast)）R106 -->
 <!-- ✔ [place] Geneva — 已建 geneva（rev *，MZ real，页内引注 6；Zacharius 钟匠之城/湖西端/前 Calvinism 之城，book Master Zacharius，region Switzerland）R106 -->
-- [place] Amsterdam — 跨源；10 distinctPN（real；阿姆斯特丹）
+<!-- ✗ [place] Amsterdam — R126 消歧结论：候选歧义。（a）Amsterdam Island（37°线孤岛）已于 R45 建 amsterdam-island（rev HzFcAz）——占本候选主体 distinctPN；（b）荷兰城 Amsterdam 真城确指句 <5 门（DA/VB 气球史仅零星提及），不达标。→ 岛义既建、荷城 <门，双落空，declined/defer；荷城待专项凑句后再评（同 Rome/Petersburg/Athens hold 处置）-->
+<!-- ✗ Amsterdam declined R126（岛义 amsterdam-island 已建 R45；荷城 <5 门）-->
 <!-- ✔ [place] Marseilles — 已建 marseilles（rev kBFWPC，JCE real，页内引注 6；地中海归航登陆港/Volturno 汽船/Provençal 金枪鱼渔场/Peysonnel，alias Marseille，book A Journey to the Center of the Earth，region France；剔 TTLU-031-036 伪匹配）R107 -->
 <!-- ✔ [place] Bordeaux — 已建 bordeaux（rev wzqaua，AWED real，页内引注 8；Gironde 河港/Fogg Henrietta 目标港/D'Arbelet 气球升空地，book Around the World in Eighty Days，region France；剔 OC "wines of Bordeaux" 产品指）R107 -->
 <!-- ✔ [place] Berlin — 已建 berlin（rev Wwh0cQ，rof=real，页内引注 6；RC/TTLU/TT/FEM/ASC）R109 -->
