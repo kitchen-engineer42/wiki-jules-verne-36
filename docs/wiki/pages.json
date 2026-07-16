@@ -1982,7 +1982,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 13
+      "total_refs": 14
     },
     "ASC-ch01": {
       "type": "chapter",
@@ -3566,6 +3566,31 @@
       "book": "The Fur Country",
       "total_refs": 3
     },
+    "belem": {
+      "type": "place",
+      "label": "Belem",
+      "aliases": [
+        "Para"
+      ],
+      "tags": [
+        "brazil",
+        "amazon",
+        "eight-hundred-leagues",
+        "real-place"
+      ],
+      "path": "be/belem.md",
+      "description": "The Brazilian city at the mouth of the Amazon, terminus of the jangada voyage in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1440,
+      "prose_chars": 1350,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 1
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -3878,7 +3903,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "cambridge-observatory": {
       "type": "organization",
@@ -6703,7 +6728,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 3
+      "total_refs": 5
     },
     "eighty-day-wager": {
       "type": "event",
@@ -8684,6 +8709,28 @@
       "book": "Facing the Flag",
       "total_refs": 1
     },
+    "firth-of-clyde": {
+      "type": "place",
+      "label": "Firth of Clyde",
+      "aliases": [],
+      "tags": [
+        "scotland",
+        "real-place",
+        "in-search-of-the-castaways"
+      ],
+      "path": "fi/firth-of-clyde.md",
+      "description": "The sea inlet on the west coast of Scotland where the yacht Duncan is trialled, appearing across In Search of the Castaways and The Underground City.",
+      "prose_len": 1347,
+      "prose_chars": 1259,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "five-weeks-in-a-balloon": {
       "type": "work",
       "label": "Five Weeks in a Balloon",
@@ -10421,6 +10468,29 @@
       "book": "Robur the Conqueror",
       "total_refs": 0
     },
+    "goat-island": {
+      "type": "place",
+      "label": "Goat Island",
+      "aliases": [],
+      "tags": [
+        "united-states",
+        "niagara",
+        "real-place",
+        "master-of-the-world"
+      ],
+      "path": "go/goat-island.md",
+      "description": "The wooded island in the Niagara River dividing the American falls from the Canadian, appearing in The Master of the World and Robur the Conqueror.",
+      "prose_len": 1290,
+      "prose_chars": 1201,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "The Master of the World",
+      "total_refs": 1
+    },
     "godfrey-morgan": {
       "type": "work",
       "label": "Godfrey Morgan",
@@ -11004,7 +11074,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 12
+      "total_refs": 13
     },
     "in-the-year-2889": {
       "type": "work",
@@ -11099,7 +11169,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 2
     },
     "irkutsk": {
       "type": "place",
@@ -12624,7 +12694,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lunar-orbit-miss": {
       "type": "event",
@@ -12698,7 +12768,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 2
     },
     "mandible-cape": {
       "type": "place",
@@ -18198,7 +18268,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 6
+      "total_refs": 7
     },
     "robur": {
       "type": "character",
@@ -18390,7 +18460,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "sandwich-islands": {
       "type": "place",
@@ -21813,6 +21883,29 @@
       "quality_score": 41,
       "total_refs": 1
     },
+    "tabatinga": {
+      "type": "place",
+      "label": "Tabatinga",
+      "aliases": [],
+      "tags": [
+        "brazil",
+        "amazon",
+        "eight-hundred-leagues",
+        "real-place"
+      ],
+      "path": "ta/tabatinga.md",
+      "description": "The first Brazilian town on the Amazon at the Peruvian frontier, a frontier post reached by the jangada in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1453,
+      "prose_chars": 1363,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 1
+    },
     "tabor-island-castaway": {
       "type": "event",
       "label": "The Tabor Island Castaway",
@@ -22054,7 +22147,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 11
+      "total_refs": 12
     },
     "the-moon": {
       "type": "place",
@@ -22207,7 +22300,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 77,
-      "total_refs": 1
+      "total_refs": 2
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -25650,6 +25743,28 @@
       "book": "In the Year 2889",
       "total_refs": 1
     },
+    "yokohama": {
+      "type": "place",
+      "label": "Yokohama",
+      "aliases": [],
+      "tags": [
+        "japan",
+        "around-the-world",
+        "real-place"
+      ],
+      "path": "yo/yokohama.md",
+      "description": "The principal Japanese port where Phileas Fogg lands and re-embarks on his circuit of the globe in Around the World in Eighty Days.",
+      "prose_len": 1341,
+      "prose_chars": 1252,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "zanzibar": {
       "type": "place",
       "label": "Zanzibar",
@@ -25895,6 +26010,9 @@
     "Behring Sea": "behring-sea",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
+    "belem": "belem",
+    "Belem": "belem",
+    "Para": "belem",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "bergen": "bergen",
@@ -26225,6 +26343,8 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "firth-of-clyde": "firth-of-clyde",
+    "Firth of Clyde": "firth-of-clyde",
     "five-weeks-in-a-balloon": "five-weeks-in-a-balloon",
     "Five Weeks in a Balloon": "five-weeks-in-a-balloon",
     "Five Weeks in a Balloon: A Journey of Discovery by Three Englishmen in Africa": "five-weeks-in-a-balloon",
@@ -26335,6 +26455,8 @@
     "GM-ch22": "GM-ch22",
     "go-ahead": "go-ahead",
     "Go-Ahead": "go-ahead",
+    "goat-island": "goat-island",
+    "Goat Island": "goat-island",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -27113,6 +27235,8 @@
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
+    "tabatinga": "tabatinga",
+    "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
     "The Tabor Island Castaway": "tabor-island-castaway",
     "Discovery of Ayrton": "tabor-island-castaway",
@@ -27370,9 +27494,11 @@
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR",
+    "yokohama": "yokohama",
+    "Yokohama": "yokohama",
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1238,
-  "generated": "2026-07-16T03:52:50Z"
+  "page_count": 1243,
+  "generated": "2026-07-16T03:59:04Z"
 }

@@ -1081,6 +1081,14 @@
       "aliases": [],
       "path": "be/behring-strait.md"
     },
+    "belem": {
+      "type": "place",
+      "label": "Belem",
+      "aliases": [
+        "Para"
+      ],
+      "path": "be/belem.md"
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -2625,6 +2633,12 @@
       "aliases": [],
       "path": "ff/FF-ch18.md"
     },
+    "firth-of-clyde": {
+      "type": "place",
+      "label": "Firth of Clyde",
+      "aliases": [],
+      "path": "fi/firth-of-clyde.md"
+    },
     "five-weeks-in-a-balloon": {
       "type": "work",
       "label": "Five Weeks in a Balloon",
@@ -3142,6 +3156,12 @@
       "label": "Go-Ahead",
       "aliases": [],
       "path": "go/go-ahead.md"
+    },
+    "goat-island": {
+      "type": "place",
+      "label": "Goat Island",
+      "aliases": [],
+      "path": "go/goat-island.md"
     },
     "godfrey-morgan": {
       "type": "work",
@@ -6583,6 +6603,12 @@
       ],
       "path": "su/survivors-of-the-chancellor.md"
     },
+    "tabatinga": {
+      "type": "place",
+      "label": "Tabatinga",
+      "aliases": [],
+      "path": "ta/tabatinga.md"
+    },
     "tabor-island-castaway": {
       "type": "event",
       "label": "The Tabor Island Castaway",
@@ -7746,6 +7772,12 @@
       "aliases": [],
       "path": "ye/YEAR.md"
     },
+    "yokohama": {
+      "type": "place",
+      "label": "Yokohama",
+      "aliases": [],
+      "path": "yo/yokohama.md"
+    },
     "zanzibar": {
       "type": "place",
       "label": "Zanzibar",
@@ -7975,6 +8007,9 @@
     "Behring Sea": "behring-sea",
     "behring-strait": "behring-strait",
     "Behring Strait": "behring-strait",
+    "belem": "belem",
+    "Belem": "belem",
+    "Para": "belem",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "bergen": "bergen",
@@ -8305,6 +8340,8 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "firth-of-clyde": "firth-of-clyde",
+    "Firth of Clyde": "firth-of-clyde",
     "five-weeks-in-a-balloon": "five-weeks-in-a-balloon",
     "Five Weeks in a Balloon": "five-weeks-in-a-balloon",
     "Five Weeks in a Balloon: A Journey of Discovery by Three Englishmen in Africa": "five-weeks-in-a-balloon",
@@ -8415,6 +8452,8 @@
     "GM-ch22": "GM-ch22",
     "go-ahead": "go-ahead",
     "Go-Ahead": "go-ahead",
+    "goat-island": "goat-island",
+    "Goat Island": "goat-island",
     "godfrey-morgan": "godfrey-morgan",
     "Godfrey Morgan": "godfrey-morgan",
     "L'École des Robinsons": "godfrey-morgan",
@@ -9193,6 +9232,8 @@
     "survivors-of-the-chancellor": "survivors-of-the-chancellor",
     "The Survivors of the Chancellor": "survivors-of-the-chancellor",
     "The Chancellor": "survivors-of-the-chancellor",
+    "tabatinga": "tabatinga",
+    "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
     "The Tabor Island Castaway": "tabor-island-castaway",
     "Discovery of Ayrton": "tabor-island-castaway",
@@ -9450,9 +9491,11 @@
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
     "YEAR": "YEAR",
+    "yokohama": "yokohama",
+    "Yokohama": "yokohama",
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1238,
-  "generated": "2026-07-16T03:52:50Z"
+  "page_count": 1243,
+  "generated": "2026-07-16T03:59:04Z"
 }

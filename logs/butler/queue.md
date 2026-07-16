@@ -229,10 +229,10 @@
 
 <!-- ✔ [place] Ice Bank — 已建 ice-bank（rev uBUzV8，TTLU real，页内引注 7；南极冰障，定 place/feature，region Antarctic）R67 -->
 - [place] North Sea — 跨源 TTLU:2/RC:2/+7 作；agg 9（单作 max 2）；北海（real；跨源建页）
-- [place] Firth of Clyde — SC:4/UC:2；agg 6（单作 max 4）；克莱德湾（real 苏格兰；跨源建页）
-- [place] Long Island — TTLU:3/ASC:2/AWED:1；agg 6（单作 max 3）；长岛（real；跨源建页）
-- [place] Goat Island — MW:4/RC:2；agg 6（单作 max 4）；山羊岛（real 尼亚加拉；跨源建页）
-- [place] Bay of Bengal — TTLU:3/RM:1/AWED:1；agg 5（单作 max 3）；孟加拉湾（real；跨源建页）
+<!-- ✔ [place] Firth of Clyde — 已建 firth-of-clyde（rev SO3uY4，跨源 SC:4/UC:2，页内引注 6；苏格兰西岸海湾/Duncan 试航地，book In Search of the Castaways，region Scotland）R75 -->
+- [place] Long Island — TTLU:3/ASC:2/AWED:1；agg 6（单作 max 3）；长岛（real；跨源建页）⚠ ASC:2 为里海 Uzun Ada（=「Long Island」译名，异地同名），非纽约长岛 → 真长岛仅 TTLU:3+AWED:1=4<门，暂 hold
+<!-- ✔ [place] Goat Island — 已建 goat-island（rev Dv9GUK，跨源 MW:4/RC:2，页内引注 6；尼亚加拉河山羊岛/美加瀑布分界，book The Master of the World，region New York）R75 -->
+- [place] Bay of Bengal — TTLU:3/RM:1/AWED:1；agg 5（单作 max 3）；孟加拉湾（real；跨源建页）⚠ RM:1 疑子串误配，真 distinctPN 或 TTLU:3+AWED:1=4，建页前须核
 - [place] Cape Bon — OC:3/RC:1/TTLU:1；agg 5（单作 max 3）；邦角（real 突尼斯；跨源建页）
 - [place] Kara Sea — MS/WC（原「Sea of Kara」agg 5）；⚠「kara」子串扫描过宽（含非地名命中 58），建页前须精核；喀拉海（real）
 
@@ -242,10 +242,13 @@
 <!-- ✔ [place] Kolyvan — 已建 kolyvan（rev SsyuOj，MS real，页内引注 8；Tomsk-Krasnoiarsk 电报线镇/Michael 被俘地，region Western Siberia）R74 -->
 <!-- ✔ [place] Ichim — 已建 ichim（rev 8LYuvp，MS real，页内引注 7；Ekaterenburg-Irkutsk 路驿站镇/记者驻停地，region Western Siberia）R74 -->
 <!-- ✔ [place] Baraba — 已建 baraba（rev CSm5sl，MS real，页内引注 7；Obi/Irtych 间沼泽 steppe，alias Baraba Steppe，region Western Siberia）R74 -->
-- [place] Belem — EHLA:43；巴西帕拉州贝伦（real；亚马逊河口城，Jangada 终点）
-- [place] Tabatinga — EHLA:23；巴西亚马逊塔巴廷加（real；巴西/秘鲁边境哨镇）
-- [place] Yokohama — AWED:35/WC:5/ASC:4；日本横滨（real；AWED Fogg 日本登陆港）
+<!-- ✔ [place] Belem — 已建 belem（rev 4RMi1h，EHLA real，页内引注 8；亚马逊河口帕拉州城/jangada 航程终点，alias Para，region Pará (Brazil)）R75 -->
+<!-- ✔ [place] Tabatinga — 已建 tabatinga（rev uDOWJs，EHLA real，页内引注 8；巴西/秘鲁边境首镇/jangada 中停，region Amazonas (Brazil)）R75 -->
+<!-- ✔ [place] Yokohama — 已建 yokohama（rev 8xOdsa，AWED real，页内引注 7；日本首要港/Fogg 太平洋登船地，region Japan）R75 -->
 <!-- R74 NEW1 消费 5：semipolatinsk / tobolsk / kolyvan / ichim / baraba；queue 17→12 -->
+<!-- R75 NEW1 消费 5：belem / tabatinga / yokohama / firth-of-clyde / goat-island；queue 12→7 -->
+<!-- 注：R75 首度批量消费跨源候选（Firth of Clyde SC+UC=6、Goat Island MW+RC=6），页内引注跨作聚合达门。 -->
+<!-- 注：Long Island / Bay of Bengal 复核后降级 hold——ASC「Long Island」为里海 Uzun Ada 异地同名；Bay of Bengal RM:1 疑误配。真单源+确 distinctPN 均 4<门，暂不建。 -->
 <!-- 注：Semipolatinsk 今属哈萨克斯坦（Semey），label 从 Verne 原文旧称，region 记 Siberia (Irtish valley)。 -->
 <!-- 注：五 MS 镇与既建 irkutsk/omsk/tomsk 同源（MS 西伯利亚驿路），Connections 互链。 -->
 <!-- 注：Ichim=Ishim（伊希姆），label 从原文；日志误称「Ogareff 鞭击场景」应为 relay 驿站（MS-013 段群），页内未采该情节。 -->
