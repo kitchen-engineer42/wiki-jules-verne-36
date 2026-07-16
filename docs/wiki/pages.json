@@ -1275,7 +1275,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 9
+      "total_refs": 10
     },
     "africa": {
       "type": "place",
@@ -2057,7 +2057,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 2
+      "total_refs": 3
     },
     "antarctic-sea": {
       "type": "place",
@@ -5128,6 +5128,29 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "denmark": {
+      "type": "place",
+      "label": "Denmark",
+      "aliases": [],
+      "tags": [
+        "place",
+        "northern-europe",
+        "topsy-turvy",
+        "arctic"
+      ],
+      "path": "de/denmark.md",
+      "description": "One of the six polar powers of Topsy-Turvy, whose Arctic possessions and Copenhagen approaches recur across Verne's voyages.",
+      "prose_len": 1340,
+      "prose_chars": 1253,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "detroit-river": {
       "type": "place",
       "label": "Detroit River",
@@ -6440,7 +6463,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "EHLA-ch01": {
       "type": "chapter",
@@ -7265,7 +7288,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 12
+      "total_refs": 13
     },
     "eighty-day-wager": {
       "type": "event",
@@ -10556,7 +10579,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "A Journey to the Center of the Earth",
-      "total_refs": 0
+      "total_refs": 1
     },
     "giant-squid-attack": {
       "type": "event",
@@ -11589,7 +11612,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Topsy-Turvy",
-      "total_refs": 0
+      "total_refs": 1
     },
     "hong-kong": {
       "type": "place",
@@ -13745,7 +13768,7 @@
       "pn_count": 13,
       "wikilink_count": 0,
       "blockquote_count": 0,
-      "total_refs": 0
+      "total_refs": 1
     },
     "melbourne": {
       "type": "place",
@@ -16821,7 +16844,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Ticket No. 9672",
-      "total_refs": 3
+      "total_refs": 4
     },
     "obi": {
       "type": "place",
@@ -18083,6 +18106,29 @@
       "book": "Michael Strogoff",
       "total_refs": 2
     },
+    "persia": {
+      "type": "place",
+      "label": "Persia",
+      "aliases": [],
+      "tags": [
+        "place",
+        "western-asia",
+        "the-adventures-of-a-special-correspondent",
+        "transasiatic-railway"
+      ],
+      "path": "pe/persia.md",
+      "description": "The storied land skirted by the Grand Transasiatic Railway in The Adventures of a Special Correspondent, and the source of the imperial treasure sent from the Shah of Persia to China.",
+      "prose_len": 1382,
+      "prose_chars": 1295,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 1
+    },
     "peru": {
       "type": "place",
       "label": "Peru",
@@ -18443,6 +18489,29 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Journey to the Centre of the Earth",
+      "total_refs": 0
+    },
+    "portugal": {
+      "type": "place",
+      "label": "Portugal",
+      "aliases": [],
+      "tags": [
+        "place",
+        "southern-europe",
+        "eight-hundred-leagues-on-the-amazon",
+        "colonial-empire"
+      ],
+      "path": "po/portugal.md",
+      "description": "The old colonial kingdom whose empire — reaching Brazil, Angola, and the Azores — shadows Eight Hundred Leagues on the Amazon and other Verne voyages.",
+      "prose_len": 1480,
+      "prose_chars": 1393,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 0
     },
     "professor-lidenbrock": {
@@ -19715,7 +19784,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "san-francisco": {
       "type": "place",
@@ -23064,7 +23133,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Off on a Comet",
-      "total_refs": 1
+      "total_refs": 2
     },
     "spencer-island": {
       "type": "place",
@@ -23342,7 +23411,30 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Waif of the Cynthia",
-      "total_refs": 1
+      "total_refs": 2
+    },
+    "switzerland": {
+      "type": "place",
+      "label": "Switzerland",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-europe",
+        "master-zacharius",
+        "alps"
+      ],
+      "path": "sw/switzerland.md",
+      "description": "The Alpine land of Master Zacharius, famed across Verne's works for its clockmakers, mountains, and glaciers.",
+      "prose_len": 1348,
+      "prose_chars": 1261,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Master Zacharius",
+      "total_refs": 0
     },
     "tabatinga": {
       "type": "place",
@@ -24373,7 +24465,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 1
+      "total_refs": 2
     },
     "torres-strait": {
       "type": "place",
@@ -25779,6 +25871,29 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 2
     },
+    "turkey": {
+      "type": "place",
+      "label": "Turkey",
+      "aliases": [],
+      "tags": [
+        "place",
+        "western-asia",
+        "twenty-thousand-leagues",
+        "ottoman-empire"
+      ],
+      "path": "tu/turkey.md",
+      "description": "The Ottoman realm that recurs across Verne's voyages, from the Nautilus off rebellious Crete to the inquiry into the great sea-monster.",
+      "prose_len": 1387,
+      "prose_chars": 1300,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 1
+    },
     "twenty-thousand-leagues": {
       "type": "work",
       "label": "Twenty Thousand Leagues Under the Sea",
@@ -25800,7 +25915,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 20
+      "total_refs": 21
     },
     "twofold-bay": {
       "type": "place",
@@ -27787,6 +27902,8 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "denmark": "denmark",
+    "Denmark": "denmark",
     "detroit-river": "detroit-river",
     "Detroit River": "detroit-river",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
@@ -28658,6 +28775,8 @@
     "P. and O.": "peninsular-and-oriental-company",
     "perm": "perm",
     "Perm": "perm",
+    "persia": "persia",
+    "Persia": "persia",
     "peru": "peru",
     "Peru": "peru",
     "phileas-fogg": "phileas-fogg",
@@ -28685,6 +28804,8 @@
     "port-grauben": "port-grauben",
     "Port Gräuben": "port-grauben",
     "Port Grauben": "port-grauben",
+    "portugal": "portugal",
+    "Portugal": "portugal",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -28995,6 +29116,8 @@
     "The Chancellor": "survivors-of-the-chancellor",
     "sweden": "sweden",
     "Sweden": "sweden",
+    "switzerland": "switzerland",
+    "Switzerland": "switzerland",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -29170,6 +29293,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "turkey": "turkey",
+    "Turkey": "turkey",
     "twenty-thousand-leagues": "twenty-thousand-leagues",
     "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
     "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
@@ -29275,6 +29400,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1313,
-  "generated": "2026-07-16T06:17:18Z"
+  "page_count": 1318,
+  "generated": "2026-07-16T06:24:15Z"
 }

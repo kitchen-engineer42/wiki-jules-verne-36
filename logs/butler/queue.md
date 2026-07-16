@@ -270,13 +270,13 @@
 <!-- ✔ [place] Italy — 已建 italy（rev Fbbtlh，OC real，页内引注 8；彗星 Gallia 掳走之地中海半岛/Nina 代表意大利，book Off on a Comet）R100 -->
 <!-- ✔ [place] Chili — 已建 chili（rev 92Ro46，SC real，页内引注 8；Glenarvan 跨 Cordilleras/Pampas/Valparaiso，alias Chile，book In Search of the Castaways）R100 -->
 <!-- ✔ [place] Bolivia — 已建 bolivia（rev sDklN1，DSCF real，页内引注 10；Harris 伪称之玻利维亚实为 Angola，book Dick Sand；注 book 字段含冒号须加引号）R100 -->
-- [place] Switzerland — TN:4/MZ:2/RM:2/RC:2；20 distinctPN（real；主作跨源，待择确指句最集中之作）
+<!-- ✔ [place] Switzerland — 已建 switzerland（rev Ei4ru3，MZ real，页内引注 8；Master Zacharius 阿尔卑斯钟表之邦，跨源核 ~12 真国名 refs 剔 similes，book Master Zacharius）R101 -->
 <!-- ✔ [place] Ireland — 已建 ireland（rev z2EvHC，TTLU real，页内引注 8；跨大西洋电缆/Great Eastern + WC O'Donoghan 线索，book Twenty Thousand Leagues Under the Sea）R100 -->
 <!-- ✔ [place] Germany — 已建 germany（rev LBBvkP，JCE real，页内引注 9；Lidenbrock/Hamburg 故乡 + 跨源工艺/科学之邦，book A Journey to the Center of the Earth）R100 -->
-- [place] Denmark — TT:10/JCE:4；18 distinctPN（real；主作 Topsy Turvy 或 JCE 起点 Copenhagen）
-- [place] Turkey — MS:4/TTLU:4；17 distinctPN（real；主作跨源 Michael Strogoff/TTLU）
-- [place] Persia — ASC:10/MS:3；16 distinctPN（real；主作 The Adventures of a Special Correspondent）
-- [place] Portugal — DSCF:3/EHLA:3；11 distinctPN（real；主作跨源，待择）
+<!-- ✔ [place] Denmark — 已建 denmark（rev wfgpPd，TT real，页内引注 8；六极权之一/Disko 岛北极领地 + JCE Copenhagen 起点，Eric Baldenak 系代表非污染，book Topsy-Turvy）R101 -->
+<!-- ✔ [place] Turkey — 已建 turkey（rev m6eCkX，TTLU real，页内引注 7；奥斯曼之邦/克里特叛乱 + 海怪调查，剔 "Turkey carpets" 形容词，book Twenty Thousand Leagues Under the Sea）R101 -->
+<!-- ✔ [place] Persia — 已建 persia（rev 3GhZgl，ASC real，页内引注 9；大铁路沿线/Shah 宝藏 Teheran 支线，剔 TTLU-001-021「the Persia」汽船，book The Adventures of a Special Correspondent）R101 -->
+<!-- ✔ [place] Portugal — 已建 portugal（rev JBPqhe，EHLA real，页内引注 9；殖民王国 Brazil/Angola/Azores，King John VI 钻石，book Eight Hundred Leagues on the Amazon）R101 -->
 - [place] Tibet — ASC:6/RC:3；9 distinctPN（real；主作 The Adventures of a Special Correspondent）
 - [place] Arabia — TTLU:5；8 distinctPN（real；主作 Twenty Thousand Leagues Under the Sea，红海/Nautilus 掠岸）
 - [place] Madagascar — DSCF:4/TT:3；7 distinctPN（real；主作跨源 DSCF/TT）

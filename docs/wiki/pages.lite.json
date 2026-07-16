@@ -1540,6 +1540,12 @@
       ],
       "path": "da/davis-strait.md"
     },
+    "denmark": {
+      "type": "place",
+      "label": "Denmark",
+      "aliases": [],
+      "path": "de/denmark.md"
+    },
     "detroit-river": {
       "type": "place",
       "label": "Detroit River",
@@ -5421,6 +5427,12 @@
       "aliases": [],
       "path": "pe/perm.md"
     },
+    "persia": {
+      "type": "place",
+      "label": "Persia",
+      "aliases": [],
+      "path": "pe/persia.md"
+    },
     "peru": {
       "type": "place",
       "label": "Peru",
@@ -5526,6 +5538,12 @@
         "Port Grauben"
       ],
       "path": "po/port-grauben.md"
+    },
+    "portugal": {
+      "type": "place",
+      "label": "Portugal",
+      "aliases": [],
+      "path": "po/portugal.md"
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -6996,6 +7014,12 @@
       "aliases": [],
       "path": "sw/sweden.md"
     },
+    "switzerland": {
+      "type": "place",
+      "label": "Switzerland",
+      "aliases": [],
+      "path": "sw/switzerland.md"
+    },
     "tabatinga": {
       "type": "place",
       "label": "Tabatinga",
@@ -7738,6 +7762,12 @@
       "label": "Twenty Thousand Leagues Under the Sea — CHAPTER 23",
       "aliases": [],
       "path": "tt/TTLU-ch47.md"
+    },
+    "turkey": {
+      "type": "place",
+      "label": "Turkey",
+      "aliases": [],
+      "path": "tu/turkey.md"
     },
     "twenty-thousand-leagues": {
       "type": "work",
@@ -8597,6 +8627,8 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "denmark": "denmark",
+    "Denmark": "denmark",
     "detroit-river": "detroit-river",
     "Detroit River": "detroit-river",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
@@ -9468,6 +9500,8 @@
     "P. and O.": "peninsular-and-oriental-company",
     "perm": "perm",
     "Perm": "perm",
+    "persia": "persia",
+    "Persia": "persia",
     "peru": "peru",
     "Peru": "peru",
     "phileas-fogg": "phileas-fogg",
@@ -9495,6 +9529,8 @@
     "port-grauben": "port-grauben",
     "Port Gräuben": "port-grauben",
     "Port Grauben": "port-grauben",
+    "portugal": "portugal",
+    "Portugal": "portugal",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -9805,6 +9841,8 @@
     "The Chancellor": "survivors-of-the-chancellor",
     "sweden": "sweden",
     "Sweden": "sweden",
+    "switzerland": "switzerland",
+    "Switzerland": "switzerland",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -9980,6 +10018,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "turkey": "turkey",
+    "Turkey": "turkey",
     "twenty-thousand-leagues": "twenty-thousand-leagues",
     "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
     "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
@@ -10085,6 +10125,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1313,
-  "generated": "2026-07-16T06:17:18Z"
+  "page_count": 1318,
+  "generated": "2026-07-16T06:24:15Z"
 }
