@@ -14296,6 +14296,28 @@
       "book": "Michael Strogoff",
       "total_refs": 0
     },
+    "kazeh": {
+      "type": "place",
+      "label": "Kazeh",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "central-africa"
+      ],
+      "path": "ka/kazeh.md",
+      "description": "An important establishment in the interior of Central Africa, a rendezvous for traders and caravans reached by Dr. Ferguson's balloon in Five Weeks in a Balloon.",
+      "prose_len": 2134,
+      "prose_chars": 2049,
+      "h2_count": 4,
+      "pn_count": 17,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "kazounde": {
       "type": "place",
       "label": "Kazounde",
@@ -31446,6 +31468,8 @@
     "kamtschatka": "kamtschatka",
     "Kamtschatka": "kamtschatka",
     "Kamchatka": "kamtschatka",
+    "kazeh": "kazeh",
+    "Kazeh": "kazeh",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
     "kentucky": "kentucky",
@@ -32598,6 +32622,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1445,
-  "generated": "2026-07-17T06:21:37Z"
+  "page_count": 1446,
+  "generated": "2026-07-17T06:35:59Z"
 }

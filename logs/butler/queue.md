@@ -118,7 +118,7 @@
 
 <!-- ═══ R170 SCN28 深层 discover（R166 补种批消 3+1 DUPLICATE+2 DEFER 全尽、净 buildable 罄；净 buildable=0 实务触发，HK-queue-size-scope 情形；宽扫未测富矿：FWB 非洲尼罗河探险史 toponym + SC 巴塔哥尼亚/澳洲城，feature-aware 双式查重）：new_candidates=5 buildable（≥3 → streak 保持 0）═══ -->
 <!-- 查重命中既有页（不入队，feature-aware {name}+{feature}-{name} 双测）：Zanzibar/Twofold Bay(twofold-bay)/Gibraltar/Aden ——HK-discover-existing-type-blindspot 主动规避，建前捕获 -->
-- [place] Kazeh — 16 distinctPN（real；region East Africa；FWB Five Weeks in a Balloon：中非商旅商队 central rendezvous；004-027 抵 Kazeh 商旅集散/004-028 26 May 再入/004-029 8 月返；≥5 solid，主体确指）
+- [place] ~~Kazeh~~ ✔ **消费 R172**（rev T1DAf6，净 solid 12，region Central Africa 定稿）— 16 distinctPN（real；FWB Five Weeks in a Balloon：中非商旅商队 central rendezvous；004-027 抵 Kazeh 商旅集散/004-028 26 May 再入/004-029 8 月返；剔 014-001/015-001 章题列举+019-025 松散 enum）
 - [place] Gondokoro — 8 distinctPN（real；region East Africa；FWB：白尼罗河探险北限点；004-016 1840 Werne 探险止于 Gondokoro/004-018 Penney 越 1 度/004-019 Lejean 不得过；≥5 solid，探险史限点确指）
 - [place] Carmen — 7 distinctPN（real；region Patagonia；SC In Search of the Castaways：Carmen de Patagones，Carmen→Mendoza 路线起点；016-018/016-019 Carmen route；⚠ 建前复核：剔 009-019 命名 Tehuelches 段，确认净 ≥5 solid town）
 - [place] Tandil — 8 distinctPN（real；region Patagonia；SC；⚠ 建前消歧：Sierra Tandil（山脉）vs village of Tandil（020-044 城），须分离仅取 village 确指，参 Concepcion/Talcahuano 城 vs 地物先例；净 town solid 待定）

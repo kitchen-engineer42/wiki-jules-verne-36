@@ -4283,6 +4283,12 @@
       ],
       "path": "ka/kamtschatka.md"
     },
+    "kazeh": {
+      "type": "place",
+      "label": "Kazeh",
+      "aliases": [],
+      "path": "ka/kazeh.md"
+    },
     "kazounde": {
       "type": "place",
       "label": "Kazounde",
@@ -10124,6 +10130,8 @@
     "kamtschatka": "kamtschatka",
     "Kamtschatka": "kamtschatka",
     "Kamchatka": "kamtschatka",
+    "kazeh": "kazeh",
+    "Kazeh": "kazeh",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
     "kentucky": "kentucky",
@@ -11276,6 +11284,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1445,
-  "generated": "2026-07-17T06:21:37Z"
+  "page_count": 1446,
+  "generated": "2026-07-17T06:35:59Z"
 }
