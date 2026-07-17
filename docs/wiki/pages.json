@@ -15088,6 +15088,26 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 0
     },
+    "massachusetts": {
+      "type": "place",
+      "label": "Massachusetts",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "new-england"
+      ],
+      "path": "ma/massachusetts.md",
+      "description": "New England state; home of Cyrus Smith, and site of the Cambridge observatory in Verne's astronomical novels.",
+      "prose_len": 2370,
+      "prose_chars": 2277,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "master-zacharius": {
       "type": "work",
       "label": "Master Zacharius",
@@ -31088,6 +31108,8 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "massachusetts": "massachusetts",
+    "Massachusetts": "massachusetts",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -32111,6 +32133,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1425,
-  "generated": "2026-07-17T03:00:05Z"
+  "page_count": 1426,
+  "generated": "2026-07-17T03:04:50Z"
 }

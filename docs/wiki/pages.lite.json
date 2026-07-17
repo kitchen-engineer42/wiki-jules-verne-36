@@ -4517,6 +4517,12 @@
       ],
       "path": "ma/marseilles.md"
     },
+    "massachusetts": {
+      "type": "place",
+      "label": "Massachusetts",
+      "aliases": [],
+      "path": "ma/massachusetts.md"
+    },
     "master-zacharius": {
       "type": "work",
       "label": "Master Zacharius",
@@ -10075,6 +10081,8 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "massachusetts": "massachusetts",
+    "Massachusetts": "massachusetts",
     "master-zacharius": "master-zacharius",
     "Master Zacharius": "master-zacharius",
     "Maître Zacharius": "master-zacharius",
@@ -11098,6 +11106,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1425,
-  "generated": "2026-07-17T02:59:42Z"
+  "page_count": 1426,
+  "generated": "2026-07-17T03:03:19Z"
 }
