@@ -41,7 +41,10 @@
 
 - [place] Michigan — 15 distinctPN（real；region US；须与 lake-michigan 既有页区分州 vs 湖）
 - [place] Missouri — 14 distinctPN（real；疑多指 Missouri River；建前须查 missouri-river 未建，判州 vs 河主体）
+<!-- ✘ R148 DEFER：净州 solid ≈0——几乎全为 Missouri River（AWED-028-030/029-006、EHLA-008-006、RC-009-015/009-017、TTLU-043-012）或州列举（AWED-027-015/MW-004-013/008-041/008-044/RC-009-008/RM-023-013）。州主体不可建。 -->
 - [place] Ohio — 14 distinctPN（real；同上，疑 Ohio River；ohio-river 未建）
+<!-- ✔ R148 建 ohio rev=5p8Ll5 featured；净 solid 6（MW×5 011-004/011-006/012-029/011-021/011-024 Terror 追捕 Toledo/Lake Erie 岸 + JCE-039-008 marshes of Ohio 猛犸骨）；剔州列举（MW-004-013/008-044/RC-009-008/RM-023-013/AWED-027-015/031-037）+ 铁路名（FEM-003-008 Ohio railroad）。均为州/城/湖岸指，无 Ohio River 混指。 -->
+
 - [place] Colorado — 13 distinctPN（real；疑 Colorado River；colorado-river 未建）
 <!-- ✔ [place] Nevada — 已建 nevada（rev SQvvj3，AWED real，5 distinctPN；银州/Carson Valley 入州/Humboldt River+Range/Sierra 西壁/Godfrey Morgan 银财，region United States。剔 Sierra Nevada 山脉泛指 5 项 + GM-006-040 泛指）R135 -->
 <!-- ✔ [place] Wisconsin — 已建 wisconsin（rev sPLP1E，The Master of the World real，7 distinctPN；Madison 首府/汽车赛（Prairie-du-Chien→Milwaukee）/神秘机器破纪录/Chicago 腹地，region United States。剔 MW 枚举 2 项）R137 -->

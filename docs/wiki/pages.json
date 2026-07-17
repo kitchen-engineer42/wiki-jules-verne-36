@@ -19518,6 +19518,27 @@
       "quality_score": 41,
       "total_refs": 12
     },
+    "ohio": {
+      "type": "place",
+      "label": "Ohio",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states"
+      ],
+      "path": "oh/ohio.md",
+      "description": "State of the United States on the southern shore of Lake Erie; the theatre of the pursuit of the Terror in The Master of the World.",
+      "prose_len": 1956,
+      "prose_chars": 1865,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "omaha": {
       "type": "place",
       "label": "Omaha",
@@ -31459,6 +31480,8 @@
     "Off on a Comet": "off-on-a-comet",
     "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
+    "ohio": "ohio",
+    "Ohio": "ohio",
     "omaha": "omaha",
     "Omaha": "omaha",
     "omsk": "omsk",
@@ -32202,6 +32225,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1429,
-  "generated": "2026-07-17T03:19:56Z"
+  "page_count": 1430,
+  "generated": "2026-07-17T03:23:09Z"
 }
