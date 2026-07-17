@@ -734,7 +734,7 @@
 
 <!-- ═══ R201 SCN28 discover（R197 队列 R200 建罄，queue(place)=0 → §3(3)&§3(4) 触发；FC 极地长尾近罄〔多既有/净<5〕，转掘 SC 巴塔哥尼亚+澳洲 + EHLA 亚马逊 toponym，净新 5 buildable 补种；非建页，since_discover 归 0，discover_streak_low=0）═══ -->
 <!-- 入队均已 pages.json 子串 + `the-` 前缀双查（承 HK-dupcheck-the-prefix-blindspot，R198 教训）。既有排除：coronation-gulf/great-slave-lake/fort-confidence/fort-providence/sierra-tandil/fort-independence/bay-of-talcahuano/twofold-bay/snowy-river/cape-bernouilli/torres-strait/new-america/victoria-bay 等（皆已建）；Mackenzie〔river 净<5〕/Fort Good Hope（2）/Fort Resolution（2）/Fort Enterprise（4）/Turnagain（3）/Fort Franklin（3）/Cape Dundas（4）/Bathurst Inlet（1）/Mendoza（4）/Neuquem（2）/Araucania（3）DEFER（净<5）。 -->
-<!-- ○ [place] Rio Negro — rio-negro NEW（EHLA×40 主 / SC×4；**亚马逊大支流**〔The Giant Raft/Jangada 顺流之河〕；同名异指剔 4 SC 巴塔哥尼亚 Rio Negro，采 40 EHLA 亚马逊 referent；region Amazon Basin，real）建序 1 -->
+<!-- ✔ [place] Rio Negro — 已建 rio-negro（R202 NEW1，rev XOw23s，14 solid EHLA PN；亚马逊大支流，剔 4 SC 巴塔哥尼亚同名异指） -->
 <!-- ○ [place] Wimerra — wimerra NEW（SC×11 单指；澳洲 Victoria 省河流/地区〔143d meridian，Apsley 教区〕，Ayrton 叛迹枢纽〔SC-037-001/SC-043-034〕；region Australia，real）建序 2 -->
 <!-- ○ [place] Guamini — guamini NEW（SC×10 单指；巴塔哥尼亚 salt-lake/locale；region Patagonia，real）建序 3 -->
 <!-- ○ [place] Carmen — carmen NEW（SC×7 单指；巴塔哥尼亚 Rio Negro 河口镇〔SC-021-062 Tandil–Carmen 商道 / SC-016-019 Carmen–Mendoza route〕；region Patagonia，real）建序 4 -->

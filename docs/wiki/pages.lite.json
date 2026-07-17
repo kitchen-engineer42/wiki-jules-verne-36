@@ -6481,6 +6481,12 @@
       ],
       "path": "ri/rio-de-la-plata.md"
     },
+    "rio-negro": {
+      "type": "place",
+      "label": "Rio Negro",
+      "aliases": [],
+      "path": "ri/rio-negro.md"
+    },
     "RM-ch01": {
       "type": "chapter",
       "label": "Round the Moon — CHAPTER I",
@@ -10845,6 +10851,8 @@
     "Rio de la Plata": "rio-de-la-plata",
     "La Plata": "rio-de-la-plata",
     "River Plate": "rio-de-la-plata",
+    "rio-negro": "rio-negro",
+    "Rio Negro": "rio-negro",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -11488,6 +11496,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1468,
-  "generated": "2026-07-17T09:01:12Z"
+  "page_count": 1469,
+  "generated": "2026-07-17T09:08:50Z"
 }

@@ -21711,6 +21711,30 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "rio-negro": {
+      "type": "place",
+      "label": "Rio Negro",
+      "aliases": [],
+      "tags": [
+        "place",
+        "amazon",
+        "eight-hundred-leagues-on-the-amazon",
+        "river",
+        "brazil"
+      ],
+      "path": "ri/rio-negro.md",
+      "description": "The greatest black-water tributary of the Amazon, joining the main river at Manaos in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 2362,
+      "prose_chars": 2273,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "RM-ch01": {
       "type": "chapter",
       "label": "Round the Moon — CHAPTER I",
@@ -32562,6 +32586,8 @@
     "Rio de la Plata": "rio-de-la-plata",
     "La Plata": "rio-de-la-plata",
     "River Plate": "rio-de-la-plata",
+    "rio-negro": "rio-negro",
+    "Rio Negro": "rio-negro",
     "RM-ch01": "RM-ch01",
     "RM-ch02": "RM-ch02",
     "RM-ch03": "RM-ch03",
@@ -33205,6 +33231,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1468,
-  "generated": "2026-07-17T09:01:12Z"
+  "page_count": 1469,
+  "generated": "2026-07-17T09:08:50Z"
 }
