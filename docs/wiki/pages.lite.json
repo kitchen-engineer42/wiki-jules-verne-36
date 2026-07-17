@@ -4325,6 +4325,12 @@
       "aliases": [],
       "path": "ke/kentucky.md"
     },
+    "kerguelen": {
+      "type": "place",
+      "label": "Kerguelen",
+      "aliases": [],
+      "path": "ke/kerguelen.md"
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -10182,6 +10188,8 @@
     "Kazounde": "kazounde",
     "kentucky": "kentucky",
     "Kentucky": "kentucky",
+    "kerguelen": "kerguelen",
+    "Kerguelen": "kerguelen",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -11335,6 +11343,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1452,
-  "generated": "2026-07-17T07:07:44Z"
+  "page_count": 1453,
+  "generated": "2026-07-17T07:18:11Z"
 }

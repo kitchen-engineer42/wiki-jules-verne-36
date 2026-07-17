@@ -692,5 +692,11 @@
 <!-- R17 SCN28 broadened 复扫新增（borderline place/org，按铁路线路/基础设施定 place，待 place 类型轮消费）-->
 <!-- ✔ [place] Pacific Railroad — 已建 pacific-railroad（rev yVmD3f，AWED，borderline 定 place）R31 -->
 
+<!-- ═══ R179 probe-build（DSCF 安哥拉队列 R178 建齐；本轮 NEW1 primary 候选连撞 stale-queue 3 DUPLICATE：Samarkand=既有 samarkand〔R158〕/Timbuktu=既有 timbuctoo〔R154 已标〕/Tampa=既有 tampa-town——查重信号须以文件系统为准，queue 用后随 ✔ 注标记消费而非全用删除线，裸列表行易误读为未消费〔HK-discover-existing-type-blindspot 再现〕。同轮 probe 补矿：MS 西伯利亚主站/ASC 中亚站/DSCF 安哥拉/FWB 非洲主 toponym 均已建齐；改扫 AM/JCE/FEM 未采 toponym）═══ -->
+<!-- ✔ [place] Kerguelen — 已建 kerguelen（rev 5PAktF，real，region Southern Indian Ocean，AM×10 净 solid 5：001-003 坐标/001-004 人口/001-027 捕鲸港/004-049 Pym 峰/020-055 Halbrane 起航；接 an-antarctic-mystery）R179 -->
+<!-- below-gate（本轮 re-vet DEFER）：Missouri（14 distinctPN 但全为 tributary/州列举，河本体无描述，净<5）、Louisiana（7，净4：1803 购史+离岸+creoles）、Abyssinia（5，净3：Bruce 路线+custom）、Tioumen（5，净3：Ural 坡+抵达+人口，剔 2 电报站列举）。genuinely-NEW 但 below-gate/DUPLICATE：Baikal=lake-baikal、Kazan(2)。 -->
+<!-- 未采待 R180+ probe：Sneffels（JCE×7 净≥5：Saknussemm 密文火山口/Scartaris 影/several craters，genuinely-NEW，下轮优先）、Irtish 河（MS，待严剔）、Obi 河（待查）、Tobol 河（待查）。 -->
+
+
 
 ## P3 — 发现型（每11轮触发）

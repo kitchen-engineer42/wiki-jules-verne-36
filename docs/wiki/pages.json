@@ -14450,6 +14450,29 @@
       "book": "Facing the Flag",
       "total_refs": 0
     },
+    "kerguelen": {
+      "type": "place",
+      "label": "Kerguelen",
+      "aliases": [],
+      "tags": [
+        "place",
+        "southern-ocean",
+        "an-antarctic-mystery",
+        "island"
+      ],
+      "path": "ke/kerguelen.md",
+      "description": "The desolate southern island group where the narrator joins the Halbrane in An Antarctic Mystery.",
+      "prose_len": 1441,
+      "prose_chars": 1360,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -31617,6 +31640,8 @@
     "Kazounde": "kazounde",
     "kentucky": "kentucky",
     "Kentucky": "kentucky",
+    "kerguelen": "kerguelen",
+    "Kerguelen": "kerguelen",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -32770,6 +32795,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1452,
-  "generated": "2026-07-17T07:07:44Z"
+  "page_count": 1453,
+  "generated": "2026-07-17T07:18:11Z"
 }
