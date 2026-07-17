@@ -31,7 +31,25 @@
 <!-- ✔ [place] Panama — R130 消歧建成 isthmus-of-panama（rev 8s2wIV，Dick Sand real，region Central America，页内引注 7：DSCF-001-016/038-004、WC-015-013、GM-005-011、FEM-024-020、TTLU-026-011、ACH-006-020；定主体=Isthmus/航路捷径，统合 isthmus(4)+way-of-Panama 航路(3)；剔 city 义(TT-015-024/TTLU-026-019 wages)与 gulf 义单列<门；接 pacific-ocean/cape-horn/cape-of-good-hope/andes/from-the-earth-to-the-moon/dick-sand-a-captain-at-fifteen/the-waif-of-the-cynthia）R130 -->
 <!-- ✔ Panama consumed R130（建为 isthmus-of-panama）-->
 <!-- ⏸ 残 Panama City（TT/TTLU 2 PN<门）+ Gulf of Panama（TTLU-026-011 单 PN<门）分列 hold，待专项凑句 -->
-<!-- ═══ R130 后 place 开放强候选归零：仅余洲级 Asia/Europe/America（HOLD，须严筛确指句）+ Long Island(clean 4<门)。下轮 discover 恐低产，streak 或向 CLOSE 逼近。═══ -->
+<!-- ═══ R130 后曾误判 place 强候选归零 —— R131 系统重扫（州级/区域级 grep 校对 existing pages）证伪：仍有 10+ 干净可建候选（前轮欠采样，仅盯洲级泛指项）。CLOSE 提前，续 NEW1 广度。═══ -->
+<!-- ═══ R131 SCN28-style 重扫补种（州级/非洲区域级；均已比对 existing pages 无重复，distinctPN≥5 达门；泛指/河页重叠已初筛）═══ -->
+- [place] Texas — FEM 17+MW 1+RM 1=19 distinctPN（real；region US；FEM Ch.11 Texas↔Florida 争 Columbiad 铸址主线；Galveston Bay/26 counties/1836 独立；R131 建 texas）
+- [place] Senegal — FWB 主源 25 distinctPN（real；region West Africa；Senegal River/Fonta-Jallon 气球航路；senegal-river 页不存在，无重叠）
+- [place] Utah — AWED 9 distinctPN（real；region US；摩门领地/Great Salt Lake/Brigham Young；须与 salt-lake-city 区分主体=州/领地）
+- [place] Illinois — 21 distinctPN（real；region US；待筛泛指 vs 确指，疑 Chicago/railroad 列举）
+- [place] Michigan — 15 distinctPN（real；region US；须与 lake-michigan 既有页区分州 vs 湖）
+- [place] Missouri — 14 distinctPN（real；疑多指 Missouri River；建前须查 missouri-river 未建，判州 vs 河主体）
+- [place] Ohio — 14 distinctPN（real；同上，疑 Ohio River；ohio-river 未建）
+- [place] Colorado — 13 distinctPN（real；疑 Colorado River；colorado-river 未建）
+- [place] Nevada — 10 distinctPN（real；region US；AWED 横美铁路段）
+- [place] Wisconsin — 10 distinctPN（real；region US；待筛）
+- [place] Iowa — 8 distinctPN（real；region US；RC 平原/AWED 铁路）
+- [place] Oregon — 8 distinctPN（real；region US Pacific NW）
+- [place] Nebraska — AWED 4+RC 2+TTLU 1=7 distinctPN（real；region US；太平洋铁路州/Albatross 掠 Bad Lands/Aronnax badlands 远征）
+- [place] Soudan — 15 distinctPN（real；region Central Africa；FWB 气球航路核心）
+- [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）
+- [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
+- [place] Indiana — 5 distinctPN（real；region US；勉达门待筛）
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
 <!-- ✔ Mont Blanc consumed R129 -->
 <!-- ✔ [place] Bay of Bengal — 已建 bay-of-bengal（rev zjp3jz，Twenty Thousand Leagues real，region Indian Ocean，页内引注 5：TTLU-014-028/025-040/026-011、AWED-016-005、RM-010-016；Nemo 珍珠场/黑潮源/恒河浮尸/Andaman 群岛/从月看地认真湾；⚠ RM 偏 oblique，AWED+TTLU 4 确指为主干；接 indian-ocean/nautilus/captain-nemo/twenty-thousand-leagues/around-the-world-in-eighty-days/round-the-moon）R129 -->

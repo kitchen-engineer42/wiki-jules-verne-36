@@ -7630,6 +7630,12 @@
       ],
       "path": "te/teheran.md"
     },
+    "texas": {
+      "type": "place",
+      "label": "Texas",
+      "aliases": [],
+      "path": "te/texas.md"
+    },
     "thames": {
       "type": "place",
       "label": "Thames",
@@ -10713,6 +10719,8 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "texas": "texas",
+    "Texas": "texas",
     "thames": "thames",
     "Thames": "thames",
     "River Thames": "thames",
@@ -11010,6 +11018,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1414,
-  "generated": "2026-07-16T11:17:40Z"
+  "page_count": 1415,
+  "generated": "2026-07-17T02:06:44Z"
 }

@@ -5519,7 +5519,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "From the Earth to the Moon",
-      "total_refs": 46
+      "total_refs": 47
     },
     "congo": {
       "type": "place",
@@ -10216,7 +10216,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "From the Earth to the Moon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "flotsam-point": {
       "type": "place",
@@ -10463,7 +10463,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 20
+      "total_refs": 21
     },
     "fulgurator": {
       "type": "technology",
@@ -12384,7 +12384,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 1
+      "total_refs": 2
     },
     "gulf-stream": {
       "type": "place",
@@ -12453,7 +12453,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 24
+      "total_refs": 25
     },
     "gun-cotton": {
       "type": "technology",
@@ -15186,7 +15186,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "From the Earth to the Moon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "MI-ch01": {
       "type": "chapter",
@@ -25521,6 +25521,27 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "texas": {
+      "type": "place",
+      "label": "Texas",
+      "aliases": [],
+      "tags": [
+        "place",
+        "exploration"
+      ],
+      "path": "te/texas.md",
+      "description": "The vast southern Union state that vied with Florida to host the Gun Club Columbiad in From the Earth to the Moon.",
+      "prose_len": 2118,
+      "prose_chars": 2033,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "From the Earth to the Moon",
+      "total_refs": 0
+    },
     "thames": {
       "type": "place",
       "label": "Thames",
@@ -31563,6 +31584,8 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "texas": "texas",
+    "Texas": "texas",
     "thames": "thames",
     "Thames": "thames",
     "River Thames": "thames",
@@ -31860,6 +31883,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1414,
-  "generated": "2026-07-16T11:17:40Z"
+  "page_count": 1415,
+  "generated": "2026-07-17T02:06:44Z"
 }
