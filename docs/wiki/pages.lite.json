@@ -4239,6 +4239,12 @@
       "aliases": [],
       "path": "ka/kazounde.md"
     },
+    "kentucky": {
+      "type": "place",
+      "label": "Kentucky",
+      "aliases": [],
+      "path": "ke/kentucky.md"
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -9971,6 +9977,8 @@
     "Kamchatka": "kamtschatka",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
+    "kentucky": "kentucky",
+    "Kentucky": "kentucky",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -11090,6 +11098,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1424,
-  "generated": "2026-07-17T02:54:28Z"
+  "page_count": 1425,
+  "generated": "2026-07-17T02:59:42Z"
 }

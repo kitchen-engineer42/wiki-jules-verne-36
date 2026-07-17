@@ -14144,6 +14144,26 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 3
     },
+    "kentucky": {
+      "type": "place",
+      "label": "Kentucky",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "caves"
+      ],
+      "path": "ke/kentucky.md",
+      "description": "Southern US state, home of the Mammoth Cave, Verne's recurring benchmark for subterranean grandeur.",
+      "prose_len": 2274,
+      "prose_chars": 2181,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -30970,6 +30990,8 @@
     "Kamchatka": "kamtschatka",
     "kazounde": "kazounde",
     "Kazounde": "kazounde",
+    "kentucky": "kentucky",
+    "Kentucky": "kentucky",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -32089,6 +32111,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1424,
-  "generated": "2026-07-17T02:56:06Z"
+  "page_count": 1425,
+  "generated": "2026-07-17T03:00:05Z"
 }
