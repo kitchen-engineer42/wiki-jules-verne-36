@@ -51,7 +51,7 @@
 - [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
 - [place] Indiana — 5 distinctPN（real；region US；勉达门待筛）
 <!-- ═══ R139 SCN28 表层 discover（since_discover=10 且 queue=9<10 触发）：州级/城级 toponym 复扫，凑 ≥5 distinctPN 且未建。new_candidates=5 buildable（streak→0）═══ -->
-- [place] Connecticut — 15 distinctPN（AM 9+MW 3+DSCF/RC/RM）；real；region US；**强候选**：AM《Sphinx of Ice》Jeorling 故乡（Providence 归属）；MW 神秘机器出没
+<!-- ✔ [place] Connecticut — 已建 connecticut（rev 1j3x7g，An Antarctic Mystery real，region United States，页内引注 7：AM-001-019/003-048/004-023/007-038 Jeorling 故乡（Providence 归属/Pym 关联）+ MW-006-025 Terror 巡 CT 岸/MW-007-055 Bridgeport The Protector 两栖艇 + RC-018-016 1882 CT 暴风；剔 DSCF-019-010 废奴州列举泛指/RM-023-013 巡游列举；接 an-antarctic-mystery/the-master-of-the-world/robur-the-conqueror）R140 -->
 - [place] Sacramento — 11 distinctPN（AWED 4+GM 5+EHLA 2）；real；region California；AWED 太平洋铁路西端/San Francisco↔Sacramento 段/Sacramento River 汽船；GM 加州淘金
 - [place] Pennsylvania — 18 distinctPN 表面；solid ≥5（DSCF 3 Tom 等自由黑人所属州 + MW 2《Master of the World》剧场州）；real；region US；剔州列举泛指
 - [place] Kentucky — 14 distinctPN 表面；solid 5（FF 3 Mammoth Cave 洞窟对照 + JCE 1 猛犸洞 + MW 1 神秘机器 Frankfort）；real；region US；剔 MI「Kentucky oxen」牛种喻 + 州列举

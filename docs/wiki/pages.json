@@ -5544,6 +5544,26 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
+    "connecticut": {
+      "type": "place",
+      "label": "Connecticut",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "new-england"
+      ],
+      "path": "co/connecticut.md",
+      "description": "New England state, home of Jeorling, the narrator of An Antarctic Mystery.",
+      "prose_len": 2391,
+      "prose_chars": 2300,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "conseil": {
       "type": "character",
       "label": "Conseil",
@@ -30318,6 +30338,8 @@
     "Columbiad": "columbiad",
     "congo": "congo",
     "Congo": "congo",
+    "connecticut": "connecticut",
+    "Connecticut": "connecticut",
     "conseil": "conseil",
     "Conseil": "conseil",
     "constantinople": "constantinople",
@@ -32021,6 +32043,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1421,
-  "generated": "2026-07-17T02:32:12Z"
+  "page_count": 1422,
+  "generated": "2026-07-17T02:47:12Z"
 }

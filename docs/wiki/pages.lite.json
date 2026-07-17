@@ -1657,6 +1657,12 @@
       "aliases": [],
       "path": "co/congo.md"
     },
+    "connecticut": {
+      "type": "place",
+      "label": "Connecticut",
+      "aliases": [],
+      "path": "co/connecticut.md"
+    },
     "conseil": {
       "type": "character",
       "label": "Conseil",
@@ -9363,6 +9369,8 @@
     "Columbiad": "columbiad",
     "congo": "congo",
     "Congo": "congo",
+    "connecticut": "connecticut",
+    "Connecticut": "connecticut",
     "conseil": "conseil",
     "Conseil": "conseil",
     "constantinople": "constantinople",
@@ -11066,6 +11074,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1421,
-  "generated": "2026-07-17T02:32:12Z"
+  "page_count": 1422,
+  "generated": "2026-07-17T02:46:24Z"
 }
