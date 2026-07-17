@@ -69,6 +69,13 @@
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
 - [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold
+<!-- ═══ R150 SCN28 表层 discover（since_evv5=0 归零后 since_discover=10≥10 触发 §3(3)）：非美城级/非洲/合集城级 toponym 复扫；均比对 existing pages 无重复。new_candidates=5 buildable（≥3 → streak 保持 0）═══ -->
+- [place] Nantucket — 10 distinctPN（real；region United States；An Antarctic Mystery：Pym 出生地/Bedford School；~8 solid AM 主体）
+- [place] Tunis — 10 distinctPN（real；region North Africa；Off on a Comet：Bay of Tunis/Cape Matafuz→Tunis/coast of Tunis，OC×5+FWB-004-007+RC-015-004）
+- [place] Timbuktu — 7 distinctPN（real；region West Africa；Robur the Conqueror：Albatross 掠 Timbuktu，RC×7 015-013/016/020/022/046/051+017-003）
+- [place] Tripoli — 9 distinctPN（real；region North Africa；Five Weeks in a Balloon：出发/复得 Tripoli，FWB×5+OC×2+TT）
+- [place] Maryland — 6 distinctPN（real；region United States；From the Earth to the Moon：Baltimore Maryland/Gun Club 本部，FEM×2+TT×3 Baltimore 拍卖；5 clean solid）
+<!-- ⏸ Georgia — 24 distinctPN 但不可建为单页：裂为 New/South Georgia 南极岛（AM×6）与 Caucasus/俄省 Georgia（ASC×3），无干净美州 Georgia 指。split-candidate hold，待分别专项凑句 -->
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
 <!-- ✔ Mont Blanc consumed R129 -->
 <!-- ✔ [place] Bay of Bengal — 已建 bay-of-bengal（rev zjp3jz，Twenty Thousand Leagues real，region Indian Ocean，页内引注 5：TTLU-014-028/025-040/026-011、AWED-016-005、RM-010-016；Nemo 珍珠场/黑潮源/恒河浮尸/Andaman 群岛/从月看地认真湾；⚠ RM 偏 oblique，AWED+TTLU 4 确指为主干；接 indian-ocean/nautilus/captain-nemo/twenty-thousand-leagues/around-the-world-in-eighty-days/round-the-moon）R129 -->
