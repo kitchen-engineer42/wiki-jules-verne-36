@@ -746,8 +746,17 @@
 <!-- ✔ [place] Healthful House — 已建 healthful-house（R209 NEW1，rev oXgFqT，11 solid FF PN；Neuse 右岸私立疗养院，Thomas Roch 囚所〔Pavilion 17〕，单指无混淆） -->
 <!-- ✔ [place] Arctic Ocean — 已建 arctic-ocean（R210 NEW1，rev IiLL6V，13 solid 跨作品 PN；真实北冰洋，FC 极地开拓核心；甄别南极异指 antarctic-sea/an-antarctic-mystery，单指） -->
 <!-- ✔ [place] Upper Amazon — 已建 upper-amazon（rev K7K43n，EHLA real，页内引注 13；亚马逊上游河域，与既有 amazon 父/子域非重复，region Amazon Basin）R211 -->
-<!-- ○ [place] Celestial Empire — celestial-empire NEW（42 distinct：ASC×29 主 +AWED/GM/RC/TT/FC；中华帝国〔China 别称〕，国家实体非大陆综述；region Asia，real）建序 4 -->
+<!-- ✘ [place] Celestial Empire — DUPLICATE（R212）：Celestial Empire=China 别称，同一真实指称；既有 china〔ASC real〕已覆盖同书同域，建之即重复。改判弃建；china 可后补 alias（DEFER，避 Robur alias 类冲突）。42 distinct 全指 China 国。 -->
 <!-- R209+ 建序：Healthful House → Arctic Ocean → Upper Amazon → Celestial Empire（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。建时逐句核 referent（Arctic Ocean/Celestial Empire 跨作品单指，采全；Upper Amazon 勿混 amazon）。 -->
+
+<!-- ===== R212 SCN28 discover（place，discover3.py 全 968 sentence_index 重扫；Celestial Empire DUPLICATE 后队列罄触发 §3(4) zombie）===== -->
+<!-- 说明：≥6 distinct PN 且单作品集中 ≥6 的净新地名。已剔 person-lead（Captain/Major/…）+ 既有 slug/label/alias + the- 前缀。8 项净新 → new_candidates≥3，place 未饱和，discover_streak_low 保持 0。 -->
+<!-- ○ [place] Uzun Ada — uzun-ada NEW（ASC×10 单指；里海东岸港，大 Transasiatic 铁路西端起点，取代 Baku 转运；real，region Central Asia/Caspian）建序 1 -->
+<!-- ○ [place] Saville Row — saville-row NEW（AWED×8 单指；伦敦 Burlington Gardens 街，Phileas Fogg 宅 No.7〔Sheridan 1814 卒于此宅〕；real，region England）建序 2 -->
+<!-- ○ [place] Villa Rica — villa-rica NEW（EHLA×8 单指；巴西钻石区矿镇兼监狱，Joam Dacosta 行刑前越狱地，Rio de Janeiro 押运途经；real，region Brazil）建序 3 -->
+<!-- ○ [place] Coal Town — coal-town NEW（UC×7 单指；Loch Katrine 东岬地下矿村，电力照明，New Aberfoyle 聚落；fictional，region Scotland underground）建序 4 -->
+<!-- 备选（待下一 SCN28 复核 solid 后入建序）：Montgomery Street〔GM×10，SF 街〕/ Kamtchatka Current〔FC×7，洋流〕/ Pleasant Garden〔MW×7，北卡地〕/ North Carolina〔MW×7+FF×6，美州；注 FF/MW 双书需逐句核同指〕。 -->
+<!-- R213+ 建序：Uzun Ada → Saville Row → Villa Rica → Coal Town（4 项，建毕再 SCN28 或转备选核）。建时逐句核 referent 单指，抽 ≥5 solid。 -->
 
 
 
