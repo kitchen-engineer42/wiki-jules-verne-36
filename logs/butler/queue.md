@@ -33,7 +33,7 @@
 <!-- ⏸ 残 Panama City（TT/TTLU 2 PN<门）+ Gulf of Panama（TTLU-026-011 单 PN<门）分列 hold，待专项凑句 -->
 <!-- ═══ R130 后曾误判 place 强候选归零 —— R131 系统重扫（州级/区域级 grep 校对 existing pages）证伪：仍有 10+ 干净可建候选（前轮欠采样，仅盯洲级泛指项）。CLOSE 提前，续 NEW1 广度。═══ -->
 <!-- ═══ R131 SCN28-style 重扫补种（州级/非洲区域级；均已比对 existing pages 无重复，distinctPN≥5 达门；泛指/河页重叠已初筛）═══ -->
-- [place] Texas — FEM 17+MW 1+RM 1=19 distinctPN（real；region US；FEM Ch.11 Texas↔Florida 争 Columbiad 铸址主线；Galveston Bay/26 counties/1836 独立；R131 建 texas）
+<!-- ✔ [place] Texas — 已建 texas（rev 8jmztO，From the Earth to the Moon real，region US，页内引注 11：FEM-011-015/016/017/019/022/023/024/027/039、FEM-016-019、MW-007-010；Texas↔Florida 争 Columbiad 铸址主线/Galveston Bay/26 counties/1836 独立）R131 -->
 <!-- ✔ [place] Senegal — 已建 senegal（rev jgvSUe，Five Weeks in a Balloon real，region West Africa，页内引注 11：FWB-008-022/038-037/041-002/041-003/041-022/042-002/043-067/044-002/044-010、SC-008-031、TTLU-032-002；定主体=西非区域/法属殖民地，Senegal River 为其核心特征；Gouina 瀑布/Medina 哨站/Fonta-Jallon；接 five-weeks-in-a-balloon/africa/cape-verde/timbuctoo）R132 -->
 <!-- ✔ [place] Utah — 已建 utah（rev FsdqIf，Around the World in Eighty Days real，region US，页内引注 8：AWED-026-026/027-009/027-015/027-021、GM-001-004、RC-010-024/010-026；定主体=摩门领地/州（含 salt-lake-city/great-salt-lake），Brigham Young/Union 冲突/Humboldt Range 隘口/Albatross 斜掠；剔 GM-006-040 泛指 Far West；接 phileas-fogg/great-salt-lake/salt-lake-city/around-the-world-in-eighty-days/albatross/robur-the-conqueror）R133 -->
 - [place] Illinois — 21 distinctPN（real；region US；待筛泛指 vs 确指，疑 Chicago/railroad 列举）
@@ -50,6 +50,16 @@
 - [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）
 - [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
 - [place] Indiana — 5 distinctPN（real；region US；勉达门待筛）
+<!-- ═══ R139 SCN28 表层 discover（since_discover=10 且 queue=9<10 触发）：州级/城级 toponym 复扫，凑 ≥5 distinctPN 且未建。new_candidates=5 buildable（streak→0）═══ -->
+- [place] Connecticut — 15 distinctPN（AM 9+MW 3+DSCF/RC/RM）；real；region US；**强候选**：AM《Sphinx of Ice》Jeorling 故乡（Providence 归属）；MW 神秘机器出没
+- [place] Sacramento — 11 distinctPN（AWED 4+GM 5+EHLA 2）；real；region California；AWED 太平洋铁路西端/San Francisco↔Sacramento 段/Sacramento River 汽船；GM 加州淘金
+- [place] Pennsylvania — 18 distinctPN 表面；solid ≥5（DSCF 3 Tom 等自由黑人所属州 + MW 2《Master of the World》剧场州）；real；region US；剔州列举泛指
+- [place] Kentucky — 14 distinctPN 表面；solid 5（FF 3 Mammoth Cave 洞窟对照 + JCE 1 猛犸洞 + MW 1 神秘机器 Frankfort）；real；region US；剔 MI「Kentucky oxen」牛种喻 + 州列举
+- [place] Massachusetts — 13 distinctPN；solid ≥5（BR Fort Sumter「Massachusetts granite」+ DSCF Salem 棉布 + MW 3）；real；region US；待细筛州列举（FEM-003-009 城名列举）
+- [place] Virginia — 8 distinctPN；待筛（BR 烟草/FF Norfolk 城确指 solid + 多处州列举/DSCF 废奴枚举）；real；region US
+- [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
+- [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
+- [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
 <!-- ✔ Mont Blanc consumed R129 -->
 <!-- ✔ [place] Bay of Bengal — 已建 bay-of-bengal（rev zjp3jz，Twenty Thousand Leagues real，region Indian Ocean，页内引注 5：TTLU-014-028/025-040/026-011、AWED-016-005、RM-010-016；Nemo 珍珠场/黑潮源/恒河浮尸/Andaman 群岛/从月看地认真湾；⚠ RM 偏 oblique，AWED+TTLU 4 确指为主干；接 indian-ocean/nautilus/captain-nemo/twenty-thousand-leagues/around-the-world-in-eighty-days/round-the-moon）R129 -->
