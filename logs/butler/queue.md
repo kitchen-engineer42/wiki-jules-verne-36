@@ -77,10 +77,14 @@
 <!-- ✔ R152 建 tunis rev=twcBLv featured；净 solid 7（OC×5 012-003/012-005/013-001/015-033/018-027 Gallia 卷走 Bay of Tunis/Dobryna 测绘 + FWB-004-007 探险家抵 Tunis/Tripoli + RC-015-004 Albatross 掠 Cape Bon→Cape Carthage）；接 off-on-a-comet/five-weeks-in-a-balloon -->
 
 - [place] Timbuktu — 7 distinctPN（real；region West Africa；Robur the Conqueror：Albatross 掠 Timbuktu，RC×7 015-013/016/020/022/046/051+017-003）
+<!-- ✘ R154 DUPLICATE：既有 timbuctoo.md（alias [Timbuktu]，FWB 主源）已覆盖同城。R150 SCN28 漏检既有页（HK-discover-existing-type-blindspot 再现）。不建。⏸ 富化机会：RC×7 Albatross 掠 Timbuktu 段（Uncle Prudent/Phil Evans 囚，"rather be in Timbuktu than on the Albatross"）可 Phase 3 RCH2 edit 注入 timbuctoo，本轮 breadth 不做。 -->
+
 - [place] Tripoli — 9 distinctPN（real；region North Africa；Five Weeks in a Balloon：出发/复得 Tripoli，FWB×5+OC×2+TT）
 <!-- ✔ R153 建 tripoli rev=eRrpRd featured；净 solid 7（FWB×5 004-007/004-009/004-012/030-015/037-036 撒哈拉探险出发/复得城 + OC×2 013-002/015-039 coast of Tripoli 彗后新岸 + 隐 TT-015-015 子午线）；接 five-weeks-in-a-balloon/tunis/off-on-a-comet -->
 
 - [place] Maryland — 6 distinctPN（real；region United States；From the Earth to the Moon：Baltimore Maryland/Gun Club 本部，FEM×2+TT×3 Baltimore 拍卖；5 clean solid）
+<!-- ✔ R154 建 maryland rev=MjhCxx featured；净 solid 6（TT×3 001-040/010-007/018-003 Baltimore 北极拍卖/State of Maryland + FEM×2 001-002/003-005 Gun Club 立于 Baltimore/Maryland 人口 + BR-001-014 弗吉尼亚/马里兰烟草）；book=Topsy-Turvy；接 from-the-earth-to-the-moon/topsy-turvy/the-blockade-runners -->
+
 <!-- ⏸ Georgia — 24 distinctPN 但不可建为单页：裂为 New/South Georgia 南极岛（AM×6）与 Caucasus/俄省 Georgia（ASC×3），无干净美州 Georgia 指。split-candidate hold，待分别专项凑句 -->
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->
 <!-- ✔ Mont Blanc consumed R129 -->

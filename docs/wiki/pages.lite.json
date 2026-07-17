@@ -4529,6 +4529,14 @@
       ],
       "path": "ma/marseilles.md"
     },
+    "maryland": {
+      "type": "place",
+      "label": "Maryland",
+      "aliases": [
+        "State of Maryland"
+      ],
+      "path": "ma/maryland.md"
+    },
     "massachusetts": {
       "type": "place",
       "label": "Massachusetts",
@@ -10133,6 +10141,9 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "maryland": "maryland",
+    "Maryland": "maryland",
+    "State of Maryland": "maryland",
     "massachusetts": "massachusetts",
     "Massachusetts": "massachusetts",
     "master-zacharius": "master-zacharius",
@@ -11171,6 +11182,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1433,
-  "generated": "2026-07-17T03:40:42Z"
+  "page_count": 1434,
+  "generated": "2026-07-17T03:44:55Z"
 }

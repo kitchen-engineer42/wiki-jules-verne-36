@@ -15129,6 +15129,29 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 0
     },
+    "maryland": {
+      "type": "place",
+      "label": "Maryland",
+      "aliases": [
+        "State of Maryland"
+      ],
+      "tags": [
+        "place",
+        "united-states"
+      ],
+      "path": "ma/maryland.md",
+      "description": "State of the United States, home to Baltimore and seat of the Gun Club in the Verne cannon novels.",
+      "prose_len": 1721,
+      "prose_chars": 1632,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "massachusetts": {
       "type": "place",
       "label": "Massachusetts",
@@ -31266,6 +31289,9 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "maryland": "maryland",
+    "Maryland": "maryland",
+    "State of Maryland": "maryland",
     "massachusetts": "massachusetts",
     "Massachusetts": "massachusetts",
     "master-zacharius": "master-zacharius",
@@ -32304,6 +32330,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1433,
-  "generated": "2026-07-17T03:40:42Z"
+  "page_count": 1434,
+  "generated": "2026-07-17T03:44:55Z"
 }
