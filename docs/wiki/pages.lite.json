@@ -5584,6 +5584,16 @@
       ],
       "path": "ne/new-archangel.md"
     },
+    "new-georgia": {
+      "type": "place",
+      "label": "New Georgia",
+      "aliases": [
+        "South Georgia",
+        "Isle de Saint Pierre",
+        "King George's Island"
+      ],
+      "path": "ne/new-georgia.md"
+    },
     "new-orleans": {
       "type": "place",
       "label": "New Orleans",
@@ -10589,6 +10599,11 @@
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
     "New-Archangel": "new-archangel",
+    "new-georgia": "new-georgia",
+    "New Georgia": "new-georgia",
+    "South Georgia": "new-georgia",
+    "Isle de Saint Pierre": "new-georgia",
+    "King George's Island": "new-georgia",
     "new-orleans": "new-orleans",
     "New Orleans": "new-orleans",
     "new-york": "new-york",
@@ -11462,6 +11477,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1466,
-  "generated": "2026-07-17T08:54:46Z"
+  "page_count": 1467,
+  "generated": "2026-07-17T08:58:11Z"
 }

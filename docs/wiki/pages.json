@@ -18701,6 +18701,34 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "new-georgia": {
+      "type": "place",
+      "label": "New Georgia",
+      "aliases": [
+        "South Georgia",
+        "Isle de Saint Pierre",
+        "King George's Island"
+      ],
+      "tags": [
+        "place",
+        "sub-antarctic",
+        "an-antarctic-mystery",
+        "south-atlantic",
+        "exploration"
+      ],
+      "path": "ne/new-georgia.md",
+      "description": "A sub-Antarctic island of the South Atlantic, a southern waypoint in An Antarctic Mystery.",
+      "prose_len": 2105,
+      "prose_chars": 2016,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "new-orleans": {
       "type": "place",
       "label": "New Orleans",
@@ -32270,6 +32298,11 @@
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
     "New-Archangel": "new-archangel",
+    "new-georgia": "new-georgia",
+    "New Georgia": "new-georgia",
+    "South Georgia": "new-georgia",
+    "Isle de Saint Pierre": "new-georgia",
+    "King George's Island": "new-georgia",
     "new-orleans": "new-orleans",
     "New Orleans": "new-orleans",
     "new-york": "new-york",
@@ -33143,6 +33176,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1466,
-  "generated": "2026-07-17T08:54:46Z"
+  "page_count": 1467,
+  "generated": "2026-07-17T08:58:11Z"
 }
