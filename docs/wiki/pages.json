@@ -5611,6 +5611,30 @@
       "book": "The Mysterious Island",
       "total_refs": 2
     },
+    "coal-town": {
+      "type": "place",
+      "label": "Coal Town",
+      "aliases": [],
+      "tags": [
+        "place",
+        "scotland",
+        "the-underground-city",
+        "mining",
+        "subterranean"
+      ],
+      "path": "co/coal-town.md",
+      "description": "The subterranean mining village lit by electricity beneath Loch Katrine, home of the New Aberfoyle miners in The Underground City.",
+      "prose_len": 2130,
+      "prose_chars": 2043,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Underground City",
+      "total_refs": 0
+    },
     "coanza": {
       "type": "place",
       "label": "Coanza",
@@ -18773,7 +18797,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Underground City",
-      "total_refs": 3
+      "total_refs": 4
     },
     "new-america": {
       "type": "place",
@@ -31670,6 +31694,8 @@
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "coal-town": "coal-town",
+    "Coal Town": "coal-town",
     "coanza": "coanza",
     "Coanza": "coanza",
     "colombia": "colombia",
@@ -33502,6 +33528,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1479,
-  "generated": "2026-07-17T10:02:14Z"
+  "page_count": 1480,
+  "generated": "2026-07-17T10:05:30Z"
 }

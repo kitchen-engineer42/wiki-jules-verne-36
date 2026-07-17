@@ -754,7 +754,7 @@
 <!-- ✔ [place] Uzun Ada — 已建 uzun-ada（rev MR1Kbc，ASC real，页内引注 15；里海东岸港，Transasiatic 西端起点，region Central Asia）R213 -->
 <!-- ✔ [place] Saville Row — 已建 saville-row（rev Cyub57，AWED real，页内引注 12；伦敦 Burlington Gardens 街，Fogg 宅 No.7，region England）R214 -->
 <!-- ✔ [place] Villa Rica — 已建 villa-rica（rev ibX8le，EHLA real，页内引注 10；巴西钻石区矿镇/审判地兼监狱，Dacosta 定罪越狱处，region Brazil）R216 -->
-<!-- ○ [place] Coal Town — coal-town NEW（UC×7 单指；Loch Katrine 东岬地下矿村，电力照明，New Aberfoyle 聚落；fictional，region Scotland underground）建序 4 -->
+<!-- ✔ [place] Coal Town — 已建 coal-town（rev 1pE7VU，UC fictional，页内引注 13；Loch Katrine 底地下电力矿村，New Aberfoyle 聚落，region Scotland）R217 -->
 <!-- 备选（待下一 SCN28 复核 solid 后入建序）：Montgomery Street〔GM×10，SF 街〕/ Kamtchatka Current〔FC×7，洋流〕/ Pleasant Garden〔MW×7，北卡地〕/ North Carolina〔MW×7+FF×6，美州；注 FF/MW 双书需逐句核同指〕。 -->
 <!-- R213+ 建序：Uzun Ada → Saville Row → Villa Rica → Coal Town（4 项，建毕再 SCN28 或转备选核）。建时逐句核 referent 单指，抽 ≥5 solid。 -->
 

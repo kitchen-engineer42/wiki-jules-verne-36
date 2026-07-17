@@ -1675,6 +1675,12 @@
       "aliases": [],
       "path": "cl/claw-cape.md"
     },
+    "coal-town": {
+      "type": "place",
+      "label": "Coal Town",
+      "aliases": [],
+      "path": "co/coal-town.md"
+    },
     "coanza": {
       "type": "place",
       "label": "Coanza",
@@ -9753,6 +9759,8 @@
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "coal-town": "coal-town",
+    "Coal Town": "coal-town",
     "coanza": "coanza",
     "Coanza": "coanza",
     "colombia": "colombia",
@@ -11585,6 +11593,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1479,
-  "generated": "2026-07-17T10:02:14Z"
+  "page_count": 1480,
+  "generated": "2026-07-17T10:05:30Z"
 }
