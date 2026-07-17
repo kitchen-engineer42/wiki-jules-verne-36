@@ -122,7 +122,14 @@
 - [place] ~~Gondokoro~~ ✔ **消费 R173**（rev yJVORW，净 solid 7）— 8 distinctPN（real；region East Africa；FWB：尼罗河探险北限点；004-016 1840 Werne 止/004-018 Penney 越 1 度/004-019 Lejean 不得过/018-057 距 90mi/018-097 赴会同胞；≥5 solid）
 - [place] ~~Carmen~~ ✘ **DEFER R174**（净 solid 3<门）— 7 distinctPN 中剔 009-019 命名 Tehuelches enum；余 016-018/016-027/016-032 皆同章 ch.16「Carmen route」薄对话重复；仅 016-019/016-041/021-062 solid（route 起点/地理/Rio Negro 口）。净 3<5，DEFER（承 Brindisi/Yeniseisk 纪律）
 - [place] ~~Tandil~~ → **建 sierra-tandil R174**（rev 5IPFBo，净 solid 8）— 消歧裁定：village of Tandil 仅 020-044/021-059 净 2<门；主体 referent 为 **Sierra Tandil** 山脉（010-043/020-041/020-056/021-001/021-062 五 solid + 026-012/020-044/021-059），建为 sierra-tandil place 页（label Sierra Tandil）
-- [place] Mozambique — 11 distinctPN（多源 DSCF/FWB/MI/TT/TTLU；⚠ 建前严剔：多为「Mozambique coast/channel」海岸海峡区域泛指（奴隶贸易语境），疑 <5 clean town/place solid，enum/region 风险高，未达门即 DEFER）
+- [place] ~~Mozambique~~ ✘ **DEFER R175**（净 solid 0）— 11 distinctPN 全为「Mozambique Channel/canal」（海峡）/「Mozambique coast」（海岸泛指）/「province of Mozambique」（区域泛指），无城本体确指。DEFER 如预判
+
+<!-- ═══ R175 深层 probe（R170 批消尽：Kazeh/Gondokoro/Sierra Tandil 建 + Carmen/Mozambique DEFER；Mozambique DEFER 后净 buildable=0，同轮 probe 补 1 建 Loanda）：DSCF 安哥拉内陆·奴隶贸易 toponym 层新矿 ═══ -->
+<!-- probe 命中既有页（不入队，feature-aware 双测）：Kilimanjaro/Kazounde/Lake Tanganyika(Tanganyika)。probe 弃：Tete(24→净1，多为 Kara-Tete 人名误配)/Msene(1)/Nyangwe(1)/Emboma(3)/Seymour(3)/Tapalquem(3)。 -->
+- [place] ~~Saint Paul de Loanda~~ ✔ **消费 R175**（slug saint-paul-de-loanda，rev X7MihS，净 solid 8）— 15 distinctPN（real；region West Africa；DSCF：葡属殖民地首府/港；019-032 首府/025-036 距 Kazounde 400mi/020-033+020-076+037-030 penitentiary/032-037+032-046 Livingstone 跨非/离城）
+- [place] Coanza — 23 distinctPN（DSCF；⚠ 建前判定：Coanza 河（river）为主 referent，疑地物/river 泛指多，须严剔确认净 ≥5 非河岸泛指 solid，否则 DEFER）
+- [place] Bihe — 7 distinctPN（DSCF；安哥拉内陆商站，建前抽样 ≥5 solid 后建）
+- [place] Cassange — 7 distinctPN（DSCF；安哥拉内陆商站/Livingstone 经停，建前抽样 ≥5 solid 后建）
 <!-- below-gate（不入队）：Castlemaine(3)/Otago(0 无 hit)。下批建序（R172 起 NEW1，R171=EVV5 无建）：Kazeh → Gondokoro → Carmen(re-vet) → Tandil(disambig) → Mozambique(严剔，大概率 DEFER)。 -->
 
 - [place] Yeniseisk — 8 distinctPN（real；region Siberia；MS；⚠ enumeration-heavy：多为「governments of Yeniseisk, Omsk...」省列举，疑同 Brindisi 净 <5 solid，建前严剔后大概率 DEFER）

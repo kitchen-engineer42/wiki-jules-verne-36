@@ -6599,6 +6599,14 @@
       ],
       "path": "sa/sahara.md"
     },
+    "saint-paul-de-loanda": {
+      "type": "place",
+      "label": "Saint Paul de Loanda",
+      "aliases": [
+        "Loanda"
+      ],
+      "path": "sa/saint-paul-de-loanda.md"
+    },
     "salt-lake-city": {
       "type": "place",
       "label": "Salt Lake City",
@@ -10723,6 +10731,9 @@
     "sahara": "sahara",
     "Sahara": "sahara",
     "Sahara Desert": "sahara",
+    "saint-paul-de-loanda": "saint-paul-de-loanda",
+    "Saint Paul de Loanda": "saint-paul-de-loanda",
+    "Loanda": "saint-paul-de-loanda",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
@@ -11300,6 +11311,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1448,
-  "generated": "2026-07-17T06:44:42Z"
+  "page_count": 1449,
+  "generated": "2026-07-17T06:51:31Z"
 }

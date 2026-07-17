@@ -22071,6 +22071,30 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 1
     },
+    "saint-paul-de-loanda": {
+      "type": "place",
+      "label": "Saint Paul de Loanda",
+      "aliases": [
+        "Loanda"
+      ],
+      "tags": [
+        "place",
+        "africa",
+        "west-africa"
+      ],
+      "path": "sa/saint-paul-de-loanda.md",
+      "description": "The capital of the Portuguese colony on the west coast of Africa, a coastal goal of trans-continental journeys in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1376,
+      "prose_chars": 1295,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "salt-lake-city": {
       "type": "place",
       "label": "Salt Lake City",
@@ -32093,6 +32117,9 @@
     "sahara": "sahara",
     "Sahara": "sahara",
     "Sahara Desert": "sahara",
+    "saint-paul-de-loanda": "saint-paul-de-loanda",
+    "Saint Paul de Loanda": "saint-paul-de-loanda",
+    "Loanda": "saint-paul-de-loanda",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
@@ -32670,6 +32697,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1448,
-  "generated": "2026-07-17T06:44:42Z"
+  "page_count": 1449,
+  "generated": "2026-07-17T06:51:31Z"
 }
