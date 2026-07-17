@@ -1725,6 +1725,14 @@
       "aliases": [],
       "path": "co/copenhagen.md"
     },
+    "coppermine-river": {
+      "type": "place",
+      "label": "Coppermine River",
+      "aliases": [
+        "Coppermine"
+      ],
+      "path": "co/coppermine-river.md"
+    },
     "coronation-gulf": {
       "type": "place",
       "label": "Coronation Gulf",
@@ -9690,6 +9698,9 @@
     "Constantinople": "constantinople",
     "copenhagen": "copenhagen",
     "Copenhagen": "copenhagen",
+    "coppermine-river": "coppermine-river",
+    "Coppermine River": "coppermine-river",
+    "Coppermine": "coppermine-river",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
     "corral": "corral",
@@ -11477,6 +11488,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1467,
-  "generated": "2026-07-17T08:58:11Z"
+  "page_count": 1468,
+  "generated": "2026-07-17T09:01:12Z"
 }

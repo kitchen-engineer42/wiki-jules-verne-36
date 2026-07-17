@@ -5789,6 +5789,32 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 0
     },
+    "coppermine-river": {
+      "type": "place",
+      "label": "Coppermine River",
+      "aliases": [
+        "Coppermine"
+      ],
+      "tags": [
+        "place",
+        "arctic",
+        "the-fur-country",
+        "river",
+        "exploration"
+      ],
+      "path": "co/coppermine-river.md",
+      "description": "A large river of Arctic North America flowing north into Coronation Gulf, a landmark of the expedition in The Fur Country.",
+      "prose_len": 2157,
+      "prose_chars": 2070,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "coronation-gulf": {
       "type": "place",
       "label": "Coronation Gulf",
@@ -31389,6 +31415,9 @@
     "Constantinople": "constantinople",
     "copenhagen": "copenhagen",
     "Copenhagen": "copenhagen",
+    "coppermine-river": "coppermine-river",
+    "Coppermine River": "coppermine-river",
+    "Coppermine": "coppermine-river",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
     "corral": "corral",
@@ -33176,6 +33205,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1467,
-  "generated": "2026-07-17T08:58:11Z"
+  "page_count": 1468,
+  "generated": "2026-07-17T09:01:12Z"
 }

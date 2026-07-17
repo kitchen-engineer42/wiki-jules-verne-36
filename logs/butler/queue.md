@@ -729,7 +729,7 @@
 <!-- ✘ [place] Chimneys — DUPLICATE（既有 the-chimneys，R29 建 rev e1P5df）；R198 建时 registry alias conflict 判重，回滚未建。R197 discover 查重漏测 the- 前缀，记 HK-dupcheck-the-prefix-blindspot -->
 <!-- ✔ [place] the corral — 已建 corral（R198 NEW1，rev RHHSde，16 solid MI PN；Red Creek 谷畜栏/Ayrton 居所/电报枢纽） -->
 <!-- ✔ [place] New Georgia — 已建 new-georgia（R199 NEW1，rev Kopvp7，8 solid AM PN；亚南极岛，剔 FC 北美 + TTLU 太平洋同名异指） -->
-<!-- ○ [place] Coppermine River — coppermine-river NEW（ACH+FC×10；北美极地大河，Hearne 1770 发现〔FC-002-023〕，Richardson 溯行至 Polar Sea〔ACH-014-023〕，Mackenzie 支流水系〔FC-007-004〕，流入 Coronation Gulf〔FC-010-007〕；region Arctic North America，real）建序 4 -->
+<!-- ✔ [place] Coppermine River — 已建 coppermine-river（R200 NEW1，rev tpYUBY，10 solid 单指 PN；北美极地大河，Coronation Gulf 入海）。R197 队列末项，建罄 → R201 SCN28 discover -->
 <!-- R198+ 建序：Chimneys → corral → New Georgia → Coppermine River（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->
 
 
