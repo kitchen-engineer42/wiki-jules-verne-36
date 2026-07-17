@@ -4551,6 +4551,12 @@
       "aliases": [],
       "path": "lo/london.md"
     },
+    "longs-peak": {
+      "type": "place",
+      "label": "Long's Peak",
+      "aliases": [],
+      "path": "lo/longs-peak.md"
+    },
     "lunar-orbit-miss": {
       "type": "event",
       "label": "Missing the Moon",
@@ -10289,6 +10295,8 @@
     "Loch Malcolm": "loch-malcolm",
     "london": "london",
     "London": "london",
+    "longs-peak": "longs-peak",
+    "Long's Peak": "longs-peak",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -11373,6 +11381,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1456,
-  "generated": "2026-07-17T07:48:47Z"
+  "page_count": 1457,
+  "generated": "2026-07-17T07:55:06Z"
 }

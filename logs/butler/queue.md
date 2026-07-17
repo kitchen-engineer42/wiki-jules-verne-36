@@ -704,7 +704,7 @@
 <!-- ✘ [place] Tsalal — DUPLICATE：既有 tsalal-island（AM，Pym 叙事南极岛，fictional）。R181 discover 仅查裸 slug tsalal，漏 -island 后缀变体；R183 建前文件系统拦截，未建。教训：discover 入队即查 slug + 后缀变体（-island/-islet/-river/-city）。 -->
 <!-- ✔ [place] Tristan d'Acunha — 已建 tristan-da-cunha（rev 7WNjzk，An Antarctic Mystery，real，South Atlantic Ocean；净 solid 10：AM 8〔007-005/007-001/003-069/008-001/001-039/007-014/008-003/004-073〕+ SC 2〔028-023 坐标/028-026 首邑村〕；Halbrane 补水停靠/Governor Glass）R183 -->
 <!-- ✔ [place] Bennet Islet — 已建 bennet-islet（rev uMf97j，An Antarctic Mystery，fictional，Antarctic；净 solid 8：005-054 命名/019-005 荒芜/014-006 拟往/014-011 停24h/015-035 启碇携证/015-002 无人居/011-013 冰墙外首登陆/015-018 Jane 遗木板）R184 -->
-- [place] Long's Peak <!-- FEM×8+RM×7；Rocky Mtns 巨镜观测台（Gun Club 望远镜架设/月弹观测电报，024-022/027-008/013/016）。slug longs-peak，NEW -->
+<!-- ✔ [place] Long's Peak — 已建 longs-peak（rev WeWExk，From the Earth to the Moon，real，Rocky Mountains, United States；净 solid 9：FEM 024-022/027-008/027-016/028-002/028-016/028-018 + RM 010-004/007-048/021-025/021-032）。落基山巨镜观测台，独立命名峰站，与 rocky-mountains 山脉页异指（line 382 早期 hold 已推翻：Long's Peak 有 16 distinctPN 自足）R185 -->
 - [place] Stapi <!-- JCE×10；Snæfell 半岛南麓村，火山脚下牧师宅（下降前驻地，011-011/011-014/013-035/014-002/014-005/014-017）。slug stapi，NEW -->
 <!-- 复扫既有排除：gourbi-island/christmas-harbour/halbrane-land（AM）、falkland-islands、malta/gibraltar/ceuta/formentera/florida/texas/hamburg/copenhagen 皆已建；Portland（Cape，JCE×3 净<5 DEFER）、Altona（JCE×6 混列举 DEFER）、Reykjavik/Gardar（0 命中，拼写待考）。 -->
 <!-- R182 = EVV5（模板稳定，未建页）；R183 = NEW1 建 Tristan d'Acunha（Tsalal DUPLICATE 除）。剩余建序 R184+：Bennet Islet → Long's Peak → Stapi（3 项后队列罄，须再 SCN28 discover）。 -->

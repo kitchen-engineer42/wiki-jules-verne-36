@@ -15231,6 +15231,30 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 7
     },
+    "longs-peak": {
+      "type": "place",
+      "label": "Long's Peak",
+      "aliases": [],
+      "tags": [
+        "place",
+        "mountain",
+        "observatory",
+        "from-the-earth-to-the-moon",
+        "rocky-mountains"
+      ],
+      "path": "lo/longs-peak.md",
+      "description": "A summit of the Rocky Mountains where the Gun Club raised its gigantic reflecting telescope to track the lunar projectile.",
+      "prose_len": 1522,
+      "prose_chars": 1441,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "From the Earth to the Moon",
+      "total_refs": 0
+    },
     "lunar-orbit-miss": {
       "type": "event",
       "label": "Missing the Moon",
@@ -31792,6 +31816,8 @@
     "Loch Malcolm": "loch-malcolm",
     "london": "london",
     "London": "london",
+    "longs-peak": "longs-peak",
+    "Long's Peak": "longs-peak",
     "lunar-orbit-miss": "lunar-orbit-miss",
     "Missing the Moon": "lunar-orbit-miss",
     "The Deviated Projectile": "lunar-orbit-miss",
@@ -32876,6 +32902,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1456,
-  "generated": "2026-07-17T07:48:47Z"
+  "page_count": 1457,
+  "generated": "2026-07-17T07:55:06Z"
 }
