@@ -741,6 +741,14 @@
 <!-- ✔ [place] Rio Colorado — 已建 rio-colorado（R207 NEW1，rev 4MWSuw，8 solid SC PN；巴塔哥尼亚 37th-parallel 河，Rio Negro 姊妹河；剔 3 AWED 美 Colorado + 1 DSCF + 1 RC 同名异指）。★ R201 队列 5 项全建罄，R208 = SCN28-zombie -->
 <!-- R202+ 建序：Rio Negro → Wimerra → Guamini → Carmen → Rio Colorado（5 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。建时逐句核 VVV referent（Rio Negro 剔 SC、Rio Colorado 剔 DSCF）。 -->
 
+<!-- ═══ R208 SCN28 discover（R201 队列 R207 建罄，queue(place)==0 → §3(4) zombie；全库多词专名重扫〔/tmp/discover3.py〕证 place 未饱和，净新 4 buildable；非建页，since_discover 归 0，discover_streak_low=0〔new_candidates=4≥3〕）═══ -->
+<!-- 入队均已 pages.json 子串 + `the-` 前缀双查（承 HK-dupcheck-the-prefix-blindspot）。候选主作品 PN 均 ≥26，抽样单指确认。 -->
+<!-- ○ [place] Healthful House — healthful-house NEW（FF×72；Facing the Flag 私立疗养院/Thomas Roch 囚所；rof fictional）建序 1 -->
+<!-- ○ [place] Arctic Ocean — arctic-ocean NEW（55 distinct：FC×42 主 +ACH/WC/GM/OC/MS；真实北冰洋，跨作品单指非异指；region Arctic，real）建序 2 -->
+<!-- ○ [place] Upper Amazon — upper-amazon NEW（EHLA×26；亚马逊上游河域〔秘鲁森林出水〕，与既有 amazon 父/子域非重复；region Amazon Basin，real）建序 3 -->
+<!-- ○ [place] Celestial Empire — celestial-empire NEW（42 distinct：ASC×29 主 +AWED/GM/RC/TT/FC；中华帝国〔China 别称〕，国家实体非大陆综述；region Asia，real）建序 4 -->
+<!-- R209+ 建序：Healthful House → Arctic Ocean → Upper Amazon → Celestial Empire（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。建时逐句核 referent（Arctic Ocean/Celestial Empire 跨作品单指，采全；Upper Amazon 勿混 amazon）。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
