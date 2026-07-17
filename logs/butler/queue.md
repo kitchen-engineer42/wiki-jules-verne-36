@@ -127,7 +127,7 @@
 <!-- ═══ R175 深层 probe（R170 批消尽：Kazeh/Gondokoro/Sierra Tandil 建 + Carmen/Mozambique DEFER；Mozambique DEFER 后净 buildable=0，同轮 probe 补 1 建 Loanda）：DSCF 安哥拉内陆·奴隶贸易 toponym 层新矿 ═══ -->
 <!-- probe 命中既有页（不入队，feature-aware 双测）：Kilimanjaro/Kazounde/Lake Tanganyika(Tanganyika)。probe 弃：Tete(24→净1，多为 Kara-Tete 人名误配)/Msene(1)/Nyangwe(1)/Emboma(3)/Seymour(3)/Tapalquem(3)。 -->
 - [place] ~~Saint Paul de Loanda~~ ✔ **消费 R175**（slug saint-paul-de-loanda，rev X7MihS，净 solid 8）— 15 distinctPN（real；region West Africa；DSCF：葡属殖民地首府/港；019-032 首府/025-036 距 Kazounde 400mi/020-033+020-076+037-030 penitentiary/032-037+032-046 Livingstone 跨非/离城）
-- [place] Coanza — 23 distinctPN（DSCF；⚠ 建前判定：Coanza 河（river）为主 referent，疑地物/river 泛指多，须严剔确认净 ≥5 非河岸泛指 solid，否则 DEFER）
+- [place] ~~Coanza~~ ✔ **消费 R178**（slug coanza，rev xb6249，净 solid 6+）— 23 distinctPN（DSCF；real；region West Africa；**建为河流地物 referent，Sierra Tandil 地物先例**；025-004 安哥拉河/入海/025-003 泛滥/027-004 距 Kazounde 300mi/026-012 东岸森林/032-046 右岸/Lombe 汇流/019-038 越河；剔「camp on the Coanza」奴营 locus 泛指）
 - [place] ~~Bihe~~ ✔ **消费 R177**（slug bihe，rev LgrYRw，净 solid 5）— 7 distinctPN（DSCF；region West Africa；Benguela 内陆奴市/Alvez 第二 factory；020-070 Bihe market/027-006 第二 factory/027-014 Cameron 700mi 至城/027-032 Major Coimbra of Bihe/032-025 factory 毁；019-049+033-015 enum 支撑）
 - [place] ~~Cassange~~ ✔ **消费 R176**（rev 3W67q1，净 solid 6）— 7 distinctPN（DSCF；region West Africa；Benguela 奴隶市场镇/Alvez 第三 factory；020-018 agent 离城/027-006 第三 factory/032-025 destroyed/032-045 Livingstone 入城/032-046 2/20 离/033-015 factory）
 <!-- below-gate（不入队）：Castlemaine(3)/Otago(0 无 hit)。下批建序（R172 起 NEW1，R171=EVV5 无建）：Kazeh → Gondokoro → Carmen(re-vet) → Tandil(disambig) → Mozambique(严剔，大概率 DEFER)。 -->

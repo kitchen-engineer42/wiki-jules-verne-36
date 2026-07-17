@@ -1655,6 +1655,12 @@
       "aliases": [],
       "path": "cl/claw-cape.md"
     },
+    "coanza": {
+      "type": "place",
+      "label": "Coanza",
+      "aliases": [],
+      "path": "co/coanza.md"
+    },
     "colombia": {
       "type": "place",
       "label": "Colombia",
@@ -9556,6 +9562,8 @@
     "Christmas Harbour": "christmas-harbour",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "coanza": "coanza",
+    "Coanza": "coanza",
     "colombia": "colombia",
     "Colombia": "colombia",
     "columbiad-launch": "columbiad-launch",
@@ -11327,6 +11335,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1451,
-  "generated": "2026-07-17T07:03:18Z"
+  "page_count": 1452,
+  "generated": "2026-07-17T07:07:44Z"
 }
