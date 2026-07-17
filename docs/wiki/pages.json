@@ -27387,6 +27387,30 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 0
     },
+    "tristan-da-cunha": {
+      "type": "place",
+      "label": "Tristan d'Acunha",
+      "aliases": [
+        "Tristan da Cunha"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "south-atlantic",
+        "an-antarctic-mystery",
+        "volcano"
+      ],
+      "path": "tr/tristan-da-cunha.md",
+      "description": "A lonely volcanic island of the South Atlantic, the last inhabited call of the Halbrane before the Antarctic ice in An Antarctic Mystery.",
+      "prose_len": 1447,
+      "prose_chars": 1366,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "tsalal-island": {
       "type": "place",
       "label": "Tsalal Island",
@@ -32623,6 +32647,9 @@
     "tripoli": "tripoli",
     "Tripoli": "tripoli",
     "coast of Tripoli": "tripoli",
+    "tristan-da-cunha": "tristan-da-cunha",
+    "Tristan d'Acunha": "tristan-da-cunha",
+    "Tristan da Cunha": "tristan-da-cunha",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
@@ -32821,6 +32848,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1454,
-  "generated": "2026-07-17T07:28:41Z"
+  "page_count": 1455,
+  "generated": "2026-07-17T07:44:43Z"
 }

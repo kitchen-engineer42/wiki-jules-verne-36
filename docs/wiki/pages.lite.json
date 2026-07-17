@@ -8195,6 +8195,14 @@
       ],
       "path": "tr/tripoli.md"
     },
+    "tristan-da-cunha": {
+      "type": "place",
+      "label": "Tristan d'Acunha",
+      "aliases": [
+        "Tristan da Cunha"
+      ],
+      "path": "tr/tristan-da-cunha.md"
+    },
     "tsalal-island": {
       "type": "place",
       "label": "Tsalal Island",
@@ -11153,6 +11161,9 @@
     "tripoli": "tripoli",
     "Tripoli": "tripoli",
     "coast of Tripoli": "tripoli",
+    "tristan-da-cunha": "tristan-da-cunha",
+    "Tristan d'Acunha": "tristan-da-cunha",
+    "Tristan da Cunha": "tristan-da-cunha",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
@@ -11351,6 +11362,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1454,
-  "generated": "2026-07-17T07:28:41Z"
+  "page_count": 1455,
+  "generated": "2026-07-17T07:43:58Z"
 }
