@@ -29779,6 +29779,31 @@
       "book": "From the Earth to the Moon",
       "total_refs": 2
     },
+    "upper-amazon": {
+      "type": "place",
+      "label": "Upper Amazon",
+      "aliases": [],
+      "tags": [
+        "place",
+        "brazil",
+        "peru",
+        "eight-hundred-leagues-on-the-amazon",
+        "river",
+        "amazon"
+      ],
+      "path": "up/upper-amazon.md",
+      "description": "The upper basin of the Amazon in Peru and Brazil, cradle of Iquitos and the Garral fazenda in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 2362,
+      "prose_chars": 2273,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "ural-mountains": {
       "type": "place",
       "label": "Ural Mountains",
@@ -33299,6 +33324,8 @@
     "United States": "united-states",
     "United States of America": "united-states",
     "USA": "united-states",
+    "upper-amazon": "upper-amazon",
+    "Upper Amazon": "upper-amazon",
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
@@ -33396,6 +33423,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1475,
-  "generated": "2026-07-17T09:35:18Z"
+  "page_count": 1476,
+  "generated": "2026-07-17T09:41:25Z"
 }

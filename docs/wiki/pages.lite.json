@@ -8904,6 +8904,12 @@
       ],
       "path": "un/united-states.md"
     },
+    "upper-amazon": {
+      "type": "place",
+      "label": "Upper Amazon",
+      "aliases": [],
+      "path": "up/upper-amazon.md"
+    },
     "ural-mountains": {
       "type": "place",
       "label": "Ural Mountains",
@@ -11456,6 +11462,8 @@
     "United States": "united-states",
     "United States of America": "united-states",
     "USA": "united-states",
+    "upper-amazon": "upper-amazon",
+    "Upper Amazon": "upper-amazon",
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
@@ -11553,6 +11561,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1475,
-  "generated": "2026-07-17T09:35:18Z"
+  "page_count": 1476,
+  "generated": "2026-07-17T09:41:25Z"
 }

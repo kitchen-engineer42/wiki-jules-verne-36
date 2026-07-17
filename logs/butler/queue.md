@@ -745,7 +745,7 @@
 <!-- 入队均已 pages.json 子串 + `the-` 前缀双查（承 HK-dupcheck-the-prefix-blindspot）。候选主作品 PN 均 ≥26，抽样单指确认。 -->
 <!-- ✔ [place] Healthful House — 已建 healthful-house（R209 NEW1，rev oXgFqT，11 solid FF PN；Neuse 右岸私立疗养院，Thomas Roch 囚所〔Pavilion 17〕，单指无混淆） -->
 <!-- ✔ [place] Arctic Ocean — 已建 arctic-ocean（R210 NEW1，rev IiLL6V，13 solid 跨作品 PN；真实北冰洋，FC 极地开拓核心；甄别南极异指 antarctic-sea/an-antarctic-mystery，单指） -->
-<!-- ○ [place] Upper Amazon — upper-amazon NEW（EHLA×26；亚马逊上游河域〔秘鲁森林出水〕，与既有 amazon 父/子域非重复；region Amazon Basin，real）建序 3 -->
+<!-- ✔ [place] Upper Amazon — 已建 upper-amazon（rev K7K43n，EHLA real，页内引注 13；亚马逊上游河域，与既有 amazon 父/子域非重复，region Amazon Basin）R211 -->
 <!-- ○ [place] Celestial Empire — celestial-empire NEW（42 distinct：ASC×29 主 +AWED/GM/RC/TT/FC；中华帝国〔China 别称〕，国家实体非大陆综述；region Asia，real）建序 4 -->
 <!-- R209+ 建序：Healthful House → Arctic Ocean → Upper Amazon → Celestial Empire（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。建时逐句核 referent（Arctic Ocean/Celestial Empire 跨作品单指，采全；Upper Amazon 勿混 amazon）。 -->
 
