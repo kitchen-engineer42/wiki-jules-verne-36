@@ -108,8 +108,12 @@
 - [place] Lan-Tcheou — 8 distinctPN（real；region China；ASC：022-072 长城转向处/023-003 700km 重镇/023-036 26 May 7am 抵/023-042 governor 电报待发 Pekin/023-048 访城/023-070 离站；≥5 solid，主体确指）
 <!-- ✔ R168 建 lan-tcheou rev=y7G5Ej featured；净 solid 8（ASC 单源 023-003 700km 重镇/023-036 26 May 7am 抵/023-042 governor 电报皇帝宝藏待 Pekin/023-048 访城/023-070 Caterna 问离站所见/022-072 长城转向 bend/024-001 离城铁路穿沃野/027-062 自 Lan-Tcheou 发电报京城复）；接 the-adventures-of-a-special-correspondent；首版 Overview/Geography 超门 → 建前压缩 ≤400 -->
 
-- [place] Baikal — 17 distinctPN（real；region Siberia；MS Michael Strogoff：Lake Baikal；028-094 It was Lake Baikal/028-024 Krasnoiarsk↔Baikal 无俄军/018-004 Baikal 省东南向；⚠ 多处「Lake Baikal provinces」区域引与省列举，建前须严剔 enumeration，确认净 ≥5 solid 湖体确指；湖非城，参 Michigan/Colorado 湖河消歧先例）
+- [place] Baikal — 17 distinctPN（real；region Siberia；MS Michael Strogoff：Lake Baikal）
+<!-- ✘ R169 DUPLICATE：既有 lake-baikal.md（label「Lake Baikal」，alias [The Baikal]，MS featured）已覆盖同湖同源。R166 SCN28 查重仅测「baikal」变体，漏检「lake-」前缀 id（HK-discover-existing-type-blindspot 再现，第 3 例，续 R154 timbuctoo）。教训：lake/mount/cape/bay toponym 须双测「{name}」与「{feature}-{name}」两式。不建。既有页净 solid 充足（re-vet 显 11 湖体确指），Phase3 富化机会但本轮 breadth 不做。 -->
 - [place] Tai-Youan — 6 distinctPN（real；region China；ASC；建前复核 solid 数）
+<!-- ✔ R169 建 tai-youan rev=RT4Pp4 featured；建前复核净 solid 5（ASC 单源 024-009 10pm 停站/025-061 telegraph 求 relief engine/025-064 3pm 前到/025-071 stationmaster 电请 engine 赴 Nanking 线/025-076 无须返 Tai-Youan 省 1.5h）；剔 023-069 乘客目的地列举；恰达 5 门；接 the-adventures-of-a-special-correspondent -->
+<!-- ⚠ [place] Yeniseisk/Tioumen — R166 discover 余项；Yeniseisk enum-heavy 疑 <5、Tioumen 临界 5；R170 起建前严剔，未达门即 DEFER。R166 补种批消 3（Sou-Tcheou/Lan-Tcheou/Tai-Youan）+ 1 DUPLICATE（Baikal），余 2 待建前定。 -->
+
 - [place] Yeniseisk — 8 distinctPN（real；region Siberia；MS；⚠ enumeration-heavy：多为「governments of Yeniseisk, Omsk...」省列举，疑同 Brindisi 净 <5 solid，建前严剔后大概率 DEFER）
 - [place] Tioumen — 5 distinctPN（real；region Siberia；MS；⚠ 临界 5，建前复核是否达门）
 <!-- 下批建序（R167 起 NEW1 消费）：Sou-Tcheou → Lan-Tcheou → Baikal(re-vet) → Tai-Youan(re-vet)；Yeniseisk/Tioumen 建前严剔，未达门即 DEFER。below-gate（不入队）：Khotan(3)/Tchardjoui(4)。 -->

@@ -25989,6 +25989,28 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "tai-youan": {
+      "type": "place",
+      "label": "Tai-Youan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "asia",
+        "china"
+      ],
+      "path": "ta/tai-youan.md",
+      "description": "A station city of northern China on the Grand Transasiatic line, the depot from which a relief engine is summoned in The Adventures of a Special Correspondent.",
+      "prose_len": 1673,
+      "prose_chars": 1590,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -32257,6 +32279,8 @@
     "tachkend": "tachkend",
     "Tachkend": "tachkend",
     "Tashkend": "tachkend",
+    "tai-youan": "tai-youan",
+    "Tai-Youan": "tai-youan",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -32574,6 +32598,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1444,
-  "generated": "2026-07-17T06:15:54Z"
+  "page_count": 1445,
+  "generated": "2026-07-17T06:21:37Z"
 }

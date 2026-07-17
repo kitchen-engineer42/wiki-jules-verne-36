@@ -7766,6 +7766,12 @@
       ],
       "path": "ta/tachkend.md"
     },
+    "tai-youan": {
+      "type": "place",
+      "label": "Tai-Youan",
+      "aliases": [],
+      "path": "ta/tai-youan.md"
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -10951,6 +10957,8 @@
     "tachkend": "tachkend",
     "Tachkend": "tachkend",
     "Tashkend": "tachkend",
+    "tai-youan": "tai-youan",
+    "Tai-Youan": "tai-youan",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -11268,6 +11276,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1444,
-  "generated": "2026-07-17T06:15:54Z"
+  "page_count": 1445,
+  "generated": "2026-07-17T06:21:37Z"
 }
