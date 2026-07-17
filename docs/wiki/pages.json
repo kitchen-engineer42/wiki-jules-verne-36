@@ -6346,6 +6346,28 @@
       "quality_score": 78,
       "total_refs": 0
     },
+    "douchak": {
+      "type": "place",
+      "label": "Douchak",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-asia",
+        "railway"
+      ],
+      "path": "do/douchak.md",
+      "description": "A station on the Transcaspian section of the Grand Transasiatic railway, reached at the six-hundred-and-sixtieth verst in The Adventures of a Special Correspondent.",
+      "prose_len": 1960,
+      "prose_chars": 1879,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "dream-bay": {
       "type": "place",
       "label": "Dream Bay",
@@ -30800,6 +30822,8 @@
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
     "Dr. Ox's Experiment": "doctor-oxs-experiment",
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
+    "douchak": "douchak",
+    "Douchak": "douchak",
     "dream-bay": "dream-bay",
     "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
@@ -32480,6 +32504,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1440,
-  "generated": "2026-07-17T05:56:48Z"
+  "page_count": 1441,
+  "generated": "2026-07-17T05:58:37Z"
 }

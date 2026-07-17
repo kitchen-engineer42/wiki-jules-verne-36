@@ -92,6 +92,8 @@
 <!-- ✔ R163 建 tachkend rev=8mDpfG featured（alias Tashkend）；净 solid 11（ASC 单源 013-005 睡至/006-011 Sarthe pedlars/014-003 停 2.5h/014-014 11am 离/014-029 南弯 Khodjend/013-006 Samarkand 300km/014-010 旧城女/014-007 民/014-008 犹太人聚/015-031 震迹/014-001 1870 集市/016-012 Khotan 丝出口）；剔 005-018/005-023/018-035 列举；接 the-adventures-of-a-special-correspondent -->
 
 - [place] Douchak — 11 distinctPN（real；region Transcaspia；ASC；008-022 660th verst 站/008-023 Noltitz 游/008-025 或为英印线终点/008-028 "did" Douchak/008-060 停半时/010-041 载 mandarin 尸自 Douchak）
+<!-- ✔ R164 建 douchak rev=p6t41a featured；净 solid 11（ASC 单源 008-022 660th verst 6am/008-023 Noltitz 游/008-028 did/008-060 停半时/009-029 Askhabad+Douchak 补给/008-021 线离路/008-025 或英印线终点 Kandahar/010-041 载 mandarin Yen Lou 尸/018-006 Faruskiar 于 Douchak 登车/011-017 Mongols 于 Douchak/019-003 Faruskiar+Ghangir 于 Douchak）；接 the-adventures-of-a-special-correspondent -->
+
 - [place] Brindisi — 8 distinctPN（real；region Italy；AWED Around the World in Eighty Days；006-003 Mongolia 往返 Brindisi-Bombay/006-007/006-008 直自 Brindisi 载印度邮/009-002 客自 Brindisi 赴印/003-012 侦探赴港；⚠ 剔 003-029/007-031/007-032 行程表列举后 ~5 solid，建前复核）
 - [place] Concepcion — 6 distinctPN（real；region Chile；SC In Search of the Castaways；007-038/008-066 目的地 Concepcion/009-006 学语/010-004 英领事居 Concepcion/010-005 古勇士城成妇孺村[震后]；⚠ ~5 solid 临界，建前复核）
 

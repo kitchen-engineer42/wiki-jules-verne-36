@@ -1898,6 +1898,12 @@
       ],
       "path": "do/doctor-oxs-experiment.md"
     },
+    "douchak": {
+      "type": "place",
+      "label": "Douchak",
+      "aliases": [],
+      "path": "do/douchak.md"
+    },
     "dream-bay": {
       "type": "place",
       "label": "Dream Bay",
@@ -9556,6 +9562,8 @@
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
     "Dr. Ox's Experiment": "doctor-oxs-experiment",
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
+    "douchak": "douchak",
+    "Douchak": "douchak",
     "dream-bay": "dream-bay",
     "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
@@ -11236,6 +11244,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1440,
-  "generated": "2026-07-17T05:56:48Z"
+  "page_count": 1441,
+  "generated": "2026-07-17T05:58:37Z"
 }
