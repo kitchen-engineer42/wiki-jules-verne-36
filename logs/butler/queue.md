@@ -120,8 +120,8 @@
 <!-- 查重命中既有页（不入队，feature-aware {name}+{feature}-{name} 双测）：Zanzibar/Twofold Bay(twofold-bay)/Gibraltar/Aden ——HK-discover-existing-type-blindspot 主动规避，建前捕获 -->
 - [place] ~~Kazeh~~ ✔ **消费 R172**（rev T1DAf6，净 solid 12，region Central Africa 定稿）— 16 distinctPN（real；FWB Five Weeks in a Balloon：中非商旅商队 central rendezvous；004-027 抵 Kazeh 商旅集散/004-028 26 May 再入/004-029 8 月返；剔 014-001/015-001 章题列举+019-025 松散 enum）
 - [place] ~~Gondokoro~~ ✔ **消费 R173**（rev yJVORW，净 solid 7）— 8 distinctPN（real；region East Africa；FWB：尼罗河探险北限点；004-016 1840 Werne 止/004-018 Penney 越 1 度/004-019 Lejean 不得过/018-057 距 90mi/018-097 赴会同胞；≥5 solid）
-- [place] Carmen — 7 distinctPN（real；region Patagonia；SC In Search of the Castaways：Carmen de Patagones，Carmen→Mendoza 路线起点；016-018/016-019 Carmen route；⚠ 建前复核：剔 009-019 命名 Tehuelches 段，确认净 ≥5 solid town）
-- [place] Tandil — 8 distinctPN（real；region Patagonia；SC；⚠ 建前消歧：Sierra Tandil（山脉）vs village of Tandil（020-044 城），须分离仅取 village 确指，参 Concepcion/Talcahuano 城 vs 地物先例；净 town solid 待定）
+- [place] ~~Carmen~~ ✘ **DEFER R174**（净 solid 3<门）— 7 distinctPN 中剔 009-019 命名 Tehuelches enum；余 016-018/016-027/016-032 皆同章 ch.16「Carmen route」薄对话重复；仅 016-019/016-041/021-062 solid（route 起点/地理/Rio Negro 口）。净 3<5，DEFER（承 Brindisi/Yeniseisk 纪律）
+- [place] ~~Tandil~~ → **建 sierra-tandil R174**（rev 5IPFBo，净 solid 8）— 消歧裁定：village of Tandil 仅 020-044/021-059 净 2<门；主体 referent 为 **Sierra Tandil** 山脉（010-043/020-041/020-056/021-001/021-062 五 solid + 026-012/020-044/021-059），建为 sierra-tandil place 页（label Sierra Tandil）
 - [place] Mozambique — 11 distinctPN（多源 DSCF/FWB/MI/TT/TTLU；⚠ 建前严剔：多为「Mozambique coast/channel」海岸海峡区域泛指（奴隶贸易语境），疑 <5 clean town/place solid，enum/region 风险高，未达门即 DEFER）
 <!-- below-gate（不入队）：Castlemaine(3)/Otago(0 无 hit)。下批建序（R172 起 NEW1，R171=EVV5 无建）：Kazeh → Gondokoro → Carmen(re-vet) → Tandil(disambig) → Mozambique(严剔，大概率 DEFER)。 -->
 

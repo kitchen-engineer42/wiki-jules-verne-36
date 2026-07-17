@@ -25365,6 +25365,28 @@
       "book": "Off on a Comet",
       "total_refs": 1
     },
+    "sierra-tandil": {
+      "type": "place",
+      "label": "Sierra Tandil",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "patagonia"
+      ],
+      "path": "si/sierra-tandil.md",
+      "description": "A mountain range of the Argentine pampas rising a thousand feet above the sea, a landmark on the trans-Patagonian search in In Search of the Castaways.",
+      "prose_len": 1610,
+      "prose_chars": 1527,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -32257,6 +32279,8 @@
     "Siberia": "siberia",
     "sicily": "sicily",
     "Sicily": "sicily",
+    "sierra-tandil": "sierra-tandil",
+    "Sierra Tandil": "sierra-tandil",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -32646,6 +32670,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1447,
-  "generated": "2026-07-17T06:39:40Z"
+  "page_count": 1448,
+  "generated": "2026-07-17T06:44:42Z"
 }

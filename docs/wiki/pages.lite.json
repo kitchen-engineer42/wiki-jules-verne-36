@@ -7581,6 +7581,12 @@
       "aliases": [],
       "path": "si/sicily.md"
     },
+    "sierra-tandil": {
+      "type": "place",
+      "label": "Sierra Tandil",
+      "aliases": [],
+      "path": "si/sierra-tandil.md"
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -10903,6 +10909,8 @@
     "Siberia": "siberia",
     "sicily": "sicily",
     "Sicily": "sicily",
+    "sierra-tandil": "sierra-tandil",
+    "Sierra Tandil": "sierra-tandil",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -11292,6 +11300,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1447,
-  "generated": "2026-07-17T06:39:40Z"
+  "page_count": 1448,
+  "generated": "2026-07-17T06:44:42Z"
 }
