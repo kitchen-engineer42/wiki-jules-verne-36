@@ -5377,6 +5377,12 @@
       ],
       "path": "ne/nemo-electricity.md"
     },
+    "nevada": {
+      "type": "place",
+      "label": "Nevada",
+      "aliases": [],
+      "path": "ne/nevada.md"
+    },
     "new-aberfoyle": {
       "type": "place",
       "label": "New Aberfoyle",
@@ -10205,6 +10211,8 @@
     "Nemo's Electricity": "nemo-electricity",
     "Nautilus electricity": "nemo-electricity",
     "Nemo's sodium battery": "nemo-electricity",
+    "nevada": "nevada",
+    "Nevada": "nevada",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
     "new-archangel": "new-archangel",
@@ -11042,6 +11050,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1418,
-  "generated": "2026-07-17T02:20:31Z"
+  "page_count": 1419,
+  "generated": "2026-07-17T02:25:40Z"
 }

@@ -41,7 +41,7 @@
 - [place] Missouri — 14 distinctPN（real；疑多指 Missouri River；建前须查 missouri-river 未建，判州 vs 河主体）
 - [place] Ohio — 14 distinctPN（real；同上，疑 Ohio River；ohio-river 未建）
 - [place] Colorado — 13 distinctPN（real；疑 Colorado River；colorado-river 未建）
-- [place] Nevada — 10 distinctPN（real；region US；AWED 横美铁路段）
+<!-- ✔ [place] Nevada — 已建 nevada（rev SQvvj3，AWED real，5 distinctPN；银州/Carson Valley 入州/Humboldt River+Range/Sierra 西壁/Godfrey Morgan 银财，region United States。剔 Sierra Nevada 山脉泛指 5 项 + GM-006-040 泛指）R135 -->
 - [place] Wisconsin — 10 distinctPN（real；region US；待筛）
 - [place] Iowa — 8 distinctPN（real；region US；RC 平原/AWED 铁路）
 - [place] Oregon — 8 distinctPN（real；region US Pacific NW）
