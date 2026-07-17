@@ -17961,6 +17961,30 @@
       "book": "Master Zacharius",
       "total_refs": 1
     },
+    "nantucket": {
+      "type": "place",
+      "label": "Nantucket",
+      "aliases": [
+        "Nantucket Island"
+      ],
+      "tags": [
+        "place",
+        "united-states",
+        "island"
+      ],
+      "path": "na/nantucket.md",
+      "description": "Island off Massachusetts, celebrated in An Antarctic Mystery as the birthplace of Arthur Gordon Pym.",
+      "prose_len": 1888,
+      "prose_chars": 1799,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "nautilus": {
       "type": "technology",
       "label": "Nautilus",
@@ -31361,6 +31385,9 @@
     "MZ-ch03": "MZ-ch03",
     "MZ-ch04": "MZ-ch04",
     "MZ-ch05": "MZ-ch05",
+    "nantucket": "nantucket",
+    "Nantucket": "nantucket",
+    "Nantucket Island": "nantucket",
     "nautilus": "nautilus",
     "Nautilus": "nautilus",
     "navy-island": "navy-island",
@@ -32225,6 +32252,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1430,
-  "generated": "2026-07-17T03:23:09Z"
+  "page_count": 1431,
+  "generated": "2026-07-17T03:35:11Z"
 }

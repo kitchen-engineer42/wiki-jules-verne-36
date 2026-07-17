@@ -5372,6 +5372,14 @@
       "aliases": [],
       "path": "mz/MZ-ch05.md"
     },
+    "nantucket": {
+      "type": "place",
+      "label": "Nantucket",
+      "aliases": [
+        "Nantucket Island"
+      ],
+      "path": "na/nantucket.md"
+    },
     "nautilus": {
       "type": "technology",
       "label": "Nautilus",
@@ -10274,6 +10282,9 @@
     "MZ-ch03": "MZ-ch03",
     "MZ-ch04": "MZ-ch04",
     "MZ-ch05": "MZ-ch05",
+    "nantucket": "nantucket",
+    "Nantucket": "nantucket",
+    "Nantucket Island": "nantucket",
     "nautilus": "nautilus",
     "Nautilus": "nautilus",
     "navy-island": "navy-island",
@@ -11138,6 +11149,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1430,
-  "generated": "2026-07-17T03:23:09Z"
+  "page_count": 1431,
+  "generated": "2026-07-17T03:35:11Z"
 }

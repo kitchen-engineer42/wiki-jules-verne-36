@@ -71,6 +71,8 @@
 - [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold
 <!-- ═══ R150 SCN28 表层 discover（since_evv5=0 归零后 since_discover=10≥10 触发 §3(3)）：非美城级/非洲/合集城级 toponym 复扫；均比对 existing pages 无重复。new_candidates=5 buildable（≥3 → streak 保持 0）═══ -->
 - [place] Nantucket — 10 distinctPN（real；region United States；An Antarctic Mystery：Pym 出生地/Bedford School；~8 solid AM 主体）
+<!-- ✔ R151 建 nantucket rev=5SFDJS featured；净 solid 7（AM 单源 003-054 Pym 出生地/003-055 Poe romance 起点/004-023 Jeorling 访岛/004-030 Pym 家族居岛/005-004 born at Nantucket+Bedford School/005-005 Penguin 送回/005-035 thirty days out 哗变启航）；剔 005-076 footnote demonym；接 an-antarctic-mystery/connecticut -->
+
 - [place] Tunis — 10 distinctPN（real；region North Africa；Off on a Comet：Bay of Tunis/Cape Matafuz→Tunis/coast of Tunis，OC×5+FWB-004-007+RC-015-004）
 - [place] Timbuktu — 7 distinctPN（real；region West Africa；Robur the Conqueror：Albatross 掠 Timbuktu，RC×7 015-013/016/020/022/046/051+017-003）
 - [place] Tripoli — 9 distinctPN（real；region North Africa；Five Weeks in a Balloon：出发/复得 Tripoli，FWB×5+OC×2+TT）
