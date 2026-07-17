@@ -717,6 +717,13 @@
 <!-- ✔ [place] New America — 已建 new-america（rev KwdOTq，The Adventures of Captain Hatteras，fictional，Arctic；净 solid 7：ACH 039-053/039-058/039-077/046-069/049-003/051-014/057-016）。Altamont 命名极地陆/岛，疑为岛。R191 —— R187 队列末项，本轮建毕队列罄，R192 须再 SCN28 discover -->
 <!-- R188+ 建序：Reptile End → Vanikoro → Tadorn Marsh → New America（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->
 
+<!-- ═══ R192 SCN28 discover（R187 队列 R191 建罄，queue(place)=0 → §3(3)&§3(4) 触发；续掘 Mysterious Island Lincoln Island 内陆水文/林区网，净新 3 buildable 补种；非建页，since_discover 归 0，discover_streak_low=0）═══ -->
+<!-- 入队均已文件系统 + 后缀变体查重（承 Tsalal 教训）。既有排除：serpentine-peninsula（Serpentine=既有页，MI-011-063 命名 Serpentine Peninsula/Reptile-end 同段，本体已建）；great-salt-lake（Salt Lake 全为 Great Salt Lake AWED 同指）；Medicine Bow（AWED×5 单 80DA 铁路桥 borderline DEFER）；Reptile Point（MI×3 净<5）、Grant Lake（2）、Prospect Plateau（0）DEFER。 -->
+<!-- ○ [place] The Mercy — mercy-river NEW（MI×168 distinctPN 极密；Lincoln Island 主河，balloon 抛落处近旁，感 Providence 恩命名〔MI-011-074〕；Chimneys 由其 elbow 折返〔MI-012-069/070〕；穿 Prospect Heights 达 Lake Grant〔MI-013-028〕；左岸 Jacamar Wood〔MI-013-033〕；region Lincoln Island）建序 1 -->
+<!-- ○ [place] Jacamar Wood — jacamar-wood NEW（MI×24；Mercy 左岸林，猎 jacamar 鸟得名〔MI-013-033〕；斜穿东南→西北〔MI-015-033〕；无桥前仅此岸可猎〔MI-019-024〕；含于 Far West 林延展至目不能及〔MI-025-028〕；Granite House 窗以其枝伪装〔MI-043-072〕；region Lincoln Island）建序 2 -->
+<!-- ○ [place] Far West — far-west NEW（MI-referent；Serpentine Peninsula 密林命名 Forests of the Far West〔MI-011-075〕；久未探〔MI-019-024〕；西距四英里首树〔MI-021-017〕；兽群栖此逼近 Prospect Heights〔MI-022-035〕；含 Jacamar Wood 延展〔MI-025-028〕；采野菜远征〔MI-030-011〕；region Lincoln Island。注：混指 generic American West〔AM/ASC/AWED/EHLA 21 hits〕须剔，仅取 MI Lincoln Island 林区指〔33 distinctPN〕）建序 3 -->
+<!-- R193+ 建序：The Mercy → Jacamar Wood → Far West（3 项后队列罄，再 SCN28）。均 MI 单源 ≥5 solid 已抽样确认。注：R193 起始 since_evv5=10 → §3(1b) R193 = EVV5（不建页），Mercy 建序顺延至 R194。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
