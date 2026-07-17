@@ -5713,6 +5713,12 @@
       "aliases": [],
       "path": "no/noroe.md"
     },
+    "north-carolina": {
+      "type": "place",
+      "label": "North Carolina",
+      "aliases": [],
+      "path": "no/north-carolina.md"
+    },
     "north-polar-practical-association": {
       "type": "organization",
       "label": "North Polar Practical Association",
@@ -10738,6 +10744,8 @@
     "Norfolk Island": "norfolk-island",
     "noroe": "noroe",
     "Noroe": "noroe",
+    "north-carolina": "north-carolina",
+    "North Carolina": "north-carolina",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -11601,6 +11609,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1481,
-  "generated": "2026-07-17T10:16:33Z"
+  "page_count": 1482,
+  "generated": "2026-07-17T10:22:34Z"
 }

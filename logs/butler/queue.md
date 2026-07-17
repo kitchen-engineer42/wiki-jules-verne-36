@@ -761,7 +761,7 @@
 <!-- ===== R218 SCN28 discover（place，queue==0 触发 §3(4) zombie；R212 备选复核 solid + 全库多词地名重扫）===== -->
 <!-- 说明：R212 4 备选逐一 gather 复核，均确凿单指净新地名（≥5 solid）→ 入建序。多词≥7-PN 净新地名池已薄（余 North America/Central Asia/Central Africa 皆洲/大区泛指 HOLD）；单词地名〔Raleigh/Morganton/Wilmington/Pamlico/Behring 等〕为 discover3 多词正则盲区，留待下一 SCN28 单词扫。new_candidates=4≥3 → place 未饱和，streak 0。 -->
 <!-- ✔ [place] Montgomery Street — montgomery-street 已建 R219 rev=GspUcw（GM×13+AWED×3=16 distinct 跨作品单指真实 SF 主街，比作 Regent/Broadway；real，region United States）建序 1 -->
-<!-- ○ [place] North Carolina — north-carolina NEW（MW×11+FF×7+MI/TTLU 各1=20 distinct 单指真实美州；首府 Raleigh，Pamlico Sound；Great Eyrie〔MW〕+ Healthful House〔FF〕所在州；real，region United States）建序 2 -->
+<!-- ✔ [place] North Carolina — north-carolina 已建 R220 rev=t1j8Ua（MW×11+FF×7+MI/TTLU 各1=20 distinct 单指真实美州；首府 Raleigh，Pamlico Sound；Great Eyrie〔MW〕+ Healthful House〔FF〕所在州；real，region United States）建序 2 -->
 <!-- ○ [place] Pleasant Garden — pleasant-garden NEW（MW×16 单指；北卡 Morganton 近村，Great Eyrie 山脚，火山灰飘落地；real，region United States/North Carolina）建序 3 -->
 <!-- ○ [place] Kamtchatka Current — kamtchatka-current NEW（FC×15 单指；白令海域洋流，与 Behring Current 交汇，牵动浮岛漂向；real，region North Pacific）建序 4 -->
 <!-- R219+ 建序：Montgomery Street → North Carolina → Pleasant Garden → Kamtchatka Current（4 项，建毕再 SCN28 单词地名扫）。建时逐句核 referent 单指，抽 ≥5 solid。 -->

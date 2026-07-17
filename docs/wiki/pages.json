@@ -12638,7 +12638,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 11
+      "total_refs": 12
     },
     "great-salt-lake": {
       "type": "place",
@@ -13035,7 +13035,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "himalaya": {
       "type": "place",
@@ -17365,7 +17365,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "morris-island": {
       "type": "place",
@@ -19156,6 +19156,30 @@
       "book": "The Waif of the Cynthia",
       "total_refs": 0
     },
+    "north-carolina": {
+      "type": "place",
+      "label": "North Carolina",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "master-of-the-world",
+        "facing-the-flag",
+        "atlantic"
+      ],
+      "path": "no/north-carolina.md",
+      "description": "The southern American state, capital Raleigh, whose Alleghany heights hold the Great Eyrie and whose coast borders Pamlico Sound in Master of the World and Facing the Flag.",
+      "prose_len": 2478,
+      "prose_chars": 2389,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Master of the World",
+      "total_refs": 0
+    },
     "north-polar-practical-association": {
       "type": "organization",
       "label": "North Polar Practical Association",
@@ -20434,7 +20458,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "paris": {
       "type": "place",
@@ -32692,6 +32716,8 @@
     "Norfolk Island": "norfolk-island",
     "noroe": "noroe",
     "Noroe": "noroe",
+    "north-carolina": "north-carolina",
+    "North Carolina": "north-carolina",
     "north-polar-practical-association": "north-polar-practical-association",
     "North Polar Practical Association": "north-polar-practical-association",
     "North Polar Association": "north-polar-practical-association",
@@ -33555,6 +33581,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1481,
-  "generated": "2026-07-17T10:16:33Z"
+  "page_count": 1482,
+  "generated": "2026-07-17T10:22:34Z"
 }
