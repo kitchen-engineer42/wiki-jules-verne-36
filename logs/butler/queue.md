@@ -66,6 +66,15 @@
 <!-- ✔ [place] Kentucky — 已建 kentucky（rev vnIyn9，Facing the Flag real，region United States，页内引注 6：FF-009-019 Mammoth Caves in Kentucky/009-020「I know these Kentucky grottoes, having visited」/009-047 grottoes of Kentucky + JCE-030-013 mammoth cave 500ft/40mi + MI-057-108 Mammoth caverns in Kentucky + MW-004-013 Terror near Frankfort；剔 MI/SI「Kentucky oxen」牛种喻 + FEM/RM 人籍列举 + MW-008-044/RM-023-013 州列举；接 facing-the-flag/journey-to-the-centre-of-the-earth/the-mysterious-island/the-master-of-the-world）R143 -->
 <!-- ✔ [place] Massachusetts — 已建 massachusetts（rev NroWAg，The Mysterious Island real，region United States，页内引注 7：MI-002-004 Cyrus Smith 母州/002-011 Neb 离州 + FEM-004-003 Cambridge 天文台/RC-001-034 Cambridge 天文台 + BR-006-031 Fort Sumter「Massachusetts granite」+ DSCF-028-023 Salem 棉布 + MW-006-025 Terror 巡岸；剔 DSCF-019-010/FEM-003-009/RM-023-013 州/城列举 + MW-008-038 人籍；接 the-mysterious-island/from-the-earth-to-the-moon/robur-the-conqueror/the-blockade-runners/dick-sand-a-captain-at-fifteen/the-master-of-the-world）R144 -->
 - [place] Virginia — 8 distinctPN；待筛（BR 烟草/FF Norfolk 城确指 solid + 多处州列举/DSCF 废奴枚举）；real；region US
+<!-- ✘ R155 复议 DEFER：净 solid 仅 4（FF-004-029 Norfolk/Cape Henry + FF-018-007 Chesapeake + MI-002-002 Richmond=capital of Virginia + BR-001-014 烟草）；剔 MW-011-006 West Virginia 异州 + BR-007-010/DSCF-019-010/RM-023-013 州列举。距门 1，待凑第 5 solid。 -->
+<!-- ✘ R155 复议 Indiana DEFER：5 distinctPN 全州列举（AWED-031-037/FEM-026-007/MW-004-023/RC-009-008/RM-023-013），净 solid=0，不可建。 -->
+<!-- ✘ R154 Timbuktu 判重 → 既有 timbuctoo 覆盖（见上 Timbuktu 行注）。 -->
+<!-- ✘ R155 Baikal 判重 → 既有 lake-baikal 覆盖（MS×17 全 Lake Baikal 湖/provinces，与既有湖页同指）。 -->
+<!-- ═══ R155 SCN28 深层 discover（实务触发：R150 补种批已尽、既有 queue 净 buildable 罄，HK-queue-size-scope 情形；宽扫中亚/俄/合集城岛级 toponym，双向查重含拼写变体）：new_candidates=4 buildable（≥3 → streak 保持 0）═══ -->
+- [place] Samarkand — 31 distinctPN（real；region Central Asia；ASC Claudius Bombarnac 大中亚铁路要站；剔 Merv/Bokhara/... 站名列举后仍 ≥5 solid）
+- [place] Ceuta — 20 distinctPN（real；region North Africa；OC Off on a Comet：对 Gibraltar 之摩洛哥岸点/Hansa 泊 Ceuta/彗后残岛/Ceuta→Tripoli 巡航；OC×19+TTLU×1）
+- [place] Formentera — 18 distinctPN（real；region Balearic Islands；OC Off on a Comet：巴利阿里最小岛/Servadac 折返 Formentera/Rosette 汇合关键地；OC 单源）
+- [place] Callao — 14 distinctPN（real；region Peru；Lima 之港 Port of Callao；PL×5+SC×9；与既有 lima 页区分港 vs 城）
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
 - [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold
