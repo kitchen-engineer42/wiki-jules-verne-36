@@ -3841,6 +3841,12 @@
       "aliases": [],
       "path": "ic/icy-cape.md"
     },
+    "illinois": {
+      "type": "place",
+      "label": "Illinois",
+      "aliases": [],
+      "path": "il/illinois.md"
+    },
     "in-search-of-the-castaways": {
       "type": "work",
       "label": "In Search of the Castaways",
@@ -9902,6 +9908,8 @@
     "Ichim": "ichim",
     "icy-cape": "icy-cape",
     "Icy Cape": "icy-cape",
+    "illinois": "illinois",
+    "Illinois": "illinois",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
     "In Search of the Castaways": "in-search-of-the-castaways",
     "The Children of Captain Grant": "in-search-of-the-castaways",
@@ -11122,6 +11130,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1428,
-  "generated": "2026-07-17T03:15:05Z"
+  "page_count": 1429,
+  "generated": "2026-07-17T03:19:56Z"
 }

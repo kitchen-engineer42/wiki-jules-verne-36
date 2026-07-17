@@ -37,6 +37,8 @@
 <!-- ✔ [place] Senegal — 已建 senegal（rev jgvSUe，Five Weeks in a Balloon real，region West Africa，页内引注 11：FWB-008-022/038-037/041-002/041-003/041-022/042-002/043-067/044-002/044-010、SC-008-031、TTLU-032-002；定主体=西非区域/法属殖民地，Senegal River 为其核心特征；Gouina 瀑布/Medina 哨站/Fonta-Jallon；接 five-weeks-in-a-balloon/africa/cape-verde/timbuctoo）R132 -->
 <!-- ✔ [place] Utah — 已建 utah（rev FsdqIf，Around the World in Eighty Days real，region US，页内引注 8：AWED-026-026/027-009/027-015/027-021、GM-001-004、RC-010-024/010-026；定主体=摩门领地/州（含 salt-lake-city/great-salt-lake），Brigham Young/Union 冲突/Humboldt Range 隘口/Albatross 斜掠；剔 GM-006-040 泛指 Far West；接 phileas-fogg/great-salt-lake/salt-lake-city/around-the-world-in-eighty-days/albatross/robur-the-conqueror）R133 -->
 - [place] Illinois — 21 distinctPN（real；region US；待筛泛指 vs 确指，疑 Chicago/railroad 列举）
+<!-- ✔ R147 建 illinois rev=E2egcC featured；净 solid 7（AM×3 004-046/005-026/017-062 Dirk Peters@Vandalia + AWED×2 027-013/026-003 Mormon Nauvoo + MI-002-004 Cyrus Smith 从军 + RC-009-014 Albatross 越州）；剔州列举（MW-004-013/004-023/008-044/RM-023-013/AWED-027-015）+ 人籍（MW-008-038） -->
+
 - [place] Michigan — 15 distinctPN（real；region US；须与 lake-michigan 既有页区分州 vs 湖）
 - [place] Missouri — 14 distinctPN（real；疑多指 Missouri River；建前须查 missouri-river 未建，判州 vs 河主体）
 - [place] Ohio — 14 distinctPN（real；同上，疑 Ohio River；ohio-river 未建）

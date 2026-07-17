@@ -12819,6 +12819,27 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "illinois": {
+      "type": "place",
+      "label": "Illinois",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states"
+      ],
+      "path": "il/illinois.md",
+      "description": "Midwestern state of the United States; residence of Dirk Peters at Vandalia and a waypoint of several Vernean journeys.",
+      "prose_len": 2279,
+      "prose_chars": 2186,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "in-search-of-the-castaways": {
       "type": "work",
       "label": "In Search of the Castaways",
@@ -30959,6 +30980,8 @@
     "Ichim": "ichim",
     "icy-cape": "icy-cape",
     "Icy Cape": "icy-cape",
+    "illinois": "illinois",
+    "Illinois": "illinois",
     "in-search-of-the-castaways": "in-search-of-the-castaways",
     "In Search of the Castaways": "in-search-of-the-castaways",
     "The Children of Captain Grant": "in-search-of-the-castaways",
@@ -32179,6 +32202,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1428,
-  "generated": "2026-07-17T03:15:40Z"
+  "page_count": 1429,
+  "generated": "2026-07-17T03:19:56Z"
 }
