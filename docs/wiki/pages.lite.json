@@ -1575,6 +1575,12 @@
       "aliases": [],
       "path": "ca/caribbean-sea.md"
     },
+    "carmen": {
+      "type": "place",
+      "label": "Carmen",
+      "aliases": [],
+      "path": "ca/carmen.md"
+    },
     "caspian-sea": {
       "type": "place",
       "label": "Caspian Sea",
@@ -9668,6 +9674,8 @@
     "Prince Dakkar": "captain-nemo",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
+    "carmen": "carmen",
+    "Carmen": "carmen",
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
@@ -11518,6 +11526,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1471,
-  "generated": "2026-07-17T09:16:53Z"
+  "page_count": 1472,
+  "generated": "2026-07-17T09:19:51Z"
 }

@@ -5264,6 +5264,30 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "carmen": {
+      "type": "place",
+      "label": "Carmen",
+      "aliases": [],
+      "tags": [
+        "place",
+        "argentina",
+        "in-search-of-the-castaways",
+        "town",
+        "patagonia"
+      ],
+      "path": "ca/carmen.md",
+      "description": "A colonial town of Patagonia at the mouth of the Rio Negro, terminus of the Carmen-to-Mendoza route in In Search of the Castaways.",
+      "prose_len": 1987,
+      "prose_chars": 1898,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "caspian-sea": {
       "type": "place",
       "label": "Caspian Sea",
@@ -31439,6 +31463,8 @@
     "Prince Dakkar": "captain-nemo",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
+    "carmen": "carmen",
+    "Carmen": "carmen",
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
@@ -33289,6 +33315,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1471,
-  "generated": "2026-07-17T09:16:53Z"
+  "page_count": 1472,
+  "generated": "2026-07-17T09:19:51Z"
 }
