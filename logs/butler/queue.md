@@ -699,6 +699,16 @@
 <!-- ⚠ R180 修正：R179 误将 Sneffels 标 genuinely-NEW——实为既有 snaefellsjokull（alias Sneffels/Snæfell，同火山，本档 line 7/311 早有记）。Ishim=既有 ichim（line 624 早有记）。Obi/Yenisei 河亦既有。三者建前文件系统预检拦截，未建残页。查重纪律：查真实地名拼写变体（snaefellsjokull/ichim），不止英化 slug。 -->
 <!-- 未采待 R181+ probe：Tobol 河（MS×1，净<5 DEFER）、AM/JCE/FEM/OC 未采 toponym、MS 剩余小站——R181 discover 轮统一补录。 -->
 
+<!-- ═══ R181 SCN28 discover（since_discover=10≥10 → §3(3) 触发；表层 toponym 复扫 AM/JCE/FEM/OC 未采层，净新 5 buildable 补种；非建页，since_discover 归 0）═══ -->
+<!-- 净新 buildable=5（均未建、均 ≥5 solid distinctPN），建序按 solid 强度： -->
+- [place] Tsalal <!-- AM×90 distinctPN；Pym 叙事南极岛（土著/Grampus 幸存者被带至此），最强候选。slug tsalal，NEW -->
+- [place] Tristan d'Acunha <!-- AM×29+SC×14 多源；大西洋岛，Halbrane 卸货地/航线常提。slug tristan-da-cunha，NEW -->
+- [place] Bennet Islet <!-- AM×13；以 Jane 船东合伙人 Bennet 命名之岛，赴 Tsalal 途中（005-054/011-013/012-017）。slug bennet-islet，NEW（FWB×6 为异指，剔）-->
+- [place] Long's Peak <!-- FEM×8+RM×7；Rocky Mtns 巨镜观测台（Gun Club 望远镜架设/月弹观测电报，024-022/027-008/013/016）。slug longs-peak，NEW -->
+- [place] Stapi <!-- JCE×10；Snæfell 半岛南麓村，火山脚下牧师宅（下降前驻地，011-011/011-014/013-035/014-002/014-005/014-017）。slug stapi，NEW -->
+<!-- 复扫既有排除：gourbi-island/christmas-harbour/halbrane-land（AM）、falkland-islands、malta/gibraltar/ceuta/formentera/florida/texas/hamburg/copenhagen 皆已建；Portland（Cape，JCE×3 净<5 DEFER）、Altona（JCE×6 混列举 DEFER）、Reykjavik/Gardar（0 命中，拼写待考）。 -->
+<!-- 下轮 R182 = EVV5（since_evv5 SCN28 后=10≥10 → §3(1b)），reflection 非建页；R183 起转 NEW1 按序建 Tsalal→Tristan→Bennet Islet→Long's Peak→Stapi。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
