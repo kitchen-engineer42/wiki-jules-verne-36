@@ -738,7 +738,7 @@
 <!-- ✔ [place] Wimerra — 已建 wimerra（R203 NEW1，rev vF0q4O，11 solid SC PN；澳洲 Victoria 河/地区，Ayrton 叛迹枢纽）。下轮 R204 = EVV5（非建页），队列顺延 R205 -->
 <!-- ✔ [place] Guamini — 已建 guamini（R205 NEW1，rev eDAIoc，9 solid SC PN；阿根廷 Pampas 河/盐湖地带，Sierra Ventana 近旁，单指无混淆） -->
 <!-- ✔ [place] Carmen — 已建 carmen（R206 NEW1，rev 2GtTAr，7 solid SC PN；巴塔哥尼亚 Rio Negro 口殖民镇，Carmen–Mendoza 商道东端；同名异指审查通过，非人名，单指） -->
-<!-- ○ [place] Rio Colorado — rio-colorado NEW（SC×6 主 / DSCF×1；巴塔哥尼亚河，越 37th parallel〔SC-016-015〕，Rio Negro 姊妹河〔SC-032-011〕；同名异指剔 1 DSCF；region Patagonia，real）建序 5 -->
+<!-- ✔ [place] Rio Colorado — 已建 rio-colorado（R207 NEW1，rev 4MWSuw，8 solid SC PN；巴塔哥尼亚 37th-parallel 河，Rio Negro 姊妹河；剔 3 AWED 美 Colorado + 1 DSCF + 1 RC 同名异指）。★ R201 队列 5 项全建罄，R208 = SCN28-zombie -->
 <!-- R202+ 建序：Rio Negro → Wimerra → Guamini → Carmen → Rio Colorado（5 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。建时逐句核 VVV referent（Rio Negro 剔 SC、Rio Colorado 剔 DSCF）。 -->
 
 

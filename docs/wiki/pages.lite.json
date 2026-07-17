@@ -6480,6 +6480,14 @@
       "aliases": [],
       "path": "ri/riga.md"
     },
+    "rio-colorado": {
+      "type": "place",
+      "label": "Rio Colorado",
+      "aliases": [
+        "Colorado"
+      ],
+      "path": "ri/rio-colorado.md"
+    },
     "rio-de-janeiro": {
       "type": "place",
       "label": "Rio de Janeiro",
@@ -10872,6 +10880,9 @@
     "Richmond": "richmond",
     "riga": "riga",
     "Riga": "riga",
+    "rio-colorado": "rio-colorado",
+    "Rio Colorado": "rio-colorado",
+    "Colorado": "rio-colorado",
     "rio-de-janeiro": "rio-de-janeiro",
     "Rio de Janeiro": "rio-de-janeiro",
     "rio-de-la-plata": "rio-de-la-plata",
@@ -11526,6 +11537,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1472,
-  "generated": "2026-07-17T09:19:51Z"
+  "page_count": 1473,
+  "generated": "2026-07-17T09:22:23Z"
 }

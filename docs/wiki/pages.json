@@ -21713,6 +21713,32 @@
       "book": "Michael Strogoff",
       "total_refs": 0
     },
+    "rio-colorado": {
+      "type": "place",
+      "label": "Rio Colorado",
+      "aliases": [
+        "Colorado"
+      ],
+      "tags": [
+        "place",
+        "argentina",
+        "in-search-of-the-castaways",
+        "river",
+        "patagonia"
+      ],
+      "path": "ri/rio-colorado.md",
+      "description": "A Patagonian river crossing the thirty-seventh parallel, sister to the Rio Negro, searched by the expedition in In Search of the Castaways.",
+      "prose_len": 2149,
+      "prose_chars": 2060,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "rio-de-janeiro": {
       "type": "place",
       "label": "Rio de Janeiro",
@@ -32661,6 +32687,9 @@
     "Richmond": "richmond",
     "riga": "riga",
     "Riga": "riga",
+    "rio-colorado": "rio-colorado",
+    "Rio Colorado": "rio-colorado",
+    "Colorado": "rio-colorado",
     "rio-de-janeiro": "rio-de-janeiro",
     "Rio de Janeiro": "rio-de-janeiro",
     "rio-de-la-plata": "rio-de-la-plata",
@@ -33315,6 +33344,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1472,
-  "generated": "2026-07-17T09:19:51Z"
+  "page_count": 1473,
+  "generated": "2026-07-17T09:22:23Z"
 }
