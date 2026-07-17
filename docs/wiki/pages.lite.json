@@ -1569,6 +1569,12 @@
       ],
       "path": "ca/caspian-sea.md"
     },
+    "cassange": {
+      "type": "place",
+      "label": "Cassange",
+      "aliases": [],
+      "path": "ca/cassange.md"
+    },
     "caucasus": {
       "type": "place",
       "label": "Caucasus",
@@ -9514,6 +9520,8 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "cassange": "cassange",
+    "Cassange": "cassange",
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
@@ -11311,6 +11319,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1449,
-  "generated": "2026-07-17T06:51:31Z"
+  "page_count": 1450,
+  "generated": "2026-07-17T06:57:13Z"
 }

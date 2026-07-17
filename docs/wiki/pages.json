@@ -5241,6 +5241,28 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 5
     },
+    "cassange": {
+      "type": "place",
+      "label": "Cassange",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "west-africa"
+      ],
+      "path": "ca/cassange.md",
+      "description": "A slave-trade market town of the Benguela interior, one of the trader Alvez's factories in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1311,
+      "prose_chars": 1230,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 63,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "caucasus": {
       "type": "place",
       "label": "Caucasus",
@@ -30900,6 +30922,8 @@
     "caspian-sea": "caspian-sea",
     "Caspian Sea": "caspian-sea",
     "The Caspian": "caspian-sea",
+    "cassange": "cassange",
+    "Cassange": "cassange",
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
@@ -32697,6 +32721,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1449,
-  "generated": "2026-07-17T06:51:31Z"
+  "page_count": 1450,
+  "generated": "2026-07-17T06:57:13Z"
 }
