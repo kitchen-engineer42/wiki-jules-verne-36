@@ -94,8 +94,12 @@
 - [place] Douchak — 11 distinctPN（real；region Transcaspia；ASC；008-022 660th verst 站/008-023 Noltitz 游/008-025 或为英印线终点/008-028 "did" Douchak/008-060 停半时/010-041 载 mandarin 尸自 Douchak）
 <!-- ✔ R164 建 douchak rev=p6t41a featured；净 solid 11（ASC 单源 008-022 660th verst 6am/008-023 Noltitz 游/008-028 did/008-060 停半时/009-029 Askhabad+Douchak 补给/008-021 线离路/008-025 或英印线终点 Kandahar/010-041 载 mandarin Yen Lou 尸/018-006 Faruskiar 于 Douchak 登车/011-017 Mongols 于 Douchak/019-003 Faruskiar+Ghangir 于 Douchak）；接 the-adventures-of-a-special-correspondent -->
 
-- [place] Brindisi — 8 distinctPN（real；region Italy；AWED Around the World in Eighty Days；006-003 Mongolia 往返 Brindisi-Bombay/006-007/006-008 直自 Brindisi 载印度邮/009-002 客自 Brindisi 赴印/003-012 侦探赴港；⚠ 剔 003-029/007-031/007-032 行程表列举后 ~5 solid，建前复核）
+- [place] Brindisi — 8 distinctPN（real；region Italy；AWED Around the World in Eighty Days；006-003 Mongolia 往返 Brindisi-Bombay/006-007/006-008 直自 Brindisi 载印度邮/009-002 客自 Brindisi 赴印；003-012 侦探赴港）
+<!-- ✘ R165 DEFER：建前复核净 clean solid=4（006-003 Mongolia 往返/006-007 直自 Brindisi/006-008 载印度邮/009-002 客赴印）。剔 003-012/003-029/007-031/007-032 港名并列与行程表列举（enumeration）。距 5 门 1，与 Virginia 同款 DEFER，待凑第 5 solid 或 Phase 3 富化。不建。 -->
+
 - [place] Concepcion — 6 distinctPN（real；region Chile；SC In Search of the Castaways；007-038/008-066 目的地 Concepcion/009-006 学语/010-004 英领事居 Concepcion/010-005 古勇士城成妇孺村[震后]；⚠ ~5 solid 临界，建前复核）
+<!-- ✔ R165 建 concepcion rev=oYShag featured；建前复核净 solid 6（SC 单源 007-046 Duncan 航向 Concepcion/009-006 抵城前学语/010-004 英领事居城外一时程/010-005 古勇士城成妇孺村震后 + 007-038/008-066 目的地对白确指）；区分既有 bay-of-talcahuano（城 vs 港）；接 in-search-of-the-castaways -->
+
 
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑

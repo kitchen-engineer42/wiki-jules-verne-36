@@ -5565,6 +5565,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 47
     },
+    "concepcion": {
+      "type": "place",
+      "label": "Concepcion",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "chile"
+      ],
+      "path": "co/concepcion.md",
+      "description": "An old city of Chile near the Pacific coast, the landfall from which the 37th-parallel search begins in In Search of the Castaways.",
+      "prose_len": 1718,
+      "prose_chars": 1637,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "congo": {
       "type": "place",
       "label": "Congo",
@@ -30757,6 +30779,8 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "concepcion": "concepcion",
+    "Concepcion": "concepcion",
     "congo": "congo",
     "Congo": "congo",
     "connecticut": "connecticut",
@@ -32504,6 +32528,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1441,
-  "generated": "2026-07-17T05:58:37Z"
+  "page_count": 1442,
+  "generated": "2026-07-17T06:01:55Z"
 }

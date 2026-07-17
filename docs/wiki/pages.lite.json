@@ -1663,6 +1663,12 @@
       "aliases": [],
       "path": "co/columbiad.md"
     },
+    "concepcion": {
+      "type": "place",
+      "label": "Concepcion",
+      "aliases": [],
+      "path": "co/concepcion.md"
+    },
     "congo": {
       "type": "place",
       "label": "Congo",
@@ -9497,6 +9503,8 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "concepcion": "concepcion",
+    "Concepcion": "concepcion",
     "congo": "congo",
     "Congo": "congo",
     "connecticut": "connecticut",
@@ -11244,6 +11252,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1441,
-  "generated": "2026-07-17T05:58:37Z"
+  "page_count": 1442,
+  "generated": "2026-07-17T06:01:55Z"
 }
