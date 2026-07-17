@@ -13388,6 +13388,28 @@
       "book": "Off on a Comet",
       "total_refs": 1
     },
+    "jacamar-wood": {
+      "type": "place",
+      "label": "Jacamar Wood",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lincoln-island",
+        "forest",
+        "the-mysterious-island",
+        "exploration"
+      ],
+      "path": "ja/jacamar-wood.md",
+      "description": "The forest on the left bank of the Mercy on Lincoln Island, named for the jacamar bird.",
+      "prose_len": 2214,
+      "prose_chars": 2125,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -31819,6 +31841,8 @@
     "Isthmus of Panama": "isthmus-of-panama",
     "italy": "italy",
     "Italy": "italy",
+    "jacamar-wood": "jacamar-wood",
+    "Jacamar Wood": "jacamar-wood",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -33061,6 +33085,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1463,
-  "generated": "2026-07-17T08:33:45Z"
+  "page_count": 1464,
+  "generated": "2026-07-17T08:38:31Z"
 }

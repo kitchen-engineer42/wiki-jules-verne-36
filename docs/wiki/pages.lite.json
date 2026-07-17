@@ -4005,6 +4005,12 @@
       "aliases": [],
       "path": "it/italy.md"
     },
+    "jacamar-wood": {
+      "type": "place",
+      "label": "Jacamar Wood",
+      "aliases": [],
+      "path": "ja/jacamar-wood.md"
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -10190,6 +10196,8 @@
     "Isthmus of Panama": "isthmus-of-panama",
     "italy": "italy",
     "Italy": "italy",
+    "jacamar-wood": "jacamar-wood",
+    "Jacamar Wood": "jacamar-wood",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -11432,6 +11440,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1463,
-  "generated": "2026-07-17T08:33:45Z"
+  "page_count": 1464,
+  "generated": "2026-07-17T08:37:27Z"
 }
