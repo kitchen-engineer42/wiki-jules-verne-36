@@ -30844,6 +30844,32 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "wimerra": {
+      "type": "place",
+      "label": "Wimerra",
+      "aliases": [
+        "Wimerra River"
+      ],
+      "tags": [
+        "place",
+        "australia",
+        "in-search-of-the-castaways",
+        "river",
+        "exploration"
+      ],
+      "path": "wi/wimerra.md",
+      "description": "A river and district of the Province of Victoria, crossed by the expedition in In Search of the Castaways.",
+      "prose_len": 2201,
+      "prose_chars": 2112,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "wisconsin": {
       "type": "place",
       "label": "Wisconsin",
@@ -33217,6 +33243,9 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "wimerra": "wimerra",
+    "Wimerra": "wimerra",
+    "Wimerra River": "wimerra",
     "wisconsin": "wisconsin",
     "Wisconsin": "wisconsin",
     "yakutsk": "yakutsk",
@@ -33231,6 +33260,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1469,
-  "generated": "2026-07-17T09:08:50Z"
+  "page_count": 1470,
+  "generated": "2026-07-17T09:11:14Z"
 }

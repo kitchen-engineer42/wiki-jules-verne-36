@@ -9221,6 +9221,14 @@
       "aliases": [],
       "path": "we/wellington-channel.md"
     },
+    "wimerra": {
+      "type": "place",
+      "label": "Wimerra",
+      "aliases": [
+        "Wimerra River"
+      ],
+      "path": "wi/wimerra.md"
+    },
     "wisconsin": {
       "type": "place",
       "label": "Wisconsin",
@@ -11482,6 +11490,9 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "wimerra": "wimerra",
+    "Wimerra": "wimerra",
+    "Wimerra River": "wimerra",
     "wisconsin": "wisconsin",
     "Wisconsin": "wisconsin",
     "yakutsk": "yakutsk",
@@ -11496,6 +11507,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1469,
-  "generated": "2026-07-17T09:08:50Z"
+  "page_count": 1470,
+  "generated": "2026-07-17T09:11:14Z"
 }
