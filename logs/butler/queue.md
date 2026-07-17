@@ -83,6 +83,14 @@
 - [place] Callao — 14 distinctPN（real；region Peru；Lima 之港 Port of Callao；PL×5+SC×9；与既有 lima 页区分港 vs 城）
 <!-- ✔ R159 建 callao rev=qUuRv9 featured；净 solid 9（PL-002-006 Lima 之港建 1779/002-036 Annonciation 现于 Callao/003-062 Sarah 骑向 Callao/003-063 夺 Callao 舰；SC-002-075 Britannia 5/30 离 Callao/004-005 自 Callao 后无音/033-042 Callao 补给启航/063-067 离 Callao 后侦 NZ）；region South America；接 the-pearl-of-lima -->
 
+<!-- ═══ R161 SCN28 深层 discover（R155 补种批 4/4 全消、净 buildable 罄；R160 EVV5 后 since_discover=5<10 名义不满足，净 buildable=0 实务触发，HK-queue-size-scope 情形；宽扫中亚/远东铁路站、地中海港、南美城，双向查重 label+aliases+id 含拼写变体）：new_candidates=5 buildable（≥3 → streak 保持 0）═══ -->
+<!-- 查重命中既有页（不入队）：Valparaiso(valparaiso)/Talcahuano(bay-of-talcahuano)/Auckland/Yokohama/Suez/Omaha/Tiflis/Shanghai/Allahabad/Benares/Teheran ——HK-discover-existing-type-blindspot 主动规避，建前捕获 -->
+- [place] Kachgar — 24 distinctPN（real；region Chinese Turkestan；ASC The Adventures of a Special Correspondent：Grand Transasiatic 华属段起点/Chinese Turkestan 首府；剔 Merv/Bokhara 列举后 ≥5 solid：008-032 华属段/013-108 华境/015-045 250km/015-075 抵城首府/016-002 Russians lord it）
+- [place] Tachkend — 15 distinctPN（real；region Central Asia；ASC；alias Tashkend；006-011 pedlars/013-005 睡至 Tachkend/013-006 Samarkand→Tachkend 300km/014-001 1870 俄设集市/014-003 停 2.5h/014-007 人口；剔 005-018/005-023 列举）
+- [place] Douchak — 11 distinctPN（real；region Transcaspia；ASC；008-022 660th verst 站/008-023 Noltitz 游/008-025 或为英印线终点/008-028 "did" Douchak/008-060 停半时/010-041 载 mandarin 尸自 Douchak）
+- [place] Brindisi — 8 distinctPN（real；region Italy；AWED Around the World in Eighty Days；006-003 Mongolia 往返 Brindisi-Bombay/006-007/006-008 直自 Brindisi 载印度邮/009-002 客自 Brindisi 赴印/003-012 侦探赴港；⚠ 剔 003-029/007-031/007-032 行程表列举后 ~5 solid，建前复核）
+- [place] Concepcion — 6 distinctPN（real；region Chile；SC In Search of the Castaways；007-038/008-066 目的地 Concepcion/009-006 学语/010-004 英领事居 Concepcion/010-005 古勇士城成妇孺村[震后]；⚠ ~5 solid 临界，建前复核）
+
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
 - [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold
