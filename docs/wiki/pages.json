@@ -13247,6 +13247,30 @@
       "book": "Michael Strogoff",
       "total_refs": 12
     },
+    "irtish": {
+      "type": "place",
+      "label": "Irtish",
+      "aliases": [],
+      "tags": [
+        "siberia",
+        "russia",
+        "michael-strogoff",
+        "river",
+        "real-place"
+      ],
+      "path": "ir/irtish.md",
+      "description": "A great river of Western Siberia in Michael Strogoff, running past Omsk and marking the frontier of the Tartar advance.",
+      "prose_len": 1405,
+      "prose_chars": 1324,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "island-of-ljakow": {
       "type": "place",
       "label": "Island of Ljakow",
@@ -31561,6 +31585,8 @@
     "Ireland": "ireland",
     "irkutsk": "irkutsk",
     "Irkutsk": "irkutsk",
+    "irtish": "irtish",
+    "Irtish": "irtish",
     "island-of-ljakow": "island-of-ljakow",
     "Island of Ljakow": "island-of-ljakow",
     "Ljakow Island": "island-of-ljakow",
@@ -32795,6 +32821,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1453,
-  "generated": "2026-07-17T07:18:11Z"
+  "page_count": 1454,
+  "generated": "2026-07-17T07:28:41Z"
 }

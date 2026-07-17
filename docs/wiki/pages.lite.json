@@ -3963,6 +3963,12 @@
       "aliases": [],
       "path": "ir/irkutsk.md"
     },
+    "irtish": {
+      "type": "place",
+      "label": "Irtish",
+      "aliases": [],
+      "path": "ir/irtish.md"
+    },
     "island-of-ljakow": {
       "type": "place",
       "label": "Island of Ljakow",
@@ -10109,6 +10115,8 @@
     "Ireland": "ireland",
     "irkutsk": "irkutsk",
     "Irkutsk": "irkutsk",
+    "irtish": "irtish",
+    "Irtish": "irtish",
     "island-of-ljakow": "island-of-ljakow",
     "Island of Ljakow": "island-of-ljakow",
     "Ljakow Island": "island-of-ljakow",
@@ -11343,6 +11351,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1453,
-  "generated": "2026-07-17T07:18:11Z"
+  "page_count": 1454,
+  "generated": "2026-07-17T07:28:41Z"
 }
