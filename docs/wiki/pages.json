@@ -29521,6 +29521,32 @@
       "book": "The Waif of the Cynthia",
       "total_refs": 0
     },
+    "vanikoro": {
+      "type": "place",
+      "label": "Vanikoro",
+      "aliases": [
+        "Vanikoro Island"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "pacific",
+        "twenty-thousand-leagues-under-the-seas",
+        "shipwreck"
+      ],
+      "path": "va/vanikoro.md",
+      "description": "A Pacific island of reefs where the La Pérouse expedition was lost, visited by the Nautilus.",
+      "prose_len": 1492,
+      "prose_chars": 1411,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Twenty Thousand Leagues Under the Seas",
+      "total_refs": 0
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -32872,6 +32898,9 @@
     "Valparaiso": "valparaiso",
     "vancouver-island": "vancouver-island",
     "Vancouver Island": "vancouver-island",
+    "vanikoro": "vanikoro",
+    "Vanikoro": "vanikoro",
+    "Vanikoro Island": "vanikoro",
     "VB": "VB",
     "vesfjorddal": "vesfjorddal",
     "Vesfjorddal": "vesfjorddal",
@@ -32954,6 +32983,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1459,
-  "generated": "2026-07-17T08:10:13Z"
+  "page_count": 1460,
+  "generated": "2026-07-17T08:13:49Z"
 }

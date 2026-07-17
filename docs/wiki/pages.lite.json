@@ -8832,6 +8832,14 @@
       "aliases": [],
       "path": "va/vancouver-island.md"
     },
+    "vanikoro": {
+      "type": "place",
+      "label": "Vanikoro",
+      "aliases": [
+        "Vanikoro Island"
+      ],
+      "path": "va/vanikoro.md"
+    },
     "VB": {
       "type": "chapter",
       "label": "A Voyage in a Balloon",
@@ -11315,6 +11323,9 @@
     "Valparaiso": "valparaiso",
     "vancouver-island": "vancouver-island",
     "Vancouver Island": "vancouver-island",
+    "vanikoro": "vanikoro",
+    "Vanikoro": "vanikoro",
+    "Vanikoro Island": "vanikoro",
     "VB": "VB",
     "vesfjorddal": "vesfjorddal",
     "Vesfjorddal": "vesfjorddal",
@@ -11397,6 +11408,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1459,
-  "generated": "2026-07-17T08:10:13Z"
+  "page_count": 1460,
+  "generated": "2026-07-17T08:13:49Z"
 }
