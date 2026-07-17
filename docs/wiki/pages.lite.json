@@ -5910,6 +5910,12 @@
       ],
       "path": "pe/peninsular-and-oriental-company.md"
     },
+    "pennsylvania": {
+      "type": "place",
+      "label": "Pennsylvania",
+      "aliases": [],
+      "path": "pe/pennsylvania.md"
+    },
     "perm": {
       "type": "place",
       "label": "Perm",
@@ -10379,6 +10385,8 @@
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
     "P. and O.": "peninsular-and-oriental-company",
+    "pennsylvania": "pennsylvania",
+    "Pennsylvania": "pennsylvania",
     "perm": "perm",
     "Perm": "perm",
     "persia": "persia",
@@ -11082,6 +11090,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1423,
-  "generated": "2026-07-17T02:51:44Z"
+  "page_count": 1424,
+  "generated": "2026-07-17T02:54:28Z"
 }
