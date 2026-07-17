@@ -8467,6 +8467,14 @@
       "aliases": [],
       "path": "tt/TTLU-ch47.md"
     },
+    "tunis": {
+      "type": "place",
+      "label": "Tunis",
+      "aliases": [
+        "Bay of Tunis"
+      ],
+      "path": "tu/tunis.md"
+    },
     "turkestan": {
       "type": "place",
       "label": "Turkestan",
@@ -11024,6 +11032,9 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "tunis": "tunis",
+    "Tunis": "tunis",
+    "Bay of Tunis": "tunis",
     "turkestan": "turkestan",
     "Turkestan": "turkestan",
     "turkey": "turkey",
@@ -11149,6 +11160,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1431,
-  "generated": "2026-07-17T03:35:11Z"
+  "page_count": 1432,
+  "generated": "2026-07-17T03:37:53Z"
 }

@@ -74,6 +74,8 @@
 <!-- ✔ R151 建 nantucket rev=5SFDJS featured；净 solid 7（AM 单源 003-054 Pym 出生地/003-055 Poe romance 起点/004-023 Jeorling 访岛/004-030 Pym 家族居岛/005-004 born at Nantucket+Bedford School/005-005 Penguin 送回/005-035 thirty days out 哗变启航）；剔 005-076 footnote demonym；接 an-antarctic-mystery/connecticut -->
 
 - [place] Tunis — 10 distinctPN（real；region North Africa；Off on a Comet：Bay of Tunis/Cape Matafuz→Tunis/coast of Tunis，OC×5+FWB-004-007+RC-015-004）
+<!-- ✔ R152 建 tunis rev=twcBLv featured；净 solid 7（OC×5 012-003/012-005/013-001/015-033/018-027 Gallia 卷走 Bay of Tunis/Dobryna 测绘 + FWB-004-007 探险家抵 Tunis/Tripoli + RC-015-004 Albatross 掠 Cape Bon→Cape Carthage）；接 off-on-a-comet/five-weeks-in-a-balloon -->
+
 - [place] Timbuktu — 7 distinctPN（real；region West Africa；Robur the Conqueror：Albatross 掠 Timbuktu，RC×7 015-013/016/020/022/046/051+017-003）
 - [place] Tripoli — 9 distinctPN（real；region North Africa；Five Weeks in a Balloon：出发/复得 Tripoli，FWB×5+OC×2+TT）
 - [place] Maryland — 6 distinctPN（real；region United States；From the Earth to the Moon：Baltimore Maryland/Gun Club 本部，FEM×2+TT×3 Baltimore 拍卖；5 clean solid）

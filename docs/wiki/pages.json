@@ -28275,6 +28275,29 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 2
     },
+    "tunis": {
+      "type": "place",
+      "label": "Tunis",
+      "aliases": [
+        "Bay of Tunis"
+      ],
+      "tags": [
+        "place",
+        "north-africa"
+      ],
+      "path": "tu/tunis.md",
+      "description": "City and region of the North African coast; its bay is carried off by the comet Gallia in Off on a Comet.",
+      "prose_len": 1664,
+      "prose_chars": 1575,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 66,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "turkestan": {
       "type": "place",
       "label": "Turkestan",
@@ -32127,6 +32150,9 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "tunis": "tunis",
+    "Tunis": "tunis",
+    "Bay of Tunis": "tunis",
     "turkestan": "turkestan",
     "Turkestan": "turkestan",
     "turkey": "turkey",
@@ -32252,6 +32278,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1431,
-  "generated": "2026-07-17T03:35:11Z"
+  "page_count": 1432,
+  "generated": "2026-07-17T03:37:53Z"
 }
