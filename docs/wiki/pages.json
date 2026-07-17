@@ -2324,6 +2324,30 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 1
     },
+    "arctic-ocean": {
+      "type": "place",
+      "label": "Arctic Ocean",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "the-fur-country",
+        "ocean",
+        "exploration"
+      ],
+      "path": "ar/arctic-ocean.md",
+      "description": "The northern polar ocean whose ice-bound shores frame the expedition of The Fur Country and the voyages of Captain Hatteras.",
+      "prose_len": 2444,
+      "prose_chars": 2355,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "argentine": {
       "type": "place",
       "label": "Argentine",
@@ -31287,6 +31311,8 @@
     "Aral Sea": "aral-sea",
     "Sea of Aral": "aral-sea",
     "Aral": "aral-sea",
+    "arctic-ocean": "arctic-ocean",
+    "Arctic Ocean": "arctic-ocean",
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
@@ -33370,6 +33396,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1474,
-  "generated": "2026-07-17T09:32:00Z"
+  "page_count": 1475,
+  "generated": "2026-07-17T09:35:18Z"
 }

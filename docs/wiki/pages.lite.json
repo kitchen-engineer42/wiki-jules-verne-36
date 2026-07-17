@@ -707,6 +707,12 @@
       ],
       "path": "ar/aral-sea.md"
     },
+    "arctic-ocean": {
+      "type": "place",
+      "label": "Arctic Ocean",
+      "aliases": [],
+      "path": "ar/arctic-ocean.md"
+    },
     "argentine": {
       "type": "place",
       "label": "Argentine",
@@ -9462,6 +9468,8 @@
     "Aral Sea": "aral-sea",
     "Sea of Aral": "aral-sea",
     "Aral": "aral-sea",
+    "arctic-ocean": "arctic-ocean",
+    "Arctic Ocean": "arctic-ocean",
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
@@ -11545,6 +11553,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1474,
-  "generated": "2026-07-17T09:32:00Z"
+  "page_count": 1475,
+  "generated": "2026-07-17T09:35:18Z"
 }
