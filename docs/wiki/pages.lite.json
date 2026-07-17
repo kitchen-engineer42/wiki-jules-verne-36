@@ -7728,6 +7728,12 @@
       ],
       "path": "st/st-louis-fur-company.md"
     },
+    "stapi": {
+      "type": "place",
+      "label": "Stapi",
+      "aliases": [],
+      "path": "st/stapi.md"
+    },
     "stockholm": {
       "type": "place",
       "label": "Stockholm",
@@ -11021,6 +11027,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stapi": "stapi",
+    "Stapi": "stapi",
     "stockholm": "stockholm",
     "Stockholm": "stockholm",
     "stony-hill": "stony-hill",
@@ -11381,6 +11389,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1457,
-  "generated": "2026-07-17T07:55:06Z"
+  "page_count": 1458,
+  "generated": "2026-07-17T07:59:27Z"
 }

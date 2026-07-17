@@ -25874,6 +25874,30 @@
       "book": "The Fur Country",
       "total_refs": 1
     },
+    "stapi": {
+      "type": "place",
+      "label": "Stapi",
+      "aliases": [],
+      "tags": [
+        "place",
+        "village",
+        "iceland",
+        "journey-to-the-center-of-the-earth",
+        "snaefell"
+      ],
+      "path": "st/stapi.md",
+      "description": "An Icelandic village at the foot of Snæfell, the last staging point before the descent into the volcano.",
+      "prose_len": 1262,
+      "prose_chars": 1181,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Journey to the Center of the Earth",
+      "total_refs": 0
+    },
     "stockholm": {
       "type": "place",
       "label": "Stockholm",
@@ -32542,6 +32566,8 @@
     "st-louis-fur-company": "st-louis-fur-company",
     "St Louis Fur Company": "st-louis-fur-company",
     "American St Louis Fur Company": "st-louis-fur-company",
+    "stapi": "stapi",
+    "Stapi": "stapi",
     "stockholm": "stockholm",
     "Stockholm": "stockholm",
     "stony-hill": "stony-hill",
@@ -32902,6 +32928,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1457,
-  "generated": "2026-07-17T07:55:06Z"
+  "page_count": 1458,
+  "generated": "2026-07-17T07:59:27Z"
 }
