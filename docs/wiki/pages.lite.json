@@ -8550,6 +8550,12 @@
       ],
       "path": "ur/ural-mountains.md"
     },
+    "utah": {
+      "type": "place",
+      "label": "Utah",
+      "aliases": [],
+      "path": "ut/utah.md"
+    },
     "valparaiso": {
       "type": "place",
       "label": "Valparaiso",
@@ -10942,6 +10948,8 @@
     "ural-mountains": "ural-mountains",
     "Ural Mountains": "ural-mountains",
     "The Urals": "ural-mountains",
+    "utah": "utah",
+    "Utah": "utah",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
     "vancouver-island": "vancouver-island",
@@ -11026,6 +11034,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1416,
-  "generated": "2026-07-17T02:12:11Z"
+  "page_count": 1417,
+  "generated": "2026-07-17T02:15:37Z"
 }
