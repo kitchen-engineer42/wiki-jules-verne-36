@@ -17297,6 +17297,31 @@
       "book": "The Ascent of Mont Blanc",
       "total_refs": 0
     },
+    "montgomery-street": {
+      "type": "place",
+      "label": "Montgomery Street",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "california",
+        "san-francisco",
+        "godfrey-morgan",
+        "around-the-world-in-eighty-days"
+      ],
+      "path": "mo/montgomery-street.md",
+      "description": "The principal thoroughfare of San Francisco, lined with splendid stores and grand mansions, where the Kolderup family resides in Godfrey Morgan.",
+      "prose_len": 2382,
+      "prose_chars": 2291,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "montreal": {
       "type": "place",
       "label": "Montreal",
@@ -22694,7 +22719,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Around the World in Eighty Days",
-      "total_refs": 5
+      "total_refs": 6
     },
     "sandwich-islands": {
       "type": "place",
@@ -32535,6 +32560,8 @@
     "Mongolia": "mongolia",
     "mont-blanc": "mont-blanc",
     "Mont Blanc": "mont-blanc",
+    "montgomery-street": "montgomery-street",
+    "Montgomery Street": "montgomery-street",
     "montreal": "montreal",
     "Montreal": "montreal",
     "morganton": "morganton",
@@ -33528,6 +33555,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1480,
-  "generated": "2026-07-17T10:05:30Z"
+  "page_count": 1481,
+  "generated": "2026-07-17T10:16:33Z"
 }
