@@ -5811,6 +5811,32 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "corral": {
+      "type": "place",
+      "label": "The Corral",
+      "aliases": [
+        "Corral"
+      ],
+      "tags": [
+        "place",
+        "lincoln-island",
+        "husbandry",
+        "the-mysterious-island",
+        "settlement"
+      ],
+      "path": "co/corral.md",
+      "description": "The livestock enclosure near the Red Creek on Lincoln Island, later Ayrton's dwelling.",
+      "prose_len": 2409,
+      "prose_chars": 2318,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "corsica": {
       "type": "place",
       "label": "Corsica",
@@ -31337,6 +31363,9 @@
     "Copenhagen": "copenhagen",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
+    "corral": "corral",
+    "The Corral": "corral",
+    "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
     "creek-glycerine": "creek-glycerine",
@@ -33114,6 +33143,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1465,
-  "generated": "2026-07-17T08:42:34Z"
+  "page_count": 1466,
+  "generated": "2026-07-17T08:54:46Z"
 }

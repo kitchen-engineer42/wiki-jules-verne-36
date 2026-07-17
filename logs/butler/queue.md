@@ -726,8 +726,8 @@
 
 <!-- ═══ R197 SCN28 discover（R192 队列 R196 建罄，queue(place)=0 → §3(3)&§3(4) 触发；掘 MI Lincoln Island 人居设施〔Chimneys/corral〕+ FC/AM 极地 toponym，净新 4 buildable 补种；非建页，since_discover 归 0，discover_streak_low=0）═══ -->
 <!-- 入队均已文件系统 + 后缀变体查重。既有排除：lake-grant/red-creek/falls-river/creek-glycerine（MI 内陆水文皆已建）；cape-bathurst/fort-reliance/great-bear-lake/platte-river/fort-kearney/omaha/salt-lake-city（FC/AWED 皆已建）；Fort Enterprise（FC×4 净<5 DEFER）、North/South Mandible（各 3，既有 mandible-cape overlap）、Reptile Point（3）、Grand View/Mount Bell/Balloon Rock（0 命中拼写待考）DEFER。 -->
-<!-- ○ [place] Chimneys — chimneys NEW（MI×144 distinctPN；Lincoln Island 河口花岗岩堆叠洞穴，殖民者首居所〔MI-004-020 得名/MI-004-021 塞口成居/MI-004-024 堪用〕；Granite House 前之临时家；region Lincoln Island，fictional）建序 1 -->
-<!-- ○ [place] the corral — corral NEW（MI×286 distinctPN 极密；Lincoln Island Red Creek 谷畜栏，圈 musmon/山羊〔MI-030-029 划界/MI-030-034 驱兽入栏/MI-030-032 骑巡〕；后为 Ayrton 居所、叙事枢纽；region Lincoln Island，fictional）建序 2 -->
+<!-- ✘ [place] Chimneys — DUPLICATE（既有 the-chimneys，R29 建 rev e1P5df）；R198 建时 registry alias conflict 判重，回滚未建。R197 discover 查重漏测 the- 前缀，记 HK-dupcheck-the-prefix-blindspot -->
+<!-- ✔ [place] the corral — 已建 corral（R198 NEW1，rev RHHSde，16 solid MI PN；Red Creek 谷畜栏/Ayrton 居所/电报枢纽） -->
 <!-- ○ [place] New Georgia — new-georgia NEW（AM×11；亚南极岛 Isle de Saint Pierre / South Georgia / King George's Island〔AM-010-020〕，距 Falklands 800 mi〔AM-010-006〕，属 Falklands 辖〔AM-010-023〕，海兽频出〔AM-010-024〕；region South Atlantic Ocean，real）建序 3 -->
 <!-- ○ [place] Coppermine River — coppermine-river NEW（ACH+FC×10；北美极地大河，Hearne 1770 发现〔FC-002-023〕，Richardson 溯行至 Polar Sea〔ACH-014-023〕，Mackenzie 支流水系〔FC-007-004〕，流入 Coronation Gulf〔FC-010-007〕；region Arctic North America，real）建序 4 -->
 <!-- R198+ 建序：Chimneys → corral → New Georgia → Coppermine River（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->

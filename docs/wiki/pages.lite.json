@@ -1731,6 +1731,14 @@
       "aliases": [],
       "path": "co/coronation-gulf.md"
     },
+    "corral": {
+      "type": "place",
+      "label": "The Corral",
+      "aliases": [
+        "Corral"
+      ],
+      "path": "co/corral.md"
+    },
     "corsica": {
       "type": "place",
       "label": "Corsica",
@@ -9674,6 +9682,9 @@
     "Copenhagen": "copenhagen",
     "coronation-gulf": "coronation-gulf",
     "Coronation Gulf": "coronation-gulf",
+    "corral": "corral",
+    "The Corral": "corral",
+    "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
     "creek-glycerine": "creek-glycerine",
@@ -11451,6 +11462,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1465,
-  "generated": "2026-07-17T08:42:34Z"
+  "page_count": 1466,
+  "generated": "2026-07-17T08:54:46Z"
 }
