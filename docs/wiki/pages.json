@@ -12638,7 +12638,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 12
+      "total_refs": 13
     },
     "great-salt-lake": {
       "type": "place",
@@ -17365,7 +17365,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "The Master of the World",
-      "total_refs": 1
+      "total_refs": 2
     },
     "morris-island": {
       "type": "place",
@@ -20964,6 +20964,30 @@
       "quality_score": 64,
       "book": "Around the World in Eighty Days",
       "total_refs": 2
+    },
+    "pleasant-garden": {
+      "type": "place",
+      "label": "Pleasant Garden",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "north-carolina",
+        "master-of-the-world",
+        "mountain"
+      ],
+      "path": "pl/pleasant-garden.md",
+      "description": "The North Carolina village below the Great Eyrie, reached from Morganton along the Catawba River, whose folk were menaced by the mountain in Master of the World.",
+      "prose_len": 2280,
+      "prose_chars": 2191,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Master of the World",
+      "total_refs": 0
     },
     "polar-sea": {
       "type": "place",
@@ -32852,6 +32876,8 @@
     "platte-river": "platte-river",
     "Platte River": "platte-river",
     "North Platte River": "platte-river",
+    "pleasant-garden": "pleasant-garden",
+    "Pleasant Garden": "pleasant-garden",
     "polar-sea": "polar-sea",
     "Polar Sea": "polar-sea",
     "port-balloon": "port-balloon",
@@ -33581,6 +33607,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1482,
-  "generated": "2026-07-17T10:22:34Z"
+  "page_count": 1483,
+  "generated": "2026-07-17T10:28:02Z"
 }
