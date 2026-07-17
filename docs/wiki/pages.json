@@ -14748,6 +14748,28 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 0
     },
+    "lan-tcheou": {
+      "type": "place",
+      "label": "Lan-Tcheou",
+      "aliases": [],
+      "tags": [
+        "place",
+        "asia",
+        "china"
+      ],
+      "path": "la/lan-tcheou.md",
+      "description": "An important city of western China on the Grand Transasiatic line, a halt in The Adventures of a Special Correspondent where the imperial treasure van is telegraphed to Pekin.",
+      "prose_len": 1828,
+      "prose_chars": 1745,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "lancaster-strait": {
       "type": "place",
       "label": "Lancaster Strait",
@@ -31447,6 +31469,8 @@
     "lake-ukereoue": "lake-ukereoue",
     "Lake Ukereoue": "lake-ukereoue",
     "Ukereoue": "lake-ukereoue",
+    "lan-tcheou": "lan-tcheou",
+    "Lan-Tcheou": "lan-tcheou",
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
@@ -32550,6 +32574,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1443,
-  "generated": "2026-07-17T06:11:53Z"
+  "page_count": 1444,
+  "generated": "2026-07-17T06:15:54Z"
 }

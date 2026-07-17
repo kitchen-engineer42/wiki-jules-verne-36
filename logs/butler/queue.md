@@ -106,6 +106,8 @@
 <!-- ✔ R167 建 sou-tcheou rev=tQjgfo featured；净 solid 8（ASC 单源 022-050 抵站电报修复/022-061 停 2h 奔电报局/022-063 despatch dateline/022-066 2h 访城/022-068 双town Tai-Tchen+Le-Tchen 战破/022-069 双墙复兴/022-071 长城西端/023-002 补给）；长城西端确指；接 the-adventures-of-a-special-correspondent；建后拆段守 G2≤400 -->
 
 - [place] Lan-Tcheou — 8 distinctPN（real；region China；ASC：022-072 长城转向处/023-003 700km 重镇/023-036 26 May 7am 抵/023-042 governor 电报待发 Pekin/023-048 访城/023-070 离站；≥5 solid，主体确指）
+<!-- ✔ R168 建 lan-tcheou rev=y7G5Ej featured；净 solid 8（ASC 单源 023-003 700km 重镇/023-036 26 May 7am 抵/023-042 governor 电报皇帝宝藏待 Pekin/023-048 访城/023-070 Caterna 问离站所见/022-072 长城转向 bend/024-001 离城铁路穿沃野/027-062 自 Lan-Tcheou 发电报京城复）；接 the-adventures-of-a-special-correspondent；首版 Overview/Geography 超门 → 建前压缩 ≤400 -->
+
 - [place] Baikal — 17 distinctPN（real；region Siberia；MS Michael Strogoff：Lake Baikal；028-094 It was Lake Baikal/028-024 Krasnoiarsk↔Baikal 无俄军/018-004 Baikal 省东南向；⚠ 多处「Lake Baikal provinces」区域引与省列举，建前须严剔 enumeration，确认净 ≥5 solid 湖体确指；湖非城，参 Michigan/Colorado 湖河消歧先例）
 - [place] Tai-Youan — 6 distinctPN（real；region China；ASC；建前复核 solid 数）
 - [place] Yeniseisk — 8 distinctPN（real；region Siberia；MS；⚠ enumeration-heavy：多为「governments of Yeniseisk, Omsk...」省列举，疑同 Brindisi 净 <5 solid，建前严剔后大概率 DEFER）

@@ -4413,6 +4413,12 @@
       ],
       "path": "la/lake-ukereoue.md"
     },
+    "lan-tcheou": {
+      "type": "place",
+      "label": "Lan-Tcheou",
+      "aliases": [],
+      "path": "la/lan-tcheou.md"
+    },
     "lancaster-strait": {
       "type": "place",
       "label": "Lancaster Strait",
@@ -10157,6 +10163,8 @@
     "lake-ukereoue": "lake-ukereoue",
     "Lake Ukereoue": "lake-ukereoue",
     "Ukereoue": "lake-ukereoue",
+    "lan-tcheou": "lan-tcheou",
+    "Lan-Tcheou": "lan-tcheou",
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
@@ -11260,6 +11268,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1443,
-  "generated": "2026-07-17T06:11:03Z"
+  "page_count": 1444,
+  "generated": "2026-07-17T06:15:54Z"
 }
