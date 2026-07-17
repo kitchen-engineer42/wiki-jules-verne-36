@@ -103,6 +103,8 @@
 <!-- ═══ R166 SCN28 深层 discover（R161 补种批 4 建 1 DEFER 全消、净 buildable 罄；since_discover=4<10 名义不满足，净 buildable=0 实务触发，HK-queue-size-scope 情形；宽扫西伯利亚（Michael Strogoff）/中亚·远东铁路站（ASC）toponym，双向查重 label+aliases+id 含拼写变体）：new_candidates=6 buildable（≥3 → streak 保持 0）═══ -->
 <!-- 查重命中既有页（不入队）：Omsk/Tomsk/Irkutsk(=Irkoutsk 变体)/Kolyvan/Krasnoiarsk/Perm/Ichim/Nijni-Novgorod/Merv/Bokhara/Pamir/Ekaterenburg(=Ekaterinburg 变体)/Zabediero ——HK-discover-existing-type-blindspot 主动规避，建前捕获 -->
 - [place] Sou-Tcheou — 8 distinctPN（real；region China；ASC The Adventures of a Special Correspondent：Grand Transasiatic 华属段城，长城内；022-050 电报修复处/022-061 停 2h/022-063 到站/022-066 2h 访城/022-068 Mussulman↔华战破/022-069 双墙复兴；≥5 solid，主体确指）
+<!-- ✔ R167 建 sou-tcheou rev=tQjgfo featured；净 solid 8（ASC 单源 022-050 抵站电报修复/022-061 停 2h 奔电报局/022-063 despatch dateline/022-066 2h 访城/022-068 双town Tai-Tchen+Le-Tchen 战破/022-069 双墙复兴/022-071 长城西端/023-002 补给）；长城西端确指；接 the-adventures-of-a-special-correspondent；建后拆段守 G2≤400 -->
+
 - [place] Lan-Tcheou — 8 distinctPN（real；region China；ASC：022-072 长城转向处/023-003 700km 重镇/023-036 26 May 7am 抵/023-042 governor 电报待发 Pekin/023-048 访城/023-070 离站；≥5 solid，主体确指）
 - [place] Baikal — 17 distinctPN（real；region Siberia；MS Michael Strogoff：Lake Baikal；028-094 It was Lake Baikal/028-024 Krasnoiarsk↔Baikal 无俄军/018-004 Baikal 省东南向；⚠ 多处「Lake Baikal provinces」区域引与省列举，建前须严剔 enumeration，确认净 ≥5 solid 湖体确指；湖非城，参 Michigan/Colorado 湖河消歧先例）
 - [place] Tai-Youan — 6 distinctPN（real；region China；ASC；建前复核 solid 数）

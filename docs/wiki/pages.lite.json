@@ -7600,6 +7600,12 @@
       "aliases": [],
       "path": "sn/snowy-river.md"
     },
+    "sou-tcheou": {
+      "type": "place",
+      "label": "Sou-Tcheou",
+      "aliases": [],
+      "path": "so/sou-tcheou.md"
+    },
     "soudan": {
       "type": "place",
       "label": "Soudan",
@@ -10881,6 +10887,8 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "sou-tcheou": "sou-tcheou",
+    "Sou-Tcheou": "sou-tcheou",
     "soudan": "soudan",
     "Soudan": "soudan",
     "south-america": "south-america",
@@ -11252,6 +11260,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1442,
-  "generated": "2026-07-17T06:01:55Z"
+  "page_count": 1443,
+  "generated": "2026-07-17T06:11:03Z"
 }
