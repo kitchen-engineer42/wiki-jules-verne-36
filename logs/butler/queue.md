@@ -743,7 +743,7 @@
 
 <!-- ═══ R208 SCN28 discover（R201 队列 R207 建罄，queue(place)==0 → §3(4) zombie；全库多词专名重扫〔/tmp/discover3.py〕证 place 未饱和，净新 4 buildable；非建页，since_discover 归 0，discover_streak_low=0〔new_candidates=4≥3〕）═══ -->
 <!-- 入队均已 pages.json 子串 + `the-` 前缀双查（承 HK-dupcheck-the-prefix-blindspot）。候选主作品 PN 均 ≥26，抽样单指确认。 -->
-<!-- ○ [place] Healthful House — healthful-house NEW（FF×72；Facing the Flag 私立疗养院/Thomas Roch 囚所；rof fictional）建序 1 -->
+<!-- ✔ [place] Healthful House — 已建 healthful-house（R209 NEW1，rev oXgFqT，11 solid FF PN；Neuse 右岸私立疗养院，Thomas Roch 囚所〔Pavilion 17〕，单指无混淆） -->
 <!-- ○ [place] Arctic Ocean — arctic-ocean NEW（55 distinct：FC×42 主 +ACH/WC/GM/OC/MS；真实北冰洋，跨作品单指非异指；region Arctic，real）建序 2 -->
 <!-- ○ [place] Upper Amazon — upper-amazon NEW（EHLA×26；亚马逊上游河域〔秘鲁森林出水〕，与既有 amazon 父/子域非重复；region Amazon Basin，real）建序 3 -->
 <!-- ○ [place] Celestial Empire — celestial-empire NEW（42 distinct：ASC×29 主 +AWED/GM/RC/TT/FC；中华帝国〔China 别称〕，国家实体非大陆综述；region Asia，real）建序 4 -->

@@ -3881,6 +3881,12 @@
       ],
       "path": "ha/havre.md"
     },
+    "healthful-house": {
+      "type": "place",
+      "label": "Healthful House",
+      "aliases": [],
+      "path": "he/healthful-house.md"
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -10222,6 +10228,8 @@
     "havre": "havre",
     "Havre": "havre",
     "Le Havre": "havre",
+    "healthful-house": "healthful-house",
+    "Healthful House": "healthful-house",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -11537,6 +11545,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1473,
-  "generated": "2026-07-17T09:22:23Z"
+  "page_count": 1474,
+  "generated": "2026-07-17T09:32:00Z"
 }

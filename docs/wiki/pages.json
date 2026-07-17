@@ -12965,6 +12965,30 @@
       "book": "The Survivors of the Chancellor",
       "total_refs": 0
     },
+    "healthful-house": {
+      "type": "place",
+      "label": "Healthful House",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "facing-the-flag",
+        "sanitarium",
+        "fiction"
+      ],
+      "path": "he/healthful-house.md",
+      "description": "A private sanitarium on the banks of the Neuse where the inventor Thomas Roch is interned in Facing the Flag.",
+      "prose_len": 2446,
+      "prose_chars": 2357,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -32029,6 +32053,8 @@
     "havre": "havre",
     "Havre": "havre",
     "Le Havre": "havre",
+    "healthful-house": "healthful-house",
+    "Healthful House": "healthful-house",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -33344,6 +33370,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1473,
-  "generated": "2026-07-17T09:22:23Z"
+  "page_count": 1474,
+  "generated": "2026-07-17T09:32:00Z"
 }
