@@ -21807,7 +21807,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "rio-de-la-plata": {
       "type": "place",
@@ -30127,6 +30127,30 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 1
     },
+    "villa-rica": {
+      "type": "place",
+      "label": "Villa Rica",
+      "aliases": [],
+      "tags": [
+        "place",
+        "brazil",
+        "eight-hundred-leagues-on-the-amazon",
+        "mining",
+        "prison"
+      ],
+      "path": "vi/villa-rica.md",
+      "description": "The Brazilian mining town whose assizes condemned Joam Dacosta for the diamond convoy robbery, and from whose prison he escaped in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 1974,
+      "prose_chars": 1887,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "volga": {
       "type": "place",
       "label": "Volga",
@@ -33407,6 +33431,8 @@
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
+    "villa-rica": "villa-rica",
+    "Villa Rica": "villa-rica",
     "volga": "volga",
     "Volga": "volga",
     "WAI-ch01": "WAI-ch01",
@@ -33476,6 +33502,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1478,
-  "generated": "2026-07-17T09:56:27Z"
+  "page_count": 1479,
+  "generated": "2026-07-17T10:02:14Z"
 }

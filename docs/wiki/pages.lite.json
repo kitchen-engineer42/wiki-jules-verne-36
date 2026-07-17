@@ -9003,6 +9003,12 @@
       ],
       "path": "vi/vigo-bay.md"
     },
+    "villa-rica": {
+      "type": "place",
+      "label": "Villa Rica",
+      "aliases": [],
+      "path": "vi/villa-rica.md"
+    },
     "volga": {
       "type": "place",
       "label": "Volga",
@@ -11508,6 +11514,8 @@
     "vigo-bay": "vigo-bay",
     "Vigo Bay": "vigo-bay",
     "Bay of Vigo": "vigo-bay",
+    "villa-rica": "villa-rica",
+    "Villa Rica": "villa-rica",
     "volga": "volga",
     "Volga": "volga",
     "WAI-ch01": "WAI-ch01",
@@ -11577,6 +11585,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1478,
-  "generated": "2026-07-17T09:56:27Z"
+  "page_count": 1479,
+  "generated": "2026-07-17T10:02:14Z"
 }
