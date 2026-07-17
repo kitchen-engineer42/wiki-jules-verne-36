@@ -4246,6 +4246,28 @@
       "book": "Topsy-Turvy",
       "total_refs": 0
     },
+    "bihe": {
+      "type": "place",
+      "label": "Bihe",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "west-africa"
+      ],
+      "path": "bi/bihe.md",
+      "description": "A slave-trade market town of the Benguela interior, one of the trader Alvez's factories in Dick Sand: A Captain at Fifteen.",
+      "prose_len": 1401,
+      "prose_chars": 1320,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -30831,6 +30853,8 @@
     "Bergen": "bergen",
     "berlin": "berlin",
     "Berlin": "berlin",
+    "bihe": "bihe",
+    "Bihe": "bihe",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "black-sea": "black-sea",
@@ -32721,6 +32745,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1450,
-  "generated": "2026-07-17T06:57:13Z"
+  "page_count": 1451,
+  "generated": "2026-07-17T07:03:18Z"
 }

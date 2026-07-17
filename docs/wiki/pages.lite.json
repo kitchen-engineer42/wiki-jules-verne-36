@@ -1280,6 +1280,12 @@
       "aliases": [],
       "path": "be/berlin.md"
     },
+    "bihe": {
+      "type": "place",
+      "label": "Bihe",
+      "aliases": [],
+      "path": "bi/bihe.md"
+    },
     "black-rock-creek": {
       "type": "place",
       "label": "Black Rock Creek",
@@ -9429,6 +9435,8 @@
     "Bergen": "bergen",
     "berlin": "berlin",
     "Berlin": "berlin",
+    "bihe": "bihe",
+    "Bihe": "bihe",
     "black-rock-creek": "black-rock-creek",
     "Black Rock Creek": "black-rock-creek",
     "black-sea": "black-sea",
@@ -11319,6 +11327,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1450,
-  "generated": "2026-07-17T06:57:13Z"
+  "page_count": 1451,
+  "generated": "2026-07-17T07:03:18Z"
 }

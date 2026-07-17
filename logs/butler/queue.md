@@ -128,7 +128,7 @@
 <!-- probe 命中既有页（不入队，feature-aware 双测）：Kilimanjaro/Kazounde/Lake Tanganyika(Tanganyika)。probe 弃：Tete(24→净1，多为 Kara-Tete 人名误配)/Msene(1)/Nyangwe(1)/Emboma(3)/Seymour(3)/Tapalquem(3)。 -->
 - [place] ~~Saint Paul de Loanda~~ ✔ **消费 R175**（slug saint-paul-de-loanda，rev X7MihS，净 solid 8）— 15 distinctPN（real；region West Africa；DSCF：葡属殖民地首府/港；019-032 首府/025-036 距 Kazounde 400mi/020-033+020-076+037-030 penitentiary/032-037+032-046 Livingstone 跨非/离城）
 - [place] Coanza — 23 distinctPN（DSCF；⚠ 建前判定：Coanza 河（river）为主 referent，疑地物/river 泛指多，须严剔确认净 ≥5 非河岸泛指 solid，否则 DEFER）
-- [place] Bihe — 7 distinctPN（DSCF；安哥拉内陆商站，建前抽样 ≥5 solid 后建）
+- [place] ~~Bihe~~ ✔ **消费 R177**（slug bihe，rev LgrYRw，净 solid 5）— 7 distinctPN（DSCF；region West Africa；Benguela 内陆奴市/Alvez 第二 factory；020-070 Bihe market/027-006 第二 factory/027-014 Cameron 700mi 至城/027-032 Major Coimbra of Bihe/032-025 factory 毁；019-049+033-015 enum 支撑）
 - [place] ~~Cassange~~ ✔ **消费 R176**（rev 3W67q1，净 solid 6）— 7 distinctPN（DSCF；region West Africa；Benguela 奴隶市场镇/Alvez 第三 factory；020-018 agent 离城/027-006 第三 factory/032-025 destroyed/032-045 Livingstone 入城/032-046 2/20 离/033-015 factory）
 <!-- below-gate（不入队）：Castlemaine(3)/Otago(0 无 hit)。下批建序（R172 起 NEW1，R171=EVV5 无建）：Kazeh → Gondokoro → Carmen(re-vet) → Tandil(disambig) → Mozambique(严剔，大概率 DEFER)。 -->
 
