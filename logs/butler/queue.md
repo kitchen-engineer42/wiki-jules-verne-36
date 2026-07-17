@@ -73,6 +73,8 @@
 <!-- ═══ R155 SCN28 深层 discover（实务触发：R150 补种批已尽、既有 queue 净 buildable 罄，HK-queue-size-scope 情形；宽扫中亚/俄/合集城岛级 toponym，双向查重含拼写变体）：new_candidates=4 buildable（≥3 → streak 保持 0）═══ -->
 - [place] Samarkand — 31 distinctPN（real；region Central Asia；ASC Claudius Bombarnac 大中亚铁路要站；剔 Merv/Bokhara/... 站名列举后仍 ≥5 solid）
 - [place] Ceuta — 20 distinctPN（real；region North Africa；OC Off on a Comet：对 Gibraltar 之摩洛哥岸点/Hansa 泊 Ceuta/彗后残岛/Ceuta→Tripoli 巡航；OC×19+TTLU×1）
+<!-- ✔ R157 建 ceuta rev=qfIk7Z featured；净 solid 8（OC-019-052 Hansa 泊 Ceuta 对 Gibraltar/020-024 Ceuta→Tripoli 巡航/041-015 annexation to French/041-045 English forestalled/041-046 garrison 12mi from Gibraltar/041-057 Spaniards made over to British/042-078 fragment incl Ceuta+Gibraltar；TTLU-031-021 Gibraltar-Ceuta 史前屏障）；接 off-on-a-comet -->
+
 - [place] Formentera — 18 distinctPN（real；region Balearic Islands；OC Off on a Comet：巴利阿里最小岛/Servadac 折返 Formentera/Rosette 汇合关键地；OC 单源）
 <!-- ✔ R156 建 formentera rev=XITl4H featured；净 solid 7（OC 单源 025-001 最小巴利阿里岛/025-011 三日抵/025-042 Gallia 残岛/027-001 救 Rosette 人口至 36/029-019 Rosette 观测台/029-039 solitude/038-017 quarters）+ 042-003 幸存岛列举（bonus）；接 off-on-a-comet -->
 

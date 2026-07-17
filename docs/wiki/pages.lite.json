@@ -1571,6 +1571,12 @@
       ],
       "path": "ca/caucasus.md"
     },
+    "ceuta": {
+      "type": "place",
+      "label": "Ceuta",
+      "aliases": [],
+      "path": "ce/ceuta.md"
+    },
     "ceylon": {
       "type": "place",
       "label": "Ceylon",
@@ -9425,6 +9431,8 @@
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
+    "ceuta": "ceuta",
+    "Ceuta": "ceuta",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
     "charleston": "charleston",
@@ -11190,6 +11198,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1435,
-  "generated": "2026-07-17T05:37:15Z"
+  "page_count": 1436,
+  "generated": "2026-07-17T05:41:55Z"
 }

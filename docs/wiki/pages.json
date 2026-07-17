@@ -5243,6 +5243,28 @@
       "book": "Michael Strogoff",
       "total_refs": 1
     },
+    "ceuta": {
+      "type": "place",
+      "label": "Ceuta",
+      "aliases": [],
+      "tags": [
+        "place",
+        "north-africa",
+        "mediterranean"
+      ],
+      "path": "ce/ceuta.md",
+      "description": "Fortified point on the Moroccan coast opposite Gibraltar, carried off by the comet Gallia in Off on a Comet.",
+      "prose_len": 1739,
+      "prose_chars": 1650,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "ceylon": {
       "type": "place",
       "label": "Ceylon",
@@ -30589,6 +30611,8 @@
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
+    "ceuta": "ceuta",
+    "Ceuta": "ceuta",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
     "charleston": "charleston",
@@ -32354,6 +32378,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1435,
-  "generated": "2026-07-17T05:37:15Z"
+  "page_count": 1436,
+  "generated": "2026-07-17T05:41:55Z"
 }
