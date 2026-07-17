@@ -6561,6 +6561,12 @@
       "aliases": [],
       "path": "sa/salt-lake-city.md"
     },
+    "samarkand": {
+      "type": "place",
+      "label": "Samarkand",
+      "aliases": [],
+      "path": "sa/samarkand.md"
+    },
     "san-francisco": {
       "type": "place",
       "label": "San Francisco",
@@ -10634,6 +10640,8 @@
     "Sahara Desert": "sahara",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
+    "samarkand": "samarkand",
+    "Samarkand": "samarkand",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -11198,6 +11206,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1436,
-  "generated": "2026-07-17T05:41:55Z"
+  "page_count": 1437,
+  "generated": "2026-07-17T05:44:30Z"
 }

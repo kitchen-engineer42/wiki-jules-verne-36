@@ -21937,6 +21937,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 1
     },
+    "samarkand": {
+      "type": "place",
+      "label": "Samarkand",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-asia",
+        "railway"
+      ],
+      "path": "sa/samarkand.md",
+      "description": "Ancient Central Asian city on the Grand Transasiatic railway, a principal stop on the narrator's journey in The Adventures of a Special Correspondent.",
+      "prose_len": 1967,
+      "prose_chars": 1886,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "san-francisco": {
       "type": "place",
       "label": "San Francisco",
@@ -31814,6 +31836,8 @@
     "Sahara Desert": "sahara",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
+    "samarkand": "samarkand",
+    "Samarkand": "samarkand",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -32378,6 +32402,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1436,
-  "generated": "2026-07-17T05:41:55Z"
+  "page_count": 1437,
+  "generated": "2026-07-17T05:44:30Z"
 }

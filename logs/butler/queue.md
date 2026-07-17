@@ -72,6 +72,8 @@
 <!-- ✘ R155 Baikal 判重 → 既有 lake-baikal 覆盖（MS×17 全 Lake Baikal 湖/provinces，与既有湖页同指）。 -->
 <!-- ═══ R155 SCN28 深层 discover（实务触发：R150 补种批已尽、既有 queue 净 buildable 罄，HK-queue-size-scope 情形；宽扫中亚/俄/合集城岛级 toponym，双向查重含拼写变体）：new_candidates=4 buildable（≥3 → streak 保持 0）═══ -->
 - [place] Samarkand — 31 distinctPN（real；region Central Asia；ASC Claudius Bombarnac 大中亚铁路要站；剔 Merv/Bokhara/... 站名列举后仍 ≥5 solid）
+<!-- ✔ R158 建 samarkand rev=L7zz7h featured；净 solid ~10（ASC 单源 012-001 Zarafchane/Sogd 谷/010-072 Amou-Daria 支流/012-003 五小时停/012-019 quadrilateral 广场/012-031 bazaar/013-006 至 Tachkend 300km/012-002 Cyrus-Genghis 史/007-018 Irdjar 战后归属/012-049 incomparable city/013-004 long run）；剔 Merv/Bokhara 列举；接 the-adventures-of-a-special-correspondent -->
+
 - [place] Ceuta — 20 distinctPN（real；region North Africa；OC Off on a Comet：对 Gibraltar 之摩洛哥岸点/Hansa 泊 Ceuta/彗后残岛/Ceuta→Tripoli 巡航；OC×19+TTLU×1）
 <!-- ✔ R157 建 ceuta rev=qfIk7Z featured；净 solid 8（OC-019-052 Hansa 泊 Ceuta 对 Gibraltar/020-024 Ceuta→Tripoli 巡航/041-015 annexation to French/041-045 English forestalled/041-046 garrison 12mi from Gibraltar/041-057 Spaniards made over to British/042-078 fragment incl Ceuta+Gibraltar；TTLU-031-021 Gibraltar-Ceuta 史前屏障）；接 off-on-a-comet -->
 
