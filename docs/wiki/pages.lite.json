@@ -3084,6 +3084,12 @@
       ],
       "path": "fo/fogg-hires-passepartout.md"
     },
+    "formentera": {
+      "type": "place",
+      "label": "Formentera",
+      "aliases": [],
+      "path": "fo/formentera.md"
+    },
     "fort-confidence": {
       "type": "place",
       "label": "Fort Confidence",
@@ -9747,6 +9753,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "formentera": "formentera",
+    "Formentera": "formentera",
     "fort-confidence": "fort-confidence",
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
@@ -11182,6 +11190,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1434,
-  "generated": "2026-07-17T03:44:55Z"
+  "page_count": 1435,
+  "generated": "2026-07-17T05:37:15Z"
 }

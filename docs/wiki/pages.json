@@ -10284,6 +10284,28 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "formentera": {
+      "type": "place",
+      "label": "Formentera",
+      "aliases": [],
+      "tags": [
+        "place",
+        "island",
+        "mediterranean"
+      ],
+      "path": "fo/formentera.md",
+      "description": "Smallest of the Balearic Islands; site of the astronomer Palmyrin Rosette's observatory in Off on a Comet.",
+      "prose_len": 1893,
+      "prose_chars": 1804,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "fort-confidence": {
       "type": "place",
       "label": "Fort Confidence",
@@ -30895,6 +30917,8 @@
     "fogg-hires-passepartout": "fogg-hires-passepartout",
     "Fogg Hires Passepartout": "fogg-hires-passepartout",
     "Master and Man": "fogg-hires-passepartout",
+    "formentera": "formentera",
+    "Formentera": "formentera",
     "fort-confidence": "fort-confidence",
     "Fort Confidence": "fort-confidence",
     "fort-hope": "fort-hope",
@@ -32330,6 +32354,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1434,
-  "generated": "2026-07-17T03:44:55Z"
+  "page_count": 1435,
+  "generated": "2026-07-17T05:37:15Z"
 }

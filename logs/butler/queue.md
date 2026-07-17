@@ -74,6 +74,8 @@
 - [place] Samarkand — 31 distinctPN（real；region Central Asia；ASC Claudius Bombarnac 大中亚铁路要站；剔 Merv/Bokhara/... 站名列举后仍 ≥5 solid）
 - [place] Ceuta — 20 distinctPN（real；region North Africa；OC Off on a Comet：对 Gibraltar 之摩洛哥岸点/Hansa 泊 Ceuta/彗后残岛/Ceuta→Tripoli 巡航；OC×19+TTLU×1）
 - [place] Formentera — 18 distinctPN（real；region Balearic Islands；OC Off on a Comet：巴利阿里最小岛/Servadac 折返 Formentera/Rosette 汇合关键地；OC 单源）
+<!-- ✔ R156 建 formentera rev=XITl4H featured；净 solid 7（OC 单源 025-001 最小巴利阿里岛/025-011 三日抵/025-042 Gallia 残岛/027-001 救 Rosette 人口至 36/029-019 Rosette 观测台/029-039 solitude/038-017 quarters）+ 042-003 幸存岛列举（bonus）；接 off-on-a-comet -->
+
 - [place] Callao — 14 distinctPN（real；region Peru；Lima 之港 Port of Callao；PL×5+SC×9；与既有 lima 页区分港 vs 城）
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
