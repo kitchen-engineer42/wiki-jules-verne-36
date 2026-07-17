@@ -113,6 +113,17 @@
 - [place] Tai-Youan — 6 distinctPN（real；region China；ASC；建前复核 solid 数）
 <!-- ✔ R169 建 tai-youan rev=RT4Pp4 featured；建前复核净 solid 5（ASC 单源 024-009 10pm 停站/025-061 telegraph 求 relief engine/025-064 3pm 前到/025-071 stationmaster 电请 engine 赴 Nanking 线/025-076 无须返 Tai-Youan 省 1.5h）；剔 023-069 乘客目的地列举；恰达 5 门；接 the-adventures-of-a-special-correspondent -->
 <!-- ⚠ [place] Yeniseisk/Tioumen — R166 discover 余项；Yeniseisk enum-heavy 疑 <5、Tioumen 临界 5；R170 起建前严剔，未达门即 DEFER。R166 补种批消 3（Sou-Tcheou/Lan-Tcheou/Tai-Youan）+ 1 DUPLICATE（Baikal），余 2 待建前定。 -->
+<!-- ✘ R170 DEFER Yeniseisk：建前严剔净 clean solid TOWN=1（仅 029-002 Yenisei 河入湖处 town of Yeniseisk）；剔 002-021/003-002 省列举 + 003-065/017-002/017-025/018-007/026-002 「government/province of Yeniseisk」区域泛指。远低门，DEFER。 -->
+<!-- ✘ R170 DEFER Tioumen：建前严剔净 clean solid=3（013-005 road as far as Tioumen 近 Ural/013-030 22 July 抵/013-031 人口 1 万平时倍增）；剔 002-025/003-005 电报站列举。<5 门，DEFER 待凑或 Phase3。 -->
+
+<!-- ═══ R170 SCN28 深层 discover（R166 补种批消 3+1 DUPLICATE+2 DEFER 全尽、净 buildable 罄；净 buildable=0 实务触发，HK-queue-size-scope 情形；宽扫未测富矿：FWB 非洲尼罗河探险史 toponym + SC 巴塔哥尼亚/澳洲城，feature-aware 双式查重）：new_candidates=5 buildable（≥3 → streak 保持 0）═══ -->
+<!-- 查重命中既有页（不入队，feature-aware {name}+{feature}-{name} 双测）：Zanzibar/Twofold Bay(twofold-bay)/Gibraltar/Aden ——HK-discover-existing-type-blindspot 主动规避，建前捕获 -->
+- [place] Kazeh — 16 distinctPN（real；region East Africa；FWB Five Weeks in a Balloon：中非商旅商队 central rendezvous；004-027 抵 Kazeh 商旅集散/004-028 26 May 再入/004-029 8 月返；≥5 solid，主体确指）
+- [place] Gondokoro — 8 distinctPN（real；region East Africa；FWB：白尼罗河探险北限点；004-016 1840 Werne 探险止于 Gondokoro/004-018 Penney 越 1 度/004-019 Lejean 不得过；≥5 solid，探险史限点确指）
+- [place] Carmen — 7 distinctPN（real；region Patagonia；SC In Search of the Castaways：Carmen de Patagones，Carmen→Mendoza 路线起点；016-018/016-019 Carmen route；⚠ 建前复核：剔 009-019 命名 Tehuelches 段，确认净 ≥5 solid town）
+- [place] Tandil — 8 distinctPN（real；region Patagonia；SC；⚠ 建前消歧：Sierra Tandil（山脉）vs village of Tandil（020-044 城），须分离仅取 village 确指，参 Concepcion/Talcahuano 城 vs 地物先例；净 town solid 待定）
+- [place] Mozambique — 11 distinctPN（多源 DSCF/FWB/MI/TT/TTLU；⚠ 建前严剔：多为「Mozambique coast/channel」海岸海峡区域泛指（奴隶贸易语境），疑 <5 clean town/place solid，enum/region 风险高，未达门即 DEFER）
+<!-- below-gate（不入队）：Castlemaine(3)/Otago(0 无 hit)。下批建序（R172 起 NEW1，R171=EVV5 无建）：Kazeh → Gondokoro → Carmen(re-vet) → Tandil(disambig) → Mozambique(严剔，大概率 DEFER)。 -->
 
 - [place] Yeniseisk — 8 distinctPN（real；region Siberia；MS；⚠ enumeration-heavy：多为「governments of Yeniseisk, Omsk...」省列举，疑同 Brindisi 净 <5 solid，建前严剔后大概率 DEFER）
 - [place] Tioumen — 5 distinctPN（real；region Siberia；MS；⚠ 临界 5，建前复核是否达门）
