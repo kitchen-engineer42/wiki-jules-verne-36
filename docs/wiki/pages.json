@@ -12639,6 +12639,32 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 3
     },
+    "guamini": {
+      "type": "place",
+      "label": "Guamini",
+      "aliases": [
+        "river Guamini"
+      ],
+      "tags": [
+        "place",
+        "argentina",
+        "in-search-of-the-castaways",
+        "river",
+        "pampas"
+      ],
+      "path": "gu/guamini.md",
+      "description": "A river and salt-lake district of the Argentine Pampas, near the Sierra Ventana, sought for water by the expedition in In Search of the Castaways.",
+      "prose_len": 2087,
+      "prose_chars": 1998,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "gueboroa-island": {
       "type": "place",
       "label": "Gueboroa Island",
@@ -31917,6 +31943,9 @@
     "Slave Lake": "great-slave-lake",
     "greenland": "greenland",
     "Greenland": "greenland",
+    "guamini": "guamini",
+    "Guamini": "guamini",
+    "river Guamini": "guamini",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
     "guiana": "guiana",
@@ -33260,6 +33289,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1470,
-  "generated": "2026-07-17T09:11:14Z"
+  "page_count": 1471,
+  "generated": "2026-07-17T09:16:53Z"
 }

@@ -3783,6 +3783,14 @@
       "aliases": [],
       "path": "gr/greenland.md"
     },
+    "guamini": {
+      "type": "place",
+      "label": "Guamini",
+      "aliases": [
+        "river Guamini"
+      ],
+      "path": "gu/guamini.md"
+    },
     "gueboroa-island": {
       "type": "place",
       "label": "Gueboroa Island",
@@ -10164,6 +10172,9 @@
     "Slave Lake": "great-slave-lake",
     "greenland": "greenland",
     "Greenland": "greenland",
+    "guamini": "guamini",
+    "Guamini": "guamini",
+    "river Guamini": "guamini",
     "gueboroa-island": "gueboroa-island",
     "Gueboroa Island": "gueboroa-island",
     "guiana": "guiana",
@@ -11507,6 +11518,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1470,
-  "generated": "2026-07-17T09:11:14Z"
+  "page_count": 1471,
+  "generated": "2026-07-17T09:16:53Z"
 }
