@@ -21393,6 +21393,30 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 18
     },
+    "reptile-end": {
+      "type": "place",
+      "label": "Reptile End",
+      "aliases": [],
+      "tags": [
+        "place",
+        "cape",
+        "lincoln-island",
+        "the-mysterious-island",
+        "pacific"
+      ],
+      "path": "re/reptile-end.md",
+      "description": "The south-western cape of Lincoln Island, marking one extremity of the settlers' explored shore.",
+      "prose_len": 1441,
+      "prose_chars": 1360,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 64,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "rhine": {
       "type": "place",
       "label": "Rhine",
@@ -32277,6 +32301,8 @@
     "Red Sea": "red-sea",
     "reform-club": "reform-club",
     "Reform Club": "reform-club",
+    "reptile-end": "reptile-end",
+    "Reptile End": "reptile-end",
     "rhine": "rhine",
     "Rhine": "rhine",
     "Rhine River": "rhine",
@@ -32928,6 +32954,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1458,
-  "generated": "2026-07-17T07:59:27Z"
+  "page_count": 1459,
+  "generated": "2026-07-17T08:10:13Z"
 }
