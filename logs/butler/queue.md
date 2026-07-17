@@ -81,6 +81,8 @@
 <!-- ✔ R156 建 formentera rev=XITl4H featured；净 solid 7（OC 单源 025-001 最小巴利阿里岛/025-011 三日抵/025-042 Gallia 残岛/027-001 救 Rosette 人口至 36/029-019 Rosette 观测台/029-039 solitude/038-017 quarters）+ 042-003 幸存岛列举（bonus）；接 off-on-a-comet -->
 
 - [place] Callao — 14 distinctPN（real；region Peru；Lima 之港 Port of Callao；PL×5+SC×9；与既有 lima 页区分港 vs 城）
+<!-- ✔ R159 建 callao rev=qUuRv9 featured；净 solid 9（PL-002-006 Lima 之港建 1779/002-036 Annonciation 现于 Callao/003-062 Sarah 骑向 Callao/003-063 夺 Callao 舰；SC-002-075 Britannia 5/30 离 Callao/004-005 自 Callao 后无音/033-042 Callao 补给启航/063-067 离 Callao 后侦 NZ）；region South America；接 the-pearl-of-lima -->
+
 - [place] Louisiana — 7 distinctPN；待筛（FEM 1803 拿破仑售路易斯安那史/FEM 离岸 solid + Gulf 海岸弧枚举）；real；region US
 - [place] Arkansas — 7 distinctPN 表面；多指 Arkansas River（AWED-028-030/030-014 河/堡）+ 州列举；仅 MW-008-040 Little Rock 确指州；<5 clean state，DEFER 待凑
 - [place] Tennessee — 5 distinctPN 表面；FEM-010-008 系铁甲舰 ram Tennessee（异指）+ 州列举；仅 MW-004-013 Nashville 确指州；<5 clean state，hold

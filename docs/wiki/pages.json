@@ -4763,6 +4763,28 @@
       "book": "Godfrey Morgan",
       "total_refs": 3
     },
+    "callao": {
+      "type": "place",
+      "label": "Callao",
+      "aliases": [],
+      "tags": [
+        "place",
+        "south-america",
+        "port"
+      ],
+      "path": "ca/callao.md",
+      "description": "The Pacific seaport of Lima in Peru, a setting in The Pearl of Lima and the last recorded port of the Britannia in In Search of the Castaways.",
+      "prose_len": 1935,
+      "prose_chars": 1854,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Pearl of Lima",
+      "total_refs": 0
+    },
     "cambridge-observatory": {
       "type": "organization",
       "label": "Cambridge Observatory",
@@ -30581,6 +30603,8 @@
     "Calcutta": "calcutta",
     "california": "california",
     "California": "california",
+    "callao": "callao",
+    "Callao": "callao",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
@@ -32402,6 +32426,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1437,
-  "generated": "2026-07-17T05:44:30Z"
+  "page_count": 1438,
+  "generated": "2026-07-17T05:46:41Z"
 }

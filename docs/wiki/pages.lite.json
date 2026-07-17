@@ -1427,6 +1427,12 @@
       "aliases": [],
       "path": "ca/california.md"
     },
+    "callao": {
+      "type": "place",
+      "label": "Callao",
+      "aliases": [],
+      "path": "ca/callao.md"
+    },
     "cambridge-observatory": {
       "type": "organization",
       "label": "Cambridge Observatory",
@@ -9385,6 +9391,8 @@
     "Calcutta": "calcutta",
     "california": "california",
     "California": "california",
+    "callao": "callao",
+    "Callao": "callao",
     "cambridge-observatory": "cambridge-observatory",
     "Cambridge Observatory": "cambridge-observatory",
     "Observatory of Cambridge": "cambridge-observatory",
@@ -11206,6 +11214,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1437,
-  "generated": "2026-07-17T05:44:30Z"
+  "page_count": 1438,
+  "generated": "2026-07-17T05:46:41Z"
 }
