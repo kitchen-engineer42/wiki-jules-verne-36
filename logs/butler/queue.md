@@ -78,6 +78,8 @@
 
 - [place] Timbuktu — 7 distinctPN（real；region West Africa；Robur the Conqueror：Albatross 掠 Timbuktu，RC×7 015-013/016/020/022/046/051+017-003）
 - [place] Tripoli — 9 distinctPN（real；region North Africa；Five Weeks in a Balloon：出发/复得 Tripoli，FWB×5+OC×2+TT）
+<!-- ✔ R153 建 tripoli rev=eRrpRd featured；净 solid 7（FWB×5 004-007/004-009/004-012/030-015/037-036 撒哈拉探险出发/复得城 + OC×2 013-002/015-039 coast of Tripoli 彗后新岸 + 隐 TT-015-015 子午线）；接 five-weeks-in-a-balloon/tunis/off-on-a-comet -->
+
 - [place] Maryland — 6 distinctPN（real；region United States；From the Earth to the Moon：Baltimore Maryland/Gun Club 本部，FEM×2+TT×3 Baltimore 拍卖；5 clean solid）
 <!-- ⏸ Georgia — 24 distinctPN 但不可建为单页：裂为 New/South Georgia 南极岛（AM×6）与 Caucasus/俄省 Georgia（ASC×3），无干净美州 Georgia 指。split-candidate hold，待分别专项凑句 -->
 <!-- ✔ [place] Mont Blanc — 已建 mont-blanc（rev 9tnHNq，The Ascent of Mont Blanc real，region France，页内引注 11：AMB-001-002/040/062/081/100/104/111/146、FEM-024-021、RM-007-005、SC-013-014；欧洲最高峰/Chamonix 登顶/Balmat+Paccard 首登/1866 冰崩罹难/高度基准；接 the-ascent-of-mont-blanc/alps/from-the-earth-to-the-moon/round-the-moon/in-search-of-the-castaways）R129 -->

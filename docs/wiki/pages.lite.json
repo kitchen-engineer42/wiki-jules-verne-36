@@ -8053,6 +8053,14 @@
       "aliases": [],
       "path": "to/torres-strait.md"
     },
+    "tripoli": {
+      "type": "place",
+      "label": "Tripoli",
+      "aliases": [
+        "coast of Tripoli"
+      ],
+      "path": "tr/tripoli.md"
+    },
     "tsalal-island": {
       "type": "place",
       "label": "Tsalal Island",
@@ -10962,6 +10970,9 @@
     "The Purchase of the North Pole": "topsy-turvy",
     "torres-strait": "torres-strait",
     "Torres Strait": "torres-strait",
+    "tripoli": "tripoli",
+    "Tripoli": "tripoli",
+    "coast of Tripoli": "tripoli",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
@@ -11160,6 +11171,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1432,
-  "generated": "2026-07-17T03:37:53Z"
+  "page_count": 1433,
+  "generated": "2026-07-17T03:40:42Z"
 }

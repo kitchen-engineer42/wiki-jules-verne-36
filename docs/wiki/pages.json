@@ -26893,6 +26893,29 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 1
     },
+    "tripoli": {
+      "type": "place",
+      "label": "Tripoli",
+      "aliases": [
+        "coast of Tripoli"
+      ],
+      "tags": [
+        "place",
+        "north-africa"
+      ],
+      "path": "tr/tripoli.md",
+      "description": "City and coast of North Africa, the northern gateway to the Sahara in Five Weeks in a Balloon.",
+      "prose_len": 1805,
+      "prose_chars": 1716,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "tsalal-island": {
       "type": "place",
       "label": "Tsalal Island",
@@ -32080,6 +32103,9 @@
     "The Purchase of the North Pole": "topsy-turvy",
     "torres-strait": "torres-strait",
     "Torres Strait": "torres-strait",
+    "tripoli": "tripoli",
+    "Tripoli": "tripoli",
+    "coast of Tripoli": "tripoli",
     "tsalal-island": "tsalal-island",
     "Tsalal Island": "tsalal-island",
     "TT-ch01": "TT-ch01",
@@ -32278,6 +32304,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1432,
-  "generated": "2026-07-17T03:37:53Z"
+  "page_count": 1433,
+  "generated": "2026-07-17T03:40:42Z"
 }
