@@ -7734,6 +7734,14 @@
       "aliases": [],
       "path": "ta/tabor-island.md"
     },
+    "tachkend": {
+      "type": "place",
+      "label": "Tachkend",
+      "aliases": [
+        "Tashkend"
+      ],
+      "path": "ta/tachkend.md"
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -10908,6 +10916,9 @@
     "Discovery of Ayrton": "tabor-island-castaway",
     "tabor-island": "tabor-island",
     "Tabor Island": "tabor-island",
+    "tachkend": "tachkend",
+    "Tachkend": "tachkend",
+    "Tashkend": "tachkend",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -11225,6 +11236,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1439,
-  "generated": "2026-07-17T05:54:54Z"
+  "page_count": 1440,
+  "generated": "2026-07-17T05:56:48Z"
 }

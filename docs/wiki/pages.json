@@ -25879,6 +25879,30 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "tachkend": {
+      "type": "place",
+      "label": "Tachkend",
+      "aliases": [
+        "Tashkend"
+      ],
+      "tags": [
+        "place",
+        "central-asia",
+        "railway"
+      ],
+      "path": "ta/tachkend.md",
+      "description": "A great city of Russian Turkestan on the Grand Transasiatic railway, a two-and-a-half-hour halt on the reporter's journey in The Adventures of a Special Correspondent.",
+      "prose_len": 1897,
+      "prose_chars": 1816,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "tampa-town": {
       "type": "place",
       "label": "Tampa Town",
@@ -32136,6 +32160,9 @@
     "Discovery of Ayrton": "tabor-island-castaway",
     "tabor-island": "tabor-island",
     "Tabor Island": "tabor-island",
+    "tachkend": "tachkend",
+    "Tachkend": "tachkend",
+    "Tashkend": "tachkend",
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
@@ -32453,6 +32480,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1439,
-  "generated": "2026-07-17T05:54:54Z"
+  "page_count": 1440,
+  "generated": "2026-07-17T05:56:48Z"
 }
