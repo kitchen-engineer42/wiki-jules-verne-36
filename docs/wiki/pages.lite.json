@@ -3659,6 +3659,12 @@
       ],
       "path": "go/godfrey-morgan.md"
     },
+    "gondokoro": {
+      "type": "place",
+      "label": "Gondokoro",
+      "aliases": [],
+      "path": "go/gondokoro.md"
+    },
     "gourbi-island": {
       "type": "place",
       "label": "Gourbi Island",
@@ -9954,6 +9960,8 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "gondokoro": "gondokoro",
+    "Gondokoro": "gondokoro",
     "gourbi-island": "gourbi-island",
     "Gourbi Island": "gourbi-island",
     "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
@@ -11284,6 +11292,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1446,
-  "generated": "2026-07-17T06:35:59Z"
+  "page_count": 1447,
+  "generated": "2026-07-17T06:39:40Z"
 }

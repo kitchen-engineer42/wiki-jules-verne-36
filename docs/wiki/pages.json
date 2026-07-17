@@ -12230,6 +12230,28 @@
       "quality_score": 42,
       "total_refs": 3
     },
+    "gondokoro": {
+      "type": "place",
+      "label": "Gondokoro",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "east-africa"
+      ],
+      "path": "go/gondokoro.md",
+      "description": "A station on the Nile between the fourth and fifth parallels of north latitude, the northern limit of river exploration in Five Weeks in a Balloon.",
+      "prose_len": 1704,
+      "prose_chars": 1621,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "gourbi-island": {
       "type": "place",
       "label": "Gourbi Island",
@@ -31292,6 +31314,8 @@
     "L'École des Robinsons": "godfrey-morgan",
     "The School for Crusoes": "godfrey-morgan",
     "Godfrey Morgan: A Californian Mystery": "godfrey-morgan",
+    "gondokoro": "gondokoro",
+    "Gondokoro": "gondokoro",
     "gourbi-island": "gourbi-island",
     "Gourbi Island": "gourbi-island",
     "grand-transasiatic-railway-company": "grand-transasiatic-railway-company",
@@ -32622,6 +32646,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1446,
-  "generated": "2026-07-17T06:35:59Z"
+  "page_count": 1447,
+  "generated": "2026-07-17T06:39:40Z"
 }
