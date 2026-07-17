@@ -5541,6 +5541,12 @@
       "aliases": [],
       "path": "ne/new-aberfoyle.md"
     },
+    "new-america": {
+      "type": "place",
+      "label": "New America",
+      "aliases": [],
+      "path": "ne/new-america.md"
+    },
     "new-archangel": {
       "type": "place",
       "label": "New Archangel",
@@ -10539,6 +10545,8 @@
     "Nevada": "nevada",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-america": "new-america",
+    "New America": "new-america",
     "new-archangel": "new-archangel",
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
@@ -11416,6 +11424,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1461,
-  "generated": "2026-07-17T08:16:12Z"
+  "page_count": 1462,
+  "generated": "2026-07-17T08:19:06Z"
 }

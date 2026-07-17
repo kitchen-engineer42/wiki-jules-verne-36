@@ -714,7 +714,7 @@
 <!-- ✔ [place] Reptile End — 已建 reptile-end（rev 9fFU2T，The Mysterious Island，fictional，Lincoln Island；净 solid 10：MI 023-052/034-082/026-035/026-038/026-042/041-039/013-065/035-024/053-023/054-001/038-099）。Lincoln Island 西南岬，Claw Cape 对峙。R188 -->
 <!-- ✔ [place] Vanikoro — 已建 vanikoro（rev G2XmBO，Twenty Thousand Leagues Under the Seas，real，South Pacific Ocean；净 solid 11：TTLU 019-033/020-002/019-066/019-043/019-061/019-042/019-044/019-046/019-052/019-059/019-048）。La Pérouse 覆没岛，Nautilus 途经；alias Vanikoro Island。R189 -->
 <!-- ✔ [place] Tadorn Marsh — 已建 tadorn-marsh（rev RK87bB，The Mysterious Island，fictional，Lincoln Island；净 solid 7：MI 033-074/053-022/042-075/054-004/061-060/061-078/061-062）。Lincoln Island 东南沼泽，野兽避难所。R190 -->
-- [place] New America <!-- ACH×7；Altamont 命名之极地大陆/岛（039-053 命名/039-058 大陆名/039-077 勘探/046-069 幅员/049-003 陆或岛/051-014 疑为岛/057-016 穿越）。slug new-america，NEW -->
+<!-- ✔ [place] New America — 已建 new-america（rev KwdOTq，The Adventures of Captain Hatteras，fictional，Arctic；净 solid 7：ACH 039-053/039-058/039-077/046-069/049-003/051-014/057-016）。Altamont 命名极地陆/岛，疑为岛。R191 —— R187 队列末项，本轮建毕队列罄，R192 须再 SCN28 discover -->
 <!-- R188+ 建序：Reptile End → Vanikoro → Tadorn Marsh → New America（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->
 
 

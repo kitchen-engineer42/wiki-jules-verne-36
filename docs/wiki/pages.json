@@ -18553,6 +18553,30 @@
       "book": "The Underground City",
       "total_refs": 3
     },
+    "new-america": {
+      "type": "place",
+      "label": "New America",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "continent",
+        "the-adventures-of-captain-hatteras",
+        "exploration"
+      ],
+      "path": "ne/new-america.md",
+      "description": "The unknown polar land discovered by the travellers, named New America by the American Altamont.",
+      "prose_len": 1197,
+      "prose_chars": 1116,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 61,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "new-archangel": {
       "type": "place",
       "label": "New Archangel",
@@ -32132,6 +32156,8 @@
     "Nevada": "nevada",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
+    "new-america": "new-america",
+    "New America": "new-america",
     "new-archangel": "new-archangel",
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
@@ -33009,6 +33035,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1461,
-  "generated": "2026-07-17T08:16:12Z"
+  "page_count": 1462,
+  "generated": "2026-07-17T08:19:06Z"
 }
