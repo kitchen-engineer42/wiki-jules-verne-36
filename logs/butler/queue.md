@@ -43,8 +43,8 @@
 - [place] Colorado — 13 distinctPN（real；疑 Colorado River；colorado-river 未建）
 <!-- ✔ [place] Nevada — 已建 nevada（rev SQvvj3，AWED real，5 distinctPN；银州/Carson Valley 入州/Humboldt River+Range/Sierra 西壁/Godfrey Morgan 银财，region United States。剔 Sierra Nevada 山脉泛指 5 项 + GM-006-040 泛指）R135 -->
 - [place] Wisconsin — 10 distinctPN（real；region US；待筛）
-- [place] Iowa — 8 distinctPN（real；region US；RC 平原/AWED 铁路）
-- [place] Oregon — 8 distinctPN（real；region US Pacific NW）
+<!-- ✔ [place] Iowa — 已建 iowa（rev RtXYZf，The Mysterious Island real，5 distinctPN；林肯岛拓殖终地/AWED 铁路横越/RC Albatross 平原，region United States。剔 MW×2+GM 泛指枚举）R136 -->
+- [place] Oregon — 8 distinctPN 表面，但仅 2 项 solid（FC 皮毛公司/RC Albatross）；余 AWED-026-006+GM-001-004+MW-007-010 系州列举泛指，FF-004-031 系 Oregon Inlet（北卡）异指，RC-001-042 疑误配。DEFER（<5 clean）
 <!-- ✔ [place] Nebraska — 已建 nebraska（rev 1KL238，AWED real，7 distinctPN；太平洋铁路州/Albatross 掠 Bad Lands/Aronnax badlands 远征，region United States）R134 -->
 - [place] Soudan — 15 distinctPN（real；region Central Africa；FWB 气球航路核心）
 - [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）

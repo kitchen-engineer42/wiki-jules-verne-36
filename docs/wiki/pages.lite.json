@@ -3867,6 +3867,12 @@
       ],
       "path": "in/inquiry-committee.md"
     },
+    "iowa": {
+      "type": "place",
+      "label": "Iowa",
+      "aliases": [],
+      "path": "io/iowa.md"
+    },
     "iquitos": {
       "type": "place",
       "label": "Iquitos",
@@ -9859,6 +9865,8 @@
     "inquiry-committee": "inquiry-committee",
     "Inquiry Committee": "inquiry-committee",
     "Committee of Inquiry": "inquiry-committee",
+    "iowa": "iowa",
+    "Iowa": "iowa",
     "iquitos": "iquitos",
     "Iquitos": "iquitos",
     "ireland": "ireland",
@@ -11050,6 +11058,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1419,
-  "generated": "2026-07-17T02:25:40Z"
+  "page_count": 1420,
+  "generated": "2026-07-17T02:29:05Z"
 }
