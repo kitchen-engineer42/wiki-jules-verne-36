@@ -5348,6 +5348,12 @@
       "aliases": [],
       "path": "na/navy-island.md"
     },
+    "nebraska": {
+      "type": "place",
+      "label": "Nebraska",
+      "aliases": [],
+      "path": "ne/nebraska.md"
+    },
     "ned-land": {
       "type": "character",
       "label": "Ned Land",
@@ -10188,6 +10194,8 @@
     "Nautilus": "nautilus",
     "navy-island": "navy-island",
     "Navy Island": "navy-island",
+    "nebraska": "nebraska",
+    "Nebraska": "nebraska",
     "ned-land": "ned-land",
     "Ned Land": "ned-land",
     "nemo-death": "nemo-death",
@@ -11034,6 +11042,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1417,
-  "generated": "2026-07-17T02:15:37Z"
+  "page_count": 1418,
+  "generated": "2026-07-17T02:20:31Z"
 }

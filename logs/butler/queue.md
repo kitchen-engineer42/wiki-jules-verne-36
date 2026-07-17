@@ -45,7 +45,7 @@
 - [place] Wisconsin — 10 distinctPN（real；region US；待筛）
 - [place] Iowa — 8 distinctPN（real；region US；RC 平原/AWED 铁路）
 - [place] Oregon — 8 distinctPN（real；region US Pacific NW）
-- [place] Nebraska — AWED 4+RC 2+TTLU 1=7 distinctPN（real；region US；太平洋铁路州/Albatross 掠 Bad Lands/Aronnax badlands 远征）
+<!-- ✔ [place] Nebraska — 已建 nebraska（rev 1KL238，AWED real，7 distinctPN；太平洋铁路州/Albatross 掠 Bad Lands/Aronnax badlands 远征，region United States）R134 -->
 - [place] Soudan — 15 distinctPN（real；region Central Africa；FWB 气球航路核心）
 - [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）
 - [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
