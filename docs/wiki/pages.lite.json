@@ -8903,6 +8903,12 @@
       "aliases": [],
       "path": "we/wellington-channel.md"
     },
+    "wisconsin": {
+      "type": "place",
+      "label": "Wisconsin",
+      "aliases": [],
+      "path": "wi/wisconsin.md"
+    },
     "yakutsk": {
       "type": "place",
       "label": "Yakutsk",
@@ -11046,6 +11052,8 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "wisconsin": "wisconsin",
+    "Wisconsin": "wisconsin",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
     "YEAR": "YEAR",
@@ -11058,6 +11066,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1420,
-  "generated": "2026-07-17T02:29:05Z"
+  "page_count": 1421,
+  "generated": "2026-07-17T02:32:12Z"
 }

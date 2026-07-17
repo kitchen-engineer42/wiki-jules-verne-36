@@ -5332,7 +5332,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Around the World in Eighty Days",
-      "total_refs": 0
+      "total_refs": 1
     },
     "chili": {
       "type": "place",
@@ -21440,7 +21440,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 21
+      "total_refs": 22
     },
     "robur": {
       "type": "character",
@@ -25822,7 +25822,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 14
+      "total_refs": 15
     },
     "the-moon": {
       "type": "place",
@@ -29746,6 +29746,27 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "wisconsin": {
+      "type": "place",
+      "label": "Wisconsin",
+      "aliases": [],
+      "tags": [
+        "place",
+        "exploration"
+      ],
+      "path": "wi/wisconsin.md",
+      "description": "The northern state whose roads host the great automobile race of The Master of the World.",
+      "prose_len": 1969,
+      "prose_chars": 1884,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "yakutsk": {
       "type": "place",
       "label": "Yakutsk",
@@ -31986,6 +32007,8 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "wisconsin": "wisconsin",
+    "Wisconsin": "wisconsin",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
     "YEAR": "YEAR",
@@ -31998,6 +32021,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1420,
-  "generated": "2026-07-17T02:29:05Z"
+  "page_count": 1421,
+  "generated": "2026-07-17T02:32:12Z"
 }
