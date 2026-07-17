@@ -22741,6 +22741,30 @@
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 3
     },
+    "saville-row": {
+      "type": "place",
+      "label": "Saville Row",
+      "aliases": [],
+      "tags": [
+        "place",
+        "england",
+        "around-the-world-in-eighty-days",
+        "london",
+        "house"
+      ],
+      "path": "sa/saville-row.md",
+      "description": "The London street in Burlington Gardens where the methodical Phileas Fogg kept his house at No. 7, the starting point of his wager journey around the world.",
+      "prose_len": 1799,
+      "prose_chars": 1714,
+      "h2_count": 4,
+      "pn_count": 12,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "SC-ch01": {
       "type": "chapter",
       "label": "In Search of the Castaways — CHAPTER I THE SHARK",
@@ -32869,6 +32893,8 @@
     "Sardinia": "sardinia",
     "sargasso-sea": "sargasso-sea",
     "Sargasso Sea": "sargasso-sea",
+    "saville-row": "saville-row",
+    "Saville Row": "saville-row",
     "SC-ch01": "SC-ch01",
     "SC-ch02": "SC-ch02",
     "SC-ch03": "SC-ch03",
@@ -33450,6 +33476,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1477,
-  "generated": "2026-07-17T09:52:44Z"
+  "page_count": 1478,
+  "generated": "2026-07-17T09:56:27Z"
 }
