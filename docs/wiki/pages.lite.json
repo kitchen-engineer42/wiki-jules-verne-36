@@ -8924,6 +8924,12 @@
       "aliases": [],
       "path": "ut/utah.md"
     },
+    "uzun-ada": {
+      "type": "place",
+      "label": "Uzun Ada",
+      "aliases": [],
+      "path": "uz/uzun-ada.md"
+    },
     "valparaiso": {
       "type": "place",
       "label": "Valparaiso",
@@ -11469,6 +11475,8 @@
     "The Urals": "ural-mountains",
     "utah": "utah",
     "Utah": "utah",
+    "uzun-ada": "uzun-ada",
+    "Uzun Ada": "uzun-ada",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
     "vancouver-island": "vancouver-island",
@@ -11561,6 +11569,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1476,
-  "generated": "2026-07-17T09:41:25Z"
+  "page_count": 1477,
+  "generated": "2026-07-17T09:52:44Z"
 }

@@ -751,7 +751,7 @@
 
 <!-- ===== R212 SCN28 discover（place，discover3.py 全 968 sentence_index 重扫；Celestial Empire DUPLICATE 后队列罄触发 §3(4) zombie）===== -->
 <!-- 说明：≥6 distinct PN 且单作品集中 ≥6 的净新地名。已剔 person-lead（Captain/Major/…）+ 既有 slug/label/alias + the- 前缀。8 项净新 → new_candidates≥3，place 未饱和，discover_streak_low 保持 0。 -->
-<!-- ○ [place] Uzun Ada — uzun-ada NEW（ASC×10 单指；里海东岸港，大 Transasiatic 铁路西端起点，取代 Baku 转运；real，region Central Asia/Caspian）建序 1 -->
+<!-- ✔ [place] Uzun Ada — 已建 uzun-ada（rev MR1Kbc，ASC real，页内引注 15；里海东岸港，Transasiatic 西端起点，region Central Asia）R213 -->
 <!-- ○ [place] Saville Row — saville-row NEW（AWED×8 单指；伦敦 Burlington Gardens 街，Phileas Fogg 宅 No.7〔Sheridan 1814 卒于此宅〕；real，region England）建序 2 -->
 <!-- ○ [place] Villa Rica — villa-rica NEW（EHLA×8 单指；巴西钻石区矿镇兼监狱，Joam Dacosta 行刑前越狱地，Rio de Janeiro 押运途经；real，region Brazil）建序 3 -->
 <!-- ○ [place] Coal Town — coal-town NEW（UC×7 单指；Loch Katrine 东岬地下矿村，电力照明，New Aberfoyle 聚落；fictional，region Scotland underground）建序 4 -->

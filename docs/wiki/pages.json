@@ -29849,6 +29849,31 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 0
     },
+    "uzun-ada": {
+      "type": "place",
+      "label": "Uzun Ada",
+      "aliases": [],
+      "tags": [
+        "place",
+        "central-asia",
+        "the-adventures-of-a-special-correspondent",
+        "railway",
+        "caspian",
+        "port"
+      ],
+      "path": "uz/uzun-ada.md",
+      "description": "The Caspian port on the eastern shore where the Grand Transasiatic railway begins, first Asian foothold of the reporter Bombarnac in The Adventures of a Special Correspondent.",
+      "prose_len": 2271,
+      "prose_chars": 2182,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "valparaiso": {
       "type": "place",
       "label": "Valparaiso",
@@ -33331,6 +33356,8 @@
     "The Urals": "ural-mountains",
     "utah": "utah",
     "Utah": "utah",
+    "uzun-ada": "uzun-ada",
+    "Uzun Ada": "uzun-ada",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
     "vancouver-island": "vancouver-island",
@@ -33423,6 +33450,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1476,
-  "generated": "2026-07-17T09:41:25Z"
+  "page_count": 1477,
+  "generated": "2026-07-17T09:52:44Z"
 }
