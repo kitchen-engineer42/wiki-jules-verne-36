@@ -4201,6 +4201,31 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 1
     },
+    "bennet-islet": {
+      "type": "place",
+      "label": "Bennet Islet",
+      "aliases": [
+        "Bennet Island"
+      ],
+      "tags": [
+        "place",
+        "island",
+        "antarctic",
+        "an-antarctic-mystery"
+      ],
+      "path": "be/bennet-islet.md",
+      "description": "A small, barren island of the far southern seas in An Antarctic Mystery, a landfall on the Halbrane's search for the men of the Jane.",
+      "prose_len": 1210,
+      "prose_chars": 1129,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "bergen": {
       "type": "place",
       "label": "Bergen",
@@ -30943,6 +30968,9 @@
     "Bellot Strait": "bellot-strait",
     "benares": "benares",
     "Benares": "benares",
+    "bennet-islet": "bennet-islet",
+    "Bennet Islet": "bennet-islet",
+    "Bennet Island": "bennet-islet",
     "bergen": "bergen",
     "Bergen": "bergen",
     "berlin": "berlin",
@@ -32848,6 +32876,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1455,
-  "generated": "2026-07-17T07:44:43Z"
+  "page_count": 1456,
+  "generated": "2026-07-17T07:48:47Z"
 }
