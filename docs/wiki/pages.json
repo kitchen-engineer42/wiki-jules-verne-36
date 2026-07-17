@@ -8417,6 +8417,32 @@
       "book": "The Mysterious Island",
       "total_refs": 2
     },
+    "far-west": {
+      "type": "place",
+      "label": "Far West",
+      "aliases": [
+        "Forests of the Far West"
+      ],
+      "tags": [
+        "place",
+        "lincoln-island",
+        "forest",
+        "the-mysterious-island",
+        "exploration"
+      ],
+      "path": "fa/far-west.md",
+      "description": "The great western forest of Lincoln Island covering the Serpentine Peninsula in The Mysterious Island.",
+      "prose_len": 2234,
+      "prose_chars": 2147,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "faroe-islands": {
       "type": "place",
       "label": "Faroe Islands",
@@ -31487,6 +31513,9 @@
     "The Falklands": "falkland-islands",
     "falls-river": "falls-river",
     "Falls River": "falls-river",
+    "far-west": "far-west",
+    "Far West": "far-west",
+    "Forests of the Far West": "far-west",
     "faroe-islands": "faroe-islands",
     "Faroe Islands": "faroe-islands",
     "Faroe and Shetland Islands": "faroe-islands",
@@ -33085,6 +33114,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1464,
-  "generated": "2026-07-17T08:38:31Z"
+  "page_count": 1465,
+  "generated": "2026-07-17T08:42:34Z"
 }

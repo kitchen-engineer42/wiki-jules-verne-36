@@ -2518,6 +2518,14 @@
       "aliases": [],
       "path": "fa/falls-river.md"
     },
+    "far-west": {
+      "type": "place",
+      "label": "Far West",
+      "aliases": [
+        "Forests of the Far West"
+      ],
+      "path": "fa/far-west.md"
+    },
     "faroe-islands": {
       "type": "place",
       "label": "Faroe Islands",
@@ -9842,6 +9850,9 @@
     "The Falklands": "falkland-islands",
     "falls-river": "falls-river",
     "Falls River": "falls-river",
+    "far-west": "far-west",
+    "Far West": "far-west",
+    "Forests of the Far West": "far-west",
     "faroe-islands": "faroe-islands",
     "Faroe Islands": "faroe-islands",
     "Faroe and Shetland Islands": "faroe-islands",
@@ -11440,6 +11451,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1464,
-  "generated": "2026-07-17T08:37:27Z"
+  "page_count": 1465,
+  "generated": "2026-07-17T08:42:34Z"
 }
