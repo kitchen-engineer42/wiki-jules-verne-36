@@ -3712,6 +3712,12 @@
       ],
       "path": "gu/guiana.md"
     },
+    "guinea": {
+      "type": "place",
+      "label": "Guinea",
+      "aliases": [],
+      "path": "gu/guinea.md"
+    },
     "gulf-of-mexico": {
       "type": "place",
       "label": "Gulf of Mexico",
@@ -9850,6 +9856,8 @@
     "Guiana": "guiana",
     "French Guiana": "guiana",
     "Dutch Guiana": "guiana",
+    "guinea": "guinea",
+    "Guinea": "guinea",
     "gulf-of-mexico": "gulf-of-mexico",
     "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
@@ -11114,6 +11122,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1427,
-  "generated": "2026-07-17T03:10:59Z"
+  "page_count": 1428,
+  "generated": "2026-07-17T03:15:05Z"
 }

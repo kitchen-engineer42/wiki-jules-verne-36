@@ -50,6 +50,8 @@
 <!-- ✔ R145 建 soudan rev=dnzqYj featured；净 solid 9（FWB×6 004-005/004-017/005-063/012-067/030-015/034-022 + OC×2 003-014/003-018 + WC×1 013-004）；剔 demonym FWB-020-008/GM-018-004 + 列举 FWB-002-004/OC-003-006 -->
 
 - [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）
+<!-- ✔ R146 建 guinea rev=U6cFPe featured；净 solid 6（FWB×3 024-049/040-004/041-002 + RC×2 015-050/015-013 + DSCF×1 035-040）；剔 New Guinea/Papua（SC/TTLU×3）+ 动植物（Guinea fowl DSCF-021-076/Goliaths of Guinea DSCF-031-012）+ 列举（ACH-012-051/TT×2/MI-025-038） -->
+
 - [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
 - [place] Indiana — 5 distinctPN（real；region US；勉达门待筛）
 <!-- ═══ R139 SCN28 表层 discover（since_discover=10 且 queue=9<10 触发）：州级/城级 toponym 复扫，凑 ≥5 distinctPN 且未建。new_candidates=5 buildable（streak→0）═══ -->

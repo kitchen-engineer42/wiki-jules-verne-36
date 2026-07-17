@@ -12384,6 +12384,26 @@
       "book": "The Survivors of the Chancellor",
       "total_refs": 0
     },
+    "guinea": {
+      "type": "place",
+      "label": "Guinea",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "exploration"
+      ],
+      "path": "gu/guinea.md",
+      "description": "West African coastal region and the Gulf that bears its name, a landmark of Vernean African exploration.",
+      "prose_len": 2485,
+      "prose_chars": 2392,
+      "h2_count": 4,
+      "pn_count": 13,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "gulf-of-mexico": {
       "type": "place",
       "label": "Gulf of Mexico",
@@ -30893,6 +30913,8 @@
     "Guiana": "guiana",
     "French Guiana": "guiana",
     "Dutch Guiana": "guiana",
+    "guinea": "guinea",
+    "Guinea": "guinea",
     "gulf-of-mexico": "gulf-of-mexico",
     "Gulf of Mexico": "gulf-of-mexico",
     "gulf-stream": "gulf-stream",
@@ -32157,6 +32179,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1427,
-  "generated": "2026-07-17T03:10:59Z"
+  "page_count": 1428,
+  "generated": "2026-07-17T03:15:40Z"
 }
