@@ -1345,7 +1345,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 5
+      "total_refs": 6
     },
     "albatross": {
       "type": "technology",
@@ -5100,7 +5100,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "cape-washington": {
       "type": "place",
@@ -10145,7 +10145,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 10
+      "total_refs": 11
     },
     "fix": {
       "type": "character",
@@ -24288,6 +24288,27 @@
       "book": "Michael Strogoff",
       "total_refs": 0
     },
+    "senegal": {
+      "type": "place",
+      "label": "Senegal",
+      "aliases": [],
+      "tags": [
+        "place",
+        "exploration"
+      ],
+      "path": "se/senegal.md",
+      "description": "The West African region and French colony that forms the western goal of Dr. Ferguson balloon crossing in Five Weeks in a Balloon.",
+      "prose_len": 2201,
+      "prose_chars": 2116,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -26040,7 +26061,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tjon": {
       "type": "place",
@@ -31478,6 +31499,8 @@
     "Mare Imbrium": "sea-of-rains",
     "semipolatinsk": "semipolatinsk",
     "Semipolatinsk": "semipolatinsk",
+    "senegal": "senegal",
+    "Senegal": "senegal",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shanghai": "shanghai",
@@ -31883,6 +31906,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1415,
-  "generated": "2026-07-17T02:06:44Z"
+  "page_count": 1416,
+  "generated": "2026-07-17T02:12:11Z"
 }

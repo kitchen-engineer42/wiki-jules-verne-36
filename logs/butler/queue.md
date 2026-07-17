@@ -34,7 +34,7 @@
 <!-- ═══ R130 后曾误判 place 强候选归零 —— R131 系统重扫（州级/区域级 grep 校对 existing pages）证伪：仍有 10+ 干净可建候选（前轮欠采样，仅盯洲级泛指项）。CLOSE 提前，续 NEW1 广度。═══ -->
 <!-- ═══ R131 SCN28-style 重扫补种（州级/非洲区域级；均已比对 existing pages 无重复，distinctPN≥5 达门；泛指/河页重叠已初筛）═══ -->
 - [place] Texas — FEM 17+MW 1+RM 1=19 distinctPN（real；region US；FEM Ch.11 Texas↔Florida 争 Columbiad 铸址主线；Galveston Bay/26 counties/1836 独立；R131 建 texas）
-- [place] Senegal — FWB 主源 25 distinctPN（real；region West Africa；Senegal River/Fonta-Jallon 气球航路；senegal-river 页不存在，无重叠）
+<!-- ✔ [place] Senegal — 已建 senegal（rev jgvSUe，Five Weeks in a Balloon real，region West Africa，页内引注 11：FWB-008-022/038-037/041-002/041-003/041-022/042-002/043-067/044-002/044-010、SC-008-031、TTLU-032-002；定主体=西非区域/法属殖民地，Senegal River 为其核心特征；Gouina 瀑布/Medina 哨站/Fonta-Jallon；接 five-weeks-in-a-balloon/africa/cape-verde/timbuctoo）R132 -->
 - [place] Utah — AWED 9 distinctPN（real；region US；摩门领地/Great Salt Lake/Brigham Young；须与 salt-lake-city 区分主体=州/领地）
 - [place] Illinois — 21 distinctPN（real；region US；待筛泛指 vs 确指，疑 Chicago/railroad 列举）
 - [place] Michigan — 15 distinctPN（real；region US；须与 lake-michigan 既有页区分州 vs 湖）

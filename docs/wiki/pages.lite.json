@@ -7267,6 +7267,12 @@
       "aliases": [],
       "path": "se/semipolatinsk.md"
     },
+    "senegal": {
+      "type": "place",
+      "label": "Senegal",
+      "aliases": [],
+      "path": "se/senegal.md"
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -10613,6 +10619,8 @@
     "Mare Imbrium": "sea-of-rains",
     "semipolatinsk": "semipolatinsk",
     "Semipolatinsk": "semipolatinsk",
+    "senegal": "senegal",
+    "Senegal": "senegal",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shanghai": "shanghai",
@@ -11018,6 +11026,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1415,
-  "generated": "2026-07-17T02:06:44Z"
+  "page_count": 1416,
+  "generated": "2026-07-17T02:12:11Z"
 }
