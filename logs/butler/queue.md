@@ -713,7 +713,7 @@
 <!-- 入队均已文件系统 + 后缀变体查重（承 Tsalal 教训）。既有排除：prospect-heights/mount-franklin/union-bay/shark-gulf/granite-house/claw-cape/port-balloon/serpentine-peninsula/flotsam-point/washington-bay/crespo-island 皆已建；Cape Mandible（MI×5）→ 既有 mandible-cape（Mandible Capes 复数同指）overlap，DEFER；Indian Peninsula（6，多 Great Indian Peninsula Railway 铁路名/泛指）DEFER；Balearic Isles（OC×5 薄，多对白/Formentera 从属）DEFER。 -->
 <!-- ✔ [place] Reptile End — 已建 reptile-end（rev 9fFU2T，The Mysterious Island，fictional，Lincoln Island；净 solid 10：MI 023-052/034-082/026-035/026-038/026-042/041-039/013-065/035-024/053-023/054-001/038-099）。Lincoln Island 西南岬，Claw Cape 对峙。R188 -->
 <!-- ✔ [place] Vanikoro — 已建 vanikoro（rev G2XmBO，Twenty Thousand Leagues Under the Seas，real，South Pacific Ocean；净 solid 11：TTLU 019-033/020-002/019-066/019-043/019-061/019-042/019-044/019-046/019-052/019-059/019-048）。La Pérouse 覆没岛，Nautilus 途经；alias Vanikoro Island。R189 -->
-- [place] Tadorn Marsh <!-- MI×12；Lincoln Island 东南沼泽（033-074 远征往/042-075 冰期狩猎/053-022 东岸熟知/054-004 逃犯穿越/061-060 兽群逃入/061-062 较荒）。slug tadorn-marsh，NEW（tadorns-marsh 亦 NEW）-->
+<!-- ✔ [place] Tadorn Marsh — 已建 tadorn-marsh（rev RK87bB，The Mysterious Island，fictional，Lincoln Island；净 solid 7：MI 033-074/053-022/042-075/054-004/061-060/061-078/061-062）。Lincoln Island 东南沼泽，野兽避难所。R190 -->
 - [place] New America <!-- ACH×7；Altamont 命名之极地大陆/岛（039-053 命名/039-058 大陆名/039-077 勘探/046-069 幅员/049-003 陆或岛/051-014 疑为岛/057-016 穿越）。slug new-america，NEW -->
 <!-- R188+ 建序：Reptile End → Vanikoro → Tadorn Marsh → New America（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->
 
