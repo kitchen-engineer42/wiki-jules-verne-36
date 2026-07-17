@@ -6477,6 +6477,12 @@
       "aliases": [],
       "path": "ru/russia.md"
     },
+    "sacramento": {
+      "type": "place",
+      "label": "Sacramento",
+      "aliases": [],
+      "path": "sa/sacramento.md"
+    },
     "sahara": {
       "type": "place",
       "label": "Sahara",
@@ -10513,6 +10519,8 @@
     "Ruhmkorff coil": "ruhmkorff-apparatus",
     "russia": "russia",
     "Russia": "russia",
+    "sacramento": "sacramento",
+    "Sacramento": "sacramento",
     "sahara": "sahara",
     "Sahara": "sahara",
     "Sahara Desert": "sahara",
@@ -11074,6 +11082,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1422,
-  "generated": "2026-07-17T02:46:24Z"
+  "page_count": 1423,
+  "generated": "2026-07-17T02:51:44Z"
 }

@@ -21655,6 +21655,28 @@
       "book": "Michael Strogoff",
       "total_refs": 7
     },
+    "sacramento": {
+      "type": "place",
+      "label": "Sacramento",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "california"
+      ],
+      "path": "sa/sacramento.md",
+      "description": "California capital and river, western reach of the Pacific Railroad in Around the World in Eighty Days.",
+      "prose_len": 2043,
+      "prose_chars": 1952,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "Around the World in Eighty Days",
+      "total_refs": 0
+    },
     "sahara": {
       "type": "place",
       "label": "Sahara",
@@ -31482,6 +31504,8 @@
     "Ruhmkorff coil": "ruhmkorff-apparatus",
     "russia": "russia",
     "Russia": "russia",
+    "sacramento": "sacramento",
+    "Sacramento": "sacramento",
     "sahara": "sahara",
     "Sahara": "sahara",
     "Sahara Desert": "sahara",
@@ -32043,6 +32067,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1422,
-  "generated": "2026-07-17T02:47:12Z"
+  "page_count": 1423,
+  "generated": "2026-07-17T02:51:44Z"
 }
