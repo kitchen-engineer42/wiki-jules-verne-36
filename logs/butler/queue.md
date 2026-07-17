@@ -47,6 +47,8 @@
 - [place] Oregon — 8 distinctPN 表面，但仅 2 项 solid（FC 皮毛公司/RC Albatross）；余 AWED-026-006+GM-001-004+MW-007-010 系州列举泛指，FF-004-031 系 Oregon Inlet（北卡）异指，RC-001-042 疑误配。DEFER（<5 clean）
 <!-- ✔ [place] Nebraska — 已建 nebraska（rev 1KL238，AWED real，7 distinctPN；太平洋铁路州/Albatross 掠 Bad Lands/Aronnax badlands 远征，region United States）R134 -->
 - [place] Soudan — 15 distinctPN（real；region Central Africa；FWB 气球航路核心）
+<!-- ✔ R145 建 soudan rev=dnzqYj featured；净 solid 9（FWB×6 004-005/004-017/005-063/012-067/030-015/034-022 + OC×2 003-014/003-018 + WC×1 013-004）；剔 demonym FWB-020-008/GM-018-004 + 列举 FWB-002-004/OC-003-006 -->
+
 - [place] Guinea — 16 distinctPN（real；region West Africa；待筛 Gulf of Guinea vs 区域）
 - [place] Abyssinia — 5 distinctPN（real；region East Africa；勉达门）
 - [place] Indiana — 5 distinctPN（real；region US；勉达门待筛）

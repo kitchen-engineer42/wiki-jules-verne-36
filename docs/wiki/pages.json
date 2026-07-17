@@ -25154,6 +25154,28 @@
       "book": "In Search of the Castaways",
       "total_refs": 1
     },
+    "soudan": {
+      "type": "place",
+      "label": "Soudan",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "exploration"
+      ],
+      "path": "so/soudan.md",
+      "description": "Historic region of central Africa crossed by the balloon Victoria and a recurring frontier of Vernean exploration.",
+      "prose_len": 2615,
+      "prose_chars": 2522,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "south-america": {
       "type": "place",
       "label": "South America",
@@ -31773,6 +31795,8 @@
     "Snæfell": "snaefellsjokull",
     "snowy-river": "snowy-river",
     "Snowy River": "snowy-river",
+    "soudan": "soudan",
+    "Soudan": "soudan",
     "south-america": "south-america",
     "South America": "south-america",
     "south-pole": "south-pole",
@@ -32133,6 +32157,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1426,
-  "generated": "2026-07-17T03:04:50Z"
+  "page_count": 1427,
+  "generated": "2026-07-17T03:10:59Z"
 }
