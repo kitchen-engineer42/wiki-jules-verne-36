@@ -4677,6 +4677,12 @@
       "aliases": [],
       "path": "me/melville-island.md"
     },
+    "mercy-river": {
+      "type": "place",
+      "label": "The Mercy",
+      "aliases": [],
+      "path": "me/mercy-river.md"
+    },
     "merv": {
       "type": "place",
       "label": "Merv",
@@ -10373,6 +10379,8 @@
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
     "Melville Island": "melville-island",
+    "mercy-river": "mercy-river",
+    "The Mercy": "mercy-river",
     "merv": "merv",
     "Merv": "merv",
     "mexico": "mexico",
@@ -11424,6 +11432,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1462,
-  "generated": "2026-07-17T08:19:06Z"
+  "page_count": 1463,
+  "generated": "2026-07-17T08:33:45Z"
 }

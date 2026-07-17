@@ -15650,6 +15650,30 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "mercy-river": {
+      "type": "place",
+      "label": "The Mercy",
+      "aliases": [],
+      "tags": [
+        "place",
+        "lincoln-island",
+        "river",
+        "the-mysterious-island",
+        "exploration"
+      ],
+      "path": "me/mercy-river.md",
+      "description": "The chief river of Lincoln Island, named by the castaways in gratitude to Providence.",
+      "prose_len": 2110,
+      "prose_chars": 2023,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 0,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "merv": {
       "type": "place",
       "label": "Merv",
@@ -31984,6 +32008,8 @@
     "Melville Bay": "melville-bay",
     "melville-island": "melville-island",
     "Melville Island": "melville-island",
+    "mercy-river": "mercy-river",
+    "The Mercy": "mercy-river",
     "merv": "merv",
     "Merv": "merv",
     "mexico": "mexico",
@@ -33035,6 +33061,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1462,
-  "generated": "2026-07-17T08:19:06Z"
+  "page_count": 1463,
+  "generated": "2026-07-17T08:33:45Z"
 }
