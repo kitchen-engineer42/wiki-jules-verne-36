@@ -4249,6 +4249,14 @@
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
     },
+    "kachgar": {
+      "type": "place",
+      "label": "Kachgar",
+      "aliases": [
+        "Kashgar"
+      ],
+      "path": "ka/kachgar.md"
+    },
     "kamtchatka": {
       "type": "place",
       "label": "Kamtchatka",
@@ -10066,6 +10074,9 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "kachgar": "kachgar",
+    "Kachgar": "kachgar",
+    "Kashgar": "kachgar",
     "kamtchatka": "kamtchatka",
     "Kamtchatka": "kamtchatka",
     "kamtschatka": "kamtschatka",
@@ -11214,6 +11225,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1438,
-  "generated": "2026-07-17T05:46:41Z"
+  "page_count": 1439,
+  "generated": "2026-07-17T05:54:54Z"
 }
