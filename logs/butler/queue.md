@@ -709,6 +709,14 @@
 <!-- 复扫既有排除：gourbi-island/christmas-harbour/halbrane-land（AM）、falkland-islands、malta/gibraltar/ceuta/formentera/florida/texas/hamburg/copenhagen 皆已建；Portland（Cape，JCE×3 净<5 DEFER）、Altona（JCE×6 混列举 DEFER）、Reykjavik/Gardar（0 命中，拼写待考）。 -->
 <!-- R182 = EVV5（模板稳定，未建页）；R183 = NEW1 建 Tristan d'Acunha（Tsalal DUPLICATE 除）。剩余建序 R184+：Bennet Islet → Long's Peak → Stapi（3 项后队列罄，须再 SCN28 discover）。 -->
 
+<!-- ═══ R187 SCN28 discover（R181 队列 R186 建罄，queue(place)=0 → §3(3)&§3(4) 触发；转掘 Mysterious Island / 20KL / Hatteras 强矿脉，净新 4 buildable 补种；非建页，since_discover 归 0，discover_streak_low=0）═══ -->
+<!-- 入队均已文件系统 + 后缀变体查重（承 Tsalal 教训）。既有排除：prospect-heights/mount-franklin/union-bay/shark-gulf/granite-house/claw-cape/port-balloon/serpentine-peninsula/flotsam-point/washington-bay/crespo-island 皆已建；Cape Mandible（MI×5）→ 既有 mandible-cape（Mandible Capes 复数同指）overlap，DEFER；Indian Peninsula（6，多 Great Indian Peninsula Railway 铁路名/泛指）DEFER；Balearic Isles（OC×5 薄，多对白/Formentera 从属）DEFER。 -->
+- [place] Reptile End <!-- MI×16；Lincoln Island 西南岬（013-065/023-052/026-035/026-038/026-041/026-042；Claw Cape↔Reptile End 南岸跨度、Falls River 相距12mi）。slug reptile-end，NEW（reptile-point 亦 NEW）-->
+- [place] Vanikoro <!-- TTLU(20KL)×14；La Pérouse 探险队沉没之岛，Nautilus 访（019-033 "Island of the Search"/Vana 港坐标 16°4'S/019-042 Hope&Search 驶过/019-043 土著证词/019-044 试抵）。slug vanikoro，NEW（-island/-islands 亦 NEW）-->
+- [place] Tadorn Marsh <!-- MI×12；Lincoln Island 东南沼泽（033-074 远征往/042-075 冰期狩猎/053-022 东岸熟知/054-004 逃犯穿越/061-060 兽群逃入/061-062 较荒）。slug tadorn-marsh，NEW（tadorns-marsh 亦 NEW）-->
+- [place] New America <!-- ACH×7；Altamont 命名之极地大陆/岛（039-053 命名/039-058 大陆名/039-077 勘探/046-069 幅员/049-003 陆或岛/051-014 疑为岛/057-016 穿越）。slug new-america，NEW -->
+<!-- R188+ 建序：Reptile End → Vanikoro → Tadorn Marsh → New America（4 项后队列罄，再 SCN28）。均 ≥5 solid 已抽样确认。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
