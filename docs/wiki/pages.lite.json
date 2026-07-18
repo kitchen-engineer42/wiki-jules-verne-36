@@ -1181,6 +1181,12 @@
       ],
       "path": "ba/baffin-bay.md"
     },
+    "baffins-bay": {
+      "type": "place",
+      "label": "Baffins Bay",
+      "aliases": [],
+      "path": "ba/baffins-bay.md"
+    },
     "baku": {
       "type": "place",
       "label": "Baku",
@@ -9638,6 +9644,8 @@
     "Baffin Bay": "baffin-bay",
     "Baffin's Bay": "baffin-bay",
     "Baffin's Sea": "baffin-bay",
+    "baffins-bay": "baffins-bay",
+    "Baffins Bay": "baffins-bay",
     "baku": "baku",
     "Baku": "baku",
     "baltimore": "baltimore",
@@ -11649,6 +11657,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1487,
-  "generated": "2026-07-18T16:22:39Z"
+  "page_count": 1488,
+  "generated": "2026-07-18T16:26:50Z"
 }

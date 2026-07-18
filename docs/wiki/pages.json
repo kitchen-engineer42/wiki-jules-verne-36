@@ -3907,6 +3907,29 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "baffins-bay": {
+      "type": "place",
+      "label": "Baffins Bay",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "sea",
+        "the-adventures-of-captain-hatteras",
+        "whaling",
+        "exploration"
+      ],
+      "path": "ba/baffins-bay.md",
+      "description": "The great Arctic sea on the west of Greenland, a haunt of whalers and the mouth of the long suite of straits leading toward the North-West Passage.",
+      "prose_len": 1746,
+      "prose_chars": 1659,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "baku": {
       "type": "place",
       "label": "Baku",
@@ -4088,7 +4111,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 7
+      "total_refs": 8
     },
     "behring-sea": {
       "type": "place",
@@ -4132,7 +4155,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 6
+      "total_refs": 7
     },
     "belem": {
       "type": "place",
@@ -19373,7 +19396,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "norway": {
       "type": "place",
@@ -31702,6 +31725,8 @@
     "Baffin Bay": "baffin-bay",
     "Baffin's Bay": "baffin-bay",
     "Baffin's Sea": "baffin-bay",
+    "baffins-bay": "baffins-bay",
+    "Baffins Bay": "baffins-bay",
     "baku": "baku",
     "Baku": "baku",
     "baltimore": "baltimore",
@@ -33713,6 +33738,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1487,
-  "generated": "2026-07-18T16:22:39Z"
+  "page_count": 1488,
+  "generated": "2026-07-18T16:26:50Z"
 }
