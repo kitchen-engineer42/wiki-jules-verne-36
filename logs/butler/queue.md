@@ -766,6 +766,12 @@
 <!-- ✔ [place] Kamtchatka Current — kamtchatka-current 已建 R222 rev=zGQiaT（FC×15 单指；白令海域洋流，与 Behring Current 交汇，牵动浮岛漂向；real，region North Pacific）建序 4 —— R218 队列全消费，R223 = SCN28 zombie 单词地名扫 -->
 <!-- R219+ 建序：Montgomery Street → North Carolina → Pleasant Garden → Kamtchatka Current（4 项，建毕再 SCN28 单词地名扫）。建时逐句核 referent 单指，抽 ≥5 solid。 -->
 
+<!-- ===== R223 SCN28 discover（place，queue==0 触发 §3(4) zombie；首度单词地名扫 /tmp/single_toponym_scan.py 补 discover3 盲区）===== -->
+<!-- 说明：单词地名扫得高频单词 40+，exact-slug 复核后绝大多数已建（Lincoln/Franklin/Tabor/Tsalal/Beechey/Serpentine/Lancaster/Horn/Baikal/Erie/Pamlico 等皆已有页）；person/泛指剔除（Torres/Grant/Esquimaux）。仅 2 净新 → discover_streak_low 0→1（首次低产），但非饱和续 NEW1。HK-dupcheck-bareterm-vs-slug：bare-term gather ≥5 ≠ 可建，须 exact-slug 核。 -->
+<!-- ○ [place] New-Berne — new-berne NEW（FF×11 单指真实北卡 Neuse 河港市；Ebba 停锚处，Healthful House 邻邑，Roch/Gaydon 绑架案枢纽；real，region United States）建序 1 -->
+<!-- ○ [place] Raleigh — raleigh NEW（FF×2+MW×3=5 distinct 跨作品单指北卡首府；内陆 150 英里，飞行器降落地/Strock 出发地；real，region United States）建序 2 -->
+<!-- R224+ 建序：New-Berne → Raleigh（2 项）。建毕 R226 = EVV5（since_evv5 届 10）。discover_streak_low=1，若续两 SCN28 <3 则 streak=3 触 CLOSE 评估。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
