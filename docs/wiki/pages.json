@@ -2346,7 +2346,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "argentine": {
       "type": "place",
@@ -4947,7 +4947,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Fur Country",
-      "total_refs": 13
+      "total_refs": 14
     },
     "cape-bernouilli": {
       "type": "place",
@@ -14607,6 +14607,30 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
+    "kamtchatka-current": {
+      "type": "place",
+      "label": "Kamtchatka Current",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "ocean-current",
+        "the-fur-country",
+        "bering-sea"
+      ],
+      "path": "ka/kamtchatka-current.md",
+      "description": "The cold Bering ocean current running along the Asian coast, which seized the drifting ice-island and swept it toward the Arctic solitudes in The Fur Country.",
+      "prose_len": 2340,
+      "prose_chars": 2251,
+      "h2_count": 4,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "The Fur Country",
       "total_refs": 0
     },
     "kamtchatka": {
@@ -32396,6 +32420,8 @@
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
+    "kamtchatka-current": "kamtchatka-current",
+    "Kamtchatka Current": "kamtchatka-current",
     "kamtchatka": "kamtchatka",
     "Kamtchatka": "kamtchatka",
     "kamtschatka": "kamtschatka",
@@ -33607,6 +33633,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1483,
-  "generated": "2026-07-17T10:28:02Z"
+  "page_count": 1484,
+  "generated": "2026-07-17T10:34:12Z"
 }

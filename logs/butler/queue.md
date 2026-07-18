@@ -763,7 +763,7 @@
 <!-- ✔ [place] Montgomery Street — montgomery-street 已建 R219 rev=GspUcw（GM×13+AWED×3=16 distinct 跨作品单指真实 SF 主街，比作 Regent/Broadway；real，region United States）建序 1 -->
 <!-- ✔ [place] North Carolina — north-carolina 已建 R220 rev=t1j8Ua（MW×11+FF×7+MI/TTLU 各1=20 distinct 单指真实美州；首府 Raleigh，Pamlico Sound；Great Eyrie〔MW〕+ Healthful House〔FF〕所在州；real，region United States）建序 2 -->
 <!-- ✔ [place] Pleasant Garden — pleasant-garden 已建 R221 rev=KYgkzb（MW×16 单指；北卡 Morganton 近村，Great Eyrie 山脚，火山灰飘落地；real，region United States）建序 3 -->
-<!-- ○ [place] Kamtchatka Current — kamtchatka-current NEW（FC×15 单指；白令海域洋流，与 Behring Current 交汇，牵动浮岛漂向；real，region North Pacific）建序 4 -->
+<!-- ✔ [place] Kamtchatka Current — kamtchatka-current 已建 R222 rev=zGQiaT（FC×15 单指；白令海域洋流，与 Behring Current 交汇，牵动浮岛漂向；real，region North Pacific）建序 4 —— R218 队列全消费，R223 = SCN28 zombie 单词地名扫 -->
 <!-- R219+ 建序：Montgomery Street → North Carolina → Pleasant Garden → Kamtchatka Current（4 项，建毕再 SCN28 单词地名扫）。建时逐句核 referent 单指，抽 ≥5 solid。 -->
 
 

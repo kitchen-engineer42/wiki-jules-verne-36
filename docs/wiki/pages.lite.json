@@ -4369,6 +4369,12 @@
       ],
       "path": "ka/kachgar.md"
     },
+    "kamtchatka-current": {
+      "type": "place",
+      "label": "Kamtchatka Current",
+      "aliases": [],
+      "path": "ka/kamtchatka-current.md"
+    },
     "kamtchatka": {
       "type": "place",
       "label": "Kamtchatka",
@@ -10406,6 +10412,8 @@
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
+    "kamtchatka-current": "kamtchatka-current",
+    "Kamtchatka Current": "kamtchatka-current",
     "kamtchatka": "kamtchatka",
     "Kamtchatka": "kamtchatka",
     "kamtschatka": "kamtschatka",
@@ -11617,6 +11625,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1483,
-  "generated": "2026-07-17T10:28:02Z"
+  "page_count": 1484,
+  "generated": "2026-07-17T10:34:12Z"
 }
