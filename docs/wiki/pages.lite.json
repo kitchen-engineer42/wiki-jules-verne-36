@@ -5771,6 +5771,12 @@
       ],
       "path": "no/north-west-company.md"
     },
+    "north-west-passage": {
+      "type": "place",
+      "label": "North-West Passage",
+      "aliases": [],
+      "path": "no/north-west-passage.md"
+    },
     "norway": {
       "type": "place",
       "label": "Norway",
@@ -10790,6 +10796,8 @@
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
+    "north-west-passage": "north-west-passage",
+    "North-West Passage": "north-west-passage",
     "norway": "norway",
     "Norway": "norway",
     "obi": "obi",
@@ -11641,6 +11649,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1486,
-  "generated": "2026-07-18T16:11:34Z"
+  "page_count": 1487,
+  "generated": "2026-07-18T16:22:39Z"
 }

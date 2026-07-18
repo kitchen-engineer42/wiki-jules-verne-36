@@ -774,7 +774,7 @@
 
 <!-- ===== R227 SCN28 discover（place，queue==0 触发 §3(4) zombie；多词特征扫 /tmp/feature_scan.py + Arctic 定向 gather 补撇号/连字符地名盲区）===== -->
 <!-- 说明：feature_scan 低产（Cape Mandible 净 4 SI翻印/Long Island NY 净 4/West Passage 片段/Bay Company 组织，皆不达门）；single_toponym 复核 + Lincoln 岛内特征 spot 皆已建。关键：三扫皆盲于撇号/连字符 toponym，手动 Arctic gather 得 2 净新。HK-discover-possessive-hyphen-toponym-blindspot〔新〕。discover_streak_low 1→2（第二次连续低产），非饱和续 NEW1。 -->
-<!-- ○ [place] North-West Passage — north-west-passage NEW（ACH×6+FC×4=10 distinct 单指北极海路，Atlantic↔Pacific，ACH 主线，McClure 发现；real，region Arctic）建序 1 -->
+<!-- ✔ [place] North-West Passage — north-west-passage 已建 R228 rev=y3cJIY（9 solid PN，剔 FC-015-016-s2 假阳；ACH×6+FC×3）建序 1 -->
 <!-- ○ [place] Baffin's Bay — baffins-bay NEW（ACH×26 distinct 单指格陵兰西侧北极海，捕鲸场，Forward 号北航必经；real，region Arctic）建序 2 -->
 <!-- R228+ 建序：North-West Passage → Baffin's Bay（2 项）。建毕队列罄 → R230 SCN28。discover_streak_low=2，若 R230 SCN28 续 <3 则 streak=3 触 §3(2) CLOSE place→event 评估。 -->
 <!-- DEFER：Lancaster Sound〔lancaster-strait 同指，Verne 异名〕、Cape Mandible〔净4〕、Long Island〔NY 净4〕、Cape Dundas/Cape Hatteras/Wilmington/Fort Good Hope（<5）。 -->

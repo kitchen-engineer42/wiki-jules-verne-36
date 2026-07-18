@@ -2346,7 +2346,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "argentine": {
       "type": "place",
@@ -4132,7 +4132,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Fur Country",
-      "total_refs": 5
+      "total_refs": 6
     },
     "belem": {
       "type": "place",
@@ -15221,7 +15221,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 3
+      "total_refs": 4
     },
     "lena": {
       "type": "place",
@@ -19348,6 +19348,31 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
+      "total_refs": 0
+    },
+    "north-west-passage": {
+      "type": "place",
+      "label": "North-West Passage",
+      "aliases": [],
+      "tags": [
+        "place",
+        "arctic",
+        "sea-route",
+        "the-adventures-of-captain-hatteras",
+        "the-fur-country",
+        "exploration"
+      ],
+      "path": "no/north-west-passage.md",
+      "description": "The famous Arctic sea route giving direct communication between the Atlantic and Pacific oceans, undiscovered until McClure won it and a lodestar for the polar voyages of Verne northern tales.",
+      "prose_len": 1700,
+      "prose_chars": 1615,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 67,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
     "norway": {
@@ -32835,6 +32860,8 @@
     "north-west-company": "north-west-company",
     "North-West Company": "north-west-company",
     "North-west Company": "north-west-company",
+    "north-west-passage": "north-west-passage",
+    "North-West Passage": "north-west-passage",
     "norway": "norway",
     "Norway": "norway",
     "obi": "obi",
@@ -33686,6 +33713,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1486,
-  "generated": "2026-07-18T16:11:34Z"
+  "page_count": 1487,
+  "generated": "2026-07-18T16:22:39Z"
 }
