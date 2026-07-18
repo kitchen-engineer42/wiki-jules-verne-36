@@ -779,6 +779,12 @@
 <!-- R228+ 建序：North-West Passage → Baffin's Bay（2 项）。建毕队列罄 → R230 SCN28。discover_streak_low=2，若 R230 SCN28 续 <3 则 streak=3 触 §3(2) CLOSE place→event 评估。 -->
 <!-- DEFER：Lancaster Sound〔lancaster-strait 同指，Verne 异名〕、Cape Mandible〔净4〕、Long Island〔NY 净4〕、Cape Dundas/Cape Hatteras/Wilmington/Fort Good Hope（<5）。 -->
 
+<!-- ===== R230 SCN28 discover（place，queue==0 触发 §3(4) zombie；第三次 place discover；撇号/连字符专项扫 /tmp/possessive_scan.py 补 HK-discover-possessive-hyphen-toponym-blindspot）===== -->
+<!-- 说明：possessive_scan 高频命中多为 person（Mac-Nab FC×28/Feofar-Khan MS×21/Tio-King·Ki-Tsang·Pan-Chao·Cha-Coua ASC/Milne-Edwards/Jose-Antonio DSCF/Kara-Tete·Kai-Koumou SC）、ship（Jeune-Hardie WAI×10）、报名（Morgen-Blad TN×5）、title（Governor-General）、demonym（Anglo-Saxon）、已建片段（Cape of Good→cape-of-good-hope、Behring's Straits→behring-strait、North-West→north-west-passage）。feature_scan 复扫仍仅 Cape Mandible 净4／Long Island NY 净4／West Passage 片段／Bay Company 组织，皆不达门。仅 2 净新地名 → discover_streak_low 2→3（第三次连续低产，达 type_close_streak）。R231 = §3(2) CLOSE+SCN28 place→event 评估。 -->
+<!-- [place] Plaza-Mayor — plaza-mayor 待建（PL×14 单指；利马「古王城之广场」中央喷泉+副王宫踞北侧，Martin Paz 于此挥独立黑旗；book The Pearl of Lima，real，region Peru）建序 1 -->
+<!-- [place] Saint-Pierre-Miquelon — saint-pierre-miquelon 待建（TN×5 单指；纽芬兰外法属群岛，Viking 号启航港；book Ticket No. 9672，real，region North Atlantic）建序 2 -->
+<!-- R230 建序：Plaza-Mayor → Saint-Pierre-Miquelon（2 项）。但 discover_streak_low=3 → R231 先 §3(2) CLOSE place→event 评估：若 place 判饱和则关闭切 event，2 项待建随评估复核。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
