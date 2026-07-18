@@ -13035,7 +13035,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Facing the Flag",
-      "total_refs": 1
+      "total_refs": 2
     },
     "himalaya": {
       "type": "place",
@@ -18898,6 +18898,30 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "new-berne": {
+      "type": "place",
+      "label": "New-Berne",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "north-carolina",
+        "facing-the-flag",
+        "port"
+      ],
+      "path": "ne/new-berne.md",
+      "description": "The North Carolina port on the left bank of the Neuse near Pamlico Sound, off which the schooner Ebba lay while its master carried off the prisoners of Healthful House.",
+      "prose_len": 1951,
+      "prose_chars": 1866,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "new-georgia": {
       "type": "place",
       "label": "New Georgia",
@@ -19202,7 +19226,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "north-polar-practical-association": {
       "type": "organization",
@@ -20482,7 +20506,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Facing the Flag",
-      "total_refs": 1
+      "total_refs": 2
     },
     "paris": {
       "type": "place",
@@ -32735,6 +32759,8 @@
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
     "New-Archangel": "new-archangel",
+    "new-berne": "new-berne",
+    "New-Berne": "new-berne",
     "new-georgia": "new-georgia",
     "New Georgia": "new-georgia",
     "South Georgia": "new-georgia",
@@ -33633,6 +33659,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1484,
-  "generated": "2026-07-17T10:34:12Z"
+  "page_count": 1485,
+  "generated": "2026-07-18T16:06:26Z"
 }

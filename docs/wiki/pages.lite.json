@@ -5636,6 +5636,12 @@
       ],
       "path": "ne/new-archangel.md"
     },
+    "new-berne": {
+      "type": "place",
+      "label": "New-Berne",
+      "aliases": [],
+      "path": "ne/new-berne.md"
+    },
     "new-georgia": {
       "type": "place",
       "label": "New Georgia",
@@ -10727,6 +10733,8 @@
     "New Archangel": "new-archangel",
     "Sitka": "new-archangel",
     "New-Archangel": "new-archangel",
+    "new-berne": "new-berne",
+    "New-Berne": "new-berne",
     "new-georgia": "new-georgia",
     "New Georgia": "new-georgia",
     "South Georgia": "new-georgia",
@@ -11625,6 +11633,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1484,
-  "generated": "2026-07-17T10:34:12Z"
+  "page_count": 1485,
+  "generated": "2026-07-18T16:06:26Z"
 }
