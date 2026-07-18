@@ -18920,7 +18920,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "new-georgia": {
       "type": "place",
@@ -19226,7 +19226,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Master of the World",
-      "total_refs": 1
+      "total_refs": 2
     },
     "north-polar-practical-association": {
       "type": "organization",
@@ -21284,6 +21284,31 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Doctor Ox's Experiment",
+      "total_refs": 0
+    },
+    "raleigh": {
+      "type": "place",
+      "label": "Raleigh",
+      "aliases": [],
+      "tags": [
+        "place",
+        "united-states",
+        "north-carolina",
+        "master-of-the-world",
+        "facing-the-flag",
+        "capital"
+      ],
+      "path": "ra/raleigh.md",
+      "description": "The capital of North Carolina, an important inland town about one hundred and fifty miles within the province, reached by Strock in his pursuit of the Great Eyrie mystery.",
+      "prose_len": 1292,
+      "prose_chars": 1211,
+      "h2_count": 4,
+      "pn_count": 5,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 62,
+      "book": "Master of the World",
       "total_refs": 0
     },
     "RC-ch01": {
@@ -32956,6 +32981,8 @@
     "Quebec": "quebec",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
+    "raleigh": "raleigh",
+    "Raleigh": "raleigh",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -33659,6 +33686,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1485,
-  "generated": "2026-07-18T16:06:26Z"
+  "page_count": 1486,
+  "generated": "2026-07-18T16:11:34Z"
 }

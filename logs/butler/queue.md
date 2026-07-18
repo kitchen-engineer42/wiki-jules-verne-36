@@ -769,7 +769,7 @@
 <!-- ===== R223 SCN28 discover（place，queue==0 触发 §3(4) zombie；首度单词地名扫 /tmp/single_toponym_scan.py 补 discover3 盲区）===== -->
 <!-- 说明：单词地名扫得高频单词 40+，exact-slug 复核后绝大多数已建（Lincoln/Franklin/Tabor/Tsalal/Beechey/Serpentine/Lancaster/Horn/Baikal/Erie/Pamlico 等皆已有页）；person/泛指剔除（Torres/Grant/Esquimaux）。仅 2 净新 → discover_streak_low 0→1（首次低产），但非饱和续 NEW1。HK-dupcheck-bareterm-vs-slug：bare-term gather ≥5 ≠ 可建，须 exact-slug 核。 -->
 <!-- ✔ [place] New-Berne — new-berne 已建 R224 rev=eiJJkw（10 solid PN，剔除 FF-001-006-s2 混指 Raleigh）建序 1 -->
-<!-- ○ [place] Raleigh — raleigh NEW（FF×2+MW×3=5 distinct 跨作品单指北卡首府；内陆 150 英里，飞行器降落地/Strock 出发地；real，region United States）建序 2 -->
+<!-- ✔ [place] Raleigh — raleigh 已建 R225 rev=YzIzcT（5 solid PN，FF×2+MW×3 跨作品单指北卡首府）建序 2 —— R223 队列全消费，R226 = EVV5，R227 = SCN28 zombie -->
 <!-- R224+ 建序：New-Berne → Raleigh（2 项）。建毕 R226 = EVV5（since_evv5 届 10）。discover_streak_low=1，若续两 SCN28 <3 则 streak=3 触 CLOSE 评估。 -->
 
 

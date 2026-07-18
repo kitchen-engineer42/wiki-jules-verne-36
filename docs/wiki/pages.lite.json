@@ -6346,6 +6346,12 @@
       "aliases": [],
       "path": "qu/quiquendone.md"
     },
+    "raleigh": {
+      "type": "place",
+      "label": "Raleigh",
+      "aliases": [],
+      "path": "ra/raleigh.md"
+    },
     "RC-ch01": {
       "type": "chapter",
       "label": "Robur the Conqueror — CHAPTER I",
@@ -10930,6 +10936,8 @@
     "Quebec": "quebec",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
+    "raleigh": "raleigh",
+    "Raleigh": "raleigh",
     "RC-ch01": "RC-ch01",
     "RC-ch02": "RC-ch02",
     "RC-ch03": "RC-ch03",
@@ -11633,6 +11641,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1485,
-  "generated": "2026-07-18T16:06:26Z"
+  "page_count": 1486,
+  "generated": "2026-07-18T16:11:34Z"
 }
