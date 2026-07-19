@@ -16797,7 +16797,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 5
+      "total_refs": 6
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -17103,6 +17103,29 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
+    "mac-nab": {
+      "type": "character",
+      "label": "Mac-Nab",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "ma/mac-nab.md",
+      "description": "The Scottish head carpenter of the Fort Hope expedition, whose skilled hands raise the factory's buildings and its final escape-boat in The Fur Country.",
+      "prose_len": 2509,
+      "prose_chars": 2379,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "The Fur Country",
       "total_refs": 0
     },
     "madagascar": {
@@ -29731,7 +29754,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 22
+      "total_refs": 23
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -35748,6 +35771,8 @@
     "lyons": "lyons",
     "Lyons": "lyons",
     "Lyon": "lyons",
+    "mac-nab": "mac-nab",
+    "Mac-Nab": "mac-nab",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
     "madge": "madge",
@@ -37044,6 +37069,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1613,
-  "generated": "2026-07-19T13:30:53Z"
+  "page_count": 1614,
+  "generated": "2026-07-19T13:33:55Z"
 }

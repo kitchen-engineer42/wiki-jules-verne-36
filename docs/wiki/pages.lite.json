@@ -5137,6 +5137,12 @@
       ],
       "path": "ly/lyons.md"
     },
+    "mac-nab": {
+      "type": "character",
+      "label": "Mac-Nab",
+      "aliases": [],
+      "path": "ma/mac-nab.md"
+    },
     "madagascar": {
       "type": "place",
       "label": "Madagascar",
@@ -11654,6 +11660,8 @@
     "lyons": "lyons",
     "Lyons": "lyons",
     "Lyon": "lyons",
+    "mac-nab": "mac-nab",
+    "Mac-Nab": "mac-nab",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
     "madge": "madge",
@@ -12950,6 +12958,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1613,
-  "generated": "2026-07-19T13:30:53Z"
+  "page_count": 1614,
+  "generated": "2026-07-19T13:33:55Z"
 }
