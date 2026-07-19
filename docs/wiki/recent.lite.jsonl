@@ -851,3 +851,4 @@
 {"page": "thalcave", "label": "Thalcave", "rev_id": "NsbLUN", "timestamp": "2026-07-19T09:02:23+00:00", "author": "grow", "summary": "GROW 2.1-B R326: 新建 thalcave, featured 档", "size_before": 0, "size": 2359, "diff_add": 41, "diff_del": 0}
 {"page": "nadia", "label": "Nadia", "rev_id": "dsbG5x", "timestamp": "2026-07-19T09:05:48+00:00", "author": "grow", "summary": "GROW 2.1-B R327: 新建 nadia, featured 档", "size_before": 0, "size": 2345, "diff_add": 43, "diff_del": 0}
 {"page": "nadia", "label": "Nadia", "rev_id": "cSO0fD", "timestamp": "2026-07-19T09:06:27+00:00", "author": "grow", "summary": "GROW 2.1-B R327: nadia 引注修正 MS-028-001→MS-025-006 提高重叠", "size_before": 2345, "size": 2385, "diff_add": 1, "diff_del": 1}
+{"page": "ivan-ogareff", "label": "Ivan Ogareff", "rev_id": "6P6cY5", "timestamp": "2026-07-19T09:09:31+00:00", "author": "grow", "summary": "GROW 2.1-B R328: 新建 ivan-ogareff, featured 档", "size_before": 0, "size": 2431, "diff_add": 43, "diff_del": 0}

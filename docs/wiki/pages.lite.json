@@ -4319,6 +4319,14 @@
       "aliases": [],
       "path": "it/italy.md"
     },
+    "ivan-ogareff": {
+      "type": "character",
+      "label": "Ivan Ogareff",
+      "aliases": [
+        "The Scarred Cheek"
+      ],
+      "path": "iv/ivan-ogareff.md"
+    },
     "jacamar-wood": {
       "type": "place",
       "label": "Jacamar Wood",
@@ -11045,6 +11053,9 @@
     "Isthmus of Panama": "isthmus-of-panama",
     "italy": "italy",
     "Italy": "italy",
+    "ivan-ogareff": "ivan-ogareff",
+    "Ivan Ogareff": "ivan-ogareff",
+    "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
     "jangada": "jangada",
@@ -12455,6 +12466,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1556,
-  "generated": "2026-07-19T09:05:49Z"
+  "page_count": 1557,
+  "generated": "2026-07-19T09:09:32Z"
 }

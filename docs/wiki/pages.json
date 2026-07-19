@@ -14347,6 +14347,29 @@
       "book": "Off on a Comet",
       "total_refs": 1
     },
+    "ivan-ogareff": {
+      "type": "character",
+      "label": "Ivan Ogareff",
+      "aliases": [
+        "The Scarred Cheek"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "iv/ivan-ogareff.md",
+      "description": "The disgraced colonel turned traitor who foments the Tartar invasion of Siberia and impersonates Michael Strogoff to betray Irkutsk.",
+      "prose_len": 2051,
+      "prose_chars": 1926,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "jacamar-wood": {
       "type": "place",
       "label": "Jacamar Wood",
@@ -18157,7 +18180,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 32
+      "total_refs": 33
     },
     "michel-ardan": {
       "type": "character",
@@ -18204,7 +18227,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "missionary-rescue": {
       "type": "event",
@@ -34235,6 +34258,9 @@
     "Isthmus of Panama": "isthmus-of-panama",
     "italy": "italy",
     "Italy": "italy",
+    "ivan-ogareff": "ivan-ogareff",
+    "Ivan Ogareff": "ivan-ogareff",
+    "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
     "jangada": "jangada",
@@ -35645,6 +35671,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1556,
-  "generated": "2026-07-19T09:06:28Z"
+  "page_count": 1557,
+  "generated": "2026-07-19T09:09:32Z"
 }
