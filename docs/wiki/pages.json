@@ -6370,7 +6370,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Mysterious Island",
-      "total_refs": 94
+      "total_refs": 95
     },
     "DA": {
       "type": "chapter",
@@ -13701,7 +13701,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "himalaya": {
       "type": "place",
@@ -19529,6 +19529,28 @@
       "book": "The Master of the World",
       "total_refs": 0
     },
+    "neb": {
+      "type": "character",
+      "label": "Neb",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ne/neb.md",
+      "description": "One of the five castaways of Lincoln Island, the faithful servant of the engineer Cyrus Harding.",
+      "prose_len": 2047,
+      "prose_chars": 1932,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 7,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "nebraska": {
       "type": "place",
       "label": "Nebraska",
@@ -21540,7 +21562,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -28514,7 +28536,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 27
+      "total_refs": 28
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -34357,6 +34379,8 @@
     "Nautilus": "nautilus",
     "navy-island": "navy-island",
     "Navy Island": "navy-island",
+    "neb": "neb",
+    "Neb": "neb",
     "nebraska": "nebraska",
     "Nebraska": "nebraska",
     "ned-land": "ned-land",
@@ -35376,6 +35400,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1545,
-  "generated": "2026-07-19T08:15:01Z"
+  "page_count": 1546,
+  "generated": "2026-07-19T08:22:37Z"
 }
