@@ -6921,7 +6921,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 21
+      "total_refs": 22
     },
     "dick-sand": {
       "type": "character",
@@ -6945,7 +6945,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 5
+      "total_refs": 6
     },
     "dirk-peters": {
       "type": "character",
@@ -14242,6 +14242,29 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
     },
+    "harris": {
+      "type": "character",
+      "label": "Harris",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "ha/harris.md",
+      "description": "The American agent of the slave-trader Alvez who, posing as a friendly guide, lures Dick Sand's party inland into Angola while pretending it is South America.",
+      "prose_len": 2484,
+      "prose_chars": 2360,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "harry-blount": {
       "type": "character",
       "label": "Harry Blount",
@@ -14378,7 +14401,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "himalaya": {
       "type": "place",
@@ -20858,7 +20881,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "nell": {
       "type": "character",
@@ -35917,6 +35940,8 @@
     "hans-bjelke": "hans-bjelke",
     "Hans Bjelke": "hans-bjelke",
     "Hans": "hans-bjelke",
+    "harris": "harris",
+    "Harris": "harris",
     "harry-blount": "harry-blount",
     "Harry Blount": "harry-blount",
     "havre": "havre",
@@ -37513,6 +37538,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1631,
-  "generated": "2026-07-19T14:50:17Z"
+  "page_count": 1632,
+  "generated": "2026-07-19T14:55:42Z"
 }

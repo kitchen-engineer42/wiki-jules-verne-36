@@ -4283,6 +4283,12 @@
       ],
       "path": "ha/hans-bjelke.md"
     },
+    "harris": {
+      "type": "character",
+      "label": "Harris",
+      "aliases": [],
+      "path": "ha/harris.md"
+    },
     "harry-blount": {
       "type": "character",
       "label": "Harry Blount",
@@ -11521,6 +11527,8 @@
     "hans-bjelke": "hans-bjelke",
     "Hans Bjelke": "hans-bjelke",
     "Hans": "hans-bjelke",
+    "harris": "harris",
+    "Harris": "harris",
     "harry-blount": "harry-blount",
     "Harry Blount": "harry-blount",
     "havre": "havre",
@@ -13117,6 +13125,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1631,
-  "generated": "2026-07-19T14:50:17Z"
+  "page_count": 1632,
+  "generated": "2026-07-19T14:55:42Z"
 }
