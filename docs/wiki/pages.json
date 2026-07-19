@@ -16845,7 +16845,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 6
+      "total_refs": 7
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -25089,6 +25089,29 @@
       "book": "Michael Strogoff",
       "total_refs": 7
     },
+    "sabine": {
+      "type": "character",
+      "label": "Sabine",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "sa/sabine.md",
+      "description": "One of the two chief hunters of the Fort Hope expedition in The Fur Country, an expert marksman known for his dry, sententious wit.",
+      "prose_len": 2290,
+      "prose_chars": 2163,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "sacramento": {
       "type": "place",
       "label": "Sacramento",
@@ -29802,7 +29825,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 23
+      "total_refs": 24
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -36434,6 +36457,8 @@
     "Ruhmkorff coil": "ruhmkorff-apparatus",
     "russia": "russia",
     "Russia": "russia",
+    "sabine": "sabine",
+    "Sabine": "sabine",
     "sacramento": "sacramento",
     "Sacramento": "sacramento",
     "sahara": "sahara",
@@ -37122,6 +37147,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1616,
-  "generated": "2026-07-19T13:41:57Z"
+  "page_count": 1617,
+  "generated": "2026-07-19T13:44:26Z"
 }

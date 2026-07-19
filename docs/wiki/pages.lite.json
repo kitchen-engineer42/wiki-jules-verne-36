@@ -7520,6 +7520,12 @@
       "aliases": [],
       "path": "ru/russia.md"
     },
+    "sabine": {
+      "type": "character",
+      "label": "Sabine",
+      "aliases": [],
+      "path": "sa/sabine.md"
+    },
     "sacramento": {
       "type": "place",
       "label": "Sacramento",
@@ -12289,6 +12295,8 @@
     "Ruhmkorff coil": "ruhmkorff-apparatus",
     "russia": "russia",
     "Russia": "russia",
+    "sabine": "sabine",
+    "Sabine": "sabine",
     "sacramento": "sacramento",
     "Sacramento": "sacramento",
     "sahara": "sahara",
@@ -12977,6 +12985,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1616,
-  "generated": "2026-07-19T13:41:57Z"
+  "page_count": 1617,
+  "generated": "2026-07-19T13:44:26Z"
 }
