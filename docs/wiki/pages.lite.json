@@ -4782,6 +4782,16 @@
       ],
       "path": "li/liedenbrock-sea.md"
     },
+    "lima-indian-uprising": {
+      "type": "event",
+      "label": "The Lima Indian Uprising",
+      "aliases": [
+        "The Sambo's Revolt",
+        "Death to the Oppressors",
+        "The Rising of the Limanian Indians"
+      ],
+      "path": "li/lima-indian-uprising.md"
+    },
     "lima": {
       "type": "place",
       "label": "Lima",
@@ -11012,6 +11022,11 @@
     "liedenbrock-sea": "liedenbrock-sea",
     "Liedenbrock Sea": "liedenbrock-sea",
     "central sea": "liedenbrock-sea",
+    "lima-indian-uprising": "lima-indian-uprising",
+    "The Lima Indian Uprising": "lima-indian-uprising",
+    "The Sambo's Revolt": "lima-indian-uprising",
+    "Death to the Oppressors": "lima-indian-uprising",
+    "The Rising of the Limanian Indians": "lima-indian-uprising",
     "lima": "lima",
     "Lima": "lima",
     "lincoln-island-landing": "lincoln-island-landing",
@@ -12253,6 +12268,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1536,
-  "generated": "2026-07-19T07:14:35Z"
+  "page_count": 1537,
+  "generated": "2026-07-19T07:18:08Z"
 }
