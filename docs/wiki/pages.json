@@ -1582,6 +1582,29 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "altamont": {
+      "type": "character",
+      "label": "Altamont",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "al/altamont.md",
+      "description": "The American captain of the Porpoise in The Adventures of Captain Hatteras, rescued from the ice and drawn into a rivalry with Hatteras over the priority of Arctic discovery.",
+      "prose_len": 2032,
+      "prose_chars": 1908,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "AM-ch01": {
       "type": "chapter",
       "label": "An Antarctic Mystery — CHAPTER I. THE KERGUELEN ISLANDS",
@@ -5501,7 +5524,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 20
+      "total_refs": 21
     },
     "captain-hull": {
       "type": "character",
@@ -6102,7 +6125,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 2
+      "total_refs": 3
     },
     "coal-town": {
       "type": "place",
@@ -16018,7 +16041,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "joliffe": {
       "type": "character",
@@ -29962,7 +29985,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 21
+      "total_refs": 22
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -34873,6 +34896,8 @@
     "the Alps": "alps",
     "altamont-harbour": "altamont-harbour",
     "Altamont Harbour": "altamont-harbour",
+    "altamont": "altamont",
+    "Altamont": "altamont",
     "AM-ch01": "AM-ch01",
     "AM-ch02": "AM-ch02",
     "AM-ch03": "AM-ch03",
@@ -37438,6 +37463,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1628,
-  "generated": "2026-07-19T14:39:57Z"
+  "page_count": 1629,
+  "generated": "2026-07-19T14:42:28Z"
 }
