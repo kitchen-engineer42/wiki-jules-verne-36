@@ -12571,7 +12571,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14045,7 +14045,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 34
+      "total_refs": 35
     },
     "in-the-year-2889": {
       "type": "work",
@@ -15320,6 +15320,28 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
     },
+    "john-mangles": {
+      "type": "character",
+      "label": "John Mangles",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "jo/john-mangles.md",
+      "description": "The young captain of the yacht Duncan, whose seamanship carries the expedition through the search for Captain Grant.",
+      "prose_len": 1961,
+      "prose_chars": 1839,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "journey-to-the-center-of-the-earth": {
       "type": "work",
       "label": "A Journey to the Center of the Earth",
@@ -16593,7 +16615,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "maryland": {
       "type": "place",
@@ -34200,6 +34222,8 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "john-mangles": "john-mangles",
+    "John Mangles": "john-mangles",
     "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
@@ -35549,6 +35573,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1552,
-  "generated": "2026-07-19T08:53:39Z"
+  "page_count": 1553,
+  "generated": "2026-07-19T08:56:11Z"
 }

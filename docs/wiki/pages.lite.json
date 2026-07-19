@@ -4610,6 +4610,12 @@
       "aliases": [],
       "path": "jc/JCE-ch45.md"
     },
+    "john-mangles": {
+      "type": "character",
+      "label": "John Mangles",
+      "aliases": [],
+      "path": "jo/john-mangles.md"
+    },
     "journey-to-the-center-of-the-earth": {
       "type": "work",
       "label": "A Journey to the Center of the Earth",
@@ -11074,6 +11080,8 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "john-mangles": "john-mangles",
+    "John Mangles": "john-mangles",
     "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
@@ -12423,6 +12431,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1552,
-  "generated": "2026-07-19T08:53:39Z"
+  "page_count": 1553,
+  "generated": "2026-07-19T08:56:11Z"
 }
