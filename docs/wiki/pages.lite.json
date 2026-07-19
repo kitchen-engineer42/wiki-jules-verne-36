@@ -6023,6 +6023,12 @@
       "aliases": [],
       "path": "ne/negoro.md"
     },
+    "nell": {
+      "type": "character",
+      "label": "Nell",
+      "aliases": [],
+      "path": "ne/nell.md"
+    },
     "nemo-death": {
       "type": "event",
       "label": "The Death of Captain Nemo",
@@ -11594,6 +11600,8 @@
     "Ned Land": "ned-land",
     "negoro": "negoro",
     "Negoro": "negoro",
+    "nell": "nell",
+    "Nell": "nell",
     "nemo-death": "nemo-death",
     "The Death of Captain Nemo": "nemo-death",
     "Nemo's Last Hours": "nemo-death",
@@ -12625,6 +12633,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1574,
-  "generated": "2026-07-19T10:36:34Z"
+  "page_count": 1575,
+  "generated": "2026-07-19T10:39:28Z"
 }

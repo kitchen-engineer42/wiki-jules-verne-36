@@ -14568,7 +14568,7 @@
       "quality": "featured",
       "quality_score": 78,
       "book": "The Underground City",
-      "total_refs": 1
+      "total_refs": 2
     },
     "jangada": {
       "type": "technology",
@@ -20065,6 +20065,28 @@
       "quality_score": 74,
       "book": "Dick Sand, A Captain at Fifteen",
       "total_refs": 1
+    },
+    "nell": {
+      "type": "character",
+      "label": "Nell",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ne/nell.md",
+      "description": "The mysterious foundling girl born in the depths of New Aberfoyle, granddaughter of the vengeful Silfax, who secretly saves the trapped miners and at last marries Harry Ford.",
+      "prose_len": 2597,
+      "prose_chars": 2475,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "The Underground City",
+      "total_refs": 0
     },
     "nemo-death": {
       "type": "event",
@@ -29227,7 +29249,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 77,
-      "total_refs": 6
+      "total_refs": 7
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -35064,6 +35086,8 @@
     "Ned Land": "ned-land",
     "negoro": "negoro",
     "Negoro": "negoro",
+    "nell": "nell",
+    "Nell": "nell",
     "nemo-death": "nemo-death",
     "The Death of Captain Nemo": "nemo-death",
     "Nemo's Last Hours": "nemo-death",
@@ -36095,6 +36119,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1574,
-  "generated": "2026-07-19T10:36:34Z"
+  "page_count": 1575,
+  "generated": "2026-07-19T10:39:28Z"
 }
