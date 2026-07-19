@@ -4798,6 +4798,14 @@
       "aliases": [],
       "path": "jo/john-mangles.md"
     },
+    "joliffe": {
+      "type": "character",
+      "label": "Corporal Joliffe",
+      "aliases": [
+        "Joliffe"
+      ],
+      "path": "jo/joliffe.md"
+    },
     "journey-to-the-center-of-the-earth": {
       "type": "work",
       "label": "A Journey to the Center of the Earth",
@@ -11585,6 +11593,9 @@
     "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
+    "joliffe": "joliffe",
+    "Corporal Joliffe": "joliffe",
+    "Joliffe": "joliffe",
     "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
@@ -13023,6 +13034,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1621,
-  "generated": "2026-07-19T14:02:13Z"
+  "page_count": 1622,
+  "generated": "2026-07-19T14:09:47Z"
 }

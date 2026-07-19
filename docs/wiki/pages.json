@@ -15972,6 +15972,31 @@
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
+    "joliffe": {
+      "type": "character",
+      "label": "Corporal Joliffe",
+      "aliases": [
+        "Joliffe"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "jo/joliffe.md",
+      "description": "The busy, good-humoured corporal and steward of Fort Hope in The Fur Country, who obeys his shrewd wife and revives the half-frozen astronomer.",
+      "prose_len": 2181,
+      "prose_chars": 2049,
+      "h2_count": 5,
+      "pn_count": 17,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "journey-to-the-center-of-the-earth": {
       "type": "work",
       "label": "A Journey to the Center of the Earth",
@@ -16893,7 +16918,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 8
+      "total_refs": 9
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -29921,7 +29946,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 25
+      "total_refs": 26
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -30201,7 +30226,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "thomas-roch": {
       "type": "character",
@@ -35815,6 +35840,9 @@
     "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
+    "joliffe": "joliffe",
+    "Corporal Joliffe": "joliffe",
+    "Joliffe": "joliffe",
     "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
@@ -37253,6 +37281,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1621,
-  "generated": "2026-07-19T14:02:13Z"
+  "page_count": 1622,
+  "generated": "2026-07-19T14:09:47Z"
 }
