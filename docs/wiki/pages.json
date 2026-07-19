@@ -6370,7 +6370,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Mysterious Island",
-      "total_refs": 95
+      "total_refs": 96
     },
     "DA": {
       "type": "chapter",
@@ -12527,6 +12527,28 @@
       "book": "Off on a Comet",
       "total_refs": 2
     },
+    "gideon-spilett": {
+      "type": "character",
+      "label": "Gideon Spilett",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "gi/gideon-spilett.md",
+      "description": "War correspondent of the New York Herald and one of the five castaways of Lincoln Island.",
+      "prose_len": 2480,
+      "prose_chars": 2348,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -13701,7 +13723,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "himalaya": {
       "type": "place",
@@ -19549,7 +19571,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nebraska": {
       "type": "place",
@@ -21562,7 +21584,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -28536,7 +28558,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 28
+      "total_refs": 29
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -33836,6 +33858,8 @@
     "Long's Peak reflector": "giant-telescope",
     "gibraltar": "gibraltar",
     "Gibraltar": "gibraltar",
+    "gideon-spilett": "gideon-spilett",
+    "Gideon Spilett": "gideon-spilett",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -35400,6 +35424,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1546,
-  "generated": "2026-07-19T08:22:37Z"
+  "page_count": 1547,
+  "generated": "2026-07-19T08:27:54Z"
 }

@@ -3772,6 +3772,12 @@
       "aliases": [],
       "path": "gi/gibraltar.md"
     },
+    "gideon-spilett": {
+      "type": "character",
+      "label": "Gideon Spilett",
+      "aliases": [],
+      "path": "gi/gideon-spilett.md"
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -10807,6 +10813,8 @@
     "Long's Peak reflector": "giant-telescope",
     "gibraltar": "gibraltar",
     "Gibraltar": "gibraltar",
+    "gideon-spilett": "gideon-spilett",
+    "Gideon Spilett": "gideon-spilett",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -12371,6 +12379,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1546,
-  "generated": "2026-07-19T08:22:37Z"
+  "page_count": 1547,
+  "generated": "2026-07-19T08:27:06Z"
 }
