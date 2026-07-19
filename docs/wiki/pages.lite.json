@@ -6280,6 +6280,12 @@
       ],
       "path": "pl/platte-river.md"
     },
+    "plaza-mayor": {
+      "type": "place",
+      "label": "Plaza-Mayor",
+      "aliases": [],
+      "path": "pl/plaza-mayor.md"
+    },
     "pleasant-garden": {
       "type": "place",
       "label": "Pleasant Garden",
@@ -10924,6 +10930,8 @@
     "platte-river": "platte-river",
     "Platte River": "platte-river",
     "North Platte River": "platte-river",
+    "plaza-mayor": "plaza-mayor",
+    "Plaza-Mayor": "plaza-mayor",
     "pleasant-garden": "pleasant-garden",
     "Pleasant Garden": "pleasant-garden",
     "polar-sea": "polar-sea",
@@ -11657,6 +11665,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1488,
-  "generated": "2026-07-18T16:26:50Z"
+  "page_count": 1489,
+  "generated": "2026-07-19T02:25:34Z"
 }

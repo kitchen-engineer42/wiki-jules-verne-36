@@ -15340,7 +15340,7 @@
       "quality": "featured",
       "quality_score": 62,
       "book": "The Pearl of Lima",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lincoln-island-landing": {
       "type": "event",
@@ -21060,6 +21060,31 @@
       "quality_score": 64,
       "book": "Around the World in Eighty Days",
       "total_refs": 2
+    },
+    "plaza-mayor": {
+      "type": "place",
+      "label": "Plaza-Mayor",
+      "aliases": [],
+      "tags": [
+        "place",
+        "peru",
+        "lima",
+        "square",
+        "the-pearl-of-lima",
+        "revolt"
+      ],
+      "path": "pl/plaza-mayor.md",
+      "description": "The great central square of Lima, the forum of the ancient city of kings, fronted by the viceregal palace and swept by the tumult of the Indian revolt.",
+      "prose_len": 1890,
+      "prose_chars": 1807,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Pearl of Lima",
+      "total_refs": 0
     },
     "pleasant-garden": {
       "type": "place",
@@ -27263,7 +27288,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 80,
-      "total_refs": 1
+      "total_refs": 2
     },
     "the-sword": {
       "type": "technology",
@@ -33005,6 +33030,8 @@
     "platte-river": "platte-river",
     "Platte River": "platte-river",
     "North Platte River": "platte-river",
+    "plaza-mayor": "plaza-mayor",
+    "Plaza-Mayor": "plaza-mayor",
     "pleasant-garden": "pleasant-garden",
     "Pleasant Garden": "pleasant-garden",
     "polar-sea": "polar-sea",
@@ -33738,6 +33765,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1488,
-  "generated": "2026-07-18T16:26:50Z"
+  "page_count": 1489,
+  "generated": "2026-07-19T02:25:34Z"
 }
