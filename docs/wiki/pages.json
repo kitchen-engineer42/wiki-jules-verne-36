@@ -13019,7 +13019,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 2
+      "total_refs": 3
     },
     "gulf-stream": {
       "type": "place",
@@ -22829,7 +22829,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Robur the Conqueror",
-      "total_refs": 35
+      "total_refs": 36
     },
     "rocky-mountains": {
       "type": "place",
@@ -27294,6 +27294,30 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "terror-destruction": {
+      "type": "event",
+      "label": "The Destruction of the Terror",
+      "aliases": [
+        "The Loss of the Terror"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "catastrophe",
+        "aeronautics"
+      ],
+      "path": "te/terror-destruction.md",
+      "prose_len": 2512,
+      "prose_chars": 2385,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "Master of the World",
+      "total_refs": 0
+    },
     "texas": {
       "type": "place",
       "label": "Texas",
@@ -27511,7 +27535,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 15
+      "total_refs": 16
     },
     "the-moon": {
       "type": "place",
@@ -27636,7 +27660,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 11
+      "total_refs": 12
     },
     "the-underground-city": {
       "type": "work",
@@ -33797,6 +33821,9 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "terror-destruction": "terror-destruction",
+    "The Destruction of the Terror": "terror-destruction",
+    "The Loss of the Terror": "terror-destruction",
     "texas": "texas",
     "Texas": "texas",
     "thames": "thames",
@@ -34124,6 +34151,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1502,
-  "generated": "2026-07-19T03:33:16Z"
+  "page_count": 1503,
+  "generated": "2026-07-19T03:36:23Z"
 }

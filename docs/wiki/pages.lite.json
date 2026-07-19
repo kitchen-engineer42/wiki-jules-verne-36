@@ -8134,6 +8134,14 @@
       ],
       "path": "te/teheran.md"
     },
+    "terror-destruction": {
+      "type": "event",
+      "label": "The Destruction of the Terror",
+      "aliases": [
+        "The Loss of the Terror"
+      ],
+      "path": "te/terror-destruction.md"
+    },
     "texas": {
       "type": "place",
       "label": "Texas",
@@ -11478,6 +11486,9 @@
     "teheran": "teheran",
     "Teheran": "teheran",
     "Tehran": "teheran",
+    "terror-destruction": "terror-destruction",
+    "The Destruction of the Terror": "terror-destruction",
+    "The Loss of the Terror": "terror-destruction",
     "texas": "texas",
     "Texas": "texas",
     "thames": "thames",
@@ -11805,6 +11816,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1502,
-  "generated": "2026-07-19T03:33:16Z"
+  "page_count": 1503,
+  "generated": "2026-07-19T03:36:23Z"
 }
