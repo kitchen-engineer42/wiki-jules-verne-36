@@ -1216,6 +1216,15 @@
       "aliases": [],
       "path": "ax/axel.md"
     },
+    "ayrton": {
+      "type": "character",
+      "label": "Ayrton",
+      "aliases": [
+        "Tom Ayrton",
+        "Ben Joyce"
+      ],
+      "path": "ay/ayrton.md"
+    },
     "back-cup": {
       "type": "place",
       "label": "Back Cup",
@@ -10114,6 +10123,10 @@
     "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
+    "ayrton": "ayrton",
+    "Ayrton": "ayrton",
+    "Tom Ayrton": "ayrton",
+    "Ben Joyce": "ayrton",
     "back-cup": "back-cup",
     "Back Cup": "back-cup",
     "baffin-bay": "baffin-bay",
@@ -12311,6 +12324,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1540,
-  "generated": "2026-07-19T07:50:24Z"
+  "page_count": 1541,
+  "generated": "2026-07-19T07:54:53Z"
 }

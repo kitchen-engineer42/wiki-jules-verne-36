@@ -4008,6 +4008,31 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 35
     },
+    "ayrton": {
+      "type": "character",
+      "label": "Ayrton",
+      "aliases": [
+        "Tom Ayrton",
+        "Ben Joyce"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "redemption"
+      ],
+      "path": "ay/ayrton.md",
+      "description": "A repentant traitor, once quartermaster of the Britannia, redeemed as the sixth colonist of Lincoln Island.",
+      "prose_len": 2350,
+      "prose_chars": 2229,
+      "h2_count": 5,
+      "pn_count": 11,
+      "wikilink_count": 8,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "back-cup": {
       "type": "place",
       "label": "Back Cup",
@@ -6345,7 +6370,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "The Mysterious Island",
-      "total_refs": 93
+      "total_refs": 94
     },
     "DA": {
       "type": "chapter",
@@ -13903,7 +13928,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 30
+      "total_refs": 31
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16057,7 +16082,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
-      "total_refs": 89
+      "total_refs": 90
     },
     "lisbon": {
       "type": "place",
@@ -28392,7 +28417,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 24
+      "total_refs": 25
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -33043,6 +33068,10 @@
     "Winter Amid the Ice": "a-winter-amid-the-ice",
     "axel": "axel",
     "Axel": "axel",
+    "ayrton": "ayrton",
+    "Ayrton": "ayrton",
+    "Tom Ayrton": "ayrton",
+    "Ben Joyce": "ayrton",
     "back-cup": "back-cup",
     "Back Cup": "back-cup",
     "baffin-bay": "baffin-bay",
@@ -35240,6 +35269,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1540,
-  "generated": "2026-07-19T07:50:24Z"
+  "page_count": 1541,
+  "generated": "2026-07-19T07:54:53Z"
 }
