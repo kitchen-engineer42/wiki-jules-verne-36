@@ -1667,6 +1667,15 @@
       ],
       "path": "ch/chancellor-fire.md"
     },
+    "charleston-blockade-run": {
+      "type": "event",
+      "label": "The Running of the Charleston Blockade",
+      "aliases": [
+        "The Dolphin's Blockade Run",
+        "The Forcing of the Charleston Blockade"
+      ],
+      "path": "ch/charleston-blockade-run.md"
+    },
     "charleston": {
       "type": "place",
       "label": "Charleston",
@@ -9979,6 +9988,10 @@
     "chancellor-fire": "chancellor-fire",
     "The Burning of the Chancellor": "chancellor-fire",
     "The Chancellor Cargo Fire": "chancellor-fire",
+    "charleston-blockade-run": "charleston-blockade-run",
+    "The Running of the Charleston Blockade": "charleston-blockade-run",
+    "The Dolphin's Blockade Run": "charleston-blockade-run",
+    "The Forcing of the Charleston Blockade": "charleston-blockade-run",
     "charleston": "charleston",
     "Charleston": "charleston",
     "chatham-islands": "chatham-islands",
@@ -11897,6 +11910,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1510,
-  "generated": "2026-07-19T04:14:57Z"
+  "page_count": 1511,
+  "generated": "2026-07-19T04:18:12Z"
 }

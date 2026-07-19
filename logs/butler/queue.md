@@ -823,7 +823,7 @@
 <!-- ===== R258 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)）：3 net-new 候选，取自 WC/TT/BR 三部未覆盖作品 ===== -->
 <!-- [event] ✔ 已建 R259 waif-cynthia-rescue（rev 4KDNOS，WC-002，8 distinct PN，featured）建序 19 -->
 <!-- [event] ✔ 已建 R260 kilimanjaro-cannon-shot（rev JA80Ho，8 distinct PN，featured）建序 20 ｜ 修正：queue 原锚 TT-004 系 From-the-Earth-to-Moon 巨炮回顾（月射 Columbiad），非改地轴事件；真事件在 TT-017/018/019（Kilimanjaro 矿井炮 melimelonite 发射欲移地轴、失败），锚改 TT-018 -->
-<!-- [event] The Running of the Charleston Blockade — charleston-blockade-run 待建（The Blockade Runners；pn_anchor BR-003 汽船 Dolphin 恃速强闯 Charleston 封锁线；BR-001-042/052 立意 + BR-003 强闯）建序 21 ｜ BR 2-char 无需 Note ｜ 建时核 Dolphin 闯封锁单指 -->
+<!-- [event] ✔ 已建 R261 charleston-blockade-run（rev E2CxwS，8 distinct PN，featured）建序 21 ｜ 锚精修：queue 记 BR-003（系 Halliburtt 陈情登船），实际强闯在 BR-006（入 Sullivan 峡道过 Fort Sumter 抵 Charleston 码头）+ BR-009（出港突围），锚改 BR-006 -->
 <!-- R258 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 WC/TT/BR 三部零 event 覆盖作品；仍余 ASC/WAI/DOSE/PL/TN/MZ 等零 event 作品可续掘。 -->
 
 
