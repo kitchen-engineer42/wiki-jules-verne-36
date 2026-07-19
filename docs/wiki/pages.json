@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 27
+      "total_refs": 28
     },
     "africa": {
       "type": "place",
@@ -9419,7 +9419,7 @@
       "quality_score": 76,
       "affiliation": "Grand Transasiatic Railway",
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "FC-ch01": {
       "type": "chapter",
@@ -22946,6 +22946,28 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "popof": {
+      "type": "character",
+      "label": "Popof",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "po/popof.md",
+      "description": "The soldierly Russian head guard of the Grand Transasiatic, whose post beside the baggage van and whose gossip make him the narrator's most trusted source aboard the train.",
+      "prose_len": 1945,
+      "prose_chars": 1823,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "port-balloon": {
       "type": "place",
       "label": "Port Balloon",
@@ -35782,6 +35804,8 @@
     "Pleasant Garden": "pleasant-garden",
     "polar-sea": "polar-sea",
     "Polar Sea": "polar-sea",
+    "popof": "popof",
+    "Popof": "popof",
     "port-balloon": "port-balloon",
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
@@ -36614,6 +36638,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1595,
-  "generated": "2026-07-19T12:12:37Z"
+  "page_count": 1596,
+  "generated": "2026-07-19T12:14:58Z"
 }

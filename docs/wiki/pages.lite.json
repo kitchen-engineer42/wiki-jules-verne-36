@@ -6873,6 +6873,12 @@
       "aliases": [],
       "path": "po/polar-sea.md"
     },
+    "popof": {
+      "type": "character",
+      "label": "Popof",
+      "aliases": [],
+      "path": "po/popof.md"
+    },
     "port-balloon": {
       "type": "place",
       "label": "Port Balloon",
@@ -11971,6 +11977,8 @@
     "Pleasant Garden": "pleasant-garden",
     "polar-sea": "polar-sea",
     "Polar Sea": "polar-sea",
+    "popof": "popof",
+    "Popof": "popof",
     "port-balloon": "port-balloon",
     "Port Balloon": "port-balloon",
     "port-barnett": "port-barnett",
@@ -12803,6 +12811,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1595,
-  "generated": "2026-07-19T12:12:37Z"
+  "page_count": 1596,
+  "generated": "2026-07-19T12:14:58Z"
 }
