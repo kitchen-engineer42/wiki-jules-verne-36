@@ -5435,8 +5435,7 @@
       "type": "work",
       "label": "Michael Strogoff",
       "aliases": [
-        "Michael Strogoff: The Courier of the Czar",
-        "Michel Strogoff"
+        "Michael Strogoff: The Courier of the Czar"
       ],
       "path": "mi/michael-strogoff.md"
     },
@@ -5445,6 +5444,14 @@
       "label": "Michel Ardan",
       "aliases": [],
       "path": "mi/michel-ardan.md"
+    },
+    "michel-strogoff": {
+      "type": "character",
+      "label": "Michel Strogoff",
+      "aliases": [
+        "Nicholas Korpanoff"
+      ],
+      "path": "mi/michel-strogoff.md"
     },
     "missionary-rescue": {
       "type": "event",
@@ -11290,9 +11297,11 @@
     "michael-strogoff": "michael-strogoff",
     "Michael Strogoff": "michael-strogoff",
     "Michael Strogoff: The Courier of the Czar": "michael-strogoff",
-    "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "michel-strogoff": "michel-strogoff",
+    "Michel Strogoff": "michel-strogoff",
+    "Nicholas Korpanoff": "michel-strogoff",
     "missionary-rescue": "missionary-rescue",
     "The Missionary's Rescue": "missionary-rescue",
     "The Rescue of the French Missionary": "missionary-rescue",
@@ -12406,6 +12415,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1550,
-  "generated": "2026-07-19T08:38:47Z"
+  "page_count": 1551,
+  "generated": "2026-07-19T08:47:14Z"
 }

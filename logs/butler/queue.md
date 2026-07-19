@@ -913,4 +913,4 @@
 <!-- [character] R314 建序 59 negoro（Negoro）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-002 ｜ role=antagonist：阴险葡籍船厨，篡改罗盘诱船入非洲之反派 ｜ DSCF count 274 ｜ dup-check ABSENT ｜ ✔ R317 built rev De8eLj -->
 <!-- [character] R314 建序 60 hercules（Hercules）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-004 ｜ 力大无穷之黑人获救者，忠勇护主 ｜ DSCF count 203 ｜ dup-check ABSENT ｜ ✔ R319 built rev jBpGS2 -->
 <!-- [character] R314 建序 61 glenarvan（Lord Glenarvan）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ Duncan 号船主、寻 Grant 船长探险队领袖 ｜ SC count 1013 ｜ dup-check ABSENT ｜ ✔ R320 built rev W8REAw -->
-<!-- [character] R314 建序 62 michel-strogoff（Michel Strogoff）｜ book: Michel Strogoff ｜ pn_anchor: MS-004 ｜ role=protagonist：沙皇信使，穿越西伯利亚送密令之主角 ｜ MS count 289 ｜ dup-check ABSENT -->
+<!-- [character] R314 建序 62 michel-strogoff（Michel Strogoff）｜ book: Michel Strogoff ｜ pn_anchor: MS-004 ｜ role=protagonist：沙皇信使，穿越西伯利亚送密令之主角 ｜ MS count 289 ｜ dup-check ABSENT ｜ ✔ R321 built rev ybCgc7（label Michel Strogoff 区分 work michael-strogoff；释放 work alias 'Michel Strogoff' 解 label 冲突；16 distinct PN；strict 首过）— queue(character) 归 0 -->

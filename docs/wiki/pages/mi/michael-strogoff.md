@@ -2,7 +2,7 @@
 id: michael-strogoff
 type: work
 label: Michael Strogoff
-aliases: ['Michael Strogoff: The Courier of the Czar', 'Michel Strogoff']
+aliases: ['Michael Strogoff: The Courier of the Czar']
 tags: [work, adventure, voyage, russia, war]
 description: 'A Jules Verne novel in which a courier of the Czar races across Tartar-invaded Siberia to carry a vital letter from Moscow to Irkutsk.'
 vvv: MS

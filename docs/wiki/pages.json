@@ -14229,7 +14229,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Michael Strogoff",
-      "total_refs": 13
+      "total_refs": 14
     },
     "irtish": {
       "type": "place",
@@ -18072,8 +18072,7 @@
       "type": "work",
       "label": "Michael Strogoff",
       "aliases": [
-        "Michael Strogoff: The Courier of the Czar",
-        "Michel Strogoff"
+        "Michael Strogoff: The Courier of the Czar"
       ],
       "tags": [
         "work",
@@ -18092,7 +18091,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 30
+      "total_refs": 31
     },
     "michel-ardan": {
       "type": "character",
@@ -18115,6 +18114,31 @@
       "quality_score": 65,
       "book": "From the Earth to the Moon",
       "total_refs": 42
+    },
+    "michel-strogoff": {
+      "type": "character",
+      "label": "Michel Strogoff",
+      "aliases": [
+        "Nicholas Korpanoff"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "russia"
+      ],
+      "path": "mi/michel-strogoff.md",
+      "description": "The Czar's courier who carries a vital letter across rebel-held Siberia from Moscow to Irkutsk.",
+      "prose_len": 2526,
+      "prose_chars": 2395,
+      "h2_count": 5,
+      "pn_count": 18,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "affiliation": "Corps of the Czar's Couriers",
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "missionary-rescue": {
       "type": "event",
@@ -27892,7 +27916,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "stromboli-eruption-return": {
       "type": "event",
@@ -34383,9 +34407,11 @@
     "michael-strogoff": "michael-strogoff",
     "Michael Strogoff": "michael-strogoff",
     "Michael Strogoff: The Courier of the Czar": "michael-strogoff",
-    "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "michel-strogoff": "michel-strogoff",
+    "Michel Strogoff": "michel-strogoff",
+    "Nicholas Korpanoff": "michel-strogoff",
     "missionary-rescue": "missionary-rescue",
     "The Missionary's Rescue": "missionary-rescue",
     "The Rescue of the French Missionary": "missionary-rescue",
@@ -35499,6 +35525,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1550,
-  "generated": "2026-07-19T08:39:24Z"
+  "page_count": 1551,
+  "generated": "2026-07-19T08:47:14Z"
 }
