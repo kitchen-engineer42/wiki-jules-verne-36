@@ -8401,6 +8401,16 @@
       ],
       "path": "th/the-fur-country.md"
     },
+    "the-ice-sphinx": {
+      "type": "event",
+      "label": "The Ice Sphinx",
+      "aliases": [
+        "The Magnetic Sphinx",
+        "Fate of Arthur Pym",
+        "Death of Dirk Peters"
+      ],
+      "path": "th/the-ice-sphinx.md"
+    },
     "the-madman-in-the-balloon": {
       "type": "event",
       "label": "The Madman in the Balloon",
@@ -11842,6 +11852,11 @@
     "the-fur-country": "the-fur-country",
     "The Fur Country": "the-fur-country",
     "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
+    "the-ice-sphinx": "the-ice-sphinx",
+    "The Ice Sphinx": "the-ice-sphinx",
+    "The Magnetic Sphinx": "the-ice-sphinx",
+    "Fate of Arthur Pym": "the-ice-sphinx",
+    "Death of Dirk Peters": "the-ice-sphinx",
     "the-madman-in-the-balloon": "the-madman-in-the-balloon",
     "The Madman in the Balloon": "the-madman-in-the-balloon",
     "The Balloon Drama": "the-madman-in-the-balloon",
@@ -12163,6 +12178,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1530,
-  "generated": "2026-07-19T06:30:51Z"
+  "page_count": 1531,
+  "generated": "2026-07-19T06:36:50Z"
 }
