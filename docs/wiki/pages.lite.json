@@ -5709,6 +5709,14 @@
       "aliases": [],
       "path": "ne/nevada.md"
     },
+    "new-aberfoyle-flood": {
+      "type": "event",
+      "label": "The Flooding of New Aberfoyle",
+      "aliases": [
+        "The Inundation of Coal Town"
+      ],
+      "path": "ne/new-aberfoyle-flood.md"
+    },
     "new-aberfoyle": {
       "type": "place",
       "label": "New Aberfoyle",
@@ -10927,6 +10935,9 @@
     "Nemo's sodium battery": "nemo-electricity",
     "nevada": "nevada",
     "Nevada": "nevada",
+    "new-aberfoyle-flood": "new-aberfoyle-flood",
+    "The Flooding of New Aberfoyle": "new-aberfoyle-flood",
+    "The Inundation of Coal Town": "new-aberfoyle-flood",
     "new-aberfoyle": "new-aberfoyle",
     "New Aberfoyle": "new-aberfoyle",
     "new-america": "new-america",
@@ -11862,6 +11873,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1507,
-  "generated": "2026-07-19T03:58:58Z"
+  "page_count": 1508,
+  "generated": "2026-07-19T04:01:50Z"
 }
