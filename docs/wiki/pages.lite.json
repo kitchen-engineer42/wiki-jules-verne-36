@@ -6764,6 +6764,15 @@
       "aliases": [],
       "path": "re/reptile-end.md"
     },
+    "return-to-earth-by-balloon": {
+      "type": "event",
+      "label": "The Return to Earth by Balloon",
+      "aliases": [
+        "The Ascent from Gallia",
+        "Escape from the Comet"
+      ],
+      "path": "re/return-to-earth-by-balloon.md"
+    },
     "rhine": {
       "type": "place",
       "label": "Rhine",
@@ -11412,6 +11421,10 @@
     "Reform Club": "reform-club",
     "reptile-end": "reptile-end",
     "Reptile End": "reptile-end",
+    "return-to-earth-by-balloon": "return-to-earth-by-balloon",
+    "The Return to Earth by Balloon": "return-to-earth-by-balloon",
+    "The Ascent from Gallia": "return-to-earth-by-balloon",
+    "Escape from the Comet": "return-to-earth-by-balloon",
     "rhine": "rhine",
     "Rhine": "rhine",
     "Rhine River": "rhine",
@@ -12120,6 +12133,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1527,
-  "generated": "2026-07-19T06:07:54Z"
+  "page_count": 1528,
+  "generated": "2026-07-19T06:11:44Z"
 }

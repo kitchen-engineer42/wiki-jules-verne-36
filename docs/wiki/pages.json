@@ -12258,7 +12258,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Off on a Comet",
-      "total_refs": 2
+      "total_refs": 3
     },
     "gallian-sea": {
       "type": "place",
@@ -12280,7 +12280,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "ganges": {
       "type": "place",
@@ -21012,7 +21012,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 13
+      "total_refs": 14
     },
     "ohio": {
       "type": "place",
@@ -22600,6 +22600,31 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "The Mysterious Island",
+      "total_refs": 0
+    },
+    "return-to-earth-by-balloon": {
+      "type": "event",
+      "label": "The Return to Earth by Balloon",
+      "aliases": [
+        "The Ascent from Gallia",
+        "Escape from the Comet"
+      ],
+      "tags": [
+        "event",
+        "ballooning",
+        "science-fiction",
+        "rescue"
+      ],
+      "path": "re/return-to-earth-by-balloon.md",
+      "prose_len": 3290,
+      "prose_chars": 3158,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 82,
+      "book": "Off on a Comet",
       "total_refs": 0
     },
     "rhine": {
@@ -34127,6 +34152,10 @@
     "Reform Club": "reform-club",
     "reptile-end": "reptile-end",
     "Reptile End": "reptile-end",
+    "return-to-earth-by-balloon": "return-to-earth-by-balloon",
+    "The Return to Earth by Balloon": "return-to-earth-by-balloon",
+    "The Ascent from Gallia": "return-to-earth-by-balloon",
+    "Escape from the Comet": "return-to-earth-by-balloon",
     "rhine": "rhine",
     "Rhine": "rhine",
     "Rhine River": "rhine",
@@ -34835,6 +34864,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1527,
-  "generated": "2026-07-19T06:07:54Z"
+  "page_count": 1528,
+  "generated": "2026-07-19T06:11:44Z"
 }
