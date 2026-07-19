@@ -4127,6 +4127,12 @@
       "aliases": [],
       "path": "ha/hamburg.md"
     },
+    "harry-blount": {
+      "type": "character",
+      "label": "Harry Blount",
+      "aliases": [],
+      "path": "ha/harry-blount.md"
+    },
     "havre": {
       "type": "place",
       "label": "Havre",
@@ -10996,6 +11002,8 @@
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
     "Hamburg": "hamburg",
+    "harry-blount": "harry-blount",
+    "Harry Blount": "harry-blount",
     "havre": "havre",
     "Havre": "havre",
     "Le Havre": "havre",
@@ -12482,6 +12490,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1559,
-  "generated": "2026-07-19T09:19:55Z"
+  "page_count": 1560,
+  "generated": "2026-07-19T09:26:02Z"
 }
