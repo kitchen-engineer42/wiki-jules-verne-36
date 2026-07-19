@@ -4379,6 +4379,14 @@
       "aliases": [],
       "path": "ja/jacamar-wood.md"
     },
+    "james-starr": {
+      "type": "character",
+      "label": "James Starr",
+      "aliases": [
+        "Mr Starr"
+      ],
+      "path": "ja/james-starr.md"
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -11184,6 +11192,9 @@
     "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
+    "james-starr": "james-starr",
+    "James Starr": "james-starr",
+    "Mr Starr": "james-starr",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -12614,6 +12625,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1573,
-  "generated": "2026-07-19T10:31:01Z"
+  "page_count": 1574,
+  "generated": "2026-07-19T10:36:34Z"
 }

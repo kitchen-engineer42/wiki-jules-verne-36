@@ -14546,6 +14546,30 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "james-starr": {
+      "type": "character",
+      "label": "James Starr",
+      "aliases": [
+        "Mr Starr"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ja/james-starr.md",
+      "description": "The retired engineer who managed the Aberfoyle coal-mines for twenty years and, summoned back by Simon Ford's letter, discovers and settles the New Aberfoyle underground city.",
+      "prose_len": 2801,
+      "prose_chars": 2674,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "book": "The Underground City",
+      "total_refs": 1
+    },
     "jangada": {
       "type": "technology",
       "label": "Jangada",
@@ -29203,7 +29227,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 77,
-      "total_refs": 5
+      "total_refs": 6
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -34638,6 +34662,9 @@
     "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
+    "james-starr": "james-starr",
+    "James Starr": "james-starr",
+    "Mr Starr": "james-starr",
     "jangada": "jangada",
     "Jangada": "jangada",
     "the giant raft": "jangada",
@@ -36068,6 +36095,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1573,
-  "generated": "2026-07-19T10:31:01Z"
+  "page_count": 1574,
+  "generated": "2026-07-19T10:36:34Z"
 }
