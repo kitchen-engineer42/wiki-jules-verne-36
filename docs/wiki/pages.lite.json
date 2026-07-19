@@ -2680,6 +2680,16 @@
       ],
       "path": "fa/facing-the-flag.md"
     },
+    "failing-of-the-zacharius-clocks": {
+      "type": "event",
+      "label": "The Failing of the Zacharius Clocks",
+      "aliases": [
+        "The Stopping of the Clocks",
+        "The Pride of Science",
+        "Zacharius's Failing Watches"
+      ],
+      "path": "fa/failing-of-the-zacharius-clocks.md"
+    },
     "falkland-islands": {
       "type": "place",
       "label": "Falkland Islands",
@@ -10504,6 +10514,11 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "failing-of-the-zacharius-clocks": "failing-of-the-zacharius-clocks",
+    "The Failing of the Zacharius Clocks": "failing-of-the-zacharius-clocks",
+    "The Stopping of the Clocks": "failing-of-the-zacharius-clocks",
+    "The Pride of Science": "failing-of-the-zacharius-clocks",
+    "Zacharius's Failing Watches": "failing-of-the-zacharius-clocks",
     "falkland-islands": "falkland-islands",
     "Falkland Islands": "falkland-islands",
     "Falkland Isles": "falkland-islands",
@@ -12283,6 +12298,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1538,
-  "generated": "2026-07-19T07:31:04Z"
+  "page_count": 1539,
+  "generated": "2026-07-19T07:33:58Z"
 }

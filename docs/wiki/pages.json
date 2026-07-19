@@ -8911,6 +8911,30 @@
       "quality_score": 79,
       "total_refs": 2
     },
+    "failing-of-the-zacharius-clocks": {
+      "type": "event",
+      "label": "The Failing of the Zacharius Clocks",
+      "aliases": [
+        "The Stopping of the Clocks",
+        "The Pride of Science",
+        "Zacharius's Failing Watches"
+      ],
+      "tags": [
+        "event",
+        "clockmaking",
+        "science",
+        "geneva"
+      ],
+      "path": "fa/failing-of-the-zacharius-clocks.md",
+      "prose_len": 2489,
+      "prose_chars": 2358,
+      "h2_count": 4,
+      "pn_count": 23,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "book": "Master Zacharius",
+      "total_refs": 0
+    },
     "falkland-islands": {
       "type": "place",
       "label": "Falkland Islands",
@@ -16447,7 +16471,7 @@
       "pn_count": 13,
       "wikilink_count": 0,
       "blockquote_count": 0,
-      "total_refs": 3
+      "total_refs": 4
     },
     "maston-calculation-error": {
       "type": "event",
@@ -33402,6 +33426,11 @@
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
     "For the Flag": "facing-the-flag",
+    "failing-of-the-zacharius-clocks": "failing-of-the-zacharius-clocks",
+    "The Failing of the Zacharius Clocks": "failing-of-the-zacharius-clocks",
+    "The Stopping of the Clocks": "failing-of-the-zacharius-clocks",
+    "The Pride of Science": "failing-of-the-zacharius-clocks",
+    "Zacharius's Failing Watches": "failing-of-the-zacharius-clocks",
     "falkland-islands": "falkland-islands",
     "Falkland Islands": "falkland-islands",
     "Falkland Isles": "falkland-islands",
@@ -35181,6 +35210,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1538,
-  "generated": "2026-07-19T07:31:04Z"
+  "page_count": 1539,
+  "generated": "2026-07-19T07:34:30Z"
 }
