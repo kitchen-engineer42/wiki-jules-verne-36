@@ -5455,7 +5455,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "captain-hatteras": {
       "type": "character",
@@ -14131,7 +14131,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 38
+      "total_refs": 39
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16745,7 +16745,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "In Search of the Castaways",
-      "total_refs": 3
+      "total_refs": 4
     },
     "maryland": {
       "type": "place",
@@ -23994,6 +23994,27 @@
       "book": "Round the Moon",
       "total_refs": 1
     },
+    "robert-grant": {
+      "type": "character",
+      "label": "Robert Grant",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ro/robert-grant.md",
+      "description": "The brave young son of Captain Grant, who joins the search for his lost father across the 37th parallel.",
+      "prose_len": 2239,
+      "prose_chars": 2115,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "robur-the-conqueror": {
       "type": "work",
       "label": "Robur the Conqueror",
@@ -28594,7 +28615,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "thames": {
       "type": "place",
@@ -35110,6 +35131,8 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robert-grant": "robert-grant",
+    "Robert Grant": "robert-grant",
     "robur-the-conqueror": "robur-the-conqueror",
     "Robur the Conqueror": "robur-the-conqueror",
     "The Clipper of the Clouds": "robur-the-conqueror",
@@ -35789,6 +35812,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1562,
-  "generated": "2026-07-19T09:34:01Z"
+  "page_count": 1563,
+  "generated": "2026-07-19T09:37:13Z"
 }

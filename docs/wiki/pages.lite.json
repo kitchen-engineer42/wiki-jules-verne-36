@@ -7200,6 +7200,12 @@
       "aliases": [],
       "path": "rm/RM-ch23.md"
     },
+    "robert-grant": {
+      "type": "character",
+      "label": "Robert Grant",
+      "aliases": [],
+      "path": "ro/robert-grant.md"
+    },
     "robur-the-conqueror": {
       "type": "work",
       "label": "Robur the Conqueror",
@@ -11830,6 +11836,8 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robert-grant": "robert-grant",
+    "Robert Grant": "robert-grant",
     "robur-the-conqueror": "robur-the-conqueror",
     "Robur the Conqueror": "robur-the-conqueror",
     "The Clipper of the Clouds": "robur-the-conqueror",
@@ -12509,6 +12517,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1562,
-  "generated": "2026-07-19T09:34:01Z"
+  "page_count": 1563,
+  "generated": "2026-07-19T09:37:13Z"
 }
