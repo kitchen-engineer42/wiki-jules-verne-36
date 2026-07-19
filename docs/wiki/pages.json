@@ -6801,7 +6801,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 0
+      "total_refs": 1
     },
     "douchak": {
       "type": "place",
@@ -21681,6 +21681,31 @@
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 0
     },
+    "quiquendone-frenzy": {
+      "type": "event",
+      "label": "The Oxygen Frenzy of Quiquendone",
+      "aliases": [
+        "Doctor Ox's Oxygen Experiment",
+        "The Quiquendone Epidemic"
+      ],
+      "tags": [
+        "event",
+        "experiment",
+        "oxygen",
+        "satire"
+      ],
+      "path": "qu/quiquendone-frenzy.md",
+      "prose_len": 3107,
+      "prose_chars": 2813,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 81,
+      "book": "Doctor Ox's Experiment",
+      "total_refs": 0
+    },
     "quiquendone": {
       "type": "place",
       "label": "Quiquendone",
@@ -33642,6 +33667,10 @@
     "Prussia": "prussia",
     "quebec": "quebec",
     "Quebec": "quebec",
+    "quiquendone-frenzy": "quiquendone-frenzy",
+    "The Oxygen Frenzy of Quiquendone": "quiquendone-frenzy",
+    "Doctor Ox's Oxygen Experiment": "quiquendone-frenzy",
+    "The Quiquendone Epidemic": "quiquendone-frenzy",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
     "raleigh": "raleigh",
@@ -34373,6 +34402,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1511,
-  "generated": "2026-07-19T04:18:12Z"
+  "page_count": 1512,
+  "generated": "2026-07-19T04:27:44Z"
 }
