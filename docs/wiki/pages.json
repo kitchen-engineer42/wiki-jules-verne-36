@@ -16870,7 +16870,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 7
+      "total_refs": 8
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -17199,7 +17199,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "madagascar": {
       "type": "place",
@@ -17380,6 +17380,29 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Mysterious Island",
+      "total_refs": 0
+    },
+    "marbre": {
+      "type": "character",
+      "label": "Marbre",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "ma/marbre.md",
+      "description": "One of the two chief hunters of the Fort Hope expedition in The Fur Country, a seasoned trapper who first divines the peril of the drifting island.",
+      "prose_len": 2362,
+      "prose_chars": 2238,
+      "h2_count": 5,
+      "pn_count": 17,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "The Fur Country",
       "total_refs": 0
     },
     "marfa-strogoff": {
@@ -25135,7 +25158,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "sacramento": {
       "type": "place",
@@ -29850,7 +29873,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 24
+      "total_refs": 25
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -35895,6 +35918,8 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marbre": "marbre",
+    "Marbre": "marbre",
     "marfa-strogoff": "marfa-strogoff",
     "Marfa Strogoff": "marfa-strogoff",
     "marseilles": "marseilles",
@@ -37175,6 +37200,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1618,
-  "generated": "2026-07-19T13:49:03Z"
+  "page_count": 1619,
+  "generated": "2026-07-19T13:55:22Z"
 }

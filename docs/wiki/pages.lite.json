@@ -5217,6 +5217,12 @@
       ],
       "path": "ma/mandible-cape.md"
     },
+    "marbre": {
+      "type": "character",
+      "label": "Marbre",
+      "aliases": [],
+      "path": "ma/marbre.md"
+    },
     "marfa-strogoff": {
       "type": "character",
       "label": "Marfa Strogoff",
@@ -11716,6 +11722,8 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marbre": "marbre",
+    "Marbre": "marbre",
     "marfa-strogoff": "marfa-strogoff",
     "Marfa Strogoff": "marfa-strogoff",
     "marseilles": "marseilles",
@@ -12996,6 +13004,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1618,
-  "generated": "2026-07-19T13:49:03Z"
+  "page_count": 1619,
+  "generated": "2026-07-19T13:55:22Z"
 }
