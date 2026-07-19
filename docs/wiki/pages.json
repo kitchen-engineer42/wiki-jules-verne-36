@@ -2271,7 +2271,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 8
+      "total_refs": 9
     },
     "andes-earthquake": {
       "type": "event",
@@ -6722,7 +6722,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -16253,7 +16253,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lena": {
       "type": "place",
@@ -33242,6 +33242,30 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
+    "william-guy": {
+      "type": "character",
+      "label": "William Guy",
+      "aliases": [
+        "Captain William Guy"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "wi/william-guy.md",
+      "description": "The captain of the schooner Jane and brother of Len Guy, marooned for eleven years beyond Tsalal Island and the object of the Halbrane's Antarctic rescue.",
+      "prose_len": 2591,
+      "prose_chars": 2462,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "wimerra": {
       "type": "place",
       "label": "Wimerra",
@@ -36013,6 +36037,9 @@
     "whale-hunt-disaster": "whale-hunt-disaster",
     "The Whale Hunt Disaster": "whale-hunt-disaster",
     "The Loss of Captain Hull": "whale-hunt-disaster",
+    "william-guy": "william-guy",
+    "William Guy": "william-guy",
+    "Captain William Guy": "william-guy",
     "wimerra": "wimerra",
     "Wimerra": "wimerra",
     "Wimerra River": "wimerra",
@@ -36041,6 +36068,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1572,
-  "generated": "2026-07-19T10:25:22Z"
+  "page_count": 1573,
+  "generated": "2026-07-19T10:31:01Z"
 }

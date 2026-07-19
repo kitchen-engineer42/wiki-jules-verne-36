@@ -9980,6 +9980,14 @@
       ],
       "path": "wh/whale-hunt-disaster.md"
     },
+    "william-guy": {
+      "type": "character",
+      "label": "William Guy",
+      "aliases": [
+        "Captain William Guy"
+      ],
+      "path": "wi/william-guy.md"
+    },
     "wimerra": {
       "type": "place",
       "label": "Wimerra",
@@ -12575,6 +12583,9 @@
     "whale-hunt-disaster": "whale-hunt-disaster",
     "The Whale Hunt Disaster": "whale-hunt-disaster",
     "The Loss of Captain Hull": "whale-hunt-disaster",
+    "william-guy": "william-guy",
+    "William Guy": "william-guy",
+    "Captain William Guy": "william-guy",
     "wimerra": "wimerra",
     "Wimerra": "wimerra",
     "Wimerra River": "wimerra",
@@ -12603,6 +12614,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1572,
-  "generated": "2026-07-19T10:25:22Z"
+  "page_count": 1573,
+  "generated": "2026-07-19T10:31:01Z"
 }
