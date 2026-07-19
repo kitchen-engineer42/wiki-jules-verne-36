@@ -8459,6 +8459,15 @@
       ],
       "path": "si/silfax-firedamp-attack.md"
     },
+    "simon-hart": {
+      "type": "character",
+      "label": "Simon Hart",
+      "aliases": [
+        "Warder Gaydon",
+        "Gaydon"
+      ],
+      "path": "si/simon-hart.md"
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -12299,6 +12308,10 @@
     "Silfax's Firedamp Attack": "silfax-firedamp-attack",
     "The Firedamp Attack on New Aberfoyle": "silfax-firedamp-attack",
     "The Threat to New Aberfoyle": "silfax-firedamp-attack",
+    "simon-hart": "simon-hart",
+    "Simon Hart": "simon-hart",
+    "Warder Gaydon": "simon-hart",
+    "Gaydon": "simon-hart",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -12758,6 +12771,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1590,
-  "generated": "2026-07-19T11:50:17Z"
+  "page_count": 1591,
+  "generated": "2026-07-19T11:53:54Z"
 }

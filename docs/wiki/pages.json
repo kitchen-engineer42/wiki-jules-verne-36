@@ -9154,7 +9154,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "erik": {
       "type": "character",
@@ -9229,7 +9229,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 5
+      "total_refs": 6
     },
     "failing-of-the-zacharius-clocks": {
       "type": "event",
@@ -15951,7 +15951,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "Facing the Flag",
-      "total_refs": 4
+      "total_refs": 5
     },
     "kerguelen": {
       "type": "place",
@@ -28217,6 +28217,31 @@
       "book": "The Underground City",
       "total_refs": 0
     },
+    "simon-hart": {
+      "type": "character",
+      "label": "Simon Hart",
+      "aliases": [
+        "Warder Gaydon",
+        "Gaydon"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "si/simon-hart.md",
+      "description": "The French engineer who, disguised as the warder Gaydon, guards the inventor Thomas Roch and narrates the pursuit of Ker Karraje's pirates from within their stronghold.",
+      "prose_len": 2392,
+      "prose_chars": 2262,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -29592,7 +29617,7 @@
       "quality": "featured",
       "quality_score": 78,
       "book": "Facing the Flag",
-      "total_refs": 4
+      "total_refs": 5
     },
     "tibet": {
       "type": "place",
@@ -36030,6 +36055,10 @@
     "Silfax's Firedamp Attack": "silfax-firedamp-attack",
     "The Firedamp Attack on New Aberfoyle": "silfax-firedamp-attack",
     "The Threat to New Aberfoyle": "silfax-firedamp-attack",
+    "simon-hart": "simon-hart",
+    "Simon Hart": "simon-hart",
+    "Warder Gaydon": "simon-hart",
+    "Gaydon": "simon-hart",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -36489,6 +36518,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1590,
-  "generated": "2026-07-19T11:50:17Z"
+  "page_count": 1591,
+  "generated": "2026-07-19T11:53:54Z"
 }
