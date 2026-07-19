@@ -3958,7 +3958,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 2
+      "total_refs": 3
     },
     "axel": {
       "type": "character",
@@ -22709,6 +22709,33 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 0
     },
+    "return-of-the-jeune-hardie": {
+      "type": "event",
+      "label": "The Return of the Jeune-Hardie",
+      "aliases": [
+        "The Deliverance of Louis Cornbutte",
+        "The Death of Jean Cornbutte",
+        "Homecoming to Dunkirk"
+      ],
+      "tags": [
+        "event",
+        "arctic",
+        "rescue",
+        "voyage",
+        "1860s"
+      ],
+      "path": "re/return-of-the-jeune-hardie.md",
+      "prose_len": 3698,
+      "prose_chars": 3566,
+      "h2_count": 4,
+      "pn_count": 25,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 86,
+      "book": "A Winter Amid the Ice",
+      "total_refs": 0
+    },
     "return-to-earth-by-balloon": {
       "type": "event",
       "label": "The Return to Earth by Balloon",
@@ -34333,6 +34360,11 @@
     "The Gallows Reprieve": "rescue-of-joam-dacosta",
     "Vindication of Joam Dacosta": "rescue-of-joam-dacosta",
     "The Ortega Confession": "rescue-of-joam-dacosta",
+    "return-of-the-jeune-hardie": "return-of-the-jeune-hardie",
+    "The Return of the Jeune-Hardie": "return-of-the-jeune-hardie",
+    "The Deliverance of Louis Cornbutte": "return-of-the-jeune-hardie",
+    "The Death of Jean Cornbutte": "return-of-the-jeune-hardie",
+    "Homecoming to Dunkirk": "return-of-the-jeune-hardie",
     "return-to-earth-by-balloon": "return-to-earth-by-balloon",
     "The Return to Earth by Balloon": "return-to-earth-by-balloon",
     "The Ascent from Gallia": "return-to-earth-by-balloon",
@@ -35055,6 +35087,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1534,
-  "generated": "2026-07-19T06:56:09Z"
+  "page_count": 1535,
+  "generated": "2026-07-19T07:08:01Z"
 }

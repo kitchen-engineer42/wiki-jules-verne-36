@@ -6804,6 +6804,16 @@
       ],
       "path": "re/rescue-of-joam-dacosta.md"
     },
+    "return-of-the-jeune-hardie": {
+      "type": "event",
+      "label": "The Return of the Jeune-Hardie",
+      "aliases": [
+        "The Deliverance of Louis Cornbutte",
+        "The Death of Jean Cornbutte",
+        "Homecoming to Dunkirk"
+      ],
+      "path": "re/return-of-the-jeune-hardie.md"
+    },
     "return-to-earth-by-balloon": {
       "type": "event",
       "label": "The Return to Earth by Balloon",
@@ -11501,6 +11511,11 @@
     "The Gallows Reprieve": "rescue-of-joam-dacosta",
     "Vindication of Joam Dacosta": "rescue-of-joam-dacosta",
     "The Ortega Confession": "rescue-of-joam-dacosta",
+    "return-of-the-jeune-hardie": "return-of-the-jeune-hardie",
+    "The Return of the Jeune-Hardie": "return-of-the-jeune-hardie",
+    "The Deliverance of Louis Cornbutte": "return-of-the-jeune-hardie",
+    "The Death of Jean Cornbutte": "return-of-the-jeune-hardie",
+    "Homecoming to Dunkirk": "return-of-the-jeune-hardie",
     "return-to-earth-by-balloon": "return-to-earth-by-balloon",
     "The Return to Earth by Balloon": "return-to-earth-by-balloon",
     "The Ascent from Gallia": "return-to-earth-by-balloon",
@@ -12223,6 +12238,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1534,
-  "generated": "2026-07-19T06:56:09Z"
+  "page_count": 1535,
+  "generated": "2026-07-19T07:08:01Z"
 }
