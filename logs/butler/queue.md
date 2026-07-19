@@ -898,3 +898,11 @@
 
 
 ## P3 — 发现型（每11轮触发）
+
+<!-- ===== R307 CLOSE+SCN28：event 收官（final_count 64、closed_at_round 307）→ 切 character（type_queue 末类型、切后 type_queue 空）。切后立即 SCN28 character 首批 discover：掘 6 候选建序 51-56（character 为 SCN23 权重最高实体类型，池充沛 ~180-240 估算，现仅 15 页覆盖主角）。new_candidates=6≥3 → productive discover，discover_streak_low 保持 0。全 6 slug + 变体 + alias 已 filesystem/registry 双查 ABSENT（alias 命中仅 work/chapter/event 页，非 character 实体页）。 ===== -->
+<!-- [character] R307 建序 51 aronnax（Professor Pierre Aronnax）｜ book: Twenty Thousand Leagues Under the Seas ｜ pn_anchor: TTLU-002 ｜ TTLU 叙述者、巴黎博物馆博物学者，登 Abraham Lincoln 追猎「海怪」后随 Nautilus 沉浮 ｜ 34 章复现 ｜ 剔 Nemo/Conseil/Ned Land（已有页）｜ dup-check ABSENT（aronnax/professor-aronnax/pierre-aronnax）-->
+<!-- [character] R307 建序 52 ayrton（Ayrton / Tom Ayrton）｜ book: The Mysterious Island ｜ pn_anchor: MI-039 ｜ Tabor 岛遗弃之叛徒水手，Glenarvan 放逐、后 Lincoln 岛殖民者救赎；跨 SC（In Search of the Castaways）源起 ｜ MI 24 / SI 20 / SC 17 ｜ 剔 event tabor-island-castaway（别为事件页）｜ dup-check ABSENT -->
+<!-- [character] R307 建序 53 dick-sand（Dick Sand）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-002 ｜ 十五岁见习水手，Pilgrim 号船长罹难后临危掌舵 ｜ DSCF 36 章复现 ｜ 剔 event wreck-of-the-pilgrim（别为事件页）、work dick-sand-a-captain-at-fifteen ｜ dup-check ABSENT -->
+<!-- [character] R307 建序 54 pencroft（Pencroft）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 直率能干之水手，Lincoln 岛五殖民者之一、造船开垦主力 ｜ MI 61 / SI 20 ｜ dup-check ABSENT -->
+<!-- [character] R307 建序 55 herbert（Herbert Brown）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 少年博物学徒，Pencroft 义子、Lincoln 岛殖民者，中弹濒死获救 ｜ MI 61 / SI 20 ｜ dup-check ABSENT（herbert/herbert-brown）-->
+<!-- [character] R307 建序 56 paganel（Jacques Paganel）｜ book: In Search of the Castaways ｜ pn_anchor: SC-006 ｜ 心不在焉之法国地理学会秘书，误登 Duncan 号成环球探险要角 ｜ SC 61 章复现 ｜ dup-check ABSENT（paganel/jacques-paganel）-->
