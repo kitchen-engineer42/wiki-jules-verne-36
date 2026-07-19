@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 32
+      "total_refs": 33
     },
     "africa": {
       "type": "place",
@@ -16179,7 +16179,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "klock-klock": {
       "type": "place",
@@ -34169,6 +34169,28 @@
       "quality_score": 68,
       "book": "Five Weeks in a Balloon",
       "total_refs": 1
+    },
+    "zinca-klork": {
+      "type": "character",
+      "label": "Zinca Klork",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "romance"
+      ],
+      "path": "zi/zinca-klork.md",
+      "description": "A pretty young Roumanian settled in Peking, the betrothed of the stowaway Kinko, who waits in anguish for the packing-case that carries her lover across Asia and is at last reunited with and married to him.",
+      "prose_len": 1859,
+      "prose_chars": 1731,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     }
   },
   "alias_index": {
@@ -36780,8 +36802,10 @@
     "zabediero": "zabediero",
     "Zabediero": "zabediero",
     "zanzibar": "zanzibar",
-    "Zanzibar": "zanzibar"
+    "Zanzibar": "zanzibar",
+    "zinca-klork": "zinca-klork",
+    "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1602,
-  "generated": "2026-07-19T12:38:20Z"
+  "page_count": 1603,
+  "generated": "2026-07-19T12:40:23Z"
 }
