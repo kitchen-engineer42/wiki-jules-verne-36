@@ -22539,6 +22539,32 @@
       "book": "Robur the Conqueror",
       "total_refs": 1
     },
+    "recognition-of-erik": {
+      "type": "event",
+      "label": "The Recognition of Erik",
+      "aliases": [
+        "Erik's Recognition",
+        "A Letter from Paris",
+        "The Grandson of Durrien"
+      ],
+      "tags": [
+        "event",
+        "recognition",
+        "arctic",
+        "1880s"
+      ],
+      "path": "re/recognition-of-erik.md",
+      "prose_len": 3462,
+      "prose_chars": 3335,
+      "h2_count": 4,
+      "pn_count": 25,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 84,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "recovery-of-the-projectile": {
       "type": "event",
       "label": "The Recovery of the Projectile",
@@ -28344,7 +28370,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 22
+      "total_refs": 23
     },
     "tibet": {
       "type": "place",
@@ -34284,6 +34310,11 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "recognition-of-erik": "recognition-of-erik",
+    "The Recognition of Erik": "recognition-of-erik",
+    "Erik's Recognition": "recognition-of-erik",
+    "A Letter from Paris": "recognition-of-erik",
+    "The Grandson of Durrien": "recognition-of-erik",
     "recovery-of-the-projectile": "recovery-of-the-projectile",
     "The Recovery of the Projectile": "recovery-of-the-projectile",
     "The Susquehanna Rescue": "recovery-of-the-projectile",
@@ -35024,6 +35055,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1533,
-  "generated": "2026-07-19T06:52:15Z"
+  "page_count": 1534,
+  "generated": "2026-07-19T06:56:09Z"
 }

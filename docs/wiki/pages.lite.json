@@ -6750,6 +6750,16 @@
       "aliases": [],
       "path": "rc/RC-ch23.md"
     },
+    "recognition-of-erik": {
+      "type": "event",
+      "label": "The Recognition of Erik",
+      "aliases": [
+        "Erik's Recognition",
+        "A Letter from Paris",
+        "The Grandson of Durrien"
+      ],
+      "path": "re/recognition-of-erik.md"
+    },
     "recovery-of-the-projectile": {
       "type": "event",
       "label": "The Recovery of the Projectile",
@@ -11468,6 +11478,11 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "recognition-of-erik": "recognition-of-erik",
+    "The Recognition of Erik": "recognition-of-erik",
+    "Erik's Recognition": "recognition-of-erik",
+    "A Letter from Paris": "recognition-of-erik",
+    "The Grandson of Durrien": "recognition-of-erik",
     "recovery-of-the-projectile": "recovery-of-the-projectile",
     "The Recovery of the Projectile": "recovery-of-the-projectile",
     "The Susquehanna Rescue": "recovery-of-the-projectile",
@@ -12208,6 +12223,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1533,
-  "generated": "2026-07-19T06:52:15Z"
+  "page_count": 1534,
+  "generated": "2026-07-19T06:56:09Z"
 }
