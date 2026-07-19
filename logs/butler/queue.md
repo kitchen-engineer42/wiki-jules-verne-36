@@ -826,6 +826,12 @@
 <!-- [event] ✔ 已建 R261 charleston-blockade-run（rev E2CxwS，8 distinct PN，featured）建序 21 ｜ 锚精修：queue 记 BR-003（系 Halliburtt 陈情登船），实际强闯在 BR-006（入 Sullivan 峡道过 Fort Sumter 抵 Charleston 码头）+ BR-009（出港突围），锚改 BR-006 -->
 <!-- R258 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 WC/TT/BR 三部零 event 覆盖作品；仍余 ASC/WAI/DOSE/PL/TN/MZ 等零 event 作品可续掘。 -->
 
+<!-- ===== R262 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)）：3 net-new 候选，取自 DOSE/WAI/MZ 三部未覆盖作品 ===== -->
+<!-- [event] The Oxygen Frenzy of Quiquendone — quiquendone-frenzy 待建（Doctor Ox's Experiment；pn_anchor DOSE-015 Doctor Ox 以氧气饱和 Quiquendone 全城、平和小镇陷狂热战争热、终以 Ox 气厂爆炸告终；DOSE-015-002/006/007 爆炸 + DOSE-016-002/003 复归平静 + DOSE-017-002/003/006 实验揭底）建序 22 ｜ DOSE 4-char → 须 page-top RFC-0003 Note ｜ 建时核氧气实验致狂/气厂爆炸单指、剔逐场景插曲；工作页 doctor-oxs-experiment 可链 -->
+<!-- [event] The Finding of Louis Cornbutte — finding-of-louis-cornbutte 待建（Winter Amid the Ice；pn_anchor WAI-011 Jean Cornbutte 北极搜寻队于雪屋寻得失踪之子 Louis 与 Jeune-Hardie 幸存者；WAI-011-024/037/041/045/049/050）建序 23 ｜ WAI 3-char 无需 Note ｜ 建时核寻获幸存者单指、剔前段搜寻航程泛述 -->
+<!-- [event] The Death of Master Zacharius — death-of-master-zacharius 待建（Master Zacharius；pn_anchor MZ-005 老钟匠末座大钟迸裂、Pittonaccio 攫其魂、殁于 Andernatt 峰间；MZ-005-081/084/095/103/106/107/115/117/120）建序 24 ｜ MZ 2-char 无需 Note ｜ 建时核钟毁人亡单指、剔前段钟表失灵泛述 -->
+<!-- R262 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 DOSE/WAI/MZ 三部零 event 覆盖作品；仍余 ASC/PL/TN/DA/SC/SC2/VB/DSCF 等零 event 作品可续掘。三候选 exact-slug 全 ABSENT（quiquendone-frenzy/finding-of-louis-cornbutte/death-of-master-zacharius 及变体）。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
