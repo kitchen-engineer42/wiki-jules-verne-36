@@ -40,12 +40,12 @@
     }
   ],
   "counters": {
-    "current_round": 378,
-    "type_round": 70,
-    "rounds_since_last_evv5": 5,
-    "rounds_since_last_discover": 0,
+    "current_round": 379,
+    "type_round": 71,
+    "rounds_since_last_evv5": 6,
+    "rounds_since_last_discover": 1,
     "discover_streak_low": 0,
-    "rounds_since_last_corpus_discover": 314,
+    "rounds_since_last_corpus_discover": 315,
     "corpus_discover_streak_low": 0
   },
   "thresholds": {
@@ -62,5 +62,5 @@
     "corpus_exhausted": false
   },
   "pending_new_types": [],
-  "last_updated_round": 378
+  "last_updated_round": 379
 }

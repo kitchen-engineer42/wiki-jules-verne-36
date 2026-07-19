@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 26
+      "total_refs": 27
     },
     "africa": {
       "type": "place",
@@ -5684,6 +5684,28 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
+    "caterna": {
+      "type": "character",
+      "label": "Caterna",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ca/caterna.md",
+      "description": "A jovial French comic actor and former sailor crossing Asia with his wife aboard the Grand Transasiatic, whose songs, monologues and nautical wit enliven the narrator's journey.",
+      "prose_len": 2187,
+      "prose_chars": 2063,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
     "caucasus": {
@@ -17062,7 +17084,7 @@
       "quality_score": 72,
       "affiliation": "Russian army",
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 2
+      "total_refs": 3
     },
     "malta": {
       "type": "place",
@@ -34431,6 +34453,8 @@
     "The Caspian": "caspian-sea",
     "cassange": "cassange",
     "Cassange": "cassange",
+    "caterna": "caterna",
+    "Caterna": "caterna",
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
@@ -36590,6 +36614,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1594,
-  "generated": "2026-07-19T12:08:14Z"
+  "page_count": 1595,
+  "generated": "2026-07-19T12:12:37Z"
 }

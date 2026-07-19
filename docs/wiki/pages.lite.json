@@ -1704,6 +1704,12 @@
       "aliases": [],
       "path": "ca/cassange.md"
     },
+    "caterna": {
+      "type": "character",
+      "label": "Caterna",
+      "aliases": [],
+      "path": "ca/caterna.md"
+    },
     "caucasus": {
       "type": "place",
       "label": "Caucasus",
@@ -10636,6 +10642,8 @@
     "The Caspian": "caspian-sea",
     "cassange": "cassange",
     "Cassange": "cassange",
+    "caterna": "caterna",
+    "Caterna": "caterna",
     "caucasus": "caucasus",
     "Caucasus": "caucasus",
     "the Caucasus": "caucasus",
@@ -12795,6 +12803,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1594,
-  "generated": "2026-07-19T12:08:14Z"
+  "page_count": 1595,
+  "generated": "2026-07-19T12:12:37Z"
 }
