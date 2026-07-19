@@ -8748,6 +8748,12 @@
       ],
       "path": "th/the-waif-of-the-cynthia.md"
     },
+    "thomas-roch": {
+      "type": "character",
+      "label": "Thomas Roch",
+      "aliases": [],
+      "path": "th/thomas-roch.md"
+    },
     "tibet": {
       "type": "place",
       "label": "Tibet",
@@ -12260,6 +12266,8 @@
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
     "Salvage from the Cynthia": "the-waif-of-the-cynthia",
     "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "thomas-roch": "thomas-roch",
+    "Thomas Roch": "thomas-roch",
     "tibet": "tibet",
     "Tibet": "tibet",
     "ticket-no-9672": "ticket-no-9672",
@@ -12551,6 +12559,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1567,
-  "generated": "2026-07-19T09:58:14Z"
+  "page_count": 1568,
+  "generated": "2026-07-19T10:01:57Z"
 }

@@ -9049,7 +9049,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 2
+      "total_refs": 3
     },
     "failing-of-the-zacharius-clocks": {
       "type": "event",
@@ -29136,6 +29136,28 @@
       "quality_score": 42,
       "total_refs": 23
     },
+    "thomas-roch": {
+      "type": "character",
+      "label": "Thomas Roch",
+      "aliases": [],
+      "tags": [
+        "character",
+        "science-fiction",
+        "invention"
+      ],
+      "path": "th/thomas-roch.md",
+      "description": "The French inventor of genius, half-maddened and abducted for his devastating Fulgurator, whose last spark of patriotism redeems him.",
+      "prose_len": 2807,
+      "prose_chars": 2678,
+      "h2_count": 5,
+      "pn_count": 17,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "book": "Facing the Flag",
+      "total_refs": 2
+    },
     "tibet": {
       "type": "place",
       "label": "Tibet",
@@ -35618,6 +35640,8 @@
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
     "Salvage from the Cynthia": "the-waif-of-the-cynthia",
     "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "thomas-roch": "thomas-roch",
+    "Thomas Roch": "thomas-roch",
     "tibet": "tibet",
     "Tibet": "tibet",
     "ticket-no-9672": "ticket-no-9672",
@@ -35909,6 +35933,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1567,
-  "generated": "2026-07-19T09:58:14Z"
+  "page_count": 1568,
+  "generated": "2026-07-19T10:01:57Z"
 }
