@@ -2746,6 +2746,12 @@
       ],
       "path": "el/elbe.md"
     },
+    "engineer-serko": {
+      "type": "character",
+      "label": "Engineer Serko",
+      "aliases": [],
+      "path": "en/engineer-serko.md"
+    },
     "erik": {
       "type": "character",
       "label": "Erik",
@@ -10860,6 +10866,8 @@
     "elbe": "elbe",
     "Elbe": "elbe",
     "Elbe River": "elbe",
+    "engineer-serko": "engineer-serko",
+    "Engineer Serko": "engineer-serko",
     "erik": "erik",
     "Erik": "erik",
     "Erik Hersebom": "erik",
@@ -12734,6 +12742,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1587,
-  "generated": "2026-07-19T11:34:31Z"
+  "page_count": 1588,
+  "generated": "2026-07-19T11:41:32Z"
 }
