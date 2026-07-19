@@ -18157,7 +18157,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 31
+      "total_refs": 32
     },
     "michel-ardan": {
       "type": "character",
@@ -18204,7 +18204,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "missionary-rescue": {
       "type": "event",
@@ -19618,6 +19618,28 @@
       "book_seq": 265,
       "book": "Master Zacharius",
       "total_refs": 1
+    },
+    "nadia": {
+      "type": "character",
+      "label": "Nadia",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "na/nadia.md",
+      "description": "The young Livonian who journeys across Siberia at Michael Strogoff's side, posing as his sister and later guiding him when he is blinded.",
+      "prose_len": 2022,
+      "prose_chars": 1904,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "nantucket": {
       "type": "place",
@@ -34589,6 +34611,8 @@
     "MZ-ch03": "MZ-ch03",
     "MZ-ch04": "MZ-ch04",
     "MZ-ch05": "MZ-ch05",
+    "nadia": "nadia",
+    "Nadia": "nadia",
     "nantucket": "nantucket",
     "Nantucket": "nantucket",
     "Nantucket Island": "nantucket",
@@ -35621,6 +35645,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1555,
-  "generated": "2026-07-19T09:02:25Z"
+  "page_count": 1556,
+  "generated": "2026-07-19T09:06:28Z"
 }

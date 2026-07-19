@@ -5889,6 +5889,12 @@
       "aliases": [],
       "path": "mz/MZ-ch05.md"
     },
+    "nadia": {
+      "type": "character",
+      "label": "Nadia",
+      "aliases": [],
+      "path": "na/nadia.md"
+    },
     "nantucket": {
       "type": "place",
       "label": "Nantucket",
@@ -11415,6 +11421,8 @@
     "MZ-ch03": "MZ-ch03",
     "MZ-ch04": "MZ-ch04",
     "MZ-ch05": "MZ-ch05",
+    "nadia": "nadia",
+    "Nadia": "nadia",
     "nantucket": "nantucket",
     "Nantucket": "nantucket",
     "Nantucket Island": "nantucket",
@@ -12447,6 +12455,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1555,
-  "generated": "2026-07-19T09:02:25Z"
+  "page_count": 1556,
+  "generated": "2026-07-19T09:05:49Z"
 }
