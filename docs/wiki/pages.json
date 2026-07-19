@@ -13811,6 +13811,28 @@
       "book": "Facing the Flag",
       "total_refs": 3
     },
+    "hector-servadac": {
+      "type": "character",
+      "label": "Hector Servadac",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "science-fiction"
+      ],
+      "path": "he/hector-servadac.md",
+      "description": "The French staff captain of Algeria who, flung into space aboard the fragment Gallia, leads its castaways on a two-year cometary voyage.",
+      "prose_len": 2783,
+      "prose_chars": 2650,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 77,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "herbert": {
       "type": "character",
       "label": "Herbert",
@@ -21543,7 +21565,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 14
+      "total_refs": 15
     },
     "ohio": {
       "type": "place",
@@ -34350,6 +34372,8 @@
     "Le Havre": "havre",
     "healthful-house": "healthful-house",
     "Healthful House": "healthful-house",
+    "hector-servadac": "hector-servadac",
+    "Hector Servadac": "hector-servadac",
     "herbert": "herbert",
     "Herbert": "herbert",
     "Herbert Brown": "herbert",
@@ -34939,7 +34963,6 @@
     "OC-ch45": "OC-ch45",
     "off-on-a-comet": "off-on-a-comet",
     "Off on a Comet": "off-on-a-comet",
-    "Hector Servadac": "off-on-a-comet",
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "ohio": "ohio",
     "Ohio": "ohio",
@@ -35835,6 +35858,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1564,
-  "generated": "2026-07-19T09:43:10Z"
+  "page_count": 1565,
+  "generated": "2026-07-19T09:49:27Z"
 }
