@@ -4873,6 +4873,14 @@
       ],
       "path": "la/lancaster-strait.md"
     },
+    "len-guy": {
+      "type": "character",
+      "label": "Len Guy",
+      "aliases": [
+        "Captain Len Guy"
+      ],
+      "path": "le/len-guy.md"
+    },
     "lena": {
       "type": "place",
       "label": "Lena",
@@ -11270,6 +11278,9 @@
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
+    "len-guy": "len-guy",
+    "Len Guy": "len-guy",
+    "Captain Len Guy": "len-guy",
     "lena": "lena",
     "Lena": "lena",
     "Lena River": "lena",
@@ -12559,6 +12570,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1568,
-  "generated": "2026-07-19T10:01:57Z"
+  "page_count": 1569,
+  "generated": "2026-07-19T10:08:44Z"
 }

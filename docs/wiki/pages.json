@@ -2271,7 +2271,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 6
+      "total_refs": 7
     },
     "andes-earthquake": {
       "type": "event",
@@ -16206,6 +16206,30 @@
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 4
+    },
+    "len-guy": {
+      "type": "character",
+      "label": "Len Guy",
+      "aliases": [
+        "Captain Len Guy"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "le/len-guy.md",
+      "description": "The reserved captain of the schooner Halbrane who sails into the Antarctic to rescue his brother William Guy, lost on Tsalal Island.",
+      "prose_len": 2593,
+      "prose_chars": 2472,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
     },
     "lena": {
       "type": "place",
@@ -34644,6 +34668,9 @@
     "lancaster-strait": "lancaster-strait",
     "Lancaster Strait": "lancaster-strait",
     "Lancaster Straits": "lancaster-strait",
+    "len-guy": "len-guy",
+    "Len Guy": "len-guy",
+    "Captain Len Guy": "len-guy",
     "lena": "lena",
     "Lena": "lena",
     "Lena River": "lena",
@@ -35933,6 +35960,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1568,
-  "generated": "2026-07-19T10:01:57Z"
+  "page_count": 1569,
+  "generated": "2026-07-19T10:10:22Z"
 }
