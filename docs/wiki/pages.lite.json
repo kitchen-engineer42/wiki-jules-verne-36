@@ -9647,6 +9647,15 @@
       ],
       "path": "wr/wreck-of-the-dream.md"
     },
+    "wreck-of-the-pilgrim": {
+      "type": "event",
+      "label": "The Wreck of the Pilgrim",
+      "aliases": [
+        "The Grounding of the Pilgrim",
+        "Dick Sand's Landfall"
+      ],
+      "path": "wr/wreck-of-the-pilgrim.md"
+    },
     "yakutsk": {
       "type": "place",
       "label": "Yakutsk",
@@ -12067,6 +12076,10 @@
     "wreck-of-the-dream": "wreck-of-the-dream",
     "The Wreck of the Dream": "wreck-of-the-dream",
     "The Foundering of the Dream": "wreck-of-the-dream",
+    "wreck-of-the-pilgrim": "wreck-of-the-pilgrim",
+    "The Wreck of the Pilgrim": "wreck-of-the-pilgrim",
+    "The Grounding of the Pilgrim": "wreck-of-the-pilgrim",
+    "Dick Sand's Landfall": "wreck-of-the-pilgrim",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
     "YEAR": "YEAR",
@@ -12079,6 +12092,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1524,
-  "generated": "2026-07-19T05:48:35Z"
+  "page_count": 1525,
+  "generated": "2026-07-19T05:53:33Z"
 }
