@@ -13853,7 +13853,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "Off on a Comet",
-      "total_refs": 1
+      "total_refs": 2
     },
     "herbert": {
       "type": "character",
@@ -21635,7 +21635,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 16
+      "total_refs": 17
     },
     "ohio": {
       "type": "place",
@@ -21799,6 +21799,30 @@
       "affiliation": "Geographical Society of Paris",
       "book": "In Search of the Castaways",
       "total_refs": 4
+    },
+    "palmyrin-rosette": {
+      "type": "character",
+      "label": "Palmyrin Rosette",
+      "aliases": [
+        "Professor Rosette"
+      ],
+      "tags": [
+        "character",
+        "science-fiction",
+        "astronomy"
+      ],
+      "path": "pa/palmyrin-rosette.md",
+      "description": "The irascible astronomer aboard the comet Gallia, Hector Servadac's former tutor, who charts the wandering comet's orbit from his makeshift observatory.",
+      "prose_len": 2450,
+      "prose_chars": 2321,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Off on a Comet",
+      "total_refs": 0
     },
     "pamir": {
       "type": "place",
@@ -35105,6 +35129,9 @@
     "paganel": "paganel",
     "Paganel": "paganel",
     "Jacques Paganel": "paganel",
+    "palmyrin-rosette": "palmyrin-rosette",
+    "Palmyrin Rosette": "palmyrin-rosette",
+    "Professor Rosette": "palmyrin-rosette",
     "pamir": "pamir",
     "Pamir": "pamir",
     "Pamir Plateau": "pamir",
@@ -35987,6 +36014,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1570,
-  "generated": "2026-07-19T10:18:12Z"
+  "page_count": 1571,
+  "generated": "2026-07-19T10:21:37Z"
 }

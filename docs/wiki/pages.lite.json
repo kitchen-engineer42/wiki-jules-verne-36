@@ -6540,6 +6540,14 @@
       ],
       "path": "pa/paganel.md"
     },
+    "palmyrin-rosette": {
+      "type": "character",
+      "label": "Palmyrin Rosette",
+      "aliases": [
+        "Professor Rosette"
+      ],
+      "path": "pa/palmyrin-rosette.md"
+    },
     "pamir": {
       "type": "place",
       "label": "Pamir",
@@ -11699,6 +11707,9 @@
     "paganel": "paganel",
     "Paganel": "paganel",
     "Jacques Paganel": "paganel",
+    "palmyrin-rosette": "palmyrin-rosette",
+    "Palmyrin Rosette": "palmyrin-rosette",
+    "Professor Rosette": "palmyrin-rosette",
     "pamir": "pamir",
     "Pamir": "pamir",
     "Pamir Plateau": "pamir",
@@ -12581,6 +12592,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1570,
-  "generated": "2026-07-19T10:18:12Z"
+  "page_count": 1571,
+  "generated": "2026-07-19T10:21:37Z"
 }
