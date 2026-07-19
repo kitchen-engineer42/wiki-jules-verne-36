@@ -1678,6 +1678,12 @@
       "aliases": [],
       "path": "ca/captain-spade.md"
     },
+    "carefinotu": {
+      "type": "character",
+      "label": "Carefinotu",
+      "aliases": [],
+      "path": "ca/carefinotu.md"
+    },
     "caribbean-sea": {
       "type": "place",
       "label": "Caribbean Sea",
@@ -10681,6 +10687,8 @@
     "Captain Nicholl": "captain-nicholl",
     "captain-spade": "captain-spade",
     "Captain Spade": "captain-spade",
+    "carefinotu": "carefinotu",
+    "Carefinotu": "carefinotu",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
     "carmen": "carmen",
@@ -12867,6 +12875,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1603,
-  "generated": "2026-07-19T12:40:23Z"
+  "page_count": 1604,
+  "generated": "2026-07-19T12:48:30Z"
 }

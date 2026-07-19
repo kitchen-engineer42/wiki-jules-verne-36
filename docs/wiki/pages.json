@@ -5594,6 +5594,27 @@
       "book": "Facing the Flag",
       "total_refs": 0
     },
+    "carefinotu": {
+      "type": "character",
+      "label": "Carefinotu",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ca/carefinotu.md",
+      "description": "The devoted black companion who serves Godfrey as a Man Friday on the desert island, only to be revealed at the climax as the loyal servant Jup Brass playing a part.",
+      "prose_len": 2260,
+      "prose_chars": 2137,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "caribbean-sea": {
       "type": "place",
       "label": "Caribbean Sea",
@@ -13487,7 +13508,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 6
+      "total_refs": 7
     },
     "gondokoro": {
       "type": "place",
@@ -29271,7 +29292,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Godfrey Morgan",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tasmania": {
       "type": "place",
@@ -34620,6 +34641,8 @@
     "Captain Nicholl": "captain-nicholl",
     "captain-spade": "captain-spade",
     "Captain Spade": "captain-spade",
+    "carefinotu": "carefinotu",
+    "Carefinotu": "carefinotu",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
     "carmen": "carmen",
@@ -36806,6 +36829,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1603,
-  "generated": "2026-07-19T12:40:23Z"
+  "page_count": 1604,
+  "generated": "2026-07-19T12:48:30Z"
 }
