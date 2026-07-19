@@ -3552,6 +3552,14 @@
       ],
       "path": "fr/frankfort.md"
     },
+    "fridrikssen": {
+      "type": "character",
+      "label": "M. Fridrikssen",
+      "aliases": [
+        "Fridrikssen"
+      ],
+      "path": "fr/fridrikssen.md"
+    },
     "from-the-earth-to-the-moon": {
       "type": "work",
       "label": "From the Earth to the Moon",
@@ -11233,6 +11241,9 @@
     "Frankfort": "frankfort",
     "Frankfort-on-the-Main": "frankfort",
     "Frankfurt": "frankfort",
+    "fridrikssen": "fridrikssen",
+    "M. Fridrikssen": "fridrikssen",
+    "Fridrikssen": "fridrikssen",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "frycollin": "frycollin",
@@ -12985,6 +12996,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1617,
-  "generated": "2026-07-19T13:44:26Z"
+  "page_count": 1618,
+  "generated": "2026-07-19T13:49:03Z"
 }
