@@ -14368,7 +14368,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "jacamar-wood": {
       "type": "place",
@@ -16594,6 +16594,27 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "marfa-strogoff": {
+      "type": "character",
+      "label": "Marfa Strogoff",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ma/marfa-strogoff.md",
+      "description": "Michael Strogoff's aged mother, who denies knowing her son in public to protect his secret mission across Siberia.",
+      "prose_len": 2173,
+      "prose_chars": 2047,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "marseilles": {
       "type": "place",
       "label": "Marseilles",
@@ -18180,7 +18201,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 33
+      "total_refs": 34
     },
     "michel-ardan": {
       "type": "character",
@@ -18227,7 +18248,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 2
+      "total_refs": 3
     },
     "missionary-rescue": {
       "type": "event",
@@ -19662,7 +19683,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nantucket": {
       "type": "place",
@@ -34448,6 +34469,8 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marfa-strogoff": "marfa-strogoff",
+    "Marfa Strogoff": "marfa-strogoff",
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
@@ -35671,6 +35694,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1557,
-  "generated": "2026-07-19T09:09:32Z"
+  "page_count": 1558,
+  "generated": "2026-07-19T09:17:15Z"
 }

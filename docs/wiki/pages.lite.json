@@ -4989,6 +4989,12 @@
       ],
       "path": "ma/mandible-cape.md"
     },
+    "marfa-strogoff": {
+      "type": "character",
+      "label": "Marfa Strogoff",
+      "aliases": [],
+      "path": "ma/marfa-strogoff.md"
+    },
     "marseilles": {
       "type": "place",
       "label": "Marseilles",
@@ -11243,6 +11249,8 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "marfa-strogoff": "marfa-strogoff",
+    "Marfa Strogoff": "marfa-strogoff",
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
@@ -12466,6 +12474,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1557,
-  "generated": "2026-07-19T09:09:32Z"
+  "page_count": 1558,
+  "generated": "2026-07-19T09:16:49Z"
 }
