@@ -906,3 +906,11 @@
 <!-- [character] R307 建序 54 pencroft（Pencroft）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 直率能干之水手，Lincoln 岛五殖民者之一、造船开垦主力 ｜ MI 61 / SI 20 ｜ dup-check ABSENT ｜ ✔ R311 built rev umpBbQ -->
 <!-- [character] R307 建序 55 herbert（Herbert Brown）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 少年博物学徒，Pencroft 义子、Lincoln 岛殖民者，中弹濒死获救 ｜ MI 61 / SI 20 ｜ dup-check ABSENT（herbert/herbert-brown）｜ ✔ R312 built rev OEF6NH -->
 <!-- [character] R307 建序 56 paganel（Jacques Paganel）｜ book: In Search of the Castaways ｜ pn_anchor: SC-006 ｜ 心不在焉之法国地理学会秘书，误登 Duncan 号成环球探险要角 ｜ SC 61 章复现 ｜ dup-check ABSENT（paganel/jacques-paganel）｜ ✔ R313 built rev tWLpuI（R307 队列末位消费尽，queue→0，R314 触发 zombie re-scan）-->
+
+<!-- ===== R314 SCN28-zombie discover（queue(character)==0 触发 §3(3)/§3(4)）：R307 首批 51-56 全消费尽，第二批 exhaustive re-scan 掘 6 候选建序 57-62。character 池仍充沛（估 ~180-240，现 21 页）。选取标准：语料 count 高、first-appearance 章明确、filesystem+registry 双查 ABSENT。new_candidates=6≥type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。since_discover 归 0。 ===== -->
+<!-- [character] R314 建序 57 neb（Neb）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ Cyrus Harding 之忠仆、Lincoln 岛第五殖民者，寻主不懈 ｜ MI count 453 ｜ dup-check ABSENT（neb/nab）-->
+<!-- [character] R314 建序 58 gideon-spilett（Gideon Spilett）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 战地记者、Lincoln 岛殖民者，冷静善射兼医护 ｜ MI count 452 ｜ dup-check ABSENT（gideon-spilett/spilett）-->
+<!-- [character] R314 建序 59 negoro（Negoro）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-002 ｜ role=antagonist：阴险葡籍船厨，篡改罗盘诱船入非洲之反派 ｜ DSCF count 274 ｜ dup-check ABSENT -->
+<!-- [character] R314 建序 60 hercules（Hercules）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-004 ｜ 力大无穷之黑人获救者，忠勇护主 ｜ DSCF count 203 ｜ dup-check ABSENT -->
+<!-- [character] R314 建序 61 glenarvan（Lord Glenarvan）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ Duncan 号船主、寻 Grant 船长探险队领袖 ｜ SC count 1013 ｜ dup-check ABSENT -->
+<!-- [character] R314 建序 62 michel-strogoff（Michel Strogoff）｜ book: Michel Strogoff ｜ pn_anchor: MS-004 ｜ role=protagonist：沙皇信使，穿越西伯利亚送密令之主角 ｜ MS count 289 ｜ dup-check ABSENT -->
