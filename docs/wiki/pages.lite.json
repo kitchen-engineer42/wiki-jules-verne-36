@@ -1710,6 +1710,15 @@
       "aliases": [],
       "path": "ch/china.md"
     },
+    "christiania-lottery-drawing": {
+      "type": "event",
+      "label": "The Christiania Lottery Drawing",
+      "aliases": [
+        "The Drawing of the Great Lottery",
+        "Ole Kamp's Return"
+      ],
+      "path": "ch/christiania-lottery-drawing.md"
+    },
     "christiania": {
       "type": "place",
       "label": "Christiania",
@@ -10040,6 +10049,10 @@
     "Chile": "chili",
     "china": "china",
     "China": "china",
+    "christiania-lottery-drawing": "christiania-lottery-drawing",
+    "The Christiania Lottery Drawing": "christiania-lottery-drawing",
+    "The Drawing of the Great Lottery": "christiania-lottery-drawing",
+    "Ole Kamp's Return": "christiania-lottery-drawing",
     "christiania": "christiania",
     "Christiania": "christiania",
     "Oslo": "christiania",
@@ -11962,6 +11975,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1515,
-  "generated": "2026-07-19T04:42:47Z"
+  "page_count": 1516,
+  "generated": "2026-07-19T04:45:13Z"
 }

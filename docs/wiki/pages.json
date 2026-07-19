@@ -5713,6 +5713,31 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 4
     },
+    "christiania-lottery-drawing": {
+      "type": "event",
+      "label": "The Christiania Lottery Drawing",
+      "aliases": [
+        "The Drawing of the Great Lottery",
+        "Ole Kamp's Return"
+      ],
+      "tags": [
+        "event",
+        "lottery",
+        "reunion",
+        "norway"
+      ],
+      "path": "ch/christiania-lottery-drawing.md",
+      "prose_len": 2246,
+      "prose_chars": 2117,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "christiania": {
       "type": "place",
       "label": "Christiania",
@@ -28012,7 +28037,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 8
+      "total_refs": 9
     },
     "tiflis": {
       "type": "place",
@@ -32567,6 +32592,10 @@
     "Chile": "chili",
     "china": "china",
     "China": "china",
+    "christiania-lottery-drawing": "christiania-lottery-drawing",
+    "The Christiania Lottery Drawing": "christiania-lottery-drawing",
+    "The Drawing of the Great Lottery": "christiania-lottery-drawing",
+    "Ole Kamp's Return": "christiania-lottery-drawing",
     "christiania": "christiania",
     "Christiania": "christiania",
     "Oslo": "christiania",
@@ -34489,6 +34518,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1515,
-  "generated": "2026-07-19T04:42:47Z"
+  "page_count": 1516,
+  "generated": "2026-07-19T04:45:13Z"
 }
