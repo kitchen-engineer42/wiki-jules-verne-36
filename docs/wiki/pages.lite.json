@@ -433,6 +433,12 @@
       ],
       "path": "al/albatross.md"
     },
+    "alcide-jolivet": {
+      "type": "character",
+      "label": "Alcide Jolivet",
+      "aliases": [],
+      "path": "al/alcide-jolivet.md"
+    },
     "aleutian-islands": {
       "type": "place",
       "label": "Aleutian Islands",
@@ -10052,6 +10058,8 @@
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
+    "alcide-jolivet": "alcide-jolivet",
+    "Alcide Jolivet": "alcide-jolivet",
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
@@ -12474,6 +12482,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1558,
-  "generated": "2026-07-19T09:16:49Z"
+  "page_count": 1559,
+  "generated": "2026-07-19T09:19:55Z"
 }

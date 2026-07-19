@@ -1421,6 +1421,27 @@
       "book": "Robur the Conqueror",
       "total_refs": 42
     },
+    "alcide-jolivet": {
+      "type": "character",
+      "label": "Alcide Jolivet",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "al/alcide-jolivet.md",
+      "description": "The witty French war correspondent who reports the Tartar invasion, telegraphing his dispatches to an imaginary cousin.",
+      "prose_len": 1936,
+      "prose_chars": 1813,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "aleutian-islands": {
       "type": "place",
       "label": "Aleutian Islands",
@@ -18201,7 +18222,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 34
+      "total_refs": 35
     },
     "michel-ardan": {
       "type": "character",
@@ -18248,7 +18269,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 3
+      "total_refs": 4
     },
     "missionary-rescue": {
       "type": "event",
@@ -33272,6 +33293,8 @@
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
+    "alcide-jolivet": "alcide-jolivet",
+    "Alcide Jolivet": "alcide-jolivet",
     "aleutian-islands": "aleutian-islands",
     "Aleutian Islands": "aleutian-islands",
     "Aleutian Isles": "aleutian-islands",
@@ -35694,6 +35717,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1558,
-  "generated": "2026-07-19T09:17:15Z"
+  "page_count": 1559,
+  "generated": "2026-07-19T09:20:39Z"
 }
