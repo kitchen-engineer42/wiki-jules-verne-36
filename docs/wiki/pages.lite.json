@@ -6575,6 +6575,14 @@
       "aliases": [],
       "path": "pa/patagonia.md"
     },
+    "paulina-barnett": {
+      "type": "character",
+      "label": "Paulina Barnett",
+      "aliases": [
+        "Mrs Paulina Barnett"
+      ],
+      "path": "pa/paulina-barnett.md"
+    },
     "peak-of-teneriffe": {
       "type": "place",
       "label": "Peak of Teneriffe",
@@ -11704,6 +11712,9 @@
     "Jean Passepartout": "passepartout",
     "patagonia": "patagonia",
     "Patagonia": "patagonia",
+    "paulina-barnett": "paulina-barnett",
+    "Paulina Barnett": "paulina-barnett",
+    "Mrs Paulina Barnett": "paulina-barnett",
     "peak-of-teneriffe": "peak-of-teneriffe",
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
@@ -12570,6 +12581,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1569,
-  "generated": "2026-07-19T10:08:44Z"
+  "page_count": 1570,
+  "generated": "2026-07-19T10:18:12Z"
 }

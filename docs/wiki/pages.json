@@ -16326,7 +16326,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -21916,6 +21916,30 @@
       "quality_score": 64,
       "book": "In Search of the Castaways",
       "total_refs": 4
+    },
+    "paulina-barnett": {
+      "type": "character",
+      "label": "Paulina Barnett",
+      "aliases": [
+        "Mrs Paulina Barnett"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "pa/paulina-barnett.md",
+      "description": "The celebrated lady traveller and Royal Society laureate who joins Jaspar Hobson's Hudson's Bay expedition to the Arctic and endures the drift of Fort Hope's ice-island.",
+      "prose_len": 2644,
+      "prose_chars": 2513,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "The Fur Country",
+      "total_refs": 3
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -28900,7 +28924,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 17
+      "total_refs": 18
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -35094,6 +35118,9 @@
     "Jean Passepartout": "passepartout",
     "patagonia": "patagonia",
     "Patagonia": "patagonia",
+    "paulina-barnett": "paulina-barnett",
+    "Paulina Barnett": "paulina-barnett",
+    "Mrs Paulina Barnett": "paulina-barnett",
     "peak-of-teneriffe": "peak-of-teneriffe",
     "Peak of Teneriffe": "peak-of-teneriffe",
     "Teneriffe": "peak-of-teneriffe",
@@ -35960,6 +35987,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1569,
-  "generated": "2026-07-19T10:10:22Z"
+  "page_count": 1570,
+  "generated": "2026-07-19T10:18:12Z"
 }
