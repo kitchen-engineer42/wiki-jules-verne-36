@@ -6339,6 +6339,31 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "death-of-martin-paz": {
+      "type": "event",
+      "label": "The Death of Martin Paz",
+      "aliases": [
+        "Martin Paz's Sacrifice",
+        "The Rescue at the Madeira Cataract"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "rescue",
+        "tragedy"
+      ],
+      "path": "de/death-of-martin-paz.md",
+      "prose_len": 2284,
+      "prose_chars": 2163,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Pearl of Lima",
+      "total_refs": 0
+    },
     "death-of-master-zacharius": {
       "type": "event",
       "label": "The Death of Master Zacharius",
@@ -27830,7 +27855,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 80,
-      "total_refs": 2
+      "total_refs": 3
     },
     "the-sword": {
       "type": "technology",
@@ -32606,6 +32631,10 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "death-of-martin-paz": "death-of-martin-paz",
+    "The Death of Martin Paz": "death-of-martin-paz",
+    "Martin Paz's Sacrifice": "death-of-martin-paz",
+    "The Rescue at the Madeira Cataract": "death-of-martin-paz",
     "death-of-master-zacharius": "death-of-master-zacharius",
     "The Death of Master Zacharius": "death-of-master-zacharius",
     "The Damnation of Master Zacharius": "death-of-master-zacharius",
@@ -34460,6 +34489,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1514,
-  "generated": "2026-07-19T04:34:36Z"
+  "page_count": 1515,
+  "generated": "2026-07-19T04:42:47Z"
 }
