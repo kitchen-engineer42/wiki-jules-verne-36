@@ -12571,7 +12571,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14045,7 +14045,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 33
+      "total_refs": 34
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16571,6 +16571,28 @@
       "quality": "featured",
       "quality_score": 61,
       "book": "A Journey to the Center of the Earth",
+      "total_refs": 0
+    },
+    "mary-grant": {
+      "type": "character",
+      "label": "Mary Grant",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ma/mary-grant.md",
+      "description": "The daughter of the lost Captain Grant, who joins the Duncan's voyage in search of her shipwrecked father.",
+      "prose_len": 2164,
+      "prose_chars": 2041,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "maryland": {
@@ -34313,6 +34335,8 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "mary-grant": "mary-grant",
+    "Mary Grant": "mary-grant",
     "maryland": "maryland",
     "Maryland": "maryland",
     "State of Maryland": "maryland",
@@ -35525,6 +35549,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1551,
-  "generated": "2026-07-19T08:47:14Z"
+  "page_count": 1552,
+  "generated": "2026-07-19T08:53:39Z"
 }

@@ -4983,6 +4983,12 @@
       ],
       "path": "ma/marseilles.md"
     },
+    "mary-grant": {
+      "type": "character",
+      "label": "Mary Grant",
+      "aliases": [],
+      "path": "ma/mary-grant.md"
+    },
     "maryland": {
       "type": "place",
       "label": "Maryland",
@@ -11203,6 +11209,8 @@
     "marseilles": "marseilles",
     "Marseilles": "marseilles",
     "Marseille": "marseilles",
+    "mary-grant": "mary-grant",
+    "Mary Grant": "mary-grant",
     "maryland": "maryland",
     "Maryland": "maryland",
     "State of Maryland": "maryland",
@@ -12415,6 +12423,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1551,
-  "generated": "2026-07-19T08:47:14Z"
+  "page_count": 1552,
+  "generated": "2026-07-19T08:53:39Z"
 }
