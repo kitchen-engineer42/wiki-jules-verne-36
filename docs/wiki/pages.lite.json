@@ -1713,6 +1713,14 @@
       "aliases": [],
       "path": "co/columbiad.md"
     },
+    "comet-collision": {
+      "type": "event",
+      "label": "The Comet's Collision",
+      "aliases": [
+        "The Birth of Gallia"
+      ],
+      "path": "co/comet-collision.md"
+    },
     "concepcion": {
       "type": "place",
       "label": "Concepcion",
@@ -9848,6 +9856,9 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "comet-collision": "comet-collision",
+    "The Comet's Collision": "comet-collision",
+    "The Birth of Gallia": "comet-collision",
     "concepcion": "concepcion",
     "Concepcion": "concepcion",
     "congo": "congo",
@@ -11695,6 +11706,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1492,
-  "generated": "2026-07-19T02:49:21Z"
+  "page_count": 1493,
+  "generated": "2026-07-19T02:52:16Z"
 }

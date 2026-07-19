@@ -5752,6 +5752,30 @@
       "book": "From the Earth to the Moon",
       "total_refs": 47
     },
+    "comet-collision": {
+      "type": "event",
+      "label": "The Comet's Collision",
+      "aliases": [
+        "The Birth of Gallia"
+      ],
+      "tags": [
+        "event",
+        "science-fiction",
+        "catastrophe"
+      ],
+      "path": "co/comet-collision.md",
+      "description": "A wandering comet grazes the Earth on New Year's night, tearing away a fragment of the globe that carries a band of survivors into space as the new world Gallia.",
+      "prose_len": 2161,
+      "prose_chars": 2044,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "concepcion": {
       "type": "place",
       "label": "Concepcion",
@@ -11788,7 +11812,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "Off on a Comet",
-      "total_refs": 1
+      "total_refs": 2
     },
     "gallian-sea": {
       "type": "place",
@@ -20394,7 +20418,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 12
+      "total_refs": 13
     },
     "ohio": {
       "type": "place",
@@ -32001,6 +32025,9 @@
     "Launch of the Projectile": "columbiad-launch",
     "columbiad": "columbiad",
     "Columbiad": "columbiad",
+    "comet-collision": "comet-collision",
+    "The Comet's Collision": "comet-collision",
+    "The Birth of Gallia": "comet-collision",
     "concepcion": "concepcion",
     "Concepcion": "concepcion",
     "congo": "congo",
@@ -33848,6 +33875,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1492,
-  "generated": "2026-07-19T02:49:21Z"
+  "page_count": 1493,
+  "generated": "2026-07-19T02:52:16Z"
 }
