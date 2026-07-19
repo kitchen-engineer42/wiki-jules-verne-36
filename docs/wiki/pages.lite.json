@@ -3197,6 +3197,15 @@
       "aliases": [],
       "path": "ff/FF-ch18.md"
     },
+    "finding-of-louis-cornbutte": {
+      "type": "event",
+      "label": "The Finding of Louis Cornbutte",
+      "aliases": [
+        "The Rescue at Shannon Island",
+        "The Finding of the Jeune-Hardie Castaways"
+      ],
+      "path": "fi/finding-of-louis-cornbutte.md"
+    },
     "firth-of-clyde": {
       "type": "place",
       "label": "Firth of Clyde",
@@ -10332,6 +10341,10 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "finding-of-louis-cornbutte": "finding-of-louis-cornbutte",
+    "The Finding of Louis Cornbutte": "finding-of-louis-cornbutte",
+    "The Rescue at Shannon Island": "finding-of-louis-cornbutte",
+    "The Finding of the Jeune-Hardie Castaways": "finding-of-louis-cornbutte",
     "firth-of-clyde": "firth-of-clyde",
     "Firth of Clyde": "firth-of-clyde",
     "five-weeks-in-a-balloon": "five-weeks-in-a-balloon",
@@ -11923,6 +11936,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1512,
-  "generated": "2026-07-19T04:27:44Z"
+  "page_count": 1513,
+  "generated": "2026-07-19T04:31:35Z"
 }

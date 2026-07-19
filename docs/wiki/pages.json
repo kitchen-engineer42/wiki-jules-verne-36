@@ -3933,7 +3933,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 1
+      "total_refs": 2
     },
     "axel": {
       "type": "character",
@@ -10669,6 +10669,31 @@
       "book_seq": 405,
       "book": "Facing the Flag",
       "total_refs": 1
+    },
+    "finding-of-louis-cornbutte": {
+      "type": "event",
+      "label": "The Finding of Louis Cornbutte",
+      "aliases": [
+        "The Rescue at Shannon Island",
+        "The Finding of the Jeune-Hardie Castaways"
+      ],
+      "tags": [
+        "event",
+        "rescue",
+        "arctic",
+        "exploration"
+      ],
+      "path": "fi/finding-of-louis-cornbutte.md",
+      "prose_len": 2542,
+      "prose_chars": 2414,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "A Winter Amid the Ice",
+      "total_refs": 0
     },
     "firth-of-clyde": {
       "type": "place",
@@ -32811,6 +32836,10 @@
     "FF-ch16": "FF-ch16",
     "FF-ch17": "FF-ch17",
     "FF-ch18": "FF-ch18",
+    "finding-of-louis-cornbutte": "finding-of-louis-cornbutte",
+    "The Finding of Louis Cornbutte": "finding-of-louis-cornbutte",
+    "The Rescue at Shannon Island": "finding-of-louis-cornbutte",
+    "The Finding of the Jeune-Hardie Castaways": "finding-of-louis-cornbutte",
     "firth-of-clyde": "firth-of-clyde",
     "Firth of Clyde": "firth-of-clyde",
     "five-weeks-in-a-balloon": "five-weeks-in-a-balloon",
@@ -34402,6 +34431,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1512,
-  "generated": "2026-07-19T04:27:44Z"
+  "page_count": 1513,
+  "generated": "2026-07-19T04:31:35Z"
 }

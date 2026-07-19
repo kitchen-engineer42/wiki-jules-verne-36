@@ -828,7 +828,7 @@
 
 <!-- ===== R262 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)）：3 net-new 候选，取自 DOSE/WAI/MZ 三部未覆盖作品 ===== -->
 <!-- [event] ✔ R263 已建 quiquendone-frenzy（rev t9xkc2，featured，pn_anchor DOSE-015）建序 22 ｜ 9 distinct PN：DOSE-017-002/003 + DOSE-014-002 + DOSE-013-016 + DOSE-015-002/006/007 + DOSE-016-002 + DOSE-017-006 ｜ RFC-0003 Note 已加（DOSE 4-char）｜ *[[doctor-oxs-experiment]]* 链回工作页 -->
-<!-- [event] The Finding of Louis Cornbutte — finding-of-louis-cornbutte 待建（Winter Amid the Ice；pn_anchor WAI-011 Jean Cornbutte 北极搜寻队于雪屋寻得失踪之子 Louis 与 Jeune-Hardie 幸存者；WAI-011-024/037/041/045/049/050）建序 23 ｜ WAI 3-char 无需 Note ｜ 建时核寻获幸存者单指、剔前段搜寻航程泛述 -->
+<!-- [event] ✔ R264 已建 finding-of-louis-cornbutte（rev xdAaRD，featured）建序 23 ｜ **锚由 queue 记 WAI-011（雪屋前段、终以死者 Courtois 绝望）精修为 WAI-012（Louis 生还现身 WAI-012-003）**｜ 8 distinct PN：WAI-011-024/035/039/045 + WAI-012-003/007/014/015 ｜ WAI 3-char 无需 Note ｜ 工作页 a-winter-amid-the-ice 链回 -->
 <!-- [event] The Death of Master Zacharius — death-of-master-zacharius 待建（Master Zacharius；pn_anchor MZ-005 老钟匠末座大钟迸裂、Pittonaccio 攫其魂、殁于 Andernatt 峰间；MZ-005-081/084/095/103/106/107/115/117/120）建序 24 ｜ MZ 2-char 无需 Note ｜ 建时核钟毁人亡单指、剔前段钟表失灵泛述 -->
 <!-- R262 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 DOSE/WAI/MZ 三部零 event 覆盖作品；仍余 ASC/PL/TN/DA/SC/SC2/VB/DSCF 等零 event 作品可续掘。三候选 exact-slug 全 ABSENT（quiquendone-frenzy/finding-of-louis-cornbutte/death-of-master-zacharius 及变体）。 -->
 
