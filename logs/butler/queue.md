@@ -791,7 +791,7 @@
 <!-- [event] South Pole Attained — south-pole-attained ✔ 建 R234 rev N6Oncm（TTLU；Nemo 抵南极点植旗；9 PN）建序 1 -->
 <!-- [event] The Drifting Ice-Island — ice-island-drift ✔ 建 R235 rev A3skN9（FC；Cape Bathurst 半岛断裂成浮岛 Victoria Island 漂流；8 PN）建序 2 -->
 <!-- [event] The Comet's Collision — comet-collision ✔ 建 R236 rev SxkeJV（Off on a Comet；彗星撞地析出 Gallia；8 PN）建序 3 -->
-<!-- [event] The Forward Mutiny — forward-mutiny 待建（ACH；Forward 号船员哗变、弃船焚船；"the Forward" 10 PN + mutiny 语境）建序 4 -->
+<!-- [event] The Forward Mutiny — forward-mutiny ✔ 建 R237 rev 4HfYgZ（ACH；Forward 号哗变焚船；8 PN）建序 4 —— R233 event 队列 4 候选全消费 -->
 <!-- R234+ 建序：South Pole Attained → Drifting Ice-Island → Comet's Collision → Forward Mutiny（4 项）。每项建时须先 gather 事件锚点、逐句核单指、抽 ≥5 solid PN，pn_anchor 定于事件中心段。event-schema：四 H2 + 专属字段 book/location/pn_anchor。 -->
 
 

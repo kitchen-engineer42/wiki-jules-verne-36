@@ -3238,6 +3238,14 @@
       "aliases": [],
       "path": "fo/fort-sumter.md"
     },
+    "forward-mutiny": {
+      "type": "event",
+      "label": "The Forward Mutiny",
+      "aliases": [
+        "The Burning of the Forward"
+      ],
+      "path": "fo/forward-mutiny.md"
+    },
     "frankfort": {
       "type": "place",
       "label": "Frankfort",
@@ -10188,6 +10196,9 @@
     "Fort Reliance": "fort-reliance",
     "fort-sumter": "fort-sumter",
     "Fort Sumter": "fort-sumter",
+    "forward-mutiny": "forward-mutiny",
+    "The Forward Mutiny": "forward-mutiny",
+    "The Burning of the Forward": "forward-mutiny",
     "frankfort": "frankfort",
     "Frankfort": "frankfort",
     "Frankfort-on-the-Main": "frankfort",
@@ -11706,6 +11717,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1493,
-  "generated": "2026-07-19T02:52:16Z"
+  "page_count": 1494,
+  "generated": "2026-07-19T02:54:50Z"
 }

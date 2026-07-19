@@ -5262,7 +5262,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 15
+      "total_refs": 16
     },
     "captain-nemo": {
       "type": "character",
@@ -10836,6 +10836,31 @@
       "quality_score": 65,
       "book": "The Blockade Runners",
       "total_refs": 3
+    },
+    "forward-mutiny": {
+      "type": "event",
+      "label": "The Forward Mutiny",
+      "aliases": [
+        "The Burning of the Forward"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "arctic",
+        "mutiny"
+      ],
+      "path": "fo/forward-mutiny.md",
+      "description": "While Captain Hatteras is away from the icebound brig, his second-in-command leads the crew in revolt, abandoning their captain and destroying the ship by fire.",
+      "prose_len": 2251,
+      "prose_chars": 1978,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 9,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "frankfort": {
       "type": "place",
@@ -27163,7 +27188,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 16
+      "total_refs": 17
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -27264,7 +27289,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 11
+      "total_refs": 12
     },
     "the-fur-country": {
       "type": "work",
@@ -32357,6 +32382,9 @@
     "Fort Reliance": "fort-reliance",
     "fort-sumter": "fort-sumter",
     "Fort Sumter": "fort-sumter",
+    "forward-mutiny": "forward-mutiny",
+    "The Forward Mutiny": "forward-mutiny",
+    "The Burning of the Forward": "forward-mutiny",
     "frankfort": "frankfort",
     "Frankfort": "frankfort",
     "Frankfort-on-the-Main": "frankfort",
@@ -33875,6 +33903,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1493,
-  "generated": "2026-07-19T02:52:16Z"
+  "page_count": 1494,
+  "generated": "2026-07-19T02:54:50Z"
 }
