@@ -4002,7 +4002,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "baffin-bay": {
       "type": "place",
@@ -6462,6 +6462,31 @@
       "book": "Topsy-Turvy",
       "total_refs": 1
     },
+    "destruction-of-back-cup": {
+      "type": "event",
+      "label": "The Destruction of Back Cup",
+      "aliases": [
+        "The Fall of Back Cup",
+        "The End of Ker Karraje"
+      ],
+      "tags": [
+        "event",
+        "war",
+        "naval",
+        "explosion"
+      ],
+      "path": "de/destruction-of-back-cup.md",
+      "prose_len": 2623,
+      "prose_chars": 2498,
+      "h2_count": 4,
+      "pn_count": 11,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "destruction-of-lincoln-island": {
       "type": "event",
       "label": "Destruction of Lincoln Island",
@@ -8836,7 +8861,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 1
+      "total_refs": 2
     },
     "falkland-islands": {
       "type": "place",
@@ -32824,6 +32849,10 @@
     "The Bursting of the Last Clock": "death-of-master-zacharius",
     "denmark": "denmark",
     "Denmark": "denmark",
+    "destruction-of-back-cup": "destruction-of-back-cup",
+    "The Destruction of Back Cup": "destruction-of-back-cup",
+    "The Fall of Back Cup": "destruction-of-back-cup",
+    "The End of Ker Karraje": "destruction-of-back-cup",
     "destruction-of-lincoln-island": "destruction-of-lincoln-island",
     "Destruction of Lincoln Island": "destruction-of-lincoln-island",
     "The Explosion of Lincoln Island": "destruction-of-lincoln-island",
@@ -34692,6 +34721,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1522,
-  "generated": "2026-07-19T05:35:21Z"
+  "page_count": 1523,
+  "generated": "2026-07-19T05:43:06Z"
 }
