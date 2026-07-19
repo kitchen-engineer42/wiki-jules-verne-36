@@ -17327,7 +17327,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 28
+      "total_refs": 29
     },
     "michel-ardan": {
       "type": "character",
@@ -26729,6 +26729,30 @@
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
+    "strogoff-blinding": {
+      "type": "event",
+      "label": "The Blinding of Michael Strogoff",
+      "aliases": [
+        "The Sentence of Feofar-Khan"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "tartar"
+      ],
+      "path": "st/strogoff-blinding.md",
+      "description": "Condemned as a spy by the Tartar Emir, the Tsar's courier is sentenced to be blinded by a white-hot blade passed before his eyes at Tomsk.",
+      "prose_len": 1836,
+      "prose_chars": 1714,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "stromboli-eruption-return": {
       "type": "event",
       "label": "The Stromboli Eruption",
@@ -28129,7 +28153,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Michael Strogoff",
-      "total_refs": 9
+      "total_refs": 10
     },
     "top": {
       "type": "character",
@@ -33539,6 +33563,9 @@
     "strait-of-magellan": "strait-of-magellan",
     "Strait of Magellan": "strait-of-magellan",
     "Straits of Magellan": "strait-of-magellan",
+    "strogoff-blinding": "strogoff-blinding",
+    "The Blinding of Michael Strogoff": "strogoff-blinding",
+    "The Sentence of Feofar-Khan": "strogoff-blinding",
     "stromboli-eruption-return": "stromboli-eruption-return",
     "The Stromboli Eruption": "stromboli-eruption-return",
     "Return by Volcano": "stromboli-eruption-return",
@@ -33903,6 +33930,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1494,
-  "generated": "2026-07-19T02:54:50Z"
+  "page_count": 1495,
+  "generated": "2026-07-19T02:59:39Z"
 }

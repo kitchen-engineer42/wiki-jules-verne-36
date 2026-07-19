@@ -795,7 +795,7 @@
 <!-- R234+ 建序：South Pole Attained → Drifting Ice-Island → Comet's Collision → Forward Mutiny（4 项）。每项建时须先 gather 事件锚点、逐句核单指、抽 ≥5 solid PN，pn_anchor 定于事件中心段。event-schema：四 H2 + 专属字段 book/location/pn_anchor。 -->
 
 <!-- ===== R238 SCN28-zombie event discover（首轮 event 复评）：播种 4 net-new 事件候选（皆非既有 19 event，exact-slug ABSENT）===== -->
-<!-- [event] The Blinding of Michael Strogoff — strogoff-blinding 待建（Michael Strogoff；MS-024 Tartar 以炽刃掠目致盲；"blinded" MS 4 + MS-024-041/049）建序 5 ｜ 4-char? MS=2-char，无需 RFC-0003 Note -->
+<!-- [event] The Blinding of Michael Strogoff — strogoff-blinding ✔ 建 R239 rev z92OUT（Michael Strogoff；MS-024 炽刃掠目、泪水逆转；8 PN）建序 5 -->
 <!-- [event] The Andes Earthquake — andes-earthquake 待建（In Search of the Castaways；SC-012 安第斯地震毁道、region overturned；"earthquake" SC 多 PN）建序 6 -->
 <!-- [event] The Condor Abduction — condor-abduction 待建（In Search of the Castaways；SC-014 秃鹰掠走 Robert Grant；"condor" SC 12 PN）建序 7 ｜ 建时核 condor 掠人单指 -->
 <!-- [event] The Missionary's Rescue — missionary-rescue 待建（Five Weeks in a Balloon；FWB-021/022 气球队救濒死法国传教士；"missionary" FWB 16 PN）建序 8 -->
