@@ -2148,7 +2148,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 8
+      "total_refs": 9
     },
     "amazonas-province": {
       "type": "place",
@@ -6973,6 +6973,29 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
+    "drawing-lots-on-the-raft": {
+      "type": "event",
+      "label": "The Drawing of Lots on the Raft",
+      "aliases": [
+        "The Raft of the Chancellor",
+        "The Chancellor Castaways"
+      ],
+      "tags": [
+        "event",
+        "shipwreck",
+        "survival",
+        "cannibalism"
+      ],
+      "path": "dr/drawing-lots-on-the-raft.md",
+      "prose_len": 3157,
+      "prose_chars": 3022,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "book": "The Survivors of the Chancellor",
       "total_refs": 0
     },
     "dream-bay": {
@@ -27411,7 +27434,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 4
+      "total_refs": 5
     },
     "sweden": {
       "type": "place",
@@ -32890,6 +32913,10 @@
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
     "douchak": "douchak",
     "Douchak": "douchak",
+    "drawing-lots-on-the-raft": "drawing-lots-on-the-raft",
+    "The Drawing of Lots on the Raft": "drawing-lots-on-the-raft",
+    "The Raft of the Chancellor": "drawing-lots-on-the-raft",
+    "The Chancellor Castaways": "drawing-lots-on-the-raft",
     "dream-bay": "dream-bay",
     "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
@@ -34721,6 +34748,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1523,
-  "generated": "2026-07-19T05:43:06Z"
+  "page_count": 1524,
+  "generated": "2026-07-19T05:49:50Z"
 }

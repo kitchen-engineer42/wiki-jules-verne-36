@@ -2095,6 +2095,15 @@
       "aliases": [],
       "path": "do/douchak.md"
     },
+    "drawing-lots-on-the-raft": {
+      "type": "event",
+      "label": "The Drawing of Lots on the Raft",
+      "aliases": [
+        "The Raft of the Chancellor",
+        "The Chancellor Castaways"
+      ],
+      "path": "dr/drawing-lots-on-the-raft.md"
+    },
     "dream-bay": {
       "type": "place",
       "label": "Dream Bay",
@@ -10235,6 +10244,10 @@
     "A Fantasy of Doctor Ox": "doctor-oxs-experiment",
     "douchak": "douchak",
     "Douchak": "douchak",
+    "drawing-lots-on-the-raft": "drawing-lots-on-the-raft",
+    "The Drawing of Lots on the Raft": "drawing-lots-on-the-raft",
+    "The Raft of the Chancellor": "drawing-lots-on-the-raft",
+    "The Chancellor Castaways": "drawing-lots-on-the-raft",
     "dream-bay": "dream-bay",
     "Dream Bay": "dream-bay",
     "DSCF-ch01": "DSCF-ch01",
@@ -12066,6 +12079,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1523,
-  "generated": "2026-07-19T05:43:06Z"
+  "page_count": 1524,
+  "generated": "2026-07-19T05:48:35Z"
 }
