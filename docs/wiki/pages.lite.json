@@ -1339,6 +1339,12 @@
       "aliases": [],
       "path": "be/bellot-strait.md"
     },
+    "ben-zoof": {
+      "type": "character",
+      "label": "Ben Zoof",
+      "aliases": [],
+      "path": "be/ben-zoof.md"
+    },
     "benares": {
       "type": "place",
       "label": "Benares",
@@ -10324,6 +10330,8 @@
     "Belgium": "belgium",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
+    "ben-zoof": "ben-zoof",
+    "Ben Zoof": "ben-zoof",
     "benares": "benares",
     "Benares": "benares",
     "bennet-islet": "bennet-islet",
@@ -12532,6 +12540,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1565,
-  "generated": "2026-07-19T09:49:27Z"
+  "page_count": 1566,
+  "generated": "2026-07-19T09:55:05Z"
 }

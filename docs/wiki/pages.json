@@ -4419,6 +4419,28 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "ben-zoof": {
+      "type": "character",
+      "label": "Ben Zoof",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "science-fiction"
+      ],
+      "path": "be/ben-zoof.md",
+      "description": "Captain Servadac's devoted Montmartre-born orderly, whose loyalty follows his master from Algeria into the cometary voyage of Gallia.",
+      "prose_len": 2615,
+      "prose_chars": 2491,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "benares": {
       "type": "place",
       "label": "Benares",
@@ -13831,7 +13853,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "herbert": {
       "type": "character",
@@ -21565,7 +21587,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 15
+      "total_refs": 16
     },
     "ohio": {
       "type": "place",
@@ -33650,6 +33672,8 @@
     "Belgium": "belgium",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
+    "ben-zoof": "ben-zoof",
+    "Ben Zoof": "ben-zoof",
     "benares": "benares",
     "Benares": "benares",
     "bennet-islet": "bennet-islet",
@@ -35858,6 +35882,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1565,
-  "generated": "2026-07-19T09:49:27Z"
+  "page_count": 1566,
+  "generated": "2026-07-19T09:55:05Z"
 }
