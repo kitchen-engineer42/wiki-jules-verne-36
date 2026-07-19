@@ -9479,6 +9479,14 @@
       "aliases": [],
       "path": "wi/wisconsin.md"
     },
+    "wreck-of-the-dream": {
+      "type": "event",
+      "label": "The Wreck of the Dream",
+      "aliases": [
+        "The Foundering of the Dream"
+      ],
+      "path": "wr/wreck-of-the-dream.md"
+    },
     "yakutsk": {
       "type": "place",
       "label": "Yakutsk",
@@ -11826,6 +11834,9 @@
     "Wimerra River": "wimerra",
     "wisconsin": "wisconsin",
     "Wisconsin": "wisconsin",
+    "wreck-of-the-dream": "wreck-of-the-dream",
+    "The Wreck of the Dream": "wreck-of-the-dream",
+    "The Foundering of the Dream": "wreck-of-the-dream",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
     "YEAR": "YEAR",
@@ -11838,6 +11849,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1505,
-  "generated": "2026-07-19T03:43:05Z"
+  "page_count": 1506,
+  "generated": "2026-07-19T03:51:58Z"
 }
