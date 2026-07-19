@@ -6804,6 +6804,29 @@
       "book": "The Master of the World",
       "total_refs": 0
     },
+    "dick-kennedy": {
+      "type": "character",
+      "label": "Dick Kennedy",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "ballooning"
+      ],
+      "path": "di/dick-kennedy.md",
+      "description": "A Scottish sportsman and Samuel Ferguson's devoted friend, who reluctantly joins the balloon crossing of Africa as the expedition's crack marksman.",
+      "prose_len": 2017,
+      "prose_chars": 1886,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
     "dick-sand-a-captain-at-fifteen": {
       "type": "work",
       "label": "Dick Sand: A Captain at Fifteen",
@@ -11414,7 +11437,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 13
+      "total_refs": 14
     },
     "fix": {
       "type": "character",
@@ -34919,6 +34942,8 @@
     "The End of Lincoln Island": "destruction-of-lincoln-island",
     "detroit-river": "detroit-river",
     "Detroit River": "detroit-river",
+    "dick-kennedy": "dick-kennedy",
+    "Dick Kennedy": "dick-kennedy",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
@@ -36991,6 +37016,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1611,
-  "generated": "2026-07-19T13:17:10Z"
+  "page_count": 1612,
+  "generated": "2026-07-19T13:19:26Z"
 }
