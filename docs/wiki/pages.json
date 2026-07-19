@@ -2226,7 +2226,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 4
+      "total_refs": 5
     },
     "andes-earthquake": {
       "type": "event",
@@ -2324,7 +2324,7 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "aouda": {
       "type": "character",
@@ -13137,6 +13137,30 @@
       "quality_score": 67,
       "book": "An Antarctic Mystery",
       "total_refs": 2
+    },
+    "halbrane-wreck": {
+      "type": "event",
+      "label": "The Wreck of the Halbrane",
+      "aliases": [
+        "The Loss of the Halbrane"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "catastrophe",
+        "exploration"
+      ],
+      "path": "ha/halbrane-wreck.md",
+      "prose_len": 2240,
+      "prose_chars": 2117,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
     },
     "ham-rock": {
       "type": "place",
@@ -32783,6 +32807,9 @@
     "gun cotton": "gun-cotton",
     "halbrane-land": "halbrane-land",
     "Halbrane Land": "halbrane-land",
+    "halbrane-wreck": "halbrane-wreck",
+    "The Wreck of the Halbrane": "halbrane-wreck",
+    "The Loss of the Halbrane": "halbrane-wreck",
     "ham-rock": "ham-rock",
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
@@ -34151,6 +34178,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1503,
-  "generated": "2026-07-19T03:36:23Z"
+  "page_count": 1504,
+  "generated": "2026-07-19T03:39:10Z"
 }

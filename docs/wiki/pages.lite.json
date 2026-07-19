@@ -3935,6 +3935,14 @@
       "aliases": [],
       "path": "ha/halbrane-land.md"
     },
+    "halbrane-wreck": {
+      "type": "event",
+      "label": "The Wreck of the Halbrane",
+      "aliases": [
+        "The Loss of the Halbrane"
+      ],
+      "path": "ha/halbrane-wreck.md"
+    },
     "ham-rock": {
       "type": "place",
       "label": "Ham Rock",
@@ -10448,6 +10456,9 @@
     "gun cotton": "gun-cotton",
     "halbrane-land": "halbrane-land",
     "Halbrane Land": "halbrane-land",
+    "halbrane-wreck": "halbrane-wreck",
+    "The Wreck of the Halbrane": "halbrane-wreck",
+    "The Loss of the Halbrane": "halbrane-wreck",
     "ham-rock": "ham-rock",
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
@@ -11816,6 +11827,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1503,
-  "generated": "2026-07-19T03:36:23Z"
+  "page_count": 1504,
+  "generated": "2026-07-19T03:39:10Z"
 }
