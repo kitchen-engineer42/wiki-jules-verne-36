@@ -4934,6 +4934,16 @@
       ],
       "path": "ma/master-zacharius.md"
     },
+    "maston-calculation-error": {
+      "type": "event",
+      "label": "Maston's Calculation Error",
+      "aliases": [
+        "The Three Forgotten Zeros",
+        "Maston's Miscalculation",
+        "The North Pole Fiasco"
+      ],
+      "path": "ma/maston-calculation-error.md"
+    },
     "mediterranean": {
       "type": "place",
       "label": "Mediterranean",
@@ -11017,6 +11027,11 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "maston-calculation-error": "maston-calculation-error",
+    "Maston's Calculation Error": "maston-calculation-error",
+    "The Three Forgotten Zeros": "maston-calculation-error",
+    "Maston's Miscalculation": "maston-calculation-error",
+    "The North Pole Fiasco": "maston-calculation-error",
     "mediterranean": "mediterranean",
     "Mediterranean": "mediterranean",
     "melbourne": "melbourne",
@@ -12178,6 +12193,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1531,
-  "generated": "2026-07-19T06:36:50Z"
+  "page_count": 1532,
+  "generated": "2026-07-19T06:46:22Z"
 }

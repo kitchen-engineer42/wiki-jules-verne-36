@@ -16423,6 +16423,33 @@
       "blockquote_count": 0,
       "total_refs": 3
     },
+    "maston-calculation-error": {
+      "type": "event",
+      "label": "Maston's Calculation Error",
+      "aliases": [
+        "The Three Forgotten Zeros",
+        "Maston's Miscalculation",
+        "The North Pole Fiasco"
+      ],
+      "tags": [
+        "event",
+        "ballistics",
+        "miscalculation",
+        "satire",
+        "1890s"
+      ],
+      "path": "ma/maston-calculation-error.md",
+      "prose_len": 2782,
+      "prose_chars": 2660,
+      "h2_count": 4,
+      "pn_count": 17,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 77,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "mediterranean": {
       "type": "place",
       "label": "Mediterranean",
@@ -28974,7 +29001,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 3
+      "total_refs": 4
     },
     "torres-strait": {
       "type": "place",
@@ -33799,6 +33826,11 @@
     "Maître Zacharius": "master-zacharius",
     "Master Zacharius, or the Clockmaker Who Lost His Soul": "master-zacharius",
     "The Clockmaker Who Lost His Soul": "master-zacharius",
+    "maston-calculation-error": "maston-calculation-error",
+    "Maston's Calculation Error": "maston-calculation-error",
+    "The Three Forgotten Zeros": "maston-calculation-error",
+    "Maston's Miscalculation": "maston-calculation-error",
+    "The North Pole Fiasco": "maston-calculation-error",
     "mediterranean": "mediterranean",
     "Mediterranean": "mediterranean",
     "melbourne": "melbourne",
@@ -34960,6 +34992,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1531,
-  "generated": "2026-07-19T06:36:50Z"
+  "page_count": 1532,
+  "generated": "2026-07-19T06:46:22Z"
 }
