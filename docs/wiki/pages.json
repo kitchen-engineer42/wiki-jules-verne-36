@@ -1443,7 +1443,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "alexandria": {
       "type": "place",
@@ -6559,6 +6559,31 @@
       "quality": "standard",
       "quality_score": 43,
       "total_refs": 15
+    },
+    "disintegration-of-victoria-island": {
+      "type": "event",
+      "label": "The Disintegration of Victoria Island",
+      "aliases": [
+        "The Breakup of Victoria Island",
+        "The End of the Ice Island"
+      ],
+      "tags": [
+        "event",
+        "shipwreck",
+        "arctic",
+        "survival"
+      ],
+      "path": "di/disintegration-of-victoria-island.md",
+      "prose_len": 3440,
+      "prose_chars": 3299,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 84,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "diving-apparatus": {
       "type": "technology",
@@ -27929,7 +27954,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 15
+      "total_refs": 16
     },
     "the-madman-in-the-balloon": {
       "type": "event",
@@ -31087,7 +31112,7 @@
       "wikilink_count": 2,
       "blockquote_count": 0,
       "book": "The Fur Country",
-      "total_refs": 12
+      "total_refs": 13
     },
     "vienna": {
       "type": "place",
@@ -32909,6 +32934,10 @@
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand": "dick-sand-a-captain-at-fifteen",
+    "disintegration-of-victoria-island": "disintegration-of-victoria-island",
+    "The Disintegration of Victoria Island": "disintegration-of-victoria-island",
+    "The Breakup of Victoria Island": "disintegration-of-victoria-island",
+    "The End of the Ice Island": "disintegration-of-victoria-island",
     "diving-apparatus": "diving-apparatus",
     "Rouquayrol Diving Apparatus": "diving-apparatus",
     "Rouquayrol-Denayrouze device": "diving-apparatus",
@@ -34775,6 +34804,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1525,
-  "generated": "2026-07-19T05:54:18Z"
+  "page_count": 1526,
+  "generated": "2026-07-19T06:03:16Z"
 }
