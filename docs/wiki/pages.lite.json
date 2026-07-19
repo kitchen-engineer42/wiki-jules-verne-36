@@ -1735,6 +1735,14 @@
       "aliases": [],
       "path": "co/concepcion.md"
     },
+    "condor-abduction": {
+      "type": "event",
+      "label": "The Condor Abduction",
+      "aliases": [
+        "The Rescue of Robert Grant"
+      ],
+      "path": "co/condor-abduction.md"
+    },
     "congo": {
       "type": "place",
       "label": "Congo",
@@ -9888,6 +9896,9 @@
     "The Birth of Gallia": "comet-collision",
     "concepcion": "concepcion",
     "Concepcion": "concepcion",
+    "condor-abduction": "condor-abduction",
+    "The Condor Abduction": "condor-abduction",
+    "The Rescue of Robert Grant": "condor-abduction",
     "congo": "congo",
     "Congo": "congo",
     "connecticut": "connecticut",
@@ -11739,6 +11750,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1496,
-  "generated": "2026-07-19T03:01:54Z"
+  "page_count": 1497,
+  "generated": "2026-07-19T03:09:07Z"
 }

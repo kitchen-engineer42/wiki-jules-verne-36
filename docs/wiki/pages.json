@@ -2203,7 +2203,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "andes": {
       "type": "place",
@@ -2228,7 +2228,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "In Search of the Castaways",
-      "total_refs": 2
+      "total_refs": 3
     },
     "angola": {
       "type": "place",
@@ -5820,6 +5820,31 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 67,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
+    "condor-abduction": {
+      "type": "event",
+      "label": "The Condor Abduction",
+      "aliases": [
+        "The Rescue of Robert Grant"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "exploration",
+        "rescue"
+      ],
+      "path": "co/condor-abduction.md",
+      "description": "After the Andes earthquake a giant condor seizes the seemingly lifeless Robert Grant and bears him aloft, until a marksman's shot brings the bird down and the boy is recovered alive.",
+      "prose_len": 2345,
+      "prose_chars": 2227,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
@@ -13408,7 +13433,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 29
+      "total_refs": 30
     },
     "in-the-year-2889": {
       "type": "work",
@@ -32107,6 +32132,9 @@
     "The Birth of Gallia": "comet-collision",
     "concepcion": "concepcion",
     "Concepcion": "concepcion",
+    "condor-abduction": "condor-abduction",
+    "The Condor Abduction": "condor-abduction",
+    "The Rescue of Robert Grant": "condor-abduction",
     "congo": "congo",
     "Congo": "congo",
     "connecticut": "connecticut",
@@ -33958,6 +33986,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1496,
-  "generated": "2026-07-19T03:05:34Z"
+  "page_count": 1497,
+  "generated": "2026-07-19T03:09:07Z"
 }
