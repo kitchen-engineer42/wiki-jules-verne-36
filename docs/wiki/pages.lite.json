@@ -8755,6 +8755,12 @@
       ],
       "path": "ta/tampa-town.md"
     },
+    "tartlet": {
+      "type": "character",
+      "label": "Tartlet",
+      "aliases": [],
+      "path": "ta/tartlet.md"
+    },
     "tasmania": {
       "type": "place",
       "label": "Tasmania",
@@ -12467,6 +12473,8 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "tartlet": "tartlet",
+    "Tartlet": "tartlet",
     "tasmania": "tasmania",
     "Tasmania": "tasmania",
     "teheran": "teheran",
@@ -12843,6 +12851,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1600,
-  "generated": "2026-07-19T12:30:05Z"
+  "page_count": 1601,
+  "generated": "2026-07-19T12:36:15Z"
 }

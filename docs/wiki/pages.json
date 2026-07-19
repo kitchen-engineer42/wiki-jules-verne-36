@@ -13487,7 +13487,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 5
+      "total_refs": 6
     },
     "gondokoro": {
       "type": "place",
@@ -29229,6 +29229,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 19
     },
+    "tartlet": {
+      "type": "character",
+      "label": "Tartlet",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "comedy"
+      ],
+      "path": "ta/tartlet.md",
+      "description": "The pompous dancing and deportment master engaged as Godfrey Morgan's travelling companion, a timorous bachelor whose sea-sickness and terrors undo his professorial poise once shipwrecked on a desert island.",
+      "prose_len": 2133,
+      "prose_chars": 2009,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "tasmania": {
       "type": "place",
       "label": "Tasmania",
@@ -36358,6 +36380,8 @@
     "tampa-town": "tampa-town",
     "Tampa Town": "tampa-town",
     "Tampa": "tampa-town",
+    "tartlet": "tartlet",
+    "Tartlet": "tartlet",
     "tasmania": "tasmania",
     "Tasmania": "tasmania",
     "teheran": "teheran",
@@ -36734,6 +36758,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1600,
-  "generated": "2026-07-19T12:30:05Z"
+  "page_count": 1601,
+  "generated": "2026-07-19T12:36:15Z"
 }
