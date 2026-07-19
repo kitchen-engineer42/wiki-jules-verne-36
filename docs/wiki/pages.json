@@ -2180,6 +2180,31 @@
       "quality_score": 42,
       "total_refs": 4
     },
+    "andes-earthquake": {
+      "type": "event",
+      "label": "The Andes Earthquake",
+      "aliases": [
+        "The Cordillera Convulsion"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "exploration",
+        "catastrophe"
+      ],
+      "path": "an/andes-earthquake.md",
+      "description": "While crossing the Cordillera of the Andes, Lord Glenarvan's search party is caught in an earthquake that hurls them down the mountainside and sweeps young Robert Grant away.",
+      "prose_len": 1959,
+      "prose_chars": 1845,
+      "h2_count": 4,
+      "pn_count": 7,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "andes": {
       "type": "place",
       "label": "Andes",
@@ -2203,7 +2228,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "angola": {
       "type": "place",
@@ -13383,7 +13408,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 28
+      "total_refs": 29
     },
     "in-the-year-2889": {
       "type": "work",
@@ -31782,6 +31807,9 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "andes-earthquake": "andes-earthquake",
+    "The Andes Earthquake": "andes-earthquake",
+    "The Cordillera Convulsion": "andes-earthquake",
     "andes": "andes",
     "Andes": "andes",
     "the Andes": "andes",
@@ -33930,6 +33958,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1495,
-  "generated": "2026-07-19T02:59:39Z"
+  "page_count": 1496,
+  "generated": "2026-07-19T03:05:34Z"
 }

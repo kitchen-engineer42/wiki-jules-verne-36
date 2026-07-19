@@ -662,6 +662,14 @@
       ],
       "path": "an/an-antarctic-mystery.md"
     },
+    "andes-earthquake": {
+      "type": "event",
+      "label": "The Andes Earthquake",
+      "aliases": [
+        "The Cordillera Convulsion"
+      ],
+      "path": "an/andes-earthquake.md"
+    },
     "andes": {
       "type": "place",
       "label": "Andes",
@@ -9580,6 +9588,9 @@
     "An Antarctic Mystery": "an-antarctic-mystery",
     "The Sphinx of the Ice Fields": "an-antarctic-mystery",
     "Le Sphinx des glaces": "an-antarctic-mystery",
+    "andes-earthquake": "andes-earthquake",
+    "The Andes Earthquake": "andes-earthquake",
+    "The Cordillera Convulsion": "andes-earthquake",
     "andes": "andes",
     "Andes": "andes",
     "the Andes": "andes",
@@ -11728,6 +11739,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1495,
-  "generated": "2026-07-19T02:59:39Z"
+  "page_count": 1496,
+  "generated": "2026-07-19T03:01:54Z"
 }
