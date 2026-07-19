@@ -2101,6 +2101,30 @@
       "book": "Ascent of Mont Blanc",
       "total_refs": 1
     },
+    "amazon-cryptogram": {
+      "type": "event",
+      "label": "The Amazon Cryptogram",
+      "aliases": [
+        "The Decipherment of the Innocence Document"
+      ],
+      "tags": [
+        "event",
+        "mystery",
+        "cryptography",
+        "justice"
+      ],
+      "path": "am/amazon-cryptogram.md",
+      "prose_len": 2627,
+      "prose_chars": 2346,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "amazon": {
       "type": "place",
       "label": "Amazon",
@@ -8541,7 +8565,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 16
+      "total_refs": 17
     },
     "eighty-day-wager": {
       "type": "event",
@@ -31991,6 +32015,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amazon-cryptogram": "amazon-cryptogram",
+    "The Amazon Cryptogram": "amazon-cryptogram",
+    "The Decipherment of the Innocence Document": "amazon-cryptogram",
     "amazon": "amazon",
     "Amazon": "amazon",
     "Amazon River": "amazon",
@@ -34178,6 +34205,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1504,
-  "generated": "2026-07-19T03:39:10Z"
+  "page_count": 1505,
+  "generated": "2026-07-19T03:43:05Z"
 }

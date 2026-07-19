@@ -635,6 +635,14 @@
       "aliases": [],
       "path": "am/AMB.md"
     },
+    "amazon-cryptogram": {
+      "type": "event",
+      "label": "The Amazon Cryptogram",
+      "aliases": [
+        "The Decipherment of the Innocence Document"
+      ],
+      "path": "am/amazon-cryptogram.md"
+    },
     "amazon": {
       "type": "place",
       "label": "Amazon",
@@ -9640,6 +9648,9 @@
     "AM-ch25": "AM-ch25",
     "AM-ch26": "AM-ch26",
     "AMB": "AMB",
+    "amazon-cryptogram": "amazon-cryptogram",
+    "The Amazon Cryptogram": "amazon-cryptogram",
+    "The Decipherment of the Innocence Document": "amazon-cryptogram",
     "amazon": "amazon",
     "Amazon": "amazon",
     "Amazon River": "amazon",
@@ -11827,6 +11838,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1504,
-  "generated": "2026-07-19T03:39:10Z"
+  "page_count": 1505,
+  "generated": "2026-07-19T03:43:05Z"
 }
