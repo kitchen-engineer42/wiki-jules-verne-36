@@ -22709,6 +22709,32 @@
       "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 0
     },
+    "return-of-ole-kamp": {
+      "type": "event",
+      "label": "The Return of Ole Kamp",
+      "aliases": [
+        "The Reunion of Ole and Hulda",
+        "The Rescue of the Viking's Mate",
+        "The Wedding at Dal"
+      ],
+      "tags": [
+        "event",
+        "shipwreck",
+        "rescue",
+        "1880s"
+      ],
+      "path": "re/return-of-ole-kamp.md",
+      "prose_len": 3230,
+      "prose_chars": 3108,
+      "h2_count": 4,
+      "pn_count": 24,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 82,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "return-of-the-jeune-hardie": {
       "type": "event",
       "label": "The Return of the Jeune-Hardie",
@@ -28447,7 +28473,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 9
+      "total_refs": 10
     },
     "tiflis": {
       "type": "place",
@@ -34360,6 +34386,11 @@
     "The Gallows Reprieve": "rescue-of-joam-dacosta",
     "Vindication of Joam Dacosta": "rescue-of-joam-dacosta",
     "The Ortega Confession": "rescue-of-joam-dacosta",
+    "return-of-ole-kamp": "return-of-ole-kamp",
+    "The Return of Ole Kamp": "return-of-ole-kamp",
+    "The Reunion of Ole and Hulda": "return-of-ole-kamp",
+    "The Rescue of the Viking's Mate": "return-of-ole-kamp",
+    "The Wedding at Dal": "return-of-ole-kamp",
     "return-of-the-jeune-hardie": "return-of-the-jeune-hardie",
     "The Return of the Jeune-Hardie": "return-of-the-jeune-hardie",
     "The Deliverance of Louis Cornbutte": "return-of-the-jeune-hardie",
@@ -35087,6 +35118,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1535,
-  "generated": "2026-07-19T07:08:01Z"
+  "page_count": 1536,
+  "generated": "2026-07-19T07:14:35Z"
 }
