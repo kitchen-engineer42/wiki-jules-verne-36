@@ -3534,6 +3534,12 @@
       "aliases": [],
       "path": "fr/from-the-earth-to-the-moon.md"
     },
+    "frycollin": {
+      "type": "character",
+      "label": "Frycollin",
+      "aliases": [],
+      "path": "fr/frycollin.md"
+    },
     "fulgurator": {
       "type": "technology",
       "label": "Fulgurator",
@@ -11073,6 +11079,8 @@
     "Frankfurt": "frankfort",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
+    "frycollin": "frycollin",
+    "Frycollin": "frycollin",
     "fulgurator": "fulgurator",
     "Fulgurator": "fulgurator",
     "Roch's Fulgurator": "fulgurator",
@@ -12779,6 +12787,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1592,
-  "generated": "2026-07-19T12:01:11Z"
+  "page_count": 1593,
+  "generated": "2026-07-19T12:03:40Z"
 }
