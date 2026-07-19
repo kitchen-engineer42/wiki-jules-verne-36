@@ -7,6 +7,7 @@ tags: [event, clockmaking, science, geneva]
 book: 'Master Zacharius'
 location: 'Geneva'
 pn_anchor: MZ-002
+quality: featured
 ---
 # The Failing of the Zacharius Clocks
 
