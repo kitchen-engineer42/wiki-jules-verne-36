@@ -24425,7 +24425,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 24
+      "total_refs": 25
     },
     "robur": {
       "type": "character",
@@ -24449,7 +24449,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "Robur the Conqueror",
-      "total_refs": 37
+      "total_refs": 38
     },
     "rocky-mountains": {
       "type": "place",
@@ -32130,6 +32130,29 @@
       "book": "The Underground City",
       "total_refs": 1
     },
+    "uncle-prudent": {
+      "type": "character",
+      "label": "Uncle Prudent",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "un/uncle-prudent.md",
+      "description": "The wealthy and hot-tempered president of the Weldon Institute, a champion of lighter-than-air flight who is carried off by Robur and schemes throughout to escape the Albatross.",
+      "prose_len": 2339,
+      "prose_chars": 2211,
+      "h2_count": 5,
+      "pn_count": 11,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "affiliation": "Weldon Institute",
+      "book": "Robur the Conqueror",
+      "total_refs": 0
+    },
     "union-bay": {
       "type": "place",
       "label": "Union Bay",
@@ -36209,6 +36232,8 @@
     "UC-ch17": "UC-ch17",
     "UC-ch18": "UC-ch18",
     "UC-ch19": "UC-ch19",
+    "uncle-prudent": "uncle-prudent",
+    "Uncle Prudent": "uncle-prudent",
     "union-bay": "union-bay",
     "Union Bay": "union-bay",
     "united-states": "united-states",
@@ -36338,6 +36363,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1584,
-  "generated": "2026-07-19T11:21:35Z"
+  "page_count": 1585,
+  "generated": "2026-07-19T11:25:36Z"
 }

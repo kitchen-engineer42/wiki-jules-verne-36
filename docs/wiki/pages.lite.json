@@ -9650,6 +9650,12 @@
       "aliases": [],
       "path": "uc/UC-ch19.md"
     },
+    "uncle-prudent": {
+      "type": "character",
+      "label": "Uncle Prudent",
+      "aliases": [],
+      "path": "un/uncle-prudent.md"
+    },
     "union-bay": {
       "type": "place",
       "label": "Union Bay",
@@ -12578,6 +12584,8 @@
     "UC-ch17": "UC-ch17",
     "UC-ch18": "UC-ch18",
     "UC-ch19": "UC-ch19",
+    "uncle-prudent": "uncle-prudent",
+    "Uncle Prudent": "uncle-prudent",
     "union-bay": "union-bay",
     "Union Bay": "union-bay",
     "united-states": "united-states",
@@ -12707,6 +12715,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1584,
-  "generated": "2026-07-19T11:21:35Z"
+  "page_count": 1585,
+  "generated": "2026-07-19T11:25:36Z"
 }
