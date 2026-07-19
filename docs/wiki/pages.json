@@ -12571,7 +12571,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 3
+      "total_refs": 4
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14045,7 +14045,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 36
+      "total_refs": 37
     },
     "in-the-year-2889": {
       "type": "work",
@@ -21554,7 +21554,7 @@
       "quality_score": 73,
       "affiliation": "Geographical Society of Paris",
       "book": "In Search of the Castaways",
-      "total_refs": 3
+      "total_refs": 4
     },
     "pamir": {
       "type": "place",
@@ -28422,6 +28422,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 0
     },
+    "thalcave": {
+      "type": "character",
+      "label": "Thalcave",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "th/thalcave.md",
+      "description": "The Patagonian guide who leads Glenarvan's party across the pampas in search of Captain Grant.",
+      "prose_len": 2023,
+      "prose_chars": 1904,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "thames": {
       "type": "place",
       "label": "Thames",
@@ -35244,6 +35266,8 @@
     "The Loss of the Terror": "terror-destruction",
     "texas": "texas",
     "Texas": "texas",
+    "thalcave": "thalcave",
+    "Thalcave": "thalcave",
     "thames": "thames",
     "Thames": "thames",
     "River Thames": "thames",
@@ -35597,6 +35621,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1554,
-  "generated": "2026-07-19T08:58:21Z"
+  "page_count": 1555,
+  "generated": "2026-07-19T09:02:25Z"
 }
