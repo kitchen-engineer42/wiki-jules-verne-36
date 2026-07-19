@@ -3947,6 +3947,14 @@
       ],
       "path": "ic/ice-bank.md"
     },
+    "ice-island-drift": {
+      "type": "event",
+      "label": "The Drifting Ice-Island",
+      "aliases": [
+        "The Voyage of Victoria Island"
+      ],
+      "path": "ic/ice-island-drift.md"
+    },
     "iceland": {
       "type": "place",
       "label": "Iceland",
@@ -10355,6 +10363,9 @@
     "ice-bank": "ice-bank",
     "Ice Bank": "ice-bank",
     "The Ice Bank": "ice-bank",
+    "ice-island-drift": "ice-island-drift",
+    "The Drifting Ice-Island": "ice-island-drift",
+    "The Voyage of Victoria Island": "ice-island-drift",
     "iceland": "iceland",
     "Iceland": "iceland",
     "ichim": "ichim",
@@ -11684,6 +11695,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1491,
-  "generated": "2026-07-19T02:45:24Z"
+  "page_count": 1492,
+  "generated": "2026-07-19T02:49:21Z"
 }
