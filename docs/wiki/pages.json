@@ -16774,7 +16774,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 4
+      "total_refs": 5
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -29662,7 +29662,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 21
+      "total_refs": 22
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -29921,6 +29921,28 @@
       "quality": "standard",
       "quality_score": 42,
       "total_refs": 25
+    },
+    "thomas-black": {
+      "type": "character",
+      "label": "Thomas Black",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "th/thomas-black.md",
+      "description": "A Greenwich astronomer who joins the Fur Country expedition to observe a total solar eclipse, indifferent to every peril but his one scientific mission.",
+      "prose_len": 1831,
+      "prose_chars": 1701,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "The Fur Country",
+      "total_refs": 0
     },
     "thomas-roch": {
       "type": "character",
@@ -36638,6 +36660,8 @@
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
     "Salvage from the Cynthia": "the-waif-of-the-cynthia",
     "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "thomas-black": "thomas-black",
+    "Thomas Black": "thomas-black",
     "thomas-roch": "thomas-roch",
     "Thomas Roch": "thomas-roch",
     "tibet": "tibet",
@@ -36944,6 +36968,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1609,
-  "generated": "2026-07-19T13:07:54Z"
+  "page_count": 1610,
+  "generated": "2026-07-19T13:15:01Z"
 }

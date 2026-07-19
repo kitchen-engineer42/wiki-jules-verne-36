@@ -8975,6 +8975,12 @@
       ],
       "path": "th/the-waif-of-the-cynthia.md"
     },
+    "thomas-black": {
+      "type": "character",
+      "label": "Thomas Black",
+      "aliases": [],
+      "path": "th/thomas-black.md"
+    },
     "thomas-roch": {
       "type": "character",
       "label": "Thomas Roch",
@@ -12609,6 +12615,8 @@
     "L'Épave du Cynthia": "the-waif-of-the-cynthia",
     "Salvage from the Cynthia": "the-waif-of-the-cynthia",
     "A Waif of the Cynthia": "the-waif-of-the-cynthia",
+    "thomas-black": "thomas-black",
+    "Thomas Black": "thomas-black",
     "thomas-roch": "thomas-roch",
     "Thomas Roch": "thomas-roch",
     "tibet": "tibet",
@@ -12915,6 +12923,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1609,
-  "generated": "2026-07-19T13:07:41Z"
+  "page_count": 1610,
+  "generated": "2026-07-19T13:15:01Z"
 }
