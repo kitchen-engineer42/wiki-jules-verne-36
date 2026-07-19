@@ -1672,6 +1672,12 @@
       "aliases": [],
       "path": "ca/captain-nicholl.md"
     },
+    "captain-spade": {
+      "type": "character",
+      "label": "Captain Spade",
+      "aliases": [],
+      "path": "ca/captain-spade.md"
+    },
     "caribbean-sea": {
       "type": "place",
       "label": "Caribbean Sea",
@@ -10607,6 +10613,8 @@
     "Prince Dakkar": "captain-nemo",
     "captain-nicholl": "captain-nicholl",
     "Captain Nicholl": "captain-nicholl",
+    "captain-spade": "captain-spade",
+    "Captain Spade": "captain-spade",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
     "carmen": "carmen",
@@ -12771,6 +12779,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1591,
-  "generated": "2026-07-19T11:53:54Z"
+  "page_count": 1592,
+  "generated": "2026-07-19T12:01:11Z"
 }

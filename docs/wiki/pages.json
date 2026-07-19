@@ -5572,6 +5572,28 @@
       "book": "From the Earth to the Moon",
       "total_refs": 0
     },
+    "captain-spade": {
+      "type": "character",
+      "label": "Captain Spade",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ca/captain-spade.md",
+      "description": "The cold, deferential commander of the schooner Ebba and Ker Karraje's henchman, who leads the raid that abducts Thomas Roch and his warder from Healthful House.",
+      "prose_len": 2240,
+      "prose_chars": 2107,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "caribbean-sea": {
       "type": "place",
       "label": "Caribbean Sea",
@@ -9154,7 +9176,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Facing the Flag",
-      "total_refs": 1
+      "total_refs": 2
     },
     "erik": {
       "type": "character",
@@ -9229,7 +9251,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 6
+      "total_refs": 7
     },
     "failing-of-the-zacharius-clocks": {
       "type": "event",
@@ -15951,7 +15973,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "Facing the Flag",
-      "total_refs": 5
+      "total_refs": 6
     },
     "kerguelen": {
       "type": "place",
@@ -28240,7 +28262,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Facing the Flag",
-      "total_refs": 0
+      "total_refs": 1
     },
     "singapore": {
       "type": "place",
@@ -34354,6 +34376,8 @@
     "Prince Dakkar": "captain-nemo",
     "captain-nicholl": "captain-nicholl",
     "Captain Nicholl": "captain-nicholl",
+    "captain-spade": "captain-spade",
+    "Captain Spade": "captain-spade",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
     "carmen": "carmen",
@@ -36518,6 +36542,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1591,
-  "generated": "2026-07-19T11:53:54Z"
+  "page_count": 1592,
+  "generated": "2026-07-19T12:01:11Z"
 }
