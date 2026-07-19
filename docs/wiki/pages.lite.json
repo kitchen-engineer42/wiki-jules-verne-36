@@ -4544,6 +4544,15 @@
       "aliases": [],
       "path": "ke/kerguelen.md"
     },
+    "ki-tsang-train-attack": {
+      "type": "event",
+      "label": "Ki-Tsang's Attack on the Grand Transasiatic",
+      "aliases": [
+        "The Attack on the Grand Transasiatic",
+        "Ki-Tsang's Raid"
+      ],
+      "path": "ki/ki-tsang-train-attack.md"
+    },
     "kilimanjaro-cannon-shot": {
       "type": "event",
       "label": "The Firing of the Kilimanjaro Cannon",
@@ -10731,6 +10740,10 @@
     "Kentucky": "kentucky",
     "kerguelen": "kerguelen",
     "Kerguelen": "kerguelen",
+    "ki-tsang-train-attack": "ki-tsang-train-attack",
+    "Ki-Tsang's Attack on the Grand Transasiatic": "ki-tsang-train-attack",
+    "The Attack on the Grand Transasiatic": "ki-tsang-train-attack",
+    "Ki-Tsang's Raid": "ki-tsang-train-attack",
     "kilimanjaro-cannon-shot": "kilimanjaro-cannon-shot",
     "The Firing of the Kilimanjaro Cannon": "kilimanjaro-cannon-shot",
     "The Great Shot of Wamasai": "kilimanjaro-cannon-shot",
@@ -11975,6 +11988,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1516,
-  "generated": "2026-07-19T04:45:13Z"
+  "page_count": 1517,
+  "generated": "2026-07-19T04:50:21Z"
 }

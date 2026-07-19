@@ -12885,7 +12885,7 @@
       "quality": "featured",
       "quality_score": 87,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "granite-house-lift": {
       "type": "technology",
@@ -15159,6 +15159,31 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
+    "ki-tsang-train-attack": {
+      "type": "event",
+      "label": "Ki-Tsang's Attack on the Grand Transasiatic",
+      "aliases": [
+        "The Attack on the Grand Transasiatic",
+        "Ki-Tsang's Raid"
+      ],
+      "tags": [
+        "event",
+        "attack",
+        "railway",
+        "banditry"
+      ],
+      "path": "ki/ki-tsang-train-attack.md",
+      "prose_len": 2120,
+      "prose_chars": 1979,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
     "kilimanjaro-cannon-shot": {
@@ -33274,6 +33299,10 @@
     "Kentucky": "kentucky",
     "kerguelen": "kerguelen",
     "Kerguelen": "kerguelen",
+    "ki-tsang-train-attack": "ki-tsang-train-attack",
+    "Ki-Tsang's Attack on the Grand Transasiatic": "ki-tsang-train-attack",
+    "The Attack on the Grand Transasiatic": "ki-tsang-train-attack",
+    "Ki-Tsang's Raid": "ki-tsang-train-attack",
     "kilimanjaro-cannon-shot": "kilimanjaro-cannon-shot",
     "The Firing of the Kilimanjaro Cannon": "kilimanjaro-cannon-shot",
     "The Great Shot of Wamasai": "kilimanjaro-cannon-shot",
@@ -34518,6 +34547,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1516,
-  "generated": "2026-07-19T04:45:13Z"
+  "page_count": 1517,
+  "generated": "2026-07-19T04:50:21Z"
 }

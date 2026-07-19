@@ -835,7 +835,7 @@
 <!-- ===== R267 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)，EVV5 后 since_evv5=0）：3 net-new 候选，取自 PL/TN/ASC 三部零 event 覆盖作品 ===== -->
 <!-- [event] ✔ R268 已建 death-of-martin-paz（rev L2ELMJ，featured，pn_anchor PL-009 锚 queue 记确认无误）建序 25 ｜ 8 distinct PN：PL-009-047/048/056/060/064/065/066/071 ｜ PL 2-char 无需 Note ｜ 工作页 the-pearl-of-lima 链回 -->
 <!-- [event] ✔ R269 已建 christiania-lottery-drawing（rev P9ODAX，featured，pn_anchor TN-019 锚 queue 记确认无误）建序 26 ｜ 8 distinct PN：TN-019-001/004/049/059/064/065/067/073 ｜ TN 2-char 无需 Note ｜ 工作页 ticket-no-9672 链回 -->
-<!-- [event] Ki-Tsang's Attack on the Grand Transasiatic — ki-tsang-train-attack 待建（Claudius Bombarnac；pn_anchor ASC-020 蒙古大盗 Ki-Tsang 掀轨截停大中亚铁路、六十众伏兵袭财车、Faruskiar 力战护帝室财宝终诛 Ki-Tsang；ASC-020-020 布防 + 022 六十蒙古伏兵出丛 + 029 齐射 Faruskiar 冲 + 030 众入混战 + 034 悍拒 + 037 双方死伤 + ASC-021-001 Ki-Tsang 掀轨截车经理正法 + 021-004 己方三死十二伤）建序 27 ｜ ASC 3-char 无需 Note ｜ 建时核掀轨袭车-击退单指、剔 Faruskiar 身份悬疑别线；工作页（若存 claudius-bombarnac）链回 -->
+<!-- [event] ✔ R270 已建 ki-tsang-train-attack（rev xAiYGC，featured，pn_anchor ASC-020 锚 queue 记确认无误）建序 27 ｜ 8 distinct PN：ASC-020-020/022/029/030/045/050 + ASC-021-001/009 ｜ ASC 3-char 无需 Note ｜ 工作页 claudius-bombarnac 不存在 → 链 [[Grand Transasiatic Railway Company]] organization 页；剔 Faruskiar 身份悬疑别线 -->
 <!-- R267 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 PL/TN/ASC 三部零 event 覆盖作品；仍余 DA/SC/SC2/VB/DSCF/AMB 等零/低 event 作品可续掘。三候选 exact-slug 全 ABSENT（death-of-martin-paz/christiania-lottery-drawing/ki-tsang-train-attack 及变体 martin-paz-death/the-lottery-drawing/gobi-train-attack 等）。三候选均逐章核 ≥8 distinct PN 可达、单指事件。 -->
 
 
