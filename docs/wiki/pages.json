@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 28
+      "total_refs": 29
     },
     "africa": {
       "type": "place",
@@ -5706,7 +5706,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "caucasus": {
       "type": "place",
@@ -9199,6 +9199,28 @@
       "quality_score": 74,
       "book": "Facing the Flag",
       "total_refs": 2
+    },
+    "ephrinell": {
+      "type": "character",
+      "label": "Ephrinell",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ep/ephrinell.md",
+      "description": "A brisk American commercial traveller in artificial teeth aboard the Grand Transasiatic, whose coolly commercial courtship of Miss Horatia Bluett ripens into a marriage of pure calculation.",
+      "prose_len": 1940,
+      "prose_chars": 1814,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "erik": {
       "type": "character",
@@ -34750,6 +34772,8 @@
     "Elbe River": "elbe",
     "engineer-serko": "engineer-serko",
     "Engineer Serko": "engineer-serko",
+    "ephrinell": "ephrinell",
+    "Ephrinell": "ephrinell",
     "erik": "erik",
     "Erik": "erik",
     "Erik Hersebom": "erik",
@@ -36638,6 +36662,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1596,
-  "generated": "2026-07-19T12:14:58Z"
+  "page_count": 1597,
+  "generated": "2026-07-19T12:17:16Z"
 }

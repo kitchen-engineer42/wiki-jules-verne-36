@@ -2764,6 +2764,12 @@
       "aliases": [],
       "path": "en/engineer-serko.md"
     },
+    "ephrinell": {
+      "type": "character",
+      "label": "Ephrinell",
+      "aliases": [],
+      "path": "ep/ephrinell.md"
+    },
     "erik": {
       "type": "character",
       "label": "Erik",
@@ -10923,6 +10929,8 @@
     "Elbe River": "elbe",
     "engineer-serko": "engineer-serko",
     "Engineer Serko": "engineer-serko",
+    "ephrinell": "ephrinell",
+    "Ephrinell": "ephrinell",
     "erik": "erik",
     "Erik": "erik",
     "Erik Hersebom": "erik",
@@ -12811,6 +12819,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1596,
-  "generated": "2026-07-19T12:14:58Z"
+  "page_count": 1597,
+  "generated": "2026-07-19T12:17:16Z"
 }
