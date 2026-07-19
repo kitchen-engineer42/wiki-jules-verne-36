@@ -4110,6 +4110,12 @@
       "aliases": [],
       "path": "gr/granite-house.md"
     },
+    "grauben": {
+      "type": "character",
+      "label": "Gräuben",
+      "aliases": [],
+      "path": "gr/grauben.md"
+    },
     "great-bear-lake": {
       "type": "place",
       "label": "Great Bear Lake",
@@ -11382,6 +11388,8 @@
     "the lift": "granite-house-lift",
     "granite-house": "granite-house",
     "Granite House": "granite-house",
+    "grauben": "grauben",
+    "Gräuben": "grauben",
     "great-bear-lake": "great-bear-lake",
     "Great Bear Lake": "great-bear-lake",
     "Bear Lake": "great-bear-lake",
@@ -13015,6 +13023,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1620,
-  "generated": "2026-07-19T13:58:09Z"
+  "page_count": 1621,
+  "generated": "2026-07-19T14:02:13Z"
 }
