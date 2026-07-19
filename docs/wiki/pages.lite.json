@@ -409,6 +409,14 @@
       "aliases": [],
       "path": "af/africa.md"
     },
+    "albatross-abduction": {
+      "type": "event",
+      "label": "The Abduction by the Albatross",
+      "aliases": [
+        "The Kidnapping of Prudent and Evans"
+      ],
+      "path": "al/albatross-abduction.md"
+    },
     "albatross": {
       "type": "technology",
       "label": "Albatross",
@@ -9558,6 +9566,9 @@
     "The Special Correspondent": "adventures-of-a-special-correspondent",
     "africa": "africa",
     "Africa": "africa",
+    "albatross-abduction": "albatross-abduction",
+    "The Abduction by the Albatross": "albatross-abduction",
+    "The Kidnapping of Prudent and Evans": "albatross-abduction",
     "albatross": "albatross",
     "Albatross": "albatross",
     "aeronef": "albatross",
@@ -11783,6 +11794,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1500,
-  "generated": "2026-07-19T03:23:17Z"
+  "page_count": 1501,
+  "generated": "2026-07-19T03:27:57Z"
 }
