@@ -808,7 +808,7 @@
 <!-- R243 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 SC2/DSCF/RC 三部未覆盖作品；event 空间仍广（MW/AM/EHLA/GM/Steam House 等待掘）。 -->
 
 <!-- ===== R248 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)）：4 net-new 候选，取自 4 部未覆盖作品 ===== -->
-<!-- [event] The Abduction of Thomas Roch — abduction-of-thomas-roch 待建（Facing the Flag；pn_anchor FF-003 Thomas Roch 与看护 Gaydon（Simon Hart）自 Healthful House 被 d'Artigas/Ker Karraje 手下掳走；FF-003-085 "Gaydon was carried off in the same way as Thomas Roch had been"）建序 12 ｜ FF 2-char 无需 Note ｜ 建时核掳走单指、剔 fulgurator 泛述 -->
+<!-- [event] The Abduction of Thomas Roch — abduction-of-thomas-roch ✔ 建 R249（rev G4o4AT，featured，8 PN）（Facing the Flag；pn_anchor FF-003 Thomas Roch 与看护 Gaydon（Simon Hart）自 Healthful House 被 d'Artigas/Ker Karraje 手下掳走；FF-003-085 "Gaydon was carried off in the same way as Thomas Roch had been"）建序 12 ｜ FF 2-char 无需 Note ｜ 建时核掳走单指、剔 fulgurator 泛述 -->
 <!-- [event] The Destruction of the Terror — terror-destruction 待建（Master of the World；pn_anchor MW-017 Robur 的飞行器 "Terror" 于风暴中遭雷击、批量电池起爆、坠海碎裂；MW-017-068/069）建序 13 ｜ MW 2-char 无需 Note ｜ 建时核雷击毁机单指、剔 Great Eyrie 泛述 -->
 <!-- [event] The Wreck of the Halbrane — halbrane-wreck 待建（An Antarctic Mystery；pn_anchor AM-019 双桅船 Halbrane 于南极遭翻滚冰山（"turn head over heels"）撞毁、carried off into abyss；AM-019-113/AM-020-126）建序 14 ｜ AM 2-char 无需 Note ｜ 建时核冰山撞毁单指 -->
 <!-- [event] The Amazon Cryptogram — amazon-cryptogram 待建（Eight Hundred Leagues on the Amazon；pn_anchor EHLA-027 证明 Joam Dacosta 清白的密文文件被破译；EHLA-026-086/EHLA-027-002）建序 15 ｜ EHLA 4-char → 建时须加 page-top RFC-0003 Note ｜ 建时核破译单指 -->

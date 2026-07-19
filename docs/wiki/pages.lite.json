@@ -10,6 +10,14 @@
       ],
       "path": "ab/About.md"
     },
+    "abduction-of-thomas-roch": {
+      "type": "event",
+      "label": "The Abduction of Thomas Roch",
+      "aliases": [
+        "The Kidnapping of Thomas Roch"
+      ],
+      "path": "ab/abduction-of-thomas-roch.md"
+    },
     "aberfoyle": {
       "type": "place",
       "label": "Aberfoyle",
@@ -9488,6 +9496,9 @@
     "About": "About",
     "About This Wiki": "About",
     "关于": "About",
+    "abduction-of-thomas-roch": "abduction-of-thomas-roch",
+    "The Abduction of Thomas Roch": "abduction-of-thomas-roch",
+    "The Kidnapping of Thomas Roch": "abduction-of-thomas-roch",
     "aberfoyle": "aberfoyle",
     "Aberfoyle": "aberfoyle",
     "ACH-ch01": "ACH-ch01",
@@ -11794,6 +11805,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1501,
-  "generated": "2026-07-19T03:27:57Z"
+  "page_count": 1502,
+  "generated": "2026-07-19T03:33:16Z"
 }

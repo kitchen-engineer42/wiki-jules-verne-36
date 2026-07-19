@@ -21,6 +21,30 @@
       "quality_score": 29,
       "total_refs": 1
     },
+    "abduction-of-thomas-roch": {
+      "type": "event",
+      "label": "The Abduction of Thomas Roch",
+      "aliases": [
+        "The Kidnapping of Thomas Roch"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "kidnapping",
+        "espionage"
+      ],
+      "path": "ab/abduction-of-thomas-roch.md",
+      "prose_len": 2146,
+      "prose_chars": 2022,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Facing the Flag",
+      "total_refs": 0
+    },
     "aberfoyle": {
       "type": "place",
       "label": "Aberfoyle",
@@ -8638,7 +8662,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 0
+      "total_refs": 1
     },
     "falkland-islands": {
       "type": "place",
@@ -13206,7 +13230,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Facing the Flag",
-      "total_refs": 2
+      "total_refs": 3
     },
     "himalaya": {
       "type": "place",
@@ -31791,6 +31815,9 @@
     "About": "About",
     "About This Wiki": "About",
     "关于": "About",
+    "abduction-of-thomas-roch": "abduction-of-thomas-roch",
+    "The Abduction of Thomas Roch": "abduction-of-thomas-roch",
+    "The Kidnapping of Thomas Roch": "abduction-of-thomas-roch",
     "aberfoyle": "aberfoyle",
     "Aberfoyle": "aberfoyle",
     "ACH-ch01": "ACH-ch01",
@@ -34097,6 +34124,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1501,
-  "generated": "2026-07-19T03:27:57Z"
+  "page_count": 1502,
+  "generated": "2026-07-19T03:33:16Z"
 }
