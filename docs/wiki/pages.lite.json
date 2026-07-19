@@ -8538,6 +8538,16 @@
       ],
       "path": "ti/timbuctoo.md"
     },
+    "tjon-viaduct-sacrifice": {
+      "type": "event",
+      "label": "The Tjon Viaduct Sacrifice",
+      "aliases": [
+        "Kinko's Sacrifice",
+        "The Tjon Viaduct Disaster",
+        "Faruskiar's Betrayal"
+      ],
+      "path": "tj/tjon-viaduct-sacrifice.md"
+    },
     "tjon": {
       "type": "place",
       "label": "Tjon",
@@ -11922,6 +11932,11 @@
     "timbuctoo": "timbuctoo",
     "Timbuctoo": "timbuctoo",
     "Timbuktu": "timbuctoo",
+    "tjon-viaduct-sacrifice": "tjon-viaduct-sacrifice",
+    "The Tjon Viaduct Sacrifice": "tjon-viaduct-sacrifice",
+    "Kinko's Sacrifice": "tjon-viaduct-sacrifice",
+    "The Tjon Viaduct Disaster": "tjon-viaduct-sacrifice",
+    "Faruskiar's Betrayal": "tjon-viaduct-sacrifice",
     "tjon": "tjon",
     "Tjon": "tjon",
     "Tjon Valley": "tjon",
@@ -12193,6 +12208,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1532,
-  "generated": "2026-07-19T06:46:22Z"
+  "page_count": 1533,
+  "generated": "2026-07-19T06:52:15Z"
 }

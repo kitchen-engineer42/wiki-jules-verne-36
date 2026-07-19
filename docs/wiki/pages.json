@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 21
+      "total_refs": 22
     },
     "africa": {
       "type": "place",
@@ -28468,6 +28468,33 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 1
     },
+    "tjon-viaduct-sacrifice": {
+      "type": "event",
+      "label": "The Tjon Viaduct Sacrifice",
+      "aliases": [
+        "Kinko's Sacrifice",
+        "The Tjon Viaduct Disaster",
+        "Faruskiar's Betrayal"
+      ],
+      "tags": [
+        "event",
+        "railway",
+        "sacrifice",
+        "betrayal",
+        "1890s"
+      ],
+      "path": "tj/tjon-viaduct-sacrifice.md",
+      "prose_len": 3672,
+      "prose_chars": 3544,
+      "h2_count": 4,
+      "pn_count": 26,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 86,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "tjon": {
       "type": "place",
       "label": "Tjon",
@@ -34721,6 +34748,11 @@
     "timbuctoo": "timbuctoo",
     "Timbuctoo": "timbuctoo",
     "Timbuktu": "timbuctoo",
+    "tjon-viaduct-sacrifice": "tjon-viaduct-sacrifice",
+    "The Tjon Viaduct Sacrifice": "tjon-viaduct-sacrifice",
+    "Kinko's Sacrifice": "tjon-viaduct-sacrifice",
+    "The Tjon Viaduct Disaster": "tjon-viaduct-sacrifice",
+    "Faruskiar's Betrayal": "tjon-viaduct-sacrifice",
     "tjon": "tjon",
     "Tjon": "tjon",
     "Tjon Valley": "tjon",
@@ -34992,6 +35024,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1532,
-  "generated": "2026-07-19T06:46:22Z"
+  "page_count": 1533,
+  "generated": "2026-07-19T06:52:15Z"
 }
