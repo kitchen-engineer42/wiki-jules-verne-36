@@ -5384,7 +5384,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 70
+      "total_refs": 71
     },
     "caribbean-sea": {
       "type": "place",
@@ -6363,6 +6363,31 @@
       "quality_score": 67,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
+    },
+    "death-of-captain-nemo": {
+      "type": "event",
+      "label": "Death of Captain Nemo",
+      "aliases": [
+        "The Last Moments of Captain Nemo",
+        "Death of Prince Dakkar"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "submarine",
+        "mystery"
+      ],
+      "path": "de/death-of-captain-nemo.md",
+      "prose_len": 2189,
+      "prose_chars": 2070,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Secret of the Island",
+      "total_refs": 0
     },
     "death-of-martin-paz": {
       "type": "event",
@@ -27878,7 +27903,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 23
+      "total_refs": 24
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -32685,6 +32710,10 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "death-of-captain-nemo": "death-of-captain-nemo",
+    "Death of Captain Nemo": "death-of-captain-nemo",
+    "The Last Moments of Captain Nemo": "death-of-captain-nemo",
+    "Death of Prince Dakkar": "death-of-captain-nemo",
     "death-of-martin-paz": "death-of-martin-paz",
     "The Death of Martin Paz": "death-of-martin-paz",
     "Martin Paz's Sacrifice": "death-of-martin-paz",
@@ -34547,6 +34576,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1517,
-  "generated": "2026-07-19T04:50:21Z"
+  "page_count": 1518,
+  "generated": "2026-07-19T04:59:59Z"
 }

@@ -1903,6 +1903,15 @@
       ],
       "path": "da/davis-strait.md"
     },
+    "death-of-captain-nemo": {
+      "type": "event",
+      "label": "Death of Captain Nemo",
+      "aliases": [
+        "The Last Moments of Captain Nemo",
+        "Death of Prince Dakkar"
+      ],
+      "path": "de/death-of-captain-nemo.md"
+    },
     "death-of-martin-paz": {
       "type": "event",
       "label": "The Death of Martin Paz",
@@ -10126,6 +10135,10 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "death-of-captain-nemo": "death-of-captain-nemo",
+    "Death of Captain Nemo": "death-of-captain-nemo",
+    "The Last Moments of Captain Nemo": "death-of-captain-nemo",
+    "Death of Prince Dakkar": "death-of-captain-nemo",
     "death-of-martin-paz": "death-of-martin-paz",
     "The Death of Martin Paz": "death-of-martin-paz",
     "Martin Paz's Sacrifice": "death-of-martin-paz",
@@ -11988,6 +12001,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1517,
-  "generated": "2026-07-19T04:50:21Z"
+  "page_count": 1518,
+  "generated": "2026-07-19T04:59:59Z"
 }
