@@ -6339,6 +6339,31 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "death-of-master-zacharius": {
+      "type": "event",
+      "label": "The Death of Master Zacharius",
+      "aliases": [
+        "The Damnation of Master Zacharius",
+        "The Bursting of the Last Clock"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "clockwork",
+        "gothic"
+      ],
+      "path": "de/death-of-master-zacharius.md",
+      "prose_len": 2467,
+      "prose_chars": 2338,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Master Zacharius",
+      "total_refs": 0
+    },
     "denmark": {
       "type": "place",
       "label": "Denmark",
@@ -16147,7 +16172,7 @@
       "pn_count": 13,
       "wikilink_count": 0,
       "blockquote_count": 0,
-      "total_refs": 2
+      "total_refs": 3
     },
     "mediterranean": {
       "type": "place",
@@ -32581,6 +32606,10 @@
     "davis-strait": "davis-strait",
     "Davis Strait": "davis-strait",
     "Davis's Straits": "davis-strait",
+    "death-of-master-zacharius": "death-of-master-zacharius",
+    "The Death of Master Zacharius": "death-of-master-zacharius",
+    "The Damnation of Master Zacharius": "death-of-master-zacharius",
+    "The Bursting of the Last Clock": "death-of-master-zacharius",
     "denmark": "denmark",
     "Denmark": "denmark",
     "detroit-river": "detroit-river",
@@ -34431,6 +34460,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1513,
-  "generated": "2026-07-19T04:31:35Z"
+  "page_count": 1514,
+  "generated": "2026-07-19T04:34:36Z"
 }
