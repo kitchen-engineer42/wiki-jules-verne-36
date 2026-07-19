@@ -4701,6 +4701,12 @@
       ],
       "path": "jo/journey-to-the-center-of-the-earth.md"
     },
+    "j-t-maston": {
+      "type": "character",
+      "label": "J. T. Maston",
+      "aliases": [],
+      "path": "jt/j-t-maston.md"
+    },
     "kachgar": {
       "type": "place",
       "label": "Kachgar",
@@ -11276,6 +11282,8 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "j-t-maston": "j-t-maston",
+    "J. T. Maston": "j-t-maston",
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
@@ -12651,6 +12659,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1577,
-  "generated": "2026-07-19T10:45:34Z"
+  "page_count": 1578,
+  "generated": "2026-07-19T10:54:24Z"
 }
