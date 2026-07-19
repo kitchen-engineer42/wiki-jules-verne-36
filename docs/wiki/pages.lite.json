@@ -1982,8 +1982,7 @@
       "type": "work",
       "label": "Dick Sand: A Captain at Fifteen",
       "aliases": [
-        "A Captain at Fifteen",
-        "Dick Sand"
+        "A Captain at Fifteen"
       ],
       "path": "di/dick-sand-a-captain-at-fifteen.md"
     },
@@ -6446,6 +6445,12 @@
       ],
       "path": "pe/pekin.md"
     },
+    "pencroft": {
+      "type": "character",
+      "label": "Pencroft",
+      "aliases": [],
+      "path": "pe/pencroft.md"
+    },
     "peninsular-and-oriental-company": {
       "type": "organization",
       "label": "Peninsular and Oriental Company",
@@ -10397,8 +10402,8 @@
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
-    "Dick Sand": "dick-sand-a-captain-at-fifteen",
     "dick-sand": "dick-sand",
+    "Dick Sand": "dick-sand",
     "Richard Sand": "dick-sand",
     "disintegration-of-victoria-island": "disintegration-of-victoria-island",
     "The Disintegration of Victoria Island": "disintegration-of-victoria-island",
@@ -11485,6 +11490,8 @@
     "pekin": "pekin",
     "Pekin": "pekin",
     "Peking": "pekin",
+    "pencroft": "pencroft",
+    "Pencroft": "pencroft",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -12334,6 +12341,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1542,
-  "generated": "2026-07-19T07:58:04Z"
+  "page_count": 1543,
+  "generated": "2026-07-19T08:07:59Z"
 }

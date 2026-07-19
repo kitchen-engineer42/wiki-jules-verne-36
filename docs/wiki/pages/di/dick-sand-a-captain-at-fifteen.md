@@ -2,7 +2,7 @@
 id: dick-sand-a-captain-at-fifteen
 type: work
 label: 'Dick Sand: A Captain at Fifteen'
-aliases: ['A Captain at Fifteen', 'Dick Sand']
+aliases: ['A Captain at Fifteen']
 tags: [work, adventure, sea, slavery, voyage]
 description: 'A Jules Verne novel in which a fifteen-year-old novice must command a schooner after its crew is lost, only to be steered by treachery onto the African coast.'
 vvv: DSCF
