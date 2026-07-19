@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 29
+      "total_refs": 30
     },
     "africa": {
       "type": "place",
@@ -17106,7 +17106,7 @@
       "quality_score": 72,
       "affiliation": "Russian army",
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 3
+      "total_refs": 4
     },
     "malta": {
       "type": "place",
@@ -22322,6 +22322,28 @@
       "quality_score": 66,
       "book": "Facing the Flag",
       "total_refs": 2
+    },
+    "pan-chao": {
+      "type": "character",
+      "label": "Pan Chao",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "pa/pan-chao.md",
+      "description": "A young Chinese gentleman educated in Paris, travelling homeward on the Grand Transasiatic with his doctor, whose Parisian wit and modern outlook make him the narrator's favourite companion.",
+      "prose_len": 1942,
+      "prose_chars": 1817,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "paris": {
       "type": "place",
@@ -35771,6 +35793,8 @@
     "Roof of the World": "pamir",
     "pamlico-sound": "pamlico-sound",
     "Pamlico Sound": "pamlico-sound",
+    "pan-chao": "pan-chao",
+    "Pan Chao": "pan-chao",
     "paris": "paris",
     "Paris": "paris",
     "passepartout": "passepartout",
@@ -36662,6 +36686,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1597,
-  "generated": "2026-07-19T12:17:16Z"
+  "page_count": 1598,
+  "generated": "2026-07-19T12:21:49Z"
 }

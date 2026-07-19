@@ -6691,6 +6691,12 @@
       "aliases": [],
       "path": "pa/pamlico-sound.md"
     },
+    "pan-chao": {
+      "type": "character",
+      "label": "Pan Chao",
+      "aliases": [],
+      "path": "pa/pan-chao.md"
+    },
     "paris": {
       "type": "place",
       "label": "Paris",
@@ -11928,6 +11934,8 @@
     "Roof of the World": "pamir",
     "pamlico-sound": "pamlico-sound",
     "Pamlico Sound": "pamlico-sound",
+    "pan-chao": "pan-chao",
+    "Pan Chao": "pan-chao",
     "paris": "paris",
     "Paris": "paris",
     "passepartout": "passepartout",
@@ -12819,6 +12827,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1597,
-  "generated": "2026-07-19T12:17:16Z"
+  "page_count": 1598,
+  "generated": "2026-07-19T12:21:49Z"
 }
