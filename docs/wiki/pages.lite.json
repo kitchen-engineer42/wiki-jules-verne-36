@@ -3895,6 +3895,15 @@
       ],
       "path": "gr/great-bear-lake.md"
     },
+    "great-eyrie-investigation": {
+      "type": "event",
+      "label": "The Investigation of the Great Eyrie",
+      "aliases": [
+        "Ascent of the Great Eyrie",
+        "The Great Eyrie Mystery"
+      ],
+      "path": "gr/great-eyrie-investigation.md"
+    },
     "great-eyrie": {
       "type": "place",
       "label": "The Great Eyrie",
@@ -10585,6 +10594,10 @@
     "great-bear-lake": "great-bear-lake",
     "Great Bear Lake": "great-bear-lake",
     "Bear Lake": "great-bear-lake",
+    "great-eyrie-investigation": "great-eyrie-investigation",
+    "The Investigation of the Great Eyrie": "great-eyrie-investigation",
+    "Ascent of the Great Eyrie": "great-eyrie-investigation",
+    "The Great Eyrie Mystery": "great-eyrie-investigation",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
     "Great Eyrie": "great-eyrie",
@@ -12027,6 +12040,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1520,
-  "generated": "2026-07-19T05:23:53Z"
+  "page_count": 1521,
+  "generated": "2026-07-19T05:31:35Z"
 }

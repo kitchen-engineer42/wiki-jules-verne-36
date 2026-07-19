@@ -4505,7 +4505,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "bokhara": {
       "type": "place",
@@ -12985,6 +12985,31 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "great-eyrie-investigation": {
+      "type": "event",
+      "label": "The Investigation of the Great Eyrie",
+      "aliases": [
+        "Ascent of the Great Eyrie",
+        "The Great Eyrie Mystery"
+      ],
+      "tags": [
+        "event",
+        "exploration",
+        "mountaineering",
+        "mystery"
+      ],
+      "path": "gr/great-eyrie-investigation.md",
+      "prose_len": 2932,
+      "prose_chars": 2796,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 79,
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "great-eyrie": {
       "type": "place",
       "label": "The Great Eyrie",
@@ -13007,7 +13032,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Master of the World",
-      "total_refs": 13
+      "total_refs": 14
     },
     "great-salt-lake": {
       "type": "place",
@@ -17882,7 +17907,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "The Master of the World",
-      "total_refs": 2
+      "total_refs": 3
     },
     "morris-island": {
       "type": "place",
@@ -21602,7 +21627,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "polar-sea": {
       "type": "place",
@@ -27882,7 +27907,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 16
+      "total_refs": 17
     },
     "the-moon": {
       "type": "place",
@@ -33192,6 +33217,10 @@
     "great-bear-lake": "great-bear-lake",
     "Great Bear Lake": "great-bear-lake",
     "Bear Lake": "great-bear-lake",
+    "great-eyrie-investigation": "great-eyrie-investigation",
+    "The Investigation of the Great Eyrie": "great-eyrie-investigation",
+    "Ascent of the Great Eyrie": "great-eyrie-investigation",
+    "The Great Eyrie Mystery": "great-eyrie-investigation",
     "great-eyrie": "great-eyrie",
     "The Great Eyrie": "great-eyrie",
     "Great Eyrie": "great-eyrie",
@@ -34634,6 +34663,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1520,
-  "generated": "2026-07-19T05:23:53Z"
+  "page_count": 1521,
+  "generated": "2026-07-19T05:31:35Z"
 }
