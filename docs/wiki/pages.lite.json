@@ -1822,6 +1822,14 @@
       "aliases": [],
       "path": "cl/claw-cape.md"
     },
+    "clawbonny": {
+      "type": "character",
+      "label": "Dr Clawbonny",
+      "aliases": [
+        "Clawbonny"
+      ],
+      "path": "cl/clawbonny.md"
+    },
     "coal-town": {
       "type": "place",
       "label": "Coal Town",
@@ -10868,6 +10876,9 @@
     "claudius-bombarnac": "claudius-bombarnac",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "clawbonny": "clawbonny",
+    "Dr Clawbonny": "clawbonny",
+    "Clawbonny": "clawbonny",
     "coal-town": "coal-town",
     "Coal Town": "coal-town",
     "coanza": "coanza",
@@ -13050,6 +13061,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1624,
-  "generated": "2026-07-19T14:14:47Z"
+  "page_count": 1625,
+  "generated": "2026-07-19T14:24:00Z"
 }

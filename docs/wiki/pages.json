@@ -5501,7 +5501,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 17
+      "total_refs": 18
     },
     "captain-hull": {
       "type": "character",
@@ -6078,6 +6078,31 @@
       "quality_score": 68,
       "book": "The Mysterious Island",
       "total_refs": 2
+    },
+    "clawbonny": {
+      "type": "character",
+      "label": "Dr Clawbonny",
+      "aliases": [
+        "Clawbonny"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "cl/clawbonny.md",
+      "description": "The learned, good-humoured ship's doctor of the brig Forward in The Adventures of Captain Hatteras, an encyclopaedic companion to Hatteras's voyage toward the North Pole.",
+      "prose_len": 2599,
+      "prose_chars": 2469,
+      "h2_count": 5,
+      "pn_count": 17,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "coal-town": {
       "type": "place",
@@ -29865,7 +29890,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 18
+      "total_refs": 19
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -35147,6 +35172,9 @@
     "claudius-bombarnac": "claudius-bombarnac",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
+    "clawbonny": "clawbonny",
+    "Dr Clawbonny": "clawbonny",
+    "Clawbonny": "clawbonny",
     "coal-town": "coal-town",
     "Coal Town": "coal-town",
     "coanza": "coanza",
@@ -37329,6 +37357,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1624,
-  "generated": "2026-07-19T14:16:21Z"
+  "page_count": 1625,
+  "generated": "2026-07-19T14:24:00Z"
 }
