@@ -798,7 +798,7 @@
 <!-- [event] The Blinding of Michael Strogoff — strogoff-blinding ✔ 建 R239 rev z92OUT（Michael Strogoff；MS-024 炽刃掠目、泪水逆转；8 PN）建序 5 -->
 <!-- [event] The Andes Earthquake — andes-earthquake ✔ 建 R240 rev Itt9Qm（In Search of the Castaways；pn_anchor SC-013 夜震掀队、Robert Grant 失踪；7 PN）建序 6 -->
 <!-- [event] The Condor Abduction — condor-abduction ✔ 建 R241 rev TS2UyN（In Search of the Castaways；pn_anchor SC-014 秃鹰掠 Robert Grant、Thalcave 救；8 PN；剔 FC simile+SC-027 recap）建序 7 -->
-<!-- [event] The Missionary's Rescue — missionary-rescue 待建（Five Weeks in a Balloon；FWB-021/022 气球队救濒死法国传教士；"missionary" FWB 16 PN）建序 8 -->
+<!-- [event] The Missionary's Rescue — missionary-rescue ✔ 建 R242 rev n24yJJ（Five Weeks in a Balloon；pn_anchor FWB-022 Victoria 掠救火刑柱下传教士；8 PN；剔 FWB-004 史述+FWB-023 后续）建序 8 -->
 <!-- R238 discover new_candidates=4 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。event 空间仍广（36 部作品多数无 event）。 -->
 
 

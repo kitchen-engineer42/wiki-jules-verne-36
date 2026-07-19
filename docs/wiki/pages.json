@@ -1345,7 +1345,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 6
+      "total_refs": 7
     },
     "albatross": {
       "type": "technology",
@@ -10592,7 +10592,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 11
+      "total_refs": 12
     },
     "fix": {
       "type": "character",
@@ -17400,6 +17400,31 @@
       "quality_score": 65,
       "book": "From the Earth to the Moon",
       "total_refs": 42
+    },
+    "missionary-rescue": {
+      "type": "event",
+      "label": "The Missionary's Rescue",
+      "aliases": [
+        "The Rescue of the French Missionary"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "exploration",
+        "ballooning"
+      ],
+      "path": "mi/missionary-rescue.md",
+      "description": "Dr. Ferguson's balloon Victoria descends over an African village to snatch a young French missionary from the stake, lifting him to safety just as his captors close in.",
+      "prose_len": 2488,
+      "prose_chars": 2367,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 6,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     },
     "mississippi": {
       "type": "place",
@@ -30478,7 +30503,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 40
+      "total_refs": 41
     },
     "victoria-bay": {
       "type": "place",
@@ -32964,6 +32989,9 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "missionary-rescue": "missionary-rescue",
+    "The Missionary's Rescue": "missionary-rescue",
+    "The Rescue of the French Missionary": "missionary-rescue",
     "mississippi": "mississippi",
     "Mississippi": "mississippi",
     "Mississippi River": "mississippi",
@@ -33986,6 +34014,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1497,
-  "generated": "2026-07-19T03:09:07Z"
+  "page_count": 1498,
+  "generated": "2026-07-19T03:12:09Z"
 }

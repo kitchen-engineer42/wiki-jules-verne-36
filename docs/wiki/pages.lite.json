@@ -5196,6 +5196,14 @@
       "aliases": [],
       "path": "mi/michel-ardan.md"
     },
+    "missionary-rescue": {
+      "type": "event",
+      "label": "The Missionary's Rescue",
+      "aliases": [
+        "The Rescue of the French Missionary"
+      ],
+      "path": "mi/missionary-rescue.md"
+    },
     "mississippi": {
       "type": "place",
       "label": "Mississippi",
@@ -10728,6 +10736,9 @@
     "Michel Strogoff": "michael-strogoff",
     "michel-ardan": "michel-ardan",
     "Michel Ardan": "michel-ardan",
+    "missionary-rescue": "missionary-rescue",
+    "The Missionary's Rescue": "missionary-rescue",
+    "The Rescue of the French Missionary": "missionary-rescue",
     "mississippi": "mississippi",
     "Mississippi": "mississippi",
     "Mississippi River": "mississippi",
@@ -11750,6 +11761,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1497,
-  "generated": "2026-07-19T03:09:07Z"
+  "page_count": 1498,
+  "generated": "2026-07-19T03:12:09Z"
 }
