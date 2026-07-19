@@ -9207,7 +9207,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 79,
-      "total_refs": 3
+      "total_refs": 4
     },
     "failing-of-the-zacharius-clocks": {
       "type": "event",
@@ -15883,6 +15883,30 @@
       "blockquote_count": 0,
       "book": "Facing the Flag",
       "total_refs": 0
+    },
+    "ker-karraje": {
+      "type": "character",
+      "label": "Ker Karraje",
+      "aliases": [
+        "Count d'Artigas"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ke/ker-karraje.md",
+      "description": "The Malay pirate who, masked as the wealthy Count d'Artigas, rules the hidden lair of Back Cup and covets Thomas Roch's fulgurator to make himself master of the seas.",
+      "prose_len": 2628,
+      "prose_chars": 2501,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "Facing the Flag",
+      "total_refs": 3
     },
     "kerguelen": {
       "type": "place",
@@ -29477,7 +29501,7 @@
       "quality": "featured",
       "quality_score": 78,
       "book": "Facing the Flag",
-      "total_refs": 2
+      "total_refs": 3
     },
     "tibet": {
       "type": "place",
@@ -34998,6 +35022,9 @@
     "Kazounde": "kazounde",
     "kentucky": "kentucky",
     "Kentucky": "kentucky",
+    "ker-karraje": "ker-karraje",
+    "Ker Karraje": "ker-karraje",
+    "Count d'Artigas": "ker-karraje",
     "kerguelen": "kerguelen",
     "Kerguelen": "kerguelen",
     "ki-tsang-train-attack": "ki-tsang-train-attack",
@@ -36363,6 +36390,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1585,
-  "generated": "2026-07-19T11:25:36Z"
+  "page_count": 1586,
+  "generated": "2026-07-19T11:30:34Z"
 }
