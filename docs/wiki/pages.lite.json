@@ -7568,6 +7568,14 @@
       "aliases": [],
       "path": "sa/saint-pierre-miquelon.md"
     },
+    "saknussemm": {
+      "type": "character",
+      "label": "Arne Saknussemm",
+      "aliases": [
+        "Saknussemm"
+      ],
+      "path": "sa/saknussemm.md"
+    },
     "salt-lake-city": {
       "type": "place",
       "label": "Salt Lake City",
@@ -12326,6 +12334,9 @@
     "Loanda": "saint-paul-de-loanda",
     "saint-pierre-miquelon": "saint-pierre-miquelon",
     "Saint-Pierre-Miquelon": "saint-pierre-miquelon",
+    "saknussemm": "saknussemm",
+    "Arne Saknussemm": "saknussemm",
+    "Saknussemm": "saknussemm",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
@@ -13004,6 +13015,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1619,
-  "generated": "2026-07-19T13:55:22Z"
+  "page_count": 1620,
+  "generated": "2026-07-19T13:58:09Z"
 }
