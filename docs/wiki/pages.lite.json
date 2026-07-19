@@ -8516,6 +8516,12 @@
       "aliases": [],
       "path": "si/singapore.md"
     },
+    "sir-francis-trevellyan": {
+      "type": "character",
+      "label": "Sir Francis Trevellyan",
+      "aliases": [],
+      "path": "si/sir-francis-trevellyan.md"
+    },
     "smiths-straits": {
       "type": "place",
       "label": "Smith's Straits",
@@ -12370,6 +12376,8 @@
     "Gaydon": "simon-hart",
     "singapore": "singapore",
     "Singapore": "singapore",
+    "sir-francis-trevellyan": "sir-francis-trevellyan",
+    "Sir Francis Trevellyan": "sir-francis-trevellyan",
     "smiths-straits": "smiths-straits",
     "Smith's Straits": "smiths-straits",
     "Smith's Strait": "smiths-straits",
@@ -12827,6 +12835,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1598,
-  "generated": "2026-07-19T12:21:49Z"
+  "page_count": 1599,
+  "generated": "2026-07-19T12:27:28Z"
 }
