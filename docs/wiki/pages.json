@@ -15036,6 +15036,31 @@
       "book": "An Antarctic Mystery",
       "total_refs": 0
     },
+    "kilimanjaro-cannon-shot": {
+      "type": "event",
+      "label": "The Firing of the Kilimanjaro Cannon",
+      "aliases": [
+        "The Great Shot of Wamasai",
+        "The Axis-Shifting Shot"
+      ],
+      "tags": [
+        "event",
+        "artillery",
+        "geoengineering",
+        "africa"
+      ],
+      "path": "ki/kilimanjaro-cannon-shot.md",
+      "prose_len": 2853,
+      "prose_chars": 2717,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 78,
+      "book": "Topsy-Turvy",
+      "total_refs": 0
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -15057,7 +15082,7 @@
       "quality": "featured",
       "quality_score": 63,
       "book": "Topsy Turvy",
-      "total_refs": 1
+      "total_refs": 2
     },
     "klock-klock": {
       "type": "place",
@@ -28469,7 +28494,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 2
+      "total_refs": 3
     },
     "torres-strait": {
       "type": "place",
@@ -33079,6 +33104,10 @@
     "Kentucky": "kentucky",
     "kerguelen": "kerguelen",
     "Kerguelen": "kerguelen",
+    "kilimanjaro-cannon-shot": "kilimanjaro-cannon-shot",
+    "The Firing of the Kilimanjaro Cannon": "kilimanjaro-cannon-shot",
+    "The Great Shot of Wamasai": "kilimanjaro-cannon-shot",
+    "The Axis-Shifting Shot": "kilimanjaro-cannon-shot",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -34315,6 +34344,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1509,
-  "generated": "2026-07-19T04:09:55Z"
+  "page_count": 1510,
+  "generated": "2026-07-19T04:14:57Z"
 }

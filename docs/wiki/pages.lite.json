@@ -4499,6 +4499,15 @@
       "aliases": [],
       "path": "ke/kerguelen.md"
     },
+    "kilimanjaro-cannon-shot": {
+      "type": "event",
+      "label": "The Firing of the Kilimanjaro Cannon",
+      "aliases": [
+        "The Great Shot of Wamasai",
+        "The Axis-Shifting Shot"
+      ],
+      "path": "ki/kilimanjaro-cannon-shot.md"
+    },
     "kilimanjaro": {
       "type": "place",
       "label": "Kilimanjaro",
@@ -10648,6 +10657,10 @@
     "Kentucky": "kentucky",
     "kerguelen": "kerguelen",
     "Kerguelen": "kerguelen",
+    "kilimanjaro-cannon-shot": "kilimanjaro-cannon-shot",
+    "The Firing of the Kilimanjaro Cannon": "kilimanjaro-cannon-shot",
+    "The Great Shot of Wamasai": "kilimanjaro-cannon-shot",
+    "The Axis-Shifting Shot": "kilimanjaro-cannon-shot",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
     "klock-klock": "klock-klock",
@@ -11884,6 +11897,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1509,
-  "generated": "2026-07-19T04:09:55Z"
+  "page_count": 1510,
+  "generated": "2026-07-19T04:14:57Z"
 }
