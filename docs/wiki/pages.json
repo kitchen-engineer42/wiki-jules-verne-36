@@ -16918,7 +16918,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 9
+      "total_refs": 10
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -17247,7 +17247,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "madagascar": {
       "type": "place",
@@ -17451,7 +17451,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "The Fur Country",
-      "total_refs": 0
+      "total_refs": 1
     },
     "marfa-strogoff": {
       "type": "character",
@@ -23560,6 +23560,29 @@
       "book": "Doctor Ox's Experiment",
       "total_refs": 0
     },
+    "rae": {
+      "type": "character",
+      "label": "Rae",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "ra/rae.md",
+      "description": "The skilful blacksmith of the Fort Hope expedition in The Fur Country, who forges the fort's ironwork and volunteers among the bravest against the marauding bears.",
+      "prose_len": 2692,
+      "prose_chars": 2569,
+      "h2_count": 5,
+      "pn_count": 18,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "raleigh": {
       "type": "place",
       "label": "Raleigh",
@@ -25206,7 +25229,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Fur Country",
-      "total_refs": 1
+      "total_refs": 2
     },
     "sacramento": {
       "type": "place",
@@ -29946,7 +29969,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 26
+      "total_refs": 27
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -36453,6 +36476,8 @@
     "The Quiquendone Epidemic": "quiquendone-frenzy",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
+    "rae": "rae",
+    "Rae": "rae",
     "raleigh": "raleigh",
     "Raleigh": "raleigh",
     "RC-ch01": "RC-ch01",
@@ -37281,6 +37306,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1622,
-  "generated": "2026-07-19T14:09:47Z"
+  "page_count": 1623,
+  "generated": "2026-07-19T14:12:24Z"
 }

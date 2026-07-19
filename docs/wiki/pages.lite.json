@@ -7050,6 +7050,12 @@
       "aliases": [],
       "path": "qu/quiquendone.md"
     },
+    "rae": {
+      "type": "character",
+      "label": "Rae",
+      "aliases": [],
+      "path": "ra/rae.md"
+    },
     "raleigh": {
       "type": "place",
       "label": "Raleigh",
@@ -12206,6 +12212,8 @@
     "The Quiquendone Epidemic": "quiquendone-frenzy",
     "quiquendone": "quiquendone",
     "Quiquendone": "quiquendone",
+    "rae": "rae",
+    "Rae": "rae",
     "raleigh": "raleigh",
     "Raleigh": "raleigh",
     "RC-ch01": "RC-ch01",
@@ -13034,6 +13042,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1622,
-  "generated": "2026-07-19T14:09:47Z"
+  "page_count": 1623,
+  "generated": "2026-07-19T14:12:24Z"
 }
