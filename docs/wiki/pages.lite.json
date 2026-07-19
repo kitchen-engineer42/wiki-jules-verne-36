@@ -7864,6 +7864,14 @@
       "aliases": [],
       "path": "so/south-america.md"
     },
+    "south-pole-attained": {
+      "type": "event",
+      "label": "The South Pole Attained",
+      "aliases": [
+        "Nemo at the South Pole"
+      ],
+      "path": "so/south-pole-attained.md"
+    },
     "south-pole": {
       "type": "place",
       "label": "South Pole",
@@ -11285,6 +11293,9 @@
     "Soudan": "soudan",
     "south-america": "south-america",
     "South America": "south-america",
+    "south-pole-attained": "south-pole-attained",
+    "The South Pole Attained": "south-pole-attained",
+    "Nemo at the South Pole": "south-pole-attained",
     "south-pole": "south-pole",
     "South Pole": "south-pole",
     "spain": "spain",
@@ -11673,6 +11684,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1490,
-  "generated": "2026-07-19T02:29:05Z"
+  "page_count": 1491,
+  "generated": "2026-07-19T02:45:24Z"
 }

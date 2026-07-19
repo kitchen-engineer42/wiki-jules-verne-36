@@ -788,7 +788,7 @@
 <!-- ===== R233 CLOSE+SCN28（place→event，§5.1 类型切换 + 首轮 event discover 播种）===== -->
 <!-- CLOSE place：final_count 422，closed_at_round 233，evv6_score null（Phase 2.1 关闭前 EVV6 回填）。R231 覆盖后 R233 复评：四扫（discover3/single_toponym/feature_scan/possessive_scan）全跑得 0 净新地名（single_toponym 高频 Tchad→lake-tchad/Twofold→twofold-bay/Ural→ural-mountains/Gourbi→gourbi-island 皆已建；possessive 全 person/ship/报名/已建片段；feature 仅 Cape Mandible 净4/Long Island 净4 DEFER）。place 确证饱和 → 用户裁定加速 CLOSE（streak 1/3 但证据充分，免磨 2 空轮）。type_queue: [event,character]→[character]，current_type→event。 -->
 <!-- event 方法论转变：event 非 toponym，须以「事件锚点 pn_anchor」定位，非专名扫描。首轮播种 4 event 候选（皆 net-new，非既有 15 showcase event；建时须锚定 ≥5 solid PN + pn_anchor）：new_candidates=4≥3 → productive discover，discover_streak_low 保持 0。 -->
-<!-- [event] South Pole Attained — south-pole-attained 待建（TTLU；Nemo 抵南极点植旗；"South Pole" 35 PN）建序 1 -->
+<!-- [event] South Pole Attained — south-pole-attained ✔ 建 R234 rev N6Oncm（TTLU；Nemo 抵南极点植旗；9 PN）建序 1 -->
 <!-- [event] The Drifting Ice-Island — ice-island-drift 待建（FC；Fort Esperance 所在半岛断裂成浮冰岛漂流；peninsula/floating island 多 PN）建序 2 -->
 <!-- [event] The Comet's Collision — comet-collision 待建（Off on a Comet；地球被彗星掠走一隅成 Gallia；collision/Gallia 多 PN）建序 3 -->
 <!-- [event] The Forward Mutiny — forward-mutiny 待建（ACH；Forward 号船员哗变、弃船焚船；"the Forward" 10 PN + mutiny 语境）建序 4 -->

@@ -5287,7 +5287,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 69
+      "total_refs": 70
     },
     "caribbean-sea": {
       "type": "place",
@@ -5837,7 +5837,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 48
+      "total_refs": 49
     },
     "constantinople": {
       "type": "place",
@@ -18709,7 +18709,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 74
+      "total_refs": 75
     },
     "navy-island": {
       "type": "place",
@@ -18774,7 +18774,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 48
+      "total_refs": 49
     },
     "nemo-death": {
       "type": "event",
@@ -26399,6 +26399,31 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 6
     },
+    "south-pole-attained": {
+      "type": "event",
+      "label": "The South Pole Attained",
+      "aliases": [
+        "Nemo at the South Pole"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "exploration",
+        "submarine"
+      ],
+      "path": "so/south-pole-attained.md",
+      "description": "Captain Nemo drives the Nautilus beneath the Antarctic ice to reach the geographic South Pole and plant his flag on 21 March 1868.",
+      "prose_len": 2510,
+      "prose_chars": 2229,
+      "h2_count": 4,
+      "pn_count": 10,
+      "wikilink_count": 13,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "Twenty Thousand Leagues Under the Seas",
+      "total_refs": 0
+    },
     "south-pole": {
       "type": "place",
       "label": "South Pole",
@@ -26419,7 +26444,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 0
+      "total_refs": 1
     },
     "spain": {
       "type": "place",
@@ -29620,7 +29645,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 33
+      "total_refs": 34
     },
     "twofold-bay": {
       "type": "place",
@@ -33404,6 +33429,9 @@
     "Soudan": "soudan",
     "south-america": "south-america",
     "South America": "south-america",
+    "south-pole-attained": "south-pole-attained",
+    "The South Pole Attained": "south-pole-attained",
+    "Nemo at the South Pole": "south-pole-attained",
     "south-pole": "south-pole",
     "South Pole": "south-pole",
     "spain": "spain",
@@ -33792,6 +33820,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1490,
-  "generated": "2026-07-19T02:29:05Z"
+  "page_count": 1491,
+  "generated": "2026-07-19T02:45:24Z"
 }
