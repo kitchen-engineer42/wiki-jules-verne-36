@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 25
+      "total_refs": 26
     },
     "africa": {
       "type": "place",
@@ -9397,7 +9397,7 @@
       "quality_score": 76,
       "affiliation": "Grand Transasiatic Railway",
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "FC-ch01": {
       "type": "chapter",
@@ -16092,6 +16092,28 @@
       "quality_score": 63,
       "book": "Topsy Turvy",
       "total_refs": 2
+    },
+    "kinko": {
+      "type": "character",
+      "label": "Kinko",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ki/kinko.md",
+      "description": "A poor Romanian bound for Pekin, who crosses Asia as a stowaway sealed inside a packing case aboard the Grand Transasiatic, and dies a hero saving the runaway train.",
+      "prose_len": 2157,
+      "prose_chars": 2035,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "klock-klock": {
       "type": "place",
@@ -35205,6 +35227,8 @@
     "The Axis-Shifting Shot": "kilimanjaro-cannon-shot",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
+    "kinko": "kinko",
+    "Kinko": "kinko",
     "klock-klock": "klock-klock",
     "Klock-Klock": "klock-klock",
     "kolyvan": "kolyvan",
@@ -36566,6 +36590,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1593,
-  "generated": "2026-07-19T12:03:40Z"
+  "page_count": 1594,
+  "generated": "2026-07-19T12:08:14Z"
 }

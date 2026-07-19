@@ -4839,6 +4839,12 @@
       "aliases": [],
       "path": "ki/kilimanjaro.md"
     },
+    "kinko": {
+      "type": "character",
+      "label": "Kinko",
+      "aliases": [],
+      "path": "ki/kinko.md"
+    },
     "klock-klock": {
       "type": "place",
       "label": "Klock-Klock",
@@ -11426,6 +11432,8 @@
     "The Axis-Shifting Shot": "kilimanjaro-cannon-shot",
     "kilimanjaro": "kilimanjaro",
     "Kilimanjaro": "kilimanjaro",
+    "kinko": "kinko",
+    "Kinko": "kinko",
     "klock-klock": "klock-klock",
     "Klock-Klock": "klock-klock",
     "kolyvan": "kolyvan",
@@ -12787,6 +12795,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1593,
-  "generated": "2026-07-19T12:03:40Z"
+  "page_count": 1594,
+  "generated": "2026-07-19T12:08:14Z"
 }
