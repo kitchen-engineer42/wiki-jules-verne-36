@@ -801,6 +801,12 @@
 <!-- [event] The Missionary's Rescue — missionary-rescue ✔ 建 R242 rev n24yJJ（Five Weeks in a Balloon；pn_anchor FWB-022 Victoria 掠救火刑柱下传教士；8 PN；剔 FWB-004 史述+FWB-023 后续）建序 8 -->
 <!-- R238 discover new_candidates=4 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。event 空间仍广（36 部作品多数无 event）。 -->
 
+<!-- ===== R243 SCN28-zombie event discover（第 2 轮 event 复评）：播种 3 net-new 事件候选（皆非既有 23 event，exact-slug ABSENT；均取未覆盖作品）===== -->
+<!-- [event] The Burning of the Chancellor — chancellor-fire 待建（The Survivors of the Chancellor；SC2-009 棉货舱起火、无法扑救，幸存者海上苦难开端；"fire" SC2 47 PN）建序 9 ｜ 建时核船货起火单指 -->
+<!-- [event] The Whale Hunt Disaster — whale-hunt-disaster 待建（Dick Sand: A Captain at Fifteen；DSCF-008 捕鲸艇倾覆、Hull 与全员葬身、Dick Sand 少年掌舵；"whale" DSCF 73 PN）建序 10 ｜ 建时核 Hull 捕鲸覆没单指 -->
+<!-- [event] The Abduction by the Albatross — albatross-abduction 待建（Robur the Conqueror；RC-005 Uncle Prudent 与 Phil Evans 被 Robur 手下堵嘴蒙眼掳上飞行器；"Albatross" RC 众 PN）建序 11 ｜ 建时核 Weldon Institute 二人被掳单指 -->
+<!-- R243 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 SC2/DSCF/RC 三部未覆盖作品；event 空间仍广（MW/AM/EHLA/GM/Steam House 等待掘）。 -->
+
 
 
 ## P3 — 发现型（每11轮触发）
