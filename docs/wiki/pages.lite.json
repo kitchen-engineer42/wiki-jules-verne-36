@@ -3202,6 +3202,12 @@
       "aliases": [],
       "path": "fe/FEM-ch28.md"
     },
+    "feofar-khan": {
+      "type": "character",
+      "label": "Feofar-Khan",
+      "aliases": [],
+      "path": "fe/feofar-khan.md"
+    },
     "FF-ch01": {
       "type": "chapter",
       "label": "Facing the Flag — CHAPTER I",
@@ -10760,6 +10766,8 @@
     "FEM-ch26": "FEM-ch26",
     "FEM-ch27": "FEM-ch27",
     "FEM-ch28": "FEM-ch28",
+    "feofar-khan": "feofar-khan",
+    "Feofar-Khan": "feofar-khan",
     "FF-ch01": "FF-ch01",
     "FF-ch02": "FF-ch02",
     "FF-ch03": "FF-ch03",
@@ -12490,6 +12498,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1560,
-  "generated": "2026-07-19T09:26:02Z"
+  "page_count": 1561,
+  "generated": "2026-07-19T09:29:29Z"
 }

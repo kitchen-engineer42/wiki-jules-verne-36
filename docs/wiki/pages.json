@@ -10629,6 +10629,27 @@
       "book": "From the Earth to the Moon",
       "total_refs": 1
     },
+    "feofar-khan": {
+      "type": "character",
+      "label": "Feofar-Khan",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "fe/feofar-khan.md",
+      "description": "The fierce Emir of Bukhara and nominal leader of the Tartar invasion, who condemns Michael Strogoff to be blinded.",
+      "prose_len": 2168,
+      "prose_chars": 2046,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Michael Strogoff",
+      "total_refs": 0
+    },
     "FF-ch01": {
       "type": "chapter",
       "label": "Facing the Flag — CHAPTER I",
@@ -14410,7 +14431,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Michael Strogoff",
-      "total_refs": 1
+      "total_refs": 2
     },
     "jacamar-wood": {
       "type": "place",
@@ -18243,7 +18264,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 36
+      "total_refs": 37
     },
     "michel-ardan": {
       "type": "character",
@@ -18290,7 +18311,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 5
+      "total_refs": 6
     },
     "missionary-rescue": {
       "type": "event",
@@ -34010,6 +34031,8 @@
     "FEM-ch26": "FEM-ch26",
     "FEM-ch27": "FEM-ch27",
     "FEM-ch28": "FEM-ch28",
+    "feofar-khan": "feofar-khan",
+    "Feofar-Khan": "feofar-khan",
     "FF-ch01": "FF-ch01",
     "FF-ch02": "FF-ch02",
     "FF-ch03": "FF-ch03",
@@ -35740,6 +35763,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1560,
-  "generated": "2026-07-19T09:26:02Z"
+  "page_count": 1561,
+  "generated": "2026-07-19T09:29:54Z"
 }
