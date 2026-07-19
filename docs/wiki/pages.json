@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 23
+      "total_refs": 24
     },
     "africa": {
       "type": "place",
@@ -16929,6 +16929,29 @@
       "quality_score": 61,
       "book": "The Waif of the Cynthia",
       "total_refs": 0
+    },
+    "major-noltitz": {
+      "type": "character",
+      "label": "Major Noltitz",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ma/major-noltitz.md",
+      "description": "The obliging Russian army surgeon who becomes Claudius Bombarnac's companion and guide across the Grand Transasiatic Railway, sharing his suspicions of the false Faruskiar.",
+      "prose_len": 2211,
+      "prose_chars": 2083,
+      "h2_count": 5,
+      "pn_count": 11,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "affiliation": "Russian army",
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 1
     },
     "malta": {
       "type": "place",
@@ -35135,6 +35158,8 @@
     "Madras": "madras",
     "madrid": "madrid",
     "Madrid": "madrid",
+    "major-noltitz": "major-noltitz",
+    "Major Noltitz": "major-noltitz",
     "malta": "malta",
     "Malta": "malta",
     "manaos": "manaos",
@@ -36390,6 +36415,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1586,
-  "generated": "2026-07-19T11:30:34Z"
+  "page_count": 1587,
+  "generated": "2026-07-19T11:34:31Z"
 }

@@ -5089,6 +5089,12 @@
       "aliases": [],
       "path": "ma/madrid.md"
     },
+    "major-noltitz": {
+      "type": "character",
+      "label": "Major Noltitz",
+      "aliases": [],
+      "path": "ma/major-noltitz.md"
+    },
     "malta": {
       "type": "place",
       "label": "Malta",
@@ -11471,6 +11477,8 @@
     "Madras": "madras",
     "madrid": "madrid",
     "Madrid": "madrid",
+    "major-noltitz": "major-noltitz",
+    "Major Noltitz": "major-noltitz",
     "malta": "malta",
     "Malta": "malta",
     "manaos": "manaos",
@@ -12726,6 +12734,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1586,
-  "generated": "2026-07-19T11:30:34Z"
+  "page_count": 1587,
+  "generated": "2026-07-19T11:34:31Z"
 }
