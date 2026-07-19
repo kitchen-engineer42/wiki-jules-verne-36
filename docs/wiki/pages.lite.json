@@ -1660,6 +1660,12 @@
       ],
       "path": "ca/captain-nemo.md"
     },
+    "captain-nicholl": {
+      "type": "character",
+      "label": "Captain Nicholl",
+      "aliases": [],
+      "path": "ca/captain-nicholl.md"
+    },
     "caribbean-sea": {
       "type": "place",
       "label": "Caribbean Sea",
@@ -10520,6 +10526,8 @@
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
     "Prince Dakkar": "captain-nemo",
+    "captain-nicholl": "captain-nicholl",
+    "Captain Nicholl": "captain-nicholl",
     "caribbean-sea": "caribbean-sea",
     "Caribbean Sea": "caribbean-sea",
     "carmen": "carmen",
@@ -12659,6 +12667,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1578,
-  "generated": "2026-07-19T10:54:24Z"
+  "page_count": 1579,
+  "generated": "2026-07-19T10:57:47Z"
 }
