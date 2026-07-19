@@ -2123,7 +2123,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "amazon": {
       "type": "place",
@@ -8788,7 +8788,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 17
+      "total_refs": 18
     },
     "eighty-day-wager": {
       "type": "event",
@@ -22629,6 +22629,33 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "rescue-of-joam-dacosta": {
+      "type": "event",
+      "label": "The Rescue of Joam Dacosta",
+      "aliases": [
+        "The Gallows Reprieve",
+        "Vindication of Joam Dacosta",
+        "The Ortega Confession"
+      ],
+      "tags": [
+        "event",
+        "rescue",
+        "trial",
+        "cryptography",
+        "1850s"
+      ],
+      "path": "re/rescue-of-joam-dacosta.md",
+      "prose_len": 2959,
+      "prose_chars": 2835,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 79,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "return-to-earth-by-balloon": {
       "type": "event",
       "label": "The Return to Earth by Balloon",
@@ -34184,6 +34211,11 @@
     "Reform Club": "reform-club",
     "reptile-end": "reptile-end",
     "Reptile End": "reptile-end",
+    "rescue-of-joam-dacosta": "rescue-of-joam-dacosta",
+    "The Rescue of Joam Dacosta": "rescue-of-joam-dacosta",
+    "The Gallows Reprieve": "rescue-of-joam-dacosta",
+    "Vindication of Joam Dacosta": "rescue-of-joam-dacosta",
+    "The Ortega Confession": "rescue-of-joam-dacosta",
     "return-to-earth-by-balloon": "return-to-earth-by-balloon",
     "The Return to Earth by Balloon": "return-to-earth-by-balloon",
     "The Ascent from Gallia": "return-to-earth-by-balloon",
@@ -34896,6 +34928,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1529,
-  "generated": "2026-07-19T06:27:32Z"
+  "page_count": 1530,
+  "generated": "2026-07-19T06:30:51Z"
 }

@@ -6774,6 +6774,16 @@
       "aliases": [],
       "path": "re/reptile-end.md"
     },
+    "rescue-of-joam-dacosta": {
+      "type": "event",
+      "label": "The Rescue of Joam Dacosta",
+      "aliases": [
+        "The Gallows Reprieve",
+        "Vindication of Joam Dacosta",
+        "The Ortega Confession"
+      ],
+      "path": "re/rescue-of-joam-dacosta.md"
+    },
     "return-to-earth-by-balloon": {
       "type": "event",
       "label": "The Return to Earth by Balloon",
@@ -11436,6 +11446,11 @@
     "Reform Club": "reform-club",
     "reptile-end": "reptile-end",
     "Reptile End": "reptile-end",
+    "rescue-of-joam-dacosta": "rescue-of-joam-dacosta",
+    "The Rescue of Joam Dacosta": "rescue-of-joam-dacosta",
+    "The Gallows Reprieve": "rescue-of-joam-dacosta",
+    "Vindication of Joam Dacosta": "rescue-of-joam-dacosta",
+    "The Ortega Confession": "rescue-of-joam-dacosta",
     "return-to-earth-by-balloon": "return-to-earth-by-balloon",
     "The Return to Earth by Balloon": "return-to-earth-by-balloon",
     "The Ascent from Gallia": "return-to-earth-by-balloon",
@@ -12148,6 +12163,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1529,
-  "generated": "2026-07-19T06:27:32Z"
+  "page_count": 1530,
+  "generated": "2026-07-19T06:30:51Z"
 }
