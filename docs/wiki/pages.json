@@ -6608,7 +6608,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 16
+      "total_refs": 17
     },
     "dick-sand": {
       "type": "character",
@@ -6632,7 +6632,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -19615,6 +19615,28 @@
       "quality_score": 66,
       "book": "Twenty Thousand Leagues Under the Seas",
       "total_refs": 50
+    },
+    "negoro": {
+      "type": "character",
+      "label": "Negoro",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ne/negoro.md",
+      "description": "The treacherous Portuguese cook of the Pilgrim who sabotages the ship and reveals himself as a slave-trader.",
+      "prose_len": 2458,
+      "prose_chars": 2178,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 4,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Dick Sand, A Captain at Fifteen",
+      "total_refs": 0
     },
     "nemo-death": {
       "type": "event",
@@ -34409,6 +34431,8 @@
     "Nebraska": "nebraska",
     "ned-land": "ned-land",
     "Ned Land": "ned-land",
+    "negoro": "negoro",
+    "Negoro": "negoro",
     "nemo-death": "nemo-death",
     "The Death of Captain Nemo": "nemo-death",
     "Nemo's Last Hours": "nemo-death",
@@ -35424,6 +35448,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1547,
-  "generated": "2026-07-19T08:27:54Z"
+  "page_count": 1548,
+  "generated": "2026-07-19T08:30:56Z"
 }
