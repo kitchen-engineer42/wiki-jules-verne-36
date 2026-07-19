@@ -6408,7 +6408,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "creek-glycerine": {
       "type": "place",
@@ -6740,7 +6740,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 19
+      "total_refs": 20
     },
     "dick-sand": {
       "type": "character",
@@ -6764,7 +6764,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 3
+      "total_refs": 4
     },
     "dirk-peters": {
       "type": "character",
@@ -18860,6 +18860,28 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Round the Moon",
+      "total_refs": 0
+    },
+    "mrs-weldon": {
+      "type": "character",
+      "label": "Mrs. Weldon",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "mr/mrs-weldon.md",
+      "description": "The brave wife of the Pilgrim's owner, whose passage home with her son and Cousin Benedict turns into shipwreck and African captivity, borne with courage and principle.",
+      "prose_len": 2405,
+      "prose_chars": 2278,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
     "MS-ch01": {
@@ -35135,6 +35157,8 @@
     "Mount Mendif": "mount-mendif",
     "mounts-doerfel": "mounts-doerfel",
     "Mounts Doerfel": "mounts-doerfel",
+    "mrs-weldon": "mrs-weldon",
+    "Mrs. Weldon": "mrs-weldon",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -36242,6 +36266,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1580,
-  "generated": "2026-07-19T11:00:54Z"
+  "page_count": 1581,
+  "generated": "2026-07-19T11:04:13Z"
 }

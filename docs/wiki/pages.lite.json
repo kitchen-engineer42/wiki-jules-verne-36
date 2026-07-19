@@ -5663,6 +5663,12 @@
       "aliases": [],
       "path": "mo/mounts-doerfel.md"
     },
+    "mrs-weldon": {
+      "type": "character",
+      "label": "Mrs. Weldon",
+      "aliases": [],
+      "path": "mr/mrs-weldon.md"
+    },
     "MS-ch01": {
       "type": "chapter",
       "label": "Michael Strogoff — BOOK I",
@@ -11568,6 +11574,8 @@
     "Mount Mendif": "mount-mendif",
     "mounts-doerfel": "mounts-doerfel",
     "Mounts Doerfel": "mounts-doerfel",
+    "mrs-weldon": "mrs-weldon",
+    "Mrs. Weldon": "mrs-weldon",
     "MS-ch01": "MS-ch01",
     "MS-ch02": "MS-ch02",
     "MS-ch03": "MS-ch03",
@@ -12675,6 +12683,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1580,
-  "generated": "2026-07-19T11:00:54Z"
+  "page_count": 1581,
+  "generated": "2026-07-19T11:04:13Z"
 }
