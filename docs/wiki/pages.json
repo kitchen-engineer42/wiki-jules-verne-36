@@ -9156,7 +9156,7 @@
       "quality": "featured",
       "quality_score": 77,
       "book": "The Waif of the Cynthia",
-      "total_refs": 0
+      "total_refs": 1
     },
     "etna": {
       "type": "place",
@@ -29455,7 +29455,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 24
+      "total_refs": 25
     },
     "thomas-roch": {
       "type": "character",
@@ -31613,6 +31613,28 @@
       "book_seq": 47,
       "book": "Twenty Thousand Leagues Under the Sea",
       "total_refs": 2
+    },
+    "tudor-brown": {
+      "type": "character",
+      "label": "Tudor Brown",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "tu/tudor-brown.md",
+      "description": "The sinister and enigmatic villain of The Waif of the Cynthia, who schemes to keep Erik from his origins and dies in the Arctic by the same violence he deals out.",
+      "prose_len": 2398,
+      "prose_chars": 2272,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
     },
     "tunis": {
       "type": "place",
@@ -36154,6 +36176,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "tudor-brown": "tudor-brown",
+    "Tudor Brown": "tudor-brown",
     "tunis": "tunis",
     "Tunis": "tunis",
     "Bay of Tunis": "tunis",
@@ -36314,6 +36338,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1583,
-  "generated": "2026-07-19T11:17:41Z"
+  "page_count": 1584,
+  "generated": "2026-07-19T11:21:35Z"
 }

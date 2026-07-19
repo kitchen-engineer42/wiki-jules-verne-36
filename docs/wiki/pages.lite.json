@@ -9496,6 +9496,12 @@
       "aliases": [],
       "path": "tt/TTLU-ch47.md"
     },
+    "tudor-brown": {
+      "type": "character",
+      "label": "Tudor Brown",
+      "aliases": [],
+      "path": "tu/tudor-brown.md"
+    },
     "tunis": {
       "type": "place",
       "label": "Tunis",
@@ -12539,6 +12545,8 @@
     "TTLU-ch45": "TTLU-ch45",
     "TTLU-ch46": "TTLU-ch46",
     "TTLU-ch47": "TTLU-ch47",
+    "tudor-brown": "tudor-brown",
+    "Tudor Brown": "tudor-brown",
     "tunis": "tunis",
     "Tunis": "tunis",
     "Bay of Tunis": "tunis",
@@ -12699,6 +12707,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1583,
-  "generated": "2026-07-19T11:17:41Z"
+  "page_count": 1584,
+  "generated": "2026-07-19T11:21:35Z"
 }
