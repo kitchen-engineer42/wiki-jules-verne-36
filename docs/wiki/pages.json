@@ -1250,7 +1250,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 82,
-      "total_refs": 1
+      "total_refs": 2
     },
     "adelaide": {
       "type": "place",
@@ -27858,6 +27858,31 @@
       "quality_score": 40,
       "total_refs": 15
     },
+    "the-madman-in-the-balloon": {
+      "type": "event",
+      "label": "The Madman in the Balloon",
+      "aliases": [
+        "The Balloon Drama",
+        "The Drama in the Air"
+      ],
+      "tags": [
+        "event",
+        "ballooning",
+        "disaster",
+        "madness"
+      ],
+      "path": "th/the-madman-in-the-balloon.md",
+      "prose_len": 2224,
+      "prose_chars": 2101,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "A Drama in the Air",
+      "total_refs": 0
+    },
     "the-master-of-the-world": {
       "type": "work",
       "label": "The Master of the World",
@@ -34296,6 +34321,10 @@
     "the-fur-country": "the-fur-country",
     "The Fur Country": "the-fur-country",
     "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
+    "the-madman-in-the-balloon": "the-madman-in-the-balloon",
+    "The Madman in the Balloon": "the-madman-in-the-balloon",
+    "The Balloon Drama": "the-madman-in-the-balloon",
+    "The Drama in the Air": "the-madman-in-the-balloon",
     "the-master-of-the-world": "the-master-of-the-world",
     "The Master of the World": "the-master-of-the-world",
     "Maître du monde": "the-master-of-the-world",
@@ -34605,6 +34634,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1519,
-  "generated": "2026-07-19T05:02:37Z"
+  "page_count": 1520,
+  "generated": "2026-07-19T05:04:53Z"
 }

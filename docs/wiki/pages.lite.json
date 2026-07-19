@@ -8326,6 +8326,15 @@
       ],
       "path": "th/the-fur-country.md"
     },
+    "the-madman-in-the-balloon": {
+      "type": "event",
+      "label": "The Madman in the Balloon",
+      "aliases": [
+        "The Balloon Drama",
+        "The Drama in the Air"
+      ],
+      "path": "th/the-madman-in-the-balloon.md"
+    },
     "the-master-of-the-world": {
       "type": "work",
       "label": "The Master of the World",
@@ -11705,6 +11714,10 @@
     "the-fur-country": "the-fur-country",
     "The Fur Country": "the-fur-country",
     "The Fur Country: Seventy Degrees North Latitude": "the-fur-country",
+    "the-madman-in-the-balloon": "the-madman-in-the-balloon",
+    "The Madman in the Balloon": "the-madman-in-the-balloon",
+    "The Balloon Drama": "the-madman-in-the-balloon",
+    "The Drama in the Air": "the-madman-in-the-balloon",
     "the-master-of-the-world": "the-master-of-the-world",
     "The Master of the World": "the-master-of-the-world",
     "Maître du monde": "the-master-of-the-world",
@@ -12014,6 +12027,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1519,
-  "generated": "2026-07-19T05:02:37Z"
+  "page_count": 1520,
+  "generated": "2026-07-19T05:04:53Z"
 }
