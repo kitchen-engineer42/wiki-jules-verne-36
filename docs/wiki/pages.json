@@ -13066,7 +13066,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 6
+      "total_refs": 7
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14653,7 +14653,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 40
+      "total_refs": 41
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16018,7 +16018,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "johnson": {
       "type": "character",
@@ -16551,7 +16551,7 @@
       "wikilink_count": 4,
       "blockquote_count": 0,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lake-baikal": {
       "type": "place",
@@ -22497,6 +22497,29 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Master of the World",
+      "total_refs": 0
+    },
+    "olbinett": {
+      "type": "character",
+      "label": "Olbinett",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "ol/olbinett.md",
+      "description": "The devoted steward of the yacht Duncan in In Search of the Castaways, whose portable kitchen and unfailing meals sustain Glenarvan's overland search party.",
+      "prose_len": 2017,
+      "prose_chars": 1889,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 70,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "omaha": {
@@ -36515,6 +36538,8 @@
     "To the Sun? / Off on a Comet": "off-on-a-comet",
     "ohio": "ohio",
     "Ohio": "ohio",
+    "olbinett": "olbinett",
+    "Olbinett": "olbinett",
     "omaha": "omaha",
     "Omaha": "omaha",
     "omsk": "omsk",
@@ -37463,6 +37488,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1629,
-  "generated": "2026-07-19T14:42:28Z"
+  "page_count": 1630,
+  "generated": "2026-07-19T14:45:00Z"
 }
