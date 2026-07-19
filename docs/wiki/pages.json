@@ -13679,6 +13679,30 @@
       "book": "Facing the Flag",
       "total_refs": 3
     },
+    "herbert": {
+      "type": "character",
+      "label": "Herbert",
+      "aliases": [
+        "Herbert Brown"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "he/herbert.md",
+      "description": "The youngest of the five castaways of Lincoln Island, the boy naturalist of the colony.",
+      "prose_len": 2202,
+      "prose_chars": 2083,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Mysterious Island",
+      "total_refs": 0
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -28464,7 +28488,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 26
+      "total_refs": 27
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -33868,6 +33892,9 @@
     "Le Havre": "havre",
     "healthful-house": "healthful-house",
     "Healthful House": "healthful-house",
+    "herbert": "herbert",
+    "Herbert": "herbert",
+    "Herbert Brown": "herbert",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -35320,6 +35347,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1543,
-  "generated": "2026-07-19T08:07:59Z"
+  "page_count": 1544,
+  "generated": "2026-07-19T08:11:36Z"
 }

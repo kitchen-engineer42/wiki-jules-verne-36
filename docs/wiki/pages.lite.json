@@ -4121,6 +4121,14 @@
       "aliases": [],
       "path": "he/healthful-house.md"
     },
+    "herbert": {
+      "type": "character",
+      "label": "Herbert",
+      "aliases": [
+        "Herbert Brown"
+      ],
+      "path": "he/herbert.md"
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -10889,6 +10897,9 @@
     "Le Havre": "havre",
     "healthful-house": "healthful-house",
     "Healthful House": "healthful-house",
+    "herbert": "herbert",
+    "Herbert": "herbert",
+    "Herbert Brown": "herbert",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -12341,6 +12352,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1543,
-  "generated": "2026-07-19T08:07:59Z"
+  "page_count": 1544,
+  "generated": "2026-07-19T08:11:36Z"
 }
