@@ -4241,6 +4241,14 @@
       "aliases": [],
       "path": "ha/hamburg.md"
     },
+    "hans-bjelke": {
+      "type": "character",
+      "label": "Hans Bjelke",
+      "aliases": [
+        "Hans"
+      ],
+      "path": "ha/hans-bjelke.md"
+    },
     "harry-blount": {
       "type": "character",
       "label": "Harry Blount",
@@ -11389,6 +11397,9 @@
     "Ham Rock": "ham-rock",
     "hamburg": "hamburg",
     "Hamburg": "hamburg",
+    "hans-bjelke": "hans-bjelke",
+    "Hans Bjelke": "hans-bjelke",
+    "Hans": "hans-bjelke",
     "harry-blount": "harry-blount",
     "Harry Blount": "harry-blount",
     "havre": "havre",
@@ -12958,6 +12969,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1614,
-  "generated": "2026-07-19T13:33:55Z"
+  "page_count": 1615,
+  "generated": "2026-07-19T13:36:33Z"
 }
