@@ -5,9 +5,8 @@
   "phase2_iteration": 1,
   "phase2_closed": false,
   "showcase_done": true,
-  "current_type": "place",
+  "current_type": "event",
   "type_queue": [
-    "event",
     "character"
   ],
   "closed_types": [
@@ -28,15 +27,21 @@
       "closed_at_round": 28,
       "final_count": 20,
       "evv6_score": null
+    },
+    {
+      "type": "place",
+      "closed_at_round": 233,
+      "final_count": 422,
+      "evv6_score": null
     }
   ],
   "counters": {
-    "current_round": 233,
-    "type_round": 204,
-    "rounds_since_last_evv5": 6,
-    "rounds_since_last_discover": 2,
+    "current_round": 234,
+    "type_round": 0,
+    "rounds_since_last_evv5": 0,
+    "rounds_since_last_discover": 0,
     "discover_streak_low": 0,
-    "rounds_since_last_corpus_discover": 169,
+    "rounds_since_last_corpus_discover": 170,
     "corpus_discover_streak_low": 0
   },
   "thresholds": {
@@ -53,5 +58,5 @@
     "corpus_exhausted": false
   },
   "pending_new_types": [],
-  "last_updated_round": 233
+  "last_updated_round": 234
 }
