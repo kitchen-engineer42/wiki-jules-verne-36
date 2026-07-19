@@ -8334,6 +8334,12 @@
       "aliases": [],
       "path": "se/senegal.md"
     },
+    "sergeant-long": {
+      "type": "character",
+      "label": "Sergeant Long",
+      "aliases": [],
+      "path": "se/sergeant-long.md"
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -12363,6 +12369,8 @@
     "Semipolatinsk": "semipolatinsk",
     "senegal": "senegal",
     "Senegal": "senegal",
+    "sergeant-long": "sergeant-long",
+    "Sergeant Long": "sergeant-long",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shanghai": "shanghai",
@@ -12875,6 +12883,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1604,
-  "generated": "2026-07-19T12:48:30Z"
+  "page_count": 1605,
+  "generated": "2026-07-19T12:51:11Z"
 }

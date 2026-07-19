@@ -16753,7 +16753,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 2
+      "total_refs": 3
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -22479,7 +22479,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -27807,6 +27807,27 @@
       "book": "Five Weeks in a Balloon",
       "total_refs": 1
     },
+    "sergeant-long": {
+      "type": "character",
+      "label": "Sergeant Long",
+      "aliases": [],
+      "tags": [
+        "character",
+        "exploration"
+      ],
+      "path": "se/sergeant-long.md",
+      "description": "The steadfast sergeant of the Company's expedition to the far north, a model soldier and Lieutenant Hobson's most trusted second.",
+      "prose_len": 2162,
+      "prose_chars": 2036,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "serpentine-peninsula": {
       "type": "place",
       "label": "Serpentine Peninsula",
@@ -29578,7 +29599,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 18
+      "total_refs": 19
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -36317,6 +36338,8 @@
     "Semipolatinsk": "semipolatinsk",
     "senegal": "senegal",
     "Senegal": "senegal",
+    "sergeant-long": "sergeant-long",
+    "Sergeant Long": "sergeant-long",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
     "shanghai": "shanghai",
@@ -36829,6 +36852,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1604,
-  "generated": "2026-07-19T12:48:30Z"
+  "page_count": 1605,
+  "generated": "2026-07-19T12:51:11Z"
 }
