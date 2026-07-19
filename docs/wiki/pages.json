@@ -6825,7 +6825,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 1
+      "total_refs": 2
     },
     "dick-sand-a-captain-at-fifteen": {
       "type": "work",
@@ -11437,7 +11437,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 15
+      "total_refs": 16
     },
     "fix": {
       "type": "character",
@@ -15878,6 +15878,29 @@
       "book_seq": 92,
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
+    },
+    "joe": {
+      "type": "character",
+      "label": "Joe",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "ballooning"
+      ],
+      "path": "jo/joe.md",
+      "description": "Dr. Ferguson's devoted and agile servant, the cheerful 'right hand' of the balloon expedition across Africa in Five Weeks in a Balloon.",
+      "prose_len": 1983,
+      "prose_chars": 1859,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     },
     "john-mangles": {
       "type": "character",
@@ -25229,7 +25252,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "san-francisco": {
       "type": "place",
@@ -35664,6 +35687,8 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "joe": "joe",
+    "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
     "journey-to-the-center-of-the-earth": "journey-to-the-center-of-the-earth",
@@ -37097,6 +37122,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1615,
-  "generated": "2026-07-19T13:36:33Z"
+  "page_count": 1616,
+  "generated": "2026-07-19T13:41:57Z"
 }
