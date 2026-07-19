@@ -5613,7 +5613,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Godfrey Morgan",
-      "total_refs": 0
+      "total_refs": 1
     },
     "caribbean-sea": {
       "type": "place",
@@ -13508,7 +13508,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 7
+      "total_refs": 8
     },
     "gondokoro": {
       "type": "place",
@@ -33960,6 +33960,27 @@
       "book": "An Antarctic Mystery",
       "total_refs": 0
     },
+    "william-kolderup": {
+      "type": "character",
+      "label": "William W. Kolderup",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "wi/william-kolderup.md",
+      "description": "The immensely rich San Francisco nabob who is Godfrey's uncle and guardian, and who secretly stages his nephew's desert-island ordeal to teach him a lesson.",
+      "prose_len": 1916,
+      "prose_chars": 1783,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "wimerra": {
       "type": "place",
       "label": "Wimerra",
@@ -36822,6 +36843,8 @@
     "william-guy": "william-guy",
     "William Guy": "william-guy",
     "Captain William Guy": "william-guy",
+    "william-kolderup": "william-kolderup",
+    "William W. Kolderup": "william-kolderup",
     "wimerra": "wimerra",
     "Wimerra": "wimerra",
     "Wimerra River": "wimerra",
@@ -36852,6 +36875,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1605,
-  "generated": "2026-07-19T12:51:11Z"
+  "page_count": 1606,
+  "generated": "2026-07-19T12:55:38Z"
 }

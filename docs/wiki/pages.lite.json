@@ -10183,6 +10183,12 @@
       ],
       "path": "wi/william-guy.md"
     },
+    "william-kolderup": {
+      "type": "character",
+      "label": "William W. Kolderup",
+      "aliases": [],
+      "path": "wi/william-kolderup.md"
+    },
     "wimerra": {
       "type": "place",
       "label": "Wimerra",
@@ -12853,6 +12859,8 @@
     "william-guy": "william-guy",
     "William Guy": "william-guy",
     "Captain William Guy": "william-guy",
+    "william-kolderup": "william-kolderup",
+    "William W. Kolderup": "william-kolderup",
     "wimerra": "wimerra",
     "Wimerra": "wimerra",
     "Wimerra River": "wimerra",
@@ -12883,6 +12891,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1605,
-  "generated": "2026-07-19T12:51:11Z"
+  "page_count": 1606,
+  "generated": "2026-07-19T12:55:38Z"
 }
