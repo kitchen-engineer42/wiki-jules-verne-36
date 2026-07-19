@@ -3306,6 +3306,16 @@
       "aliases": [],
       "path": "fl/flag-point.md"
     },
+    "flight-to-the-senegal": {
+      "type": "event",
+      "label": "The Flight to the Senegal",
+      "aliases": [
+        "The Last Sacrifice",
+        "Crossing the Senegal",
+        "The Talabas Pursuit"
+      ],
+      "path": "fl/flight-to-the-senegal.md"
+    },
     "florida": {
       "type": "place",
       "label": "Florida",
@@ -10504,6 +10514,11 @@
     "Fix": "fix",
     "flag-point": "flag-point",
     "Flag Point": "flag-point",
+    "flight-to-the-senegal": "flight-to-the-senegal",
+    "The Flight to the Senegal": "flight-to-the-senegal",
+    "The Last Sacrifice": "flight-to-the-senegal",
+    "Crossing the Senegal": "flight-to-the-senegal",
+    "The Talabas Pursuit": "flight-to-the-senegal",
     "florida": "florida",
     "Florida": "florida",
     "Pascha Florida": "florida",
@@ -12105,6 +12120,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1526,
-  "generated": "2026-07-19T06:03:16Z"
+  "page_count": 1527,
+  "generated": "2026-07-19T06:07:54Z"
 }

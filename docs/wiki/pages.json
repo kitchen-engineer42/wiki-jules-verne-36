@@ -10937,7 +10937,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 12
+      "total_refs": 13
     },
     "fix": {
       "type": "character",
@@ -10985,6 +10985,32 @@
       "quality_score": 67,
       "book": "Godfrey Morgan",
       "total_refs": 1
+    },
+    "flight-to-the-senegal": {
+      "type": "event",
+      "label": "The Flight to the Senegal",
+      "aliases": [
+        "The Last Sacrifice",
+        "Crossing the Senegal",
+        "The Talabas Pursuit"
+      ],
+      "tags": [
+        "event",
+        "ballooning",
+        "pursuit",
+        "exploration"
+      ],
+      "path": "fl/flight-to-the-senegal.md",
+      "prose_len": 3583,
+      "prose_chars": 3454,
+      "h2_count": 4,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 85,
+      "book": "Five Weeks in a Balloon",
+      "total_refs": 0
     },
     "florida": {
       "type": "place",
@@ -26272,7 +26298,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "serpentine-peninsula": {
       "type": "place",
@@ -33203,6 +33229,11 @@
     "Fix": "fix",
     "flag-point": "flag-point",
     "Flag Point": "flag-point",
+    "flight-to-the-senegal": "flight-to-the-senegal",
+    "The Flight to the Senegal": "flight-to-the-senegal",
+    "The Last Sacrifice": "flight-to-the-senegal",
+    "Crossing the Senegal": "flight-to-the-senegal",
+    "The Talabas Pursuit": "flight-to-the-senegal",
     "florida": "florida",
     "Florida": "florida",
     "Pascha Florida": "florida",
@@ -34804,6 +34835,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1526,
-  "generated": "2026-07-19T06:03:16Z"
+  "page_count": 1527,
+  "generated": "2026-07-19T06:07:54Z"
 }
