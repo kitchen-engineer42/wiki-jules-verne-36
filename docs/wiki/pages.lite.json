@@ -6804,6 +6804,16 @@
       "aliases": [],
       "path": "re/reptile-end.md"
     },
+    "rescue-of-carefinotu": {
+      "type": "event",
+      "label": "The Rescue of Carefinotu",
+      "aliases": [
+        "Godfrey's Rescue of the Native",
+        "Deliverance from the Cannibals",
+        "Tartlet's Gun Does Marvels"
+      ],
+      "path": "re/rescue-of-carefinotu.md"
+    },
     "rescue-of-joam-dacosta": {
       "type": "event",
       "label": "The Rescue of Joam Dacosta",
@@ -11531,6 +11541,11 @@
     "Reform Club": "reform-club",
     "reptile-end": "reptile-end",
     "Reptile End": "reptile-end",
+    "rescue-of-carefinotu": "rescue-of-carefinotu",
+    "The Rescue of Carefinotu": "rescue-of-carefinotu",
+    "Godfrey's Rescue of the Native": "rescue-of-carefinotu",
+    "Deliverance from the Cannibals": "rescue-of-carefinotu",
+    "Tartlet's Gun Does Marvels": "rescue-of-carefinotu",
     "rescue-of-joam-dacosta": "rescue-of-joam-dacosta",
     "The Rescue of Joam Dacosta": "rescue-of-joam-dacosta",
     "The Gallows Reprieve": "rescue-of-joam-dacosta",
@@ -12268,6 +12283,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1537,
-  "generated": "2026-07-19T07:18:08Z"
+  "page_count": 1538,
+  "generated": "2026-07-19T07:31:04Z"
 }
