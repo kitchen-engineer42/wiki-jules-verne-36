@@ -1780,6 +1780,12 @@
       "aliases": [],
       "path": "ch/christmas-harbour.md"
     },
+    "claudius-bombarnac": {
+      "type": "character",
+      "label": "Claudius Bombarnac",
+      "aliases": [],
+      "path": "cl/claudius-bombarnac.md"
+    },
     "claw-cape": {
       "type": "place",
       "label": "Claw Cape",
@@ -10544,6 +10550,7 @@
     "Oslo": "christiania",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
+    "claudius-bombarnac": "claudius-bombarnac",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
     "coal-town": "coal-town",
@@ -12633,6 +12640,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1575,
-  "generated": "2026-07-19T10:39:28Z"
+  "page_count": 1576,
+  "generated": "2026-07-19T10:42:15Z"
 }

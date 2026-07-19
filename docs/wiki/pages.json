@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 22
+      "total_refs": 23
     },
     "africa": {
       "type": "place",
@@ -5925,6 +5925,28 @@
       "quality_score": 70,
       "book": "An Antarctic Mystery",
       "total_refs": 3
+    },
+    "claudius-bombarnac": {
+      "type": "character",
+      "label": "Claudius Bombarnac",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "cl/claudius-bombarnac.md",
+      "description": "The French reporter of Bordeaux, special correspondent of the Twentieth Century, whose first-person account chronicles the journey across the Grand Transasiatic Railway from the Caspian to China.",
+      "prose_len": 2498,
+      "prose_chars": 2363,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "claw-cape": {
       "type": "place",
@@ -34030,6 +34052,7 @@
     "Oslo": "christiania",
     "christmas-harbour": "christmas-harbour",
     "Christmas Harbour": "christmas-harbour",
+    "claudius-bombarnac": "claudius-bombarnac",
     "claw-cape": "claw-cape",
     "Claw Cape": "claw-cape",
     "coal-town": "coal-town",
@@ -36119,6 +36142,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1575,
-  "generated": "2026-07-19T10:39:28Z"
+  "page_count": 1576,
+  "generated": "2026-07-19T10:42:15Z"
 }
