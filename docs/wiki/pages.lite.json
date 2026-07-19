@@ -8797,6 +8797,12 @@
       "aliases": [],
       "path": "ta/tartlet.md"
     },
+    "taskinar": {
+      "type": "character",
+      "label": "J. R. Taskinar",
+      "aliases": [],
+      "path": "ta/taskinar.md"
+    },
     "tasmania": {
       "type": "place",
       "label": "Tasmania",
@@ -12541,6 +12547,8 @@
     "Tampa": "tampa-town",
     "tartlet": "tartlet",
     "Tartlet": "tartlet",
+    "taskinar": "taskinar",
+    "J. R. Taskinar": "taskinar",
     "tasmania": "tasmania",
     "Tasmania": "tasmania",
     "teheran": "teheran",
@@ -12923,6 +12931,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1610,
-  "generated": "2026-07-19T13:15:01Z"
+  "page_count": 1611,
+  "generated": "2026-07-19T13:17:10Z"
 }

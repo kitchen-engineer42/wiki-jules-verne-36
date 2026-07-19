@@ -13508,7 +13508,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 9
+      "total_refs": 10
     },
     "gondokoro": {
       "type": "place",
@@ -29378,6 +29378,27 @@
       "book": "Godfrey Morgan",
       "total_refs": 1
     },
+    "taskinar": {
+      "type": "character",
+      "label": "J. R. Taskinar",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ta/taskinar.md",
+      "description": "A wealthy magnate of Stockton and William Kolderup's bitter rival, who is outbid for Spencer Island at auction and later seeks revenge.",
+      "prose_len": 1861,
+      "prose_chars": 1727,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 68,
+      "book": "Godfrey Morgan",
+      "total_refs": 0
+    },
     "tasmania": {
       "type": "place",
       "label": "Tasmania",
@@ -34064,7 +34085,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "Godfrey Morgan",
-      "total_refs": 1
+      "total_refs": 2
     },
     "wimerra": {
       "type": "place",
@@ -36586,6 +36607,8 @@
     "Tampa": "tampa-town",
     "tartlet": "tartlet",
     "Tartlet": "tartlet",
+    "taskinar": "taskinar",
+    "J. R. Taskinar": "taskinar",
     "tasmania": "tasmania",
     "Tasmania": "tasmania",
     "teheran": "teheran",
@@ -36968,6 +36991,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1610,
-  "generated": "2026-07-19T13:15:01Z"
+  "page_count": 1611,
+  "generated": "2026-07-19T13:17:10Z"
 }
