@@ -9128,6 +9128,12 @@
       "aliases": [],
       "path": "to/tobolsk.md"
     },
+    "tom-turner": {
+      "type": "character",
+      "label": "Tom Turner",
+      "aliases": [],
+      "path": "to/tom-turner.md"
+    },
     "tomsk": {
       "type": "place",
       "label": "Tomsk",
@@ -12585,6 +12591,8 @@
     "Table of Contents": "TOC",
     "tobolsk": "tobolsk",
     "Tobolsk": "tobolsk",
+    "tom-turner": "tom-turner",
+    "Tom Turner": "tom-turner",
     "tomsk": "tomsk",
     "Tomsk": "tomsk",
     "top": "top",
@@ -12835,6 +12843,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1599,
-  "generated": "2026-07-19T12:27:28Z"
+  "page_count": 1600,
+  "generated": "2026-07-19T12:30:05Z"
 }
