@@ -2818,6 +2818,12 @@
       ],
       "path": "fa/faroe-islands.md"
     },
+    "faruskiar": {
+      "type": "character",
+      "label": "Faruskiar",
+      "aliases": [],
+      "path": "fa/faruskiar.md"
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -10895,6 +10901,8 @@
     "faroe-islands": "faroe-islands",
     "Faroe Islands": "faroe-islands",
     "Faroe and Shetland Islands": "faroe-islands",
+    "faruskiar": "faruskiar",
+    "Faruskiar": "faruskiar",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -12742,6 +12750,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1588,
-  "generated": "2026-07-19T11:41:32Z"
+  "page_count": 1589,
+  "generated": "2026-07-19T11:47:09Z"
 }

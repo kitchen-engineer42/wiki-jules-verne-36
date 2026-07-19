@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 24
+      "total_refs": 25
     },
     "africa": {
       "type": "place",
@@ -9354,6 +9354,29 @@
       "book": "The Waif of the Cynthia",
       "total_refs": 0
     },
+    "faruskiar": {
+      "type": "character",
+      "label": "Faruskiar",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "fa/faruskiar.md",
+      "description": "The superb Mongol grandee and railway general manager whose lordly bearing masks the bandit chief who wrecks the Grand Transasiatic to seize the imperial treasure.",
+      "prose_len": 2614,
+      "prose_chars": 2485,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "affiliation": "Grand Transasiatic Railway",
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
+    },
     "FC-ch01": {
       "type": "chapter",
       "label": "The Fur Country — CHAPTER I",
@@ -16973,7 +16996,7 @@
       "quality_score": 72,
       "affiliation": "Russian army",
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 1
+      "total_refs": 2
     },
     "malta": {
       "type": "place",
@@ -34592,6 +34615,8 @@
     "faroe-islands": "faroe-islands",
     "Faroe Islands": "faroe-islands",
     "Faroe and Shetland Islands": "faroe-islands",
+    "faruskiar": "faruskiar",
+    "Faruskiar": "faruskiar",
     "FC-ch01": "FC-ch01",
     "FC-ch02": "FC-ch02",
     "FC-ch03": "FC-ch03",
@@ -36439,6 +36464,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1588,
-  "generated": "2026-07-19T11:41:32Z"
+  "page_count": 1589,
+  "generated": "2026-07-19T11:47:09Z"
 }
