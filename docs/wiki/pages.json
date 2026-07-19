@@ -16280,6 +16280,30 @@
       "book": "Journey to the Center of the Earth",
       "total_refs": 8
     },
+    "lieutenant-hobson": {
+      "type": "character",
+      "label": "Jaspar Hobson",
+      "aliases": [
+        "Lieutenant Hobson"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "li/lieutenant-hobson.md",
+      "description": "The Hudson's Bay Company lieutenant who leads an expedition to build a polar fort, only to find it adrift on a wandering island of ice.",
+      "prose_len": 2680,
+      "prose_chars": 2555,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "The Fur Country",
+      "total_refs": 1
+    },
     "lima-indian-uprising": {
       "type": "event",
       "label": "The Lima Indian Uprising",
@@ -28852,7 +28876,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 16
+      "total_refs": 17
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -34607,6 +34631,9 @@
     "liedenbrock-sea": "liedenbrock-sea",
     "Liedenbrock Sea": "liedenbrock-sea",
     "central sea": "liedenbrock-sea",
+    "lieutenant-hobson": "lieutenant-hobson",
+    "Jaspar Hobson": "lieutenant-hobson",
+    "Lieutenant Hobson": "lieutenant-hobson",
     "lima-indian-uprising": "lima-indian-uprising",
     "The Lima Indian Uprising": "lima-indian-uprising",
     "The Sambo's Revolt": "lima-indian-uprising",
@@ -35882,6 +35909,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1566,
-  "generated": "2026-07-19T09:55:05Z"
+  "page_count": 1567,
+  "generated": "2026-07-19T09:58:14Z"
 }

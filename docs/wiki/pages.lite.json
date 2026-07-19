@@ -4897,6 +4897,14 @@
       ],
       "path": "li/liedenbrock-sea.md"
     },
+    "lieutenant-hobson": {
+      "type": "character",
+      "label": "Jaspar Hobson",
+      "aliases": [
+        "Lieutenant Hobson"
+      ],
+      "path": "li/lieutenant-hobson.md"
+    },
     "lima-indian-uprising": {
       "type": "event",
       "label": "The Lima Indian Uprising",
@@ -11265,6 +11273,9 @@
     "liedenbrock-sea": "liedenbrock-sea",
     "Liedenbrock Sea": "liedenbrock-sea",
     "central sea": "liedenbrock-sea",
+    "lieutenant-hobson": "lieutenant-hobson",
+    "Jaspar Hobson": "lieutenant-hobson",
+    "Lieutenant Hobson": "lieutenant-hobson",
     "lima-indian-uprising": "lima-indian-uprising",
     "The Lima Indian Uprising": "lima-indian-uprising",
     "The Sambo's Revolt": "lima-indian-uprising",
@@ -12540,6 +12551,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1566,
-  "generated": "2026-07-19T09:55:05Z"
+  "page_count": 1567,
+  "generated": "2026-07-19T09:58:14Z"
 }
