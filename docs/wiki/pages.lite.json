@@ -9594,6 +9594,15 @@
       "aliases": [],
       "path": "wi/wisconsin.md"
     },
+    "wreck-of-the-albatross": {
+      "type": "event",
+      "label": "The Wreck of the Albatross",
+      "aliases": [
+        "Destruction of the Albatross",
+        "Fall of the Albatross"
+      ],
+      "path": "wr/wreck-of-the-albatross.md"
+    },
     "wreck-of-the-dream": {
       "type": "event",
       "label": "The Wreck of the Dream",
@@ -11999,6 +12008,10 @@
     "Wimerra River": "wimerra",
     "wisconsin": "wisconsin",
     "Wisconsin": "wisconsin",
+    "wreck-of-the-albatross": "wreck-of-the-albatross",
+    "The Wreck of the Albatross": "wreck-of-the-albatross",
+    "Destruction of the Albatross": "wreck-of-the-albatross",
+    "Fall of the Albatross": "wreck-of-the-albatross",
     "wreck-of-the-dream": "wreck-of-the-dream",
     "The Wreck of the Dream": "wreck-of-the-dream",
     "The Foundering of the Dream": "wreck-of-the-dream",
@@ -12014,6 +12027,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1519,
-  "generated": "2026-07-19T05:13:39Z"
+  "page_count": 1520,
+  "generated": "2026-07-19T05:23:53Z"
 }
