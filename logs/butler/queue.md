@@ -782,7 +782,7 @@
 <!-- ===== R230 SCN28 discover（place，queue==0 触发 §3(4) zombie；第三次 place discover；撇号/连字符专项扫 /tmp/possessive_scan.py 补 HK-discover-possessive-hyphen-toponym-blindspot）===== -->
 <!-- 说明：possessive_scan 高频命中多为 person（Mac-Nab FC×28/Feofar-Khan MS×21/Tio-King·Ki-Tsang·Pan-Chao·Cha-Coua ASC/Milne-Edwards/Jose-Antonio DSCF/Kara-Tete·Kai-Koumou SC）、ship（Jeune-Hardie WAI×10）、报名（Morgen-Blad TN×5）、title（Governor-General）、demonym（Anglo-Saxon）、已建片段（Cape of Good→cape-of-good-hope、Behring's Straits→behring-strait、North-West→north-west-passage）。feature_scan 复扫仍仅 Cape Mandible 净4／Long Island NY 净4／West Passage 片段／Bay Company 组织，皆不达门。仅 2 净新地名 → discover_streak_low 2→3（第三次连续低产，达 type_close_streak）。R231 = §3(2) CLOSE+SCN28 place→event 评估。 -->
 <!-- ✔ [place] Plaza-Mayor — plaza-mayor 已建 R231 rev=WsEIDx（10 solid PN，PL×14 单指；CLOSE 覆盖轮，streak 3→0 复位；连字符 label slugify 对齐 id）建序 1 -->
-<!-- [place] Saint-Pierre-Miquelon — saint-pierre-miquelon 待建（TN×5 单指；纽芬兰外法属群岛，Viking 号启航港；book Ticket No. 9672，real，region North Atlantic）建序 2 -->
+<!-- ✔ [place] Saint-Pierre-Miquelon — saint-pierre-miquelon 已建 R232 rev=LWA0xl（恰达门 5 solid PN，TN×5 单指；严守 G1 不注外部事实；连字符 label slugify 对齐 id）建序 2 —— R230 队列全消费 → R233 = SCN28-zombie（CLOSE 复评起点）-->
 <!-- R230 建序：Plaza-Mayor → Saint-Pierre-Miquelon（2 项）。但 discover_streak_low=3 → R231 先 §3(2) CLOSE place→event 评估：若 place 判饱和则关闭切 event，2 项待建随评估复核。 -->
 
 

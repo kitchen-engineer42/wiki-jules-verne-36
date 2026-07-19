@@ -13219,7 +13219,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Journey to the Center of the Earth",
-      "total_refs": 52
+      "total_refs": 53
     },
     "ichim": {
       "type": "place",
@@ -22849,6 +22849,31 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
+    "saint-pierre-miquelon": {
+      "type": "place",
+      "label": "Saint-Pierre-Miquelon",
+      "aliases": [],
+      "tags": [
+        "place",
+        "north-atlantic",
+        "island",
+        "ticket-no-9672",
+        "voyage",
+        "shipwreck"
+      ],
+      "path": "sa/saint-pierre-miquelon.md",
+      "description": "The French island station from which the schooner Viking set sail, its departure fixing the last certain moment before an ill-fated voyage was lost.",
+      "prose_len": 1575,
+      "prose_chars": 1492,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 65,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "salt-lake-city": {
       "type": "place",
       "label": "Salt Lake City",
@@ -27445,7 +27470,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 7
+      "total_refs": 8
     },
     "tiflis": {
       "type": "place",
@@ -33167,6 +33192,8 @@
     "saint-paul-de-loanda": "saint-paul-de-loanda",
     "Saint Paul de Loanda": "saint-paul-de-loanda",
     "Loanda": "saint-paul-de-loanda",
+    "saint-pierre-miquelon": "saint-pierre-miquelon",
+    "Saint-Pierre-Miquelon": "saint-pierre-miquelon",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
@@ -33765,6 +33792,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1489,
-  "generated": "2026-07-19T02:25:34Z"
+  "page_count": 1490,
+  "generated": "2026-07-19T02:29:05Z"
 }

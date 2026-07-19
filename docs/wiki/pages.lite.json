@@ -6809,6 +6809,12 @@
       ],
       "path": "sa/saint-paul-de-loanda.md"
     },
+    "saint-pierre-miquelon": {
+      "type": "place",
+      "label": "Saint-Pierre-Miquelon",
+      "aliases": [],
+      "path": "sa/saint-pierre-miquelon.md"
+    },
     "salt-lake-city": {
       "type": "place",
       "label": "Salt Lake City",
@@ -11067,6 +11073,8 @@
     "saint-paul-de-loanda": "saint-paul-de-loanda",
     "Saint Paul de Loanda": "saint-paul-de-loanda",
     "Loanda": "saint-paul-de-loanda",
+    "saint-pierre-miquelon": "saint-pierre-miquelon",
+    "Saint-Pierre-Miquelon": "saint-pierre-miquelon",
     "salt-lake-city": "salt-lake-city",
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
@@ -11665,6 +11673,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1489,
-  "generated": "2026-07-19T02:25:34Z"
+  "page_count": 1490,
+  "generated": "2026-07-19T02:29:05Z"
 }
