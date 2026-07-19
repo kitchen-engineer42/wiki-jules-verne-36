@@ -5501,7 +5501,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 19
+      "total_refs": 20
     },
     "captain-hull": {
       "type": "character",
@@ -6102,7 +6102,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "coal-town": {
       "type": "place",
@@ -15995,6 +15995,29 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
+    "johnson": {
+      "type": "character",
+      "label": "Johnson",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "jo/johnson.md",
+      "description": "The steadfast old boatswain of the brig Forward in The Adventures of Captain Hatteras, an Arctic-hardened sailor whose loyalty and skill sustain the polar expedition.",
+      "prose_len": 2294,
+      "prose_chars": 2167,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
     "joliffe": {
@@ -28292,7 +28315,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "shanghai": {
       "type": "place",
@@ -29939,7 +29962,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 20
+      "total_refs": 21
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -35961,6 +35984,8 @@
     "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
+    "johnson": "johnson",
+    "Johnson": "johnson",
     "joliffe": "joliffe",
     "Corporal Joliffe": "joliffe",
     "Joliffe": "joliffe",
@@ -37413,6 +37438,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1627,
-  "generated": "2026-07-19T14:29:57Z"
+  "page_count": 1628,
+  "generated": "2026-07-19T14:39:57Z"
 }
