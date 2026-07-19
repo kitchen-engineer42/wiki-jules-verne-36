@@ -9306,6 +9306,14 @@
       "aliases": [],
       "path": "wa/WAI-ch16.md"
     },
+    "waif-cynthia-rescue": {
+      "type": "event",
+      "label": "The Rescue of the Waif of the Cynthia",
+      "aliases": [
+        "The Finding of Erik"
+      ],
+      "path": "wa/waif-cynthia-rescue.md"
+    },
     "walruses-bay": {
       "type": "place",
       "label": "Walruses' Bay",
@@ -11816,6 +11824,9 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "waif-cynthia-rescue": "waif-cynthia-rescue",
+    "The Rescue of the Waif of the Cynthia": "waif-cynthia-rescue",
+    "The Finding of Erik": "waif-cynthia-rescue",
     "walruses-bay": "walruses-bay",
     "Walruses' Bay": "walruses-bay",
     "washburn-bay": "washburn-bay",
@@ -11873,6 +11884,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1508,
-  "generated": "2026-07-19T04:01:50Z"
+  "page_count": 1509,
+  "generated": "2026-07-19T04:09:55Z"
 }

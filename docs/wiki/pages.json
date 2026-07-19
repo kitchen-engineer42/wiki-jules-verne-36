@@ -27812,7 +27812,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 21
+      "total_refs": 22
     },
     "tibet": {
       "type": "place",
@@ -31154,6 +31154,30 @@
       "book": "A Winter Amid the Ice",
       "total_refs": 1
     },
+    "waif-cynthia-rescue": {
+      "type": "event",
+      "label": "The Rescue of the Waif of the Cynthia",
+      "aliases": [
+        "The Finding of Erik"
+      ],
+      "tags": [
+        "event",
+        "rescue",
+        "shipwreck",
+        "foundling"
+      ],
+      "path": "wa/waif-cynthia-rescue.md",
+      "prose_len": 2222,
+      "prose_chars": 2089,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "walruses-bay": {
       "type": "place",
       "label": "Walruses' Bay",
@@ -34231,6 +34255,9 @@
     "WAI-ch14": "WAI-ch14",
     "WAI-ch15": "WAI-ch15",
     "WAI-ch16": "WAI-ch16",
+    "waif-cynthia-rescue": "waif-cynthia-rescue",
+    "The Rescue of the Waif of the Cynthia": "waif-cynthia-rescue",
+    "The Finding of Erik": "waif-cynthia-rescue",
     "walruses-bay": "walruses-bay",
     "Walruses' Bay": "walruses-bay",
     "washburn-bay": "washburn-bay",
@@ -34288,6 +34315,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1508,
-  "generated": "2026-07-19T04:01:50Z"
+  "page_count": 1509,
+  "generated": "2026-07-19T04:09:55Z"
 }
