@@ -4052,7 +4052,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "The Mysterious Island",
-      "total_refs": 1
+      "total_refs": 2
     },
     "back-cup": {
       "type": "place",
@@ -5432,6 +5432,29 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
+    "captain-grant": {
+      "type": "character",
+      "label": "Captain Grant",
+      "aliases": [
+        "Harry Grant"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ca/captain-grant.md",
+      "description": "The shipwrecked Scottish captain of the Britannia whose message in a bottle launches the search across the 37th parallel.",
+      "prose_len": 2637,
+      "prose_chars": 2508,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 76,
+      "book": "In Search of the Castaways",
       "total_refs": 0
     },
     "captain-hatteras": {
@@ -12613,7 +12636,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 4
+      "total_refs": 5
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14108,7 +14131,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 37
+      "total_refs": 38
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16722,7 +16745,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "In Search of the Castaways",
-      "total_refs": 2
+      "total_refs": 3
     },
     "maryland": {
       "type": "place",
@@ -33653,6 +33676,9 @@
     "Verde Islands": "cape-verde",
     "cape-washington": "cape-washington",
     "Cape Washington": "cape-washington",
+    "captain-grant": "captain-grant",
+    "Captain Grant": "captain-grant",
+    "Harry Grant": "captain-grant",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -35763,6 +35789,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1561,
-  "generated": "2026-07-19T09:29:54Z"
+  "page_count": 1562,
+  "generated": "2026-07-19T09:34:01Z"
 }

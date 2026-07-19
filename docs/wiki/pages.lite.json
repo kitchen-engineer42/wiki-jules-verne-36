@@ -1629,6 +1629,14 @@
       "aliases": [],
       "path": "ca/cape-washington.md"
     },
+    "captain-grant": {
+      "type": "character",
+      "label": "Captain Grant",
+      "aliases": [
+        "Harry Grant"
+      ],
+      "path": "ca/captain-grant.md"
+    },
     "captain-hatteras": {
       "type": "character",
       "label": "Captain Hatteras",
@@ -10388,6 +10396,9 @@
     "Verde Islands": "cape-verde",
     "cape-washington": "cape-washington",
     "Cape Washington": "cape-washington",
+    "captain-grant": "captain-grant",
+    "Captain Grant": "captain-grant",
+    "Harry Grant": "captain-grant",
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
@@ -12498,6 +12509,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1561,
-  "generated": "2026-07-19T09:29:29Z"
+  "page_count": 1562,
+  "generated": "2026-07-19T09:34:01Z"
 }
