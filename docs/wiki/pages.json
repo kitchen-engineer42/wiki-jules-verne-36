@@ -4031,7 +4031,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "The Mysterious Island",
-      "total_refs": 0
+      "total_refs": 1
     },
     "back-cup": {
       "type": "place",
@@ -12549,6 +12549,30 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "glenarvan": {
+      "type": "character",
+      "label": "Lord Glenarvan",
+      "aliases": [
+        "Edward Glenarvan"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "gl/glenarvan.md",
+      "description": "The Scottish nobleman and owner of the yacht Duncan who leads the expedition to rescue the shipwrecked Captain Grant.",
+      "prose_len": 2259,
+      "prose_chars": 2133,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -14021,7 +14045,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 32
+      "total_refs": 33
     },
     "in-the-year-2889": {
       "type": "work",
@@ -21440,7 +21464,7 @@
       "quality_score": 73,
       "affiliation": "Geographical Society of Paris",
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "pamir": {
       "type": "place",
@@ -33904,6 +33928,9 @@
     "Gibraltar": "gibraltar",
     "gideon-spilett": "gideon-spilett",
     "Gideon Spilett": "gideon-spilett",
+    "glenarvan": "glenarvan",
+    "Lord Glenarvan": "glenarvan",
+    "Edward Glenarvan": "glenarvan",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -35472,6 +35499,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1549,
-  "generated": "2026-07-19T08:35:56Z"
+  "page_count": 1550,
+  "generated": "2026-07-19T08:39:24Z"
 }

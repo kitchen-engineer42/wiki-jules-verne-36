@@ -3778,6 +3778,14 @@
       "aliases": [],
       "path": "gi/gideon-spilett.md"
     },
+    "glenarvan": {
+      "type": "character",
+      "label": "Lord Glenarvan",
+      "aliases": [
+        "Edward Glenarvan"
+      ],
+      "path": "gl/glenarvan.md"
+    },
     "GM-ch01": {
       "type": "chapter",
       "label": "Godfrey Morgan — CHAPTER I",
@@ -10827,6 +10835,9 @@
     "Gibraltar": "gibraltar",
     "gideon-spilett": "gideon-spilett",
     "Gideon Spilett": "gideon-spilett",
+    "glenarvan": "glenarvan",
+    "Lord Glenarvan": "glenarvan",
+    "Edward Glenarvan": "glenarvan",
     "GM-ch01": "GM-ch01",
     "GM-ch02": "GM-ch02",
     "GM-ch03": "GM-ch03",
@@ -12395,6 +12406,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1549,
-  "generated": "2026-07-19T08:35:56Z"
+  "page_count": 1550,
+  "generated": "2026-07-19T08:38:47Z"
 }
