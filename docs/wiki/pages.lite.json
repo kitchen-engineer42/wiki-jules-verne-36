@@ -1635,6 +1635,14 @@
       "aliases": [],
       "path": "ce/ceylon.md"
     },
+    "chancellor-fire": {
+      "type": "event",
+      "label": "The Burning of the Chancellor",
+      "aliases": [
+        "The Chancellor Cargo Fire"
+      ],
+      "path": "ch/chancellor-fire.md"
+    },
     "charleston": {
       "type": "place",
       "label": "Charleston",
@@ -9869,6 +9877,9 @@
     "Ceuta": "ceuta",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
+    "chancellor-fire": "chancellor-fire",
+    "The Burning of the Chancellor": "chancellor-fire",
+    "The Chancellor Cargo Fire": "chancellor-fire",
     "charleston": "charleston",
     "Charleston": "charleston",
     "chatham-islands": "chatham-islands",
@@ -11761,6 +11772,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1498,
-  "generated": "2026-07-19T03:12:09Z"
+  "page_count": 1499,
+  "generated": "2026-07-19T03:20:40Z"
 }

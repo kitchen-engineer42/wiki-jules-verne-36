@@ -3026,7 +3026,7 @@
       "quality": "featured",
       "quality_score": 65,
       "book": "In Search of the Castaways",
-      "total_refs": 1
+      "total_refs": 2
     },
     "auckland": {
       "type": "place",
@@ -5473,6 +5473,31 @@
       "quality": "featured",
       "quality_score": 64,
       "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
+    "chancellor-fire": {
+      "type": "event",
+      "label": "The Burning of the Chancellor",
+      "aliases": [
+        "The Chancellor Cargo Fire"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "catastrophe",
+        "shipwreck"
+      ],
+      "path": "ch/chancellor-fire.md",
+      "description": "A cargo of cotton smouldering deep in the hold of the Chancellor breaks into an unquenchable fire, dooming the ship and driving her people toward their long ordeal at sea.",
+      "prose_len": 2260,
+      "prose_chars": 2133,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Survivors of the Chancellor",
       "total_refs": 0
     },
     "charleston": {
@@ -26941,7 +26966,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 3
+      "total_refs": 4
     },
     "sweden": {
       "type": "place",
@@ -32122,6 +32147,9 @@
     "Ceuta": "ceuta",
     "ceylon": "ceylon",
     "Ceylon": "ceylon",
+    "chancellor-fire": "chancellor-fire",
+    "The Burning of the Chancellor": "chancellor-fire",
+    "The Chancellor Cargo Fire": "chancellor-fire",
     "charleston": "charleston",
     "Charleston": "charleston",
     "chatham-islands": "chatham-islands",
@@ -34014,6 +34042,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1498,
-  "generated": "2026-07-19T03:12:09Z"
+  "page_count": 1499,
+  "generated": "2026-07-19T03:20:40Z"
 }
