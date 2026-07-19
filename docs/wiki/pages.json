@@ -5501,7 +5501,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 16
+      "total_refs": 17
     },
     "captain-hull": {
       "type": "character",
@@ -7202,6 +7202,28 @@
       "book_seq": 260,
       "book": "Doctor Ox's Experiment",
       "total_refs": 1
+    },
+    "doctor-clawbonny": {
+      "type": "character",
+      "label": "Doctor Clawbonny",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "do/doctor-clawbonny.md",
+      "description": "The genial and encyclopaedic naturalist of the Forward, whose learning, courage, and unfailing good humour sustain Captain Hatteras's expedition to the North Pole.",
+      "prose_len": 2458,
+      "prose_chars": 2327,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
     },
     "doctor-oxs-experiment": {
       "type": "work",
@@ -29050,7 +29072,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 17
+      "total_refs": 18
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -34306,6 +34328,8 @@
     "DOSE-ch15": "DOSE-ch15",
     "DOSE-ch16": "DOSE-ch16",
     "DOSE-ch17": "DOSE-ch17",
+    "doctor-clawbonny": "doctor-clawbonny",
+    "Doctor Clawbonny": "doctor-clawbonny",
     "doctor-oxs-experiment": "doctor-oxs-experiment",
     "Doctor Ox's Experiment": "doctor-oxs-experiment",
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
@@ -36290,6 +36314,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1582,
-  "generated": "2026-07-19T11:08:53Z"
+  "page_count": 1583,
+  "generated": "2026-07-19T11:17:41Z"
 }

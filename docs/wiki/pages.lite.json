@@ -2165,6 +2165,12 @@
       "aliases": [],
       "path": "do/DOSE-ch17.md"
     },
+    "doctor-clawbonny": {
+      "type": "character",
+      "label": "Doctor Clawbonny",
+      "aliases": [],
+      "path": "do/doctor-clawbonny.md"
+    },
     "doctor-oxs-experiment": {
       "type": "work",
       "label": "Doctor Ox's Experiment",
@@ -10707,6 +10713,8 @@
     "DOSE-ch15": "DOSE-ch15",
     "DOSE-ch16": "DOSE-ch16",
     "DOSE-ch17": "DOSE-ch17",
+    "doctor-clawbonny": "doctor-clawbonny",
+    "Doctor Clawbonny": "doctor-clawbonny",
     "doctor-oxs-experiment": "doctor-oxs-experiment",
     "Doctor Ox's Experiment": "doctor-oxs-experiment",
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
@@ -12691,6 +12699,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1582,
-  "generated": "2026-07-19T11:08:53Z"
+  "page_count": 1583,
+  "generated": "2026-07-19T11:17:41Z"
 }
