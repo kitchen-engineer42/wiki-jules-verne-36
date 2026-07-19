@@ -8460,6 +8460,14 @@
       "aliases": [],
       "path": "se/serpentine-peninsula.md"
     },
+    "shandon": {
+      "type": "character",
+      "label": "Richard Shandon",
+      "aliases": [
+        "Shandon"
+      ],
+      "path": "sh/shandon.md"
+    },
     "shanghai": {
       "type": "place",
       "label": "Shanghai",
@@ -12545,6 +12553,9 @@
     "Sergeant Long": "sergeant-long",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shandon": "shandon",
+    "Richard Shandon": "shandon",
+    "Shandon": "shandon",
     "shanghai": "shanghai",
     "Shanghai": "shanghai",
     "shannon-island": "shannon-island",
@@ -13061,6 +13072,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1625,
-  "generated": "2026-07-19T14:24:00Z"
+  "page_count": 1626,
+  "generated": "2026-07-19T14:26:53Z"
 }

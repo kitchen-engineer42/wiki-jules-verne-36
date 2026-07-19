@@ -5501,7 +5501,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 18
+      "total_refs": 19
     },
     "captain-hull": {
       "type": "character",
@@ -6102,7 +6102,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 0
+      "total_refs": 1
     },
     "coal-town": {
       "type": "place",
@@ -28245,6 +28245,31 @@
       "book": "The Mysterious Island",
       "total_refs": 1
     },
+    "shandon": {
+      "type": "character",
+      "label": "Richard Shandon",
+      "aliases": [
+        "Shandon"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "arctic"
+      ],
+      "path": "sh/shandon.md",
+      "description": "The first mate and provisional commander of the brig Forward in The Adventures of Captain Hatteras, who recruits the crew for an unknown captain he vainly hopes to become.",
+      "prose_len": 2477,
+      "prose_chars": 2342,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "shanghai": {
       "type": "place",
       "label": "Shanghai",
@@ -29890,7 +29915,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 19
+      "total_refs": 20
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -36841,6 +36866,9 @@
     "Sergeant Long": "sergeant-long",
     "serpentine-peninsula": "serpentine-peninsula",
     "Serpentine Peninsula": "serpentine-peninsula",
+    "shandon": "shandon",
+    "Richard Shandon": "shandon",
+    "Shandon": "shandon",
     "shanghai": "shanghai",
     "Shanghai": "shanghai",
     "shannon-island": "shannon-island",
@@ -37357,6 +37385,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1625,
-  "generated": "2026-07-19T14:24:00Z"
+  "page_count": 1626,
+  "generated": "2026-07-19T14:26:53Z"
 }
