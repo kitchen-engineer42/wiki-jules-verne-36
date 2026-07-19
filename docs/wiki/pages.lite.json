@@ -5137,6 +5137,12 @@
       "aliases": [],
       "path": "ma/madagascar.md"
     },
+    "madge": {
+      "type": "character",
+      "label": "Madge",
+      "aliases": [],
+      "path": "ma/madge.md"
+    },
     "madras": {
       "type": "place",
       "label": "Madras",
@@ -11622,6 +11628,8 @@
     "Lyon": "lyons",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
+    "madge": "madge",
+    "Madge": "madge",
     "madras": "madras",
     "Madras": "madras",
     "madrid": "madrid",
@@ -12907,6 +12915,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1608,
-  "generated": "2026-07-19T13:03:38Z"
+  "page_count": 1609,
+  "generated": "2026-07-19T13:07:41Z"
 }

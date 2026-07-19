@@ -17105,6 +17105,26 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
+    "madge": {
+      "type": "character",
+      "label": "Madge",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ma/madge.md",
+      "description": "Mrs Paulina Barnett's devoted servant and lifelong companion, who shares every hardship of the Fur Country expedition with steadfast faith.",
+      "prose_len": 1896,
+      "prose_chars": 1775,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "madras": {
       "type": "place",
       "label": "Madras",
@@ -22500,7 +22520,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 5
+      "total_refs": 6
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -29642,7 +29662,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 20
+      "total_refs": 21
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -35637,6 +35657,8 @@
     "Lyon": "lyons",
     "madagascar": "madagascar",
     "Madagascar": "madagascar",
+    "madge": "madge",
+    "Madge": "madge",
     "madras": "madras",
     "Madras": "madras",
     "madrid": "madrid",
@@ -36922,6 +36944,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1608,
-  "generated": "2026-07-19T13:03:38Z"
+  "page_count": 1609,
+  "generated": "2026-07-19T13:07:54Z"
 }
