@@ -7328,6 +7328,12 @@
       ],
       "path": "sa/sandwich-islands.md"
     },
+    "sangarre": {
+      "type": "character",
+      "label": "Sangarre",
+      "aliases": [],
+      "path": "sa/sangarre.md"
+    },
     "sardinia": {
       "type": "place",
       "label": "Sardinia",
@@ -11882,6 +11888,8 @@
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
+    "sangarre": "sangarre",
+    "Sangarre": "sangarre",
     "sardinia": "sardinia",
     "Sardinia": "sardinia",
     "sargasso-sea": "sargasso-sea",
@@ -12517,6 +12525,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1563,
-  "generated": "2026-07-19T09:37:13Z"
+  "page_count": 1564,
+  "generated": "2026-07-19T09:43:10Z"
 }

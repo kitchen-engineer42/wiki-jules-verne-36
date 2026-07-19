@@ -14454,7 +14454,7 @@
       "quality": "featured",
       "quality_score": 70,
       "book": "Michael Strogoff",
-      "total_refs": 2
+      "total_refs": 3
     },
     "jacamar-wood": {
       "type": "place",
@@ -16699,7 +16699,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Michael Strogoff",
-      "total_refs": 0
+      "total_refs": 1
     },
     "marseilles": {
       "type": "place",
@@ -18287,7 +18287,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 37
+      "total_refs": 38
     },
     "michel-ardan": {
       "type": "character",
@@ -18334,7 +18334,7 @@
       "quality_score": 75,
       "affiliation": "Corps of the Czar's Couriers",
       "book": "Michael Strogoff",
-      "total_refs": 6
+      "total_refs": 7
     },
     "missionary-rescue": {
       "type": "event",
@@ -24416,6 +24416,27 @@
       "quality_score": 63,
       "book": "An Antarctic Mystery",
       "total_refs": 1
+    },
+    "sangarre": {
+      "type": "character",
+      "label": "Sangarre",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "sa/sangarre.md",
+      "description": "The Tsigane spy and devoted accomplice of Ivan Ogareff, whose watchfulness unmasks Michael Strogoff.",
+      "prose_len": 2138,
+      "prose_chars": 2018,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 71,
+      "book": "Michael Strogoff",
+      "total_refs": 0
     },
     "sardinia": {
       "type": "place",
@@ -35177,6 +35198,8 @@
     "sandwich-islands": "sandwich-islands",
     "Sandwich Islands": "sandwich-islands",
     "Sandwich Isles": "sandwich-islands",
+    "sangarre": "sangarre",
+    "Sangarre": "sangarre",
     "sardinia": "sardinia",
     "Sardinia": "sardinia",
     "sargasso-sea": "sargasso-sea",
@@ -35812,6 +35835,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1563,
-  "generated": "2026-07-19T09:37:13Z"
+  "page_count": 1564,
+  "generated": "2026-07-19T09:43:10Z"
 }
