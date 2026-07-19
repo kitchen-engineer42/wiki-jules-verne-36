@@ -2722,6 +2722,14 @@
       ],
       "path": "el/elbe.md"
     },
+    "erik": {
+      "type": "character",
+      "label": "Erik",
+      "aliases": [
+        "Erik Hersebom"
+      ],
+      "path": "er/erik.md"
+    },
     "etna": {
       "type": "place",
       "label": "Etna",
@@ -10782,6 +10790,9 @@
     "elbe": "elbe",
     "Elbe": "elbe",
     "Elbe River": "elbe",
+    "erik": "erik",
+    "Erik": "erik",
+    "Erik Hersebom": "erik",
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
@@ -12640,6 +12651,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1576,
-  "generated": "2026-07-19T10:42:15Z"
+  "page_count": 1577,
+  "generated": "2026-07-19T10:45:34Z"
 }

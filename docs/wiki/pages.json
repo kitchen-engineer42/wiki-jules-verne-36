@@ -9046,6 +9046,30 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
     },
+    "erik": {
+      "type": "character",
+      "label": "Erik",
+      "aliases": [
+        "Erik Hersebom"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "er/erik.md",
+      "description": "The gifted Norwegian foundling, raised by the Hersebom fishermen of Noroe, who was rescued as an infant tied to a buoy of the wrecked Cynthia and at last found to be the lost grandson of Mr. Durrien.",
+      "prose_len": 2701,
+      "prose_chars": 2579,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 77,
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "etna": {
       "type": "place",
       "label": "Etna",
@@ -29298,7 +29322,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 23
+      "total_refs": 24
     },
     "thomas-roch": {
       "type": "character",
@@ -34284,6 +34308,9 @@
     "elbe": "elbe",
     "Elbe": "elbe",
     "Elbe River": "elbe",
+    "erik": "erik",
+    "Erik": "erik",
+    "Erik Hersebom": "erik",
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
@@ -36142,6 +36169,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1576,
-  "generated": "2026-07-19T10:42:15Z"
+  "page_count": 1577,
+  "generated": "2026-07-19T10:45:34Z"
 }
