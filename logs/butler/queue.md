@@ -816,7 +816,7 @@
 
 <!-- ===== R253 SCN28-zombie discover（event，queue(event)==0 触发 §3(4)）：3 net-new 候选，取自 GM/UC 两部未覆盖作品 ===== -->
 <!-- [event] ✔ R254 建 The Wreck of the Dream — wreck-of-the-dream（Godfrey Morgan；pn_anchor GM-007 汽船 Dream 触礁沉没；8 PN GM-007-095/101/104 + GM-008-004/005/006/012 + GM-022-022 staged reveal）建序 16 已建 -->
-<!-- [event] The New Aberfoyle Explosion — new-aberfoyle-explosion 待建（The Underground City；pn_anchor UC-005 New Aberfoyle 煤矿 firedamp（瓦斯）爆炸；UC-005-011 "examined the place attacked by the explosion"）建序 17 ｜ UC 2-char 无需 Note ｜ 建时核瓦斯爆炸单指 -->
+<!-- [event] ✔ R256 建 Silfax's Firedamp Attack — silfax-firedamp-attack（The Underground City；pn_anchor UC-018）建序 17 已建 ｜ 修正：R253 discover 误锚 UC-005（那是旧 Dochart 矿井「神秘爆柱」破坏悬疑之设定，非 firedamp 灾变、且单指素材过薄），真正 firedamp 事件为 UC-018 Silfax 婚礼引气爆矿未遂高潮，改锚 UC-018；9 PN UC-018-005/026/027/030/031/032/033/035/037 -->
 <!-- [event] The Flooding of New Aberfoyle — new-aberfoyle-flood 待建（The Underground City；pn_anchor UC-016 Coal Town 突遭地下水 inundation 淹没；UC-016-006/011/012）建序 18 ｜ UC 2-char 无需 Note ｜ 建时核矿井淹没单指、与爆炸事件区分 -->
 <!-- R253 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 GM/UC 两部未覆盖作品；event 空间仍广（WC/Steam House/Green Ray/Kéraban/Tribulations of a Chinaman 等 18+ 部零 event 覆盖）。 -->
 

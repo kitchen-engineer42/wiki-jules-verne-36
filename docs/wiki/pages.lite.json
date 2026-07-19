@@ -7897,6 +7897,15 @@
       "aliases": [],
       "path": "si/sierra-tandil.md"
     },
+    "silfax-firedamp-attack": {
+      "type": "event",
+      "label": "Silfax's Firedamp Attack",
+      "aliases": [
+        "The Firedamp Attack on New Aberfoyle",
+        "The Threat to New Aberfoyle"
+      ],
+      "path": "si/silfax-firedamp-attack.md"
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -11426,6 +11435,10 @@
     "Sicily": "sicily",
     "sierra-tandil": "sierra-tandil",
     "Sierra Tandil": "sierra-tandil",
+    "silfax-firedamp-attack": "silfax-firedamp-attack",
+    "Silfax's Firedamp Attack": "silfax-firedamp-attack",
+    "The Firedamp Attack on New Aberfoyle": "silfax-firedamp-attack",
+    "The Threat to New Aberfoyle": "silfax-firedamp-attack",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -11849,6 +11862,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1506,
-  "generated": "2026-07-19T03:51:58Z"
+  "page_count": 1507,
+  "generated": "2026-07-19T03:58:58Z"
 }

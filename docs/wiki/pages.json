@@ -26484,6 +26484,31 @@
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
+    "silfax-firedamp-attack": {
+      "type": "event",
+      "label": "Silfax's Firedamp Attack",
+      "aliases": [
+        "The Firedamp Attack on New Aberfoyle",
+        "The Threat to New Aberfoyle"
+      ],
+      "tags": [
+        "event",
+        "mining",
+        "firedamp",
+        "sabotage"
+      ],
+      "path": "si/silfax-firedamp-attack.md",
+      "prose_len": 2244,
+      "prose_chars": 2122,
+      "h2_count": 4,
+      "pn_count": 9,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "The Underground City",
+      "total_refs": 0
+    },
     "singapore": {
       "type": "place",
       "label": "Singapore",
@@ -27736,7 +27761,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 77,
-      "total_refs": 3
+      "total_refs": 4
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -33809,6 +33834,10 @@
     "Sicily": "sicily",
     "sierra-tandil": "sierra-tandil",
     "Sierra Tandil": "sierra-tandil",
+    "silfax-firedamp-attack": "silfax-firedamp-attack",
+    "Silfax's Firedamp Attack": "silfax-firedamp-attack",
+    "The Firedamp Attack on New Aberfoyle": "silfax-firedamp-attack",
+    "The Threat to New Aberfoyle": "silfax-firedamp-attack",
     "singapore": "singapore",
     "Singapore": "singapore",
     "smiths-straits": "smiths-straits",
@@ -34232,6 +34261,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1506,
-  "generated": "2026-07-19T03:51:58Z"
+  "page_count": 1507,
+  "generated": "2026-07-19T03:58:58Z"
 }
