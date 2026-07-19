@@ -4135,6 +4135,12 @@
       ],
       "path": "he/herbert.md"
     },
+    "hercules": {
+      "type": "character",
+      "label": "Hercules",
+      "aliases": [],
+      "path": "he/hercules.md"
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -10928,6 +10934,8 @@
     "herbert": "herbert",
     "Herbert": "herbert",
     "Herbert Brown": "herbert",
+    "hercules": "hercules",
+    "Hercules": "hercules",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -12387,6 +12395,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1548,
-  "generated": "2026-07-19T08:30:56Z"
+  "page_count": 1549,
+  "generated": "2026-07-19T08:35:56Z"
 }

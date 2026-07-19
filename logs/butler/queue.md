@@ -911,6 +911,6 @@
 <!-- [character] R314 建序 57 neb（Neb）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ Cyrus Harding 之忠仆、Lincoln 岛第五殖民者，寻主不懈 ｜ MI count 453 ｜ dup-check ABSENT（neb/nab）｜ ✔ R315 built rev rp3Fmp -->
 <!-- [character] R314 建序 58 gideon-spilett（Gideon Spilett）｜ book: The Mysterious Island ｜ pn_anchor: MI-002 ｜ 战地记者、Lincoln 岛殖民者，冷静善射兼医护 ｜ MI count 452 ｜ dup-check ABSENT（gideon-spilett/spilett）｜ ✔ R316 built rev aNCfka -->
 <!-- [character] R314 建序 59 negoro（Negoro）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-002 ｜ role=antagonist：阴险葡籍船厨，篡改罗盘诱船入非洲之反派 ｜ DSCF count 274 ｜ dup-check ABSENT ｜ ✔ R317 built rev De8eLj -->
-<!-- [character] R314 建序 60 hercules（Hercules）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-004 ｜ 力大无穷之黑人获救者，忠勇护主 ｜ DSCF count 203 ｜ dup-check ABSENT -->
+<!-- [character] R314 建序 60 hercules（Hercules）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-004 ｜ 力大无穷之黑人获救者，忠勇护主 ｜ DSCF count 203 ｜ dup-check ABSENT ｜ ✔ R319 built rev jBpGS2 -->
 <!-- [character] R314 建序 61 glenarvan（Lord Glenarvan）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ Duncan 号船主、寻 Grant 船长探险队领袖 ｜ SC count 1013 ｜ dup-check ABSENT -->
 <!-- [character] R314 建序 62 michel-strogoff（Michel Strogoff）｜ book: Michel Strogoff ｜ pn_anchor: MS-004 ｜ role=protagonist：沙皇信使，穿越西伯利亚送密令之主角 ｜ MS count 289 ｜ dup-check ABSENT -->

@@ -6608,7 +6608,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 17
+      "total_refs": 18
     },
     "dick-sand": {
       "type": "character",
@@ -6632,7 +6632,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 1
+      "total_refs": 2
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -13725,6 +13725,28 @@
       "book": "The Mysterious Island",
       "total_refs": 2
     },
+    "hercules": {
+      "type": "character",
+      "label": "Hercules",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "he/hercules.md",
+      "description": "The giant black companion of the Pilgrim castaways, whose immense strength and devotion repeatedly save his friends.",
+      "prose_len": 2286,
+      "prose_chars": 2004,
+      "h2_count": 5,
+      "pn_count": 11,
+      "wikilink_count": 6,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 72,
+      "book": "Dick Sand, A Captain at Fifteen",
+      "total_refs": 0
+    },
     "himalaya": {
       "type": "place",
       "label": "Himalaya",
@@ -19636,7 +19658,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nemo-death": {
       "type": "event",
@@ -33989,6 +34011,8 @@
     "herbert": "herbert",
     "Herbert": "herbert",
     "Herbert Brown": "herbert",
+    "hercules": "hercules",
+    "Hercules": "hercules",
     "himalaya": "himalaya",
     "Himalaya": "himalaya",
     "Himalayas": "himalaya",
@@ -35448,6 +35472,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1548,
-  "generated": "2026-07-19T08:30:56Z"
+  "page_count": 1549,
+  "generated": "2026-07-19T08:35:56Z"
 }
