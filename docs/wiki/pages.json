@@ -2470,6 +2470,32 @@
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
+    "aronnax": {
+      "type": "character",
+      "label": "Professor Aronnax",
+      "aliases": [
+        "Pierre Aronnax",
+        "Professor Pierre Aronnax"
+      ],
+      "tags": [
+        "character",
+        "submarine",
+        "science-fiction"
+      ],
+      "path": "ar/aronnax.md",
+      "description": "The naturalist narrator of Twenty Thousand Leagues Under the Seas, held captive aboard the Nautilus.",
+      "prose_len": 2454,
+      "prose_chars": 2162,
+      "h2_count": 5,
+      "pn_count": 10,
+      "wikilink_count": 13,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 74,
+      "affiliation": "Paris Museum of Natural History",
+      "book": "Twenty Thousand Leagues Under the Seas",
+      "total_refs": 0
+    },
     "around-the-world-in-eighty-days": {
       "type": "work",
       "label": "Around the World in Eighty Days",
@@ -5409,7 +5435,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 70
+      "total_refs": 71
     },
     "caribbean-sea": {
       "type": "place",
@@ -6083,7 +6109,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 49
+      "total_refs": 50
     },
     "constantinople": {
       "type": "place",
@@ -19405,7 +19431,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "Twenty Thousand Leagues Under the Sea",
-      "total_refs": 75
+      "total_refs": 76
     },
     "navy-island": {
       "type": "place",
@@ -19470,7 +19496,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 49
+      "total_refs": 50
     },
     "nemo-death": {
       "type": "event",
@@ -30727,7 +30753,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 74,
-      "total_refs": 34
+      "total_refs": 35
     },
     "twofold-bay": {
       "type": "place",
@@ -32922,6 +32948,10 @@
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
+    "aronnax": "aronnax",
+    "Professor Aronnax": "aronnax",
+    "Pierre Aronnax": "aronnax",
+    "Professor Pierre Aronnax": "aronnax",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
     "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
@@ -35210,6 +35240,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1539,
-  "generated": "2026-07-19T07:34:30Z"
+  "page_count": 1540,
+  "generated": "2026-07-19T07:50:24Z"
 }

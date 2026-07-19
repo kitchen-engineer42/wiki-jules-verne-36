@@ -753,6 +753,15 @@
       ],
       "path": "ar/argentine.md"
     },
+    "aronnax": {
+      "type": "character",
+      "label": "Professor Aronnax",
+      "aliases": [
+        "Pierre Aronnax",
+        "Professor Pierre Aronnax"
+      ],
+      "path": "ar/aronnax.md"
+    },
     "around-the-world-in-eighty-days": {
       "type": "work",
       "label": "Around the World in Eighty Days",
@@ -10010,6 +10019,10 @@
     "argentine": "argentine",
     "Argentine": "argentine",
     "Argentina": "argentine",
+    "aronnax": "aronnax",
+    "Professor Aronnax": "aronnax",
+    "Pierre Aronnax": "aronnax",
+    "Professor Pierre Aronnax": "aronnax",
     "around-the-world-in-eighty-days": "around-the-world-in-eighty-days",
     "Around the World in Eighty Days": "around-the-world-in-eighty-days",
     "ASC-ch01": "ASC-ch01",
@@ -12298,6 +12311,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1539,
-  "generated": "2026-07-19T07:33:58Z"
+  "page_count": 1540,
+  "generated": "2026-07-19T07:50:24Z"
 }
