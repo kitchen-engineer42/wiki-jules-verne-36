@@ -2271,7 +2271,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 7
+      "total_refs": 8
     },
     "andes-earthquake": {
       "type": "event",
@@ -6699,6 +6699,30 @@
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
       "total_refs": 2
+    },
+    "dirk-peters": {
+      "type": "character",
+      "label": "Dirk Peters",
+      "aliases": [
+        "Hunt"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "di/dirk-peters.md",
+      "description": "The half-breed sailing-master, once Arthur Pym's devoted companion, who ships aboard the Halbrane under the name Hunt and guides it toward the Antarctic mystery.",
+      "prose_len": 2371,
+      "prose_chars": 2246,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -16229,7 +16253,7 @@
       "quality": "featured",
       "quality_score": 75,
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "lena": {
       "type": "place",
@@ -34021,6 +34045,9 @@
     "dick-sand": "dick-sand",
     "Dick Sand": "dick-sand",
     "Richard Sand": "dick-sand",
+    "dirk-peters": "dirk-peters",
+    "Dirk Peters": "dirk-peters",
+    "Hunt": "dirk-peters",
     "disintegration-of-victoria-island": "disintegration-of-victoria-island",
     "The Disintegration of Victoria Island": "disintegration-of-victoria-island",
     "The Breakup of Victoria Island": "disintegration-of-victoria-island",
@@ -36014,6 +36041,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1571,
-  "generated": "2026-07-19T10:21:37Z"
+  "page_count": 1572,
+  "generated": "2026-07-19T10:25:22Z"
 }

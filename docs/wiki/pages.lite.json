@@ -2014,6 +2014,14 @@
       ],
       "path": "di/dick-sand.md"
     },
+    "dirk-peters": {
+      "type": "character",
+      "label": "Dirk Peters",
+      "aliases": [
+        "Hunt"
+      ],
+      "path": "di/dirk-peters.md"
+    },
     "disintegration-of-victoria-island": {
       "type": "event",
       "label": "The Disintegration of Victoria Island",
@@ -10599,6 +10607,9 @@
     "dick-sand": "dick-sand",
     "Dick Sand": "dick-sand",
     "Richard Sand": "dick-sand",
+    "dirk-peters": "dirk-peters",
+    "Dirk Peters": "dirk-peters",
+    "Hunt": "dirk-peters",
     "disintegration-of-victoria-island": "disintegration-of-victoria-island",
     "The Disintegration of Victoria Island": "disintegration-of-victoria-island",
     "The Breakup of Victoria Island": "disintegration-of-victoria-island",
@@ -12592,6 +12603,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1571,
-  "generated": "2026-07-19T10:21:37Z"
+  "page_count": 1572,
+  "generated": "2026-07-19T10:25:22Z"
 }
