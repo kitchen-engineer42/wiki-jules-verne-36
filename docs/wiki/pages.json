@@ -1346,7 +1346,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 31
+      "total_refs": 32
     },
     "africa": {
       "type": "place",
@@ -9220,7 +9220,7 @@
       "quality": "featured",
       "quality_score": 69,
       "book": "The Adventures of a Special Correspondent",
-      "total_refs": 0
+      "total_refs": 1
     },
     "erik": {
       "type": "character",
@@ -14260,6 +14260,28 @@
       "quality_score": 72,
       "book": "Around the World in Eighty Days",
       "total_refs": 19
+    },
+    "horatia-bluett": {
+      "type": "character",
+      "label": "Miss Horatia Bluett",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "commerce"
+      ],
+      "path": "ho/horatia-bluett.md",
+      "description": "A thin, dry Englishwoman travelling on the Grand Transasiatic as agent of a London commercial house, whose businesslike courtship of Fulk Ephrinell ends in a marriage transacted like a contract and as swiftly dissolved.",
+      "prose_len": 1909,
+      "prose_chars": 1773,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of a Special Correspondent",
+      "total_refs": 0
     },
     "hudsons-bay-company": {
       "type": "organization",
@@ -35233,6 +35255,8 @@
     "Holland": "holland",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
+    "horatia-bluett": "horatia-bluett",
+    "Miss Horatia Bluett": "horatia-bluett",
     "hudsons-bay-company": "hudsons-bay-company",
     "Hudson's Bay Company": "hudsons-bay-company",
     "the Company": "hudsons-bay-company",
@@ -36758,6 +36782,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1601,
-  "generated": "2026-07-19T12:36:15Z"
+  "page_count": 1602,
+  "generated": "2026-07-19T12:38:20Z"
 }

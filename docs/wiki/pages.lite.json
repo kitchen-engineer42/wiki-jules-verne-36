@@ -4289,6 +4289,12 @@
       "aliases": [],
       "path": "ho/hong-kong.md"
     },
+    "horatia-bluett": {
+      "type": "character",
+      "label": "Miss Horatia Bluett",
+      "aliases": [],
+      "path": "ho/horatia-bluett.md"
+    },
     "hudsons-bay-company": {
       "type": "organization",
       "label": "Hudson's Bay Company",
@@ -11326,6 +11332,8 @@
     "Holland": "holland",
     "hong-kong": "hong-kong",
     "Hong Kong": "hong-kong",
+    "horatia-bluett": "horatia-bluett",
+    "Miss Horatia Bluett": "horatia-bluett",
     "hudsons-bay-company": "hudsons-bay-company",
     "Hudson's Bay Company": "hudsons-bay-company",
     "the Company": "hudsons-bay-company",
@@ -12851,6 +12859,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1601,
-  "generated": "2026-07-19T12:36:15Z"
+  "page_count": 1602,
+  "generated": "2026-07-19T12:38:20Z"
 }
