@@ -914,3 +914,11 @@
 <!-- [character] R314 建序 60 hercules（Hercules）｜ book: Dick Sand, A Captain at Fifteen ｜ pn_anchor: DSCF-004 ｜ 力大无穷之黑人获救者，忠勇护主 ｜ DSCF count 203 ｜ dup-check ABSENT ｜ ✔ R319 built rev jBpGS2 -->
 <!-- [character] R314 建序 61 glenarvan（Lord Glenarvan）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ Duncan 号船主、寻 Grant 船长探险队领袖 ｜ SC count 1013 ｜ dup-check ABSENT ｜ ✔ R320 built rev W8REAw -->
 <!-- [character] R314 建序 62 michel-strogoff（Michel Strogoff）｜ book: Michel Strogoff ｜ pn_anchor: MS-004 ｜ role=protagonist：沙皇信使，穿越西伯利亚送密令之主角 ｜ MS count 289 ｜ dup-check ABSENT ｜ ✔ R321 built rev ybCgc7（label Michel Strogoff 区分 work michael-strogoff；释放 work alias 'Michel Strogoff' 解 label 冲突；16 distinct PN；strict 首过）— queue(character) 归 0 -->
+<!-- ===== character 第三批 discover（R322 SCN28，queue 归 0 触发 §3(4)）：深化 SC/MS 簇 + 富 grounding，6 候选 ===== -->
+<!-- [character] R322 建序 63 mary-grant（Mary Grant）｜ book: In Search of the Castaways ｜ pn_anchor: SC-004 ｜ role=supporting：Captain Grant 之女、随 Duncan 号寻父 ｜ SC 首现 SC-004，mentions 83 ｜ dup-check ABSENT ｜ 簇：glenarvan/paganel/ayrton 可互链 -->
+<!-- [character] R322 建序 64 john-mangles（John Mangles）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ role=supporting：Duncan 号年轻船长、航海执行者 ｜ SC 首现 SC-001，mentions 272（富矿）｜ dup-check ABSENT ｜ 簇：glenarvan/paganel/ayrton -->
+<!-- [character] R322 建序 65 mcnabbs（Major McNabbs）｜ book: In Search of the Castaways ｜ pn_anchor: SC-001 ｜ role=supporting：Glenarvan 之表兄少校、沉稳冷静 ｜ SC 首现 SC-001，mentions 167 ｜ dup-check ABSENT ｜ 簇：glenarvan/paganel/ayrton -->
+<!-- [character] R322 建序 66 thalcave（Thalcave）｜ book: In Search of the Castaways ｜ pn_anchor: SC-015 ｜ role=supporting：Patagonia 印第安向导、pampas 领路 ｜ SC 首现 SC-015，mentions 137 ｜ dup-check ABSENT ｜ 簇：glenarvan（SC-018-042 已引 Thalcave set us on the track）-->
+<!-- [character] R322 建序 67 nadia（Nadia）｜ book: Michael Strogoff ｜ pn_anchor: MS-008 ｜ role=supporting：流放者之女、伴 Strogoff 越西伯利亚（伪作其妹）｜ MS 首现 MS-008 ｜ dup-check ABSENT ｜ 簇：michel-strogoff（MS-029-005 已引）/michael-strogoff -->
+<!-- [character] R322 建序 68 ivan-ogareff（Ivan Ogareff）｜ book: Michael Strogoff ｜ pn_anchor: MS-002 ｜ role=antagonist：叛徒军官、通鞑靼、Strogoff 之私敌 ｜ MS 首现 MS-002 ｜ dup-check ABSENT ｜ 簇：michel-strogoff（MS-015-052 须避 Ogareff）/assault-on-irkutsk -->
+
