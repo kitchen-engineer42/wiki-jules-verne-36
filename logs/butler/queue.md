@@ -803,7 +803,7 @@
 
 <!-- ===== R243 SCN28-zombie event discover（第 2 轮 event 复评）：播种 3 net-new 事件候选（皆非既有 23 event，exact-slug ABSENT；均取未覆盖作品）===== -->
 <!-- [event] The Burning of the Chancellor — chancellor-fire ✔ 建 R245 rev gYF2mt（The Survivors of the Chancellor；pn_anchor SC2-009 棉货舱自燃、无法扑救；8 PN；work slug=survivors-of-the-chancellor）建序 9 -->
-<!-- [event] The Whale Hunt Disaster — whale-hunt-disaster 待建（Dick Sand: A Captain at Fifteen；DSCF-008 捕鲸艇倾覆、Hull 与全员葬身、Dick Sand 少年掌舵；"whale" DSCF 73 PN）建序 10 ｜ 建时核 Hull 捕鲸覆没单指 -->
+<!-- [event] The Whale Hunt Disaster — whale-hunt-disaster ✔ 建 R246 rev VncGcd（Dick Sand: A Captain at Fifteen；pn_anchor DSCF-008 捕鲸艇覆没、Hull 全员葬身、Dick 少年掌舵；8 PN；DSCF 4-char 加 Note）建序 10 -->
 <!-- [event] The Abduction by the Albatross — albatross-abduction 待建（Robur the Conqueror；RC-005 Uncle Prudent 与 Phil Evans 被 Robur 手下堵嘴蒙眼掳上飞行器；"Albatross" RC 众 PN）建序 11 ｜ 建时核 Weldon Institute 二人被掳单指 -->
 <!-- R243 discover new_candidates=3 ≥ type_close_new_candidate_min(3) → productive，discover_streak_low 保持 0。取自 SC2/DSCF/RC 三部未覆盖作品；event 空间仍广（MW/AM/EHLA/GM/Steam House 等待掘）。 -->
 

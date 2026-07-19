@@ -6311,7 +6311,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 13
+      "total_refs": 14
     },
     "diving-apparatus": {
       "type": "technology",
@@ -31557,6 +31557,31 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 1
     },
+    "whale-hunt-disaster": {
+      "type": "event",
+      "label": "The Whale Hunt Disaster",
+      "aliases": [
+        "The Loss of Captain Hull"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "catastrophe",
+        "whaling"
+      ],
+      "path": "wh/whale-hunt-disaster.md",
+      "description": "Captain Hull and the whole crew of the Pilgrim perish in a single boat while hunting a jubarte whale, leaving the ship in the hands of the fifteen-year-old Dick Sand.",
+      "prose_len": 2305,
+      "prose_chars": 2022,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 3,
+      "blockquote_count": 1,
+      "quality": "featured",
+      "quality_score": 73,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "wimerra": {
       "type": "place",
       "label": "Wimerra",
@@ -34025,6 +34050,9 @@
     "Weldon Institute": "weldon-institute",
     "wellington-channel": "wellington-channel",
     "Wellington Channel": "wellington-channel",
+    "whale-hunt-disaster": "whale-hunt-disaster",
+    "The Whale Hunt Disaster": "whale-hunt-disaster",
+    "The Loss of Captain Hull": "whale-hunt-disaster",
     "wimerra": "wimerra",
     "Wimerra": "wimerra",
     "Wimerra River": "wimerra",
@@ -34042,6 +34070,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1499,
-  "generated": "2026-07-19T03:20:40Z"
+  "page_count": 1500,
+  "generated": "2026-07-19T03:23:17Z"
 }
