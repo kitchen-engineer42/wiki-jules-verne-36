@@ -5503,6 +5503,28 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 16
     },
+    "captain-hull": {
+      "type": "character",
+      "label": "Captain Hull",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "ca/captain-hull.md",
+      "description": "The skilled and humane whaling master of the Pilgrim, entrusted with the schooner by James Weldon, who takes the castaways aboard and perishes with his boat's crew hunting a rogue whale.",
+      "prose_len": 2411,
+      "prose_chars": 2285,
+      "h2_count": 5,
+      "pn_count": 13,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "captain-nemo": {
       "type": "character",
       "label": "Captain Nemo",
@@ -6740,7 +6762,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 20
+      "total_refs": 21
     },
     "dick-sand": {
       "type": "character",
@@ -6764,7 +6786,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 4
+      "total_refs": 5
     },
     "dirk-peters": {
       "type": "character",
@@ -18882,7 +18904,7 @@
       "quality": "featured",
       "quality_score": 74,
       "book": "Dick Sand: A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "MS-ch01": {
       "type": "chapter",
@@ -34117,6 +34139,8 @@
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
+    "captain-hull": "captain-hull",
+    "Captain Hull": "captain-hull",
     "captain-nemo": "captain-nemo",
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
@@ -36266,6 +36290,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1581,
-  "generated": "2026-07-19T11:04:13Z"
+  "page_count": 1582,
+  "generated": "2026-07-19T11:08:53Z"
 }

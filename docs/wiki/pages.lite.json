@@ -1651,6 +1651,12 @@
       ],
       "path": "ca/captain-hatteras.md"
     },
+    "captain-hull": {
+      "type": "character",
+      "label": "Captain Hull",
+      "aliases": [],
+      "path": "ca/captain-hull.md"
+    },
     "captain-nemo": {
       "type": "character",
       "label": "Captain Nemo",
@@ -10534,6 +10540,8 @@
     "captain-hatteras": "captain-hatteras",
     "Captain Hatteras": "captain-hatteras",
     "John Hatteras": "captain-hatteras",
+    "captain-hull": "captain-hull",
+    "Captain Hull": "captain-hull",
     "captain-nemo": "captain-nemo",
     "Captain Nemo": "captain-nemo",
     "Nemo": "captain-nemo",
@@ -12683,6 +12691,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1581,
-  "generated": "2026-07-19T11:04:13Z"
+  "page_count": 1582,
+  "generated": "2026-07-19T11:08:53Z"
 }
