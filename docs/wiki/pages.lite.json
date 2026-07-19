@@ -6751,6 +6751,12 @@
       "aliases": [],
       "path": "pe/peru.md"
     },
+    "phil-evans": {
+      "type": "character",
+      "label": "Phil Evans",
+      "aliases": [],
+      "path": "ph/phil-evans.md"
+    },
     "philadelphia": {
       "type": "place",
       "label": "Philadelphia",
@@ -11900,6 +11906,8 @@
     "Perth": "perth",
     "peru": "peru",
     "Peru": "peru",
+    "phil-evans": "phil-evans",
+    "Phil Evans": "phil-evans",
     "philadelphia": "philadelphia",
     "Philadelphia": "philadelphia",
     "phileas-fogg": "phileas-fogg",
@@ -12750,6 +12758,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1589,
-  "generated": "2026-07-19T11:47:09Z"
+  "page_count": 1590,
+  "generated": "2026-07-19T11:50:17Z"
 }
