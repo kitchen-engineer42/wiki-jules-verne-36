@@ -4949,6 +4949,15 @@
       "aliases": [],
       "path": "la/labrador.md"
     },
+    "lady-helena": {
+      "type": "character",
+      "label": "Lady Helena Glenarvan",
+      "aliases": [
+        "Lady Helena",
+        "Helena"
+      ],
+      "path": "la/lady-helena.md"
+    },
     "lake-baikal": {
       "type": "place",
       "label": "Lake Baikal",
@@ -11676,6 +11685,10 @@
     "Krasnoiarsk": "krasnoiarsk",
     "labrador": "labrador",
     "Labrador": "labrador",
+    "lady-helena": "lady-helena",
+    "Lady Helena Glenarvan": "lady-helena",
+    "Lady Helena": "lady-helena",
+    "Helena": "lady-helena",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -13072,6 +13085,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1626,
-  "generated": "2026-07-19T14:26:53Z"
+  "page_count": 1627,
+  "generated": "2026-07-19T14:29:25Z"
 }

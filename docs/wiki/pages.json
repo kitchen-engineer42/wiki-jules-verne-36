@@ -13043,7 +13043,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "In Search of the Castaways",
-      "total_refs": 5
+      "total_refs": 6
     },
     "GM-ch01": {
       "type": "chapter",
@@ -14630,7 +14630,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 39
+      "total_refs": 40
     },
     "in-the-year-2889": {
       "type": "work",
@@ -16483,6 +16483,30 @@
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
+    "lady-helena": {
+      "type": "character",
+      "label": "Lady Helena Glenarvan",
+      "aliases": [
+        "Lady Helena",
+        "Helena"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "la/lady-helena.md",
+      "description": "The brave, generous wife of Lord Glenarvan in In Search of the Castaways, whose compassion for Captain Grant's orphaned children launches the rescue voyage of the Duncan.",
+      "prose_len": 2323,
+      "prose_chars": 2184,
+      "h2_count": 5,
+      "pn_count": 15,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "book": "In Search of the Castaways",
+      "total_refs": 0
+    },
     "lake-baikal": {
       "type": "place",
       "label": "Lake Baikal",
@@ -17564,7 +17588,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "In Search of the Castaways",
-      "total_refs": 4
+      "total_refs": 5
     },
     "maryland": {
       "type": "place",
@@ -17681,7 +17705,7 @@
       "quality": "featured",
       "quality_score": 68,
       "book": "In Search of the Castaways",
-      "total_refs": 0
+      "total_refs": 1
     },
     "mediterranean": {
       "type": "place",
@@ -35989,6 +36013,10 @@
     "Krasnoiarsk": "krasnoiarsk",
     "labrador": "labrador",
     "Labrador": "labrador",
+    "lady-helena": "lady-helena",
+    "Lady Helena Glenarvan": "lady-helena",
+    "Lady Helena": "lady-helena",
+    "Helena": "lady-helena",
     "lake-baikal": "lake-baikal",
     "Lake Baikal": "lake-baikal",
     "The Baikal": "lake-baikal",
@@ -37385,6 +37413,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1626,
-  "generated": "2026-07-19T14:26:53Z"
+  "page_count": 1627,
+  "generated": "2026-07-19T14:29:57Z"
 }
