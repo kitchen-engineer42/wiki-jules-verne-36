@@ -1936,6 +1936,15 @@
       "aliases": [],
       "path": "de/denmark.md"
     },
+    "destruction-of-lincoln-island": {
+      "type": "event",
+      "label": "Destruction of Lincoln Island",
+      "aliases": [
+        "The Explosion of Lincoln Island",
+        "The End of Lincoln Island"
+      ],
+      "path": "de/destruction-of-lincoln-island.md"
+    },
     "detroit-river": {
       "type": "place",
       "label": "Detroit River",
@@ -10149,6 +10158,10 @@
     "The Bursting of the Last Clock": "death-of-master-zacharius",
     "denmark": "denmark",
     "Denmark": "denmark",
+    "destruction-of-lincoln-island": "destruction-of-lincoln-island",
+    "Destruction of Lincoln Island": "destruction-of-lincoln-island",
+    "The Explosion of Lincoln Island": "destruction-of-lincoln-island",
+    "The End of Lincoln Island": "destruction-of-lincoln-island",
     "detroit-river": "detroit-river",
     "Detroit River": "detroit-river",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
@@ -12001,6 +12014,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1518,
-  "generated": "2026-07-19T04:59:59Z"
+  "page_count": 1519,
+  "generated": "2026-07-19T05:02:37Z"
 }

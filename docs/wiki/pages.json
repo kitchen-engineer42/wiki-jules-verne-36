@@ -6462,6 +6462,31 @@
       "book": "Topsy-Turvy",
       "total_refs": 1
     },
+    "destruction-of-lincoln-island": {
+      "type": "event",
+      "label": "Destruction of Lincoln Island",
+      "aliases": [
+        "The Explosion of Lincoln Island",
+        "The End of Lincoln Island"
+      ],
+      "tags": [
+        "event",
+        "volcano",
+        "disaster",
+        "island"
+      ],
+      "path": "de/destruction-of-lincoln-island.md",
+      "prose_len": 2541,
+      "prose_chars": 2414,
+      "h2_count": 4,
+      "pn_count": 8,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 75,
+      "book": "The Secret of the Island",
+      "total_refs": 0
+    },
     "detroit-river": {
       "type": "place",
       "label": "Detroit River",
@@ -27903,7 +27928,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 75,
-      "total_refs": 24
+      "total_refs": 25
     },
     "the-pearl-of-lima": {
       "type": "work",
@@ -32724,6 +32749,10 @@
     "The Bursting of the Last Clock": "death-of-master-zacharius",
     "denmark": "denmark",
     "Denmark": "denmark",
+    "destruction-of-lincoln-island": "destruction-of-lincoln-island",
+    "Destruction of Lincoln Island": "destruction-of-lincoln-island",
+    "The Explosion of Lincoln Island": "destruction-of-lincoln-island",
+    "The End of Lincoln Island": "destruction-of-lincoln-island",
     "detroit-river": "detroit-river",
     "Detroit River": "detroit-river",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
@@ -34576,6 +34605,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1518,
-  "generated": "2026-07-19T04:59:59Z"
+  "page_count": 1519,
+  "generated": "2026-07-19T05:02:37Z"
 }
