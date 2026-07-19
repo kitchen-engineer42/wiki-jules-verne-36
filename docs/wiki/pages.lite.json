@@ -7540,6 +7540,14 @@
       "aliases": [],
       "path": "sa/samarkand.md"
     },
+    "samuel-fergusson": {
+      "type": "character",
+      "label": "Samuel Ferguson",
+      "aliases": [
+        "Dr. Ferguson"
+      ],
+      "path": "sa/samuel-fergusson.md"
+    },
     "san-francisco": {
       "type": "place",
       "label": "San Francisco",
@@ -12268,6 +12276,9 @@
     "Salt Lake City": "salt-lake-city",
     "samarkand": "samarkand",
     "Samarkand": "samarkand",
+    "samuel-fergusson": "samuel-fergusson",
+    "Samuel Ferguson": "samuel-fergusson",
+    "Dr. Ferguson": "samuel-fergusson",
     "san-francisco": "san-francisco",
     "San Francisco": "san-francisco",
     "sandwich-islands": "sandwich-islands",
@@ -12939,6 +12950,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1612,
-  "generated": "2026-07-19T13:19:26Z"
+  "page_count": 1613,
+  "generated": "2026-07-19T13:30:53Z"
 }
