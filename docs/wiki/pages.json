@@ -4420,6 +4420,29 @@
       "book": "From the Earth to the Moon",
       "total_refs": 0
     },
+    "bell": {
+      "type": "character",
+      "label": "Bell",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "voyage"
+      ],
+      "path": "be/bell.md",
+      "description": "The carpenter of the brig Forward in The Adventures of Captain Hatteras, a steadfast craftsman and one of the four men chosen for Hatteras's overland dash toward the Pole.",
+      "prose_len": 1954,
+      "prose_chars": 1834,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Adventures of Captain Hatteras",
+      "total_refs": 0
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -5524,7 +5547,7 @@
       "quality": "featured",
       "quality_score": 66,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 21
+      "total_refs": 22
     },
     "captain-hull": {
       "type": "character",
@@ -6125,7 +6148,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 3
+      "total_refs": 4
     },
     "coal-town": {
       "type": "place",
@@ -16041,7 +16064,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "The Adventures of Captain Hatteras",
-      "total_refs": 1
+      "total_refs": 2
     },
     "joliffe": {
       "type": "character",
@@ -30008,7 +30031,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 36,
-      "total_refs": 22
+      "total_refs": 23
     },
     "the-ascent-of-mont-blanc": {
       "type": "work",
@@ -35131,6 +35154,8 @@
     "Para": "belem",
     "belgium": "belgium",
     "Belgium": "belgium",
+    "bell": "bell",
+    "Bell": "bell",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "ben-zoof": "ben-zoof",
@@ -37488,6 +37513,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1630,
-  "generated": "2026-07-19T14:45:00Z"
+  "page_count": 1631,
+  "generated": "2026-07-19T14:50:17Z"
 }

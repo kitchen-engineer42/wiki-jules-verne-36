@@ -1339,6 +1339,12 @@
       "aliases": [],
       "path": "be/belgium.md"
     },
+    "bell": {
+      "type": "character",
+      "label": "Bell",
+      "aliases": [],
+      "path": "be/bell.md"
+    },
     "bellot-strait": {
       "type": "place",
       "label": "Bellot Strait",
@@ -10752,6 +10758,8 @@
     "Para": "belem",
     "belgium": "belgium",
     "Belgium": "belgium",
+    "bell": "bell",
+    "Bell": "bell",
     "bellot-strait": "bellot-strait",
     "Bellot Strait": "bellot-strait",
     "ben-zoof": "ben-zoof",
@@ -13109,6 +13117,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1630,
-  "generated": "2026-07-19T14:45:00Z"
+  "page_count": 1631,
+  "generated": "2026-07-19T14:50:17Z"
 }
