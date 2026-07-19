@@ -13977,7 +13977,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 31
+      "total_refs": 32
     },
     "in-the-year-2889": {
       "type": "work",
@@ -21327,6 +21327,32 @@
       "quality_score": 73,
       "book": "Around the World in Eighty Days",
       "total_refs": 2
+    },
+    "paganel": {
+      "type": "character",
+      "label": "Paganel",
+      "aliases": [
+        "Jacques Paganel"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration",
+        "geography"
+      ],
+      "path": "pa/paganel.md",
+      "description": "The absent-minded geographer who joins the search for Captain Grant after boarding the wrong ship.",
+      "prose_len": 2364,
+      "prose_chars": 2243,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 73,
+      "affiliation": "Geographical Society of Paris",
+      "book": "In Search of the Castaways",
+      "total_refs": 1
     },
     "pamir": {
       "type": "place",
@@ -34476,6 +34502,9 @@
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
     "Central Pacific": "pacific-railroad",
+    "paganel": "paganel",
+    "Paganel": "paganel",
+    "Jacques Paganel": "paganel",
     "pamir": "pamir",
     "Pamir": "pamir",
     "Pamir Plateau": "pamir",
@@ -35347,6 +35376,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1544,
-  "generated": "2026-07-19T08:11:36Z"
+  "page_count": 1545,
+  "generated": "2026-07-19T08:15:01Z"
 }

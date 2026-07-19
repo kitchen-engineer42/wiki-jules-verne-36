@@ -6401,6 +6401,14 @@
       ],
       "path": "pa/pacific-railroad.md"
     },
+    "paganel": {
+      "type": "character",
+      "label": "Paganel",
+      "aliases": [
+        "Jacques Paganel"
+      ],
+      "path": "pa/paganel.md"
+    },
     "pamir": {
       "type": "place",
       "label": "Pamir",
@@ -11481,6 +11489,9 @@
     "Pacific Railroad": "pacific-railroad",
     "Union Pacific": "pacific-railroad",
     "Central Pacific": "pacific-railroad",
+    "paganel": "paganel",
+    "Paganel": "paganel",
+    "Jacques Paganel": "paganel",
     "pamir": "pamir",
     "Pamir": "pamir",
     "Pamir Plateau": "pamir",
@@ -12352,6 +12363,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1544,
-  "generated": "2026-07-19T08:11:36Z"
+  "page_count": 1545,
+  "generated": "2026-07-19T08:15:01Z"
 }
