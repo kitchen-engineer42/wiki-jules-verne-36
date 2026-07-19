@@ -1910,6 +1910,12 @@
       "aliases": [],
       "path": "co/corsica.md"
     },
+    "cousin-benedict": {
+      "type": "character",
+      "label": "Cousin Benedict",
+      "aliases": [],
+      "path": "co/cousin-benedict.md"
+    },
     "creek-glycerine": {
       "type": "place",
       "label": "Creek Glycerine",
@@ -10614,6 +10620,8 @@
     "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
+    "cousin-benedict": "cousin-benedict",
+    "Cousin Benedict": "cousin-benedict",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -12667,6 +12675,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1579,
-  "generated": "2026-07-19T10:57:47Z"
+  "page_count": 1580,
+  "generated": "2026-07-19T11:00:54Z"
 }

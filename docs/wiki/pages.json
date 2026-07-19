@@ -6388,6 +6388,28 @@
       "book": "Off on a Comet",
       "total_refs": 1
     },
+    "cousin-benedict": {
+      "type": "character",
+      "label": "Cousin Benedict",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "co/cousin-benedict.md",
+      "description": "The absent-minded entomologist relative of Mrs. Weldon aboard the Pilgrim, whose single-minded passion for insects unwittingly betrays the castaways location in Africa.",
+      "prose_len": 2482,
+      "prose_chars": 2349,
+      "h2_count": 5,
+      "pn_count": 14,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 74,
+      "book": "Dick Sand: A Captain at Fifteen",
+      "total_refs": 0
+    },
     "creek-glycerine": {
       "type": "place",
       "label": "Creek Glycerine",
@@ -6718,7 +6740,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 18
+      "total_refs": 19
     },
     "dick-sand": {
       "type": "character",
@@ -6742,7 +6764,7 @@
       "quality": "featured",
       "quality_score": 71,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 2
+      "total_refs": 3
     },
     "dirk-peters": {
       "type": "character",
@@ -13991,7 +14013,7 @@
       "quality": "featured",
       "quality_score": 72,
       "book": "Dick Sand, A Captain at Fifteen",
-      "total_refs": 0
+      "total_refs": 1
     },
     "himalaya": {
       "type": "place",
@@ -34165,6 +34187,8 @@
     "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
+    "cousin-benedict": "cousin-benedict",
+    "Cousin Benedict": "cousin-benedict",
     "creek-glycerine": "creek-glycerine",
     "Creek Glycerine": "creek-glycerine",
     "crespo-island": "crespo-island",
@@ -36218,6 +36242,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1579,
-  "generated": "2026-07-19T10:57:47Z"
+  "page_count": 1580,
+  "generated": "2026-07-19T11:00:54Z"
 }
