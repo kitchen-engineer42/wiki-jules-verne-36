@@ -6823,6 +6823,12 @@
       "aliases": [],
       "path": "ph/phileas-fogg.md"
     },
+    "phina-hollaney": {
+      "type": "character",
+      "label": "Phina Hollaney",
+      "aliases": [],
+      "path": "ph/phina-hollaney.md"
+    },
     "PL-ch01": {
       "type": "chapter",
       "label": "The Pearl of Lima — CHAPTER I",
@@ -12035,6 +12041,8 @@
     "Philadelphia": "philadelphia",
     "phileas-fogg": "phileas-fogg",
     "Phileas Fogg": "phileas-fogg",
+    "phina-hollaney": "phina-hollaney",
+    "Phina Hollaney": "phina-hollaney",
     "PL-ch01": "PL-ch01",
     "PL-ch02": "PL-ch02",
     "PL-ch03": "PL-ch03",
@@ -12899,6 +12907,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1607,
-  "generated": "2026-07-19T13:00:50Z"
+  "page_count": 1608,
+  "generated": "2026-07-19T13:03:38Z"
 }
