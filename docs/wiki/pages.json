@@ -15924,6 +15924,27 @@
       "book": "The Adventures of a Special Correspondent",
       "total_refs": 0
     },
+    "kalumah": {
+      "type": "character",
+      "label": "Kalumah",
+      "aliases": [],
+      "tags": [
+        "character",
+        "exploration"
+      ],
+      "path": "ka/kalumah.md",
+      "description": "The young Esquimaux girl who befriends Mrs Barnett at Fort Hope and braves seventy hours alone at sea to rejoin the drifting colonists.",
+      "prose_len": 1995,
+      "prose_chars": 1873,
+      "h2_count": 5,
+      "pn_count": 12,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 69,
+      "book": "The Fur Country",
+      "total_refs": 0
+    },
     "kamtchatka-current": {
       "type": "place",
       "label": "Kamtchatka Current",
@@ -16753,7 +16774,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 3
+      "total_refs": 4
     },
     "lima-indian-uprising": {
       "type": "event",
@@ -22479,7 +22500,7 @@
       "quality": "featured",
       "quality_score": 76,
       "book": "The Fur Country",
-      "total_refs": 4
+      "total_refs": 5
     },
     "peak-of-teneriffe": {
       "type": "place",
@@ -29599,7 +29620,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 40,
-      "total_refs": 19
+      "total_refs": 20
     },
     "the-ice-sphinx": {
       "type": "event",
@@ -35468,6 +35489,8 @@
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
+    "kalumah": "kalumah",
+    "Kalumah": "kalumah",
     "kamtchatka-current": "kamtchatka-current",
     "Kamtchatka Current": "kamtchatka-current",
     "kamtchatka": "kamtchatka",
@@ -36875,6 +36898,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1606,
-  "generated": "2026-07-19T12:55:38Z"
+  "page_count": 1607,
+  "generated": "2026-07-19T13:00:50Z"
 }

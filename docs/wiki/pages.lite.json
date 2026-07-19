@@ -4787,6 +4787,12 @@
       ],
       "path": "ka/kachgar.md"
     },
+    "kalumah": {
+      "type": "character",
+      "label": "Kalumah",
+      "aliases": [],
+      "path": "ka/kalumah.md"
+    },
     "kamtchatka-current": {
       "type": "place",
       "label": "Kamtchatka Current",
@@ -11484,6 +11490,8 @@
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
+    "kalumah": "kalumah",
+    "Kalumah": "kalumah",
     "kamtchatka-current": "kamtchatka-current",
     "Kamtchatka Current": "kamtchatka-current",
     "kamtchatka": "kamtchatka",
@@ -12891,6 +12899,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1606,
-  "generated": "2026-07-19T12:55:38Z"
+  "page_count": 1607,
+  "generated": "2026-07-19T13:00:50Z"
 }
