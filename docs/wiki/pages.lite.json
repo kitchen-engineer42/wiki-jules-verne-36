@@ -6740,6 +6740,16 @@
       "aliases": [],
       "path": "rc/RC-ch23.md"
     },
+    "recovery-of-the-projectile": {
+      "type": "event",
+      "label": "The Recovery of the Projectile",
+      "aliases": [
+        "The Susquehanna Rescue",
+        "Splashdown in the Pacific",
+        "Recovery from the Ocean Bed"
+      ],
+      "path": "re/recovery-of-the-projectile.md"
+    },
     "red-creek": {
       "type": "place",
       "label": "Red Creek",
@@ -11413,6 +11423,11 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "recovery-of-the-projectile": "recovery-of-the-projectile",
+    "The Recovery of the Projectile": "recovery-of-the-projectile",
+    "The Susquehanna Rescue": "recovery-of-the-projectile",
+    "Splashdown in the Pacific": "recovery-of-the-projectile",
+    "Recovery from the Ocean Bed": "recovery-of-the-projectile",
     "red-creek": "red-creek",
     "Red Creek": "red-creek",
     "red-sea": "red-sea",
@@ -12133,6 +12148,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1528,
-  "generated": "2026-07-19T06:11:44Z"
+  "page_count": 1529,
+  "generated": "2026-07-19T06:27:32Z"
 }

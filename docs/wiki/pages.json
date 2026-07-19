@@ -13411,7 +13411,7 @@
       "quality": "featured",
       "quality_score": 67,
       "book": "From the Earth to the Moon",
-      "total_refs": 25
+      "total_refs": 26
     },
     "gun-cotton": {
       "type": "technology",
@@ -22512,6 +22512,33 @@
       "book": "Robur the Conqueror",
       "total_refs": 1
     },
+    "recovery-of-the-projectile": {
+      "type": "event",
+      "label": "The Recovery of the Projectile",
+      "aliases": [
+        "The Susquehanna Rescue",
+        "Splashdown in the Pacific",
+        "Recovery from the Ocean Bed"
+      ],
+      "tags": [
+        "event",
+        "space-travel",
+        "rescue",
+        "science-fiction",
+        "1870s"
+      ],
+      "path": "re/recovery-of-the-projectile.md",
+      "prose_len": 3211,
+      "prose_chars": 3083,
+      "h2_count": 4,
+      "pn_count": 19,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 82,
+      "book": "Round the Moon",
+      "total_refs": 0
+    },
     "red-creek": {
       "type": "place",
       "label": "Red Creek",
@@ -23348,7 +23375,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 43,
-      "total_refs": 12
+      "total_refs": 13
     },
     "royal-geographical-society": {
       "type": "organization",
@@ -34144,6 +34171,11 @@
     "RC-ch21": "RC-ch21",
     "RC-ch22": "RC-ch22",
     "RC-ch23": "RC-ch23",
+    "recovery-of-the-projectile": "recovery-of-the-projectile",
+    "The Recovery of the Projectile": "recovery-of-the-projectile",
+    "The Susquehanna Rescue": "recovery-of-the-projectile",
+    "Splashdown in the Pacific": "recovery-of-the-projectile",
+    "Recovery from the Ocean Bed": "recovery-of-the-projectile",
     "red-creek": "red-creek",
     "Red Creek": "red-creek",
     "red-sea": "red-sea",
@@ -34864,6 +34896,6 @@
     "zanzibar": "zanzibar",
     "Zanzibar": "zanzibar"
   },
-  "page_count": 1528,
-  "generated": "2026-07-19T06:11:44Z"
+  "page_count": 1529,
+  "generated": "2026-07-19T06:27:32Z"
 }
