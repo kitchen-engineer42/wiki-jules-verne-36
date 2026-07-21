@@ -4477,6 +4477,12 @@
       "aliases": [],
       "path": "ir/irtish.md"
     },
+    "isaac-hakkabut": {
+      "type": "character",
+      "label": "Isaac Hakkabut",
+      "aliases": [],
+      "path": "is/isaac-hakkabut.md"
+    },
     "island-of-ljakow": {
       "type": "place",
       "label": "Island of Ljakow",
@@ -11596,6 +11602,8 @@
     "Irkutsk": "irkutsk",
     "irtish": "irtish",
     "Irtish": "irtish",
+    "isaac-hakkabut": "isaac-hakkabut",
+    "Isaac Hakkabut": "isaac-hakkabut",
     "island-of-ljakow": "island-of-ljakow",
     "Island of Ljakow": "island-of-ljakow",
     "Ljakow Island": "island-of-ljakow",
@@ -13125,6 +13133,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1632,
-  "generated": "2026-07-19T14:55:42Z"
+  "page_count": 1633,
+  "generated": "2026-07-21T05:22:58Z"
 }
