@@ -25202,6 +25202,28 @@
       "book": "Round the Moon",
       "total_refs": 1
     },
+    "robert-curtis": {
+      "type": "character",
+      "label": "Robert Curtis",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "voyage"
+      ],
+      "path": "ro/robert-curtis.md",
+      "description": "The second mate of the Chancellor who takes command as the ship burns and founders, leading the survivors on their raft through fire, storm, mutiny, and starvation to rescue near the Amazon.",
+      "prose_len": 3498,
+      "prose_chars": 3355,
+      "h2_count": 5,
+      "pn_count": 18,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 84,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
+    },
     "robert-grant": {
       "type": "character",
       "label": "Robert Grant",
@@ -29665,7 +29687,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 5
+      "total_refs": 6
     },
     "sweden": {
       "type": "place",
@@ -36866,6 +36888,8 @@
     "RM-ch21": "RM-ch21",
     "RM-ch22": "RM-ch22",
     "RM-ch23": "RM-ch23",
+    "robert-curtis": "robert-curtis",
+    "Robert Curtis": "robert-curtis",
     "robert-grant": "robert-grant",
     "Robert Grant": "robert-grant",
     "robur-the-conqueror": "robur-the-conqueror",
@@ -37589,6 +37613,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1634,
-  "generated": "2026-07-21T05:58:44Z"
+  "page_count": 1635,
+  "generated": "2026-07-21T06:18:19Z"
 }
