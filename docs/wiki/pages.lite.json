@@ -4818,6 +4818,14 @@
       "aliases": [],
       "path": "jc/JCE-ch45.md"
     },
+    "joam-garral": {
+      "type": "character",
+      "label": "Joam Garral",
+      "aliases": [
+        "Joam Dacosta"
+      ],
+      "path": "jo/joam-garral.md"
+    },
     "joe": {
       "type": "character",
       "label": "Joe",
@@ -11673,6 +11681,9 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "joam-garral": "joam-garral",
+    "Joam Garral": "joam-garral",
+    "Joam Dacosta": "joam-garral",
     "joe": "joe",
     "Joe": "joe",
     "john-mangles": "john-mangles",
@@ -13133,6 +13144,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1633,
-  "generated": "2026-07-21T05:22:58Z"
+  "page_count": 1634,
+  "generated": "2026-07-21T05:58:44Z"
 }
