@@ -9378,6 +9378,12 @@
       "aliases": [],
       "path": "to/torres-strait.md"
     },
+    "torres": {
+      "type": "character",
+      "label": "Torres",
+      "aliases": [],
+      "path": "to/torres.md"
+    },
     "tripoli": {
       "type": "place",
       "label": "Tripoli",
@@ -12914,6 +12920,8 @@
     "The Purchase of the North Pole": "topsy-turvy",
     "torres-strait": "torres-strait",
     "Torres Strait": "torres-strait",
+    "torres": "torres",
+    "Torres": "torres",
     "tripoli": "tripoli",
     "Tripoli": "tripoli",
     "coast of Tripoli": "tripoli",
@@ -13160,6 +13168,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1636,
-  "generated": "2026-07-21T07:06:46Z"
+  "page_count": 1637,
+  "generated": "2026-07-21T10:17:44Z"
 }
