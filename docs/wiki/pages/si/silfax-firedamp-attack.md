@@ -7,7 +7,7 @@ tags: [event, mining, firedamp, sabotage]
 book: The Underground City
 location: New Aberfoyle
 pn_anchor: UC-018
-quality: featured
+quality: standard
 ---
 # Silfax's Firedamp Attack
 

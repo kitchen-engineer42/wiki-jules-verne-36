@@ -8,7 +8,7 @@ description: 'The premier London learned society whose members and laureates fig
 book: Five Weeks in a Balloon
 org_type: society
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

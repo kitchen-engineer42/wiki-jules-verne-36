@@ -8,8 +8,8 @@ book: The Clipper of the Clouds
 real_or_fictional: real
 region: Russia
 description: The old Russian city at the north end of the Caspian Sea, once styled the Star of the Desert, that lends its name to the astrakhan fur.
+quality: standard
 ---
-
 ## Overview
 
 Astrakhan is the old Russian city at the north end of the [[Caspian Sea]]. (RC-014-009) Once styled the Star of the Desert, it has sunk from the first rank to the fifth or sixth, keeping its old walls, ancient towers, mosques, and a cathedral with five gilded domes. (RC-014-009)

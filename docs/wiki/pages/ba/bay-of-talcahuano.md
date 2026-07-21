@@ -12,7 +12,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Chile (South America)
 description: 'The Chilean estuary where the yacht Duncan begins and ends her search for Captain Grant along the thirty-seventh parallel in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Bay of Talcahuano
 

@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Atlantic Ocean
 description: 'The first of the great oceans the 37th parallel crosses in In Search of the Castaways, and the Duncan''s appointed rendezvous.'
-quality: featured
+quality: standard
 ---
 # Atlantic Ocean
 

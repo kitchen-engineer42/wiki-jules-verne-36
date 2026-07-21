@@ -8,7 +8,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: West Africa
 description: 'The capital of the Portuguese colony on the west coast of Africa, a coastal goal of trans-continental journeys in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

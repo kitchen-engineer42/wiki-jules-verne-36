@@ -12,8 +12,8 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Africa (Central African lakes)
 description: 'The great Central African lake that figures in Dick Sand as a hub of the slave trade and a landmark of Livingstone''s explorations.'
+quality: standard
 ---
-
 # Lake Tanganyika
 
 ## Overview

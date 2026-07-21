@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: The vast desert land of Central Asia crossed by the Grand Transasiatic, a march of bazaars, brigands and the old wall against China.
-quality: featured
+quality: standard
 ---
 ## Overview
 

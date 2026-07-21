@@ -12,7 +12,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Canada (Northwest Territories)
 description: 'The vast subarctic lake of northern Canada, staging ground for Jaspar Hobson''s expedition toward the Arctic coast in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Great Bear Lake
 

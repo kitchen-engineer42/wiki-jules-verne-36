@@ -7,7 +7,7 @@ tags: [event, rescue, cannibals, castaway, 1880s]
 book: 'Godfrey Morgan'
 location: 'Phina Island'
 pn_anchor: GM-017
-quality: featured
+quality: standard
 ---
 # The Rescue of Carefinotu
 

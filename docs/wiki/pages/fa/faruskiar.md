@@ -9,7 +9,7 @@ book: 'The Adventures of a Special Correspondent'
 affiliation: Grand Transasiatic Railway
 first_appearance: ASC-008
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Faruskiar
 

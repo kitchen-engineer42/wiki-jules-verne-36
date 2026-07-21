@@ -8,7 +8,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (North Atlantic)
 description: 'Great Arctic island whose ice-bound coasts recur across Verne''s polar voyages as the threshold of the far north.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

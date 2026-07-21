@@ -9,7 +9,7 @@ book: An Antarctic Mystery
 affiliation:
 first_appearance: AM-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Len Guy
 

@@ -12,7 +12,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Canadian Arctic Archipelago
 description: 'The high Arctic passage, route of the American explorer Kane, that Shandon is ordered to attempt in the opening voyage of The Adventures of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 # Smith's Straits
 

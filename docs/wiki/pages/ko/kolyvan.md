@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'A Western Siberian town on the telegraph line between Tomsk and Krasnoiarsk, and the place where Michael Strogoff is captured in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

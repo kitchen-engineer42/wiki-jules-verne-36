@@ -7,7 +7,7 @@ tags: [event, rescue, trial, cryptography, 1850s]
 book: 'Eight Hundred Leagues on the Amazon'
 location: 'Manaos, on the Amazon, Brazil'
 pn_anchor: EHLA-039
-quality: featured
+quality: standard
 ---
 # The Rescue of Joam Dacosta
 

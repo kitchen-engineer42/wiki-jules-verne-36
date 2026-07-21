@@ -8,7 +8,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: West Africa
 description: 'One of the rivers of Angola, artery of the Benguela slave country in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America (Argentine coast)
 description: 'The cape on the Argentine coast where the Duncan cruises and rides out a storm in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Cape Corrientes
 

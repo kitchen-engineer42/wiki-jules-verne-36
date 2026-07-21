@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Argentina
 description: 'A colonial town of Patagonia at the mouth of the Rio Negro, terminus of the Carmen-to-Mendoza route in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

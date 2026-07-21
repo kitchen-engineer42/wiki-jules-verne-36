@@ -9,7 +9,7 @@ book: Michael Strogoff
 affiliation:
 first_appearance: MS-004
 role: supporting
-quality: featured
+quality: standard
 ---
 # Marfa Strogoff
 

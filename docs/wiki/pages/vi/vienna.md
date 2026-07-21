@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Austria
 description: The Austrian capital, a seat of science and a waypoint on the Continental journeys of Verne's travellers.
-quality: featured
+quality: standard
 ---
 ## Overview
 

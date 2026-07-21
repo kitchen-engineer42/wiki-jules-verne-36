@@ -8,7 +8,7 @@ book: Topsy-Turvy
 real_or_fictional: real
 region: Germany
 description: The German capital, a seat of learning and diplomacy repeatedly invoked in Verne's global affairs.
-quality: featured
+quality: standard
 ---
 ## Overview
 

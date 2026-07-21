@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Barrow Strait)
 description: 'The real Arctic island and rendezvous of polar expeditions in The Adventures of Captain Hatteras, where Hatteras counts on renewing the Forward''s coal.'
-quality: featured
+quality: standard
 ---
 # Beechey Island
 

@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Brazil
 description: 'The Brazilian capital and seat of justice on the Atlantic, whose distant authority governs the fate of the Amazon travellers.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

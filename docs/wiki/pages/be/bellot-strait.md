@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Boothia)
 description: 'The real narrow Arctic strait on which Hatteras stakes his voyage, the only southern outlet from the Gulf of Boothia.'
-quality: featured
+quality: standard
 ---
 # Bellot Strait
 

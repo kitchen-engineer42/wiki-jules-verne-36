@@ -11,8 +11,8 @@ book: The Fur Country
 real_or_fictional: real
 region: Canada (Hudson's Bay)
 description: 'The great inland sea of northern Canada, gateway for the fur-trade expeditions of the north — distinct from the trading company of the same name.'
+quality: standard
 ---
-
 # Hudson's Bay
 
 ## Overview

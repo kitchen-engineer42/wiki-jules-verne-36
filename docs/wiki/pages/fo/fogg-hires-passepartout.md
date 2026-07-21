@@ -8,7 +8,7 @@ description: 'Phileas Fogg engages Jean Passepartout as his manservant on the ve
 book: Around the World in Eighty Days
 location: Savile Row
 pn_anchor: AWED-001
-quality: featured
+quality: standard
 ---
 # Fogg Hires Passepartout
 

@@ -9,7 +9,7 @@ book: 'Robur the Conqueror'
 affiliation: Weldon Institute
 first_appearance: RC-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Uncle Prudent
 

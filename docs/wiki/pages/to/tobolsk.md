@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'A government of Western Siberia and one of its chief towns, whose loyal Cossacks march to resist the Tartar invasion in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

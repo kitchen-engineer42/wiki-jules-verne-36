@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (Great Lakes)
 description: 'The strait between Lake Erie and Lake Huron by which the Terror flees its pursuers in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Detroit River
 

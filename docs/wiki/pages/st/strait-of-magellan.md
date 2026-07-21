@@ -12,7 +12,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America (Patagonia / Tierra del Fuego)
 description: 'The southern passage between the Atlantic and Pacific through which the Duncan sails on her search in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Strait of Magellan
 

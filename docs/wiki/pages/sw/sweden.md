@@ -12,7 +12,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Scandinavia
 description: 'The Scandinavian homeland tied to Erik Hersebom and to the Nordenskiold arctic expedition in The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: real
 region: Germany
 description: The north-German river on whose banks Hamburg stands, walked by Axel in Verne and counted among the great rivers that feed the ocean.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: Master Zacharius
 real_or_fictional: real
 region: Switzerland
 description: 'The lakeside Swiss city of Master Zacharius, home of the old clockmaker whose watches betray him, set before the town was given over to the dryness of Calvinism.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Baffin Bay)
 description: 'The real strait off the west coast of Baffin''s Sea, the historic gateway of the Northwest Passage explorers that the Forward enters on its polar course.'
-quality: featured
+quality: standard
 ---
 # Lancaster Strait
 

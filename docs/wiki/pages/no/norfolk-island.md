@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: real
 region: South Pacific
 description: 'The South Pacific penal island from which Bob Harvey''s convicts escape to menace the colonists in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Norfolk Island
 

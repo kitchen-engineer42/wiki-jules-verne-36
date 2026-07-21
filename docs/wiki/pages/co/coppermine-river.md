@@ -8,7 +8,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic North America
 description: 'A large river of Arctic North America flowing north into Coronation Gulf, a landmark of the expedition in The Fur Country.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

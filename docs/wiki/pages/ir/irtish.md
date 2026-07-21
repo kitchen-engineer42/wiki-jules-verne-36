@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'A great river of Western Siberia in Michael Strogoff, running past Omsk and marking the frontier of the Tartar advance.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

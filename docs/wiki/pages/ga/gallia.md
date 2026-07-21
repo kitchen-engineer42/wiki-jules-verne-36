@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: fictional
 region: Space (comet)
 description: 'The fragment of Earth carried off around the sun as a new little planet, the travelling world of Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

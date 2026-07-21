@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Europe
 description: The arm of the Mediterranean between Italy and the Balkan coast, sounded by the Nautilus and dreaded as a drift-goal by Verne's balloonists.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: 'Godfrey Morgan'
 affiliation:
 first_appearance: GM-001
 role: supporting
-quality: featured
+quality: standard
 ---
 # William W. Kolderup
 

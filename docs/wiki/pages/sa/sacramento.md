@@ -8,7 +8,7 @@ book: 'Around the World in Eighty Days'
 real_or_fictional: real
 region: California
 description: 'California capital and river, western reach of the Pacific Railroad in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

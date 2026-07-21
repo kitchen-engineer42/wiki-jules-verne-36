@@ -8,7 +8,7 @@ book: 'Topsy-Turvy'
 real_or_fictional: real
 region: United States
 description: 'State of the United States, home to Baltimore and seat of the Gun Club in the Verne cannon novels.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

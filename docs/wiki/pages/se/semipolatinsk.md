@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Siberia (Irtish valley)
 description: 'A Siberian government and town on the Irtish, overrun during the Tartar invasion in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

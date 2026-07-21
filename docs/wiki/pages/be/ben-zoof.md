@@ -9,7 +9,7 @@ book: Off on a Comet
 affiliation:
 first_appearance: OC-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Ben Zoof
 

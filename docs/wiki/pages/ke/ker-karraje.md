@@ -9,7 +9,7 @@ book: 'Facing the Flag'
 affiliation:
 first_appearance: FF-010
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Ker Karraje
 

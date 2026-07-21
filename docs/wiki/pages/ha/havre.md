@@ -8,7 +8,7 @@ book: The Survivors of the Chancellor
 real_or_fictional: real
 region: France
 description: The great French port on the Channel, gateway of Atlantic passage and home of many a Verne mariner and passenger.
-quality: featured
+quality: standard
 ---
 ## Overview
 

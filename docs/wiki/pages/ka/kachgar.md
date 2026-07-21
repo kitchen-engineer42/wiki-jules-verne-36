@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Chinese Turkestan
 description: 'The capital of Chinese Turkestan and the junction of the Russian and Chinese lines of the Grand Transasiatic railway in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

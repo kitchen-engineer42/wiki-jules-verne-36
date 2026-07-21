@@ -8,7 +8,7 @@ description: 'The Massachusetts observatory whose director answers the Gun Club'
 book: From the Earth to the Moon
 org_type: society
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

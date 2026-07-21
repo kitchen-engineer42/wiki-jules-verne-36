@@ -9,7 +9,7 @@ book: 'A Journey to the Center of the Earth'
 affiliation:
 first_appearance: JCE-003
 role: supporting
-quality: featured
+quality: standard
 ---
 # Arne Saknussemm
 

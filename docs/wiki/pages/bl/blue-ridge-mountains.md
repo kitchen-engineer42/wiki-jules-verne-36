@@ -13,7 +13,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (Appalachians)
 description: 'The Appalachian range whose peak the Great Eyrie touches off the mystery of The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Blue Ridge Mountains
 

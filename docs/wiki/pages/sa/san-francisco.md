@@ -11,7 +11,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: California (United States)
 description: 'The Californian port where Phileas Fogg lands in America and begins his rail crossing of the continent in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 # San Francisco
 

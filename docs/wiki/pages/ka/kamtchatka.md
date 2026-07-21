@@ -8,7 +8,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Russian Far East
 description: 'The far-eastern Siberian peninsula whose cold ocean current threatens the drifting ice-island in The Fur Country.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

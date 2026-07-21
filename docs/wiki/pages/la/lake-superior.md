@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: North America (Great Lakes)
 description: 'The largest of the Great Lakes, where the mysterious machine of The Master of the World is sighted before vanishing across the continent.'
-quality: featured
+quality: standard
 ---
 # Lake Superior
 

@@ -12,7 +12,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Arctic (New Siberian Islands)
 description: 'The New Siberian island for which the Alaska races in pursuit of Tudor Brown in The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 # Island of Ljakow
 

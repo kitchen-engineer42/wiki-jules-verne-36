@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'A stream on the southern coast of Lincoln Island, running through the wooded Serpentine Peninsula in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Falls River
 

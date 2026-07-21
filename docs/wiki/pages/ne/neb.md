@@ -9,7 +9,7 @@ book: The Mysterious Island
 affiliation:
 first_appearance: MI-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Neb
 

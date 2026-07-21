@@ -12,7 +12,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: France (Brittany)
 description: 'The rocky island off the Brittany coast, ringed by deadly reefs, on which the Alaska is wrecked in The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 # Island of Sein
 

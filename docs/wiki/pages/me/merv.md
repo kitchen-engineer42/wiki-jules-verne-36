@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: The Transcaspian oasis city and Grand Transasiatic railway station, four times rebuilt, on the reporter's road to China.
-quality: featured
+quality: standard
 ---
 ## Overview
 

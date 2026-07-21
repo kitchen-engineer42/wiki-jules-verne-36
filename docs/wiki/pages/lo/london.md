@@ -11,7 +11,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: England
 description: 'The English capital and home of Phileas Fogg, where his wager begins and must end in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 # London
 

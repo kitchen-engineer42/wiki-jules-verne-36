@@ -13,7 +13,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States
 description: 'The American transcontinental railway that carries Phileas Fogg across the continent in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 # Pacific Railroad
 

@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Eastern Siberia
 description: 'Broad Eastern Siberian river below Krasnoiarsk that forms a major barrier on the road to Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: United States
 description: 'The great Southern port at the mouth of the Mississippi, a hub of American commerce and travel in Verne''s tales.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: Off on a Comet
 real_or_fictional: fictional
 region: Gallia (comet)
 description: 'The sea covering half the surface of the comet Gallia, carrying the fragment of the Mediterranean off into space in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 # Gallian Sea
 

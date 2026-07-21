@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: North America (New York–Canada)
 description: 'The real river draining Lake Erie into Lake Ontario, down whose rapids the Terror flees toward its celebrated falls in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Niagara River
 

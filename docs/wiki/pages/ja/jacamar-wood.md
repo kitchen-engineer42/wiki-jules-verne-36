@@ -8,8 +8,8 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The forest on the left bank of the Mercy on Lincoln Island, named for the jacamar bird.'
+quality: standard
 ---
-
 ## Overview
 
 Jacamar Wood is the forest on the left bank of the Mercy on Lincoln Island in The Mysterious Island. The settlers gave that part of the forest the name of Jacamar Wood, in remembrance of the bird which Pencroft and Herbert had pursued on their first exploration. (MI-013-033) It lay between the road to the corral and the Mercy, near the neighbourhood of Lake Grant. (MI-053-022)

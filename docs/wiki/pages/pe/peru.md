@@ -12,7 +12,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: South America (Peru)
 description: 'The Andean republic from whose forests the Upper Amazon issues and where Joam Dacosta took refuge for years in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

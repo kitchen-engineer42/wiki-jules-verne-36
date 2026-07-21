@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Indian Ocean
 description: 'The pearl-fishery island off the Indian peninsula where the Nautilus takes Aronnax to the oyster banks in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

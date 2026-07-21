@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: North Pacific (Bering Sea)
 description: 'The real northern sea into which the drifting Victoria Island is carried in The Fur Country, scattered with the islands that offer the colonists their last hope of rescue.'
-quality: featured
+quality: standard
 ---
 # Behring Sea
 

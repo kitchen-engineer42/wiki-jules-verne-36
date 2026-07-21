@@ -8,7 +8,7 @@ book: The Master of the World
 real_or_fictional: real
 region: New York (United States)
 description: 'The wooded island in the Niagara River dividing the American falls from the Canadian, appearing in The Master of the World and Robur the Conqueror.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

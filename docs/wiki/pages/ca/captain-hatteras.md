@@ -9,7 +9,7 @@ book: The Adventures of Captain Hatteras
 affiliation:
 first_appearance: ACH-012
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Captain Hatteras
 

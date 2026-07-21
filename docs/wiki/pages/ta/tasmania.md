@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Oceania
 description: 'The English island south of Australia, a southern waymark of the whaling grounds and a byword for the convict colonies.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'The colonists find a man on Tabor Island reduced by solitude to a 
 book: The Mysterious Island
 location: Tabor Island
 pn_anchor: MI-036
-quality: featured
+quality: standard
 ---
 # The Tabor Island Castaway
 

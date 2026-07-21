@@ -7,7 +7,7 @@ tags: [event, adventure, kidnapping, espionage]
 book: Facing the Flag
 location: Healthful House
 pn_anchor: FF-003
-quality: featured
+quality: standard
 ---
 # The Abduction of Thomas Roch
 

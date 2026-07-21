@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: England
 description: 'English port where Phileas Fogg lands from America, only six hours from the wager he seems to have lost.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

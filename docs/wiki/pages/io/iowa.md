@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: real
 region: United States
 description: 'The prairie state where the survivors of Lincoln Island settle, crossed by the transcontinental railroad in the Vernean novels.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

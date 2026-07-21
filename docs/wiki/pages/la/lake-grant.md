@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The tree-framed freshwater lake on the plateau of Lincoln Island, a central landmark of the colonists'' domain in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Lake Grant
 

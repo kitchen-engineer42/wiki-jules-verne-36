@@ -7,7 +7,7 @@ tags: [event, rescue, arctic, exploration]
 book: A Winter Amid the Ice
 location: Shannon Island
 pn_anchor: WAI-012
-quality: featured
+quality: standard
 ---
 # The Finding of Louis Cornbutte
 

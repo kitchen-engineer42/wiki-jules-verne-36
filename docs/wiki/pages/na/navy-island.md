@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (Niagara River)
 description: 'The island in the Niagara River above the falls, past which the Terror sweeps in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Navy Island
 

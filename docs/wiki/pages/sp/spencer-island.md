@@ -12,7 +12,7 @@ book: Godfrey Morgan
 real_or_fictional: fictional
 region: Pacific Ocean
 description: 'The fictional Pacific island where Godfrey Morgan is marooned; bought by the millionaire Kolderup, it is renamed Phina Island by its unwitting castaway.'
-quality: featured
+quality: standard
 ---
 # Spencer Island
 

@@ -11,7 +11,7 @@ book: From the Earth to the Moon
 real_or_fictional: fictional
 region: Florida, United States
 description: 'The barren Florida hill where the Gun Club casts and buries its giant Columbiad cannon in From the Earth to the Moon.'
-quality: featured
+quality: standard
 ---
 # Stony Hill
 

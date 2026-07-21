@@ -9,7 +9,7 @@ book: The Underground City
 affiliation:
 first_appearance: UC-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # James Starr
 

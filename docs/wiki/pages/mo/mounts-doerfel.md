@@ -11,7 +11,7 @@ book: Round the Moon
 real_or_fictional: real
 region: Southern Moon (circumpolar region)
 description: 'The lofty lunar mountain range near the Moon''s south pole observed by the travellers in Round the Moon.'
-quality: featured
+quality: standard
 ---
 # Mounts Doerfel
 

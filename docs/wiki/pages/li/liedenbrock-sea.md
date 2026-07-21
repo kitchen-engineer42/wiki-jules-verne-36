@@ -8,7 +8,7 @@ description: 'The vast subterranean ocean discovered beneath Iceland in Journey 
 book: Journey to the Center of the Earth
 real_or_fictional: fictional
 region: subterranean
-quality: featured
+quality: standard
 ---
 ## Overview
 

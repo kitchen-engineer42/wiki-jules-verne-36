@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: South Africa
 description: 'The southern cape of Africa, one of the great capes the Nautilus must double on its course between the Indian Ocean and the Atlantic in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Cape of Good Hope
 

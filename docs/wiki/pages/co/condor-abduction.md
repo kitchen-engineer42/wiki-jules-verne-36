@@ -8,7 +8,7 @@ description: 'After the Andes earthquake a giant condor seizes the seemingly lif
 book: In Search of the Castaways
 location: Andes
 pn_anchor: SC-014
-quality: featured
+quality: standard
 ---
 # The Condor Abduction
 

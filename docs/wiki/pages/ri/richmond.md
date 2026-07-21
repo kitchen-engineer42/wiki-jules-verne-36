@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: real
 region: Virginia
 description: 'The Confederate capital of Virginia besieged by Grant, the prison-city from which the castaways of Lincoln Island escape by balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

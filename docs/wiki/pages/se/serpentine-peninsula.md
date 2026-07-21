@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The wooded south-western peninsula of Lincoln Island, ending in the Reptile End promontory, in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Serpentine Peninsula
 

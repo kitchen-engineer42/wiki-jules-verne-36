@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: South America
 description: 'Great South American river that carries the jangada eight hundred leagues through Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

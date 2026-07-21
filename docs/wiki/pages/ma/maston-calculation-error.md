@@ -7,7 +7,7 @@ tags: [event, ballistics, miscalculation, satire, 1890s]
 book: 'Topsy-Turvy'
 location: 'Baltimore, United States'
 pn_anchor: TT-020
-quality: featured
+quality: standard
 ---
 # Maston's Calculation Error
 

@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: South America
 description: 'The southern continent of the New World, a recurring stage across Verne''s voyages from Patagonia to the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

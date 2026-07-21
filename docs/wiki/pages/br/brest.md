@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: France
 description: The great French naval port on the Atlantic, the Alaska's landfall in her rescue voyage and a cradle of Verne's sea expeditions.
-quality: featured
+quality: standard
 ---
 ## Overview
 

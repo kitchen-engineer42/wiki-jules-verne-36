@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic Ocean
 description: 'The Arctic Ocean along the northern coast of America, on whose shifting ice Fort Hope is founded and set adrift in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Polar Sea
 

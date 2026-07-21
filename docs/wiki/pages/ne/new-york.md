@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: United States (New York)
 description: The great American Atlantic port and transatlantic gateway, hub of Verne's ocean crossings and inquiries.
-quality: featured
+quality: standard
 ---
 ## Overview
 

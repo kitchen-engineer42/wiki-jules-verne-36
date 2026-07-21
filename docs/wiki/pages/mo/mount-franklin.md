@@ -8,7 +8,7 @@ description: 'The volcano that dominates Lincoln Island in The Mysterious Island
 book: The Mysterious Island
 real_or_fictional: fictional
 region: South Pacific
-quality: featured
+quality: standard
 ---
 ## Overview
 

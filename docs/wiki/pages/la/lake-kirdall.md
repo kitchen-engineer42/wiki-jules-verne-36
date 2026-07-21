@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: fictional
 region: Kansas, United States
 description: 'A landlocked Kansas lake where Robur''s submarine Terror is seen darting beneath the water in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Lake Kirdall
 

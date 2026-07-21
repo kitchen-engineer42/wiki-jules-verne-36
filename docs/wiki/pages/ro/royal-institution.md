@@ -8,7 +8,7 @@ description: 'The Edinburgh learned society of which engineer James Starr is a l
 book: The Underground City
 org_type: society
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

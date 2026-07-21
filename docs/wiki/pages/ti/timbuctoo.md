@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: West Africa
 description: 'The fabled desert city on the Niger, the storied "Queen of the Desert" overflown by the balloonists in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

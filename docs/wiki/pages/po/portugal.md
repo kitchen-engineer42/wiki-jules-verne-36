@@ -12,7 +12,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Southern Europe
 description: 'The old colonial kingdom whose empire — reaching Brazil, Angola, and the Azores — shadows Eight Hundred Leagues on the Amazon and other Verne voyages.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

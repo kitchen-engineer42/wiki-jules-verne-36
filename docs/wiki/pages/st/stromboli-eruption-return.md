@@ -8,7 +8,7 @@ description: 'The explorers are hurled back to the surface by a volcanic eruptio
 book: Journey to the Center of the Earth
 location: Stromboli
 pn_anchor: JCE-044
-quality: featured
+quality: standard
 ---
 # The Stromboli Eruption
 

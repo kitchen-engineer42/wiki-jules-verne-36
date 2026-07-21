@@ -11,7 +11,7 @@ book: A Winter Amid the Ice
 real_or_fictional: real
 region: Arctic (Greenland Sea)
 description: 'The Arctic island north of Gaël-Hamkes Bay toward which the search of A Winter Amid the Ice is directed.'
-quality: featured
+quality: standard
 ---
 # Shannon Island
 

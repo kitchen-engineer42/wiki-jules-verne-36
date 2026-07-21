@@ -9,7 +9,7 @@ book: 'Robur the Conqueror'
 affiliation:
 first_appearance: RC-007
 role: supporting
-quality: featured
+quality: standard
 ---
 # Tom Turner
 

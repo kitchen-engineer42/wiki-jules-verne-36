@@ -8,7 +8,7 @@ book: 'Five Weeks in a Balloon'
 real_or_fictional: real
 region: North Africa
 description: 'City and coast of North Africa, the northern gateway to the Sahara in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: fictional
 region: Norway
 description: 'Fishing village on the western coast of Norway near Bergen where the foundling Erik is raised in The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

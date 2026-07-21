@@ -8,8 +8,8 @@ book: 'An Antarctic Mystery'
 real_or_fictional: real
 region: United States
 description: 'New England state, home of Jeorling, the narrator of An Antarctic Mystery.'
+quality: standard
 ---
-
 ## Overview
 
 Connecticut is a New England state of the United States. In the Vernean corpus it is most closely tied to *An Antarctic Mystery*, where it is the home country of the narrator Jeorling, who names it repeatedly as the place he means to return to after his voyage into the southern ice.

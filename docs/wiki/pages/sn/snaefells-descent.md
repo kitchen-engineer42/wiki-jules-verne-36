@@ -8,7 +8,7 @@ description: 'The explorers plunge into the crater of Snæfellsjökull to begin 
 book: Journey to the Center of the Earth
 location: Snæfellsjökull
 pn_anchor: JCE-017
-quality: featured
+quality: standard
 ---
 # The Snæfellsjökull Descent
 

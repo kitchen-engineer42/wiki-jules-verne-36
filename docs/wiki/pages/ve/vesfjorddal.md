@@ -8,7 +8,7 @@ book: Ticket No. 9672
 real_or_fictional: real
 region: Norway (Telemark)
 description: 'Narrow wooded valley of the Telemark along the Maan below the Rjukan falls, the scenic heart of Ticket No. 9672.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

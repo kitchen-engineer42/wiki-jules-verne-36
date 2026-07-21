@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Patagonia
 description: 'A mountain range of the Argentine pampas rising a thousand feet above the sea, a landmark on the trans-Patagonian search in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

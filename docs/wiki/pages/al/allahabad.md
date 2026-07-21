@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India
 description: 'Indian railway town where the Great Indian Peninsula line resumes, forcing Fogg''s elephant journey across the gap from Kholby.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

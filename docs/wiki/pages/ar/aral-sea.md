@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: The shrinking inland sea of Central Asia, drying like the Caspian it was once joined to, crossed in Verne's Trans-Asian rail and airship journeys.
-quality: featured
+quality: standard
 ---
 ## Overview
 

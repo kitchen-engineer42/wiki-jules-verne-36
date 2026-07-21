@@ -8,9 +8,8 @@ description: 'The Philadelphia ballooning club whose lighter-than-air conviction
 book: Robur the Conqueror
 org_type: club
 founded: 'Walnut Street, Philadelphia'
-quality: featured
+quality: standard
 ---
-
 ## Overview
 
 The Weldon Institute is a Philadelphia club devoted to aeronautics, whose members are fervent champions of the balloon against every rival to [[Robur]] and his heavier-than-air [[Albatross]].

@@ -8,7 +8,7 @@ description: 'Condemned as a spy by the Tartar Emir, the Tsar''s courier is sent
 book: Michael Strogoff
 location: Tomsk
 pn_anchor: MS-024
-quality: featured
+quality: standard
 ---
 # The Blinding of Michael Strogoff
 

@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Persia
 description: The Persian capital beneath the snows of the Elburz, a byword for the fabrics of the East and a terminus of the great Asian railways.
-quality: featured
+quality: standard
 ---
 ## Overview
 

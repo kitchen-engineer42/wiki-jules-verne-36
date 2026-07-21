@@ -8,7 +8,7 @@ description: 'Robur''s four-mode machine in Master of the World, able to travel 
 book: Master of the World
 inventor: Robur
 category: vehicle
-quality: featured
+quality: standard
 ---
 # The Terror
 

@@ -12,7 +12,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Iberian Peninsula
 description: 'The Iberian kingdom from whose coast the comet Gallia carries off a band of Spaniards in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

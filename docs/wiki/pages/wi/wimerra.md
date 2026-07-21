@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Australia
 description: 'A river and district of the Province of Victoria, crossed by the expedition in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

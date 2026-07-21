@@ -8,7 +8,7 @@ book: The Pearl of Lima
 real_or_fictional: real
 region: Peru
 description: The great central square of Lima, the forum of the ancient city of kings, fronted by the viceregal palace and swept by the tumult of the Indian revolt.
-quality: featured
+quality: standard
 ---
 ## Overview
 

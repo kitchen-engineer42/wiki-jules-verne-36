@@ -8,7 +8,7 @@ description: 'A cargo of cotton smouldering deep in the hold of the Chancellor b
 book: The Survivors of the Chancellor
 location: The Chancellor
 pn_anchor: SC2-009
-quality: featured
+quality: standard
 ---
 # The Burning of the Chancellor
 

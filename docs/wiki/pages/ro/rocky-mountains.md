@@ -11,7 +11,7 @@ book: Round the Moon
 real_or_fictional: real
 region: United States (North America)
 description: 'The great North American range crowned by the Long''s Peak observatory, from which the Gun Club tracks the lunar projectile across Verne''s moon novels.'
-quality: featured
+quality: standard
 ---
 # Rocky Mountains
 

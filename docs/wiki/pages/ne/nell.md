@@ -9,7 +9,7 @@ book: The Underground City
 affiliation:
 first_appearance: UC-012
 role: supporting
-quality: featured
+quality: standard
 ---
 # Nell
 

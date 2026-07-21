@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic North America
 description: 'The little harbour at Cape Bathurst founded by the Hudson''s Bay expedition in The Fur Country, named for Mrs Paulina Barnett and lost when the cape drifts out to sea.'
-quality: featured
+quality: standard
 ---
 # Port Barnett
 

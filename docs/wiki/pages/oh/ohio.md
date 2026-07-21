@@ -8,7 +8,7 @@ book: 'The Master of the World'
 real_or_fictional: real
 region: United States
 description: 'State of the United States on the southern shore of Lake Erie; the theatre of the pursuit of the Terror in The Master of the World.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: France
 description: The French Channel port facing Dover, a crossing point for Verne's globe-trotters and pioneering aeronauts.
-quality: featured
+quality: standard
 ---
 ## Overview
 

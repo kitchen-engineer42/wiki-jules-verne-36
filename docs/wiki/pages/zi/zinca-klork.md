@@ -9,7 +9,7 @@ book: 'The Adventures of a Special Correspondent'
 affiliation:
 first_appearance: ASC-004
 role: supporting
-quality: featured
+quality: standard
 ---
 # Zinca Klork
 

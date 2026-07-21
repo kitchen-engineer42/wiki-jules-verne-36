@@ -8,7 +8,7 @@ book: 'An Antarctic Mystery'
 real_or_fictional: real
 region: United States
 description: 'Island off Massachusetts, celebrated in An Antarctic Mystery as the birthplace of Arthur Gordon Pym.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Oceania
 description: 'Southern continent crossed on the 37th parallel by Glenarvan''s party in the second phase of the search for Captain Grant.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

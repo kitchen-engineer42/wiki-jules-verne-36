@@ -8,7 +8,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: real
 region: Denmark
 description: The Danish capital and seat of northern learning from which the professor sets out for Iceland and the descent into the earth.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: Off on a Comet
 real_or_fictional: fictional
 region: Comet Gallia
 description: 'The fictional island on the comet Gallia in Off on a Comet, the last inhabited shred of Algeria carried into space and base of the castaways.'
-quality: featured
+quality: standard
 ---
 # Gourbi Island
 

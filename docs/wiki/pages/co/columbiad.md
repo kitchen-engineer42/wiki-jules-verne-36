@@ -8,7 +8,7 @@ description: 'The 900-foot cast-iron cannon built by the Baltimore Gun Club to f
 book: From the Earth to the Moon
 inventor: Impey Barbicane
 category: weapon
-quality: featured
+quality: standard
 ---
 # Columbiad
 

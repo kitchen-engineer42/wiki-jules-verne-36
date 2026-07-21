@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Canadian Arctic coast
 description: 'A bay on the northern Canadian coast surveyed by Jaspar Hobson''s expedition in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Washburn Bay
 

@@ -12,7 +12,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: South Atlantic / Southern Ocean
 description: 'The far-southern isles, discovered by Cook, that the Halbrane takes as her point of departure toward the pole in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 # Sandwich Islands
 

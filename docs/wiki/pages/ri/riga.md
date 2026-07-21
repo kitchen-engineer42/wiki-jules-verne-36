@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Baltic
 description: The Livonian city on the Baltic, home of Nadia Fedor before the long road into Siberian exile toward Irkutsk.
-quality: featured
+quality: standard
 ---
 ## Overview
 

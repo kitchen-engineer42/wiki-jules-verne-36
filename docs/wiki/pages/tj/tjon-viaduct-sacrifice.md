@@ -7,7 +7,7 @@ tags: [event, railway, sacrifice, betrayal, 1890s]
 book: 'The Adventures of a Special Correspondent'
 location: 'The Tjon Viaduct, China'
 pn_anchor: ASC-025
-quality: featured
+quality: standard
 ---
 # The Tjon Viaduct Sacrifice
 

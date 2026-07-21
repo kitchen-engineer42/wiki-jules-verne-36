@@ -9,7 +9,7 @@ book: Michael Strogoff
 affiliation:
 first_appearance: MS-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Harry Blount
 

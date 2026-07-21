@@ -11,7 +11,7 @@ book: The Blockade Runners
 real_or_fictional: real
 region: United States (Charleston Harbor)
 description: 'The Confederate-held island on the north side of Charleston Harbor, whose channel the Dolphin uses to slip the blockade in The Blockade Runners.'
-quality: featured
+quality: standard
 ---
 # Sullivan Island
 

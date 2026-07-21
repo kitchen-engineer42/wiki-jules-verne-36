@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Atlantic (Caribbean)
 description: 'The clear tropical sea whose transparent depths and teeming life the Nautilus explores in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Caribbean Sea
 

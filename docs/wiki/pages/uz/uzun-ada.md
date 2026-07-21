@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: 'The Caspian port on the eastern shore where the Grand Transasiatic railway begins, first Asian foothold of the reporter Bombarnac in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: Southeastern United States
 description: 'The southern peninsula chosen by the Gun Club as the casting and launch site of the Columbiad in From the Earth to the Moon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [event, experiment, oxygen, satire]
 book: Doctor Ox's Experiment
 location: Quiquendone
 pn_anchor: DOSE-015
-quality: featured
+quality: standard
 ---
 # The Oxygen Frenzy of Quiquendone
 

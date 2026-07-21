@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: British Isles
 description: 'The western island of the British Isles that the Nautilus and the Great Eastern pass on their Atlantic courses in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

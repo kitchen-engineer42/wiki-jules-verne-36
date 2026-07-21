@@ -7,7 +7,7 @@ tags: [event, revolt, peru, 1830s]
 book: 'The Pearl of Lima'
 location: 'Lima, Peru'
 pn_anchor: PL-008
-quality: featured
+quality: standard
 ---
 # The Lima Indian Uprising
 

@@ -11,7 +11,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: South Atlantic (Falkland Islands)
 description: 'The real Falklands harbour where the schooner Halbrane provisions and enlists the enigmatic Hunt before sailing for the Antarctic in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 # Port Egmont
 

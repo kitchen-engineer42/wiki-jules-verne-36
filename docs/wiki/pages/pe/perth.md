@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Western Australia
 description: 'The capital of Western Australia and seat of a convict penitentiary from which an escaped band menaces the castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

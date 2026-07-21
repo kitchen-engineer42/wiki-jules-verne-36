@@ -8,8 +8,8 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: South Atlantic Ocean
 description: 'A lonely volcanic island of the South Atlantic, the last inhabited call of the Halbrane before the Antarctic ice in An Antarctic Mystery.'
+quality: standard
 ---
-
 ## Overview
 
 Tristan d'Acunha is a lonely volcanic island of the South Atlantic in *An Antarctic Mystery*, lying to the south of the zone of the regular south-west winds. (AM-007-005) The schooner Halbrane neared this curious island — which may be described as the big boiler of the African seas — and put in there to take a fresh supply of water. (AM-007-001)

@@ -9,7 +9,7 @@ book: Off on a Comet
 affiliation:
 first_appearance: OC-027
 role: supporting
-quality: featured
+quality: standard
 ---
 # Palmyrin Rosette
 

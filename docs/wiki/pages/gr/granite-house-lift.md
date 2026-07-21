@@ -8,7 +8,7 @@ description: 'The water-powered lift built by Cyrus Harding to raise the colonis
 book: The Mysterious Island
 inventor: Cyrus Harding
 category: instrument
-quality: featured
+quality: standard
 ---
 ## Overview
 

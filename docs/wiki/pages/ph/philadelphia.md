@@ -8,7 +8,7 @@ book: Robur the Conqueror
 real_or_fictional: real
 region: United States
 description: 'The Pennsylvania city home to the Weldon Institute of aeronautics, whose members clash with Robur in Robur the Conqueror.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

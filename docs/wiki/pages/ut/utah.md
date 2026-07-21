@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States
 description: 'The Mormon territory of the Great Salt Lake crossed by the transcontinental railroad in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: 'The Adventures of a Special Correspondent'
 affiliation: Russian army
 first_appearance: ASC-004
 role: supporting
-quality: featured
+quality: standard
 ---
 # Major Noltitz
 

@@ -8,7 +8,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States
 description: 'The northern state whose roads host the great automobile race of The Master of the World.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

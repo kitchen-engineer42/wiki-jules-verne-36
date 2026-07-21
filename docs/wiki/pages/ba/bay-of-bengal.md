@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Indian Ocean
 description: 'The great bay of the Indian Ocean crossed by the Nautilus, named among the world''s pearl fisheries.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

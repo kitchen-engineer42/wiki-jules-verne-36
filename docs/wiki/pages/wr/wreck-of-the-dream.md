@@ -7,7 +7,7 @@ tags: [event, shipwreck, voyage, robinsonade]
 book: Godfrey Morgan
 location: Pacific Ocean
 pn_anchor: GM-007
-quality: featured
+quality: standard
 ---
 # The Wreck of the Dream
 

@@ -8,7 +8,7 @@ description: 'President Barbicane proposes to the Gun Club that they fire a shot
 book: From the Earth to the Moon
 location: Gun Club
 pn_anchor: FEM-002
-quality: featured
+quality: standard
 ---
 # Barbicane's Moon Proposal
 

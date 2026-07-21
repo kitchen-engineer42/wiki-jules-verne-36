@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Pacific (Lincoln Island)
 description: 'The small artificial stream cut by the colonists of Lincoln Island to drain Lake Grant, guarding the approach to Prospect Heights.'
-quality: featured
+quality: standard
 ---
 # Creek Glycerine
 

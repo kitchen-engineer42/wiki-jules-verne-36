@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Canadian archipelago)
 description: 'The real Arctic channel between North Devon and Cornwallis Island, one of the routes by which Hatteras seeks the open polar sea.'
-quality: featured
+quality: standard
 ---
 # Wellington Channel
 

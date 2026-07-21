@@ -7,7 +7,7 @@ tags: [event, war, siege, betrayal]
 book: Michael Strogoff
 location: 'Irkutsk, on the Angara, Eastern Siberia'
 pn_anchor: MS-033
-quality: featured
+quality: standard
 ---
 # The Assault on Irkutsk
 

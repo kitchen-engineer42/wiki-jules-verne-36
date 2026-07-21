@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: South Pacific Ocean
 description: 'A Pacific island of reefs where the La Pérouse expedition was lost, visited by the Nautilus.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

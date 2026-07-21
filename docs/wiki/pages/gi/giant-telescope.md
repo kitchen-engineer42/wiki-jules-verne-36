@@ -8,7 +8,7 @@ description: 'The gigantic reflecting telescope erected on Long''s Peak to obser
 book: From the Earth to the Moon
 inventor: ''
 category: instrument
-quality: featured
+quality: standard
 ---
 ## Overview
 

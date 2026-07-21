@@ -9,7 +9,7 @@ book: From the Earth to the Moon
 affiliation: Gun Club
 first_appearance: FEM-001
 role: supporting
-quality: featured
+quality: standard
 ---
 # J. T. Maston
 

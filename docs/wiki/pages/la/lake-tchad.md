@@ -12,7 +12,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Central Africa
 description: 'The great Central African lake that Dr. Ferguson''s balloon expedition crosses in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 # Lake Tchad
 

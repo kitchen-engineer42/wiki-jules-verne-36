@@ -9,7 +9,7 @@ book: Dick Sand, A Captain at Fifteen
 affiliation:
 first_appearance: DSCF-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Dick Sand
 

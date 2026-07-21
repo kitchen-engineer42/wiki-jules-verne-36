@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The great western forest of Lincoln Island covering the Serpentine Peninsula in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

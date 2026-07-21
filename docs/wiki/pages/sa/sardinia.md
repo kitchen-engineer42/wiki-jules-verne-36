@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: The great Mediterranean island south of Corsica, its barren rocks swept away in the comet's passage.
-quality: featured
+quality: standard
 ---
 ## Overview
 

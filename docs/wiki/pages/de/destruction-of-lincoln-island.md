@@ -7,7 +7,7 @@ tags: [event, volcano, disaster, island]
 book: The Secret of the Island
 location: Lincoln Island
 pn_anchor: SI-019
-quality: featured
+quality: standard
 ---
 # Destruction of Lincoln Island
 

@@ -8,7 +8,7 @@ description: 'A stray asteroid deflects the projectile so that it circles the Mo
 book: Round the Moon
 location: ''
 pn_anchor: RM-008
-quality: featured
+quality: standard
 ---
 # Missing the Moon
 

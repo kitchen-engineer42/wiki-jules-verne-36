@@ -11,8 +11,8 @@ book: The Underground City
 real_or_fictional: real
 region: Stirling, Scotland
 description: 'The exhausted Scottish coal-mining district whose old pits open the story of The Underground City.'
+quality: standard
 ---
-
 # Aberfoyle
 
 ## Overview

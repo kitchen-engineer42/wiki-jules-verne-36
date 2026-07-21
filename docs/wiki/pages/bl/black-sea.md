@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Eurasia (inland sea)
 description: 'Great inland sea between Europe and Asia Minor, recurring across Verne''s works as a landing point and a fixed name of geography and trade.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

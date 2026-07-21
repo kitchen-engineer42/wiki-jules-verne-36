@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic North America
 description: 'An Arctic promontory north of the seventieth parallel where Lieutenant Hobson founds Fort Hope in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Cape Bathurst
 

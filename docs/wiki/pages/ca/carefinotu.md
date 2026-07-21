@@ -9,7 +9,7 @@ book: 'Godfrey Morgan'
 affiliation:
 first_appearance: GM-018
 role: supporting
-quality: featured
+quality: standard
 ---
 # Carefinotu
 

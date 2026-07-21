@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Africa
 description: 'The great West African river at whose mouth the castaways of Dick Sand: A Captain at Fifteen come ashore, later proven to be the lower course of the Loualaba.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

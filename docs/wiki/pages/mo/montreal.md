@@ -8,7 +8,7 @@ book: Robur the Conqueror
 real_or_fictional: real
 region: Canada
 description: 'The great Canadian city on the St. Lawrence, overflown by the Albatross and once the headquarters of the fur trade in Verne''s tales.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

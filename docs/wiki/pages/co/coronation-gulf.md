@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic (North American coast)
 description: 'The Arctic estuary of the North American coast that the fur-hunting expedition skirts in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Coronation Gulf
 

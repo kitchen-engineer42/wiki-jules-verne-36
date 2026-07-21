@@ -12,7 +12,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Southern Europe
 description: 'The Mediterranean peninsula swept away by the comet Gallia, whose survival the survivors hope for in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

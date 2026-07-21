@@ -12,6 +12,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (Great Lakes)
 description: 'The great cataract on the Niagara River where the pursuit of the Terror reaches its crisis in The Master of the World.'
+quality: standard
 ---
 # Niagara Falls
 

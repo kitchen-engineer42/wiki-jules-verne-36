@@ -7,7 +7,7 @@ tags: [event, shipwreck, rescue, 1880s]
 book: 'Ticket No. 9672'
 location: 'Christiania, Norway'
 pn_anchor: TN-020
-quality: featured
+quality: standard
 ---
 # The Return of Ole Kamp
 

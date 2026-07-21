@@ -8,7 +8,7 @@ description: 'The small British submersible torpedo-boat sent into Back Cup lago
 book: Facing the Flag
 inventor: British Royal Navy
 category: vehicle
-quality: featured
+quality: standard
 ---
 # the Sword
 

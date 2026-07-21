@@ -11,7 +11,7 @@ book: The Underground City
 real_or_fictional: fictional
 region: Stirling, Scotland
 description: 'The vast subterranean coalfield beneath old Aberfoyle, containing the underground settlement of Coal Town on Loch Malcolm.'
-quality: featured
+quality: standard
 ---
 # New Aberfoyle
 

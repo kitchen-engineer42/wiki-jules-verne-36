@@ -8,8 +8,8 @@ book: 'The Mysterious Island'
 real_or_fictional: real
 region: United States
 description: 'New England state; home of Cyrus Smith, and site of the Cambridge observatory in Verne''s astronomical novels.'
+quality: standard
 ---
-
 ## Overview
 
 Massachusetts is a New England state of the United States. In the Vernean corpus it is the home state of Cyrus Smith and his companion Neb in *The Mysterious Island*, and the seat of the Cambridge observatory to which Verne's astronomers turn in the lunar novels.

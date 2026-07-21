@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: China
 description: 'An important city of western China on the Grand Transasiatic line, a halt in The Adventures of a Special Correspondent where the imperial treasure van is telegraphed to Pekin.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

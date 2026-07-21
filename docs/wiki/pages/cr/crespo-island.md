@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: fictional
 region: North Pacific Ocean
 description: 'A Pacific islet whose submerged forests serve as Captain Nemo''s undersea hunting ground in Twenty Thousand Leagues Under the Seas.'
-quality: featured
+quality: standard
 ---
 # Crespo Island
 

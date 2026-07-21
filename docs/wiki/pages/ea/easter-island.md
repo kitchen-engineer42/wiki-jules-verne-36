@@ -13,8 +13,8 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Pacific Ocean
 description: 'The isolated Pacific island whose sighting lets young Dick Sand fix the Pilgrim''s position during the storm in Dick Sand: A Captain at Fifteen.'
+quality: standard
 ---
-
 # Easter Island
 
 ## Overview

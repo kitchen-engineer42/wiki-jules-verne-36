@@ -9,7 +9,7 @@ book: Journey to the Center of the Earth
 affiliation:
 first_appearance: JCE-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Professor Lidenbrock
 

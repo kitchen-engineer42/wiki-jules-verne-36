@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: China
 description: 'A station city of northern China on the Grand Transasiatic line, the depot from which a relief engine is summoned in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

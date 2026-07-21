@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Central Africa
 description: 'An important establishment in the interior of Central Africa, a rendezvous for traders and caravans reached by Dr. Ferguson''s balloon in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

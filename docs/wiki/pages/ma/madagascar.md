@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Indian Ocean
 description: 'The great Indian Ocean island that stands as a terminus of the slave-trade in Dick Sand: A Captain at Fifteen, supplied from the Mozambique coast.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

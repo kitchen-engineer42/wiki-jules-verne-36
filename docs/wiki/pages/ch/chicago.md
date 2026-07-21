@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States
 description: 'The great American railway city on Lake Michigan, a key waypoint on Phileas Fogg''s homeward journey in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

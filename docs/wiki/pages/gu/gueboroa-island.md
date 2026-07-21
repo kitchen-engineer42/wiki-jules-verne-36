@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Torres Strait (Papua)
 description: 'The Papuan island in the Torres Strait on which the Nautilus runs aground, and where Ned Land forages ashore, in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Gueboroa Island
 

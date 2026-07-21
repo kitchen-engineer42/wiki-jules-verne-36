@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: The mountainous Mediterranean island of granite and sea-caves, a familiar measure of size and place in Verne's seas.
-quality: featured
+quality: standard
 ---
 ## Overview
 

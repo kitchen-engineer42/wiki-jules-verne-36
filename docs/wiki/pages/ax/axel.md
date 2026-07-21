@@ -9,7 +9,7 @@ book: Journey to the Center of the Earth
 affiliation:
 first_appearance: JCE-001
 role: narrator
-quality: featured
+quality: standard
 ---
 # Axel
 

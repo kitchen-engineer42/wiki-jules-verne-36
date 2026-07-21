@@ -8,7 +8,7 @@ book: 'Off on a Comet'
 real_or_fictional: real
 region: North Africa
 description: 'Fortified point on the Moroccan coast opposite Gibraltar, carried off by the comet Gallia in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

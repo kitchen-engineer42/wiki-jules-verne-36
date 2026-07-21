@@ -13,7 +13,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (between Greenland and Baffin Island)
 description: 'The ice-filled Arctic sea between Greenland and Baffin Island, the first great barrier crossed by the Forward in The Adventures of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 # Baffin Bay
 

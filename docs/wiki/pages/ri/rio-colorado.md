@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Argentina
 description: 'A Patagonian river crossing the thirty-seventh parallel, sister to the Rio Negro, searched by the expedition in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

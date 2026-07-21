@@ -8,7 +8,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: North America
 description: 'The bleak sub-Arctic coast of northeastern Canada, a waymark of the northern voyages and namesake of tundra plant and stone.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

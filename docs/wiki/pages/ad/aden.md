@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Yemen
 description: 'Red Sea coaling port at the far end of the run from Suez where the Mongolia puts in on Phileas Fogg''s way to Bombay.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

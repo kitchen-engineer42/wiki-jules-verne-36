@@ -7,6 +7,7 @@ tags: [event, shipwreck, betrayal, sabotage]
 book: 'Dick Sand: A Captain at Fifteen'
 location: 'The coast of Angola, mistaken for South America'
 pn_anchor: DSCF-013
+quality: standard
 ---
 # The Wreck of the Pilgrim
 

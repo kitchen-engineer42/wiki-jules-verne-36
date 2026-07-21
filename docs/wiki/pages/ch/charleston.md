@@ -8,7 +8,7 @@ book: The Blockade Runners
 real_or_fictional: real
 region: South Carolina
 description: 'The South Carolina port besieged and blockaded in the Civil War, the destination of the daring blockade runners.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

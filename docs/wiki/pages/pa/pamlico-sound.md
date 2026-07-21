@@ -11,7 +11,7 @@ book: Facing the Flag
 real_or_fictional: real
 region: North America (North Carolina)
 description: 'The real North Carolina sound where the schooner Ebba lies anchored in Facing the Flag, and across which the kidnappers spirit their captive away.'
-quality: featured
+quality: standard
 ---
 # Pamlico Sound
 

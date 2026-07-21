@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Brazil (Amazon)
 description: 'Amazonian town on a lakeside off the great river where the jangada halts in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

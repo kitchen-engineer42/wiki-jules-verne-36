@@ -12,7 +12,7 @@ tags:
   - amazon
 region: Amazonas (Brazil)
 description: 'The Brazilian city at the mouth of the Rio Negro, a chief landmark on the Garrals'' raft voyage down the Amazon in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 # Manaos
 

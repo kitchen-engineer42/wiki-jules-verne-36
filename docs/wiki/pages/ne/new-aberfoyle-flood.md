@@ -7,7 +7,7 @@ tags: [event, mining, flood, sabotage]
 book: The Underground City
 location: New Aberfoyle
 pn_anchor: UC-016
-quality: featured
+quality: standard
 ---
 # The Flooding of New Aberfoyle
 

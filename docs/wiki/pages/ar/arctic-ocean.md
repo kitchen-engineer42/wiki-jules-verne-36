@@ -8,7 +8,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic
 description: 'The northern polar ocean whose ice-bound shores frame the expedition of The Fur Country and the voyages of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

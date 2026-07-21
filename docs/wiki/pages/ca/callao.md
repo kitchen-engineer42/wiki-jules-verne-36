@@ -8,7 +8,7 @@ book: The Pearl of Lima
 real_or_fictional: real
 region: South America
 description: 'The Pacific seaport of Lima in Peru, a setting in The Pearl of Lima and the last recorded port of the Britannia in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [event, ballooning, disaster, madness]
 book: A Drama in the Air
 location: Holland
 pn_anchor: DA-001
-quality: featured
+quality: standard
 ---
 # The Madman in the Balloon
 

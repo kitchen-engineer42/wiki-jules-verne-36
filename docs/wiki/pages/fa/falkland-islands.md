@@ -13,7 +13,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: South Atlantic (near Antarctica)
 description: 'The South-Atlantic archipelago that serves as the Halbrane''s last civilized port before her Antarctic voyage in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 # Falkland Islands
 

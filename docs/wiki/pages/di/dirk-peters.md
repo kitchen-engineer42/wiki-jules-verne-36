@@ -9,7 +9,7 @@ book: An Antarctic Mystery
 affiliation:
 first_appearance: AM-004
 role: supporting
-quality: featured
+quality: standard
 ---
 # Dirk Peters
 

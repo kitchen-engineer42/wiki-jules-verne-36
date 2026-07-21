@@ -7,7 +7,7 @@ tags: [event, arctic, rescue, voyage, 1860s]
 book: 'A Winter Amid the Ice'
 location: 'The Polar Sea and Dunkirk, France'
 pn_anchor: WAI-016
-quality: featured
+quality: standard
 ---
 # The Return of the Jeune-Hardie
 

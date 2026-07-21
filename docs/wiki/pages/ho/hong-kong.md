@@ -8,7 +8,7 @@ description: 'The British colonial port and pivotal waypoint on Phileas Fogg''s 
 book: Around the World in Eighty Days
 real_or_fictional: real
 region: China coast
-quality: featured
+quality: standard
 ---
 ## Overview
 

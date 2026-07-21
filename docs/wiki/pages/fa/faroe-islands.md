@@ -12,7 +12,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: North Atlantic (between Norway and Iceland)
 description: 'The North-Atlantic archipelago off Norway where the Cynthia was wrecked, the disaster that opens The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 # Faroe Islands
 

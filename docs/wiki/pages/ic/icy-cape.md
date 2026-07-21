@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: United States (Alaska)
 description: 'The Alaskan promontory near which the drifting Victoria Island passes, home to the Esquimaux who aid the castaways in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Icy Cape
 

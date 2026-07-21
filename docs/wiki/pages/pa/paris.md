@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: France
 description: The French capital, first Continental stage of Fogg's circuit and a recurring metropolis in Verne's tales.
-quality: featured
+quality: standard
 ---
 ## Overview
 

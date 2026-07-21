@@ -12,7 +12,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Indian Ocean
 description: 'The real Indian Ocean island, a solitary cone on the 37th parallel, weighed and rejected as a refuge by the searchers in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Amsterdam Island
 

@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Canadian Arctic Archipelago
 description: 'The Arctic island where Parry wintered in 1819, a recurring landmark of exploration history in The Adventures of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 # Melville Island
 

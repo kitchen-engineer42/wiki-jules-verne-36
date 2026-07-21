@@ -12,7 +12,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: South America (Brazil)
 description: 'The great South American empire whose provinces the Amazon waters, home of the Garral family in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

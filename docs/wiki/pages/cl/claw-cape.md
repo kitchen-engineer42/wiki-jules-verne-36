@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The fictional yataghan-shaped headland at the southeastern extremity of Lincoln Island in The Mysterious Island, named by Neb during the settlers'' survey.'
-quality: featured
+quality: standard
 ---
 # Claw Cape
 

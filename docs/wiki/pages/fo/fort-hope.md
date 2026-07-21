@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic North America
 description: 'The fictional Hudson''s Bay Company fort at Cape Bathurst in The Fur Country, home of Hobson''s expedition and carried off when the peninsula drifts to sea.'
-quality: featured
+quality: standard
 ---
 # Fort Hope
 

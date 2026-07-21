@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Brazil
 description: 'The Brazilian mining town whose assizes condemned Joam Dacosta for the diamond convoy robbery, and from whose prison he escaped in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

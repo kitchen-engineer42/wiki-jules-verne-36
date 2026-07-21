@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: The great Mediterranean island crowned by Etna, marking an ancient land-bridge beneath the sea, torn from the map in Off on a Comet.
-quality: featured
+quality: standard
 ---
 ## Overview
 

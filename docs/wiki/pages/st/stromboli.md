@@ -8,7 +8,7 @@ description: 'The Italian volcano through whose crater the explorers are expelle
 book: Journey to the Center of the Earth
 real_or_fictional: real
 region: Aeolian Islands, Italy
-quality: featured
+quality: standard
 ---
 ## Overview
 

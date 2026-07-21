@@ -8,7 +8,7 @@ book: The Underground City
 real_or_fictional: fictional
 region: Scotland
 description: 'The subterranean mining village lit by electricity beneath Loch Katrine, home of the New Aberfoyle miners in The Underground City.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

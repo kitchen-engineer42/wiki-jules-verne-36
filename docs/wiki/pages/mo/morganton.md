@@ -8,7 +8,7 @@ book: The Master of the World
 real_or_fictional: real
 region: United States (North Carolina)
 description: 'North Carolina town at the foot of the Great Eyrie, base of the narrator''s investigation in The Master of the World.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

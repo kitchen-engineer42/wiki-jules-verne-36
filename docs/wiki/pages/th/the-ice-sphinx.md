@@ -7,7 +7,7 @@ tags: [event, antarctic, magnetism, shipwreck, 1840s]
 book: 'An Antarctic Mystery'
 location: 'The Land of the Sphinx, Antarctica'
 pn_anchor: AM-025
-quality: featured
+quality: standard
 ---
 # The Ice Sphinx
 

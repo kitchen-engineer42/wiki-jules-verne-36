@@ -8,7 +8,7 @@ description: 'Dr. Ferguson''s balloon Victoria descends over an African village 
 book: Five Weeks in a Balloon
 location: Africa
 pn_anchor: FWB-022
-quality: featured
+quality: standard
 ---
 # The Missionary's Rescue
 

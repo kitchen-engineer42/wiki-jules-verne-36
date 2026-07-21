@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Singapore
 description: 'Coaling port on the Rangoon''s route where Fix wires ahead to Hong Kong on the trail of Phileas Fogg.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

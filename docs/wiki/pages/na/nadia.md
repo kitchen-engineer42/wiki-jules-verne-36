@@ -9,7 +9,7 @@ book: Michael Strogoff
 affiliation:
 first_appearance: MS-008
 role: supporting
-quality: featured
+quality: standard
 ---
 # Nadia
 

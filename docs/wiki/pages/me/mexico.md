@@ -12,7 +12,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: North America
 description: 'The republic south of the United States whose parallel and gulf figure in the Gun Club schemes of From the Earth to the Moon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

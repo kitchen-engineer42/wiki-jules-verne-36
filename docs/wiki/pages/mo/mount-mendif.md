@@ -11,7 +11,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Africa (Kingdom of Adamova)
 description: 'The twin-coned African peak near Yola that the Victoria passes on its balloon crossing in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 # Mount Mendif
 

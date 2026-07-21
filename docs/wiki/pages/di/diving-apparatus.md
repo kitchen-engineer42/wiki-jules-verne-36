@@ -8,7 +8,7 @@ description: 'The self-contained diving suit and air tank used by Captain Nemo''
 book: Twenty Thousand Leagues Under the Sea
 inventor: Rouquayrol and Denayrouze
 category: instrument
-quality: featured
+quality: standard
 ---
 # Rouquayrol Diving Apparatus
 

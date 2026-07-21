@@ -8,7 +8,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Central America
 description: 'The narrow land bridge joining the Americas and the ocean shortcut between Atlantic and Pacific in Verne''s tales.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

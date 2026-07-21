@@ -12,7 +12,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: real
 region: Central Europe
 description: 'The Central European homeland of Professor Lidenbrock in A Journey to the Center of the Earth, and a recurring byword for learning and skilled craft across Verne''s works.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

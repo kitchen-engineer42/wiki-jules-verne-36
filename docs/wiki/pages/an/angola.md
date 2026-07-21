@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: West-Central Africa
 description: 'Portuguese colony on Africa''s western coast, crossed by slave caravans, where Dick Sand''s party is wrecked in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

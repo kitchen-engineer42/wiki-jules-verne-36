@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Chile (Tierra del Fuego)
 description: 'The rock at the southern tip of South America, doubled by ships rounding between the Atlantic and Pacific in several of the Voyages.'
-quality: featured
+quality: standard
 ---
 # Cape Horn
 

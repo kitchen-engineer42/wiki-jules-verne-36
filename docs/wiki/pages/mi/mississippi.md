@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: North America
 description: The great river of North America, the "king of rivers" crossed by Verne's travellers on their transcontinental journeys.
-quality: featured
+quality: standard
 ---
 ## Overview
 

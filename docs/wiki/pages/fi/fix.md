@@ -9,7 +9,7 @@ book: Around the World in Eighty Days
 affiliation: Scotland Yard
 first_appearance: AWED-006
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Detective Fix
 

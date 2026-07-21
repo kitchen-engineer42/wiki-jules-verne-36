@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: Africa–Arabia
 description: 'The real sea between Africa and Arabia crossed by the Nautilus in Twenty Thousand Leagues Under the Seas, entered through Bab el Mandeb.'
-quality: featured
+quality: standard
 ---
 # Red Sea
 

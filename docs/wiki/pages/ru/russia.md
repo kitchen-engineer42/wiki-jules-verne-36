@@ -12,7 +12,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russian Empire
 description: 'The vast empire whose Siberian provinces the Czar''s courier crosses to reach besieged Irkutsk in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

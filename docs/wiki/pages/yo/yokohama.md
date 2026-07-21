@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Japan
 description: 'The principal Japanese port where Phileas Fogg lands and re-embarks on his circuit of the globe in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

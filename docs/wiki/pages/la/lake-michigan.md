@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: North America (Great Lakes)
 description: 'The Great Lake at whose shore the road-race track ends in The Master of the World, where the mysterious machine seems bound for destruction.'
-quality: featured
+quality: standard
 ---
 # Lake Michigan
 

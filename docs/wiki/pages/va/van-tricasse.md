@@ -9,7 +9,7 @@ book: 'Doctor Ox''s Experiment'
 affiliation:
 first_appearance: DOSE-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Van Tricasse
 

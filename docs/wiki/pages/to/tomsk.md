@@ -11,7 +11,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia (Russia)
 description: 'The large Western Siberian city on the telegraph line whose fall marks the Tartar advance in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 # Tomsk
 

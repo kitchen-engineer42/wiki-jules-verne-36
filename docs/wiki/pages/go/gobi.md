@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: 'Great sandy desert of Central Asia crossed by the Grand Transasiatic railway in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Strait of Gibraltar
 description: 'Rock at the mouth of the Mediterranean, a surviving fragment carried off by the comet Gallia.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

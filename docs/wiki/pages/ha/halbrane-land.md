@@ -11,7 +11,7 @@ book: An Antarctic Mystery
 real_or_fictional: fictional
 region: Antarctic
 description: 'The fictional Antarctic land named by the shipwrecked crew of An Antarctic Mystery for their lost schooner, the Halbrane.'
-quality: featured
+quality: standard
 ---
 # Halbrane Land
 

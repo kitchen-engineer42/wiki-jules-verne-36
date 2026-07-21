@@ -8,7 +8,7 @@ description: 'While Captain Hatteras is away from the icebound brig, his second-
 book: The Adventures of Captain Hatteras
 location: The Forward
 pn_anchor: ACH-034
-quality: featured
+quality: standard
 ---
 # The Forward Mutiny
 

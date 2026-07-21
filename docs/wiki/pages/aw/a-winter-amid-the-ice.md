@@ -8,7 +8,7 @@ description: 'A Jules Verne novella in which an old Dunkirk sailor voyages into 
 vvv: WAI
 chapter_count: 16
 genre: novella
-quality: featured
+quality: standard
 ---
 ## Overview
 

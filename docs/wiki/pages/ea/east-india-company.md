@@ -8,7 +8,7 @@ description: 'The once all-powerful trading company that ruled British India bef
 book: Around the World in Eighty Days
 org_type: company
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

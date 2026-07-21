@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Canadian archipelago)
 description: 'The real Arctic strait beyond Lancaster Strait, the well-trodden approach to Beechey Island that the Forward follows and later flees back through.'
-quality: featured
+quality: standard
 ---
 # Barrow Strait
 

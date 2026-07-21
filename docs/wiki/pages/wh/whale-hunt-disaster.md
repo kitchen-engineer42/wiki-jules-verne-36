@@ -8,7 +8,7 @@ description: 'Captain Hull and the whole crew of the Pilgrim perish in a single 
 book: 'Dick Sand: A Captain at Fifteen'
 location: The Pilgrim
 pn_anchor: DSCF-008
-quality: featured
+quality: standard
 ---
 # The Whale Hunt Disaster
 

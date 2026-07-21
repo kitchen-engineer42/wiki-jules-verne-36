@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Australia (South Australia)
 description: 'The cape on the South Australian coast where the 37th parallel meets the continent, the starting point of the Duncan party''s overland crossing in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Cape Bernouilli
 

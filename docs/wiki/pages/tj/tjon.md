@@ -14,7 +14,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: fictional
 region: China (Nanking branch)
 description: 'Deep Chinese valley spanned by an unfinished viaduct on the Grand Transasiatic, setting of the climax of The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

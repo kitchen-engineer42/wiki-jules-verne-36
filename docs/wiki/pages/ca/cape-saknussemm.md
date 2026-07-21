@@ -11,7 +11,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: fictional
 region: The Central Sea (subterranean)
 description: 'The cape on the shore of the subterranean Lidenbrock Sea, named for Arne Saknussemm, from which the explorers are swept north in A Journey to the Center of the Earth.'
-quality: featured
+quality: standard
 ---
 # Cape Saknussemm
 

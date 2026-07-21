@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Oceania (New Zealand)
 description: 'The real New Zealand lake in whose mountain-ringed heights the Maori hold Glenarvan''s party captive in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Lake Taupo
 

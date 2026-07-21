@@ -11,7 +11,7 @@ book: An Antarctic Mystery
 real_or_fictional: fictional
 region: Antarctic
 description: 'The fictional Antarctic island at the heart of An Antarctic Mystery, taken from Poe''s Arthur Gordon Pym and the goal of the schooner Halbrane''s voyage.'
-quality: featured
+quality: standard
 ---
 # Tsalal Island
 

@@ -12,7 +12,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: 'The high frontier land of table-lands and glacier-fed torrents skirted by the Grand Transasiatic Railway in The Adventures of a Special Correspondent and overflown by Robur''s Albatross.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

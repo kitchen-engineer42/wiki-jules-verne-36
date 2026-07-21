@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: The fortified Mediterranean island of the knights and their great cannon, swallowed whole when a fragment of earth breaks away in Off on a Comet.
-quality: featured
+quality: standard
 ---
 ## Overview
 

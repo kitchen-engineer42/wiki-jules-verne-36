@@ -8,7 +8,7 @@ description: 'The chartered British fur-trading company whose expedition to foun
 book: The Fur Country
 org_type: company
 founded: 'Chartered 2 May 1670'
-quality: featured
+quality: standard
 ---
 # Hudson's Bay Company
 

@@ -8,7 +8,7 @@ book: Journey to the Center of the Earth
 real_or_fictional: real
 region: Snæfell Peninsula, Iceland
 description: 'An Icelandic village at the foot of Snæfell, the last staging point before the descent into the volcano.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

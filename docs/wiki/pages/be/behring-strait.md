@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic (Asia–America passage)
 description: 'The real strait between Asia and America toward which the drifting ice-island is carried in The Fur Country, the colony''s dreaded destination and hoped-for lifeline.'
-quality: featured
+quality: standard
 ---
 # Behring Strait
 

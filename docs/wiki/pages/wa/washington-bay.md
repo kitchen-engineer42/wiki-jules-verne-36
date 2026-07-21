@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Pacific (Lincoln Island)
 description: 'The fictional bay on the southern shore of Lincoln Island, named by the colonists and bounded by Claw Cape and Reptile End.'
-quality: featured
+quality: standard
 ---
 # Washington Bay
 

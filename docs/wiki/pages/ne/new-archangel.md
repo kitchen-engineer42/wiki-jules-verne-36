@@ -8,7 +8,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Russian America
 description: The capital of Russian America, rising on the island of Sitka as head-quarters of the Russian Fur Company.
-quality: featured
+quality: standard
 ---
 ## Overview
 

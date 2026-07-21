@@ -8,7 +8,7 @@ description: 'While crossing the Cordillera of the Andes, Lord Glenarvan''s sear
 book: In Search of the Castaways
 location: Andes
 pn_anchor: SC-013
-quality: featured
+quality: standard
 ---
 # The Andes Earthquake
 

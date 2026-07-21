@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Antarctic
 description: 'The southernmost point of the earth, reached and claimed by Captain Nemo in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

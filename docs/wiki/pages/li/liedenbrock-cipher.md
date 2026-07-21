@@ -8,7 +8,7 @@ description: 'Axel accidentally deciphers the runic parchment that reveals the w
 book: Journey to the Center of the Earth
 location: Hamburg
 pn_anchor: JCE-002
-quality: featured
+quality: standard
 ---
 # Deciphering the Saknussemm Cipher
 

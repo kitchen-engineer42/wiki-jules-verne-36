@@ -8,7 +8,7 @@ description: 'A Jules Verne satirical novella in which a scientist secretly floo
 vvv: DOSE
 chapter_count: 17
 genre: novella
-quality: featured
+quality: standard
 ---
 ## Overview
 

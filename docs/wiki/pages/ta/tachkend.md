@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: 'A great city of Russian Turkestan on the Grand Transasiatic railway, a two-and-a-half-hour halt on the reporter''s journey in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'Captain Nemo dies aboard the Nautilus in the grotto beneath Lincol
 book: The Mysterious Island
 location: Nautilus
 pn_anchor: MI-059
-quality: featured
+quality: standard
 ---
 # The Death of Captain Nemo
 

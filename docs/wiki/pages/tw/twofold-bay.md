@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: New South Wales, Australia
 description: 'The Australian bay on the 37th parallel that is the goal of the overland search in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Twofold Bay
 

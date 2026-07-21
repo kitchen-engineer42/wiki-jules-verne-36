@@ -8,7 +8,7 @@ description: 'The official commission under President John Prestice that interro
 book: Topsy-Turvy
 org_type: committee
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

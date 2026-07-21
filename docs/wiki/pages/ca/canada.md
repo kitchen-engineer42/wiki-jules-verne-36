@@ -12,7 +12,7 @@ book: The Fur Country
 real_or_fictional: real
 region: North America
 description: 'The northern fur-trade dominion, once French then British, that forms the base of the Hudson Bay expedition in The Fur Country.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

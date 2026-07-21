@@ -8,7 +8,7 @@ book: Master of the World
 real_or_fictional: real
 region: United States
 description: 'The North Carolina village below the Great Eyrie, reached from Morganton along the Catawba River, whose folk were menaced by the mountain in Master of the World.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

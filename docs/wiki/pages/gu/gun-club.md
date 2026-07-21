@@ -8,7 +8,7 @@ description: 'The Baltimore artillery club that undertakes to fire a projectile 
 book: From the Earth to the Moon
 org_type: club
 founded: 'Baltimore, during the American Civil War'
-quality: featured
+quality: standard
 ---
 ## Overview
 

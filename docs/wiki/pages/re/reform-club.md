@@ -8,7 +8,7 @@ description: 'The Pall Mall gentlemen''s club where Phileas Fogg makes and settl
 book: Around the World in Eighty Days
 real_or_fictional: real
 region: London, England
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Amazon Basin
 description: 'The greatest black-water tributary of the Amazon, joining the main river at Manaos in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: 'The inland sea whose Algerian shore is torn away by the comet in Off on a Comet, and which the Nautilus also transits in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

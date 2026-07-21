@@ -8,7 +8,7 @@ description: 'The frigate Abraham Lincoln sets out to hunt the mysterious sea mo
 book: Twenty Thousand Leagues Under the Seas
 location: Abraham Lincoln
 pn_anchor: TTLU-002
-quality: featured
+quality: standard
 ---
 # The Sea Monster Hunt
 

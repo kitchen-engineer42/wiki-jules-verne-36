@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States
 description: 'The prairie state of the American plains and eastern terminus of the Pacific Railroad in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

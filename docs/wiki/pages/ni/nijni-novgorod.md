@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Volga)
 description: 'Russian fair-city on the Volga where Michael Strogoff begins his eastward journey across Siberia.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

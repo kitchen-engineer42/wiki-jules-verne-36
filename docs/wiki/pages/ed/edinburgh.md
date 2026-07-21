@@ -8,7 +8,7 @@ book: The Underground City
 real_or_fictional: real
 region: Scotland
 description: The Scottish capital, Auld Reekie of the Firth of Forth, a seat of learned societies and home to Verne's Scottish engineers and sportsmen.
-quality: featured
+quality: standard
 ---
 ## Overview
 

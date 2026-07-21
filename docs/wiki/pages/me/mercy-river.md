@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The chief river of Lincoln Island, named by the castaways in gratitude to Providence.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

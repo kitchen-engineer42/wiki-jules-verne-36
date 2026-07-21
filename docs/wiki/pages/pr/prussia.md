@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Central Europe
 description: The North German kingdom and great power, a workshop of industry and a party to the wars and treaties of Verne's Europe.
-quality: featured
+quality: standard
 ---
 ## Overview
 

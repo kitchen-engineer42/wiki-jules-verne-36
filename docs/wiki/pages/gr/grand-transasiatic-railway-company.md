@@ -8,7 +8,7 @@ description: 'The newly opened railway company running the through line from the
 book: The Adventures of a Special Correspondent
 org_type: company
 founded: 'Line opened six weeks before the story (Uzun Ada to Peking)'
-quality: featured
+quality: standard
 ---
 # Grand Transasiatic Railway Company
 

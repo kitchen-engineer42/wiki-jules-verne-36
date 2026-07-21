@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Siberia
 description: One of the great rivers of eastern Siberia, running north to an Arctic mouth that guided Nordenskiold's Vega and the Tartar march in Verne.
-quality: featured
+quality: standard
 ---
 ## Overview
 

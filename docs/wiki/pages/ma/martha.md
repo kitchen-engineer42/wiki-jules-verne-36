@@ -9,6 +9,7 @@ book: 'A Journey to the Center of the Earth'
 affiliation:
 first_appearance: JCE-001
 role: supporting
+quality: featured
 ---
 # Martha
 

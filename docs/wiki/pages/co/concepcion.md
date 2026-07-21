@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Chile
 description: 'An old city of Chile near the Pacific coast, the landfall from which the 37th-parallel search begins in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Canada
 description: 'The old French-founded Canadian city on the St. Lawrence, hometown of the harpooner Ned Land.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

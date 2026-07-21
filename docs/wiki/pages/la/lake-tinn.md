@@ -12,7 +12,7 @@ book: 'Ticket No. 9672'
 real_or_fictional: real
 region: Norway (Telemark)
 description: 'The long Norwegian lake of the Telemark whose shores frame the journeys and misfortunes of Ticket No. 9672.'
-quality: featured
+quality: standard
 ---
 # Lake Tinn
 

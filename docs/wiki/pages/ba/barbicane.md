@@ -9,7 +9,7 @@ book: From the Earth to the Moon
 affiliation: Gun Club
 first_appearance: FEM-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Impey Barbicane
 

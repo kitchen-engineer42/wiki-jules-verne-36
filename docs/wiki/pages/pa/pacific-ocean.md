@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Pacific Ocean
 description: 'The vast ocean whose islands close the search of In Search of the Castaways, where the castaways are finally sought and found.'
-quality: featured
+quality: standard
 ---
 # Pacific Ocean
 

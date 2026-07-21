@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: England
 description: The great river of London, crowded with barges and steamboats, down which the Resolute sailed toward the sea in Verne.
-quality: featured
+quality: standard
 ---
 ## Overview
 

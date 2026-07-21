@@ -8,8 +8,8 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic
 description: The great Arctic sea on the west of Greenland, a haunt of whalers and the mouth of the long suite of straits leading toward the North-West Passage.
+quality: standard
 ---
-
 ## Overview
 
 Baffin's Bay is a great Arctic sea lying to the west of Greenland, reached by the straits that thread the high latitudes. In seasons when the ice broke up it lay almost free and became the haunt of numerous whalers. (ACH-010-030) When the Forward pressed north beyond the seventy-second parallel the straits were not yet sufficiently open to allow her to penetrate into the bay. (ACH-009-073)

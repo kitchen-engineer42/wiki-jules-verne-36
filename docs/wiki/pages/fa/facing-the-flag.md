@@ -8,7 +8,7 @@ description: 'A Jules Verne novel in which pirates abduct the inventor of a supe
 vvv: FF
 chapter_count: 18
 genre: novel
-quality: featured
+quality: standard
 ---
 ## Overview
 

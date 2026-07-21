@@ -12,7 +12,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: 'The Central Asian province of Asiatic Russia that the Grand Transasiatic Railway traverses in The Adventures of a Special Correspondent, the chief commercial route between Europe and the Celestial Empire.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

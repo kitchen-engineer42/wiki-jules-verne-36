@@ -12,7 +12,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (between Greenland and Baffin Island)
 description: 'The strait between Greenland and Baffin Island through which the Forward passes to reach Baffin Bay in The Adventures of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 # Davis Strait
 

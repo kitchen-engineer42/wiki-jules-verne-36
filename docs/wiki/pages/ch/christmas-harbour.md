@@ -11,7 +11,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: Kerguelen Islands
 description: 'The real Kerguelen harbour where An Antarctic Mystery opens, home of the Green Cormorant inn and the mooring of the schooner Halbrane.'
-quality: featured
+quality: standard
 ---
 # Christmas Harbour
 

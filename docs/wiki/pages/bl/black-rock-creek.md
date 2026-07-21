@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: fictional
 region: North America (Lake Erie shore)
 description: 'The wild creek on the shore of Lake Erie that serves as a hiding place for Robur''s machine the Terror in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Black Rock Creek
 

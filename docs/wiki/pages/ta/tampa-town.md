@@ -8,7 +8,7 @@ description: 'The South Florida town chosen by the Gun Club as the launch site f
 book: From the Earth to the Moon
 real_or_fictional: real
 region: Florida, United States
-quality: featured
+quality: standard
 ---
 ## Overview
 

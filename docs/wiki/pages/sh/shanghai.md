@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: China
 description: 'Chinese port from which the American mail steamer departs, forcing Phileas Fogg''s desperate dash up the coast to catch it.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

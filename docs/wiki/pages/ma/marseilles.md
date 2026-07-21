@@ -8,7 +8,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: real
 region: France
 description: The great French Mediterranean port, a landfall for Verne's returning voyagers and a byword for the Provençal coast.
-quality: featured
+quality: standard
 ---
 ## Overview
 

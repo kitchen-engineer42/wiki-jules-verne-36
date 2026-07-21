@@ -12,7 +12,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Asia (Transcaucasia / Central Asia)
 description: 'The great inland sea of Central Asia whose eastern port of Uzun Ada begins the trans-Asian railway journey in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 # Caspian Sea
 

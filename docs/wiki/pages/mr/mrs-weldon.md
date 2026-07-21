@@ -9,7 +9,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 affiliation:
 first_appearance: DSCF-001
 role: supporting
-quality: featured
+quality: standard
 ---
 # Mrs. Weldon
 

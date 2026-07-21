@@ -7,7 +7,7 @@ tags: [event, ballooning, pursuit, exploration]
 book: 'Five Weeks in a Balloon'
 location: 'The Senegal River, near the Cataracts of Gouina, West Africa'
 pn_anchor: FWB-043
-quality: featured
+quality: standard
 ---
 # The Flight to the Senegal
 

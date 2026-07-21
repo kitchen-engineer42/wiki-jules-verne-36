@@ -9,7 +9,7 @@ book: The Mysterious Island
 affiliation:
 first_appearance: MI-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Cyrus Harding
 

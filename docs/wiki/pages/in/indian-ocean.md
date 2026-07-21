@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Indian Ocean
 description: 'The great ocean the Duncan crosses on the 37th parallel in In Search of the Castaways, and a candidate ground for the Britannia wreck.'
-quality: featured
+quality: standard
 ---
 # Indian Ocean
 

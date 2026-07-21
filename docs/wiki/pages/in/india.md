@@ -12,7 +12,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: South Asia
 description: 'The great reversed triangle of British India, crossed by rail in three days on Phileas Fogg''s journey in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

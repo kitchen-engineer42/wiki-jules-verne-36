@@ -13,7 +13,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Atlantic (off West Africa)
 description: 'The volcanic archipelago off West Africa, a waypoint on the Duncan''s voyage and, for Captain Nemo, a surviving peak of drowned Atlantis.'
-quality: featured
+quality: standard
 ---
 # Cape Verde
 

@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The jaw-shaped gulf at the south-eastern extremity of Lincoln Island, walled by lava cliffs, in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Shark Gulf
 

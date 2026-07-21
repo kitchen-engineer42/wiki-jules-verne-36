@@ -9,7 +9,7 @@ book: 'The Fur Country'
 affiliation:
 first_appearance: FC-011
 role: supporting
-quality: featured
+quality: standard
 ---
 # Mac-Nab
 

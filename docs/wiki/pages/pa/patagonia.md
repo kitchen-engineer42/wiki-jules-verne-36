@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America
 description: 'Southern region of South America crossed on the 37th parallel in the first phase of the search for Captain Grant.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

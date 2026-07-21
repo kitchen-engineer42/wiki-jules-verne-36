@@ -9,7 +9,7 @@ book: 'The Fur Country'
 affiliation:
 first_appearance: FC-003
 role: supporting
-quality: featured
+quality: standard
 ---
 # Thomas Black
 

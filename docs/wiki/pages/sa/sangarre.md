@@ -9,7 +9,7 @@ book: Michael Strogoff
 affiliation:
 first_appearance: MS-006
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Sangarre
 

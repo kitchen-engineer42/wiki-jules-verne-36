@@ -11,7 +11,7 @@ book: The Blockade Runners
 real_or_fictional: real
 region: United States (Charleston Harbor)
 description: 'The island fortress at the mouth of Charleston Harbor where the American Civil War began, run past by the Dolphin in The Blockade Runners.'
-quality: featured
+quality: standard
 ---
 # Fort Sumter
 

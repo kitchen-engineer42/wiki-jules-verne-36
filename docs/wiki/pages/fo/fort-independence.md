@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Argentina (the Pampas)
 description: 'The Argentine frontier fort on the pampas that the search party makes for in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Fort Independence
 

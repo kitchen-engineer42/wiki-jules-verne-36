@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Australia
 description: 'The great port of New South Wales and former capital of the eastern Australian colony, a hub of the castaways'' wanderings.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

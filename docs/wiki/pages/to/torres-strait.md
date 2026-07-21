@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: Pacific (Australia–New Guinea)
 description: 'The real reef-choked strait between Australia and New Guinea where the Nautilus runs aground in Twenty Thousand Leagues Under the Seas.'
-quality: featured
+quality: standard
 ---
 # Torres Strait
 

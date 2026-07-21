@@ -7,7 +7,7 @@ tags: [event, blockade, civil-war, seamanship]
 book: The Blockade Runners
 location: Charleston
 pn_anchor: BR-006
-quality: featured
+quality: standard
 ---
 # The Running of the Charleston Blockade
 

@@ -8,7 +8,7 @@ book: Ticket No. 9672
 real_or_fictional: real
 region: North Atlantic
 description: The French island station from which the schooner Viking set sail, its departure fixing the last certain moment before an ill-fated voyage was lost.
-quality: featured
+quality: standard
 ---
 ## Overview
 

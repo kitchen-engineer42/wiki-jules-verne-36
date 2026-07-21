@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Angola (Central Africa)
 description: 'The great inland slave-market town of Angola where the captives are driven and sold in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 # Kazounde
 

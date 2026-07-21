@@ -14,7 +14,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Brazil (Amazon)
 description: 'Great Brazilian province at the mouth of the Rio Negro, capital Manaos, through which the jangada drifts in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Egypt
 description: The Egyptian Mediterranean port and mail-route landfall, a stage on the sea roads toward Suez, Aden, and the East in Verne.
-quality: featured
+quality: standard
 ---
 ## Overview
 

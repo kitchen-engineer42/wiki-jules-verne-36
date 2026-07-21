@@ -8,7 +8,7 @@ description: 'The battle of the Nautilus crew against giant cuttlefish beneath t
 book: Twenty Thousand Leagues Under the Seas
 location: Nautilus
 pn_anchor: TTLU-042
-quality: featured
+quality: standard
 ---
 # The Giant Squid Attack
 

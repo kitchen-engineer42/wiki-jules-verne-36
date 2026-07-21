@@ -7,7 +7,7 @@ tags: [event, lottery, reunion, norway]
 book: Ticket No. 9672
 location: Christiania
 pn_anchor: TN-019
-quality: featured
+quality: standard
 ---
 # The Christiania Lottery Drawing
 

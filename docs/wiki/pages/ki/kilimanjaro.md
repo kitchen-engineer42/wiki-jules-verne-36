@@ -8,7 +8,7 @@ book: Topsy Turvy
 real_or_fictional: real
 region: East Africa (Tanzania)
 description: 'East African mountain into whose flank the Gun Club bores its colossal cannon in Topsy Turvy.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

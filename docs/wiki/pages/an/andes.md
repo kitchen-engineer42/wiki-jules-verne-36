@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America
 description: The great mountain chain of South America, the Cordilleras that Glenarvan's party crossed on the 37th parallel in search of Captain Grant.
-quality: featured
+quality: standard
 ---
 ## Overview
 

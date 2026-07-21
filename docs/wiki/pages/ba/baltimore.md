@@ -8,7 +8,7 @@ description: 'The Maryland city where the Gun Club is established in From the Ea
 book: From the Earth to the Moon
 real_or_fictional: real
 region: Maryland
-quality: featured
+quality: standard
 ---
 ## Overview
 

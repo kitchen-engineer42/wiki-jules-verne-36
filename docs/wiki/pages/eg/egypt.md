@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: North Africa
 description: 'The land of the Nile and the Red Sea canal whose coast the Nautilus skirts on its passage from Arabia in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

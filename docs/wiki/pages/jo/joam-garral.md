@@ -9,7 +9,7 @@ book: Eight Hundred Leagues on the Amazon
 affiliation:
 first_appearance: EHLA-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Joam Garral
 

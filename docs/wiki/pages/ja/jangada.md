@@ -8,7 +8,7 @@ description: 'The enormous timber raft, a floating village, that carries the Gar
 book: Eight Hundred Leagues on the Amazon
 inventor: Joam Garral
 category: vehicle
-quality: featured
+quality: standard
 ---
 ## Overview
 

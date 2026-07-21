@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: The ancient Central Asian city and khanate, the "Rome of Islam," a great oasis station on the Grand Transasiatic railway.
-quality: featured
+quality: standard
 ---
 ## Overview
 

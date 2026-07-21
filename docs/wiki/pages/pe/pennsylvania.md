@@ -8,8 +8,8 @@ book: 'Robur the Conqueror'
 real_or_fictional: real
 region: United States
 description: 'Mid-Atlantic state; home of the Weldon Institute in Philadelphia in Robur the Conqueror.'
+quality: standard
 ---
-
 ## Overview
 
 Pennsylvania is a Mid-Atlantic state of the United States. In the Vernean corpus it is above all the home of the Weldon Institute in Philadelphia, the ballooning club at the heart of *Robur the Conqueror*.

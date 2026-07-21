@@ -9,7 +9,7 @@ book: 'Five Weeks in a Balloon'
 affiliation:
 first_appearance: FWB-003
 role: supporting
-quality: featured
+quality: standard
 ---
 # Dick Kennedy
 

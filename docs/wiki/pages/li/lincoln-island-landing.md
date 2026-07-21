@@ -8,7 +8,7 @@ description: 'The balloon castaways are hurled by a hurricane onto an unknown Pa
 book: The Mysterious Island
 location: Lincoln Island
 pn_anchor: MI-001
-quality: featured
+quality: standard
 ---
 # The Lincoln Island Landing
 

@@ -9,7 +9,7 @@ book: 'A Journey to the Center of the Earth'
 affiliation:
 first_appearance: JCE-011
 role: supporting
-quality: featured
+quality: standard
 ---
 # Hans Bjelke
 

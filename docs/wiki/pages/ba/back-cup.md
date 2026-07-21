@@ -11,7 +11,7 @@ book: Facing the Flag
 real_or_fictional: fictional
 region: Bermuda archipelago
 description: 'A hollow volcanic islet in the Bermudas that serves as the secret lair of the pirate Ker Karraje in Facing the Flag.'
-quality: featured
+quality: standard
 ---
 # Back Cup
 

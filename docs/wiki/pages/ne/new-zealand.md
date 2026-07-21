@@ -12,7 +12,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Oceania
 description: 'Two-island British possession of the South Pacific, Maori land where Glenarvan''s party is imperilled in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

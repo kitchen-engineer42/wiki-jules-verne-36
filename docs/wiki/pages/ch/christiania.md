@@ -12,7 +12,7 @@ tags:
   - norway
 region: Norway
 description: 'The Norwegian capital (today Oslo) whose professor Sylvius Hogg befriends the Hansen family in Ticket No. 9672.'
-quality: featured
+quality: standard
 ---
 # Christiania
 

@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Western Asia
 description: 'The great peninsula the Nautilus skirts in Twenty Thousand Leagues Under the Sea, its Red Sea coasts and ancient canal-lands threaded between Suez and the Persian Gulf.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

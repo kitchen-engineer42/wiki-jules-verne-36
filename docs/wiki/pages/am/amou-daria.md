@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Central Asia
 description: The great Central Asian river, the Oxus of the Ancients, crossed by the Grand Trans-Asian railway in Verne and rival of the Indus and Ganges.
-quality: featured
+quality: standard
 ---
 ## Overview
 

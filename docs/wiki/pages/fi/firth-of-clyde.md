@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Scotland
 description: 'The sea inlet on the west coast of Scotland where the yacht Duncan is trialled, appearing across In Search of the Castaways and The Underground City.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: West Africa
 description: 'A slave-trade market town of the Benguela interior, one of the trader Alvez''s factories in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: Master Zacharius
 real_or_fictional: real
 region: Central Europe
 description: 'The Alpine land of Master Zacharius, famed across Verne''s works for its clockmakers, mountains, and glaciers.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'A Jules Verne novel in which five castaways build a colony on an u
 vvv: MI
 chapter_count: 62
 genre: novel
-quality: featured
+quality: standard
 ---
 ## Overview
 

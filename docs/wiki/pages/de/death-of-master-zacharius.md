@@ -7,7 +7,7 @@ tags: [event, death, clockwork, gothic]
 book: Master Zacharius
 location: Château of Andernatt
 pn_anchor: MZ-005
-quality: featured
+quality: standard
 ---
 # The Death of Master Zacharius
 

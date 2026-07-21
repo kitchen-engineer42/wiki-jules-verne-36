@@ -12,7 +12,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Tunisia (North Africa)
 description: 'Northernmost promontory of Africa and nearest point to Sicily, prominent in the reshaped Mediterranean of Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

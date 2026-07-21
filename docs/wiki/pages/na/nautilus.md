@@ -8,7 +8,7 @@ description: 'Captain Nemo''s electric submarine in Twenty Thousand Leagues Unde
 book: Twenty Thousand Leagues Under the Sea
 inventor: Captain Nemo
 category: vehicle
-quality: featured
+quality: standard
 ---
 # Nautilus
 

@@ -8,7 +8,7 @@ description: 'The Icelandic glacier-volcano whose crater is the gateway to the i
 book: Journey to the Center of the Earth
 real_or_fictional: real
 region: Iceland
-quality: featured
+quality: standard
 ---
 ## Overview
 

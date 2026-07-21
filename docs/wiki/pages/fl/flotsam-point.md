@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'A point on the south-eastern shore of Lincoln Island where the colonists recover a washed-up chest, in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Flotsam Point
 

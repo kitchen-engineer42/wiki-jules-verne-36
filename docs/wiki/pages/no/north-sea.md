@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: Northwestern Europe
 description: 'Shallow arm of the Atlantic between Britain and the European mainland, recurring across several of Verne''s voyages.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

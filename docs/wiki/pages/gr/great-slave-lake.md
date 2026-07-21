@@ -12,7 +12,7 @@ book: The Fur Country
 real_or_fictional: real
 region: North America (Canada, sub-Arctic)
 description: 'The great sub-Arctic Canadian lake from whose shores the Hudson''s Bay expedition of The Fur Country sets out for the polar coast.'
-quality: featured
+quality: standard
 ---
 # Great Slave Lake
 

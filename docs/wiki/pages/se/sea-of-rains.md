@@ -12,7 +12,7 @@ book: Round the Moon
 real_or_fictional: real
 region: Moon (near side)
 description: 'The lunar plain Mare Imbrium, ringed by the Apennines and Carpathians, over which the projectile passes in Round the Moon.'
-quality: featured
+quality: standard
 ---
 # Sea of Rains
 

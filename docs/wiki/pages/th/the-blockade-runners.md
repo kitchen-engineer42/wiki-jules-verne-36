@@ -8,7 +8,7 @@ description: 'A Jules Verne novella in which a Glasgow captain runs the Union bl
 vvv: BR
 chapter_count: 10
 genre: novella
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'Dr. Ferguson''s double-envelope hydrogen balloon that crosses Afri
 book: Five Weeks in a Balloon
 inventor: Dr. Samuel Ferguson
 category: vehicle
-quality: featured
+quality: standard
 ---
 # Victoria (balloon)
 

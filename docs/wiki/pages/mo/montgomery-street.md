@@ -8,7 +8,7 @@ book: Godfrey Morgan
 real_or_fictional: real
 region: United States
 description: 'The principal thoroughfare of San Francisco, lined with splendid stores and grand mansions, where the Kolderup family resides in Godfrey Morgan.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

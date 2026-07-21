@@ -8,7 +8,7 @@ book: 'Off on a Comet'
 real_or_fictional: real
 region: Balearic Islands
 description: 'Smallest of the Balearic Islands; site of the astronomer Palmyrin Rosette''s observatory in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

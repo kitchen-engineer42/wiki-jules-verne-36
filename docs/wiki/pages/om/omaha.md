@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States (Nebraska)
 description: 'Nebraska terminus of the Union Pacific where Phileas Fogg boards the transcontinental railroad across America.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

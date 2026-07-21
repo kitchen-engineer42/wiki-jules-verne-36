@@ -8,7 +8,7 @@ description: 'A Jules Verne novel following Professor Aronnax aboard Captain Nem
 vvv: TTLU
 chapter_count: 47
 genre: novel
-quality: featured
+quality: standard
 ---
 ## Overview
 

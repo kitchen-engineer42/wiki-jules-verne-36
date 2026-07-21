@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'A sheltered creek on the southern coast of Lincoln Island that the colonists adopt as their natural harbour in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Port Balloon
 

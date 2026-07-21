@@ -12,7 +12,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: British Isles
 description: 'The Highland homeland of Lord Glenarvan, from which the Duncan sets out to search the thirty-seventh parallel in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

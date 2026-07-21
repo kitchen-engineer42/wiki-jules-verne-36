@@ -12,7 +12,7 @@ tags:
   - china
 region: China
 description: 'The Chinese capital that is the eastern terminus of the Grand Transasiatic railway journey in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 # Pekin
 

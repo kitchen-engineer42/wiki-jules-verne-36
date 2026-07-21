@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Spain
 description: The Spanish capital, a discreet telegraphic relay in Verne's plots and a landmark swept by the wandering comet.
-quality: featured
+quality: standard
 ---
 ## Overview
 

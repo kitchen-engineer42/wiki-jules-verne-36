@@ -9,7 +9,7 @@ book: 'The Adventures of Captain Hatteras'
 affiliation:
 first_appearance: ACH-001
 role: supporting
-quality: featured
+quality: standard
 ---
 # Richard Shandon
 

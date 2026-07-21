@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Brazil (Minas Gerais)
 description: 'Brazilian diamond-district town where the crime that shadows Joam Dacosta was committed.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

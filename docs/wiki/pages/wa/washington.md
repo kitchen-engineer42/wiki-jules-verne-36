@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: United States
 description: 'The capital of the United States, seat of government and the American prime meridian in Verne''s tales.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

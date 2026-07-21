@@ -12,7 +12,7 @@ book: Topsy-Turvy
 real_or_fictional: real
 region: Northern Europe
 description: 'One of the six polar powers of Topsy-Turvy, whose Arctic possessions and Copenhagen approaches recur across Verne''s voyages.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

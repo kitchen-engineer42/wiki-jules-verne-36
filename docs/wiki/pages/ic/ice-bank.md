@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Antarctic (Southern Ocean)
 description: 'The great southern ice barrier that halts the Nautilus at the limit of the Antarctic seas in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Ice Bank
 

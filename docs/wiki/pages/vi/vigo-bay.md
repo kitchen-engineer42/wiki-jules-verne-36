@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Spain (Galicia)
 description: 'The bay on Spain''s northwest coast where sunken Spanish galleons lie, and where Captain Nemo harvests gold from the seabed in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Vigo Bay
 

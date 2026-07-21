@@ -13,7 +13,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Africa
 description: 'The vast African desert the balloon must cross in Five Weeks in a Balloon, a nine-hundred-mile expanse of solitudes where caravans may go weeks without water.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: The Fur Country
 affiliation:
 first_appearance: FC-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Jaspar Hobson
 

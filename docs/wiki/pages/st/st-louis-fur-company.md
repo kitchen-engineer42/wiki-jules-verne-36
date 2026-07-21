@@ -8,7 +8,7 @@ description: 'The American fur-trading company that is the sole remaining rival 
 book: The Fur Country
 org_type: company
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

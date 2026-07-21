@@ -12,7 +12,7 @@ book: Ticket No. 9672
 real_or_fictional: real
 region: Scandinavia
 description: 'Scandinavian kingdom of fjords and mountains, principal setting of Ticket No. 9672 and homeland of several Verne seafarers.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

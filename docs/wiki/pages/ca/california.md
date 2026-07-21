@@ -12,7 +12,7 @@ book: Godfrey Morgan
 real_or_fictional: real
 region: Western United States
 description: 'The Pacific-coast American state, capital San Francisco, from which Godfrey Morgan sets out to sea in Godfrey Morgan.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

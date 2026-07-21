@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States
 description: 'The silver state of the American Great Basin, crossed by the Pacific Railroad between the Sierra Nevada and the Great Salt Lake in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

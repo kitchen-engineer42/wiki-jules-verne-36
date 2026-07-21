@@ -11,7 +11,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Sweden
 description: 'The Swedish capital and home of Dr. Schwaryencrona, where the foundling Erik is raised and educated in The Waif of the Cynthia.'
-quality: featured
+quality: standard
 ---
 # Stockholm
 

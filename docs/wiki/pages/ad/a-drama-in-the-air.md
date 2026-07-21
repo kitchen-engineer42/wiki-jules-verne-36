@@ -8,7 +8,7 @@ description: 'A Jules Verne short story in which a balloonist ascending from Fra
 vvv: DA
 chapter_count: 1
 genre: short story
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Africa (equatorial lakes)
 description: 'Verne''s name for the great equatorial African lake, conjectured reservoir of the Nile, sighted from Dr. Ferguson''s balloon in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 # Lake Ukereoue
 

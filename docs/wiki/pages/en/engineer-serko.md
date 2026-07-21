@@ -9,7 +9,7 @@ book: 'Facing the Flag'
 affiliation:
 first_appearance: FF-003
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Engineer Serko
 

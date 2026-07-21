@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: Arctic (New America)
 description: 'The fictional Arctic refuge built by Hatteras'' party in The Adventures of Captain Hatteras, their winter base and the goal of every homeward march.'
-quality: featured
+quality: standard
 ---
 # Fort Providence
 

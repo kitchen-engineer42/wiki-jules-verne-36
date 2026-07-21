@@ -8,7 +8,7 @@ description: 'The portable electric induction lamp carried by the explorers in A
 book: A Journey to the Centre of the Earth
 inventor: Heinrich Ruhmkorff
 category: instrument
-quality: featured
+quality: standard
 ---
 # Ruhmkorff Apparatus
 

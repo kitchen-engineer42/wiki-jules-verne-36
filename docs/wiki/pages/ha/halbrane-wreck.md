@@ -7,7 +7,7 @@ tags: [event, adventure, catastrophe, exploration]
 book: An Antarctic Mystery
 location: Antarctic Sea
 pn_anchor: AM-019
-quality: featured
+quality: standard
 ---
 # The Wreck of the Halbrane
 

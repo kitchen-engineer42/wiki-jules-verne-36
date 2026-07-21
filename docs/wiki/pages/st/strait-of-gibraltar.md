@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Mediterranean / Atlantic
 description: 'The narrow passage between the Mediterranean and the Atlantic through which the Nautilus races in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Strait of Gibraltar
 

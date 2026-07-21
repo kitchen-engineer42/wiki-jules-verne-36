@@ -12,7 +12,7 @@ book: Journey to the Centre of the Earth
 real_or_fictional: fictional
 region: Underground (Liedenbrock Sea)
 description: 'The creek on the shore of the underground Liedenbrock Sea, named by Professor Liedenbrock as the launch point of the raft voyage in Journey to the Centre of the Earth.'
-quality: featured
+quality: standard
 ---
 # Port Gräuben
 

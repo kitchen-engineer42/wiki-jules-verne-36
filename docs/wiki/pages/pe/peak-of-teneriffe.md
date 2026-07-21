@@ -13,7 +13,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Canary Islands (Atlantic)
 description: 'The great volcanic peak of the Canary Islands, sighted from the Duncan early in the voyage of In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Peak of Teneriffe
 

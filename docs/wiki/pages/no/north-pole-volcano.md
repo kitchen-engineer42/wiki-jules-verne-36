@@ -8,7 +8,7 @@ description: 'Hatteras reaches the North Pole and finds it crowned by an active 
 book: The Adventures of Captain Hatteras
 location: North Pole
 pn_anchor: ACH-054
-quality: featured
+quality: standard
 ---
 # The Volcano at the Pole
 

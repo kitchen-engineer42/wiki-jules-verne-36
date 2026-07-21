@@ -8,7 +8,7 @@ book: The Fur Country
 real_or_fictional: real
 region: North Pacific
 description: 'The cold Bering ocean current running along the Asian coast, which seized the drifting ice-island and swept it toward the Arctic solitudes in The Fur Country.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

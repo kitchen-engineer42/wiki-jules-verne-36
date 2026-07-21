@@ -11,7 +11,7 @@ book: Godfrey Morgan
 real_or_fictional: fictional
 region: Pacific (Spencer Island)
 description: 'The cape on Godfrey Morgan''s island where the castaway raises his signal flag, watching in vain for rescue.'
-quality: featured
+quality: standard
 ---
 # Flag Point
 

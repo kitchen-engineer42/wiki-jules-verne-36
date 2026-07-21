@@ -8,7 +8,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic
 description: The famous Arctic sea route giving direct communication between the Atlantic and Pacific oceans, undiscovered until McClure won it and a lodestar for the polar voyages of Verne northern tales.
-quality: featured
+quality: standard
 ---
 ## Overview
 

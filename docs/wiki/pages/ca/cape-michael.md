@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic North America
 description: 'The fictional headland on the drifting peninsula of Cape Bathurst in The Fur Country, eastern limit of the colony and the point where the settlers quit the doomed island.'
-quality: featured
+quality: standard
 ---
 # Cape Michael
 

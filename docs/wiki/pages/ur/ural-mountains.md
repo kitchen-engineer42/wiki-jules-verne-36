@@ -12,7 +12,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Europe–Asia frontier)
 description: 'The real mountain range dividing Europe from Asia, crossed by the courier Michael Strogoff on his journey into Siberia in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 # Ural Mountains
 

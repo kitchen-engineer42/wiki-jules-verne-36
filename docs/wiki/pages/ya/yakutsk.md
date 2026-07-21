@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Eastern Siberia
 description: 'Easternmost of the great governments of Asiatic Russia, whose relief column marches on Irkutsk in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

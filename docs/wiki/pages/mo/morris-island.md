@@ -11,7 +11,7 @@ book: The Blockade Runners
 real_or_fictional: real
 region: United States (Charleston Harbor)
 description: 'The Federal-held island guarding the southern entrance to Charleston Harbor, whose batteries the Dolphin must run in The Blockade Runners.'
-quality: featured
+quality: standard
 ---
 # Morris Island
 

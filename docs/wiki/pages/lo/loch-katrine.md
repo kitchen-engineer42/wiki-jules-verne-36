@@ -11,7 +11,7 @@ book: The Underground City
 real_or_fictional: real
 region: Stirling, Scotland
 description: 'The real Scottish loch above the New Aberfoyle colliery in The Underground City, drained when its bed gives way into the mine below.'
-quality: featured
+quality: standard
 ---
 # Loch Katrine
 

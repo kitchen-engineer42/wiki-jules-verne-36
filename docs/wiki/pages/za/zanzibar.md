@@ -11,7 +11,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: East African coast
 description: 'The East African island and port from which Dr. Ferguson launches his balloon voyage across the continent in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 # Zanzibar
 

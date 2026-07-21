@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: New America (Arctic)
 description: 'A headland on the coast of New America named by Altamont, marking the route between the sea and Fort Providence in The Adventures of Captain Hatteras.'
-quality: featured
+quality: standard
 ---
 # Cape Washington
 

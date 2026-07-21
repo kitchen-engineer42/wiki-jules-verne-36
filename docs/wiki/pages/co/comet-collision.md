@@ -8,7 +8,7 @@ description: 'A wandering comet grazes the Earth on New Year''s night, tearing a
 book: Off on a Comet
 location: Gallia
 pn_anchor: OC-027
-quality: featured
+quality: standard
 ---
 # The Comet's Collision
 

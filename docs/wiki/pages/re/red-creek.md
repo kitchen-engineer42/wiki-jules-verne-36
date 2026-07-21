@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The fictional watercourse on Lincoln Island in The Mysterious Island, named for the colour of its waters and feeding the island''s great lake.'
-quality: featured
+quality: standard
 ---
 # Red Creek
 

@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: Ottoman Empire (Turkey)
 description: The historic Ottoman capital on the Bosphorus, a byword in Verne for siege artillery and daring aeronauts.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Ural)
 description: 'Russian town on the Siberian side of the Urals, the first great relay east of the mountains in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

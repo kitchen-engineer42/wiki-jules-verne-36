@@ -8,7 +8,7 @@ description: 'The Montreal fur-trading company that rivalled the Hudson''s Bay C
 book: The Fur Country
 org_type: company
 founded: '1784 (Montreal)'
-quality: featured
+quality: standard
 ---
 ## Overview
 

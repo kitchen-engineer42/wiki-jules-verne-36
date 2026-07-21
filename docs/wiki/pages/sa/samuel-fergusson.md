@@ -9,7 +9,7 @@ book: 'Five Weeks in a Balloon'
 affiliation:
 first_appearance: FWB-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Samuel Ferguson
 

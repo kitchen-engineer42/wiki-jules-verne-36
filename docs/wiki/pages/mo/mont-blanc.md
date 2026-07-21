@@ -8,7 +8,7 @@ book: The Ascent of Mont Blanc
 real_or_fictional: real
 region: France
 description: 'The highest mountain in Europe, ascended from Chamonix in Verne''s The Ascent of Mont Blanc.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

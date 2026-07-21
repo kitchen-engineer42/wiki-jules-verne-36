@@ -12,7 +12,7 @@ book: The Fur Country
 real_or_fictional: real
 region: North Pacific (Bering Sea)
 description: 'The real island chain the drifting colonists of The Fur Country hope to reach as their last landfall before the open Pacific.'
-quality: featured
+quality: standard
 ---
 # Aleutian Islands
 

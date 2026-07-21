@@ -12,8 +12,8 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Arctic (northern Siberia)
 description: 'The northernmost cape of the Eurasian mainland, the great obstacle the Alaska must double on her polar voyage in The Waif of the Cynthia.'
+quality: standard
 ---
-
 # Cape Tchelynskin
 
 ## Overview

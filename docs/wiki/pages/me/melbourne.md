@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Australia (Victoria)
 description: 'Australian port on Port Phillip that anchors the Duncan party''s crossing of the Victorian continent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

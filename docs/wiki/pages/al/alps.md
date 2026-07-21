@@ -8,7 +8,7 @@ book: Ascent of Mont Blanc
 real_or_fictional: real
 region: Central Europe
 description: The great mountain wall of central Europe, giant of the continent crowned by Mont Blanc, a measure against which Verne weighs all other heights.
-quality: featured
+quality: standard
 ---
 ## Overview
 

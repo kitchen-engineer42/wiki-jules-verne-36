@@ -8,7 +8,7 @@ description: 'A Jules Verne first-person narrative recounting a perilous 1871 as
 vvv: AMB
 chapter_count: 1
 genre: travel narrative
-quality: featured
+quality: standard
 ---
 ## Overview
 

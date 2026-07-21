@@ -8,7 +8,7 @@ book: Master of the World
 real_or_fictional: real
 region: United States
 description: The capital of North Carolina, an important inland town about one hundred and fifty miles within the province, reached by Strock in his pursuit of the Great Eyrie mystery.
-quality: featured
+quality: standard
 ---
 ## Overview
 

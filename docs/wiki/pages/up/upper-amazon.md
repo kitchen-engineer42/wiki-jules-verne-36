@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Amazon Basin
 description: 'The upper basin of the Amazon in Peru and Brazil, cradle of Iquitos and the Garral fazenda in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

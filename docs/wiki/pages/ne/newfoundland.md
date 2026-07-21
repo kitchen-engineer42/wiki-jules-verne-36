@@ -8,7 +8,7 @@ book: Ticket No. 9672
 real_or_fictional: real
 region: North Atlantic
 description: 'The great North Atlantic island whose foggy fishing banks and telegraph landfall recur across Verne''s Atlantic voyages.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

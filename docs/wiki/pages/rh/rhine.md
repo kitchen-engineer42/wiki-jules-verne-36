@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Europe
 description: The great river of the German lands, a natural frontier and a river of legend in Verne, seen as an unrolled ribbon from the aeronaut's car.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [event, adventure, abduction, aeronautics]
 book: Robur the Conqueror
 location: Philadelphia
 pn_anchor: RC-005
-quality: featured
+quality: standard
 ---
 # The Abduction by the Albatross
 

@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia (near Tomsk)
 description: 'Siberian village on the Tom near Tomsk where Ivan Ogareff makes his forward camp and Michael Strogoff is taken prisoner.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

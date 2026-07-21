@@ -8,7 +8,7 @@ book: The Waif of the Cynthia
 real_or_fictional: real
 region: Pacific
 description: 'The large island off the Pacific coast of North America, home port of the mysterious yacht in Verne''s tales.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

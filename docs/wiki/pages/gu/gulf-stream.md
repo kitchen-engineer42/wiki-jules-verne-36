@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: Atlantic Ocean
 description: 'The real warm-water Atlantic current followed by the Nautilus in Twenty Thousand Leagues Under the Seas, a river within the ocean traced by Captain Nemo.'
-quality: featured
+quality: standard
 ---
 # Gulf Stream
 

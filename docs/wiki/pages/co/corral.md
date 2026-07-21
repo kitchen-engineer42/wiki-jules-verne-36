@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The livestock enclosure near the Red Creek on Lincoln Island, later Ayrton''s dwelling.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

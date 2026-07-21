@@ -7,6 +7,7 @@ tags: [event, shipwreck, survival, cannibalism]
 book: The Survivors of the Chancellor
 location: 'A raft on the Atlantic, off the mouth of the Amazon'
 pn_anchor: SC2-053
+quality: standard
 ---
 # The Drawing of Lots on the Raft
 

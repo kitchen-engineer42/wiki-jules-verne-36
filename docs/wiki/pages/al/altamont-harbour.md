@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: Arctic (New America)
 description: 'The port on the New America coast named for Altamont, the northern base from which Hatteras''s party sails toward the Pole.'
-quality: featured
+quality: standard
 ---
 # Altamont Harbour
 

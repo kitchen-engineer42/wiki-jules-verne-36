@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: West Africa
 description: 'The West African region and French colony that forms the western goal of Dr. Ferguson balloon crossing in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: France
 description: The French Atlantic port on the Gironde, a departure point and landfall for Verne's globe-trotters and aeronauts.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -12,7 +12,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: East Asia
 description: 'The Pacific empire beyond Hong Kong where Passepartout is stranded and rejoins Fogg, a stage of the circuit in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

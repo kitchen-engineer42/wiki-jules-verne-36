@@ -8,7 +8,7 @@ description: 'A Jules Verne futurist tale following one day in the life of Fritz
 vvv: YEAR
 chapter_count: 1
 genre: short story
-quality: featured
+quality: standard
 ---
 ## Overview
 

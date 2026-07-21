@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'A vast swampy steppe district of Western Siberia between the Obi and the Irtych, dreaded for its marshes and insects in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

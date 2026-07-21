@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India (Bengal)
 description: 'Bengal capital and eastern terminus of Phileas Fogg''s railway crossing of India.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

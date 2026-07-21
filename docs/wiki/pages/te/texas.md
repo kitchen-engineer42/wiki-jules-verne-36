@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: United States
 description: 'The vast southern Union state that vied with Florida to host the Gun Club Columbiad in From the Earth to the Moon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

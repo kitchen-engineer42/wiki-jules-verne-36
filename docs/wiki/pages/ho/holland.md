@@ -12,7 +12,7 @@ book: Topsy-Turvy
 real_or_fictional: real
 region: Low Countries
 description: 'One of the six polar powers bidding for the Arctic regions at the Baltimore auction in Topsy-Turvy.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

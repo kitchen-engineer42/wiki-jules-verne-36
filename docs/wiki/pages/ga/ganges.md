@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India
 description: The sacred river of India, artery of Fogg's crossing by rail and steamboat and a stream of the Hindu dead in Verne's East.
-quality: featured
+quality: standard
 ---
 ## Overview
 

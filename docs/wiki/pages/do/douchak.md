@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Transcaspia
 description: 'A station on the Transcaspian section of the Grand Transasiatic railway, reached at the six-hundred-and-sixtieth verst in The Adventures of a Special Correspondent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

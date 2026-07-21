@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Arctic (Great Bear Lake)
 description: 'The real Hudson''s Bay Company post on Great Bear Lake where Lieutenant Hobson revictuals and gathers intelligence in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Fort Confidence
 

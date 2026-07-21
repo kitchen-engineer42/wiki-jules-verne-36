@@ -8,7 +8,7 @@ description: 'The volcanic island at the geographic North Pole, goal of the expe
 book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: Arctic
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Ural)
 description: 'Russian Ural province and town, the last stage west of the mountains on Michael Strogoff''s road into Siberia.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

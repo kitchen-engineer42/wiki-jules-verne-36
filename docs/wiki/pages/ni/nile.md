@@ -12,7 +12,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: Africa
 description: 'The great African river whose mysterious sources drive the geographic quest of Five Weeks in a Balloon, sought for centuries and never reached from the ground.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: New York (United States)
 description: 'The New York port at the eastern end of Lake Erie, past which the Terror races toward Niagara in The Master of the World.'
-quality: featured
+quality: standard
 ---
 # Buffalo
 

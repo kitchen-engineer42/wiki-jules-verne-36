@@ -8,7 +8,7 @@ description: 'The defunct Canadian shipping firm that owned the lost steamer Cyn
 book: The Waif of the Cynthia
 org_type: company
 founded: ''
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: Godfrey Morgan
 real_or_fictional: fictional
 region: Pacific (Godfrey's island)
 description: 'The large bight on Godfrey Morgan''s castaway island, named by Godfrey himself, where the mysterious chest washes ashore.'
-quality: featured
+quality: standard
 ---
 # Dream Bay
 

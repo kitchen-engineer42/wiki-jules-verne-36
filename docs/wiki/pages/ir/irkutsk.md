@@ -11,7 +11,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Eastern Siberia (Russia)
 description: 'The far capital of Eastern Siberia and the goal of the courier''s mission in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 # Irkutsk
 

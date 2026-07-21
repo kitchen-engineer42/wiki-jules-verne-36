@@ -8,7 +8,7 @@ book: Facing the Flag
 real_or_fictional: fictional
 region: United States
 description: 'A private sanitarium on the banks of the Neuse where the inventor Thomas Roch is interned in Facing the Flag.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

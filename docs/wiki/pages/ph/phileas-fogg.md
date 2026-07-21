@@ -9,7 +9,7 @@ book: Around the World in Eighty Days
 affiliation: Reform Club
 first_appearance: AWED-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Phileas Fogg
 

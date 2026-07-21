@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'A vast marsh in the south-eastern part of Lincoln Island, a haunt of waterfowl and game.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'The ice-armoured brig built for Captain Hatteras''s secret voyage 
 book: The Adventures of Captain Hatteras
 inventor: Captain John Hatteras
 category: vehicle
-quality: featured
+quality: standard
 ---
 # The Forward
 

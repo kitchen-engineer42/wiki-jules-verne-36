@@ -8,8 +8,8 @@ book: 'Facing the Flag'
 real_or_fictional: real
 region: United States
 description: 'Southern US state, home of the Mammoth Cave, Verne''s recurring benchmark for subterranean grandeur.'
+quality: standard
 ---
-
 ## Overview
 
 Kentucky is a southern state of the United States. In the Vernean corpus it is above all the home of the Mammoth Cave, the vast cavern that Verne repeatedly invokes as the measure of subterranean grandeur across several novels.

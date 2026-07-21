@@ -11,8 +11,8 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic Ocean
 description: 'The giant drifting island of ice that carries Fort Hope out to sea after breaking away from Cape Bathurst.'
+quality: standard
 ---
-
 # Victoria Island
 
 ## Overview

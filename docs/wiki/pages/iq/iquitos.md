@@ -11,7 +11,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Upper Amazon (Peru)
 description: 'The Upper Amazon farm-village where the Garral family lives and from which the great raft voyage sets out in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 # Iquitos
 

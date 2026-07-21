@@ -9,7 +9,7 @@ book: 'Facing the Flag'
 affiliation:
 first_appearance: FF-001
 role: narrator
-quality: featured
+quality: standard
 ---
 # Simon Hart
 

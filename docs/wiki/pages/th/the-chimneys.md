@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The castaways'' first shelter on Lincoln Island: a natural pile of granite rocks at the mouth of the Mercy.'
-quality: featured
+quality: standard
 ---
 # The Chimneys
 

@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic North America
 description: 'The fictional headland on the drifting peninsula of Cape Bathurst in The Fur Country, worn away by the sea as the ice-island melts.'
-quality: featured
+quality: standard
 ---
 # Cape Esquimaux
 

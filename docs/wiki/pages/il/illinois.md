@@ -8,7 +8,7 @@ book: 'An Antarctic Mystery'
 real_or_fictional: real
 region: United States
 description: 'Midwestern state of the United States; residence of Dirk Peters at Vandalia and a waypoint of several Vernean journeys.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

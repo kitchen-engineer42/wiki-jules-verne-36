@@ -8,7 +8,7 @@ description: 'The northern island nation and gateway to the underworld in Journe
 book: Journey to the Center of the Earth
 real_or_fictional: real
 region: North Atlantic
-quality: featured
+quality: standard
 ---
 ## Overview
 

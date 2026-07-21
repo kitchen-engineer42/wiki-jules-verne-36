@@ -8,7 +8,7 @@ book: An Antarctic Mystery
 real_or_fictional: fictional
 region: Antarctic
 description: 'A small, barren island of the far southern seas in An Antarctic Mystery, a landfall on the Halbrane''s search for the men of the Jane.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

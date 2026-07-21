@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Far East)
 description: The far-eastern Russian peninsula of volcanoes and the Behring Sea, a remote march of the Muscovite dominion in Verne's Asia.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: Twenty Thousand Leagues Under the Seas
 affiliation:
 first_appearance: TTLU-010
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Captain Nemo
 

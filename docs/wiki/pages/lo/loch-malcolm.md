@@ -11,7 +11,7 @@ book: The Underground City
 real_or_fictional: fictional
 region: Scotland (New Aberfoyle)
 description: 'The subterranean lake in the depths of New Aberfoyle, on whose banks the mining settlement of Coal Town grows up in The Underground City.'
-quality: featured
+quality: standard
 ---
 # Loch Malcolm
 

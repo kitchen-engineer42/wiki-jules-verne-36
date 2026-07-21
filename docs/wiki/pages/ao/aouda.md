@@ -9,7 +9,7 @@ book: Around the World in Eighty Days
 affiliation:
 first_appearance: AWED-013
 role: supporting
-quality: featured
+quality: standard
 ---
 # Aouda
 

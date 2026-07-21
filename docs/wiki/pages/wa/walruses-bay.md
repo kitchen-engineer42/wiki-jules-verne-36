@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic (Cape Bathurst peninsula)
 description: 'The fictional Arctic bay named by Hobson''s party near Cape Bathurst, its shore marked by volcanic cliffs later reshaped by earthquake in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Walruses' Bay
 

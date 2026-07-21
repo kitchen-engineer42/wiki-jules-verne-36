@@ -8,7 +8,7 @@ book: Facing the Flag
 real_or_fictional: real
 region: United States
 description: 'The North Carolina port on the left bank of the Neuse near Pamlico Sound, off which the schooner Ebba lay while its master carried off the prisoners of Healthful House.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

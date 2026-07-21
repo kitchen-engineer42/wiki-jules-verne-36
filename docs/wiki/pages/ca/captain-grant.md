@@ -9,7 +9,7 @@ book: In Search of the Castaways
 affiliation:
 first_appearance: SC-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Captain Grant
 

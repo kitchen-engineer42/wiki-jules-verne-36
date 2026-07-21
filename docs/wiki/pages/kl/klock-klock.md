@@ -8,7 +8,7 @@ book: An Antarctic Mystery
 real_or_fictional: fictional
 region: Antarctic (Tsalal Island)
 description: 'Native village in a valley of Tsalal Island where the deadly landslip of An Antarctic Mystery is investigated.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

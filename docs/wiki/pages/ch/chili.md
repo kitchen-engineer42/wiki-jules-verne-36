@@ -13,7 +13,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America
 description: 'The western South American republic (Verne''s spelling of Chile) where Glenarvan''s overland search across the Cordilleras and Pampas begins in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

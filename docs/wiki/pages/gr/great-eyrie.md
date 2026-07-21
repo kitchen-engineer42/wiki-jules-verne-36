@@ -8,7 +8,7 @@ description: 'The inaccessible crater-crowned mountain in the Blue Ridge that co
 book: Master of the World
 real_or_fictional: fictional
 region: Blue Ridge, North Carolina
-quality: featured
+quality: standard
 ---
 ## Overview
 

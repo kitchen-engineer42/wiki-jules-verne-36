@@ -12,8 +12,8 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: South America
 description: 'The South American land that the traitor Harris pretends the shipwrecked survivors have reached in Dick Sand: A Captain at Fifteen, when in truth they stand on Angola.'
+quality: standard
 ---
-
 ## Overview
 
 Bolivia is the South American land that Harris pretends the shipwrecked survivors have reached in *Dick Sand: A Captain at Fifteen*. He gives the most exact details about this part of Bolivia, witnessing to his great knowledge of the country. (DSCF-017-017) In this land of Bolivia, he claims, they keep no slaves. (DSCF-015-074)

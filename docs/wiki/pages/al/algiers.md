@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: North Africa
 description: The chief city of the North African coast, built amphitheater-wise above its bay, swallowed with the coast when a fragment of earth breaks away.
-quality: featured
+quality: standard
 ---
 ## Overview
 

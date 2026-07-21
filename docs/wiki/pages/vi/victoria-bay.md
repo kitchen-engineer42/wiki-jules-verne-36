@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: Arctic (New America)
 description: 'The fictional Arctic bay of New America, named by Hatteras''s party and lying on the route between Cape Washington and Fort Providence.'
-quality: featured
+quality: standard
 ---
 # Victoria Bay
 

@@ -8,8 +8,8 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: China
 description: 'A walled Chinese city on the Grand Transasiatic line, marked in The Adventures of a Special Correspondent as the western end of the Great Wall of China.'
+quality: standard
 ---
-
 ## Overview
 
 Sou-Tcheou is a walled city of western China lying on the route of the Grand Transasiatic railway. In the Vernean corpus it belongs to *The Adventures of a Special Correspondent*, where it is a two-hour halt on Claudius Bombarnac's journey — a double-walled town risen again from the ruins of war and remembered above all as the place where the Great Wall of China reaches its end. (ASC-022-071)

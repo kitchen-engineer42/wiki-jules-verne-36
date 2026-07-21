@@ -8,7 +8,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The south-western cape of Lincoln Island, marking one extremity of the settlers'' explored shore.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

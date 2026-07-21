@@ -11,7 +11,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Atlantic (Gulf of Mexico)
 description: 'The warm gulf where the Gulf Stream is born, described at length during the Nautilus voyage in Twenty Thousand Leagues Under the Sea.'
-quality: featured
+quality: standard
 ---
 # Gulf of Mexico
 

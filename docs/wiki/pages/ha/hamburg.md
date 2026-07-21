@@ -12,7 +12,7 @@ book: A Journey to the Center of the Earth
 real_or_fictional: real
 region: Germany
 description: 'The old German city where A Journey to the Center of the Earth begins, home of Professor Liedenbrock and the starting point of the descent toward Iceland.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

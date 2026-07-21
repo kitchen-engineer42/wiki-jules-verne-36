@@ -8,7 +8,7 @@ description: 'The firing of the Columbiad cannon that hurls the projectile towar
 book: From the Earth to the Moon
 location: Stone's Hill
 pn_anchor: FEM-026
-quality: featured
+quality: standard
 ---
 # The Columbiad Launch
 

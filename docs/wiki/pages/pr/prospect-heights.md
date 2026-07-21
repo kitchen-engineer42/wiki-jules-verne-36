@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Lincoln Island
 description: 'The high granite plateau above the Chimneys on Lincoln Island, home to Granite House and the colonists'' gardens.'
-quality: featured
+quality: standard
 ---
 # Prospect Heights
 

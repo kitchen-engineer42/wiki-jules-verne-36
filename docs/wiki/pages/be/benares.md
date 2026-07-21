@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India
 description: 'Sacred city on the Ganges and Sir Francis Cromarty''s destination on Phileas Fogg''s railway crossing of India.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

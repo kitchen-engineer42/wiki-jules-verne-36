@@ -8,7 +8,7 @@ book: The Pearl of Lima
 real_or_fictional: real
 region: Peru
 description: 'Peruvian capital in the valley of the Rimac, the setting of The Pearl of Lima.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

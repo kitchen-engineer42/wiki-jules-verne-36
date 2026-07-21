@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Egypt
 description: 'Egyptian canal town where detective Fix first waits to intercept Phileas Fogg on the road to India.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'Earth''s satellite and the destination of the Gun Club''s projecti
 book: Round the Moon
 real_or_fictional: real
 region: cislunar space
-quality: featured
+quality: standard
 ---
 ## Overview
 

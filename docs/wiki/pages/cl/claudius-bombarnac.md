@@ -9,7 +9,7 @@ book: The Adventures of a Special Correspondent
 affiliation:
 first_appearance: ASC-001
 role: narrator
-quality: featured
+quality: standard
 ---
 # Claudius Bombarnac
 

@@ -12,7 +12,7 @@ book: Round the Moon
 real_or_fictional: real
 region: Moon (near side)
 description: 'The lunar plain Mare Nubium on the Moon''s western side, surveyed by the projectile''s travellers in Round the Moon.'
-quality: featured
+quality: standard
 ---
 # Sea of Clouds
 

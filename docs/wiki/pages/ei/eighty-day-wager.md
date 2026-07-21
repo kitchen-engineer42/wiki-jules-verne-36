@@ -8,7 +8,7 @@ description: 'Phileas Fogg''s bet at the Reform Club to circle the globe in eigh
 book: Around the World in Eighty Days
 location: Reform Club
 pn_anchor: AWED-003
-quality: featured
+quality: standard
 ---
 # The Eighty-Day Wager
 

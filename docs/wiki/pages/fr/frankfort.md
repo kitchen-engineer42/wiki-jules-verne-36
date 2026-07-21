@@ -8,7 +8,7 @@ book: A Drama in the Air
 real_or_fictional: real
 region: Germany
 description: The German fair-city on the Main from which the narrator makes his fateful balloon ascent amid the crowds of the September fair.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ description: 'Fogg discovers he has unknowingly gained a day by travelling eastw
 book: Around the World in Eighty Days
 location: ''
 pn_anchor: AWED-037
-quality: featured
+quality: standard
 ---
 # The Gained Day
 

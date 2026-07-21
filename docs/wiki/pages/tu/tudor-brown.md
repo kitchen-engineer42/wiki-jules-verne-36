@@ -9,7 +9,7 @@ book: 'The Waif of the Cynthia'
 affiliation:
 first_appearance: WC-010
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Tudor Brown
 

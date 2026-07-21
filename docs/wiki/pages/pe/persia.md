@@ -12,7 +12,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Western Asia
 description: 'The storied land skirted by the Grand Transasiatic Railway in The Adventures of a Special Correspondent, and the source of the imperial treasure sent from the Shah of Persia to China.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

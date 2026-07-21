@@ -8,7 +8,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: South Atlantic Ocean
 description: 'A sub-Antarctic island of the South Atlantic, a southern waypoint in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

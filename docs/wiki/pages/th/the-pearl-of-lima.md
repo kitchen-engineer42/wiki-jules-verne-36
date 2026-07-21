@@ -8,7 +8,7 @@ description: 'A Jules Verne novella of Lima in which an Indian mountaineer loves
 vvv: PL
 chapter_count: 9
 genre: novella
-quality: featured
+quality: standard
 ---
 ## Overview
 

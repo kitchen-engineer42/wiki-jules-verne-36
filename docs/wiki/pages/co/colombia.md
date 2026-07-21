@@ -12,7 +12,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: South America
 description: 'The northern South American republic that disputes the Amazon''s paternity in Eight Hundred Leagues on the Amazon, its coasts and caverns recurring across Verne''s works.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

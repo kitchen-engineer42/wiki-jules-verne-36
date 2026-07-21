@@ -8,6 +8,7 @@ description: 'A Jules Verne fantasy novella in which an aged Geneva clockmaker, 
 vvv: MZ
 chapter_count: 5
 genre: novella
+quality: standard
 ---
 ## Overview
 

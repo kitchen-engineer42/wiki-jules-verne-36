@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South Australia
 description: 'The capital of South Australia, a chief town and port on the castaways'' overland crossing of the continent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

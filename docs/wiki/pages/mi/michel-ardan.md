@@ -9,7 +9,7 @@ book: From the Earth to the Moon
 affiliation:
 first_appearance: FEM-018
 role: supporting
-quality: featured
+quality: standard
 ---
 # Michel Ardan
 

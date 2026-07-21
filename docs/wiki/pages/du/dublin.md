@@ -8,8 +8,8 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Ireland
 description: The Irish capital, a relay on the transatlantic mail route where Fogg's party raced from Queenstown toward Liverpool.
+quality: standard
 ---
-
 ## Overview
 
 Dublin is the Irish capital and a link in the swiftest mail route across the Atlantic. Mails landed at Queenstown are carried to Dublin by express trains always held in readiness, and from Dublin sent on to [[Liverpool]] by the most rapid boats, gaining twelve hours on the Atlantic steamers. (AWED-033-060)

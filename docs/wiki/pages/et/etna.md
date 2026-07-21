@@ -8,7 +8,7 @@ book: Off on a Comet
 real_or_fictional: real
 region: Mediterranean
 description: The great volcano of Sicily, fiery landmark of Verne's Mediterranean and his recurring measure of eruptive power.
-quality: featured
+quality: standard
 ---
 ## Overview
 

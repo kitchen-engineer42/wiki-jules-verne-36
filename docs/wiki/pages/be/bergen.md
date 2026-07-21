@@ -12,7 +12,7 @@ book: Ticket No. 9672
 real_or_fictional: real
 region: Norway
 description: 'The Norwegian west-coast port and fishing home of Ole Kamp, whose ship the Viking sails from it in Ticket No. 9672.'
-quality: featured
+quality: standard
 ---
 # Bergen
 

@@ -14,7 +14,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: South America
 description: 'South American desert between the Andes and the Pacific that Harris falsely claims as the castaways'' route in Dick Sand: A Captain at Fifteen.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [event, adventure, catastrophe, aeronautics]
 book: Master of the World
 location: Gulf of Mexico
 pn_anchor: MW-017
-quality: featured
+quality: standard
 ---
 # The Destruction of the Terror
 

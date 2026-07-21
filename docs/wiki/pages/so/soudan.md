@@ -8,7 +8,7 @@ book: 'Five Weeks in a Balloon'
 real_or_fictional: real
 region: Africa
 description: 'Historic region of central Africa crossed by the balloon Victoria and a recurring frontier of Vernean exploration.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

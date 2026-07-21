@@ -9,7 +9,7 @@ book: The Waif of the Cynthia
 affiliation:
 first_appearance: WC-001
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Erik
 

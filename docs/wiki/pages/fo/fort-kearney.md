@@ -11,7 +11,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: North America (Nebraska)
 description: 'The real Nebraska railroad garrison where Fogg''s train halts after a Sioux attack, and from which he sets out to rescue Passepartout.'
-quality: featured
+quality: standard
 ---
 # Fort Kearney
 

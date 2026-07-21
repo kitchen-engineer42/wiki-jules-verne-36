@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: fictional
 region: Arctic (Victoria Island)
 description: 'The lake on the drifting Victoria Island, named for Mrs Barnett, whose fate mirrors the doomed colony in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Lake Barnett
 

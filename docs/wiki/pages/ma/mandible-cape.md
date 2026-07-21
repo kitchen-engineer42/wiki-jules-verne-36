@@ -12,7 +12,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: Pacific (Lincoln Island)
 description: 'The twin fictional capes, North and South Mandible, that frame the northern jaw of Lincoln Island''s Union Bay in The Mysterious Island.'
-quality: featured
+quality: standard
 ---
 # Mandible Cape
 

@@ -8,7 +8,7 @@ book: The Master of the World
 real_or_fictional: real
 region: North America (Great Lakes)
 description: 'Lowest of the Great Lakes, into which the Niagara empties Lake Erie, recurring across Verne''s American scenes.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

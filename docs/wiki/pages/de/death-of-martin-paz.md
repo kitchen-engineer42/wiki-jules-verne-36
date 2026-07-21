@@ -7,7 +7,7 @@ tags: [event, death, rescue, tragedy]
 book: The Pearl of Lima
 location: Cataracts of the Madeira
 pn_anchor: PL-009
-quality: featured
+quality: standard
 ---
 # The Death of Martin Paz
 

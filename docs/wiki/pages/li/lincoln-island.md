@@ -8,7 +8,7 @@ description: 'The volcanic Pacific island where the balloon castaways settle and
 book: The Mysterious Island
 real_or_fictional: fictional
 region: South Pacific
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: The Mysterious Island
 real_or_fictional: fictional
 region: South Pacific Ocean
 description: 'A small desert island in the South Pacific where the outlaw Ayrton was marooned, discovered by the Lincoln Island colonists.'
-quality: featured
+quality: standard
 ---
 # Tabor Island
 

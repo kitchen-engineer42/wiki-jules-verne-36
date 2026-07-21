@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Baffin Bay)
 description: 'The real Arctic bay off Baffin''s Sea toward which Hatteras first orders the Forward, the gateway to the far northern channels.'
-quality: featured
+quality: standard
 ---
 # Melville Bay
 

@@ -7,7 +7,7 @@ tags: [event, artillery, geoengineering, africa]
 book: Topsy-Turvy
 location: Kilimanjaro
 pn_anchor: TT-018
-quality: featured
+quality: standard
 ---
 # The Firing of the Kilimanjaro Cannon
 

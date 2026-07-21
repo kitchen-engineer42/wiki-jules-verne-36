@@ -8,8 +8,8 @@ book: 'Five Weeks in a Balloon'
 real_or_fictional: real
 region: Africa
 description: 'West African coastal region and the Gulf that bears its name, a landmark of Vernean African exploration.'
+quality: standard
 ---
-
 ## Overview
 
 Guinea is the West African coastal region, together with the Gulf of Guinea that bears its name, and it serves in the Vernean corpus as a landmark of African exploration. In *Five Weeks in a Balloon* the Gulf of Guinea marks a point of reference for Dr. Ferguson's aerial voyage, while its coasts fringe the wilderness he must cross.

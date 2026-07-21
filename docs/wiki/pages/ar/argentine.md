@@ -13,7 +13,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: South America
 description: 'The South American republic whose plains and Pampas the searchers cross on the thirty-seventh parallel in In Search of the Castaways, from the Cordilleras down to the Atlantic.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

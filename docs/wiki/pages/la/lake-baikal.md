@@ -12,7 +12,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Asia (Siberia)
 description: 'The great Siberian lake Michael Strogoff must skirt on his race to Irkutsk, stormy and freezing as winter closes in.'
-quality: featured
+quality: standard
 ---
 # Lake Baikal
 

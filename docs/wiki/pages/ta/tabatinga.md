@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Amazonas (Brazil)
 description: 'The first Brazilian town on the Amazon at the Peruvian frontier, a frontier post reached by the jangada in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

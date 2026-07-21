@@ -8,7 +8,7 @@ description: 'The weed-choked Atlantic region the Nautilus crosses in Twenty Tho
 book: Twenty Thousand Leagues Under the Seas
 real_or_fictional: real
 region: North Atlantic
-quality: featured
+quality: standard
 ---
 > **Note:** citations to this page use the 4-character work code `TTLU`; inline `(TTLU-...)` PNs render as plain text pending the pn-citation width fix, but the underlying PN data is valid.
 

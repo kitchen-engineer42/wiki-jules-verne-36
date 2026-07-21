@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: France
 description: The great French silk-city whose looms are a byword for quality and whose fabric forms the very skin of Verne's balloons.
-quality: featured
+quality: standard
 ---
 ## Overview
 

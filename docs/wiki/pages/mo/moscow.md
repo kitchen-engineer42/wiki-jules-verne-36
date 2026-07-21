@@ -12,7 +12,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia
 description: 'The old Russian capital where Michael Strogoff opens, the Kremlin city from which the Czar''s courier sets out on his three-thousand-mile race to Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

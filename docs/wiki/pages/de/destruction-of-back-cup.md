@@ -7,7 +7,7 @@ tags: [event, war, naval, explosion]
 book: Facing the Flag
 location: 'Back Cup, Bermuda archipelago'
 pn_anchor: FF-018
-quality: featured
+quality: standard
 ---
 # The Destruction of Back Cup
 

@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Transcaucasia
 description: The Transcaucasian city of Georgia, junction of three railways and the starting point of the reporter's journey across Asia.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -11,7 +11,7 @@ book: The Fur Country
 real_or_fictional: real
 region: Great Slave Lake, Arctic Canada
 description: 'The Hudson''s Bay Company fort on Great Slave Lake from which Lieutenant Hobson''s expedition sets out in The Fur Country.'
-quality: featured
+quality: standard
 ---
 # Fort Reliance
 

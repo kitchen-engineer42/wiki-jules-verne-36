@@ -7,7 +7,7 @@ tags: [event, attack, railway, banditry]
 book: The Adventures of a Special Correspondent
 location: Gobi Desert
 pn_anchor: ASC-020
-quality: featured
+quality: standard
 ---
 # Ki-Tsang's Attack on the Grand Transasiatic
 

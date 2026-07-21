@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Transcaucasia
 description: The Caspian oil-port of the Guebres, eastern terminus of the Transcaucasian railway where the reporter embarks across Asia.
-quality: featured
+quality: standard
 ---
 ## Overview
 

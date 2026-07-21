@@ -7,7 +7,7 @@ tags: [event, recognition, arctic, 1880s]
 book: 'The Waif of the Cynthia'
 location: 'Stockholm, Sweden'
 pn_anchor: WC-021
-quality: featured
+quality: standard
 ---
 # The Recognition of Erik
 

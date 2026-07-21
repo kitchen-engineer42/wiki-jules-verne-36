@@ -11,7 +11,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Victoria, Australia
 description: 'The flood-swollen Australian river that bars the searchers'' final approach to Twofold Bay in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 # Snowy River
 

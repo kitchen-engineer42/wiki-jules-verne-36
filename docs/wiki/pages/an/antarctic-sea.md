@@ -13,7 +13,7 @@ book: An Antarctic Mystery
 real_or_fictional: real
 region: Antarctic / Southern Ocean
 description: 'The ice-strewn southern ocean into which the schooner Halbrane sails on her polar quest in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 # Antarctic Sea
 

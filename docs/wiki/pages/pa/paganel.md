@@ -9,7 +9,7 @@ book: In Search of the Castaways
 affiliation: Geographical Society of Paris
 first_appearance: SC-006
 role: supporting
-quality: featured
+quality: standard
 ---
 # Paganel
 

@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: Argentina
 description: 'A river and salt-lake district of the Argentine Pampas, near the Sierra Ventana, sought for water by the expedition in In Search of the Castaways.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

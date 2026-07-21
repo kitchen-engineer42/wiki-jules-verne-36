@@ -11,7 +11,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia (Russia)
 description: 'The Western Siberian city and military centre that is Michael Strogoff''s home town and an early goal of his journey.'
-quality: featured
+quality: standard
 ---
 # Omsk
 

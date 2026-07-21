@@ -11,7 +11,7 @@ book: The Master of the World
 real_or_fictional: real
 region: North America (Great Lakes)
 description: 'The real Great Lake from whose depths Robur''s machine the Terror rises in The Master of the World, pursued across its waters by the narrator Strock.'
-quality: featured
+quality: standard
 ---
 # Lake Erie
 

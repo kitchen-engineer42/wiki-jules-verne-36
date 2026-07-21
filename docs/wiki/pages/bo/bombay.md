@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India
 description: 'Indian port where Phileas Fogg lands and boards the railway across the subcontinent.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

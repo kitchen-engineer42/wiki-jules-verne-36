@@ -8,7 +8,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic
 description: 'The high-Arctic archipelago north of Norway, a gateway and waymark for Verne''s polar expeditions.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

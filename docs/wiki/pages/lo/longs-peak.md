@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: Rocky Mountains, United States
 description: 'A summit of the Rocky Mountains where the Gun Club raised its gigantic reflecting telescope to track the lunar projectile.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

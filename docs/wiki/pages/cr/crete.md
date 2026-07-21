@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Mediterranean
 description: The great Mediterranean island, also called Candia, in rebellion against the Ottoman Empire as the Nautilus passed its waters.
-quality: featured
+quality: standard
 ---
 ## Overview
 

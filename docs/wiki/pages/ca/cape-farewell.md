@@ -11,7 +11,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: real
 region: Arctic (Greenland)
 description: 'The real southern cape of Greenland, the Forward''s first great landmark on its secret course toward the Pole.'
-quality: featured
+quality: standard
 ---
 # Cape Farewell
 

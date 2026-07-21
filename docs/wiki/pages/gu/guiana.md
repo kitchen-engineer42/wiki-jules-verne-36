@@ -8,7 +8,7 @@ book: The Survivors of the Chancellor
 real_or_fictional: real
 region: South America
 description: The northern coast of South America, split into French and Dutch Guiana, a longed-for shore for Verne's castaways.
-quality: featured
+quality: standard
 ---
 ## Overview
 

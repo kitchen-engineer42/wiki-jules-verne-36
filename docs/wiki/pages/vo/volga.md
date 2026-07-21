@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia
 description: 'Great Russian river Michael Strogoff follows and crosses at Nijni-Novgorod at the outset of his ride to Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

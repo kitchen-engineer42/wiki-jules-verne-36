@@ -11,7 +11,7 @@ book: Doctor Ox's Experiment
 real_or_fictional: fictional
 region: Flanders
 description: 'A tiny, phlegmatic Flemish town, absent from every map, where Doctor Ox conducts his gas experiment.'
-quality: featured
+quality: standard
 ---
 # Quiquendone
 

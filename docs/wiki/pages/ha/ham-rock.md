@@ -11,7 +11,7 @@ book: The Survivors of the Chancellor
 real_or_fictional: fictional
 region: Atlantic Ocean
 description: 'The isolated reef, named by the castaways of the Chancellor, on which the burning ship grounds before they take to the raft in The Survivors of the Chancellor.'
-quality: featured
+quality: standard
 ---
 # Ham Rock
 

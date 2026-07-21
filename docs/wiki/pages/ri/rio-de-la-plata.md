@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: South America
 description: The wide South American estuary of the River Plate, giving its name to the provinces of La Plata, passed by the Nautilus off Uruguay.
-quality: featured
+quality: standard
 ---
 ## Overview
 

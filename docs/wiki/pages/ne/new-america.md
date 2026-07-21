@@ -8,7 +8,7 @@ book: The Adventures of Captain Hatteras
 real_or_fictional: fictional
 region: Arctic
 description: 'The unknown polar land discovered by the travellers, named New America by the American Altamont.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

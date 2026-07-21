@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: India
 description: 'The great southern Indian city and seat of a British governor, a cornerstone of the East India Company''s dominion.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

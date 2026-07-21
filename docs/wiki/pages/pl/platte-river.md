@@ -12,7 +12,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: United States (Nebraska)
 description: 'The Nebraska river whose valley the Pacific Railroad follows across the plains in Around the World in Eighty Days.'
-quality: featured
+quality: standard
 ---
 # Platte River
 

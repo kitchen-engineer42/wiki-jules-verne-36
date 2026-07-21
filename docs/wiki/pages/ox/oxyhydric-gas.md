@@ -8,7 +8,7 @@ description: 'The illuminating gas Doctor Ox uses as cover for his physiological
 book: Doctor Ox's Experiment
 inventor: Doctor Ox
 category: concept
-quality: featured
+quality: standard
 ---
 # oxyhydric gas
 

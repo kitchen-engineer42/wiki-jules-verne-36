@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Russia (Siberia)
 description: 'The vast Asiatic Russian land across which Michael Strogoff carries the Tsar''s message from Moscow to Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

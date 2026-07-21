@@ -8,7 +8,7 @@ book: In Search of the Castaways
 real_or_fictional: real
 region: New Zealand
 description: 'New Zealand port on the 37th parallel toward which the Macquarie sails, keeping the searchers on Captain Grant''s latitude.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

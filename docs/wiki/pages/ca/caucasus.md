@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Transcaucasia
 description: The mountain barrier between European Russia and Transcaucasia, crossed by Verne's couriers and correspondents.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: The Survivors of the Chancellor
 affiliation:
 first_appearance: SC2-002
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Robert Curtis
 

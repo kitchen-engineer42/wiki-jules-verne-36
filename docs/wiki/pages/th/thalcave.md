@@ -9,7 +9,7 @@ book: In Search of the Castaways
 affiliation:
 first_appearance: SC-015
 role: supporting
-quality: featured
+quality: standard
 ---
 # Thalcave
 

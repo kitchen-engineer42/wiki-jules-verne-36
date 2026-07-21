@@ -7,7 +7,7 @@ tags: [event, mystery, cryptography, justice]
 book: Eight Hundred Leagues on the Amazon
 location: Manaos
 pn_anchor: EHLA-027
-quality: featured
+quality: standard
 ---
 # The Amazon Cryptogram
 

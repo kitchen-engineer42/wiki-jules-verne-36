@@ -8,7 +8,7 @@ description: 'The marine compass aboard the Pilgrim, whose sabotage by Negoro se
 book: 'Dick Sand: A Captain at Fifteen'
 inventor: ''
 category: instrument
-quality: featured
+quality: standard
 ---
 # Ship's Compass
 

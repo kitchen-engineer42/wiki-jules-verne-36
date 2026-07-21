@@ -9,7 +9,7 @@ book: 'The Adventures of a Special Correspondent'
 affiliation:
 first_appearance: ASC-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Ephrinell
 

@@ -12,7 +12,7 @@ book: Robur the Conqueror
 real_or_fictional: real
 region: South Pacific (New Zealand)
 description: 'The remote South Pacific island group where the Albatross anchors and its captive passengers attempt escape in Robur the Conqueror.'
-quality: featured
+quality: standard
 ---
 # Chatham Islands
 

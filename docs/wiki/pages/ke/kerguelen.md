@@ -8,7 +8,7 @@ book: 'An Antarctic Mystery'
 real_or_fictional: real
 region: Southern Indian Ocean
 description: 'The desolate southern island group where the narrator joins the Halbrane in An Antarctic Mystery.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

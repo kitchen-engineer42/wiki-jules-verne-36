@@ -12,7 +12,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Western Asia
 description: 'The Ottoman realm that recurs across Verne''s voyages, from the Nautilus off rebellious Crete to the inquiry into the great sea-monster.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

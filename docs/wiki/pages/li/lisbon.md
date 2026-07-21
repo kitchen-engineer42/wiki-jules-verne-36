@@ -8,7 +8,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Portugal
 description: The Portuguese capital and Atlantic port, seat of a colonial government implicated in Verne's tale of the slave trade.
-quality: featured
+quality: standard
 ---
 ## Overview
 

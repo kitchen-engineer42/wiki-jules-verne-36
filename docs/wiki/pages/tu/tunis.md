@@ -8,7 +8,7 @@ book: 'Off on a Comet'
 real_or_fictional: real
 region: North Africa
 description: 'City and region of the North African coast; its bay is carried off by the comet Gallia in Off on a Comet.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

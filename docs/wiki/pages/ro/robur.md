@@ -9,7 +9,7 @@ book: Robur the Conqueror
 affiliation:
 first_appearance: RC-003
 role: antagonist
-quality: featured
+quality: standard
 ---
 # Robur
 

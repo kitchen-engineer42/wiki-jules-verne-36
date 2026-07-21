@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'Great West Siberian river Michael Strogoff must cross near Kolyvan on his road to Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

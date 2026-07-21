@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: England
 description: 'The London street in Burlington Gardens where the methodical Phileas Fogg kept his house at No. 7, the starting point of his wager journey around the world.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

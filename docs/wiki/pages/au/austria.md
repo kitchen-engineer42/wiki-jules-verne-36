@@ -8,7 +8,7 @@ book: Twenty Thousand Leagues Under the Sea
 real_or_fictional: real
 region: Central Europe
 description: The Central European empire, a great power in the diplomacy and history that shape Verne's world.
-quality: featured
+quality: standard
 ---
 ## Overview
 

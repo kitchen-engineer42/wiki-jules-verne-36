@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Eastern Siberia
 description: 'Eastern Siberian town on the Yenisei where Michael Strogoff hopes to find fresh transport for Irkutsk.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

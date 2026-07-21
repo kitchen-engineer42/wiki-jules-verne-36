@@ -8,7 +8,7 @@ description: 'An Arctic earthquake severs the Cape Bathurst peninsula from the m
 book: The Fur Country
 location: Victoria Island
 pn_anchor: FC-024
-quality: featured
+quality: standard
 ---
 # The Drifting Ice-Island
 

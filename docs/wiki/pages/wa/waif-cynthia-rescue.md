@@ -7,7 +7,7 @@ tags: [event, rescue, shipwreck, foundling]
 book: The Waif of the Cynthia
 location: Noroe
 pn_anchor: WC-002
-quality: featured
+quality: standard
 ---
 # The Rescue of the Waif of the Cynthia
 

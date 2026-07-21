@@ -8,7 +8,7 @@ description: 'A Jules Verne novel set in the Scottish coal mines, in which the d
 vvv: UC
 chapter_count: 19
 genre: novel
-quality: featured
+quality: standard
 ---
 ## Overview
 

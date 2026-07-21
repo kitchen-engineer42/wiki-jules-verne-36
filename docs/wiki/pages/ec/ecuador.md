@@ -12,7 +12,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: South America
 description: 'The equatorial South American republic whose frontier the Amazon defines in Eight Hundred Leagues on the Amazon, one of the rival claimants to the great river''s source.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

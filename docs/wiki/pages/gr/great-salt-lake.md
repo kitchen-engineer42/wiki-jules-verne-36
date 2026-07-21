@@ -12,7 +12,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: North America (Utah)
 description: 'The real Utah salt lake and Mormon country the Pacific Railroad skirts as Phileas Fogg crosses America.'
-quality: featured
+quality: standard
 ---
 # Great Salt Lake
 

@@ -8,7 +8,7 @@ book: Five Weeks in a Balloon
 real_or_fictional: real
 region: East Africa
 description: 'A station on the Nile between the fourth and fifth parallels of north latitude, the northern limit of river exploration in Five Weeks in a Balloon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

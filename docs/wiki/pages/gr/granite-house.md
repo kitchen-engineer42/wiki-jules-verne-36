@@ -8,7 +8,7 @@ description: 'The cliff-cavern dwelling that the castaways make their home in Th
 book: The Mysterious Island
 real_or_fictional: fictional
 region: South Pacific
-quality: featured
+quality: standard
 ---
 ## Overview
 

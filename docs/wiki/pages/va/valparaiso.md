@@ -12,7 +12,7 @@ book: 'Dick Sand: A Captain at Fifteen'
 real_or_fictional: real
 region: Chile (Pacific coast)
 description: 'The Chilean port that is the Pilgrim''s intended destination in Dick Sand: A Captain at Fifteen, the landfall the castaways never reach.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

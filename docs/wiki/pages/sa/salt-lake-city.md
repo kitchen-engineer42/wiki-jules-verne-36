@@ -8,7 +8,7 @@ book: Around the World in Eighty Days
 real_or_fictional: real
 region: Utah
 description: 'The Mormon capital of Utah beside the Great Salt Lake, a striking waymark on the transcontinental railway.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

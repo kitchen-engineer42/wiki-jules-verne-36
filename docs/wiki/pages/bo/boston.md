@@ -8,7 +8,7 @@ book: Master of the World
 real_or_fictional: real
 region: United States
 description: 'The New England seaport off which a mysterious craft is sighted in Master of the World, and home city of several of Verne''s American characters.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

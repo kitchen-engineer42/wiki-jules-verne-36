@@ -9,7 +9,7 @@ book: 'The Fur Country'
 affiliation:
 first_appearance: FC-019
 role: supporting
-quality: featured
+quality: standard
 ---
 # Kalumah
 

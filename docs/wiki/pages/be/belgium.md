@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: Western Europe
 description: The small but generous Western European kingdom, a land of grottoes and railways threaded through Verne's Continental journeys.
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -8,7 +8,7 @@ book: From the Earth to the Moon
 real_or_fictional: real
 region: North America
 description: The transcontinental North American republic, home of the Gun Club and a recurring stage for Vernean voyages.
-quality: featured
+quality: standard
 ---
 ## Overview
 

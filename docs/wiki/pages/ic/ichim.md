@@ -8,7 +8,7 @@ book: Michael Strogoff
 real_or_fictional: real
 region: Western Siberia
 description: 'A Western Siberian post-town on the road from Ekaterenburg to Irkutsk, a waypoint for the couriers and correspondents in Michael Strogoff.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ book: Twenty Thousand Leagues Under the Seas
 affiliation:
 first_appearance: TTLU-003
 role: supporting
-quality: featured
+quality: standard
 ---
 # Conseil
 

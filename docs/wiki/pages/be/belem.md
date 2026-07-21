@@ -8,7 +8,7 @@ book: Eight Hundred Leagues on the Amazon
 real_or_fictional: real
 region: Pará (Brazil)
 description: 'The Brazilian city at the mouth of the Amazon, terminus of the jangada voyage in Eight Hundred Leagues on the Amazon.'
-quality: featured
+quality: standard
 ---
 ## Overview
 

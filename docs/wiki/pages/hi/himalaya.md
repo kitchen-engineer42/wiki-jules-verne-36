@@ -8,7 +8,7 @@ book: The Adventures of a Special Correspondent
 real_or_fictional: real
 region: Asia
 description: The mightiest mountain range on earth, radiating from the Pamir and crowned by the highest summits on the face of the globe.
-quality: featured
+quality: standard
 ---
 ## Overview
 

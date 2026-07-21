@@ -9,7 +9,7 @@ book: Michael Strogoff
 affiliation: "Corps of the Czar's Couriers"
 first_appearance: MS-004
 role: protagonist
-quality: featured
+quality: standard
 ---
 # Michel Strogoff
 

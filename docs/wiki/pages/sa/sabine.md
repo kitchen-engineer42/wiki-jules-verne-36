@@ -9,7 +9,7 @@ book: 'The Fur Country'
 affiliation:
 first_appearance: FC-006
 role: supporting
-quality: featured
+quality: standard
 ---
 # Sabine
 

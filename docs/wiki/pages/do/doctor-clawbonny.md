@@ -9,7 +9,7 @@ book: 'The Adventures of Captain Hatteras'
 affiliation:
 first_appearance: ACH-002
 role: supporting
-quality: featured
+quality: standard
 ---
 # Doctor Clawbonny
 
