@@ -7409,7 +7409,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 1
+      "total_refs": 2
     },
     "douchak": {
       "type": "place",
@@ -33412,6 +33412,27 @@
       "book": "Dick Sand: A Captain at Fifteen",
       "total_refs": 0
     },
+    "van-tricasse": {
+      "type": "character",
+      "label": "Van Tricasse",
+      "aliases": [],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "va/van-tricasse.md",
+      "description": "The imperturbably phlegmatic burgomaster of the sleepy Flemish town of Quiquendone, whose lifelong refusal to decide anything is overturned when Doctor Ox floods the town with oxygen.",
+      "prose_len": 3010,
+      "prose_chars": 2872,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "featured",
+      "quality_score": 80,
+      "book": "Doctor Ox's Experiment",
+      "total_refs": 0
+    },
     "vancouver-island": {
       "type": "place",
       "label": "Vancouver Island",
@@ -37497,6 +37518,8 @@
     "Uzun Ada": "uzun-ada",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
+    "van-tricasse": "van-tricasse",
+    "Van Tricasse": "van-tricasse",
     "vancouver-island": "vancouver-island",
     "Vancouver Island": "vancouver-island",
     "vanikoro": "vanikoro",
@@ -37613,6 +37636,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1635,
-  "generated": "2026-07-21T06:18:19Z"
+  "page_count": 1636,
+  "generated": "2026-07-21T07:06:46Z"
 }

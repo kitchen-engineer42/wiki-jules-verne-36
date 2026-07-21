@@ -10015,6 +10015,12 @@
       "aliases": [],
       "path": "va/valparaiso.md"
     },
+    "van-tricasse": {
+      "type": "character",
+      "label": "Van Tricasse",
+      "aliases": [],
+      "path": "va/van-tricasse.md"
+    },
     "vancouver-island": {
       "type": "place",
       "label": "Vancouver Island",
@@ -13036,6 +13042,8 @@
     "Uzun Ada": "uzun-ada",
     "valparaiso": "valparaiso",
     "Valparaiso": "valparaiso",
+    "van-tricasse": "van-tricasse",
+    "Van Tricasse": "van-tricasse",
     "vancouver-island": "vancouver-island",
     "Vancouver Island": "vancouver-island",
     "vanikoro": "vanikoro",
@@ -13152,6 +13160,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1635,
-  "generated": "2026-07-21T06:18:19Z"
+  "page_count": 1636,
+  "generated": "2026-07-21T07:06:46Z"
 }
