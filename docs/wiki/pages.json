@@ -7463,7 +7463,7 @@
       "quality": "standard",
       "quality_score": 45,
       "book": "Doctor Ox's Experiment",
-      "total_refs": 1
+      "total_refs": 2
     },
     "doctor-oxs-experiment": {
       "type": "work",
@@ -7490,7 +7490,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 48,
-      "total_refs": 3
+      "total_refs": 4
     },
     "douchak": {
       "type": "place",
@@ -21461,6 +21461,27 @@
       "book": "Michael Strogoff",
       "total_refs": 3
     },
+    "niklausse": {
+      "type": "character",
+      "label": "Niklausse",
+      "aliases": [],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "ni/niklausse.md",
+      "description": "The phlegmatic commune counsellor of Quiquendone and lifelong mirror of the burgomaster Van Tricasse, whose glacial indecision — and, under Doctor Ox's oxygen, sudden belligerence — embodies the sleepy town.",
+      "prose_len": 2692,
+      "prose_chars": 2557,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 46,
+      "book": "Doctor Ox's Experiment",
+      "total_refs": 0
+    },
     "nile": {
       "type": "place",
       "label": "Nile",
@@ -33590,7 +33611,7 @@
       "quality": "standard",
       "quality_score": 50,
       "book": "Doctor Ox's Experiment",
-      "total_refs": 1
+      "total_refs": 2
     },
     "vancouver-island": {
       "type": "place",
@@ -36770,6 +36791,8 @@
     "Niagara River": "niagara-river",
     "nijni-novgorod": "nijni-novgorod",
     "Nijni-Novgorod": "nijni-novgorod",
+    "niklausse": "niklausse",
+    "Niklausse": "niklausse",
     "nile": "nile",
     "Nile": "nile",
     "nitroglycerine": "nitroglycerine",
@@ -37811,6 +37834,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1641,
-  "generated": "2026-07-22T07:33:55Z"
+  "page_count": 1642,
+  "generated": "2026-07-22T07:44:48Z"
 }

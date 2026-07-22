@@ -6416,6 +6416,12 @@
       "aliases": [],
       "path": "ni/nijni-novgorod.md"
     },
+    "niklausse": {
+      "type": "character",
+      "label": "Niklausse",
+      "aliases": [],
+      "path": "ni/niklausse.md"
+    },
     "nile": {
       "type": "place",
       "label": "Nile",
@@ -12165,6 +12171,8 @@
     "Niagara River": "niagara-river",
     "nijni-novgorod": "nijni-novgorod",
     "Nijni-Novgorod": "nijni-novgorod",
+    "niklausse": "niklausse",
+    "Niklausse": "niklausse",
     "nile": "nile",
     "Nile": "nile",
     "nitroglycerine": "nitroglycerine",
@@ -13206,6 +13214,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1641,
-  "generated": "2026-07-22T07:33:54Z"
+  "page_count": 1642,
+  "generated": "2026-07-22T07:44:46Z"
 }
