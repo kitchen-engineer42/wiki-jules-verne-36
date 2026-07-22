@@ -715,6 +715,14 @@
       ],
       "path": "an/andes.md"
     },
+    "andre-letourneur": {
+      "type": "character",
+      "label": "André Letourneur",
+      "aliases": [
+        "Andre"
+      ],
+      "path": "an/andre-letourneur.md"
+    },
     "angola": {
       "type": "place",
       "label": "Angola",
@@ -10661,6 +10669,9 @@
     "Andes": "andes",
     "the Andes": "andes",
     "Cordilleras": "andes",
+    "andre-letourneur": "andre-letourneur",
+    "André Letourneur": "andre-letourneur",
+    "Andre": "andre-letourneur",
     "angola": "angola",
     "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
@@ -13195,6 +13206,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1640,
-  "generated": "2026-07-22T07:16:32Z"
+  "page_count": 1641,
+  "generated": "2026-07-22T07:33:54Z"
 }

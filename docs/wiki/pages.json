@@ -2348,6 +2348,30 @@
       "book": "In Search of the Castaways",
       "total_refs": 3
     },
+    "andre-letourneur": {
+      "type": "character",
+      "label": "André Letourneur",
+      "aliases": [
+        "Andre"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "voyage"
+      ],
+      "path": "an/andre-letourneur.md",
+      "description": "The gentle, lame young son of the devoted passenger M. Letourneur, who bears the burning and wreck of the Chancellor with courage and becomes, with Miss Herbey, part of the raft's small circle of kindness.",
+      "prose_len": 2434,
+      "prose_chars": 2292,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
+    },
     "angola": {
       "type": "place",
       "label": "Angola",
@@ -19420,7 +19444,7 @@
       "quality": "standard",
       "quality_score": 48,
       "book": "The Survivors of the Chancellor",
-      "total_refs": 0
+      "total_refs": 1
     },
     "missionary-rescue": {
       "type": "event",
@@ -25331,7 +25355,7 @@
       "quality": "standard",
       "quality_score": 54,
       "book": "The Survivors of the Chancellor",
-      "total_refs": 1
+      "total_refs": 2
     },
     "robert-grant": {
       "type": "character",
@@ -29798,7 +29822,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 7
+      "total_refs": 8
     },
     "sweden": {
       "type": "place",
@@ -35250,6 +35274,9 @@
     "Andes": "andes",
     "the Andes": "andes",
     "Cordilleras": "andes",
+    "andre-letourneur": "andre-letourneur",
+    "André Letourneur": "andre-letourneur",
+    "Andre": "andre-letourneur",
     "angola": "angola",
     "Angola": "angola",
     "antarctic-sea": "antarctic-sea",
@@ -37784,6 +37811,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1640,
-  "generated": "2026-07-22T07:16:34Z"
+  "page_count": 1641,
+  "generated": "2026-07-22T07:33:55Z"
 }
