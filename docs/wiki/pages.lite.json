@@ -5800,6 +5800,12 @@
       ],
       "path": "mi/michel-strogoff.md"
     },
+    "miss-herbey": {
+      "type": "character",
+      "label": "Miss Herbey",
+      "aliases": [],
+      "path": "mi/miss-herbey.md"
+    },
     "missionary-rescue": {
       "type": "event",
       "label": "The Missionary's Rescue",
@@ -11988,6 +11994,8 @@
     "michel-strogoff": "michel-strogoff",
     "Michel Strogoff": "michel-strogoff",
     "Nicholas Korpanoff": "michel-strogoff",
+    "miss-herbey": "miss-herbey",
+    "Miss Herbey": "miss-herbey",
     "missionary-rescue": "missionary-rescue",
     "The Missionary's Rescue": "missionary-rescue",
     "The Rescue of the French Missionary": "missionary-rescue",
@@ -13176,6 +13184,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1638,
-  "generated": "2026-07-22T02:30:57Z"
+  "page_count": 1639,
+  "generated": "2026-07-22T02:58:46Z"
 }

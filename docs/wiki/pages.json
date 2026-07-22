@@ -19376,6 +19376,28 @@
       "book": "Michael Strogoff",
       "total_refs": 7
     },
+    "miss-herbey": {
+      "type": "character",
+      "label": "Miss Herbey",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "voyage"
+      ],
+      "path": "mi/miss-herbey.md",
+      "description": "The young English lady and paid companion to the selfish Mrs Kear who becomes the calm, self-denying moral centre of the Chancellor's raft survivors through fire, thirst, and famine.",
+      "prose_len": 2853,
+      "prose_chars": 2716,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 48,
+      "book": "The Survivors of the Chancellor",
+      "total_refs": 0
+    },
     "missionary-rescue": {
       "type": "event",
       "label": "The Missionary's Rescue",
@@ -25285,7 +25307,7 @@
       "quality": "standard",
       "quality_score": 54,
       "book": "The Survivors of the Chancellor",
-      "total_refs": 0
+      "total_refs": 1
     },
     "robert-grant": {
       "type": "character",
@@ -29752,7 +29774,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 6
+      "total_refs": 7
     },
     "sweden": {
       "type": "place",
@@ -36545,6 +36567,8 @@
     "michel-strogoff": "michel-strogoff",
     "Michel Strogoff": "michel-strogoff",
     "Nicholas Korpanoff": "michel-strogoff",
+    "miss-herbey": "miss-herbey",
+    "Miss Herbey": "miss-herbey",
     "missionary-rescue": "missionary-rescue",
     "The Missionary's Rescue": "missionary-rescue",
     "The Rescue of the French Missionary": "missionary-rescue",
@@ -37733,6 +37757,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1638,
-  "generated": "2026-07-22T02:30:59Z"
+  "page_count": 1639,
+  "generated": "2026-07-22T02:58:47Z"
 }
