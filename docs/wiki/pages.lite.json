@@ -2215,6 +2215,12 @@
       "aliases": [],
       "path": "do/doctor-clawbonny.md"
     },
+    "doctor-ox": {
+      "type": "character",
+      "label": "Doctor Ox",
+      "aliases": [],
+      "path": "do/doctor-ox.md"
+    },
     "doctor-oxs-experiment": {
       "type": "work",
       "label": "Doctor Ox's Experiment",
@@ -11078,6 +11084,8 @@
     "DOSE-ch17": "DOSE-ch17",
     "doctor-clawbonny": "doctor-clawbonny",
     "Doctor Clawbonny": "doctor-clawbonny",
+    "doctor-ox": "doctor-ox",
+    "Doctor Ox": "doctor-ox",
     "doctor-oxs-experiment": "doctor-oxs-experiment",
     "Doctor Ox's Experiment": "doctor-oxs-experiment",
     "Une fantaisie du Docteur Ox": "doctor-oxs-experiment",
@@ -13168,6 +13176,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1637,
-  "generated": "2026-07-21T10:17:44Z"
+  "page_count": 1638,
+  "generated": "2026-07-22T02:30:57Z"
 }
