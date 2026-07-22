@@ -4516,6 +4516,30 @@
       "book": "Around the World in Eighty Days",
       "total_refs": 1
     },
+    "benito-garral": {
+      "type": "character",
+      "label": "Benito Garral",
+      "aliases": [
+        "Benito"
+      ],
+      "tags": [
+        "character",
+        "adventure",
+        "voyage"
+      ],
+      "path": "be/benito-garral.md",
+      "description": "The spirited young hunter and son of Joam Garral who, when the scoundrel Torres denounces his father, kills Torres in a duel and then leads the river-search to recover the document that proves his father's innocence.",
+      "prose_len": 2420,
+      "prose_chars": 2277,
+      "h2_count": 5,
+      "pn_count": 18,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "bennet-islet": {
       "type": "place",
       "label": "Bennet Islet",
@@ -9260,7 +9284,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 20
+      "total_refs": 21
     },
     "eighty-day-wager": {
       "type": "event",
@@ -16110,7 +16134,7 @@
       "quality": "standard",
       "quality_score": 55,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "joe": {
       "type": "character",
@@ -31386,7 +31410,7 @@
       "quality": "standard",
       "quality_score": 51,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tripoli": {
       "type": "place",
@@ -35389,6 +35413,9 @@
     "Ben Zoof": "ben-zoof",
     "benares": "benares",
     "Benares": "benares",
+    "benito-garral": "benito-garral",
+    "Benito Garral": "benito-garral",
+    "Benito": "benito-garral",
     "bennet-islet": "bennet-islet",
     "Bennet Islet": "bennet-islet",
     "Bennet Island": "bennet-islet",
@@ -37757,6 +37784,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1639,
-  "generated": "2026-07-22T02:58:47Z"
+  "page_count": 1640,
+  "generated": "2026-07-22T07:16:34Z"
 }

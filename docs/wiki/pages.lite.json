@@ -1363,6 +1363,14 @@
       "aliases": [],
       "path": "be/benares.md"
     },
+    "benito-garral": {
+      "type": "character",
+      "label": "Benito Garral",
+      "aliases": [
+        "Benito"
+      ],
+      "path": "be/benito-garral.md"
+    },
     "bennet-islet": {
       "type": "place",
       "label": "Bennet Islet",
@@ -10816,6 +10824,9 @@
     "Ben Zoof": "ben-zoof",
     "benares": "benares",
     "Benares": "benares",
+    "benito-garral": "benito-garral",
+    "Benito Garral": "benito-garral",
+    "Benito": "benito-garral",
     "bennet-islet": "bennet-islet",
     "Bennet Islet": "bennet-islet",
     "Bennet Island": "bennet-islet",
@@ -13184,6 +13195,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1639,
-  "generated": "2026-07-22T02:58:46Z"
+  "page_count": 1640,
+  "generated": "2026-07-22T07:16:32Z"
 }
