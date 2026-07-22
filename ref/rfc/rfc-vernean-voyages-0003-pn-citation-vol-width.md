@@ -1,8 +1,11 @@
 # RFC-vernean-voyages-0003: Widen VVV segment regex to `{1,4}` in pn-citation (and sibling components)
 
-- **Status**: proposed (filed — un-parked 2026-07-21 after maintainer reported the live rendering bug)
-- **Date**: 2026-07-13 (filed 2026-07-21)
-- **Issue**: baojie/memex#562
+- **Status**: CLOSED / deferred (2026-07-21) — team decision: multi-volume (1–4 char VVV) widening is
+  out of current engine scope, deferred to a later engine version. **Resolution for this wiki: the local
+  shadow plugin (`docs/wiki/plugins/pn-citation/index.js`) is the accepted fix and stays until the engine
+  eventually widens the regex.** Kept here as the record of the root-cause analysis.
+- **Date**: 2026-07-13 (filed + closed 2026-07-21)
+- **Issue**: baojie/memex#562 (closed)
 - **Source wiki**: vernean-voyages
 - **Wiki repo**: https://github.com/kitchen-engineer42/wiki-jules-verne-36
 - **Target**: `wiki/public/plugins/pn-citation/index.js` (+ sibling fixes in `pn_structure_verify`, `build_sentence_index`)

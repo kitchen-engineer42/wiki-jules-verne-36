@@ -3,7 +3,7 @@ date: 2026-07-21
 type: maintenance
 scope: pn-citation rendering
 severity: high
-status: local-preview fixed; production fix pending engine RFC
+status: RESOLVED for this wiki via local shadow plugin (engine widening deferred by team — RFC #562 closed, out of current scope)
 reporter: maintainer
 ---
 
@@ -80,5 +80,6 @@ const _CH_ID = '(?:[A-Za-z0-9]{3}-[A-Za-z0-9]{3,4}|[A-Za-z0-9]{3})'; // line 26
 - [x] 本地影子插件生效（curl 验证 + node 正则验证）
 - [x] 引擎补丁 node 验证（1/2/3/4 位）
 - [x] RFC-0003 更新并提交 issue #562
-- [ ] 引擎打补丁 + CDN dist 重建（**待维护者**）
-- [ ] 引擎修复后删除本地影子
+- [x] **团队裁决（2026-07-21）**：多卷（1–4 位 VVV）宽度不在当前引擎 scope，**推迟至后续引擎版本**；RFC #562 已 closed。
+- [x] **本 wiki 结论**：本地影子插件即为**最终修复**，保留至引擎日后自行放宽正则（届时删影子）。localhost 预览已成链。
+- [ ] （远期，待引擎版本）引擎放宽 `{3}→{1,4}` + CDN dist 重建 → 删除本地影子
