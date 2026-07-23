@@ -2296,7 +2296,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 11
+      "total_refs": 12
     },
     "andes-earthquake": {
       "type": "event",
@@ -7054,7 +7054,7 @@
       "quality": "standard",
       "quality_score": 43,
       "book": "An Antarctic Mystery",
-      "total_refs": 2
+      "total_refs": 3
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -16340,6 +16340,31 @@
       "book": "A Winter Amid the Ice",
       "total_refs": 1
     },
+    "jem-west": {
+      "type": "character",
+      "label": "Jem West",
+      "aliases": [
+        "James West",
+        "West"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "je/jem-west.md",
+      "description": "The taciturn, supremely capable first mate of the schooner Halbrane, the true working master of the ship and devoted right hand of Captain Len Guy in An Antarctic Mystery.",
+      "prose_len": 2252,
+      "prose_chars": 2128,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "First mate, the Halbrane",
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "jenny-halliburtt": {
       "type": "character",
       "label": "Jenny Halliburtt",
@@ -16385,7 +16410,7 @@
       "quality_score": 44,
       "affiliation": "Passenger, the Halbrane",
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "joam-garral": {
       "type": "character",
@@ -17432,7 +17457,7 @@
       "quality": "standard",
       "quality_score": 45,
       "book": "An Antarctic Mystery",
-      "total_refs": 4
+      "total_refs": 5
     },
     "lena": {
       "type": "place",
@@ -36990,6 +37015,10 @@
     "JCE-ch45": "JCE-ch45",
     "jean-cornbutte": "jean-cornbutte",
     "Jean Cornbutte": "jean-cornbutte",
+    "jem-west": "jem-west",
+    "Jem West": "jem-west",
+    "James West": "jem-west",
+    "West": "jem-west",
     "jenny-halliburtt": "jenny-halliburtt",
     "Jenny Halliburtt": "jenny-halliburtt",
     "Jenny": "jenny-halliburtt",
@@ -38513,6 +38542,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1668,
-  "generated": "2026-07-23T09:09:03Z"
+  "page_count": 1669,
+  "generated": "2026-07-23T09:12:54Z"
 }

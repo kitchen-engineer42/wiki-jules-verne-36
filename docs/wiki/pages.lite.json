@@ -4905,6 +4905,15 @@
       "aliases": [],
       "path": "je/jean-cornbutte.md"
     },
+    "jem-west": {
+      "type": "character",
+      "label": "Jem West",
+      "aliases": [
+        "James West",
+        "West"
+      ],
+      "path": "je/jem-west.md"
+    },
     "jenny-halliburtt": {
       "type": "character",
       "label": "Jenny Halliburtt",
@@ -11962,6 +11971,10 @@
     "JCE-ch45": "JCE-ch45",
     "jean-cornbutte": "jean-cornbutte",
     "Jean Cornbutte": "jean-cornbutte",
+    "jem-west": "jem-west",
+    "Jem West": "jem-west",
+    "James West": "jem-west",
+    "West": "jem-west",
     "jenny-halliburtt": "jenny-halliburtt",
     "Jenny Halliburtt": "jenny-halliburtt",
     "Jenny": "jenny-halliburtt",
@@ -13485,6 +13498,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1668,
-  "generated": "2026-07-23T09:09:02Z"
+  "page_count": 1669,
+  "generated": "2026-07-23T09:12:53Z"
 }
