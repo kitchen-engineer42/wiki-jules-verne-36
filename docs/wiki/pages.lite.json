@@ -5957,6 +5957,14 @@
       "aliases": [],
       "path": "mo/mounts-doerfel.md"
     },
+    "mr-ward": {
+      "type": "character",
+      "label": "Mr. Ward",
+      "aliases": [
+        "Ward"
+      ],
+      "path": "mr/mr-ward.md"
+    },
     "mrs-weldon": {
       "type": "character",
       "label": "Mrs. Weldon",
@@ -12143,6 +12151,9 @@
     "Mount Mendif": "mount-mendif",
     "mounts-doerfel": "mounts-doerfel",
     "Mounts Doerfel": "mounts-doerfel",
+    "mr-ward": "mr-ward",
+    "Mr. Ward": "mr-ward",
+    "Ward": "mr-ward",
     "mrs-weldon": "mrs-weldon",
     "Mrs. Weldon": "mrs-weldon",
     "MS-ch01": "MS-ch01",
@@ -13310,6 +13321,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1652,
-  "generated": "2026-07-23T07:37:31Z"
+  "page_count": 1653,
+  "generated": "2026-07-23T07:42:44Z"
 }

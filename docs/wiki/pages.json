@@ -16362,7 +16362,7 @@
       "quality_score": 43,
       "affiliation": "Federal police, Washington",
       "book": "The Master of the World",
-      "total_refs": 0
+      "total_refs": 1
     },
     "johnson": {
       "type": "character",
@@ -19897,6 +19897,30 @@
       "quality": "standard",
       "quality_score": 34,
       "book": "Round the Moon",
+      "total_refs": 0
+    },
+    "mr-ward": {
+      "type": "character",
+      "label": "Mr. Ward",
+      "aliases": [
+        "Ward"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "mr/mr-ward.md",
+      "description": "The head of the federal police at Washington and superior of inspector John Strock, who directs the investigation of the Great Eyrie and the hunt for the inventor of the Terror in The Master of the World.",
+      "prose_len": 2250,
+      "prose_chars": 2124,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "Federal police, Washington",
+      "book": "The Master of the World",
       "total_refs": 0
     },
     "mrs-weldon": {
@@ -25667,7 +25691,7 @@
       "quality": "standard",
       "quality_score": 37,
       "book": "Robur the Conqueror",
-      "total_refs": 42
+      "total_refs": 43
     },
     "rocky-mountains": {
       "type": "place",
@@ -30704,7 +30728,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 18
+      "total_refs": 19
     },
     "the-moon": {
       "type": "place",
@@ -36915,6 +36939,9 @@
     "Mount Mendif": "mount-mendif",
     "mounts-doerfel": "mounts-doerfel",
     "Mounts Doerfel": "mounts-doerfel",
+    "mr-ward": "mr-ward",
+    "Mr. Ward": "mr-ward",
+    "Ward": "mr-ward",
     "mrs-weldon": "mrs-weldon",
     "Mrs. Weldon": "mrs-weldon",
     "MS-ch01": "MS-ch01",
@@ -38082,6 +38109,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1652,
-  "generated": "2026-07-23T07:37:43Z"
+  "page_count": 1653,
+  "generated": "2026-07-23T07:43:24Z"
 }
