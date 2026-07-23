@@ -15203,7 +15203,7 @@
       "quality": "standard",
       "quality_score": 47,
       "book": "The Blockade Runners",
-      "total_refs": 0
+      "total_refs": 1
     },
     "james-starr": {
       "type": "character",
@@ -16201,6 +16201,29 @@
       "quality_score": 44,
       "book": "A Winter Amid the Ice",
       "total_refs": 1
+    },
+    "jenny-halliburtt": {
+      "type": "character",
+      "label": "Jenny Halliburtt",
+      "aliases": [
+        "Jenny"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "je/jenny-halliburtt.md",
+      "description": "The brave young Boston lady, daughter of the imprisoned Union journalist Mr Halliburtt, who disguises herself as a boy and stows away on the blockade-runner Dolphin to free her father, and whose cause and love remake its captain James Playfair.",
+      "prose_len": 2154,
+      "prose_chars": 2012,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "book": "The Blockade Runners",
+      "total_refs": 0
     },
     "joam-garral": {
       "type": "character",
@@ -30440,7 +30463,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 49,
-      "total_refs": 9
+      "total_refs": 10
     },
     "the-chimneys": {
       "type": "place",
@@ -36477,6 +36500,9 @@
     "JCE-ch45": "JCE-ch45",
     "jean-cornbutte": "jean-cornbutte",
     "Jean Cornbutte": "jean-cornbutte",
+    "jenny-halliburtt": "jenny-halliburtt",
+    "Jenny Halliburtt": "jenny-halliburtt",
+    "Jenny": "jenny-halliburtt",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -37954,6 +37980,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1647,
-  "generated": "2026-07-23T03:37:28Z"
+  "page_count": 1648,
+  "generated": "2026-07-23T03:45:19Z"
 }

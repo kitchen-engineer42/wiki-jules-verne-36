@@ -4860,6 +4860,14 @@
       "aliases": [],
       "path": "je/jean-cornbutte.md"
     },
+    "jenny-halliburtt": {
+      "type": "character",
+      "label": "Jenny Halliburtt",
+      "aliases": [
+        "Jenny"
+      ],
+      "path": "je/jenny-halliburtt.md"
+    },
     "joam-garral": {
       "type": "character",
       "label": "Joam Garral",
@@ -11780,6 +11788,9 @@
     "JCE-ch45": "JCE-ch45",
     "jean-cornbutte": "jean-cornbutte",
     "Jean Cornbutte": "jean-cornbutte",
+    "jenny-halliburtt": "jenny-halliburtt",
+    "Jenny Halliburtt": "jenny-halliburtt",
+    "Jenny": "jenny-halliburtt",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -13257,6 +13268,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1647,
-  "generated": "2026-07-23T03:37:27Z"
+  "page_count": 1648,
+  "generated": "2026-07-23T03:45:17Z"
 }
