@@ -3602,6 +3602,12 @@
       ],
       "path": "fo/forward-mutiny.md"
     },
+    "fragoso": {
+      "type": "character",
+      "label": "Fragoso",
+      "aliases": [],
+      "path": "fr/fragoso.md"
+    },
     "frankfort": {
       "type": "place",
       "label": "Frankfort",
@@ -11605,6 +11611,8 @@
     "forward-mutiny": "forward-mutiny",
     "The Forward Mutiny": "forward-mutiny",
     "The Burning of the Forward": "forward-mutiny",
+    "fragoso": "fragoso",
+    "Fragoso": "fragoso",
     "frankfort": "frankfort",
     "Frankfort": "frankfort",
     "Frankfort-on-the-Main": "frankfort",
@@ -13469,6 +13477,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1666,
-  "generated": "2026-07-23T08:58:09Z"
+  "page_count": 1667,
+  "generated": "2026-07-23T09:04:57Z"
 }
