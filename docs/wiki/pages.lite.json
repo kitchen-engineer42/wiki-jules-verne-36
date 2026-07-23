@@ -4906,6 +4906,14 @@
       "aliases": [],
       "path": "jo/joe.md"
     },
+    "joel-hansen": {
+      "type": "character",
+      "label": "Joel Hansen",
+      "aliases": [
+        "Joel"
+      ],
+      "path": "jo/joel-hansen.md"
+    },
     "john-mangles": {
       "type": "character",
       "label": "John Mangles",
@@ -11884,6 +11892,9 @@
     "Joam Dacosta": "joam-garral",
     "joe": "joe",
     "Joe": "joe",
+    "joel-hansen": "joel-hansen",
+    "Joel Hansen": "joel-hansen",
+    "Joel": "joel-hansen",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
     "john-strock": "john-strock",
@@ -13376,6 +13387,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1658,
-  "generated": "2026-07-23T08:19:51Z"
+  "page_count": 1659,
+  "generated": "2026-07-23T08:23:27Z"
 }

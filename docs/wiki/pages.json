@@ -14721,7 +14721,7 @@
       "quality": "standard",
       "quality_score": 42,
       "book": "Ticket No. 9672",
-      "total_refs": 2
+      "total_refs": 3
     },
     "ice-bank": {
       "type": "place",
@@ -16339,6 +16339,30 @@
       "quality": "standard",
       "quality_score": 39,
       "book": "Five Weeks in a Balloon",
+      "total_refs": 0
+    },
+    "joel-hansen": {
+      "type": "character",
+      "label": "Joel Hansen",
+      "aliases": [
+        "Joel"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "jo/joel-hansen.md",
+      "description": "The strong and devoted brother of Hulda Hansen, a mountain guide of the Telemark, who stands by his sister through the loss of Ole Kamp and helps Sylvius Hogg in Ticket No. 9672.",
+      "prose_len": 2202,
+      "prose_chars": 2071,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "Telemark guide",
+      "book": "Ticket No. 9672",
       "total_refs": 0
     },
     "john-mangles": {
@@ -23061,7 +23085,7 @@
       "quality": "standard",
       "quality_score": 43,
       "book": "Ticket No. 9672",
-      "total_refs": 1
+      "total_refs": 2
     },
     "omaha": {
       "type": "place",
@@ -30278,7 +30302,7 @@
       "quality_score": 42,
       "affiliation": "Storthing, Norway",
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tabatinga": {
       "type": "place",
@@ -31122,7 +31146,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 13
+      "total_refs": 14
     },
     "tiflis": {
       "type": "place",
@@ -36752,6 +36776,9 @@
     "Joam Dacosta": "joam-garral",
     "joe": "joe",
     "Joe": "joe",
+    "joel-hansen": "joel-hansen",
+    "Joel Hansen": "joel-hansen",
+    "Joel": "joel-hansen",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
     "john-strock": "john-strock",
@@ -38244,6 +38271,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1658,
-  "generated": "2026-07-23T08:19:53Z"
+  "page_count": 1659,
+  "generated": "2026-07-23T08:23:29Z"
 }
