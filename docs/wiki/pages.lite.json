@@ -8644,6 +8644,15 @@
       "aliases": [],
       "path": "sc/SC2-ch57.md"
     },
+    "schwaryencrona": {
+      "type": "character",
+      "label": "Doctor Schwaryencrona",
+      "aliases": [
+        "Schwaryencrona",
+        "Dr. Schwaryencrona"
+      ],
+      "path": "sc/schwaryencrona.md"
+    },
     "scotland": {
       "type": "place",
       "label": "Scotland",
@@ -12880,6 +12889,10 @@
     "SC2-ch55": "SC2-ch55",
     "SC2-ch56": "SC2-ch56",
     "SC2-ch57": "SC2-ch57",
+    "schwaryencrona": "schwaryencrona",
+    "Doctor Schwaryencrona": "schwaryencrona",
+    "Schwaryencrona": "schwaryencrona",
+    "Dr. Schwaryencrona": "schwaryencrona",
     "scotland": "scotland",
     "Scotland": "scotland",
     "sea-monster-hunt": "sea-monster-hunt",
@@ -13424,6 +13437,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1662,
-  "generated": "2026-07-23T08:38:37Z"
+  "page_count": 1663,
+  "generated": "2026-07-23T08:42:29Z"
 }

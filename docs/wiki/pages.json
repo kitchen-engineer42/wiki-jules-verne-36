@@ -9471,7 +9471,7 @@
       "quality": "standard",
       "quality_score": 47,
       "book": "The Waif of the Cynthia",
-      "total_refs": 1
+      "total_refs": 2
     },
     "etna": {
       "type": "place",
@@ -28865,6 +28865,31 @@
       "book": "The Survivors of the Chancellor",
       "total_refs": 1
     },
+    "schwaryencrona": {
+      "type": "character",
+      "label": "Doctor Schwaryencrona",
+      "aliases": [
+        "Schwaryencrona",
+        "Dr. Schwaryencrona"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "sc/schwaryencrona.md",
+      "description": "The celebrated Stockholm physician and scholar who raises the foundling Erik and doggedly investigates the boy's true origins in The Waif of the Cynthia.",
+      "prose_len": 2482,
+      "prose_chars": 2345,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Physician, Stockholm",
+      "book": "The Waif of the Cynthia",
+      "total_refs": 0
+    },
     "scotland": {
       "type": "place",
       "label": "Scotland",
@@ -31126,7 +31151,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 25
+      "total_refs": 26
     },
     "thomas-black": {
       "type": "character",
@@ -33373,7 +33398,7 @@
       "quality": "standard",
       "quality_score": 43,
       "book": "The Waif of the Cynthia",
-      "total_refs": 0
+      "total_refs": 1
     },
     "tunis": {
       "type": "place",
@@ -37812,6 +37837,10 @@
     "SC2-ch55": "SC2-ch55",
     "SC2-ch56": "SC2-ch56",
     "SC2-ch57": "SC2-ch57",
+    "schwaryencrona": "schwaryencrona",
+    "Doctor Schwaryencrona": "schwaryencrona",
+    "Schwaryencrona": "schwaryencrona",
+    "Dr. Schwaryencrona": "schwaryencrona",
     "scotland": "scotland",
     "Scotland": "scotland",
     "sea-monster-hunt": "sea-monster-hunt",
@@ -38356,6 +38385,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1662,
-  "generated": "2026-07-23T08:38:38Z"
+  "page_count": 1663,
+  "generated": "2026-07-23T08:42:31Z"
 }
