@@ -5362,6 +5362,12 @@
       "aliases": [],
       "path": "ma/martha.md"
     },
+    "martin-paz": {
+      "type": "character",
+      "label": "Martin Paz",
+      "aliases": [],
+      "path": "ma/martin-paz.md"
+    },
     "mary-grant": {
       "type": "character",
       "label": "Mary Grant",
@@ -11969,6 +11975,8 @@
     "Marseille": "marseilles",
     "martha": "martha",
     "Martha": "martha",
+    "martin-paz": "martin-paz",
+    "Martin Paz": "martin-paz",
     "mary-grant": "mary-grant",
     "Mary Grant": "mary-grant",
     "maryland": "maryland",
@@ -12936,7 +12944,6 @@
     "The Mysterious Island": "the-mysterious-island",
     "the-pearl-of-lima": "the-pearl-of-lima",
     "The Pearl of Lima": "the-pearl-of-lima",
-    "Martin Paz": "the-pearl-of-lima",
     "Un drame au Mexique": "the-pearl-of-lima",
     "The Pearl of Lima: A Story of True Love": "the-pearl-of-lima",
     "the-sword": "the-sword",
@@ -13268,6 +13275,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1648,
-  "generated": "2026-07-23T03:45:17Z"
+  "page_count": 1649,
+  "generated": "2026-07-23T04:02:18Z"
 }
