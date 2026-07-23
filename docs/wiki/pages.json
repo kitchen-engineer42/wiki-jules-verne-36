@@ -2296,7 +2296,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 9
+      "total_refs": 10
     },
     "andes-earthquake": {
       "type": "event",
@@ -7054,7 +7054,7 @@
       "quality": "standard",
       "quality_score": 43,
       "book": "An Antarctic Mystery",
-      "total_refs": 1
+      "total_refs": 2
     },
     "disintegration-of-victoria-island": {
       "type": "event",
@@ -16319,6 +16319,30 @@
       "book": "The Blockade Runners",
       "total_refs": 0
     },
+    "jeorling": {
+      "type": "character",
+      "label": "Jeorling",
+      "aliases": [
+        "Mr. Jeorling"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "je/jeorling.md",
+      "description": "The American traveler and first-person narrator of An Antarctic Mystery, a skeptical, practical man drawn aboard the schooner Halbrane on its voyage south to test the truth of Arthur Pym's story.",
+      "prose_len": 2425,
+      "prose_chars": 2299,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Passenger, the Halbrane",
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "joam-garral": {
       "type": "character",
       "label": "Joam Garral",
@@ -17364,7 +17388,7 @@
       "quality": "standard",
       "quality_score": 45,
       "book": "An Antarctic Mystery",
-      "total_refs": 2
+      "total_refs": 3
     },
     "lena": {
       "type": "place",
@@ -36825,6 +36849,9 @@
     "jenny-halliburtt": "jenny-halliburtt",
     "Jenny Halliburtt": "jenny-halliburtt",
     "Jenny": "jenny-halliburtt",
+    "jeorling": "jeorling",
+    "Jeorling": "jeorling",
+    "Mr. Jeorling": "jeorling",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -38329,6 +38356,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1661,
-  "generated": "2026-07-23T08:33:52Z"
+  "page_count": 1662,
+  "generated": "2026-07-23T08:38:38Z"
 }

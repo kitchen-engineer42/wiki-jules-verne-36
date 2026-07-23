@@ -4901,6 +4901,14 @@
       ],
       "path": "je/jenny-halliburtt.md"
     },
+    "jeorling": {
+      "type": "character",
+      "label": "Jeorling",
+      "aliases": [
+        "Mr. Jeorling"
+      ],
+      "path": "je/jeorling.md"
+    },
     "joam-garral": {
       "type": "character",
       "label": "Joam Garral",
@@ -11909,6 +11917,9 @@
     "jenny-halliburtt": "jenny-halliburtt",
     "Jenny Halliburtt": "jenny-halliburtt",
     "Jenny": "jenny-halliburtt",
+    "jeorling": "jeorling",
+    "Jeorling": "jeorling",
+    "Mr. Jeorling": "jeorling",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -13413,6 +13424,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1661,
-  "generated": "2026-07-23T08:33:51Z"
+  "page_count": 1662,
+  "generated": "2026-07-23T08:38:37Z"
 }
