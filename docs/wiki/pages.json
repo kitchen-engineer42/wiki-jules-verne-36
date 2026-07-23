@@ -1602,8 +1602,8 @@
       "pn_count": 15,
       "wikilink_count": 4,
       "blockquote_count": 0,
-      "quality": "standard",
-      "quality_score": 40,
+      "quality": "featured",
+      "quality_score": 70,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
@@ -4270,7 +4270,7 @@
       "quality_score": 36,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 82
+      "total_refs": 83
     },
     "barrow-strait": {
       "type": "place",
@@ -9471,6 +9471,29 @@
       "quality": "standard",
       "quality_score": 30,
       "book": "Off on a Comet",
+      "total_refs": 0
+    },
+    "evangelina-scorbitt": {
+      "type": "character",
+      "label": "Evangelina Scorbitt",
+      "aliases": [
+        "Mrs. Scorbitt"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "ev/evangelina-scorbitt.md",
+      "description": "The wealthy Baltimore widow whose devoted love for the Gun Club calculator J. T. Maston leads her to bankroll the audacious scheme to shift the Earth's axis, and who stays loyal through its failure to marry him at last.",
+      "prose_len": 2345,
+      "prose_chars": 2202,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "book": "Topsy-Turvy",
       "total_refs": 0
     },
     "facing-the-flag": {
@@ -16409,7 +16432,7 @@
       "quality_score": 44,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 1
+      "total_refs": 2
     },
     "kachgar": {
       "type": "place",
@@ -31586,7 +31609,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 4
+      "total_refs": 5
     },
     "torres-strait": {
       "type": "place",
@@ -36044,6 +36067,9 @@
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
+    "evangelina-scorbitt": "evangelina-scorbitt",
+    "Evangelina Scorbitt": "evangelina-scorbitt",
+    "Mrs. Scorbitt": "evangelina-scorbitt",
     "facing-the-flag": "facing-the-flag",
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
@@ -38027,6 +38053,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1650,
-  "generated": "2026-07-23T04:11:14Z"
+  "page_count": 1651,
+  "generated": "2026-07-23T04:27:25Z"
 }

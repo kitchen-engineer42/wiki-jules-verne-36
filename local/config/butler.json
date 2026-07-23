@@ -3,5 +3,7 @@
   "chapter_pattern": "^## ",
   "preface_pattern": "^# (Preface|Introduction|Foreword)",
   "preface_nnn": "000",
-  "appendix_pattern": "^# APPENDIX [A-Z]"
+  "appendix_pattern": "^# APPENDIX [A-Z]",
+  "wu_quota_per_round": 500,
+  "grow_phase": 2
 }

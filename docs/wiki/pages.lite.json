@@ -2840,6 +2840,14 @@
       ],
       "path": "et/etna.md"
     },
+    "evangelina-scorbitt": {
+      "type": "character",
+      "label": "Evangelina Scorbitt",
+      "aliases": [
+        "Mrs. Scorbitt"
+      ],
+      "path": "ev/evangelina-scorbitt.md"
+    },
     "facing-the-flag": {
       "type": "work",
       "label": "Facing the Flag",
@@ -11303,6 +11311,9 @@
     "etna": "etna",
     "Etna": "etna",
     "Mount Etna": "etna",
+    "evangelina-scorbitt": "evangelina-scorbitt",
+    "Evangelina Scorbitt": "evangelina-scorbitt",
+    "Mrs. Scorbitt": "evangelina-scorbitt",
     "facing-the-flag": "facing-the-flag",
     "Facing the Flag": "facing-the-flag",
     "Face au drapeau": "facing-the-flag",
@@ -13286,6 +13297,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1650,
-  "generated": "2026-07-23T04:11:13Z"
+  "page_count": 1651,
+  "generated": "2026-07-23T04:27:16Z"
 }

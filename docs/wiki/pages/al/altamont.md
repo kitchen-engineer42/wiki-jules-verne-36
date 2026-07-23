@@ -9,7 +9,7 @@ book: 'The Adventures of Captain Hatteras'
 affiliation:
 first_appearance: ACH-032
 role: supporting
-quality: standard
+quality: featured
 ---
 # Altamont
 
