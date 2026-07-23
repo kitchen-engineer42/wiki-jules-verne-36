@@ -4056,7 +4056,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 48,
-      "total_refs": 3
+      "total_refs": 4
     },
     "axel": {
       "type": "character",
@@ -16158,6 +16158,28 @@
       "book_seq": 92,
       "book": "A Journey to the Center of the Earth",
       "total_refs": 1
+    },
+    "jean-cornbutte": {
+      "type": "character",
+      "label": "Jean Cornbutte",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "je/jean-cornbutte.md",
+      "description": "The old Dunkirk sea-captain and owner of the brig Jeune-Hardie who, refusing to believe his son Louis dead, leads a winter expedition into the Arctic ice to find him, and perishes there of scurvy after the rescue.",
+      "prose_len": 2418,
+      "prose_chars": 2278,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "book": "A Winter Amid the Ice",
+      "total_refs": 0
     },
     "joam-garral": {
       "type": "character",
@@ -36387,6 +36409,8 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "jean-cornbutte": "jean-cornbutte",
+    "Jean Cornbutte": "jean-cornbutte",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -37860,6 +37884,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1643,
-  "generated": "2026-07-23T02:49:48Z"
+  "page_count": 1644,
+  "generated": "2026-07-23T03:01:59Z"
 }

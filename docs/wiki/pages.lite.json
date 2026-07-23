@@ -4848,6 +4848,12 @@
       "aliases": [],
       "path": "jc/JCE-ch45.md"
     },
+    "jean-cornbutte": {
+      "type": "character",
+      "label": "Jean Cornbutte",
+      "aliases": [],
+      "path": "je/jean-cornbutte.md"
+    },
     "joam-garral": {
       "type": "character",
       "label": "Joam Garral",
@@ -11752,6 +11758,8 @@
     "JCE-ch43": "JCE-ch43",
     "JCE-ch44": "JCE-ch44",
     "JCE-ch45": "JCE-ch45",
+    "jean-cornbutte": "jean-cornbutte",
+    "Jean Cornbutte": "jean-cornbutte",
     "joam-garral": "joam-garral",
     "Joam Garral": "joam-garral",
     "Joam Dacosta": "joam-garral",
@@ -13225,6 +13233,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1643,
-  "generated": "2026-07-23T02:49:47Z"
+  "page_count": 1644,
+  "generated": "2026-07-23T03:01:57Z"
 }
