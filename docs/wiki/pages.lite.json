@@ -5283,6 +5283,12 @@
       "aliases": [],
       "path": "li/lima.md"
     },
+    "lina": {
+      "type": "character",
+      "label": "Lina",
+      "aliases": [],
+      "path": "li/lina.md"
+    },
     "lincoln-island-landing": {
       "type": "event",
       "label": "The Lincoln Island Landing",
@@ -12096,6 +12102,8 @@
     "The Rising of the Limanian Indians": "lima-indian-uprising",
     "lima": "lima",
     "Lima": "lima",
+    "lina": "lina",
+    "Lina": "lina",
     "lincoln-island-landing": "lincoln-island-landing",
     "The Lincoln Island Landing": "lincoln-island-landing",
     "Balloon Castaways' Landing": "lincoln-island-landing",
@@ -13477,6 +13485,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1667,
-  "generated": "2026-07-23T09:04:57Z"
+  "page_count": 1668,
+  "generated": "2026-07-23T09:09:02Z"
 }

@@ -9333,7 +9333,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 26
+      "total_refs": 27
     },
     "eighty-day-wager": {
       "type": "event",
@@ -12009,7 +12009,7 @@
       "quality_score": 44,
       "affiliation": "Itinerant barber",
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "frankfort": {
       "type": "place",
@@ -17580,6 +17580,28 @@
       "book": "The Pearl of Lima",
       "total_refs": 2
     },
+    "lina": {
+      "type": "character",
+      "label": "Lina",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "li/lina.md",
+      "description": "The merry young mulatto companion of Minha Garral, whose whim of following a liana leads her to rescue the barber Fragoso, whom she comes to love and marry, in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 2099,
+      "prose_chars": 1979,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "affiliation": "Garral household",
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "lincoln-island-landing": {
       "type": "event",
       "label": "The Lincoln Island Landing",
@@ -19816,7 +19838,7 @@
       "quality_score": 45,
       "affiliation": "Garral family",
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "miss-herbey": {
       "type": "character",
@@ -35579,7 +35601,7 @@
       "quality_score": 44,
       "affiliation": "Garral family",
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "YEAR": {
       "type": "chapter",
@@ -37108,6 +37130,8 @@
     "The Rising of the Limanian Indians": "lima-indian-uprising",
     "lima": "lima",
     "Lima": "lima",
+    "lina": "lina",
+    "Lina": "lina",
     "lincoln-island-landing": "lincoln-island-landing",
     "The Lincoln Island Landing": "lincoln-island-landing",
     "Balloon Castaways' Landing": "lincoln-island-landing",
@@ -38489,6 +38513,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1667,
-  "generated": "2026-07-23T09:04:59Z"
+  "page_count": 1668,
+  "generated": "2026-07-23T09:09:03Z"
 }
