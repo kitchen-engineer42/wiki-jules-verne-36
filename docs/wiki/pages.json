@@ -14513,7 +14513,7 @@
       "quality": "standard",
       "quality_score": 47,
       "book": "Off on a Comet",
-      "total_refs": 3
+      "total_refs": 4
     },
     "herbert": {
       "type": "character",
@@ -15112,7 +15112,7 @@
       "quality": "featured",
       "quality_score": 83,
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "island-of-ljakow": {
       "type": "place",
@@ -22972,7 +22972,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 18
+      "total_refs": 19
     },
     "ohio": {
       "type": "place",
@@ -24099,6 +24099,30 @@
       "quality": "standard",
       "quality_score": 34,
       "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
+    "procope": {
+      "type": "character",
+      "label": "Lieutenant Procope",
+      "aliases": [
+        "Procope"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "pr/procope.md",
+      "description": "The capable young naval officer commanding Count Timascheff's yacht the Dobryna, whose seamanship and cool reasoning guide the castaways across the Gallian sea in Off on a Comet.",
+      "prose_len": 2478,
+      "prose_chars": 2344,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Dobryna",
+      "book": "Off on a Comet",
       "total_refs": 0
     },
     "professor-lidenbrock": {
@@ -37332,6 +37356,9 @@
     "Port Grauben": "port-grauben",
     "portugal": "portugal",
     "Portugal": "portugal",
+    "procope": "procope",
+    "Lieutenant Procope": "procope",
+    "Procope": "procope",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -38190,6 +38217,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1656,
-  "generated": "2026-07-23T08:05:24Z"
+  "page_count": 1657,
+  "generated": "2026-07-23T08:11:43Z"
 }

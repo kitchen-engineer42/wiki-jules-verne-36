@@ -7203,6 +7203,14 @@
       "aliases": [],
       "path": "po/portugal.md"
     },
+    "procope": {
+      "type": "character",
+      "label": "Lieutenant Procope",
+      "aliases": [
+        "Procope"
+      ],
+      "path": "pr/procope.md"
+    },
     "professor-lidenbrock": {
       "type": "character",
       "label": "Professor Lidenbrock",
@@ -12496,6 +12504,9 @@
     "Port Grauben": "port-grauben",
     "portugal": "portugal",
     "Portugal": "portugal",
+    "procope": "procope",
+    "Lieutenant Procope": "procope",
+    "Procope": "procope",
     "professor-lidenbrock": "professor-lidenbrock",
     "Professor Lidenbrock": "professor-lidenbrock",
     "Professor Liedenbrock": "professor-lidenbrock",
@@ -13354,6 +13365,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1656,
-  "generated": "2026-07-23T08:05:23Z"
+  "page_count": 1657,
+  "generated": "2026-07-23T08:11:41Z"
 }
