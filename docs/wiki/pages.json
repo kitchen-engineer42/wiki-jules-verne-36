@@ -4562,7 +4562,7 @@
       "quality": "standard",
       "quality_score": 44,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "bennet-islet": {
       "type": "place",
@@ -9308,7 +9308,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 21
+      "total_refs": 22
     },
     "eighty-day-wager": {
       "type": "event",
@@ -16316,7 +16316,7 @@
       "quality": "standard",
       "quality_score": 55,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 3
+      "total_refs": 4
     },
     "joe": {
       "type": "character",
@@ -17899,6 +17899,30 @@
       "quality": "standard",
       "quality_score": 36,
       "book": "The Mysterious Island",
+      "total_refs": 0
+    },
+    "manoel-valdez": {
+      "type": "character",
+      "label": "Manoel Valdez",
+      "aliases": [
+        "Manoel"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ma/manoel-valdez.md",
+      "description": "The young Brazilian army surgeon betrothed to Minha Garral, whose devotion carries him down the Amazon aboard the jangada and into the struggle to clear her father Joam in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 2361,
+      "prose_chars": 2226,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "affiliation": "Brazilian army",
+      "book": "Eight Hundred Leagues on the Amazon",
       "total_refs": 0
     },
     "marbre": {
@@ -31726,7 +31750,7 @@
       "quality": "standard",
       "quality_score": 51,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 1
+      "total_refs": 2
     },
     "tripoli": {
       "type": "place",
@@ -36824,6 +36848,9 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "manoel-valdez": "manoel-valdez",
+    "Manoel Valdez": "manoel-valdez",
+    "Manoel": "manoel-valdez",
     "marbre": "marbre",
     "Marbre": "marbre",
     "marfa-strogoff": "marfa-strogoff",
@@ -38136,6 +38163,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1654,
-  "generated": "2026-07-23T07:51:42Z"
+  "page_count": 1655,
+  "generated": "2026-07-23T08:00:37Z"
 }

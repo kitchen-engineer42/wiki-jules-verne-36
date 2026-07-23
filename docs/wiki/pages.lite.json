@@ -5369,6 +5369,14 @@
       ],
       "path": "ma/mandible-cape.md"
     },
+    "manoel-valdez": {
+      "type": "character",
+      "label": "Manoel Valdez",
+      "aliases": [
+        "Manoel"
+      ],
+      "path": "ma/manoel-valdez.md"
+    },
     "marbre": {
       "type": "character",
       "label": "Marbre",
@@ -12020,6 +12028,9 @@
     "mandible-cape": "mandible-cape",
     "Mandible Cape": "mandible-cape",
     "Mandible Capes": "mandible-cape",
+    "manoel-valdez": "manoel-valdez",
+    "Manoel Valdez": "manoel-valdez",
+    "Manoel": "manoel-valdez",
     "marbre": "marbre",
     "Marbre": "marbre",
     "marfa-strogoff": "marfa-strogoff",
@@ -13332,6 +13343,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1654,
-  "generated": "2026-07-23T07:51:41Z"
+  "page_count": 1655,
+  "generated": "2026-07-23T08:00:35Z"
 }
