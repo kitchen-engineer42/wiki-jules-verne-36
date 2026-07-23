@@ -6826,6 +6826,12 @@
       "aliases": [],
       "path": "ol/olbinett.md"
     },
+    "ole-kamp": {
+      "type": "character",
+      "label": "Ole Kamp",
+      "aliases": [],
+      "path": "ol/ole-kamp.md"
+    },
     "omaha": {
       "type": "place",
       "label": "Omaha",
@@ -12287,6 +12293,8 @@
     "Ohio": "ohio",
     "olbinett": "olbinett",
     "Olbinett": "olbinett",
+    "ole-kamp": "ole-kamp",
+    "Ole Kamp": "ole-kamp",
     "omaha": "omaha",
     "Omaha": "omaha",
     "omsk": "omsk",
@@ -13241,6 +13249,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1645,
-  "generated": "2026-07-23T03:12:18Z"
+  "page_count": 1646,
+  "generated": "2026-07-23T03:28:23Z"
 }

@@ -14652,7 +14652,7 @@
       "quality": "standard",
       "quality_score": 42,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "ice-bank": {
       "type": "place",
@@ -22832,6 +22832,27 @@
       "book": "In Search of the Castaways",
       "total_refs": 0
     },
+    "ole-kamp": {
+      "type": "character",
+      "label": "Ole Kamp",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ol/ole-kamp.md",
+      "description": "Hulda Hansen's sailor betrothed and foster-cousin, the mate of the Viking who, as his ship sinks, wills her lottery ticket 9672 in a bottle, then survives against all hope to return at the drawing.",
+      "prose_len": 2319,
+      "prose_chars": 2185,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "omaha": {
       "type": "place",
       "label": "Omaha",
@@ -30821,7 +30842,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 11
+      "total_refs": 12
     },
     "tiflis": {
       "type": "place",
@@ -36953,6 +36974,8 @@
     "Ohio": "ohio",
     "olbinett": "olbinett",
     "Olbinett": "olbinett",
+    "ole-kamp": "ole-kamp",
+    "Ole Kamp": "ole-kamp",
     "omaha": "omaha",
     "Omaha": "omaha",
     "omsk": "omsk",
@@ -37907,6 +37930,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1645,
-  "generated": "2026-07-23T03:12:19Z"
+  "page_count": 1646,
+  "generated": "2026-07-23T03:28:25Z"
 }
