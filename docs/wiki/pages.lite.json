@@ -10644,6 +10644,15 @@
       "aliases": [],
       "path": "ya/yakutsk.md"
     },
+    "yaquita": {
+      "type": "character",
+      "label": "Yaquita",
+      "aliases": [
+        "Yaquita Garral",
+        "Yaquita Dacosta"
+      ],
+      "path": "ya/yaquita.md"
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -13436,6 +13445,10 @@
     "Dick Sand's Landfall": "wreck-of-the-pilgrim",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
+    "yaquita": "yaquita",
+    "Yaquita": "yaquita",
+    "Yaquita Garral": "yaquita",
+    "Yaquita Dacosta": "yaquita",
     "YEAR": "YEAR",
     "yenisei": "yenisei",
     "Yenisei": "yenisei",
@@ -13448,6 +13461,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1664,
-  "generated": "2026-07-23T08:49:12Z"
+  "page_count": 1665,
+  "generated": "2026-07-23T08:52:47Z"
 }

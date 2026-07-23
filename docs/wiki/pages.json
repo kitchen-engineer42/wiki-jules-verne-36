@@ -4562,7 +4562,7 @@
       "quality": "standard",
       "quality_score": 44,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "bennet-islet": {
       "type": "place",
@@ -9333,7 +9333,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 24
+      "total_refs": 25
     },
     "eighty-day-wager": {
       "type": "event",
@@ -16365,7 +16365,7 @@
       "quality": "standard",
       "quality_score": 55,
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 6
+      "total_refs": 7
     },
     "joe": {
       "type": "character",
@@ -18021,7 +18021,7 @@
       "quality_score": 43,
       "affiliation": "Brazilian army",
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "marbre": {
       "type": "character",
@@ -19772,7 +19772,7 @@
       "quality_score": 45,
       "affiliation": "Garral family",
       "book": "Eight Hundred Leagues on the Amazon",
-      "total_refs": 0
+      "total_refs": 1
     },
     "miss-herbey": {
       "type": "character",
@@ -35512,6 +35512,31 @@
       "book": "Michael Strogoff",
       "total_refs": 0
     },
+    "yaquita": {
+      "type": "character",
+      "label": "Yaquita",
+      "aliases": [
+        "Yaquita Garral",
+        "Yaquita Dacosta"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ya/yaquita.md",
+      "description": "The devoted wife of Joam Garral and mother of Benito and Minha, whose steadfast love anchors the family through the jangada voyage and her husband's ordeal in Eight Hundred Leagues on the Amazon.",
+      "prose_len": 2408,
+      "prose_chars": 2285,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 5,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Garral family",
+      "book": "Eight Hundred Leagues on the Amazon",
+      "total_refs": 0
+    },
     "YEAR": {
       "type": "chapter",
       "label": "In the Year 2889",
@@ -38400,6 +38425,10 @@
     "Dick Sand's Landfall": "wreck-of-the-pilgrim",
     "yakutsk": "yakutsk",
     "Yakutsk": "yakutsk",
+    "yaquita": "yaquita",
+    "Yaquita": "yaquita",
+    "Yaquita Garral": "yaquita",
+    "Yaquita Dacosta": "yaquita",
     "YEAR": "YEAR",
     "yenisei": "yenisei",
     "Yenisei": "yenisei",
@@ -38412,6 +38441,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1664,
-  "generated": "2026-07-23T08:49:14Z"
+  "page_count": 1665,
+  "generated": "2026-07-23T08:52:49Z"
 }
