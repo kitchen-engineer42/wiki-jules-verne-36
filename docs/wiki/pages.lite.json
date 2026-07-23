@@ -4432,6 +4432,12 @@
       ],
       "path": "hu/hulda.md"
     },
+    "hurliguerly": {
+      "type": "character",
+      "label": "Hurliguerly",
+      "aliases": [],
+      "path": "hu/hurliguerly.md"
+    },
     "ice-bank": {
       "type": "place",
       "label": "Ice Bank",
@@ -11826,6 +11832,8 @@
     "hulda": "hulda",
     "Hulda Hansen": "hulda",
     "Hulda": "hulda",
+    "hurliguerly": "hurliguerly",
+    "Hurliguerly": "hurliguerly",
     "ice-bank": "ice-bank",
     "Ice Bank": "ice-bank",
     "The Ice Bank": "ice-bank",
@@ -13461,6 +13469,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1665,
-  "generated": "2026-07-23T08:52:47Z"
+  "page_count": 1666,
+  "generated": "2026-07-23T08:58:09Z"
 }

@@ -2296,7 +2296,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 10
+      "total_refs": 11
     },
     "andes-earthquake": {
       "type": "event",
@@ -14748,6 +14748,28 @@
       "book": "Ticket No. 9672",
       "total_refs": 3
     },
+    "hurliguerly": {
+      "type": "character",
+      "label": "Hurliguerly",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "hu/hurliguerly.md",
+      "description": "The garrulous, whisky-loving boatswain of the schooner Halbrane, a shrewd and good-hearted seaman who secures Jeorling's passage and serves Captain Len Guy in An Antarctic Mystery.",
+      "prose_len": 2251,
+      "prose_chars": 2124,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "Boatswain, the Halbrane",
+      "book": "An Antarctic Mystery",
+      "total_refs": 0
+    },
     "ice-bank": {
       "type": "place",
       "label": "Ice Bank",
@@ -16341,7 +16363,7 @@
       "quality_score": 44,
       "affiliation": "Passenger, the Halbrane",
       "book": "An Antarctic Mystery",
-      "total_refs": 0
+      "total_refs": 1
     },
     "joam-garral": {
       "type": "character",
@@ -17388,7 +17410,7 @@
       "quality": "standard",
       "quality_score": 45,
       "book": "An Antarctic Mystery",
-      "total_refs": 3
+      "total_refs": 4
     },
     "lena": {
       "type": "place",
@@ -36806,6 +36828,8 @@
     "hulda": "hulda",
     "Hulda Hansen": "hulda",
     "Hulda": "hulda",
+    "hurliguerly": "hurliguerly",
+    "Hurliguerly": "hurliguerly",
     "ice-bank": "ice-bank",
     "Ice Bank": "ice-bank",
     "The Ice Bank": "ice-bank",
@@ -38441,6 +38465,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1665,
-  "generated": "2026-07-23T08:52:49Z"
+  "page_count": 1666,
+  "generated": "2026-07-23T08:58:10Z"
 }
