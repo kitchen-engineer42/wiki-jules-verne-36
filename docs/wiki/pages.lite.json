@@ -3913,6 +3913,14 @@
       "aliases": [],
       "path": "ge/geneva.md"
     },
+    "gerande": {
+      "type": "character",
+      "label": "Gérande",
+      "aliases": [
+        "Gerande"
+      ],
+      "path": "ge/gerande.md"
+    },
     "germany": {
       "type": "place",
       "label": "Germany",
@@ -11527,6 +11535,9 @@
     "Ganges River": "ganges",
     "geneva": "geneva",
     "Geneva": "geneva",
+    "gerande": "gerande",
+    "Gérande": "gerande",
+    "Gerande": "gerande",
     "germany": "germany",
     "Germany": "germany",
     "giant-squid-attack": "giant-squid-attack",
@@ -13275,6 +13286,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1649,
-  "generated": "2026-07-23T04:02:18Z"
+  "page_count": 1650,
+  "generated": "2026-07-23T04:11:13Z"
 }

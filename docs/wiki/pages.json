@@ -13035,6 +13035,28 @@
       "book": "Master Zacharius",
       "total_refs": 0
     },
+    "gerande": {
+      "type": "character",
+      "label": "Gérande",
+      "aliases": [
+        "Gerande"
+      ],
+      "tags": [
+        "character"
+      ],
+      "path": "ge/gerande.md",
+      "description": "The gentle, devout daughter of the Geneva clockmaker Master Zacharius, who loves the apprentice Aubert Thün and strives by prayer and faith to save her father's soul from the diabolical pride that destroys him.",
+      "prose_len": 2151,
+      "prose_chars": 2020,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "book": "Master Zacharius",
+      "total_refs": 0
+    },
     "germany": {
       "type": "place",
       "label": "Germany",
@@ -18011,7 +18033,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 57,
-      "total_refs": 4
+      "total_refs": 5
     },
     "maston-calculation-error": {
       "type": "event",
@@ -36254,6 +36276,9 @@
     "Ganges River": "ganges",
     "geneva": "geneva",
     "Geneva": "geneva",
+    "gerande": "gerande",
+    "Gérande": "gerande",
+    "Gerande": "gerande",
     "germany": "germany",
     "Germany": "germany",
     "giant-squid-attack": "giant-squid-attack",
@@ -38002,6 +38027,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1649,
-  "generated": "2026-07-23T04:02:19Z"
+  "page_count": 1650,
+  "generated": "2026-07-23T04:11:14Z"
 }
