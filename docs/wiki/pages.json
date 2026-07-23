@@ -16339,6 +16339,31 @@
       "book": "In Search of the Castaways",
       "total_refs": 1
     },
+    "john-strock": {
+      "type": "character",
+      "label": "John Strock",
+      "aliases": [
+        "Strock",
+        "Inspector Strock"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "jo/john-strock.md",
+      "description": "The head inspector of the federal police at Washington and first-person narrator of The Master of the World, assigned to unravel the mystery of the Great Eyrie and pursue the inventor Robur and his all-conquering machine, the Terror.",
+      "prose_len": 2385,
+      "prose_chars": 2254,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 43,
+      "affiliation": "Federal police, Washington",
+      "book": "The Master of the World",
+      "total_refs": 0
+    },
     "johnson": {
       "type": "character",
       "label": "Johnson",
@@ -25642,7 +25667,7 @@
       "quality": "standard",
       "quality_score": 37,
       "book": "Robur the Conqueror",
-      "total_refs": 41
+      "total_refs": 42
     },
     "rocky-mountains": {
       "type": "place",
@@ -30679,7 +30704,7 @@
       "blockquote_count": 0,
       "quality": "featured",
       "quality_score": 78,
-      "total_refs": 17
+      "total_refs": 18
     },
     "the-moon": {
       "type": "place",
@@ -36582,6 +36607,10 @@
     "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
+    "john-strock": "john-strock",
+    "John Strock": "john-strock",
+    "Strock": "john-strock",
+    "Inspector Strock": "john-strock",
     "johnson": "johnson",
     "Johnson": "johnson",
     "joliffe": "joliffe",
@@ -38053,6 +38082,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1651,
-  "generated": "2026-07-23T04:27:25Z"
+  "page_count": 1652,
+  "generated": "2026-07-23T07:37:43Z"
 }

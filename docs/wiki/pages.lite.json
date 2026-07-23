@@ -4904,6 +4904,15 @@
       "aliases": [],
       "path": "jo/john-mangles.md"
     },
+    "john-strock": {
+      "type": "character",
+      "label": "John Strock",
+      "aliases": [
+        "Strock",
+        "Inspector Strock"
+      ],
+      "path": "jo/john-strock.md"
+    },
     "johnson": {
       "type": "character",
       "label": "Johnson",
@@ -11826,6 +11835,10 @@
     "Joe": "joe",
     "john-mangles": "john-mangles",
     "John Mangles": "john-mangles",
+    "john-strock": "john-strock",
+    "John Strock": "john-strock",
+    "Strock": "john-strock",
+    "Inspector Strock": "john-strock",
     "johnson": "johnson",
     "Johnson": "johnson",
     "joliffe": "joliffe",
@@ -13297,6 +13310,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1651,
-  "generated": "2026-07-23T04:27:16Z"
+  "page_count": 1652,
+  "generated": "2026-07-23T07:37:31Z"
 }
