@@ -4056,7 +4056,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 48,
-      "total_refs": 4
+      "total_refs": 5
     },
     "axel": {
       "type": "character",
@@ -16200,7 +16200,7 @@
       "quality": "standard",
       "quality_score": 44,
       "book": "A Winter Amid the Ice",
-      "total_refs": 0
+      "total_refs": 1
     },
     "joam-garral": {
       "type": "character",
@@ -23252,6 +23252,28 @@
       "quality_score": 44,
       "book": "The Mysterious Island",
       "total_refs": 2
+    },
+    "penellan": {
+      "type": "character",
+      "label": "Penellan",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure",
+        "exploration"
+      ],
+      "path": "pe/penellan.md",
+      "description": "The devoted Breton helmsman and long-time fellow-voyager of Captain Jean Cornbutte, resourceful and indomitable mainstay of the Arctic search for the captain's lost son, who guards the party against the treacherous mate Vasling.",
+      "prose_len": 2081,
+      "prose_chars": 1949,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 2,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 40,
+      "book": "A Winter Amid the Ice",
+      "total_refs": 0
     },
     "peninsular-and-oriental-company": {
       "type": "organization",
@@ -37021,6 +37043,8 @@
     "Peking": "pekin",
     "pencroft": "pencroft",
     "Pencroft": "pencroft",
+    "penellan": "penellan",
+    "Penellan": "penellan",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -37930,6 +37954,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1646,
-  "generated": "2026-07-23T03:28:25Z"
+  "page_count": 1647,
+  "generated": "2026-07-23T03:37:28Z"
 }

@@ -6953,6 +6953,12 @@
       "aliases": [],
       "path": "pe/pencroft.md"
     },
+    "penellan": {
+      "type": "character",
+      "label": "Penellan",
+      "aliases": [],
+      "path": "pe/penellan.md"
+    },
     "peninsular-and-oriental-company": {
       "type": "organization",
       "label": "Peninsular and Oriental Company",
@@ -12340,6 +12346,8 @@
     "Peking": "pekin",
     "pencroft": "pencroft",
     "Pencroft": "pencroft",
+    "penellan": "penellan",
+    "Penellan": "penellan",
     "peninsular-and-oriental-company": "peninsular-and-oriental-company",
     "Peninsular and Oriental Company": "peninsular-and-oriental-company",
     "Peninsular Company": "peninsular-and-oriental-company",
@@ -13249,6 +13257,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1646,
-  "generated": "2026-07-23T03:28:23Z"
+  "page_count": 1647,
+  "generated": "2026-07-23T03:37:27Z"
 }
