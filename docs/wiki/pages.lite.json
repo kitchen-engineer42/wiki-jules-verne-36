@@ -5891,6 +5891,14 @@
       ],
       "path": "mi/michel-strogoff.md"
     },
+    "minha": {
+      "type": "character",
+      "label": "Minha Garral",
+      "aliases": [
+        "Minha"
+      ],
+      "path": "mi/minha.md"
+    },
     "miss-herbey": {
       "type": "character",
       "label": "Miss Herbey",
@@ -12161,6 +12169,9 @@
     "michel-strogoff": "michel-strogoff",
     "Michel Strogoff": "michel-strogoff",
     "Nicholas Korpanoff": "michel-strogoff",
+    "minha": "minha",
+    "Minha Garral": "minha",
+    "Minha": "minha",
     "miss-herbey": "miss-herbey",
     "Miss Herbey": "miss-herbey",
     "missionary-rescue": "missionary-rescue",
@@ -13365,6 +13376,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1657,
-  "generated": "2026-07-23T08:11:41Z"
+  "page_count": 1658,
+  "generated": "2026-07-23T08:19:51Z"
 }
