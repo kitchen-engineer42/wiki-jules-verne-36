@@ -4967,6 +4967,15 @@
       "aliases": [],
       "path": "jt/j-t-maston.md"
     },
+    "judge-jarriquez": {
+      "type": "character",
+      "label": "Judge Jarriquez",
+      "aliases": [
+        "Jarriquez",
+        "Vicente Jarriquez"
+      ],
+      "path": "ju/judge-jarriquez.md"
+    },
     "kachgar": {
       "type": "place",
       "label": "Kachgar",
@@ -11925,6 +11934,10 @@
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "j-t-maston": "j-t-maston",
     "J. T. Maston": "j-t-maston",
+    "judge-jarriquez": "judge-jarriquez",
+    "Judge Jarriquez": "judge-jarriquez",
+    "Jarriquez": "judge-jarriquez",
+    "Vicente Jarriquez": "judge-jarriquez",
     "kachgar": "kachgar",
     "Kachgar": "kachgar",
     "Kashgar": "kachgar",
@@ -13400,6 +13413,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1660,
-  "generated": "2026-07-23T08:27:49Z"
+  "page_count": 1661,
+  "generated": "2026-07-23T08:33:51Z"
 }
