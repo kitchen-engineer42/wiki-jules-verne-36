@@ -14721,7 +14721,7 @@
       "quality": "standard",
       "quality_score": 42,
       "book": "Ticket No. 9672",
-      "total_refs": 1
+      "total_refs": 2
     },
     "ice-bank": {
       "type": "place",
@@ -23037,7 +23037,7 @@
       "quality": "standard",
       "quality_score": 43,
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "omaha": {
       "type": "place",
@@ -30208,6 +30208,30 @@
       "book": "In Search of the Castaways",
       "total_refs": 1
     },
+    "sylvius-hogg": {
+      "type": "character",
+      "label": "Sylvius Hogg",
+      "aliases": [
+        "Sylvius"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "sy/sylvius-hogg.md",
+      "description": "The eminent professor of law and member of the Norwegian Storthing who, nursed back to health by the Hansen family, devotes himself to finding the lost Ole Kamp and redeeming the lottery ticket in Ticket No. 9672.",
+      "prose_len": 2243,
+      "prose_chars": 2113,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "Storthing, Norway",
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "tabatinga": {
       "type": "place",
       "label": "Tabatinga",
@@ -31050,7 +31074,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 12
+      "total_refs": 13
     },
     "tiflis": {
       "type": "place",
@@ -37757,6 +37781,9 @@
     "Switzerland": "switzerland",
     "sydney": "sydney",
     "Sydney": "sydney",
+    "sylvius-hogg": "sylvius-hogg",
+    "Sylvius Hogg": "sylvius-hogg",
+    "Sylvius": "sylvius-hogg",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -38163,6 +38190,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1655,
-  "generated": "2026-07-23T08:00:37Z"
+  "page_count": 1656,
+  "generated": "2026-07-23T08:05:24Z"
 }

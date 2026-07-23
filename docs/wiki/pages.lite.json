@@ -9035,6 +9035,14 @@
       "aliases": [],
       "path": "sy/sydney.md"
     },
+    "sylvius-hogg": {
+      "type": "character",
+      "label": "Sylvius Hogg",
+      "aliases": [
+        "Sylvius"
+      ],
+      "path": "sy/sylvius-hogg.md"
+    },
     "tabatinga": {
       "type": "place",
       "label": "Tabatinga",
@@ -12937,6 +12945,9 @@
     "Switzerland": "switzerland",
     "sydney": "sydney",
     "Sydney": "sydney",
+    "sylvius-hogg": "sylvius-hogg",
+    "Sylvius Hogg": "sylvius-hogg",
+    "Sylvius": "sylvius-hogg",
     "tabatinga": "tabatinga",
     "Tabatinga": "tabatinga",
     "tabor-island-castaway": "tabor-island-castaway",
@@ -13343,6 +13354,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1655,
-  "generated": "2026-07-23T08:00:35Z"
+  "page_count": 1656,
+  "generated": "2026-07-23T08:05:23Z"
 }
