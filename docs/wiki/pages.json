@@ -15184,6 +15184,27 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "james-playfair": {
+      "type": "character",
+      "label": "James Playfair",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ja/james-playfair.md",
+      "description": "The bold young Scottish captain of the steamer Dolphin, a mercenary blockade-runner who, for love of the disguised passenger Jenny Halliburtt, dares the Charleston blockade a second time to rescue her imprisoned father.",
+      "prose_len": 2763,
+      "prose_chars": 2623,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 47,
+      "book": "The Blockade Runners",
+      "total_refs": 0
+    },
     "james-starr": {
       "type": "character",
       "label": "James Starr",
@@ -30376,7 +30397,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 49,
-      "total_refs": 8
+      "total_refs": 9
     },
     "the-chimneys": {
       "type": "place",
@@ -36355,6 +36376,8 @@
     "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
+    "james-playfair": "james-playfair",
+    "James Playfair": "james-playfair",
     "james-starr": "james-starr",
     "James Starr": "james-starr",
     "Mr Starr": "james-starr",
@@ -37884,6 +37907,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1644,
-  "generated": "2026-07-23T03:01:59Z"
+  "page_count": 1645,
+  "generated": "2026-07-23T03:12:19Z"
 }
