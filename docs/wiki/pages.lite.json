@@ -4391,6 +4391,14 @@
       "aliases": [],
       "path": "hu/hudsons-bay.md"
     },
+    "hulda": {
+      "type": "character",
+      "label": "Hulda Hansen",
+      "aliases": [
+        "Hulda"
+      ],
+      "path": "hu/hulda.md"
+    },
     "ice-bank": {
       "type": "place",
       "label": "Ice Bank",
@@ -11631,6 +11639,9 @@
     "the Company": "hudsons-bay-company",
     "hudsons-bay": "hudsons-bay",
     "Hudson's Bay": "hudsons-bay",
+    "hulda": "hulda",
+    "Hulda Hansen": "hulda",
+    "Hulda": "hulda",
     "ice-bank": "ice-bank",
     "Ice Bank": "ice-bank",
     "The Ice Bank": "ice-bank",
@@ -13214,6 +13225,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1642,
-  "generated": "2026-07-22T07:44:46Z"
+  "page_count": 1643,
+  "generated": "2026-07-23T02:49:47Z"
 }

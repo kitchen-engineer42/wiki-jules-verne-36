@@ -14631,6 +14631,29 @@
       "book": "The Fur Country",
       "total_refs": 0
     },
+    "hulda": {
+      "type": "character",
+      "label": "Hulda Hansen",
+      "aliases": [
+        "Hulda"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "hu/hulda.md",
+      "description": "The faithful heroine of Ticket No. 9672 — the modest young lady of her mother's inn at Dal, betrothed to the sailor Ole Kamp, who refuses to sell the lottery ticket he wills her from his sinking ship.",
+      "prose_len": 2224,
+      "prose_chars": 2086,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "ice-bank": {
       "type": "place",
       "label": "Ice Bank",
@@ -30755,7 +30778,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 10
+      "total_refs": 11
     },
     "tiflis": {
       "type": "place",
@@ -36251,6 +36274,9 @@
     "the Company": "hudsons-bay-company",
     "hudsons-bay": "hudsons-bay",
     "Hudson's Bay": "hudsons-bay",
+    "hulda": "hulda",
+    "Hulda Hansen": "hulda",
+    "Hulda": "hulda",
     "ice-bank": "ice-bank",
     "Ice Bank": "ice-bank",
     "The Ice Bank": "ice-bank",
@@ -37834,6 +37860,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1642,
-  "generated": "2026-07-22T07:44:48Z"
+  "page_count": 1643,
+  "generated": "2026-07-23T02:49:48Z"
 }
