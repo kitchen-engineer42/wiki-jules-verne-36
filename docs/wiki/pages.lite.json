@@ -6015,6 +6015,14 @@
       "aliases": [],
       "path": "mo/mounts-doerfel.md"
     },
+    "mr-bredejord": {
+      "type": "character",
+      "label": "Mr. Bredejord",
+      "aliases": [
+        "Bredejord"
+      ],
+      "path": "mr/mr-bredejord.md"
+    },
     "mr-ward": {
       "type": "character",
       "label": "Mr. Ward",
@@ -12257,6 +12265,9 @@
     "Mount Mendif": "mount-mendif",
     "mounts-doerfel": "mounts-doerfel",
     "Mounts Doerfel": "mounts-doerfel",
+    "mr-bredejord": "mr-bredejord",
+    "Mr. Bredejord": "mr-bredejord",
+    "Bredejord": "mr-bredejord",
     "mr-ward": "mr-ward",
     "Mr. Ward": "mr-ward",
     "Ward": "mr-ward",
@@ -13437,6 +13448,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1663,
-  "generated": "2026-07-23T08:42:29Z"
+  "page_count": 1664,
+  "generated": "2026-07-23T08:49:12Z"
 }
