@@ -3610,6 +3610,14 @@
       ],
       "path": "fr/fridrikssen.md"
     },
+    "fritz-napoleon-smith": {
+      "type": "character",
+      "label": "Fritz Napoleon Smith",
+      "aliases": [
+        "Fritz"
+      ],
+      "path": "fr/fritz-napoleon-smith.md"
+    },
     "from-the-earth-to-the-moon": {
       "type": "work",
       "label": "From the Earth to the Moon",
@@ -11502,6 +11510,9 @@
     "fridrikssen": "fridrikssen",
     "M. Fridrikssen": "fridrikssen",
     "Fridrikssen": "fridrikssen",
+    "fritz-napoleon-smith": "fritz-napoleon-smith",
+    "Fritz Napoleon Smith": "fritz-napoleon-smith",
+    "Fritz": "fritz-napoleon-smith",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "frycollin": "frycollin",
@@ -13321,6 +13332,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1653,
-  "generated": "2026-07-23T07:42:44Z"
+  "page_count": 1654,
+  "generated": "2026-07-23T07:51:41Z"
 }

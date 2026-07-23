@@ -12015,6 +12015,30 @@
       "book": "A Journey to the Center of the Earth",
       "total_refs": 0
     },
+    "fritz-napoleon-smith": {
+      "type": "character",
+      "label": "Fritz Napoleon Smith",
+      "aliases": [
+        "Fritz"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "fr/fritz-napoleon-smith.md",
+      "description": "The immensely wealthy proprietor of the Earth Chronicle in the year 2889, inventor of telephonic journalism, whose single day forms the frame of Verne's futuristic tale In the Year 2889.",
+      "prose_len": 2419,
+      "prose_chars": 2281,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 1,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Earth Chronicle",
+      "book": "In the Year 2889",
+      "total_refs": 0
+    },
     "from-the-earth-to-the-moon": {
       "type": "work",
       "label": "From the Earth to the Moon",
@@ -14885,7 +14909,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 64,
-      "total_refs": 0
+      "total_refs": 1
     },
     "india": {
       "type": "place",
@@ -36290,6 +36314,9 @@
     "fridrikssen": "fridrikssen",
     "M. Fridrikssen": "fridrikssen",
     "Fridrikssen": "fridrikssen",
+    "fritz-napoleon-smith": "fritz-napoleon-smith",
+    "Fritz Napoleon Smith": "fritz-napoleon-smith",
+    "Fritz": "fritz-napoleon-smith",
     "from-the-earth-to-the-moon": "from-the-earth-to-the-moon",
     "From the Earth to the Moon": "from-the-earth-to-the-moon",
     "frycollin": "frycollin",
@@ -38109,6 +38136,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1653,
-  "generated": "2026-07-23T07:43:24Z"
+  "page_count": 1654,
+  "generated": "2026-07-23T07:51:42Z"
 }
