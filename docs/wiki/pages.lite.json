@@ -1970,6 +1970,15 @@
       "aliases": [],
       "path": "co/corsica.md"
     },
+    "count-timascheff": {
+      "type": "character",
+      "label": "Count Timascheff",
+      "aliases": [
+        "Timascheff",
+        "Count Wassili Timascheff"
+      ],
+      "path": "co/count-timascheff.md"
+    },
     "cousin-benedict": {
       "type": "character",
       "label": "Cousin Benedict",
@@ -11168,6 +11177,10 @@
     "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
+    "count-timascheff": "count-timascheff",
+    "Count Timascheff": "count-timascheff",
+    "Timascheff": "count-timascheff",
+    "Count Wassili Timascheff": "count-timascheff",
     "cousin-benedict": "cousin-benedict",
     "Cousin Benedict": "cousin-benedict",
     "creek-glycerine": "creek-glycerine",
@@ -13387,6 +13400,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1659,
-  "generated": "2026-07-23T08:23:27Z"
+  "page_count": 1660,
+  "generated": "2026-07-23T08:27:49Z"
 }

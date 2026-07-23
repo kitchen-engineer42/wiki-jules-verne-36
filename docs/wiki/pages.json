@@ -6606,6 +6606,31 @@
       "book": "Off on a Comet",
       "total_refs": 1
     },
+    "count-timascheff": {
+      "type": "character",
+      "label": "Count Timascheff",
+      "aliases": [
+        "Timascheff",
+        "Count Wassili Timascheff"
+      ],
+      "tags": [
+        "character",
+        "science-fiction"
+      ],
+      "path": "co/count-timascheff.md",
+      "description": "The wealthy Russian nobleman and owner of the yacht Dobryna, at first Hector Servadac's rival and later his steadfast companion among the castaways of the comet Gallia in Off on a Comet.",
+      "prose_len": 2423,
+      "prose_chars": 2289,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 44,
+      "affiliation": "Owner of the Dobryna",
+      "book": "Off on a Comet",
+      "total_refs": 0
+    },
     "cousin-benedict": {
       "type": "character",
       "label": "Cousin Benedict",
@@ -14513,7 +14538,7 @@
       "quality": "standard",
       "quality_score": 47,
       "book": "Off on a Comet",
-      "total_refs": 4
+      "total_refs": 5
     },
     "herbert": {
       "type": "character",
@@ -15112,7 +15137,7 @@
       "quality": "featured",
       "quality_score": 83,
       "book": "Off on a Comet",
-      "total_refs": 1
+      "total_refs": 2
     },
     "island-of-ljakow": {
       "type": "place",
@@ -23020,7 +23045,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 41,
-      "total_refs": 19
+      "total_refs": 20
     },
     "ohio": {
       "type": "place",
@@ -24171,7 +24196,7 @@
       "quality_score": 44,
       "affiliation": "Dobryna",
       "book": "Off on a Comet",
-      "total_refs": 0
+      "total_refs": 1
     },
     "professor-lidenbrock": {
       "type": "character",
@@ -36052,6 +36077,10 @@
     "Corral": "corral",
     "corsica": "corsica",
     "Corsica": "corsica",
+    "count-timascheff": "count-timascheff",
+    "Count Timascheff": "count-timascheff",
+    "Timascheff": "count-timascheff",
+    "Count Wassili Timascheff": "count-timascheff",
     "cousin-benedict": "cousin-benedict",
     "Cousin Benedict": "cousin-benedict",
     "creek-glycerine": "creek-glycerine",
@@ -38271,6 +38300,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1659,
-  "generated": "2026-07-23T08:23:29Z"
+  "page_count": 1660,
+  "generated": "2026-07-23T08:27:51Z"
 }
