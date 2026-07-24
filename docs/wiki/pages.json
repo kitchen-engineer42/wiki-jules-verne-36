@@ -4468,8 +4468,8 @@
       "pn_count": 14,
       "wikilink_count": 4,
       "blockquote_count": 0,
-      "quality": "standard",
-      "quality_score": 39,
+      "quality": "featured",
+      "quality_score": 69,
       "book": "The Adventures of Captain Hatteras",
       "total_refs": 0
     },
@@ -6721,6 +6721,28 @@
       "quality": "standard",
       "quality_score": 30,
       "book": "Twenty Thousand Leagues Under the Sea",
+      "total_refs": 0
+    },
+    "crockston": {
+      "type": "character",
+      "label": "Crockston",
+      "aliases": [],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "cr/crockston.md",
+      "description": "The fearless American sailor and faithful servant of Jenny Halliburtt, who schemes his way aboard the Dolphin and feigns imprisonment to rescue her captive father in The Blockade Runners.",
+      "prose_len": 2196,
+      "prose_chars": 2071,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "affiliation": "Sailor, the Dolphin",
+      "book": "The Blockade Runners",
       "total_refs": 0
     },
     "cyrus-harding": {
@@ -15368,7 +15390,7 @@
       "quality": "standard",
       "quality_score": 47,
       "book": "The Blockade Runners",
-      "total_refs": 1
+      "total_refs": 2
     },
     "james-starr": {
       "type": "character",
@@ -16413,7 +16435,7 @@
       "quality": "standard",
       "quality_score": 41,
       "book": "The Blockade Runners",
-      "total_refs": 0
+      "total_refs": 1
     },
     "jeorling": {
       "type": "character",
@@ -30970,7 +30992,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 49,
-      "total_refs": 10
+      "total_refs": 11
     },
     "the-chimneys": {
       "type": "place",
@@ -36341,6 +36363,8 @@
     "crete": "crete",
     "Crete": "crete",
     "Candia": "crete",
+    "crockston": "crockston",
+    "Crockston": "crockston",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -38590,6 +38614,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1670,
-  "generated": "2026-07-24T07:10:06Z"
+  "page_count": 1671,
+  "generated": "2026-07-24T07:17:13Z"
 }

@@ -2007,6 +2007,12 @@
       ],
       "path": "cr/crete.md"
     },
+    "crockston": {
+      "type": "character",
+      "label": "Crockston",
+      "aliases": [],
+      "path": "cr/crockston.md"
+    },
     "cyrus-harding": {
       "type": "character",
       "label": "Cyrus Harding",
@@ -11281,6 +11287,8 @@
     "crete": "crete",
     "Crete": "crete",
     "Candia": "crete",
+    "crockston": "crockston",
+    "Crockston": "crockston",
     "cyrus-harding": "cyrus-harding",
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
@@ -13530,6 +13538,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1670,
-  "generated": "2026-07-24T07:10:04Z"
+  "page_count": 1671,
+  "generated": "2026-07-24T07:17:12Z"
 }
