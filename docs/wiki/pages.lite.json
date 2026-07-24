@@ -4617,6 +4617,14 @@
       "aliases": [],
       "path": "ja/jacamar-wood.md"
     },
+    "jack-ryan": {
+      "type": "character",
+      "label": "Jack Ryan",
+      "aliases": [
+        "Ryan"
+      ],
+      "path": "ja/jack-ryan.md"
+    },
     "james-playfair": {
       "type": "character",
       "label": "James Playfair",
@@ -11946,6 +11954,9 @@
     "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
+    "jack-ryan": "jack-ryan",
+    "Jack Ryan": "jack-ryan",
+    "Ryan": "jack-ryan",
     "james-playfair": "james-playfair",
     "James Playfair": "james-playfair",
     "james-starr": "james-starr",
@@ -13538,6 +13549,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1671,
-  "generated": "2026-07-24T07:17:12Z"
+  "page_count": 1672,
+  "generated": "2026-07-24T07:26:36Z"
 }

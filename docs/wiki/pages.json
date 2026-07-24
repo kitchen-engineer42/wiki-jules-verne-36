@@ -15371,6 +15371,30 @@
       "book": "The Mysterious Island",
       "total_refs": 0
     },
+    "jack-ryan": {
+      "type": "character",
+      "label": "Jack Ryan",
+      "aliases": [
+        "Ryan"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "ja/jack-ryan.md",
+      "description": "The jovial, singing miner of the Aberfoyle pits, best friend of Harry Ford, whose cheerful courage and fondness for old goblin-lore light up the depths of New Aberfoyle in The Underground City.",
+      "prose_len": 2181,
+      "prose_chars": 2056,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 3,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 41,
+      "affiliation": "Miner, New Aberfoyle",
+      "book": "The Underground City",
+      "total_refs": 0
+    },
     "james-playfair": {
       "type": "character",
       "label": "James Playfair",
@@ -15414,7 +15438,7 @@
       "quality": "standard",
       "quality_score": 48,
       "book": "The Underground City",
-      "total_refs": 2
+      "total_refs": 3
     },
     "jangada": {
       "type": "technology",
@@ -21620,7 +21644,7 @@
       "quality": "standard",
       "quality_score": 45,
       "book": "The Underground City",
-      "total_refs": 0
+      "total_refs": 1
     },
     "nemo-death": {
       "type": "event",
@@ -31295,7 +31319,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 47,
-      "total_refs": 7
+      "total_refs": 8
     },
     "the-waif-of-the-cynthia": {
       "type": "work",
@@ -37022,6 +37046,9 @@
     "The Scarred Cheek": "ivan-ogareff",
     "jacamar-wood": "jacamar-wood",
     "Jacamar Wood": "jacamar-wood",
+    "jack-ryan": "jack-ryan",
+    "Jack Ryan": "jack-ryan",
+    "Ryan": "jack-ryan",
     "james-playfair": "james-playfair",
     "James Playfair": "james-playfair",
     "james-starr": "james-starr",
@@ -38614,6 +38641,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1671,
-  "generated": "2026-07-24T07:17:13Z"
+  "page_count": 1672,
+  "generated": "2026-07-24T07:26:38Z"
 }
