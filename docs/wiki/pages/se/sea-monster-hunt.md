@@ -2,7 +2,7 @@
 id: sea-monster-hunt
 type: event
 label: The Sea Monster Hunt
-aliases: [The Abraham Lincoln Expedition]
+aliases: [The Abraham Lincoln Expedition, 'Sea Monster Hunt']
 tags: [event, science-fiction, submarine]
 description: 'The frigate Abraham Lincoln sets out to hunt the mysterious sea monster that proves to be the Nautilus.'
 book: Twenty Thousand Leagues Under the Seas

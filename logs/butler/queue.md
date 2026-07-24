@@ -2,6 +2,20 @@
 
 ## P1 — 高优先级
 
+<!-- ═══ R2 LNK12 wikilink-integrity scan (2026-07-23, butler --auto): 全库 1669 页扫描，broken wikilink target 12（~28 链），empty wikilink 0。分类 add-alias(6)/merge(1)/discover(2)。修复法：变体串 slug 与规范页碰撞（j-t-maston/topsy-turvy 等已占用），故一律 add-alias（edit_page + --skip-prose-check，仅改 frontmatter aliases，append-only）。═══ -->
+- [x] R2✓ P1 fix-links | lunar-projectile | add alias "Lunar Projectile" → 解 11 红链（label 现「The Projectile」）
+- [x] R2✓ P1 fix-links | twenty-thousand-leagues | add alias "Twenty Thousand Leagues Under the Seas" → 解 8 红链（label「…Sea」无 s）
+- [x] R2✓ P1 fix-links | j-t-maston | add alias "J.T. Maston" → 解 3 红链（label「J. T. Maston」有空格）
+- [x] R2✓ P2 fix-links | topsy-turvy | add alias "Topsy Turvy" → 解 1 红链（label「Topsy-Turvy」连字符）
+- [x] R2✓ P2 fix-links | dick-kennedy | add alias "Kennedy" → 解 1 红链
+- [x] R2✓ P2 fix-links | sea-monster-hunt | add alias "Sea Monster Hunt" → 解 1 红链（label「The Sea Monster Hunt」）
+- [x] R2✓ P2 fix-links | stony-hill | add alias "Stone's Hill" → 解 1 红链（拼写变体）
+- [x] R2✓ P2 fix-links | dick-sand-a-captain-at-fifteen | add alias "Dick Sand, A Captain at Fifteen" → 解 1 红链（冒号 vs 逗号；同 memex-team 已知 book-name 变体）
+- [x] R2✓ P2 fix-links | journey-to-the-center-of-the-earth | add alias "Journey to the Centre of the Earth" → 解 1 红链（Centre/Center + A）
+- [ ] P2 merge | clawbonny + doctor-clawbonny | **重复页**：同角色两页（「Dr Clawbonny」vs「Doctor Clawbonny」）→ LNK15 dedup/merge，合并后加 alias「Dr. Clawbonny」
+- [ ] P3 discover | Sir Francis Cromarty | character | AWED，Fogg 惠斯特牌友/退役准将（未建，1 红链）
+- [ ] P3 discover | Russian America | place | 核 vs alaska 是否 alias（1 红链）
+
 <!-- ═══ place 候选（R28 CLOSE+SCN28 technology 关闭后为 place 首轮 discover 补种）═══ -->
 <!-- 既有 15 页 place（Pilot 建，Phase 9-C @86943ff）：baltimore/granite-house/great-eyrie/hong-kong/iceland/liedenbrock-sea/lincoln-island/mount-franklin/north-pole/reform-club/sargasso-sea/snaefellsjokull/stromboli/tampa-town/the-moon -->
 <!-- R28 SCN28 首扫命名重要地点（distinctPN≥3，已排除上列 15 既有 Pilot 页——含误列的 Lincoln Island/Granite House/Sneffels=snaefellsjokull，均既有，不重建）：-->

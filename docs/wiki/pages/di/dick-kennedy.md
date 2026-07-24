@@ -2,7 +2,7 @@
 id: dick-kennedy
 type: character
 label: Dick Kennedy
-aliases: []
+aliases: ['Kennedy']
 tags: [character, adventure, exploration, ballooning]
 description: "A Scottish sportsman and Samuel Ferguson's devoted friend, who reluctantly joins the balloon crossing of Africa as the expedition's crack marksman."
 book: 'Five Weeks in a Balloon'

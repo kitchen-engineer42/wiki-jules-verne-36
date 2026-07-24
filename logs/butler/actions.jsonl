@@ -1,1 +1,2 @@
 {"round": 1, "action": "BOOT-readstate", "page": "", "result": "accept", "desc": "Phase 8-G 首次试跑：Step 1 读状态无报错，配置/队列/chapter-map 全部可读", "ts": "2026-07-14T04:29:30Z"}
+{"round": 2, "action": "LNK12-wikilink-integrity", "page": "9-pages", "result": "accept", "desc": "全库红链扫描：12 broken target → 9 add-alias 修复（25/28 链解析），余 3 deferred（Clawbonny 重复页 merge + Cromarty/Russian America discover）", "ts": "2026-07-24T07:02:23Z", "reflect": "add-alias 时含撇号的值须双引号（'Stone's Hill' 破 YAML→改 \"Stone's Hill\"）；label-变体红链是长尾成因（工作码/标点/前缀 The）"}

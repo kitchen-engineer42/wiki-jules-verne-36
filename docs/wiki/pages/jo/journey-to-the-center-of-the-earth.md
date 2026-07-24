@@ -2,7 +2,7 @@
 id: journey-to-the-center-of-the-earth
 type: work
 label: A Journey to the Center of the Earth
-aliases: ['Journey to the Center of the Earth', 'A Journey to the Centre of the Earth']
+aliases: ['Journey to the Center of the Earth', 'A Journey to the Centre of the Earth', 'Journey to the Centre of the Earth']
 tags: [work, science-fiction, subterranean]
 description: 'A Jules Verne novel in which Professor Liedenbrock descends an Icelandic volcano toward the center of the earth.'
 vvv: JCE

@@ -2,7 +2,7 @@
 id: twenty-thousand-leagues
 type: work
 label: Twenty Thousand Leagues Under the Sea
-aliases: ['20,000 Leagues Under the Sea']
+aliases: ['20,000 Leagues Under the Sea', 'Twenty Thousand Leagues Under the Seas']
 tags: [work, science-fiction, submarine]
 description: 'A Jules Verne novel following Professor Aronnax aboard Captain Nemo''s submarine Nautilus.'
 vvv: TTLU

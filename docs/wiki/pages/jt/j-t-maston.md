@@ -2,7 +2,7 @@
 id: j-t-maston
 type: character
 label: J. T. Maston
-aliases: []
+aliases: ['J.T. Maston']
 tags: [character, science-fiction, invention]
 description: "The Gun Club's zealous perpetual secretary, a maimed artilleryman with a steel-hook hand and gutta-percha skull, whose devotion to Barbicane and love of ordnance drive the moon-shot enterprise."
 book: From the Earth to the Moon

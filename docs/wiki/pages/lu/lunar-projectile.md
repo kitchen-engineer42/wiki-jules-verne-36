@@ -2,7 +2,7 @@
 id: lunar-projectile
 type: technology
 label: The Projectile
-aliases: [aluminium projectile]
+aliases: [aluminium projectile, Lunar Projectile]
 tags: [technology, space-travel, aluminium, vehicle, 1860s]
 description: 'The hollow aluminium projectile-car in which three travellers are fired to the Moon by the Columbiad in From the Earth to the Moon and Round the Moon.'
 book: Round the Moon

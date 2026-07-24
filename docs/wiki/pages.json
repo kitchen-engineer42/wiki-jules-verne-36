@@ -6963,7 +6963,9 @@
     "dick-kennedy": {
       "type": "character",
       "label": "Dick Kennedy",
-      "aliases": [],
+      "aliases": [
+        "Kennedy"
+      ],
       "tags": [
         "character",
         "adventure",
@@ -6981,13 +6983,14 @@
       "quality": "standard",
       "quality_score": 40,
       "book": "Five Weeks in a Balloon",
-      "total_refs": 2
+      "total_refs": 3
     },
     "dick-sand-a-captain-at-fifteen": {
       "type": "work",
       "label": "Dick Sand: A Captain at Fifteen",
       "aliases": [
-        "A Captain at Fifteen"
+        "A Captain at Fifteen",
+        "Dick Sand, A Captain at Fifteen"
       ],
       "tags": [
         "work",
@@ -16583,7 +16586,8 @@
       "label": "A Journey to the Center of the Earth",
       "aliases": [
         "Journey to the Center of the Earth",
-        "A Journey to the Centre of the Earth"
+        "A Journey to the Centre of the Earth",
+        "Journey to the Centre of the Earth"
       ],
       "tags": [
         "work",
@@ -16600,12 +16604,14 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 38,
-      "total_refs": 22
+      "total_refs": 23
     },
     "j-t-maston": {
       "type": "character",
       "label": "J. T. Maston",
-      "aliases": [],
+      "aliases": [
+        "J.T. Maston"
+      ],
       "tags": [
         "character",
         "science-fiction",
@@ -16623,7 +16629,7 @@
       "quality_score": 44,
       "affiliation": "Gun Club",
       "book": "From the Earth to the Moon",
-      "total_refs": 2
+      "total_refs": 5
     },
     "judge-jarriquez": {
       "type": "character",
@@ -17837,7 +17843,8 @@
       "type": "technology",
       "label": "The Projectile",
       "aliases": [
-        "aluminium projectile"
+        "aluminium projectile",
+        "Lunar Projectile"
       ],
       "tags": [
         "technology",
@@ -17857,7 +17864,7 @@
       "quality": "featured",
       "quality_score": 73,
       "book": "Round the Moon",
-      "total_refs": 2
+      "total_refs": 13
     },
     "lyons": {
       "type": "place",
@@ -29032,7 +29039,8 @@
       "type": "event",
       "label": "The Sea Monster Hunt",
       "aliases": [
-        "The Abraham Lincoln Expedition"
+        "The Abraham Lincoln Expedition",
+        "Sea Monster Hunt"
       ],
       "tags": [
         "event",
@@ -29050,7 +29058,7 @@
       "quality": "standard",
       "quality_score": 39,
       "book": "Twenty Thousand Leagues Under the Seas",
-      "total_refs": 0
+      "total_refs": 1
     },
     "sea-of-clouds": {
       "type": "place",
@@ -30220,7 +30228,9 @@
     "stony-hill": {
       "type": "place",
       "label": "Stony Hill",
-      "aliases": [],
+      "aliases": [
+        "Stone's Hill"
+      ],
       "tags": [
         "place",
         "florida",
@@ -30237,7 +30247,7 @@
       "quality": "standard",
       "quality_score": 48,
       "book": "From the Earth to the Moon",
-      "total_refs": 1
+      "total_refs": 2
     },
     "strait-of-gibraltar": {
       "type": "place",
@@ -31997,7 +32007,8 @@
       "label": "Topsy-Turvy",
       "aliases": [
         "Sans dessus dessous",
-        "The Purchase of the North Pole"
+        "The Purchase of the North Pole",
+        "Topsy Turvy"
       ],
       "tags": [
         "work",
@@ -32016,7 +32027,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 5
+      "total_refs": 6
     },
     "torres-strait": {
       "type": "place",
@@ -33588,7 +33599,8 @@
       "type": "work",
       "label": "Twenty Thousand Leagues Under the Sea",
       "aliases": [
-        "20,000 Leagues Under the Sea"
+        "20,000 Leagues Under the Sea",
+        "Twenty Thousand Leagues Under the Seas"
       ],
       "tags": [
         "work",
@@ -33605,7 +33617,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 44,
-      "total_refs": 35
+      "total_refs": 38
     },
     "twofold-bay": {
       "type": "place",
@@ -36337,9 +36349,11 @@
     "Detroit River": "detroit-river",
     "dick-kennedy": "dick-kennedy",
     "Dick Kennedy": "dick-kennedy",
+    "Kennedy": "dick-kennedy",
     "dick-sand-a-captain-at-fifteen": "dick-sand-a-captain-at-fifteen",
     "Dick Sand: A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
+    "Dick Sand, A Captain at Fifteen": "dick-sand-a-captain-at-fifteen",
     "dick-sand": "dick-sand",
     "Dick Sand": "dick-sand",
     "Richard Sand": "dick-sand",
@@ -37048,8 +37062,10 @@
     "A Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "Journey to the Center of the Earth": "journey-to-the-center-of-the-earth",
     "A Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
+    "Journey to the Centre of the Earth": "journey-to-the-center-of-the-earth",
     "j-t-maston": "j-t-maston",
     "J. T. Maston": "j-t-maston",
+    "J.T. Maston": "j-t-maston",
     "judge-jarriquez": "judge-jarriquez",
     "Judge Jarriquez": "judge-jarriquez",
     "Jarriquez": "judge-jarriquez",
@@ -37184,6 +37200,7 @@
     "lunar-projectile": "lunar-projectile",
     "The Projectile": "lunar-projectile",
     "aluminium projectile": "lunar-projectile",
+    "Lunar Projectile": "lunar-projectile",
     "lyons": "lyons",
     "Lyons": "lyons",
     "Lyon": "lyons",
@@ -37999,6 +38016,7 @@
     "sea-monster-hunt": "sea-monster-hunt",
     "The Sea Monster Hunt": "sea-monster-hunt",
     "The Abraham Lincoln Expedition": "sea-monster-hunt",
+    "Sea Monster Hunt": "sea-monster-hunt",
     "sea-of-clouds": "sea-of-clouds",
     "Sea of Clouds": "sea-of-clouds",
     "Mare Nubium": "sea-of-clouds",
@@ -38102,6 +38120,7 @@
     "Stockholm": "stockholm",
     "stony-hill": "stony-hill",
     "Stony Hill": "stony-hill",
+    "Stone's Hill": "stony-hill",
     "strait-of-gibraltar": "strait-of-gibraltar",
     "Strait of Gibraltar": "strait-of-gibraltar",
     "Straits of Gibraltar": "strait-of-gibraltar",
@@ -38288,6 +38307,7 @@
     "Topsy-Turvy": "topsy-turvy",
     "Sans dessus dessous": "topsy-turvy",
     "The Purchase of the North Pole": "topsy-turvy",
+    "Topsy Turvy": "topsy-turvy",
     "torres-strait": "torres-strait",
     "Torres Strait": "torres-strait",
     "torres": "torres",
@@ -38380,6 +38400,7 @@
     "twenty-thousand-leagues": "twenty-thousand-leagues",
     "Twenty Thousand Leagues Under the Sea": "twenty-thousand-leagues",
     "20,000 Leagues Under the Sea": "twenty-thousand-leagues",
+    "Twenty Thousand Leagues Under the Seas": "twenty-thousand-leagues",
     "twofold-bay": "twofold-bay",
     "Twofold Bay": "twofold-bay",
     "UC-ch01": "UC-ch01",
@@ -38543,5 +38564,5 @@
     "Zinca Klork": "zinca-klork"
   },
   "page_count": 1669,
-  "generated": "2026-07-23T09:12:54Z"
+  "generated": "2026-07-24T06:59:40Z"
 }

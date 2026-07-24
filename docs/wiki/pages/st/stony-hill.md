@@ -2,7 +2,7 @@
 id: stony-hill
 type: place
 label: Stony Hill
-aliases: []
+aliases: ["Stone's Hill"]
 tags:
   - place
   - florida

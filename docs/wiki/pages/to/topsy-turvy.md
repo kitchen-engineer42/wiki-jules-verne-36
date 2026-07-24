@@ -2,7 +2,7 @@
 id: topsy-turvy
 type: work
 label: Topsy-Turvy
-aliases: ['Sans dessus dessous', 'The Purchase of the North Pole']
+aliases: ['Sans dessus dessous', 'The Purchase of the North Pole', 'Topsy Turvy']
 tags: [work, science-fiction, satire, astronomy, invention]
 description: 'A Jules Verne novel in which the Gun Club buys the Arctic and schemes to tilt the Earth''s axis with a giant cannon to mine the coal beneath the polar ice.'
 vvv: TT
