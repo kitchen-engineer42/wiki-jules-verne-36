@@ -6767,6 +6767,30 @@
       "book": "A Drama in the Air",
       "total_refs": 1
     },
+    "dame-hansen": {
+      "type": "character",
+      "label": "Dame Hansen",
+      "aliases": [
+        "Dame Hanson"
+      ],
+      "tags": [
+        "character",
+        "adventure"
+      ],
+      "path": "da/dame-hansen.md",
+      "description": "The widowed innkeeper of Dal and mother of Hulda and Joel, whose secret debt to the usurer Sandgoist drives her to pawn the lottery ticket in Ticket No. 9672.",
+      "prose_len": 2274,
+      "prose_chars": 2145,
+      "h2_count": 5,
+      "pn_count": 16,
+      "wikilink_count": 4,
+      "blockquote_count": 0,
+      "quality": "standard",
+      "quality_score": 42,
+      "affiliation": "Innkeeper, Dal",
+      "book": "Ticket No. 9672",
+      "total_refs": 0
+    },
     "date-line-revelation": {
       "type": "event",
       "label": "The Gained Day",
@@ -14771,7 +14795,7 @@
       "quality": "standard",
       "quality_score": 42,
       "book": "Ticket No. 9672",
-      "total_refs": 3
+      "total_refs": 4
     },
     "hurliguerly": {
       "type": "character",
@@ -16484,7 +16508,7 @@
       "quality_score": 42,
       "affiliation": "Telemark guide",
       "book": "Ticket No. 9672",
-      "total_refs": 0
+      "total_refs": 1
     },
     "john-mangles": {
       "type": "character",
@@ -30526,7 +30550,7 @@
       "quality_score": 42,
       "affiliation": "Storthing, Norway",
       "book": "Ticket No. 9672",
-      "total_refs": 1
+      "total_refs": 2
     },
     "tabatinga": {
       "type": "place",
@@ -31370,7 +31394,7 @@
       "blockquote_count": 0,
       "quality": "standard",
       "quality_score": 42,
-      "total_refs": 14
+      "total_refs": 15
     },
     "tiflis": {
       "type": "place",
@@ -36321,6 +36345,9 @@
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
     "DA": "DA",
+    "dame-hansen": "dame-hansen",
+    "Dame Hansen": "dame-hansen",
+    "Dame Hanson": "dame-hansen",
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
@@ -38563,6 +38590,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1669,
-  "generated": "2026-07-24T06:59:40Z"
+  "page_count": 1670,
+  "generated": "2026-07-24T07:10:06Z"
 }

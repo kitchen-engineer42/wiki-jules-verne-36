@@ -2021,6 +2021,14 @@
       "aliases": [],
       "path": "da/DA.md"
     },
+    "dame-hansen": {
+      "type": "character",
+      "label": "Dame Hansen",
+      "aliases": [
+        "Dame Hanson"
+      ],
+      "path": "da/dame-hansen.md"
+    },
     "date-line-revelation": {
       "type": "event",
       "label": "The Gained Day",
@@ -11277,6 +11285,9 @@
     "Cyrus Harding": "cyrus-harding",
     "Cyrus Smith": "cyrus-harding",
     "DA": "DA",
+    "dame-hansen": "dame-hansen",
+    "Dame Hansen": "dame-hansen",
+    "Dame Hanson": "dame-hansen",
     "date-line-revelation": "date-line-revelation",
     "The Gained Day": "date-line-revelation",
     "The Date-Line Revelation": "date-line-revelation",
@@ -13519,6 +13530,6 @@
     "zinca-klork": "zinca-klork",
     "Zinca Klork": "zinca-klork"
   },
-  "page_count": 1669,
-  "generated": "2026-07-24T06:59:40Z"
+  "page_count": 1670,
+  "generated": "2026-07-24T07:10:04Z"
 }
